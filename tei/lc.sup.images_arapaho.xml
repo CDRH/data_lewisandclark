@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.lc.images_arapaho">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">Texts</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2005</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic
+        Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>cdrh@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term/>
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2005-11-18</date>
+            <name>Becky Potter</name>Initial creation</change>
+         <change>
+            <date>2016-04-12</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="main">Arapaho</head>
+         <div type="additional">
+            <p>When the Corps of Discovery made its way to the Pacific Ocean, the Arapahos lived
+        between the Yellowstone and Platte rivers, moving across a large region of what is today
+        northern Wyoming and southern Montana. Former planters of corn, the Arapahos by the
+        nineteenth century led a more nomadic way of life, being accomplished horse riders,
+        hunting buffalo, and living in portable tepees much like the later ones pictured here.
+        They were allied with (and related in language and culture to) the Cheyennes, who are
+        shown here living with Southern Arapahos on the Washita River in Oklahoma. External
+        pressures from settlers, miners, and soldiers helped to divide the Arapahos in the years
+        after the Corps of Discovery: the northern Arapahos were resettled to the Wind River
+        Reservation in Wyoming while the Southern Arapahos, after fighting, were moved southward
+        to the Cheyenne-Arapaho Reservation in western Oklahoma. Both communities survived decades
+        of federal government neglect, poverty, sickness, and threats to their traditional way of
+        life, and today are dedicated to preserving and revitalizing their language and
+        culture.</p>
+            <lb/>
+            <lb/>
+            <table rows="1" cols="5">
+               <row role="data">
+                  <cell role="desc" rows="1" cols="1">
+                     <figure>
+                        <p>Arapaho camp, ca. 1870</p>
+                     </figure>
+                  </cell>
+                  <cell role="data" rows="1" cols="1"/>
+                  <cell role="data" rows="1" cols="1"/>
+                  <cell role="data" rows="1" cols="1"/>
+                  <cell role="desc" rows="1" cols="1">
+                     <figure>
+                        <p>Arapaho camp, 1868</p>
+                     </figure>
+                  </cell>
+               </row>
+            </table>
+            <table rows="1" cols="1">
+               <row role="data">
+                  <cell role="desc" rows="1" cols="1">
+                     <figure>
+                        <p>Cheyennes and Arapahos
+                <lb/>at Seger Colony, 1886</p>
+                     </figure>
+                  </cell>
+               </row>
+            </table>
+         </div>
+      </body>
+   </text>
+</TEI>

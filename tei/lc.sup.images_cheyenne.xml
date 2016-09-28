@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.lc.images_cheyenne">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">Texts</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2005</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic
+        Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>cdrh@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term/>
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2005-11-18</date>
+            <name>Becky Potter</name>Initial creation</change>
+         <change>
+            <date>2016-04-12</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="main">Cheyenne</head>
+         <div type="additional">
+            <p>Like some other Native peoples of the Plains, the Cheyennes abandoned farming as a way
+        of life when they moved from the Great Lakes region to the Plains. By the time of the
+        Corps of Discovery, the Cheyennes were mobile horse riders and noted fighters, allied with
+        the Arapahos and living in the region around the headwaters of the Platte River in Wyoming
+        and western Nebraska. Their lives, like the Arapahos, centered on the buffalo. Even
+        decades later, as seen in this picture, the Cheyennes preferred to hunt buffalo and live
+        in portable tepee lodges. As with the Arapahos, the Cheyennes split into northern and
+        southern divisions in the decades immediately following the Corps of Discovery. The
+        Northern Cheyenne, after fighting victoriously with the Lakotas against Custer at the
+        Little Bighorn in 1876, were placed on the Northern Cheyenne Reservation in Montana, while
+        the Southern Cheyenne were eventually resettled on the Cheyenne-Arapaho Reservation in
+        western Oklahoma. Today both divisions of the Cheyennes are creatively developing economic
+        solutions to decades-old impoverishment on their reservations and taking steps to ensure
+        the vitality of their language and culture. 
+        <lb/>
+               <lb/>
+               <table rows="1" cols="5">
+                  <row role="data">
+                     <cell role="desc" rows="1" cols="1">
+                        <figure>
+                           <p>Cheyenne lodges with buffalo 
+                <lb/>meat drying, 1870</p>
+                        </figure>
+                     </cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="desc" rows="1" cols="1">
+                        <figure>
+                           <p>Cheyennes and Arapahos
+                <lb/>at Seger Colony, 1886</p>
+                        </figure>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

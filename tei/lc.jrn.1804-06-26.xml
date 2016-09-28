@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1804-06-26">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">June 26, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic
+        Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>cdrh@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">323-325</biblScope>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">17, 383</biblScope>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23,
+            1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">17</biblScope>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2,
+            1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">31</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS">
+            <placeName/>
+            <geo>39.1163 -94.6115</geo>
+            <note>At the junction of the Missouri and Kansas rivers in Wyandotte County, KS. They stayed here until 1804-06-29</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-01-16</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-04-12</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date>June 26, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.1804-06-26.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday June 26th</hi>   We Set out early    wind
+          from the S. W.    on the Course of last night</p>
+               <p>
+                  <table rows="8" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 62° W</cell>
+                        <cell role="data" rows="1" cols="1">  ½</cell>
+                        <cell role="data" rows="1" cols="1">me. on S. S.    an Island on the L:
+                Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 80° W</cell>
+                        <cell role="data" rows="1" cols="1">  ½</cell>
+                        <cell role="data" rows="1" cols="1">me. S. S, passed the mouth of a Small river
+                called 
+                <name type="place" key="Big Blue (Blue Water) River (Mo.)">Blue
+                <lb/>Water river</name>(in french 
+                <hi rend="italic">
+                              <name type="place" key="Big Blue (Blue Water) River (Mo.)">R. La
+                Bl</name>éue</hi>)    this River heads with
+                <lb/>the 
+                <name type="place" key="Lamine (Mine) River">Mine river</name>in a divideing ridge
+                between the 
+                <name type="place" key="Kansas (Decaugh, Kaw) River">Kancis</name>&amp;
+                <lb/>
+                           <name type="place" key="Osage (Osarge) River">Osage Rivers</name>
+                           <ref target="n04062601" n="1"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 87° W,</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">me. S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 85° W</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">Ms. to point on the L. Side    Mdn.
+                altd. 
+                <hi rend="italic">38° 32' 15" N.</hi>   high
+                <lb/>land on S. S. abt. 90 foot high jutting over the riv[er]</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 80 W.</cell>
+                        <cell role="data" rows="1" cols="1">  ½</cell>
+                        <cell role="data" rows="1" cols="1">me. L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 37° W</cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to pt. S. S.    psd. a large
+                Danjerous Counter-Current on
+                <lb/>the S. S. above Some rocks    a Small willow Isd. in the bend
+                <lb/>to the L. S.    Killed a large rattle Snake    emence
+                number of
+                <lb/>Parrot-quetes</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 58° W</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">me. alg S. S.    our Party on shor
+                cam in    Killed 7 Deer, &amp; 3
+                <lb/>from the boat</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 54 W.</cell>
+                        <cell role="data" rows="1" cols="1">  ½</cell>
+                        <cell role="data" rows="1" cols="1">me to a pt L. S at mouth of the 
+                <name type="place" key="Kansas (Decaugh, Kaw) River">Kansas
+                River</name>   Camped</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1804-06-26.02">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">June 26th Tuesday</hi>1804    we Set out early, the river
+          falling a little, the wind from the S. W.    Passed the mouth of a Small river
+          on the L. Side above the upper point of a Small Island, Called 
+          <name type="place" key="Big Blue (Blue Water) River (Mo.)">Blue water river</name>, this
+          river heads in Praries back with the 
+          <name type="place" key="Lamine (Mine) River">Mine River</name>about 30 yds. wide
+             Lattitude of a pt. 4 ms. above this river is 
+          <hi rend="italic">38° 32' 15"</hi>North, the high lands which is on the Northe Side does
+          not exceed 80 feet high, at this Place the river appears to be Confd. in a verry narrow
+          Channel, and the Current Still more So by Couenter Current or Whirl on one Side &amp;
+          high bank on the other, passed a Small Isd. in the bend to the L. Side    we
+          Killed a large rattle Snake, Sunning himself in the bank    passed a bad Sand
+          bar, where our tow rope broke twice, &amp; with great exertions we rowed round it and
+          Came to &amp; Camped in the Point above 
+          <name type="place" key="Kansas (Decaugh, Kaw) River">the 
+          <hi rend="italic">Kansas</hi>
+                  </name>[
+          <hi rend="italic">WC: zás</hi>] 
+          <hi rend="italic">River</hi>
+                  <ref target="n04062602" n="2"/>   I observed a great number of 
+          <hi rend="italic">Parrot queets</hi>
+                  <ref target="n04062603" n="3"/>this evening, our Party Killed Several 7 Deer to day</p>
+               <p>
+                  <table rows="9" cols="3">
+                     <head>
+                        <hi rend="italic">Course &amp; Distance</hi>June 26th</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 62° W.</cell>
+                        <cell role="data" rows="1" cols="1">  ½</cell>
+                        <cell role="data" rows="1" cols="1">me. on the S. S. Isd. on L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">  ½</cell>
+                        <cell role="data" rows="1" cols="1">me. on the S. S.    psd. 
+                <name type="place" key="Big Blue (Blue Water) River (Mo.)">Blue Water
+                R</name>   L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 87° W.</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">me. on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 85° W.</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. on the L. S. mdle [abt?]</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">  ½</cell>
+                        <cell role="data" rows="1" cols="1">me. on L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 37° W.</cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                        <cell role="data" rows="1" cols="1">mes. to a pt. on S. S.    psd Ltt.
+                Crt.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 58° W.</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">me. on S. S.    psd. a bad
+                place</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 78° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  ¾</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">me. to the upr. pt. of 
+                <name type="place" key="Kansas (Decaugh, Kaw) River">Kansas R</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">9 ¾</cell>
+                        <cell role="data" rows="1" cols="1">= 366 &amp; 〈¾〉 ms. to mouth of 
+                <name type="place" key="Missouri River">Missouris</name>
+                           <ref target="n04062604" n="4"/>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1804-06-26.03">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">(Point of observation No. 13.)
+                <lb/>Tuesday June 26th</hi>
+                     <ref target="n04062605" n="5"/>
+                  </date>
+               </ab>
+               <p>On the Larboard shore about four mes. above the mouth of the 
+          <name type="place" key="Big Blue (Blue Water) River (Mo.)">
+                     <hi rend="italic">blue water</hi>river</name>.—</p>
+               <p>Observed meridian altd. of 
+          <seg n="u9737">☉</seg>'s L. L. with octant by the back observt.    36° 10'
+          —"</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1804-06-26.04">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday June</hi>26th 1804.    we Set out eairly proceeded
+          on    passed an Island on the South Side    back of this Island a
+          large Creek Comes in called 
+          <name type="place" key="Big Blue (Blue Water) River (Mo.)">Blue water Creek</name>.
+             hills &amp; high land along the River, Swift water this afternoon
+             the Rope Broak &amp; the Boat Swong But Took no Injury.    at
+          Sunset we arrived at the 
+          <name type="place" key="Kansas (Decaugh, Kaw) River">Kanses River</name>, our flanking
+          party joined us.    we camped on the fork between the Two Rivers.   
+          on South Side of the 
+          <name type="place" key="Missouri River">Missouris</name>, Several nations of Indians up
+          this River,</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1804-06-26.05">
+            <sp who="cf">
+               <speaker>Floyd</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>[
+          <hi rend="italic">X: Tuesday June 26th    we set out early   
+          proceeded on    passed a Island on the South Side, back of this Island a large
+          Creek coms in call'd 
+          <name type="place" key="Big Blue (Blue Water) River (Mo.)">Blue Water Creek</name>
+                  </hi>(
+          <name type="place" key="Big Blue (Blue Water) River (Mo.)">
+                     <hi rend="italic">River Le Bléue</hi>
+                  </name>)    
+          <hi rend="italic">The Hills or High lands on the River which we passed last evening
+          &amp; this morning on L. S. is higher than usial from 160, to 180 feet</hi>.]
+             Encampt at the mouth of the 
+          <name type="place" key="Kansas (Decaugh, Kaw) River">Kansas River</name>in the pint
+             it comes in 〈oppeset〉 on the Southe Side</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1804-06-26.06">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 26th.</hi>   We embarked and set out at five o'clock
+          in the morning; passed a creek on the south side, called 
+          <name type="place" key="Big Blue (Blue Water) River (Mo.)">Blue-Water</name>. This
+          afternoon we had some difficulty in passing a sandbar, the tow-rope having broke; but by
+          the exertions of those on board, the boat was brought to shore without injury. We
+          encamped on the south side on a point at the confluence of the 
+          <name type="place" key="Kansas (Decaugh, Kaw) River">Canzan</name>, or 
+          <name type="place" key="Kansas (Decaugh, Kaw) River">Kanzas river</name>with the 
+          <name type="place" key="Missouri River">Missouri</name>. It was agreed to remain here
+          during the 27th and 28th where we pitched our tents and built bowers in front of them. 
+          <name type="place" key="Kansas (Decaugh, Kaw) River">Canzan</name>or 
+          <name type="place" key="Kansas (Decaugh, Kaw) River">Kanzas</name>, is 230 yards and a
+          quarter wide, and navigable to a great distance. Our hunters killed 4 deer, and a young
+          wolf,
+          <ref target="n04062606" n="6"/>and caught another alive. In the afternoon of the 29th
+          we again proceeded on our voyage, and encamped
+          <ref target="n04062607" n="7"/>on the north side of the river.</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1804-06-26.07">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>Tusday 26th    the morning was Clear    the water was Strong at
+          the head of the Island we Campd on    Got to the E.Shore, and towed Our boat
+          by Cutting 〈our〉 the timber of the Banks    the day Got mighty hot
+             Saw 3 deer Swiming Down the River    the white peerogue took
+          after them    Killd. the three    One of whom Sunk as Soon it Got
+          Shot in the head    Got the Other two    Brought them Up to the
+          Barge—    
+          <name type="person" key="Drouillard, George">G Druery</name>Killd 8 deer that day 〈Roed〉
+          took them on board 2miles before we Reachd the R
+          <name type="place" key="Kansas (Decaugh, Kaw) River">iver deCaugh</name>
+                  <ref target="n04062608" n="8"/>at Sun Set    Roed 10 Miles—</p>
+               <p>Tuesday June 26th    This morning being fine weather we embark'd early, and
+          found the water running very strong at the head of the Island that we encamped on, we
+          crossed the River to the North side, where we were oblig'd to Tow our boat the water
+          running so strong against us, this was attended with a great deal of labour, being
+          forced to cut the Timber off the bank in order to pass along it with the Tow rope, The
+          day proving extreamly warm which still added to our fataigue; we saw three deer swimming
+          down the River; The Men in the Pettyauger went after them, they killed them all; but one
+          that was shot through the head, sunk, they then returned with the other two,</p>
+               <p>We proceeded on our Voyage about 2 Miles when 
+          <name type="person" key="Drouillard, George">George Drewer</name>one of our hunters came
+          to the River having killed 8 deer &amp; brought them with him, we then took him on
+          board, and proceeded on and encamped at the 
+          <name type="place" key="Kansas (Decaugh, Kaw) River">River decaugh</name>at sunset,
+          having towed the Boat 10 Miles.—</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n04062601" n="1">The 
+        <name type="place" key="Big Blue (Blue Water) River (Mo.)">Big Blue, or Blue,
+        River</name>enters the 
+        <name type="place" key="Missouri River">Missouri</name>at 
+        <name type="place" key="Kansas City, Mo.">Kansas City</name>, 
+        <name type="place" key="Jackson County, Mo.">Jackson County</name>, 
+        <name type="place" key="Missouri">Missouri</name>. It heads in eastern 
+        <name type="place" key="Kansas">Kansas</name>, between the 
+        <name type="place" key="Kansas (Decaugh, Kaw) River">Kansas River</name>and the 
+        <name type="place" key="Marais des Cygnes River">Marais des Cygnes River</name>, a major
+        tributary of the 
+        <name type="place" key="Osage (Osarge) River">Osage</name>, a great distance from the 
+        <name type="place" key="Lamine (Mine) River">Lamine River</name>. It should not be
+        confused with the better-known 
+        <name type="place" key="Big Blue (Blue Water) River (Mo.)">Big Blue River</name>, which
+        rises in 
+        <name type="place" key="Hamilton County, Nebr.">Hamilton County</name>, 
+        <name type="place" key="Nebraska">Nebraska</name>, the enters the 
+        <name type="place" key="Kansas (Decaugh, Kaw) River">Kansas River</name>at 
+        <name type="place" key="Manhattan, Kans.">Manhattan</name>, 
+        <name type="place" key="Kansas">Kansas</name>. MRC map 14.</note>
+            <note xml:id="n04062602" n="2">This camp just above the mouth of the 
+        <name type="place" key="Kansas (Decaugh, Kaw) River">Kansas</name>, or 
+        <name type="place" key="Kansas (Decaugh, Kaw) River">Kaw</name>, River, would be in
+        present 
+        <name type="place" key="Kansas City, Kans.">Kansas City</name>, 
+        <name type="place" key="Wyandotte County, Kans.">Wyandotte County</name>, 
+        <name type="place" key="Kansas">Kansas</name>. It was the first camp of the expedition in
+        that state, assuming no major changes in the mouth of the river. 
+        <name type="person" key="Clark, William">Clark</name>apparently interlined a correction
+        for the second syllable of "Kansas." He may have intended it as a guide to pronunciation
+        rather than an amended spelling. Ibid.</note>
+            <note xml:id="n04062603" n="3">The Carolina parakeet, or parroquet, 
+        <hi rend="italic">Conuropsis carolinensis</hi>[AOU, 382), which is now extinct. This is
+        apparently the first reference to the species west of the 
+        <name type="place" key="Mississippi River">Mississippi</name>. Cutright (LCPN), 58.</note>
+            <note xml:id="n04062604" n="4">According to MRC map 14, made about 1892, the mouth of the 
+        <name type="place" key="Kansas (Decaugh, Kaw) River">Kansas</name>was just over 390 miles
+        above the mouth of the 
+        <name type="place" key="Missouri River">Missouri</name>. Changes in the course of the 
+        <name type="place" key="Missouri River">Missouri River</name>and the captains' tendency to
+        underestimate river mileage account for the discrepancy.</note>
+            <note xml:id="n04062605" n="5">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name>observation from Codex O.</note>
+            <note xml:id="n04062606" n="6">Presumably a gray wolf, 
+        <hi rend="italic">Canis lupus,</hi>killed on 
+        <ref n="1804-06-28" type="related">June 28</ref>, according to 
+        <name type="person" key="Ordway, John">Ordway</name>and 
+        <name type="person" key="Whitehouse, Joseph">Whitehouse</name>.</note>
+            <note xml:id="n04062607" n="7">The camp of 
+        <ref n="1804-06-29" type="related">June 29</ref>was in the vicinity of 
+        <name type="place" key="Riverside, Mo.">Riverside</name>, 
+        <name type="place" key="Platte County, Mo.">Platte County</name>, 
+        <name type="place" key="Missouri">Missouri</name>.</note>
+            <note xml:id="n04062608" n="8">Perhaps meaning Kaw, for the 
+        <name type="place" key="Kansas (Decaugh, Kaw) River">Kansas River</name>; the camp was in
+        present 
+        <name type="place" key="Kansas City, Kans.">Kansas City</name>, 
+        <name type="place" key="Wyandotte County, Kans.">Wyandotte County</name>, 
+        <name type="place" key="Kansas">Kansas</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-06-25" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-06-27" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

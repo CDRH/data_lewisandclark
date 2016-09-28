@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1803-09-18">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">September 18, 1803</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic
+        Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>cdrh@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">84-85</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS">
+            <placeName/>
+            <geo>38.895 -81.933</geo>
+            <note>Letart Falls, Ohio River between WV and OH</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2003-12-10</date>
+            <date/>
+            <name>Laura Weakly</name>
+            <name/>Initial creation Transcribed</change>
+         <change>
+            <date>2016-04-12</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date>September 18, 1803</date>
+         </head>
+         <div type="entry" xml:id="lc.1803-09-18.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>18th September</date>
+               </ab>
+               <p>The morning was clear and having had every thing in readiness the over night we set
+          out before sunrise and at nine in the morning passed 
+          <name type="place" key="Letart's Falls">Letart's falls</name>;
+          <ref target="n02091801" n="1"/>this being nine miles distant from our encampment of the
+          last evening—    this rappid is the most considerable in the whole course of
+          the 
+          <name type="place" key="Ohio River">Ohio</name>, except the rappids as they ar called
+          opposite to 
+          <name type="place" key="Louisville, Ky.">Louisville</name>in 
+          <name type="place" key="Kentucky">Kentuckey</name>—    the descent at 
+          <name type="place" key="Letart's Falls">Letart's falls</name>is a little more than 4
+          four feet in two hundred fifty yards.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n02091801" n="1">Described in 1807 as more a rapids than a falls, and
+        something under one-half mile long. The rock formation that caused the falls has since
+        been removed. The name may derive from 
+        <name type="person" key="LeTort, James">James LeTort</name>, an early 
+        <name type="place" key="West Virginia">West Virginia</name>Indian trader. Opposite is the
+        small community of 
+        <name type="place" key="Letart Falls, Ohio">Letart Falls</name>, 
+        <name type="place" key="Meigs County, Ohio">Meigs County</name>, 
+        <name type="place" key="Ohio">Ohio</name>. Thwaites (EWT), 4:139; 
+        <hi rend="italic">Ohio Guide,</hi>450; Stewart (APN), 255.</note>
+            <p>[
+        <hi rend="italic">Ed: Here 
+        <name type="person" key="Lewis, Meriwether">Lewis's</name>writing breaks off until
+        November 11. In the Eastern Journal there follow seven blank pages, a one-page note by 
+        <name type="person" key="Biddle, Edward">Edward Biddle</name>, and thirty-one pages of
+        notes by 
+        <name type="person" key="Biddle, Nicholas">Nicholas Biddle</name>, probably written in
+        1810. In the interval of nearly two months, 
+        <name type="person" key="Lewis, Meriwether">Lewis</name>spent nearly a week in 
+        <name type="place" key="Cincinnati, Ohio">Cincinnati</name>, visited the fossil beds at 
+        <name type="place" key="Big Bone Lick">Big Bone Lick</name>, 
+        <name type="place" key="Kentucky">Kentucky</name>, and reached 
+        <name type="place" key="Clarksville, Ind.">Clarksville</name>, 
+        <name type="place" key="Indiana">Indiana</name>Territory, where he picked up 
+        <name type="person" key="Clark, William">Clark</name>and several "young men from 
+        <name type="place" key="Kentucky">Kentucky</name>" (see 
+        <ref n="v02.appendix.a" type="related">Appendix A</ref>). After nearly two weeks in 
+        <name type="place" key="Clarksville, Ind.">Clarksville</name>, the party left on October
+        26 and on November 11 reached 
+        <name type="place" key="Fort Massac (Ill.)">Massac</name>in southern 
+        <name type="place" key="Illinois">Illinois</name>.</hi>Appleman (LC), 51–57; 
+        <name type="person" key="Lewis, Meriwether">Lewis</name>to 
+        <name type="person" key="Clark, William">Clark</name>, September 28, 1803, 
+        <name type="person" key="Lewis, Meriwether">Lewis</name>to 
+        <name type="person" key="Jefferson, Thomas">Jefferson</name>, October 3, 1803, Jackson
+        (LLC), 1:124–31.]</p>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1803-09-17" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-11-11" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

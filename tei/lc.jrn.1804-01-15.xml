@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1804-01-15">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">January 15, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic
+        Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>cdrh@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">156</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-01-05</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-04-12</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date>January 15, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.1804-01-15.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>Sunday 15th Jany:    river falling &amp; runs still with Ice, I took the
+          M—altitude of 
+          <seg n="u9737">☉</seg>L L. &amp; made it 60° 33' 50" N, at Sun Set 
+          <name type="person" key="Rumsey, Nathan">Maj Rumsey</name>
+                  <ref target="n03011501" n="1"/>the Comsy arrived with Some provisions in a waggon of 
+          <name type="person" key="Todd">Mr. Todd</name>,
+          <ref target="n03011502" n="2"/>Seven or Eight men followd the waggon Intoxicated from
+          the whiskey they receced [received] of R—[
+          <name type="person" key="Ramey, Matthew or William">Ramey</name>, 
+          <name type="person" key="Rumsey, Nathan">Rumsey</name>?] on the way out of the barrel
+          which was for the Party, I ordered a Gill to each man    a Cold night
+             the Wag: in passing the Lowr Prarie which was Covrd. with Ice Suft
+          [sufficiently] Strong to bear the teem but not the waggon which caused it to be dift
+          [difficult] to pass</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n03011501" n="1">
+               <name type="person" key="Rumsey, Nathan">Nathan Rumsey</name>was agent for 
+        <name type="person" key="Galusha, Elijah">Elijah G. Galusha</name>, contractor for army
+        rations in the area. Jackson (LLC), 1:168 n. 1. In the margin at this point are some
+        illegible jottings.</note>
+            <note xml:id="n03011502" n="2">Several farmers named 
+        <name type="person" key="Todd">Todd</name>lived in the 
+        <name type="place" key="American Bottom">American Bottom</name>north of the river 
+        <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">Dubois camp</name>.
+        Osgood (FN), 17–18 n. 3.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-01-14" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-01-16" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

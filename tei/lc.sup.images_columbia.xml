@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.lc.images_columbia">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">Texts</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2005</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic
+        Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>cdrh@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term/>
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2005-11-18</date>
+            <name>Becky Potter</name>Initial creation</change>
+         <change>
+            <date>2016-04-12</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="main">Columbia</head>
+         <div type="additional">
+            <p>
+               <table rows="1" cols="5">
+                  <row role="data">
+                     <cell role="desc" rows="1" cols="1">
+                        <figure>
+                           <p>
+                              <hi rend="center">Castle Rock on Columbia River</hi>
+                           </p>
+                        </figure>
+                     </cell>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="data" rows="1" cols="1"/>
+                     <cell role="desc" rows="1" cols="1">
+                        <figure>
+                           <p>
+                              <hi rend="center">Cascade on Columbia River</hi>
+                           </p>
+                        </figure>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

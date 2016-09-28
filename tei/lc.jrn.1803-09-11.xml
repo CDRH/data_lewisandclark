@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1803-09-11">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">September 11, 1803</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic
+        Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>cdrh@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">79-80</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS">
+            <placeName/>
+            <geo>39.5094 -81.0709</geo>
+            <note>South of Grandview Island, East shore</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2003-12-10</date>
+            <date/>
+            <name>Laura Weakly</name>
+            <name/>Initial creation Transcribed</change>
+         <change>
+            <date>2016-04-12</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date>September 11, 1803</date>
+         </head>
+         <div type="entry" xml:id="lc.1803-09-11.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>11th September</date>
+               </ab>
+               <p>Set out about sunrise, passed 
+          <name type="place" key="Sunfish Creek">Sunfish creek</name>1 mile &amp;c &amp;c
+             entered the long reach, so called from the 
+          <name type="place" key="Ohio River">Ohio</name>running in strait direction for 18 miles
+             in this reach there are 5 Islands from three to 2 miles in length each—
+          <ref target="n02091101" n="1"/>observed a number of squirrels
+          <ref target="n02091102" n="2"/>swiming the 
+          <name type="place" key="Ohio River">Ohio</name>and universally passing from the W. to
+          the East shore    they appear to be making to the south; perhaps it may be
+          mast or food which they are in serch of but I should reather suppose that it is climate
+          which is their object as I find no difference in the quantity of mast on both sides of
+          this river it being abundant on both except the beach nut which appears extreemly scarce
+          this season, the walnuts and Hickory nuts the usual food of the squirrell appears in
+          great abundance on either side of the river—
+          <ref target="n02091103" n="3"/>I made my dog
+          <ref target="n02091104" n="4"/>take as many each day as I had occation for, they wer
+          fat and I thought them when fryed a pleasent food—    many of these squirrils
+          wer black,
+          <ref target="n02091105" n="5"/>they swim very light on the water and make pretty good
+          speed— 
+          <name type="person" key="Seaman">my dog</name>was of the newfoundland breed very active
+          strong and docile, he would take the squirel in the water kill them and swiming bring
+          them in his mouth to the boat. we lay this night below the fifth Island in the long
+          reach on the E. side of the river having come 26 miles
+          <ref target="n02091106" n="6"/>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n02091101" n="1">The islands today along the 
+        <name type="place" key="Long Reach Island">Long Reach</name>are 
+        <name type="place" key="Paden Island">Paden</name>, 
+        <name type="place" key="Williamson Island">Williamson</name>, 
+        <name type="place" key="Wells Island">Wells</name>, 
+        <name type="place" key="Mill Creek Island">Mill Creek</name>, and 
+        <name type="place" key="Grand View Island">Grand View</name>islands.</note>
+            <note xml:id="n02091102" n="2">These would be gray squirrels, 
+        <hi rend="italic">Sciurus carolinensis;</hi>such migrations are rare today, the squirrel
+        population having been much reduced. Hall, 1:417; Cutright (HLCJ), 140. Apart from two
+        brief lists of trees and fish, this is the first of the many natural history observations
+        in 
+        <name type="person" key="Lewis, Meriwether">Lewis's</name>journals. His interest in plants
+        and animals, which he shared with 
+        <name type="person" key="Jefferson, Thomas">Jefferson</name>, dated from childhood. His
+        command of technical terms, especially in his botanical descriptions, was impressive, but
+        he seldom used the Linnaean system of Latin names for species, nor did he attempt to
+        bestow such names on the many new species observed during the expedition. He carried
+        several reference works with him that assisted him in writing his descriptions. These
+        included 
+        <name type="person" key="Barton, Benjamin Smith">Benjamin Smith Barton's</name>
+               <hi rend="italic">Elements of Botany; or, Outlines of the Natural History of
+        Vegetables</hi>(
+        <name type="place" key="Philadelphia, Pa.">Philadelphia</name>, 1803); John Miller, 
+        <hi rend="italic">An Illustration of the Sexual System of Linnaeus,</hi>Vol. 1 (London,
+        1779); and Miller's 
+        <hi rend="italic">An Illustration of the Termini Botanici of Linnaeus,</hi>Vol. 2 (London,
+        1789). Jackson (SBLC), 5–8; Cutright (LCPN), 1–25, 31.</note>
+            <note xml:id="n02091103" n="3">The "beach" nut is 
+        <hi rend="italic">Fagus grandifolia</hi>Ehrh., beech nut; the walnuts could be 
+        <hi rend="italic">Juglans nigra</hi>L., black walnut, and/or 
+        <hi rend="italic">J. cinerea</hi>L., butternut, white walnut, found on river terraces; the
+        hickory nuts can be several species of 
+        <hi rend="italic">Carya.</hi>Fernald, 540, 526; Braun, 95–97.</note>
+            <note xml:id="n02091104" n="4">The first mention of 
+        <name type="person" key="Seaman">Seaman</name>, or 
+        <name type="person" key="Seaman">Scannon</name>, whose name appears infrequently in the
+        journals. 
+        <name type="person" key="Lewis, Meriwether">Lewis</name>may have purchased him before
+        reaching 
+        <name type="place" key="Pittsburgh, Pa.">Pittsburgh</name>and he served as hunter,
+        watchdog, and companion. Though not mentioned after July 1806, it has been supposed that
+        he was still with the party on its return in September 1806. A stream in 
+        <name type="place" key="Montana">Montana</name>was apparently named for him, leading Don
+        Jackson to conjecture the latest spelling of his name. Jackson (DS); Osgood (ODS).</note>
+            <note xml:id="n02091105" n="5">A melanistic color phase. Cutright (HLCJ), 141 n. 48; Hall,
+        1:417.</note>
+            <note xml:id="n02091106" n="6">This camp, from 
+        <name type="person" key="Lewis, Meriwether">Lewis's</name>description, would be below
+        present 
+        <name type="place" key="Grand View Island">Grand View Island</name>, opposite 
+        <name type="place" key="Grand View, Ohio">Grand View</name>, 
+        <name type="place" key="Ohio">Ohio</name>, in 
+        <name type="place" key="Tyler County, W. Va.">Tyler County</name>, 
+        <name type="place" key="West Virginia">West Virginia</name>. But see below, 
+        <ref n="1803-09-12" type="related">September 12</ref>, n. 1. Thwaites (EWT),
+        4:121.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1803-09-10" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-09-12" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

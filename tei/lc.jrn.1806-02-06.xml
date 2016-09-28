@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1806-02-06">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">February 6, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic
+        Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>cdrh@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            6</title>
+               <title level="m" type="sub">November 2, 1805–March 22, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1990</date>
+               <biblScope type="pages">281-284</biblScope>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">270</biblScope>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23,
+            1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">192</biblScope>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2,
+            1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">418</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-08-23</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-04-12</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date>February 6, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.1806-02-06.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Thursday February 6th 1806.</hi>
+                  </date>
+               </ab>
+               <p>Sent Sergts. 
+          <name type="person" key="Gass, Patrick">Gass</name>and 
+          <name type="person" key="Ordway, John">Ordway</name>this morning with 
+          <name type="person" key="Field, Reubin">R. Fields</name>and a party of men
+          <ref target="n28020601" n="1"/>to bring in the Elk which Field had killed. Late in the
+          evening 
+          <name type="person" key="Pryor, Nathaniel Hale">Sergt. Pryor</name>returned with the
+          flesh of about 2 Elk and 4 skins the Indians having purloined the ballance of seven Elk
+          which 
+          <name type="person" key="Drouillard, George">Drewyer</name>killed the other day. I find
+          that there are 2 vilages of Indians living on the N. side of the 
+          <name type="place" key="Columbia River">Columbia</name>near the 
+          <name type="place" key="Marsh (Seal) Island">Marshy Islands</name>who call themselves 
+          <name type="native_nation" key="Wahkiakum Indians">Wâck-ki-á-cum</name>.   
+          these I have hertofore Considered as 
+          <name type="native_nation" key="Cathlamet Indians">Cath-lâh-mâh</name>s.   
+          they speak the same language and are the same in every other rispect.</p>
+               <p>No. 3
+          <ref target="n28020602" n="2"/>A species of fir which one of my men informs me is
+          precisely the same with that called the balsam fir of 
+          <name type="place" key="Canada">Canada</name>.    it grows here to
+          considerable size, being from 2½ to 4 feet in diameter and rises to the hight of eighty
+          or an hundred feet.    it's stem is simple branching, ascending and
+          proliferous.    it's leaves are sessile, acerose, one ⅛ of an inch in 1/16th
+          of an inch in width, thickly scattered on all sides of the twigs as far as the growth of
+          four preceeding years and rispect the three undersides only the uper side being
+          neglected and the under side but thinly furnished; gibbous, a little declining, obtusely
+          pointed, soft flexible, and the upper disk longitudinally marked with a slight channel;
+          this disk is of a glossy deep gre[e]n, the under one green tho' paler and not glossy.
+             this tree affords considerable quantities of a fine clear arromatic balsam
+          in appearance and taste like the Canadian balsam.    smal pustules filled with
+          this balsam rise with a blister like appearance on the body of the tree and it's
+          branches; the bark which covers these pustules is soft thin smoth and easily punctured.
+             the bark of the tree generally is thin of a dark brown colour and reather
+          smooth tho' not as much so as the white pine of our county.    the wood is
+          white and soft.—    (No. 4)
+          <ref target="n28020603" n="3"/>is a species of fir which in point of size is much that
+          of No. 2.    the stem simple branching ascending and proliferous; the bark of
+          a redish dark brown and thicker than that of No. 3.    it is divided with
+          small longitudinal interstices, but these are not so much ramifyed as in species No. 2.
+             the leaves with rispect to their position in regard to each other is the
+          same with the balsam fir, as is the leaf in every other rispect except that it not more
+          than ⅔ds the width and little more than half the length of the other, nor is it's upper
+          disk of so deep a green nor so glossey.    it affords no balsam and but little
+          rosin. the wood also white soft and reather porus tho' tough.—</p>
+               <p>No 5.
+          <ref target="n28020604" n="4"/>is a species of fir which arrives to the size of Nos. 2
+          and 4, the stem simple branching, diffuse and proliferous.    the bark thin,
+          dark brown, much divided with small longitudinal interstices and sometimes scaleing off
+          in thin rolling flakes.    it affords but little rosin and the wood is redish
+          white ⅔ds of the diameter in the center, the ballance white, somewhat porus and tough.
+             the twigs are much longer and more slender than in either of the other
+          species.    the leaves are acerose, 1/20th of an inch in width, and an inch in
+          length, sessile, inserted on all sides of the bough, streight, their extremities
+          pointing obliquely toward the extremities of the bough and more thickly placed than in
+          either of the other species; gibbous and flexeable but more stif than any except No. 1
+          and more blontly pointed than either of the other species; the upper disk has a small
+          longitudinal channel and is of a deep green tho' not so glossy as the balsam fir, the
+          under disk is of a pale green.—    No. 6
+          <ref target="n28020605" n="5"/>the white pine; or what is usually so called in 
+          <name type="place" key="Virginia">Virginia</name>. I see no difference between this and
+          that of the mountains in 
+          <name type="place" key="Virginia">Virginia</name>; unless it be the uncommon length of
+          cone of this found here, which are sometimes 16 or 18 inches in length and about 4
+          inches in circumpherence. I do not recollect those of 
+          <name type="place" key="Virginia">virginia</name>perfectly but it strikes me that they
+          are not so long.    this species is not common I have only seen it but in one
+          instance since I have been in this neighbourhood which was on the border of 
+          <name type="place" key="Baker (Haley's) Bay">Haley's bay</name>
+                  <ref target="n28020606" n="6"/>on the N. side of the 
+          <name type="place" key="Columbia River">Columbia</name>near the Ocean.</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1806-02-06.02">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Thursday February 6th 1806</hi>
+                  </date>
+               </ab>
+               <p>Sent 
+          <name type="person" key="Gass, Patrick">Serjt. Gass</name>and party this morning with 
+          <name type="person" key="Field, Reubin">Ru Field</name>to bring in the Elk which 
+          <name type="person" key="Field, Reubin">Field</name>had killed.    late in the
+          evening 
+          <name type="person" key="Pryor, Nathaniel Hale">Serjt. Pryor</name>returned with the
+          flsh of about 2 Elk and four skins the Indians haveing taken the ballance of Seven Elk
+          which 
+          <name type="person" key="Drouillard, George">Drewyer</name>killed the other day. I find
+          that those people will all Steal.</p>
+               <p>No. 3 a Species of fir, which one of my men inform me is presisely the Same with that
+          called the balsam fir of 
+          <name type="place" key="Canada">Canada</name>.    it grows here to
+          considerable Size, being from 2½ to 4 feet in diameeter and rises to the hight of 100 or
+          120 feet.    it's Stem is Simple branching assending and proliferous—.
+             it's leaves are cessile, acerose, ⅛ of an inch in length and 1/16 of an
+          inch in width, thickly scattered on all Sides of the twigs as far as the groth of four
+          proceeding years, and respects the three undersides only, the upper Side being neglected
+          and the under Side but thinly furnished; gibbous a little declineing, obtusely pointed,
+          Soft flexable, and the upper disk longitudinally marked wth a Slight Channel; this disk
+          is of a glossy deep green, the under one green tho paler and not glossy. This tree
+          affords a considerable quantity of a fine Clear arromatic Balsom in appearance and taste
+          like the Canadian balsom. Small pustuls filled with the balsom rise with a blister like
+          appearance on the body of the tree and it's branches; the bark which covers these
+          pustules is Soft thin Smothe and easily punctured.    the bark of the [tree]
+          is generally thin of a dark brown colour and reather Smooth tho' not as much so as the
+          white pine of the U. States the wood is white and Soft.</p>
+               <p>No. 4 a Species of 
+          <hi rend="italic">fir</hi>which in point of Size is much that of No 2,—. the Stem Simple
+          branching assending and proliferous; the bark of a redish dark brown and thicker than
+          that of No. 3.    it is devided with Small longitudinal interstices, but these
+          are not So much ramefied as in the Specis No. 2.    the leaves with respect to
+          their possition in reguard to each other is the Same with the balsam fir, as is the leaf
+          in every other respect than that, it is not more than ⅔ds the width and little more than
+          half the length of the other, nor is it's upper disk of so deep a green nor glossy.
+             it affords no balsam, and but little rosin.    the wood also
+          white Soft and reather porus tho' tough—.—    No. 5 is a species of 
+          <hi rend="italic">fir</hi>which arives to the Size of No. 2, and No. 4.    the
+          Stem Simple branching, diffuse and proliferous.    the bark thin dark brown,
+          much divided with Small longitudinal interstices scaleing off in thin rolling flakes.
+             it affords but little rosin and the wood is redish white 2/3ds of the
+          diamieter in the Center the ballance white Somewhat porus and tough.    the
+          twigs are much longer and more slender than in either of the other speceies.
+             the leaves are acerose 1/20 of an inch in width, and an inch in length,
+          sessile, inserted on all Sides of the bough, Streight, their extremities pointing
+          obliquely towards the extremities of the bough and more thickly placed than in either of
+          the other Species; gibbous and flexable but more stiff than any except No. 1 and more
+          blontly pointed than either of the other Species; the upper disk has a Small
+          longitudinal Channel and is of a deep green tho' not so Glossy as the balsam fir, the
+          under disk is of a pail green. No. 6 the White pine; or what is usially So Called in 
+          <name type="place" key="Virginia">Virginia</name>. I see no difference between this and
+          that of the mountains in 
+          <name type="place" key="Virginia">Virginia</name>; unless it be the uncommon length of
+          the cone of this found here, which are Sometimes 16 or 18 inches in length and about 4
+          inches in Surcumfrance. I do not recollect tose of 
+          <name type="place" key="Virginia">Virginia</name>, but it Strikes me that they are not
+          So long.    this Species is not common I have Seen it only in three instances
+          since I have been in this neighbourhood, I saw a few on 
+          <name type="place" key="Baker (Haley's) Bay">Haleys bay</name>on the North Side of the 
+          <name type="place" key="Columbia River">Columbia River</name>, a fiew scattering on the
+          Sea coast to the North on one of which I engraved by name—and Some on the S S E Side of 
+          <name type="place" key="Ecola Creek (McNeal's Folly)">
+                     <hi rend="italic">E co la</hi>Creek</name>near the 
+          <name type="native_nation" key="Tillamook Indians">Kil â mox</name>nation, at which
+          place I Saw the white &amp; red Cedar—</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1806-02-06.03">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>Thursday 6th Feby. 1806. I went with nine more of the party
+          <ref target="n28020607" n="7"/>after the Elk meat.    we went out to the Elk
+          and butchred them this evening &amp; packed Some together &amp; Camped.   
+          found 2 of the Elk in good order.—</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1806-02-06.04">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Thursday 6th.</hi>   We had a cool fair morning. Ten of us
+          started with a canoe to bring in the meat of the elk, killed yesterday; and had to
+          encamp out all night, but, with the assistance of the elk skins and our blankets, we
+          lodged pretty comfortable, though the snow as 4 or 5 inches deep.</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1806-02-06.05">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>Thursday Febry 6th    This morning we had pleasant weather, Our Officers
+          sent Ten Men of our party from the fort, in order to bring in the Meat of the Elks which
+          the hunters had killed.    they found them about 2½ Miles from the fort, &amp;
+          the way very bad.    they cut up 5 of the Elk this evening, &amp; packed some
+          of it together; two of these Elk were in very good order.    They formed a
+          camp close to where the meat lay.—    Nothing material happened at the Fort.
+             the Men that remained there were employed in dressing Skins &amp;c.—</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n28020601" n="1">Including 
+        <name type="person" key="Weiser, Peter">Peter Weiser</name>; see below, 
+        <ref n="1806-02-07" type="related">February 7, 1806</ref>.</note>
+            <note xml:id="n28020602" n="2">Grand fir, another new species. Cutright (LCPN), 260,
+        400.</note>
+            <note xml:id="n28020603" n="3">Based on the description of the needle length compared to
+        the "balsam fir" or grand fir, this may be a depauperate form of grand fir. The only other
+        possibility is Pacific silver fir, 
+        <hi rend="italic">Abies amabilis</hi>(Dougl.) Forbes, which indeed has smaller needles as
+        described, but has a gray to nearly white bark, unlike that described. Pacific silver fir
+        is also found at higher elevations in the 
+        <name type="place" key="Cascade Range">Cascade Range</name>, although there is a small
+        coastal population. Hitchcock et al., 1:115; Little (CIH), 1-W. The first few lines of
+        this passage have a red vertical line through them, perhaps penned by 
+        <name type="person" key="Biddle, Nicholas">Biddle</name>.</note>
+            <note xml:id="n28020604" n="4">Douglas fir. This species is an important sub-dominant tree
+        of the Sitka spruce vegetation zone. Franklin &amp; Dyrness, 53–61.</note>
+            <note xml:id="n28020605" n="5">Western white pine, 
+        <hi rend="italic">Pinus monticola</hi>Dougl., a new species and today a valuable lumber
+        tree. It is currently not document as occurring at the mouth of the 
+        <name type="place" key="Columbia River">Columbia River</name>. Both western white pine and
+        Pacific silver fir occur near sea level in forested swamps in the Sitka spruce zone,
+        together with western redcedar, western hemlock, and red alder. Hitchcock et al., 1:129;
+        Little (CIH), 62-W; Franklin &amp; Dyrness, 68; Cutright (LCPN), 274, 414.</note>
+            <note xml:id="n28020606" n="6">
+               <name type="place" key="Baker (Haley's) Bay">Baker Bay</name>, 
+        <name type="place" key="Pacific County, Wash.">Pacific County</name>, 
+        <name type="place" key="Washington">Washington</name>. 
+        <hi rend="italic">Atlas</hi>map 91.</note>
+            <note xml:id="n28020607" n="7">Including 
+        <name type="person" key="Gass, Patrick">Gass</name>, 
+        <name type="person" key="Field, Reubin">Reubin Field</name>, and 
+        <name type="person" key="Weiser, Peter">Weiser</name>; see 
+        <name type="person" key="Lewis, Meriwether">Lewis</name>for February 6 and 
+        <ref n="1806-02-07" type="related">7</ref>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-02-05" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-02-07" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

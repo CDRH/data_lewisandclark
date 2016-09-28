@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.lc.johnsgard.01.ill">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lewis and Clark on the Great Plains</title>
+            <title type="sub">A Natural History</title>
+            <title type="sub" level="a">Illustrations</title>
+            <author>Paul A. Johnsgard</author>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic
+        Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>cdrh@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title level="m" type="main">Lewis and Clark on the 
+          <name type="place" key="Great Plains">Great Plains</name>
+               </title>
+               <title level="m" type="sub">List of Illustrations</title>
+               <author>Paul A. Johnsgard</author>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <publisher>Center for Great Plains Studies, University of Nebraska–Lincoln</publisher>
+               <date>2003</date>
+               <idno type="ISBN">0-8032-7618-4</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <revisionDesc>
+         <change>
+            <date>2005-10-07</date>
+            <date>2004-10-26</date>
+            <name>Becky Potter</name>
+            <name>Andrew Jewell</name>Split into chapters Initial creation</change>
+         <change>
+            <date>2016-04-12</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="illusList" type="illusList">
+            <head rend="center">List of Illustrations</head>
+            <div type="section">
+               <p>
+                  <lb/>
+                  <ref target="n01" n="1"/>   Bison
+          <lb/>
+                  <ref target="n02" n="2"/>   Grizzly bear and black bear
+          <lb/>
+                  <ref target="n03" n="3"/>   Elk 
+          <lb/>
+                  <ref target="n04" n="4"/>   Pronghorn 
+          <lb/>
+                  <ref target="n05" n="5"/>   Least tern 
+          <lb/>
+                  <ref target="n06" n="6"/>   Piping plover 
+          <lb/>
+                  <ref target="n07" n="7"/>   Buffaloberry
+          <lb/>
+                  <ref target="n08" n="8"/>   Pasture sagewort
+          <lb/>
+                  <ref target="n09" n="9"/>   Bighorn 
+          <lb/>
+                  <ref target="n10" n="10"/>Black-tailed prairie dog
+          <lb/>
+                  <ref target="n11" n="11"/>Coyote
+          <lb/>
+                  <ref target="n12" n="12"/>Gray wolf
+          <lb/>
+                  <ref target="n13" n="13"/>Mule deer
+          <lb/>
+                  <ref target="n14" n="14"/>Richardson's ground squirrel
+          <lb/>
+                  <ref target="n15" n="15"/>White-tailed jackrabbit 
+          <lb/>
+                  <ref target="n16" n="16"/>Common poorwill
+          <lb/>
+                  <ref target="n17" n="17"/>Golden eagle 
+          <lb/>
+                  <ref target="n18" n="18"/>Sharp-tailed grouse
+          <lb/>
+                  <ref target="n19" n="19"/>Trumpeter swan 
+          <lb/>
+                  <ref target="n20" n="20"/>Western meadowlark 
+          <lb/>
+                  <ref target="n21" n="21"/>Whooping crane 
+          <lb/>
+                  <ref target="n22" n="22"/>Bearberry 
+          <lb/>
+                  <ref target="n23" n="23"/>Fringed sagebrush 
+          <lb/>
+                  <ref target="n24" n="24"/>Indian tobacco 
+          <lb/>
+                  <ref target="n25" n="25"/>Lanceleaf sage
+          <lb/>
+                  <ref target="n26" n="26"/>Large-flowered clammyweed 
+          <lb/>
+                  <ref target="n27" n="27"/>Missouri milk-vetch 
+          <lb/>
+                  <ref target="n28" n="28"/>Shadscale
+          <lb/>
+                  <ref target="n29" n="29"/>Silky wormwood 
+          <lb/>
+                  <ref target="n30" n="30"/>Western juniper and lark sparrow 
+          <lb/>
+                  <ref target="n31" n="31"/>Bushy-tailed woodrat 
+          <lb/>
+                  <ref target="n32" n="32"/>Swift fox 
+          <lb/>
+                  <ref target="n33" n="33"/>Thirteen-lined ground squirrel 
+          <lb/>
+                  <ref target="n34" n="34"/>Greater sage-grouse 
+          <lb/>
+                  <ref target="n35" n="35"/>Lewis's woodpecker
+          <lb/>
+                  <ref target="n36" n="36"/>McCown's longspur
+          <lb/>
+                  <ref target="n37" n="37"/>Western rattlesnake and western hognose snake
+          <lb/>
+                  <ref target="n38" n="38"/>Channel catfish, blue catfish, and cutthroat trout
+          <lb/>
+                  <ref target="n39" n="39"/>Mountain sucker and goldeye
+          <lb/>
+               </p>
+            </div>
+         </div>
+         <div xml:id="notes" type="notes">
+            <div type="section">
+               <note xml:id="n01" n="1">
+                  <figure n="1">
+                     <p>FIG.1. Bison, adult male</p>
+                     <p>Drawing of an adult male bison</p>
+                  </figure>
+               </note>
+               <note xml:id="n02" n="2">
+                  <figure n="2">
+                     <p>FIG. 2. Grizzly bear adult (top) and black bear adult (bottom)</p>
+                     <p>Drawing of an adult grizzly bear and an adult black bear</p>
+                  </figure>
+               </note>
+               <note xml:id="n03" n="3">
+                  <figure n="3">
+                     <p>FIG. 3. Elk, adult male</p>
+                     <p>Drawing of an adult male elk</p>
+                  </figure>
+               </note>
+               <note xml:id="n04" n="4">
+                  <figure n="4">
+                     <p>FIG. 4. Pronghorn, adult male</p>
+                     <p>Drawing of an adult male pronghorn</p>
+                  </figure>
+               </note>
+               <note xml:id="n05" n="5">
+                  <figure n="5">
+                     <p>FIG. 5. Least tern, adult and chick</p>
+                     <p>Drawing of the least tern, adult and chick.</p>
+                  </figure>
+               </note>
+               <note xml:id="n06" n="6">
+                  <figure n="6">
+                     <p>FIG. 6. Piping plover, adult</p>
+                     <p>Drawing of a piping plover, adult</p>
+                  </figure>
+               </note>
+               <note xml:id="n07" n="7">
+                  <figure n="7">
+                     <p>FIG. 7. Buffaloberry, female plant with berries</p>
+                     <p>Drawing of a buffaloberry, female plant with berries</p>
+                  </figure>
+               </note>
+               <note xml:id="n08" n="8">
+                  <figure n="8">
+                     <p>FIG. 8. Pasture sagewort, with leaf variation and flower detail</p>
+                     <p>Drawing of pasture sagewort, with leaf variation and flower
+              detail</p>
+                  </figure>
+               </note>
+               <note xml:id="n09" n="9">
+                  <figure n="9">
+                     <p>FIG. 9. Bighorn, adult male</p>
+                     <p>Drawing of 
+              <name type="place" key="Bighorn River">bighorn</name>, adult male</p>
+                  </figure>
+               </note>
+               <note xml:id="n10" n="10">
+                  <figure n="10">
+                     <p>FIG. 10. Black-tailed prairie dog, adult ("all-clear" or "jump-yip" call)</p>
+                     <p>Drawing of a black-tailed prairie dog, adult ("all-clear" or "jump-yip"
+              call)</p>
+                  </figure>
+               </note>
+               <note xml:id="n11" n="11">
+                  <figure n="11">
+                     <p>FIG. 11. Coyote, adult</p>
+                     <p>Drawing of a coyote, adult</p>
+                  </figure>
+               </note>
+               <note xml:id="n12" n="12">
+                  <figure n="12">
+                     <p>FIG. 12. Gray wolf, adult</p>
+                     <p>Drawing of gray wolf, adult</p>
+                  </figure>
+               </note>
+               <note xml:id="n13" n="13">
+                  <figure n="13">
+                     <p>FIG. 13. Mule deer, adult male (in autumn)</p>
+                     <p>Drawing of a mule deer, adult male (in autumn)</p>
+                  </figure>
+               </note>
+               <note xml:id="n14" n="14">
+                  <figure n="14">
+                     <p>FIG. 14. Richardson's ground squirrel, adult ("picket-pin" posture)</p>
+                     <p>Drawing of Richardson's ground squirrel, adult ("picket-pin"
+              posture)</p>
+                  </figure>
+               </note>
+               <note xml:id="n15" n="15">
+                  <figure n="15">
+                     <p>FIG. 15. White-tailed jackrabbit, adult in summer pelage</p>
+                     <p>Drawing of a white-tailed jackrabbit, adult in summer pelage</p>
+                  </figure>
+               </note>
+               <note xml:id="n16" n="16">
+                  <figure n="16">
+                     <p>FIG. 16. Common poorwill, adult</p>
+                     <p>Drawing of a common poorwill, adult</p>
+                  </figure>
+               </note>
+               <note xml:id="n17" n="17">
+                  <figure n="17">
+                     <p>FIG. 17. Golden eagle, adult</p>
+                     <p>Drawing of a golden eagle, adult</p>
+                  </figure>
+               </note>
+               <note xml:id="n18" n="18">
+                  <figure n="18">
+                     <p>FIG. 18. Sharp-tailed grouse, adult male</p>
+                     <p>Drawing of a sharp-tailed grouse, adult male</p>
+                  </figure>
+               </note>
+               <note xml:id="n19" n="19">
+                  <figure n="19">
+                     <p>FIG. 19. Trumpeter swan, adult</p>
+                     <p>Drawing of a trumpeter swan, adult</p>
+                  </figure>
+               </note>
+               <note xml:id="n20" n="20">
+                  <figure n="20">
+                     <p>FIG. 20. Western meadowlark, adult male</p>
+                     <p>Drawing of a western meadowlark, adult male</p>
+                  </figure>
+               </note>
+               <note xml:id="n21" n="21">
+                  <figure n="21">
+                     <p>FIG. 21. Whooping crane, adult</p>
+                     <p>Drawing of a whooping crane, adult</p>
+                  </figure>
+               </note>
+               <note xml:id="n22" n="22">
+                  <figure n="22">
+                     <p>FIG. 22. Bearberry</p>
+                     <p>Drawing of a bearberry</p>
+                  </figure>
+               </note>
+               <note xml:id="n23" n="23">
+                  <figure n="23">
+                     <p>FIG. 23. Fringed sagebrush, with leaf variation and flower detail</p>
+                     <p>Drawing of fringed sagebrush, with leaf variation and flower
+              detail</p>
+                  </figure>
+               </note>
+               <note xml:id="n24" n="24">
+                  <figure n="24">
+                     <p>FIG. 24. Indian tobacco</p>
+                     <p>Drawing of Indian tobacco</p>
+                  </figure>
+               </note>
+               <note xml:id="n25" n="25">
+                  <figure n="25">
+                     <p>FIG. 25. Lanceleaf sage, with leaf variation and flower detail</p>
+                     <p>Drawing of lanceleaf sage, with leaf variation and flower detail</p>
+                  </figure>
+               </note>
+               <note xml:id="n26" n="26">
+                  <figure n="26">
+                     <p>FIG. 26. Large-flowered clammyweed, with flower detail</p>
+                     <p>Drawing of large-flowered clammyweed, with flower detail</p>
+                  </figure>
+               </note>
+               <note xml:id="n27" n="27">
+                  <figure n="27">
+                     <p>FIG. 27. Missouri milk-vetch</p>
+                     <p>Drawing of Missouri milk-vetch</p>
+                  </figure>
+               </note>
+               <note xml:id="n28" n="28">
+                  <figure n="28">
+                     <p>FIG. 28. Shadscale, with seed detail</p>
+                     <p>Drawing of shadscale, with seed detail</p>
+                  </figure>
+               </note>
+               <note xml:id="n29" n="29">
+                  <figure n="29">
+                     <p>FIG. 29. Silky wormwood, with leaf variation and flower detail</p>
+                     <p>Drawing of silky wormwood, with leaf variation and flower detail</p>
+                  </figure>
+               </note>
+               <note xml:id="n30" n="30">
+                  <figure n="30">
+                     <p>FIG. 30. Western juniper and adult lark sparrow</p>
+                     <p>Drawing of western juniper and adult lark sparrow</p>
+                  </figure>
+               </note>
+               <note xml:id="n31" n="31">
+                  <figure n="31">
+                     <p>FIG. 31. Bushy-tailed woodrat, adult with cache</p>
+                     <p>Drawing of a bushy-tailed woodrat, adult with cache</p>
+                  </figure>
+               </note>
+               <note xml:id="n32" n="32">
+                  <figure n="32">
+                     <p>FIG. 32. Swift fox, adult</p>
+                     <p>Drawing of a swift fox, adult</p>
+                  </figure>
+               </note>
+               <note xml:id="n33" n="33">
+                  <figure n="33">
+                     <p>FIG. 33. Thirteen-lined ground squirrel, adult (dormant)</p>
+                     <p>Drawing of a thirteen-lined ground squirrel, adult (dormant)</p>
+                  </figure>
+               </note>
+               <note xml:id="n34" n="34">
+                  <figure n="34">
+                     <p>FIG. 34. Greater sage-grouse, adult male (right) and female</p>
+                     <p>Drawing of a greater sage-grouse, adult male (right) and female</p>
+                  </figure>
+               </note>
+               <note xml:id="n35" n="35">
+                  <figure n="35">
+                     <p>FIG. 35. Lewis's woodpecker, adult male (right) and female</p>
+                     <p>Drawing of Lewis's woodpecker, adult male (right) and female</p>
+                  </figure>
+               </note>
+               <note xml:id="n36" n="36">
+                  <figure n="36">
+                     <p>FIG. 36. McCown's longspur, adult male</p>
+                     <p>Drawing of McCown's longspur, adult male</p>
+                  </figure>
+               </note>
+               <note xml:id="n37" n="37">
+                  <figure n="37">
+                     <p>FIG. 37. Western rattlesnake (top and middle) and western hognose snake
+              (bottom)</p>
+                     <p>Drawing of a western rattlesnake (top and middle) and western hognose snake
+              (bottom)</p>
+                  </figure>
+               </note>
+               <note xml:id="n38" n="38">
+                  <figure n="38">
+                     <p>FIG. 38. Channel catfish (top), blue catfish (middle), and cutthroat trout
+              (bottom)</p>
+                     <p>Drawing of channel catfish (top), blue catfish (middle), and cutthroat
+              trout (bottom)</p>
+                  </figure>
+               </note>
+               <note xml:id="n39" n="39">
+                  <figure n="39">
+                     <p>FIG. 39. Mountain sucker (top) and goldeye (bottom)</p>
+                     <p>Drawing of mountain sucker (top) and goldeye (bottom)</p>
+                  </figure>
+               </note>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="lc.johnsgard.01.maps" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="lc.johnsgard.01.00" type="contents"/>
+               </item>
+               <item>
+                  <ptr n="lc.johnsgard.01.preface" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

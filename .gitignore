@@ -1,0 +1,13 @@
+# ignore configuration files
+**/config.xsl
+**/*.yml
+
+# but don't ignore example config files
+!**/*.example.yml
+
+# Ignore ds_store files
+.DS_Store
+
+# Ignore html-generated files but keep directory
+html-generated/**
+!html-generated/.keep

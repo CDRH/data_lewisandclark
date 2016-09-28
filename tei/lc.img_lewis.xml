@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.img_lewis">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title>Test</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2005</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic
+        Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>cdrh@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <note>Original</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term>Lewis</term>
+               <term>Captain</term>
+               <term>Corps of Discovery</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2005-01-14</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-04-12</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <list type="simple">
+            <item>
+               <figure n="lewis.jpg">
+                  <p>
+                     <label>Lewis Portrait</label>
+                     <caption>Portrait of Meriwether Lewis</caption>
+                     <measure>H 23" W 19"</measure>
+                     <note type="medium">Oil on board</note>
+                     <term>
+                        <persName>Meriwether Lewis</persName>
+                     </term>
+                     <bibl>
+                        <idno type="INDE">INDE 14096</idno>
+                        <respStmt>
+                           <resp>Artist:</resp>
+                           <name>Charles Willson Peale</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Courtesy of:</resp>
+                           <name>National Park Service, Museum Management Program and Independence National
+                  Historic Park</name>
+                        </respStmt>
+                        <date>ca. 1807–08</date>
+                        <orgName>Photo by: Independence National Historic Park INDE 14096</orgName>
+                        <address>
+                           <addrLine>
+                              <ref n="http://www.cr.nps.gov/museum/treasures/html/P/inde14096.htm">
+                    http://www.cr.nps.gov/museum/treasures/html/P/inde14096.htm</ref>
+                           </addrLine>
+                        </address>
+                     </bibl>
+                  </p>
+               </figure>
+            </item>
+         </list>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.img_loc.3a55033v">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">Images from the Library of Congress</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2007</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic
+        Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>cdrh@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+               <p>(copyright)</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Library of Congress</title>
+               <note>http://www.loc.gov</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term/>
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-08-21</date>
+            <date>2005-01-19</date>
+            <name>Laura Weakly</name>
+            <name>Laura Weakly</name>Initial creation Model encoding</change>
+         <change>
+            <date>2016-04-12</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <list type="simple">
+            <item>
+               <figure n="loc.3a55033v.jpg">
+                  <p>
+                     <label>Mandan bull boat</label>
+                     <caption>Mandan bull boat</caption>
+                     <bibl>
+                        <idno type="reproductionNo">LC-USZ62-46966</idno>
+                        <idno type="digitalID">cph 3a55033</idno>
+                        <idno type="curtisNo">2821-08</idno>
+                        <respStmt>
+                           <resp>Photographer:</resp>
+                           <name>Edward S. Curtis</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Collection:</resp>
+                           <name>Edward S. Curtis Collection (Library of Congress)</name>
+                        </respStmt>
+                        <date>c1908 July 6</date>
+                     </bibl>
+                  </p>
+               </figure>
+            </item>
+         </list>
+      </body>
+   </text>
+</TEI>

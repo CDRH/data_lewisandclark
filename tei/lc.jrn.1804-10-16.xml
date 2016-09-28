@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1804-10-16">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">October 16, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic
+        Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>cdrh@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">175-179</biblScope>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">85-86</biblScope>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23,
+            1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">56</biblScope>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2,
+            1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">101</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS">
+            <placeName/>
+            <geo>46.2732 -100.5865</geo>
+            <note>Sioux County, ND, roughly two miles above Beaver Creek</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-03-19</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-04-12</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date>October 16, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.1804-10-16.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">16th of October Tuesday 1804</hi>   Some rain this morning
+             2 Squars verry anxious to accompany us    we Set [out] with our
+          Chief on Board by name 
+          <hi rend="italic">
+                     <name type="person" key="Arketarnarshar">Ar ke tar nar shar</name>
+                  </hi>(or Chief of the Town)
+          <ref target="n07101601" n="1"/>   a little above our Camp on the L. S.
+             passed an old 
+          <name type="native_nation" key="Cheyenne Indians">Shyenne</name>Village,
+          <ref target="n07101602" n="2"/>which appears to have been Serounded with a wall of
+          earth; this is the retreat &amp; first Stand of this nation after being reduced by the 
+          <name type="native_nation" key="Sioux Indians">Sioux</name>and drove from their Countrey
+          on the heads of 
+          <name type="place" key="Red River of the North">red River</name>of 
+          <name type="place" key="Lake Winnipeg">L Winipic</name>
+                  <ref target="n07101603" n="3"/>where they Cultivated the lands—passed a Creek I call 
+          <hi rend="italic">
+                     <name type="place" key="Battle (Char-part, Girl, So-harch, Woman) Creek">
+            So-harch</name>
+                  </hi>or 
+          <name type="place" key="Battle (Char-part, Girl, So-harch, Woman) Creek">Girl
+          Creek</name>L. S.
+          <ref target="n07101604" n="4"/>   2 miles higher passed 
+          <name type="place" key="Battle (Char-part, Girl, So-harch, Woman) Creek">Woman
+          Crreek</name>or 
+          <hi rend="italic">
+                     <name type="place" key="Battle (Char-part, Girl, So-harch, Woman) Creek">
+            Char-part</name>
+                  </hi>
+                  <ref target="n07101605" n="5"/>   passed an Island Situated in a bend to the
+          S. S.    at the lower point of this Island a Creek comes in Called 
+          <name type="place"
+                        key="Little Beaver (Kee-tooch Sar-kar-nar) Creek (Emmons County, N. Dak.)">
+                     <hi rend="italic">Kee-tooch</hi>Sar-kar-nar-</name>or the place of 
+          <name type="place"
+                        key="Little Beaver (Kee-tooch Sar-kar-nar) Creek (Emmons County, N. Dak.)">Beaver</name>
+                  <ref target="n07101606" n="6"/>   above the Island a Small River on the Same
+          S. Side Called 
+          <hi rend="italic">
+                     <name type="place"
+                           key="Beaver (War-re-con-nee, Wardepon) Creek (Emmons County, N. Dak.)">War-re-Con
+            nee</name>
+                  </hi>Elk shed their horns,
+          <ref target="n07101607" n="7"/>this river is 35 yards wide &amp; heads near the 
+          <name type="place" key="James (Jacque) River (S. Dak.)">River au Jacque</name>, 
+          <name type="place" key="Carp Island">Carp Island</name>
+                  <ref target="n07101608" n="8"/>   wind hard a head from the N W.   
+          Saw great numbers of goats or Antelope on Shore, 
+          <name type="person" key="Lewis, Meriwether">Capt Lewis</name>one man &amp; the 
+          <name type="native_nation" key="Arikara Indians">Ricara</name>Chief walked on Shore, in
+          the evening I discovered a number of Indians on each Side and goats in the river or
+          Swiming &amp; on Sand bars, when I came near Saw the boys in the water Swiming amongst
+          the goats &amp; Killing them with Sticks, and then hauling them to the Shore
+             those on Shore Kept them in the water, I saw 58 Killed in this way and on
+          the Shore, the hunter with 
+          <name type="person" key="Lewis, Meriwether">Cap Lewis</name>Shot 3 goats    I
+          came too and Camped above the 
+          <name type="native_nation" key="Arikara Indians">Ricara</name>Camp on the L. S.
+          <ref target="n07101609" n="9"/>   Several Indians visited us duereing the
+          night Some with meat, Sang and were merry all night.—</p>
+               <p>
+                  <table rows="5" cols="3">
+                     <head>Cours &amp; Distance 
+              <hi rend="italic">16</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">m to a point on the S. S.    passed
+                2 Creeks L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° E</cell>
+                        <cell role="data" rows="1" cols="1">6</cell>
+                        <cell role="data" rows="1" cols="1">m. to the upper pt. of Some timber on the L.
+                S. opsd. a
+                <lb/>Creek haveing passed an Isld. on the S. S    a Creek at its
+                <lb/>lower point</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N.</cell>
+                        <cell role="data" rows="1" cols="1">    ½</cell>
+                        <cell role="data" rows="1" cols="1">a m on the L. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">m on the L. point</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 38° W.</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">m. to a point on the S. S.—</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1804-10-16.02">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">16th October Tuesday 1804</hi>
+                  </date>
+               </ab>
+               <p>Some rain this morning,    2 young Squars verry anxious to accompany us, we
+          Set out with our Chief on board by name 
+          <hi rend="italic">Ar ke tar na Shar</hi>or Chief of the Town, a little above our Camp on
+          the L. S. passed a Circular work, where the, 
+          <hi rend="italic">Sh
+          <seg n="u257">ā</seg>r há</hi>(
+          <hi rend="italic">or 
+          <name type="native_nation" key="Cheyenne Indians">Chien</name>
+                  </hi>, or Dog Indians[)]
+          formerly lived, a Short distance abov passed a Creek which we Call Chien [
+          <hi rend="italic">NB: Chayenne or 
+          <name type="place" key="Porcupine (Sharhá, So-harch, Girl) Creek (S. Dak.)">
+          Sharha</name>
+                     <name type="person" key="Heney, Hugh">Mr Hayley</name>says not Chien</hi>]
+          <ref target="n07101610" n="10"/>Creek, above is a willow Island Situated near (1) the
+          L. Side a large Sand bar above &amp; on both Sides    (2) passed a Creek above
+          the Island on the L. S. call 
+          <hi rend="italic">
+                     <name type="place" key="Battle (Char-part, Girl, So-harch, Woman) Creek">
+            So-harch</name>
+                  </hi>(or Girls) Creek, at 2 miles higher up (3) passed a Creek on L. S. call 
+          <hi rend="italic">Char part</hi>(or womins) Creek    passed (5) an Island
+          Situated in a bend to the S. S.    this Isd. is about 1 ½ miles long, Covered
+          with timber Such as Cotton wood, opsd. the lower point a creek coms in on
+          <ref target="n07101611" n="11"/>the S. S. called by the Indians 
+          <name type="place"
+                        key="Little Beaver (Kee-tooch Sar-kar-nar) Creek (Emmons County, N. Dak.)">
+                     <hi rend="italic">Kee tooch Sar kar nar</hi>
+                  </name>(or place [
+          <hi rend="italic">NB: place</hi>] of Beavr[)]    above the Island a 〈large
+          Creek〉 Small river about 35 yards wide coms in Called 
+          <hi rend="italic">
+                     <name type="place"
+                           key="Beaver (War-re-con-nee, Wardepon) Creek (Emmons County, N. Dak.)">War re con
+            ne</name>
+                  </hi>or (Elk Shed their horns). The Island is Called 
+          <name type="place" key="Carp Island">Carp Island</name>by Ivens.
+          <ref target="n07101612" n="12"/>   wind hard from the N. W. Saw great numbers
+          of Goats on the Shore S. S.    proceeded on    
+          <name type="person" key="Lewis, Meriwether">Capt. Lewis</name>&amp; the Indian Chief
+          walked on Shore, Soon after I discovered Great numbers of Goats in the river, and
+          Indians on the Shore on each Side, as I approached or got nearer I discovered boys in
+          the water Killing the Goats with Sticks and halling them to Shore, Those on the banks
+          Shot them with arrows and as they approachd. the Shore would turn them back   
+          of this Gangue of Goats I counted 58 of which they had killed &amp; on the Shore, one of
+          our hunters out with 
+          <name type="person" key="Lewis, Meriwether">Cap Lewis</name>killed three Goats, we
+          passed the Camp on the S. S. and proceeded ½ mile and Camped on the L. S.   
+          many Indians came to the boat to See, Some Came across late at night, as they approach
+          they hollowed and Sung, after Staying a Short time 2 went for Some meat, and returned in
+          a Short time with fresh &amp; Dried Buffalow, also goat, those Indians Strayed all
+          night, They Sung and was verry merry the greater part of the night 〈wind hard from N
+          W.〉</p>
+               <p>
+                  <hi rend="right">16th Octr</hi>
+               </p>
+               <p>
+                  <table rows="6" cols="3">
+                     <head>
+                        <hi rend="italic">Course Distance &amp; reffurences</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">  4</cell>
+                        <cell role="data" rows="1" cols="1">miles to a pt. on the S. S.   
+                Passed a willow Island L. S. (1)
+                <lb/>a Creek (2) above the Isd. &amp; one at 2 miles furthr (3)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° E.</cell>
+                        <cell role="data" rows="1" cols="1">  6</cell>
+                        <cell role="data" rows="1" cols="1">miles to the upper point of Some Timber on the
+                L. S.
+                <lb/>opsd. the mouth of a Creek on the S. S. (4).    passed a
+                <lb/>Isld. on the S. S. (5).    opsd. the Lower pt. of which comes
+                <lb/>in a Creek (5).</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">mile on the L. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">me. on the L. point High Ld.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 38° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  3</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles to a point on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">14½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1804-10-16.03">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>October 16th
+              <ref target="n07101613" n="13"/>
+                  </date>
+               </ab>
+               <p>This day took a small bird [
+          <hi rend="italic">EC: Phalaenoptilus nuttalli</hi>] alive of the order of the [
+          <hi rend="italic">blank</hi>] or goat suckers.    it appeared to be passing
+          into the dormant state.    on the morning of the 18th the murcury was at 30
+          a[bove] 0. the bird could scarcely move.—    I run my penknife into it's body
+          under the wing and completely distroyed it's lungs and heart—    yet it lived
+          upwards of two hours    this fanominon I could not account for unless it
+          proceeded from the want of circulation of the blo[o]d.—    the recarees call
+          this bird to'-na    it's note is at-tah-to'-nah'; at-tah'to'-nah'; to-nah,
+             a nocturnal bird, sings only in the night as does the whipperwill.—
+             it's weight—1 oz 17 Grains Troy</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1804-10-16.04">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 16th</hi>Oct. 1804.    a clear &amp; pleasant
+          morning.    we Set off at day light.    passed an old 
+          <name type="native_nation" key="Cheyenne Indians">Shian</name>fort on the S. S. where
+          the 
+          <name type="native_nation" key="Cheyenne Indians">Chian</name>nation of Indians lived
+          Some years ago.    proceeded on    passed a creek on S. S. called [
+          <hi rend="italic">blank</hi>]
+          <ref target="n07101614" n="14"/>   passed a Bottom covered with Timbers on N.
+          S.    at half past 7 oC. we halted took breakfast on a willow Island S. S.
+             passd. the Mouth of a River on S. S. called [
+          <hi rend="italic">blank</hi>]
+          <ref target="n07101615" n="15"/>   high naked hills back from the River.
+             we proceeded on under a gentle breeze from the S. W.    towards
+          evening Capt. Lewis &amp; one hunter went out hunting on S. S. of the River.
+             directly after we passed a hunting Camp of the 
+          <name type="native_nation" key="Arikara Indians">R. Ree</name>nation on N. S.
+             abo. the camp we Saw a Great nomber of Indians on each side of the River.
+             they were Shooting a flock of Goats which they had drove into the River.
+          They Shot upwards of 40 of them &amp; Got them to Shore.    they had Shot them
+          all with their Bows &amp; arrows.    we Saw Some of the Goats floating down
+          with the arrows Sticking up in them.    we Saw a large flock of Goats back on
+          the hills, which we Suppose they had Scared from the River.    our hunter
+          killed 3 Goats out of the same flock.    the Indians killed theirs
+             when the Indians killed the Goats in the River they Swam in &amp; drew them
+          out to each Shore    we Saw them all lying along the Shore &amp; Some Indians
+          on horse back to keep them or the flock in the River. So that they might kill as many as
+          they pleased.    we Camped on the S. S. where 
+          <name type="person" key="Lewis, Meriwether">Capt. Lewis</name>&amp; our hunter joined
+          us.</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1804-10-16.05">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 16th.</hi>   We early renewed our voyage; and had a
+          clear morning, passed a creek on the south side. The timber is more plenty than it has
+          been for a considerable distance down the river. The sand bars, gave us a great deal of
+          trouble, and much retarded our progress. In the evening a short time before we encamped,
+          we met with another hunting party of the 
+          <name type="native_nation" key="Arikara Indians">Rickarees</name>. They had a flock of
+          goats, or antelopes, in the river, and killed upwards of forty of them. 
+          <name type="person" key="Lewis, Meriwether">Captain Lewis</name>, and one of our hunters
+          went out and killed three of the same flock. We encamped on the south side. This day we
+          saw more than an hundred goats.</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1804-10-16.06">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>Tuesday October 16th
+          <ref target="n07101616" n="16"/>   We set out early this morning, and passed
+          a Creek lying on the South side of the River, we continued on 'till the afternoon, when
+          we saw a hunting party of the 
+          <name type="native_nation" key="Arikara Indians">Rick aRee</name>Indians, who were
+          shooting at a flock of Goats, which were in the River; Some of our Men from One of the
+          boats shot 3 of them which they got on board, We proceeded on, and in the Evening we
+          Encamped on the South side of the River</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n07101601" n="1">See above, 
+        <ref n="1804-10-09" type="related">October 9, 1804</ref>.</note>
+            <note xml:id="n07101602" n="2">In 
+        <name type="place" key="Sioux County, N. Dak.">Sioux County</name>, 
+        <name type="place" key="North Dakota">North Dakota</name>, between present 
+        <name type="place" key="Four Mile Creek">Four Mile</name>and 
+        <name type="place" key="Long Soldier (Shará) Creek">Long Soldier</name>or 
+        <name type="place" key="Porcupine (Sharhá, So-harch, Girl) Creek (S. Dak.)">Porcupine
+        creeks</name>. The site, probably now inundated by 
+        <name type="place" key="Oahe Reservoir">Oahe Reservoir</name>, represents a period when
+        the 
+        <name type="native_nation" key="Cheyenne Indians">Cheyennes</name>were relatively
+        sedentary, before they had adopted a completely nomadic way of life in the latter part of
+        the eighteenth century. 
+        <hi rend="italic">Atlas</hi>map 26; Hyde (IHP), 47–48 and n. 15; Grinnell, 1:23–24;
+        Berthrong, 9–13; MRC map 47. Other authorities disagree with Grinnell that it is a
+        Cheyenne site. Wood (BS), 63–64.</note>
+            <note xml:id="n07101603" n="3">Osgood interprets these words as "Levenispice," and
+        suggests that it may mean that the 
+        <name type="native_nation" key="Cheyenne Indians">Cheyennes</name>were deprived of "living
+        space." However, 
+        <name type="person" key="Clark, William">Clark</name>spells 
+        <name type="place" key="Lake Winnipeg">Lake Winnipeg</name>"Winipic" on his 1805 map (
+        <hi rend="italic">Atlas</hi>maps 32
+        <hi rend="italic">a</hi>, 32
+        <hi rend="italic">b</hi>, and 32
+        <hi rend="italic">c</hi>), and since the 
+        <name type="place" key="Red River of the North">Red River of the North</name>flows into
+        that lake, it is likely that he is here identifying the river more fully. The exact
+        spelling is not clear. Osgood (FN), 161 and n. 3.</note>
+            <note xml:id="n07101604" n="4">Perhaps later 
+        <name type="place" key="Porcupine (Sharhá, So-harch, Girl) Creek (S. Dak.)">
+        Porcupine</name>or 
+        <name type="place" key="Battle (Char-part, Girl, So-harch, Woman) Creek">Battle
+        Creek</name>, in 
+        <name type="place" key="Sioux County, N. Dak.">Sioux County</name>, nameless on 
+        <hi rend="italic">Atlas</hi>map 27. 
+        <name type="person" key="Clark, William">Clark</name>is apparently applying 
+        <name type="native_nation" key="Arikara Indians">Arikara</name>names learned from the
+        chief accompanying them to this and other streams passed. It may be rendered as 
+        <hi rend="italic">suúnat
+        <seg n="u353">š</seg>
+               </hi>, "girl" in 
+        <name type="native_nation" key="Arikara Indians">Arikara</name>. MRC map 47; MRY map
+        123.</note>
+            <note xml:id="n07101605" n="5">The second nameless stream on the larboard side on 
+        <hi rend="italic">Atlas</hi>map 27, perhaps later 
+        <name type="place" key="Battle (Char-part, Girl, So-harch, Woman) Creek">Battle
+        Creek</name>, in 
+        <name type="place" key="Sioux County, N. Dak.">Sioux County</name>. It is 
+        <hi rend="italic">sápat</hi>, "woman" in 
+        <name type="native_nation" key="Arikara Indians">Arikara</name>. MRC map 47; MRY map
+        123.</note>
+            <note xml:id="n07101606" n="6">Presently 
+        <name type="place"
+                     key="Little Beaver (Kee-tooch Sar-kar-nar) Creek (Emmons County, N. Dak.)">Little Beaver
+        Creek</name>, in 
+        <name type="place" key="Emmons County, N. Dak.">Emmons County</name>, 
+        <name type="place" key="North Dakota">North Dakota</name>. It is 
+        <hi rend="italic">
+                  <seg n="u269">č</seg>ítUx</hi>
+               <hi rend="italic">sAhaánu'</hi>, "beaver creek" in 
+        <name type="native_nation" key="Arikara Indians">Arikara</name>. 
+        <hi rend="italic">Atlas</hi>map 27; MRC map 47.</note>
+            <note xml:id="n07101607" n="7">The 
+        <name type="native_nation" key="Arikara Indians">Arikara</name>words 
+        <hi rend="italic">wah</hi>for "elk" and 
+        <hi rend="italic">arika</hi>for "horn" may coincide with 
+        <name type="person" key="Clark, William">Clark's</name>rendition. Now 
+        <name type="place"
+                     key="Beaver (War-re-con-nee, Wardepon) Creek (Emmons County, N. Dak.)">
+        Beaver Creek</name>, in 
+        <name type="place" key="Emmons County, N. Dak.">Emmons County</name>. 
+        <hi rend="italic">Atlas</hi>map 27; MRC map 47.</note>
+            <note xml:id="n07101608" n="8">As 
+        <name type="person" key="Clark, William">Clark</name>notes in Codex C, he derived the name
+        of the island from Evans's map 5 (
+        <hi rend="italic">Atlas</hi>map 11). It seems to have joined the starboard shore by the
+        late nineteenth century. 
+        <hi rend="italic">Atlas</hi>map 27; MRC map 47.</note>
+            <note xml:id="n07101609" n="9">In 
+        <name type="place" key="Sioux County, N. Dak.">Sioux County</name>, roughly two miles
+        above the mouth of 
+        <name type="place"
+                     key="Beaver (War-re-con-nee, Wardepon) Creek (Emmons County, N. Dak.)">
+        Beaver Creek</name>. 
+        <hi rend="italic">Atlas</hi>map 27; MRC map 48.</note>
+            <note xml:id="n07101610" n="10">"
+        <name type="person" key="Heney, Hugh">Mr. Hayley</name>" is probably 
+        <name type="person" key="Heney, Hugh">Hugh Heney</name>, whom the party met at 
+        <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name>(see below, 
+        <ref n="1804-12-16" type="related">December 16, 1804</ref>). Apparently it was he who
+        informed the captains that "
+        <name type="native_nation" key="Cheyenne Indians">Cheyenne</name>" was not derived from
+        the French "
+        <hi rend="italic">chien</hi>," for dog.</note>
+            <note xml:id="n07101611" n="11">At this point the text of the Codex C entry is interrupted
+        by the courses and distances; here the two parts are brought together for ease of
+        reading.</note>
+            <note xml:id="n07101612" n="12">Shown on 
+        <hi rend="italic">Atlas</hi>map 11, see n. 8 above.</note>
+            <note xml:id="n07101613" n="13">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name>natural history notes from Codex
+        Q. The bird is the common poorwill, 
+        <hi rend="italic">Phalaenoptilus nuttallii</hi>[AOU, 418], as noted interlineally by
+        Coues. Burroughs notes that it was not until the 1940s that zoologists discovered the
+        bird's tendency to hiberate. Burroughs , 236, 327 n. 7. The poorwill is a close relative
+        of the whip-poor-will (
+        <hi rend="italic">Caprimulgus vociferus</hi>[AOU, 417]) that 
+        <name type="person" key="Lewis, Meriwether">Lewis</name>uses for comparison.</note>
+            <note xml:id="n07101614" n="14">Probably 
+        <name type="person" key="Clark, William">Clark's</name>
+               <name type="place" key="Battle (Char-part, Girl, So-harch, Woman) Creek">Girl
+        Creek</name>, either 
+        <name type="place" key="Porcupine (Sharhá, So-harch, Girl) Creek (S. Dak.)">
+        Porcupine</name>or 
+        <name type="place" key="Battle (Char-part, Girl, So-harch, Woman) Creek">Battle
+        Creek</name>, 
+        <name type="place" key="Sioux County, N. Dak.">Sioux County</name>, 
+        <name type="place" key="North Dakota">North Dakota</name>.</note>
+            <note xml:id="n07101615" n="15">
+               <name type="person" key="Ordway, John">Ordway</name>may mean on the north (actually east)
+        side, thus 
+        <name type="person" key="Clark, William">Clark's</name>
+               <name type="place"
+                     key="Beaver (War-re-con-nee, Wardepon) Creek (Emmons County, N. Dak.)">
+        Warreconne River</name>, today's 
+        <name type="place"
+                     key="Beaver (War-re-con-nee, Wardepon) Creek (Emmons County, N. Dak.)">
+        Beaver Creek</name>, 
+        <name type="place" key="Emmons County, N. Dak.">Emmons County</name>.</note>
+            <note xml:id="n07101616" n="16">As a result of a gap in the original, the single entries
+        for the period October 16–31 are from the fair copy.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-10-15" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-10-17" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

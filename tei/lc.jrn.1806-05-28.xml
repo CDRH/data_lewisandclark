@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1806-05-28">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">May 28, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic
+        Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>cdrh@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            7</title>
+               <title level="m" type="sub">March 23–June 9, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1991</date>
+               <biblScope type="pages">297-302</biblScope>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">316</biblScope>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23,
+            1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">233</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS">
+            <placeName/>
+            <geo>45.9995 -116.6952</geo>
+            <note>Same party continued exploring on Lawyer Creek. Camped near the Lewis-Nez Perce county line, ID, above Deer Creek's entrance into the Salmon River. </note>
+            <note>Approximate location</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-10-25</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-04-12</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date>May 28, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.1806-05-28.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday May 28th 1806.</hi>
+                  </date>
+               </ab>
+               <p>We sent 
+          <name type="person" key="Goodrich, Silas">Goodrich</name>to the village of the 
+          <hi rend="italic">
+                     <name type="person" key="Broken Arm">broken arm</name>
+                  </hi>this morning    he returned in the evening with some roots bread and a
+          parsel of goats-hair for making our saddle pads. 
+          <name type="person" key="Field, Reubin">Reubin</name>and 
+          <name type="person" key="Field, Joseph">Joseph Feilds</name>set out this morning to hunt
+          high up on a creek which discharges itself into this river about 8 miles above us.
+             at Noon 
+          <name type="person" key="Charbonneau, Toussaint">Charbono</name>, 
+          <name type="person" key="York">York</name>and 
+          <name type="person" key="Lepage, Jean Baptiste">Lapage</name>returned; they had obtained
+          four bags of the dryed roots of Cows and some bread.    in the evening 
+          <name type="person" key="Collins, John">Collins</name>
+                  <name type="person" key="Shannon, George">Shannon</name>and 
+          <name type="person" key="Colter, John">Colter</name>returned with eight deer.
+             they had fortunately discovered a ford on 
+          <name type="place" key="Lolo (Collins's) Creek (Idaho)">Collins's Creek</name>where they
+          were enabled to pass it with their horses and had hunted at the 
+          <name type="place" key="Weippe Prairie (Camas Flats, Quawmash Flats)">quawmash
+          ground</name>where we first met with the 
+          <name type="native_nation" key="Nez Perce Indians">Chopunnish</name>last fall.
+          <ref target="n35052801" n="1"/>   deer were very abundant they informed us,
+          but there were not many bear. The sick Cheif was much better this morning he can use his
+          hands and arms and seems much pleased with the prospect of recovering, he says he feels
+          much better than he has for a great number of months. I sincerely wish these sweats may
+          restore him; we have consented that he should still remain with us and repeat these
+          sweats.    he set up a great proportion of the day.—    The Child is
+          also better, he is free of fever, the imposthume is not so large but seems to be
+          advancing to maturity.—    since my arrival here I have killed several birds
+          <ref target="n35052802" n="2"/>of the 
+          <hi rend="italic">corvus</hi>genus [
+          <hi rend="italic">EC: Picicorvus</hi>] of a kind found only in the 
+          <name type="place" key="Rocky Mountains">rocky mountains</name>and their neighbourhood.
+          I first met with this bird above the 
+          <name type="place" key="Missouri River, Three Forks of the">three forks of the
+          Missouri</name>and saw them on the hights of the 
+          <name type="place" key="Rocky Mountains">rocky Mountains</name>but never before had an
+          opportunity of examining them closely.    the small 
+          <hi rend="italic">corvus</hi>
+                  <ref target="n35052803" n="3"/>[
+          <hi rend="italic">EC: Perisoreus</hi>] discribed at 
+          <name type="place" key="Fort Clatsop (Oreg.)">Fort Clatsop</name>is a different speceis,
+          tho' untill now I had taken it to be the same, this is much larger and has a loud
+          squawling note something like the mewing of a cat.    the beak of this bird is
+          1½ inches long, is proportionably large, black and of the form which characterizes the
+          genus.    the upper exceeds the under chap a little.    the head and
+          neck are also proportionably large.    the eye full and reather prominent, the
+          iris dark brown and puple black.    it is about the size and somewhat the form
+          of the Jaybird tho reather rounder or more full in the body.    the tail is
+          four and a half inches in length, composed of 12 feathers nearly of the same length.
+             the head neck and body of this bird are of a dove colour.    the
+          wings are black except the extremities of six large fathers ocupying the middle joint of
+          the wing which are white.    the under disk of the wing is not of the shining
+          or grossy black which marks it's upper surface.    the two feathers in the
+          center of the tail are black as are the two adjacent feathers for half their width the
+          ballance are of a pure white.    the feet and legs are black and imbricated
+          with wide scales.    the nails are black and remarkably long and sharp, also
+          much curved.    it has four toes on each foot of which one is in the rear and
+          three in front.    the toes are long particularly that in the rear.
+             this bird feeds on the seed of the pine and also on insects.   
+          it resides in the 
+          <name type="place" key="Rocky Mountains">rocky mountains</name>at all seasons of the
+          year, and in many parts is the only bird to be found.—    our hunters brought
+          us a large hooting Owl
+          <ref target="n35052804" n="4"/>[
+          <hi rend="italic">EC: Scotiaptex cinerea</hi>] which differs considerably from those of
+          the Atlantic States which are also common here.    the plumage of this owl is
+          an uniform mixture of dark yellowish brown and white, in which the dark brown
+          predominates.    it's colour may be properly termed a dark iron grey.
+             the plumage is very long and remarkably silky and soft.    these
+          have not the long feathers on the head which give it the appearance of ears or horns.
+             the leathers of the head are long narrow and closely set, they rise
+          upwright nearly to the extremity and then are bent back sudonly as iff curled.
+             a kind of ruff of these feathers incircle the thoat.    the head
+          has a flat appearance being broadest before and behind and is 1 foot 10 Is. in
+          circumference.    incircling the eyes and extending from them like rays from
+          the center a tissue of open hairy long feathers are placed of a light grey colour, these
+          conceal the ears which are very large and are placed close to the eyes behind and
+          extending below them.    these feathers meet over the beak which they nearly
+          conceal and form the face of the owl.    they eyes are remarkably large and
+          prominant, the iris of a pale goald colour and iris circular and of a deep sea green.
+             the beak is short and wide at it's base. the upper chap is much curved at
+          the extremity and comes down over and in front of the under chap.    this bird
+          is about the size of the largest hooting Owl.    the tail is composed of
+          eleven feathers, of which those in the center are reather the longest.    it
+          is booted to the extremity of the toes, of which it has four on each foot, one in the
+          rear one on the outer side and two in front.    the toes are short
+          particularly that in rear, but are all armed with long keen curved nails of a dark brown
+          colour.    the beak is white and nostrils circular large and unconnected.
+             the habits and the note of this owl is much that of the common large
+          hooting owl.—</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1806-05-28.02">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday May 28th 1806</hi>
+                  </date>
+               </ab>
+               <p>We sent 
+          <name type="person" key="Goodrich, Silas">Goodrich</name>to the Village of the 
+          <hi rend="italic">
+                     <name type="person" key="Broken Arm">broken Arm</name>
+                  </hi>for hair to Stuff Saddle pads. 
+          <name type="person" key="Field, Joseph">Jo.</name>&amp; 
+          <name type="person" key="Field, Reubin">R. Fields</name>Set out this morning to hunt
+          towards the mountains.    at noon 
+          <name type="person" key="Charbonneau, Toussaint">Shabono</name>
+                  <name type="person" key="York">York</name>and 
+          <name type="person" key="Lepage, Jean Baptiste">Lapage</name>returned.    they
+          had obtained 4 bags of the dried roots of Cowse and Some bread.    in the
+          evening 
+          <name type="person" key="Collins, John">Collins</name>, 
+          <name type="person" key="Shannon, George">Shannon</name>&amp; 
+          <name type="person" key="Colter, John">Colter</name>returned with 8 deer.   
+          they fortunately discovered a ford on 
+          <name type="place" key="Lolo (Collins's) Creek (Idaho)">Collin's Creek</name>where they
+          were enable to pass it with there horses and had hunted at the 
+          <name type="place" key="Weippe Prairie (Camas Flats, Quawmash Flats)">quawmash
+          Grounds</name>where we first met with the 
+          <name type="native_nation" key="Nez Perce Indians">Chopunnish</name>last fall.
+             deer were verry abundant they informed us, but there was not many bear. The
+          Sick Chief is much better this morning    he can use his hands and arms and
+          Seems much pleased with the prospects of recovering, he Says he feels much better than
+          he has done for a great Number of Months. I Sincerly wish that the Swetts may restore
+          him. I have Consented to repeet the Sweets.
+          <ref target="n35052805" n="5"/>
+               </p>
+               <p>The Country along the 
+          <name type="place" key="Rocky Mountains">rocky mountains</name>for Several hundred Miles
+          in length and about 50 in width is leavel extremely fertile and in many parts Covered
+          with a tall and opult. growth of the long leafed pine.    near the
+          Watercourses the hills are lofty tho' are covered with a good Soil and not remarkably
+          Stoney and possess more timber than the leavel country. the bottom lands on the Water
+          courses are reather narrow and confined tho' fertile and Seldom inundated.   
+          this Country would form an extensive Settlement; the Climate appears quit as mild as
+          that of a Similar latitude on the 
+          <name type="place" key="Atlantic Ocean">Atlantic</name>Coast; &amp; it cannot be
+          otherwise than healthy; it possesses a fine dry pure air.    the grass and
+          maney plants are now upwards of Knee high. I have no doubt that this tract of Country if
+          Cultivated would produce in great abundance every article esentially necessary to the
+          comfort and Subsistence of civillized man.    to it's present inhabitents
+          nature Seems to have dealt with a liberal hand, for she has distributed a great variety
+          of esculent plants over the face of the Country which furnish them a plentiful Store of
+          provisions; those are acquired but little toil; and then prepared after the method of
+          the nativs afford not only a nutricious but an agreeable food.    among other
+          roots those Called by them the 
+          <hi rend="italic">Quawmash</hi>and 
+          <hi rend="italic">Cows</hi>are esteemd. the most agreeable and valuable as they are also
+          the most abundant in those high plains.</p>
+               <p>The 
+          <hi rend="italic">Cows</hi>is a knobbed root of an erregularly rounded form not unlike
+          the Gensang in form and Consistence; this root they Collect, rub off a thin black rhind
+          which Covers it and pounding it exposes it in cakes to the Sun.    these Cakes
+          are about an inch and ¼ thick and 6 by 18 in wedth, when dry they either eat this bread
+          alone without any further preperation, or boil it and make a thick Musilage; the latter
+          is most common &amp; much the most agreeable.    the flower of this root is
+          not very unlike the gensang—.    this root they Collect as early as the Snow
+          disappears in the Spring, and Continues to collect it untill the Quawmash Supplies it's
+          place which happins about the Middle of June.    the quawmash is also
+          Collected for a fiew weeks after it first makes it's appearance in the Spring, but when
+          the scape appears it is no longer fit for use untill the Seed are ripe which happens
+          about the time just mentioned.    and then the 
+          <hi rend="italic">Cows</hi>declines. The Cows is also frequently dried in the Sun and
+          pounded afterwards and used in thickening Supe and Makeing Mush.</p>
+               <p>The 
+          <hi rend="italic">
+                     <name type="native_nation" key="Nez Perce Indians">Chopunnish</name>
+                  </hi>held a Council in the morning of the 12th among themselves in respect to the
+          Subject on which we had Spoken to them the day before,
+          <ref target="n35052806" n="6"/>the result as we learnt was favourable, they placed
+          Confidence in the information they had recived and resolved to pursue our advise.
+             after this Council was over the principal Chief or the 
+          <hi rend="italic">
+                     <name type="person" key="Broken Arm">broken arm</name>,</hi>took the flour of the roots
+          of Cows and thickened the Soup in the Kitiles and baskets of all his people, this being
+          ended he made a harangue the purpote of which was makeing known the deliberations of
+          their councils and impressing the necessity of unanimity among them, and a strict
+          attention to the resolution which had been agreed on in Councell; he concluded by
+          enviting all such men as had resolved to abide by the decree of the councill to come and
+          eat, and requested Such as would not be So bound to Show themselves by not partakeing of
+          the feast. I was told by one of our men who was present in the house, that there was not
+          a decenting voice on this great National question, but all Swallowed their objections if
+          any they had, very cheerfully with their mush—.    dureing the time of this
+          loud animated harangue of the Chief the women Cryed wrung their hands, tore their hair
+          and appeared to be in the utmost distress.    after this cerimoney was over,
+          the Chiefs and considerate men came in a body to where we were Seated at a little
+          distance from our tent, and two young men at the instance of the nation presented 
+          <name type="person" key="Lewis, Meriwether">Capt L.</name>and myself each a fine horse.
+             and informed us that they had listened with attentioned to what we had Said
+          and were resolved to pursue our Counsels &amp;c.—    That as we had not seen
+          the 
+          <name type="native_nation" key="Blackfeet Indians">Black foot</name>Indians and the 
+          <name type="native_nation" key="Atsina Indians">Minetaries of Fort dePrarie</name>they
+          did not think it safe to venter over to the plains of the 
+          <name type="place" key="Missouri River">Missouri</name>, where they would fondly go
+          provided those nations would not kill them.    that when we had established a
+          tradeing house on the 
+          <name type="place" key="Missouri River">Missouri</name>as we had promised they would
+          Come over and trade for arms Amunition &amp;c. and live about us.    that it
+          would give them much pleasure to be at peace with those nations altho' they had Shed
+          much of their blood—. They Said that they were pore but their hearts were good.
+             we might be assured of their sincerety. Some of their brave men would go
+          over with us to the 
+          <name type="place" key="Missouri River">Missouri</name>and bring them the news as we
+          wished, and if we Could make a peace between them[Selves] and their enimies on the other
+          Side of the mountains their nation would go over to the 
+          <name type="place" key="Missouri River">Missouri</name>in the latter end of the Summer.
+             on the Subject of one of their Chiefs accompanying us to the land of the
+          White men they Could not yet determine, but that they would let us know before we left
+          them. that the Snow was yet so deep in the Mountains that if we attempted to pass, we
+          would Certainly perish, and advised us to remain untill after the next full Moon when
+          the Snow would disappear on the South hill sides and we would find grass for our
+          horses.—. 
+          <name type="person" key="Charbonneau, Jean Baptiste">Shabonos Child</name>is better this
+          day that he was yesterday.    he is free from fever.    the
+          imposthume is not So large but Seems to be advanceing to meturity—.</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1806-05-28.03">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>Wednesday 28th May 1806.    we Set out eairly    the old chief
+          and an other Indn went with us.    we rode on a plain about 2 hours then left
+          the road and bore South thro an unlevel timbred country untill towards evening. Saw
+          Several big horn animel or mountain Sheep and Saw 14 deer in this timbred country
+             Some Spots of Snow &amp; falling timber.    had a hard Thunder
+          Shower.    towards evening we descended a bad hill down on a creek
+          <ref target="n35052807" n="7"/>   followed it down Some distance and arived
+          at a village where we Camped.</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1806-05-28.04">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 28th.</hi>   There was a cloudy foggy morning.
+          Some hunters
+          <ref target="n35052808" n="8"/>went out this morning, and in the afternoon three of
+          them
+          <ref target="n35052809" n="9"/>came in with eight deer; at the same time three more of
+          our men
+          <ref target="n35052810" n="10"/>returned from the villages.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n35052801" n="1">
+               <name type="place" key="Weippe Prairie (Camas Flats, Quawmash Flats)">Weippe
+        Prarie</name>, in 
+        <name type="place" key="Clearwater County, Idaho">Clearwater County</name>, 
+        <name type="place" key="Idaho">Idaho</name>. 
+        <hi rend="italic">Atlas</hi>map 71.</note>
+            <note xml:id="n35052802" n="2">Clark's nutcracker, 
+        <hi rend="italic">Nucifraga columbiana</hi>[AOU, 491], first observed on 
+        <ref n="1805-08-22" type="related">August 22, 1805</ref>, and now given its first full
+        description. Named for 
+        <name type="person" key="Clark, William">Clark</name>by Alexander Wilson, who also
+        included a drawing of it in his published ornithology. Coues's penciled term 
+        <hi rend="italic">Picicorvus</hi>was the bird's genus name in his time. Coues (HLC),
+        3:1028 n. 20; Cutright (LCPN), 383–87; Burroughs, 251–52; Holmgren, 29. It was probably
+        Biddle who drew a red vertical line through the descriptive passage and two more through
+        descriptive passages below.</note>
+            <note xml:id="n35052803" n="3">Presumably the gray jay, 
+        <hi rend="italic">Perisoreus canadensis</hi>[AOU, 484], described on 
+        <ref n="1805-12-18" type="related">December 18, 1805</ref>. The "Jaybird" is the blue
+        jay, 
+        <hi rend="italic">Cyanocitta cristata</hi>[AOU, 477].</note>
+            <note xml:id="n35052804" n="4">The great gray owl, a new species. See 
+        <name type="person" key="Clark, William">Clark's</name>brief description at 
+        <ref n="1806-05-23" type="related">May 23, 1806</ref>.</note>
+            <note xml:id="n35052805" n="5">Much of what follows in this entry is copied from 
+        <name type="person" key="Lewis, Meriwether">Lewis's</name>entries of some weeks earlier;
+        see 
+        <ref n="1806-05-09" type="related">May 9</ref>and 
+        <ref n="1806-05-12" type="related">12</ref>, 1806.</note>
+            <note xml:id="n35052806" n="6">The words from the "12th" to about here appear to have
+        replaced some erasures.</note>
+            <note xml:id="n35052807" n="7">According to John J. Peebles, "The Return of 
+        <name type="person" key="Lewis, Meriwether">Lewis</name>and 
+        <name type="person" key="Clark, William">Clark</name>," 
+        <hi rend="italic">Idaho Yesterdays</hi>10 (Summer 1966): 21, the party continued west on 
+        <name type="place" key="Lawyer (Commearp) Creek">Lawyer Creek</name>, then overland
+        southwesterly to 
+        <name type="place" key="Deer Creek (Idaho)">Deer Creek</name>, descended it a ways, and
+        camped for the night. The camp would have been near the 
+        <name type="place" key="Lewis County, Idaho">Lewis</name>–
+        <name type="place" key="Nez Perce County, Idaho">Nez Perce</name>county line, 
+        <name type="place" key="Idaho">Idaho</name>, above 
+        <name type="place" key="Deer Creek (Idaho)">Deer Creek's</name>entrance into the 
+        <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">
+        Salmon River</name>. More recently, Merle Wells of the Idaho Historical Society has been
+        at work tracing 
+        <name type="person" key="Ordway, John">Ordway's</name>route. Personal communication,
+        September 14, 1990. Wells has the party follow 
+        <name type="place" key="Lawyer (Commearp) Creek">Lawyer Creek</name>west to 
+        <name type="place" key="Mitchell Creek">Mitchell Creek</name>, move northwesterly up it a
+        distance, then go overland to return to 
+        <name type="place" key="Lawyer (Commearp) Creek">Lawyer Creek</name>, follow it a short
+        distance before breaking off overland again, and finally descend to the 
+        <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">
+        Salmon</name>along a route paralleling 
+        <name type="place" key="Deer Creek (Idaho)">Deer Creek</name>but to the west of that
+        stream. Both accounts have to rely on what seems the most plausible route since 
+        <name type="person" key="Ordway, John">Ordway's</name>description is not detailed enough
+        to allow a precise tracing. 
+        <name type="person" key="Lewis, Meriwether">Lewis</name>summarizes 
+        <name type="person" key="Ordway, John">Ordway's</name>journey in his entry for 
+        <ref n="1806-06-02" type="related">June 2, 1806</ref>.</note>
+            <note xml:id="n35052808" n="8">According to 
+        <name type="person" key="Lewis, Meriwether">Lewis</name>and 
+        <name type="person" key="Clark, William">Clark</name>, the 
+        <name type="person" key="Field, Joseph and Reubin">Field brothers</name>.</note>
+            <note xml:id="n35052809" n="9">
+               <name type="person" key="Collins, John">Collins</name>, 
+        <name type="person" key="Shannon, George">Shannon</name>, and 
+        <name type="person" key="Colter, John">Colter</name>.</note>
+            <note xml:id="n35052810" n="10">
+               <name type="person" key="Charbonneau, Toussaint">Charbonneau</name>, 
+        <name type="person" key="York">York</name>, and 
+        <name type="person" key="Lepage, Jean Baptiste">Lepage</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-05-27" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-05-29" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

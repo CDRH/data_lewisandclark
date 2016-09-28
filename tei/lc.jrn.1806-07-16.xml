@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1806-07-16">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">July 16, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic
+        Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>cdrh@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">111-112, 189-193</biblScope>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">336-337</biblScope>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23,
+            1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">254</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS">
+            <placeName/>
+            <geo>47.5 -111.3</geo>
+            <note>Lewis also broke away from the rest of the party and camped on the north side of the Missouri River at the Great Falls, Cacade County, MT. What remained of the party stayed at the 07-13 camp to await Lewis or meet Clark in the future.</note>
+         </geoDecl>
+         <geoDecl datum="WGS">
+            <placeName/>
+            <geo>45.8473 -109.9408</geo>
+            <note>Clark camped in Sweet Grass County, MT, on the north side of the Yellowstone just below the mouth of Little Timber Creek.</note>
+            <note>Clark: Approximate location</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-11-12</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-04-12</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date>July 16, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.1806-07-16.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday July 16th 1806.</hi>
+                  </date>
+               </ab>
+               <p>I dispatched a man early this morning to drive up the horses as usual, he returned at
+          8 A. M. with one of them only.    allarmed at this occurrence I dispatched one
+          of my best hands on horseback in surch of them he returned at 10 A. M. with them and I
+          immediately set out.    sent 
+          <name type="person" key="Drouillard, George">Drewyer</name>and 
+          <name type="person" key="Field, Reubin">R. Fields</name>with the horses to the lower
+          side of 
+          <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Medecine
+          river</name>, and proceeded myself with all our baggage and 
+          <name type="person" key="Field, Joseph">J. Fields</name>down the 
+          <name type="place" key="Missouri River">missouri</name>to the mouth of 
+          <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Medecine
+          river</name>in our canoe of buffaloe skins. we were compelled to swim the horses above
+          the whitebear island and again across 
+          <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">medicine
+          river</name>as the 
+          <name type="place" key="Missouri River">Missouri</name>is of great width below the mouth
+          of that river.    having arrived safely below 
+          <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Medicine
+          river</name>we immediately sadled our horses and proceeded down the river to the 
+          <name type="place" key="Rainbow (Handsome, Beautiful) Falls">handsom fall</name>
+                  <ref target="n37071601" n="1"/>of 47 feet where I halted about 2 hours and took a
+          haisty sketch of these falls; in the mean time we had some meat cooked and took dinner
+          after which we proceeded to the 
+          <name type="place" key="Missouri River, Great Falls of the">grand falls</name>
+                  <ref target="n37071602" n="2"/>where we arrived at sunset.    on our way we
+          saw two very large bear on the opposite side of the river.    as we arrived in
+          sight of the little wood below the falls we saw two other bear enter it; this being the
+          only wood in the neighbourhood we were compelled of course to contend with the bear for
+          possession, and therefore left our horses in a place of security and entered the wood
+          which we surched in vain for the bear, they had fled.    here we encamped and
+          the evening having the appearance of rain made our beds and slept under a shelving rock.
+             these falls have abated much of their grandure since I first arrived at
+          them in June 1805, the water being much lower at preset than it was at that moment,
+          however they are still a sublimely grand object. I determined to take a second drawing
+          of it in the morning.    we saw a few buffaloe as we passed today, the immence
+          hirds which were about this place on our arrival have principally passed the river and
+          directed their course downwards.    we see a number of goats or antilopes
+          always in passing through the plains of the 
+          <name type="place" key="Missouri River">Missouri</name>above the 
+          <name type="native_nation" key="Mandan Indians">Mandans</name>.    at this
+          season they are thinly scattered over the plains but seem universally distributed in
+          every part; they appear very inquisitive usually to learn what we are as we pass, and
+          frequently accompany us at no great distance for miles, frequently halting and giving a
+          loud whistle through their nostrils, they are a very pretty animal and astonishingly
+          fleet and active.    we spent this evening free from the torture of the
+          Musquetoes.    there are a great number of geese which usually raise their
+          young above these falls about the entrance of 
+          <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Medicine
+          river</name>   we saw them in large flocks of several hundred as we passed
+          today. I saw both yesterday and today the Cookkoo
+          <ref target="n37071603" n="3"/>or as it is sometimes called the 
+          <hi rend="italic">rain craw.</hi>   this bird is not met with west of the 
+          <name type="place" key="Rocky Mountains">Rocky Mountains</name>nor within them.—</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1806-07-16.02">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>16th</date>
+               </ab>
+               <p>
+                  <table rows="8" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 80° E</cell>
+                        <cell role="data" rows="1" cols="1">9</cell>
+                        <cell role="data" rows="1" cols="1">miles to a bluff in a bend right   
+                the general course of the
+                <lb/>river very Straight    passed a 〈great number of〉 Several
+                <lb/>Islands    the most of them covered with Cottonwood and
+                <lb/>Willer    The Trees too Small for Canoes.    passed a
+                large
+                <lb/>Creek from the right which I call [
+                <hi rend="italic">blank</hi>] Creek
+                <ref target="n37071604" n="4"/>(11 ms)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">miles to a bend on the right side   
+                (1)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 50° E</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">Miles to a 〈bluff〉 Clift of rocks in a bend on
+                the right Side— (2 M)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° E</cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                        <cell role="data" rows="1" cols="1">Miles to a bend on the left opsd. a large
+                Island    main Channel
+                <lb/>on the right    Dined on the Isld.    killd a fat
+                Buffalow &amp; saw 2
+                <lb/>w[hite] Bear.    a gange of Elk 200 &amp; a gang of Antelopes wild
+                <lb/>gees &amp;c &amp;c.    (4 Ms)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 46° E
+                <ref target="n37071605" n="5"/>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">4 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a N W bend of the river at which
+                place there is a very
+                <lb/>inconsiderable rapid under a low Clift of rocks on the N W
+                <lb/>Side, passed a branch at 2 miles and one on the S E. Side of
+                <lb/>the river at 3 miles.    river making a genl. bend to the S. E.—
+                <lb/>W[ater] 7 〈6 ½〉</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 60° E</cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">miles to Some high trees in a bend to the S E
+                Side    passed a
+                <lb/>drean N. W. Side    high land on the S. E. Side a Short dis-
+                <lb/>tance from the river.    the first 2 ms of this cours a low Bluff
+                <lb/>on the N W. Side.    by water 6 m</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                        <cell role="data" rows="1" cols="1">Miles to the bend under a low bluff on N W.
+                Side    Buffalow
+                <lb/>Crossing just above    passed 2 dreans on N W Side    an
+                ex-
+                <lb/>tensive low bottom on the S E. Side 3 or 400 B or Elk in it   
+                (4)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N: 40° E</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">Mile to the enterance of a small Creak on the
+                N W Side    be-
+                <lb/>low which I incamped opposit to a Small Island by water 1
+                <lb/>mile only    
+                <name type="person" key="Labiche, François">Labiech</name>killed an Elk. L.
+                brought me a Small fish
+                <lb/>8 ins long formed like a trout.    the mouth placed like a
+                <lb/>Sturgion with a red Streak down each side from the gills to
+                <lb/>the tail</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1806-07-16.03">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday 16th July 1806</hi>
+                  </date>
+               </ab>
+               <p>I gave 
+          <name type="person" key="Labiche, François">Labeech</name>promission to proceed on early
+          〈in〉 this morning a head and kill a fat Elk or Buffalow.    our horses haveing
+          rambled to a long distance down the river detained us much later than Common.
+             we did not Set out untill 9 A M.    we had not proceeded on far
+          before I saw a buffalow &amp; Sent 
+          <name type="person" key="Shannon, George">Shannon</name>to kill it    this
+          buffalow provd. to be a very fat Bull    I had most of the flesh brought on an
+          a part of the Skin to make mockersons [
+          <hi rend="italic">NB: remarkable sort of bag round foot</hi>] for Some of our lame
+          horses.    proceeded on down the river without finding any trees Sufficiently
+          large for a Canoe about 10 miles and halted having passed over to an Island on which
+          there was good food for our horses to let them graze &amp; dine. I have not Seen 
+          <name type="person" key="Labiche, François">Labeech</name>as yet. Saw a large gangue of
+          about 200 Elk and nearly as many Antilope    also two white or Grey Bear in
+          the plains, one of them I Chased on horse back about 2 miles to the rugid part of the
+          plain where I was compelled to give up the Chase    two of the horses was So
+          lame owing to their feet being worn quit Smooth and to the quick, the hind feet was much
+          the worst    I had Mockersons made of green Buffalow Skin and put on their
+          feet which Seams to releve them very much in passing over the Stoney plains.
+             after dinner I proceeded on    Soon after I had set Out 
+          <name type="person" key="Labiche, François">Labeech</name>joined us with part of a fat
+          Elk which he had killed. I passed over a Stoney point at which place the river runs
+          Close to the high land on the N W. side    crossed a small Creek and Encamped
+          on the river a little below its' Enterance.
+          <ref target="n37071606" n="6"/>Saw emence heards of Elk feeding on the oposit side of
+          the river. I saw a great number of young gees in the river.    one of the men
+          brought me a fish of a species I am unacquainted; it was 8 inches long formed like a
+          trout.    it's mouth was placed like that of the Sturgeon    a red
+          streak passed down each Side from the gills to the tail.
+          <ref target="n37071607" n="7"/>The rocks which the high lands are faced with and which
+          may also be seen in perpendicular Straters in the high plains, is a dark freestone.
+             the greater part of this rock is of an excellent grit for Grindstones hard
+          and sharp.
+          <ref target="n37071608" n="8"/>   observe the Silkgrass
+          <ref target="n37071609" n="9"/>Sunflower
+          <ref target="n37071610" n="10"/>&amp; Wild indigo
+          <ref target="n37071611" n="11"/>all in blume.    but fiew other flowers are
+          to be seen in those plains. The river and Creek bottoms abound in Cotton wood trees,
+          tho' none of them Sufficiently large for Canoes.    and the current of the 
+          <name type="place" key="Yellowstone River">Rochejhone</name>is too rapid [
+          <hi rend="italic">NB: &amp; not willing</hi>] to depend on Skinn canoes. [
+          <hi rend="italic">NB: which are not so easy managed &amp; we did not know the
+          river</hi>] no other alternetive for me but to proceed on down untill I can find a tree
+          Sufficently large &amp;c. to make a Canoe.—</p>
+               <p>Courses Computed distance by Land and Water Down the River 
+          <name type="place" key="Yellowstone River">Rochejhone</name>from the 
+          <name type="place" key="Rocky Mountains">Rocky Mountain</name>in Latd. 45° 22' 30" North
+          and Longtd. [
+          <hi rend="italic">blank</hi>] W. July 15 &amp; 16th 1806
+          <ref target="n37071612" n="12"/>
+               </p>
+               <p>
+                  <table rows="15" cols="5">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">Miles by
+                  <lb/>watr.</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">miles on a direct Course from the gap of
+                the</cell>
+                        <cell role="data" rows="8" cols="1">}</cell>
+                        <cell role="data" rows="8" cols="1">  3 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">mountain to a fiew Cotton trees under the
+                bank</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">and on the west or Larboard Side of the river
+                &amp;</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">on a Small Chanel. I marked my name withe
+                red</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">paint and the day of the month &amp; year also
+                the</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">distance &amp; course of the portage on one of
+                the</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">Cotton trees.    wide bottom on the
+                Lard Side, the
+                <lb/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">high Slopeing Prarie on the Stard Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">Mile to a cluster of trees in a Gully.
+                   passed</cell>
+                        <cell role="data" rows="4" cols="1">}</cell>
+                        <cell role="data" rows="4" cols="1">  2 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">some tall timber laterly killed by fire in
+                the</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">low bottom.    the high bottom
+                appear to have been</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">over flown</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 15° E.</cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">Miles to a deep bend of the river to the
+                West</cell>
+                        <cell role="data" rows="6" cols="1">}</cell>
+                        <cell role="data" rows="6" cols="1">  7</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">passed two Small runs and a large Island on
+                which</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">I Saw Some trees nearly large enough for
+                Small</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">canoes.    main chanel on the East
+                of the island.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">passed 11 Islands in this Course, the two
+                lower of</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">them large the others Small</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° E.</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">Miles to the enterance of 
+                <name type="place" key="Shields River">Shield— River</name>of 35 yds.</cell>
+                        <cell role="data" rows="7" cols="1">}</cell>
+                        <cell role="data" rows="7" cols="1">  3</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">wide deep &amp; a boald Current with a
+                great</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">perpotion of timber on its borders. this river
+                is</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">from the N W. much beaver sign.    a
+                high rugid</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">rocky hill buts the river imediately below a
+                very</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">good buffalow road passing from the head of
+                this</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">river through a gap of the Mts. to the 
+                <name type="place" key="Missouri River">Missouri</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 50° E</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">Miles passing a high rocky hill on the Lard.
+                Side,</cell>
+                        <cell role="data" rows="5" cols="1">}</cell>
+                        <cell role="data" rows="5" cols="1">  5</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">[
+                <hi rend="italic">EC: Camp</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">to the enterance of a Small Creek on the
+                Lard.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">July 15</hi>]</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">Side    passd. Several Small
+                islands.    an extensive</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">low bottom on the Stard. Side in which there
+                is</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">great nos. of Elk feeding.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° E.</cell>
+                        <cell role="data" rows="1" cols="1">9</cell>
+                        <cell role="data" rows="1" cols="1">Miles to a Bluff in a Stard. bend.
+                   the general
+                <lb/>
+                        </cell>
+                        <cell role="data" rows="6" cols="1">}</cell>
+                        <cell role="data" rows="6" cols="1">11</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">[
+                <hi rend="italic">EC: July</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">course of the river very Streight passing
+                Several
+                <lb/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">16th</hi>]</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">islands, Most of them Covered with Cotton
+                trees
+                <lb/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">and willow.    passed 
+                <name type="place"
+                                 key="Boulder River (Rivers Across, Stinking Cabin Creek) (Sweet Grass County, Mont.)">
+                Stinking Cabin Creek</name>20 yards
+                <lb/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">wide bold current from which falls in on the
+                Stard
+                <lb/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">Side. Timber up this Cree as far as I could
+                see</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">Mile on the Course to a bend on the Stard.
+                side</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 50° E.</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">Miles to a Clift of rocks in a bend to the
+                Stard.</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">  2</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">side passing Some Small Islands</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 10° E.</cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                        <cell role="data" rows="1" cols="1">Miles on the Course to a Stard. Bend opsd. a
+                large</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">  4</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">island.    main Chanel on the Stard.
+                Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 46° E.</cell>
+                        <cell role="data" rows="1" cols="1">4 ½</cell>
+                        <cell role="data" rows="1" cols="1">Miles on the Course to a Lard Bend of the
+                river at</cell>
+                        <cell role="data" rows="6" cols="1">}</cell>
+                        <cell role="data" rows="6" cols="1">  7</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">which place there is Some rocks in the middle
+                of</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">the river near a low Clift of rocks on the
+                Lard.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">Side passing a branch at 2 miles, and one of
+                the</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">Stard. Side at 3 miles.    river
+                having a Genl. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">to the S. E.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 60° E.</cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">Miles on the Course to Some high trees in a
+                Std.</cell>
+                        <cell role="data" rows="5" cols="1">}</cell>
+                        <cell role="data" rows="5" cols="1">  6 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">bend.    passing under a low bluff
+                on the Lard. side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">for 2 ms. the high lands on the opposit Side
+                Sepe-</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">rated from the river by a narrow low
+                bottom</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">passed several small islands.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N.</cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                        <cell role="data" rows="1" cols="1">Miles on the Course to a low bluff in a Lard.
+                bend</cell>
+                        <cell role="data" rows="5" cols="1">}</cell>
+                        <cell role="data" rows="5" cols="1">  4</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">below a great Crossing place of the buffalo.
+                passed</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">two Brooks on the Lard side.    an
+                extensive low</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">bottom on the Stard. side in which I saw
+                great</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">numbers of Elk feeding.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40° E</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">1</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">Mile on the Course to the enterane of a
+                Small</cell>
+                        <cell role="data" rows="4" cols="1">}</cell>
+                        <cell role="data" rows="4" cols="1">
+                           <hi rend="underline">  1 ½</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">creek on the Lard. Side below which I
+                encamped</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">below a Small Island in a Small bottom in
+                which</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">there was good grass</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">
+                              <hi rend="italic">Miles</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">38</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">by land</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">
+                              <hi rend="italic">Miles by water</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">58</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1806-07-16.04">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>Wednesday 16th July 1806.    a fair morning.    we took an eairly
+          breakfast and proceeded on verry well.    the wind rose a head and blew so
+          high about noon that obledged us to lay too near the 
+          <name type="place" key="Gates of the Rocky Mountains">gates of the rockey
+          Mountains</name>
+                  <ref target="n37071613" n="13"/>   
+          <name type="person" key="Collins, John">Collins</name>killed a large beaver   
+          we gathered a little pitch for our canoes &amp;C    about 3 P. M. the wind
+          abated a little and we proced. on thro the 
+          <name type="place" key="Gates of the Rocky Mountains">gates of the mn</name>  
+          Saw large gangs of Mountain Sheep and Elk    
+          <name type="person" key="Collins, John">Collins</name>killed a faun Elk and two Mountain
+          Sheep.    we proceeded on below 
+          <name type="place" key="Little Prickly Pear (Ordway's) Creek">ordways river</name>
+                  <ref target="n37071614" n="14"/>and Camped on a Sand beach. Same Side.—</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1806-07-16.05">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 16th.</hi>   There was a fine morning. We
+          collected our horses, of which 
+          <name type="person" key="Lewis, Meriwether">Capt. Lewis</name>took six, and left four to
+          haul the canoes and baggage over the portage; and then started to go up 
+          <name type="place" key="Marias River">Maria's river</name>with only three hunters.
+          <ref target="n37071615" n="15"/>We
+          <ref target="n37071616" n="16"/>continued here to repair our waggons or truckles to
+          transport the baggage and canoes on when the men with them should arrive.—
+          <ref target="n37071617" n="17"/>The musquitoes are still very troublesome.</p>
+               <p>When 
+          <name type="person" key="Lewis, Meriwether">Capt. Lewis</name>left us, he gave orders
+          that we should wait at the mouth of 
+          <name type="place" key="Marias River">Maria's river</name>to the 1st of Sept., at which
+          time, should he not arrive, we were to proceed on and join 
+          <name type="person" key="Clark, William">Capt. Clarke</name>at the mouth of the 
+          <name type="place" key="Yellowstone River">Yellow-stone river</name>, and then to return
+          home: but informed us, that should his life and health be preserved, he would meet us at
+          the mouth of 
+          <name type="place" key="Marias River">Maria's river</name>on the 5th of August.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n37071601" n="1">Present 
+        <name type="place" key="Rainbow (Handsome, Beautiful) Falls">Rainbow Falls</name>, in 
+        <name type="place" key="Cascade County, Mont.">Cascade County</name>, 
+        <name type="place" key="Montana">Montana</name>; see 
+        <ref n="1805-06-14" type="related">June 14, 1805</ref>.</note>
+            <note xml:id="n37071602" n="2">
+               <name type="person" key="Lewis, Meriwether">Lewis</name>camped here, on the north side of
+        the 
+        <name type="place" key="Missouri River">Missouri River</name>at the 
+        <name type="place" key="Great Falls, Mont.">Great Falls</name>, in 
+        <name type="place" key="Cascade County, Mont.">Cascade County</name>, 
+        <name type="place" key="Montana">Montana</name>. 
+        <hi rend="italic">Atlas</hi>maps 42, 54, 61.</note>
+            <note xml:id="n37071603" n="3">Either the yellow-billed cuckoo, 
+        <hi rend="italic">Coccyzus americanus</hi>[AOU, 387], or the black-billed cuckoo, 
+        <hi rend="italic">C. erythropthalmus</hi>[AOU, 388]. Holmgren, 29. The range of the former
+        does extend well beyond the 
+        <name type="place" key="Rocky Mountains">Rockies</name>to the west.</note>
+            <note xml:id="n37071604" n="4">"
+        <name type="place"
+                     key="Boulder River (Rivers Across, Stinking Cabin Creek) (Sweet Grass County, Mont.)">
+        Stinking Cabin Creek</name>" in the codex entry courses and distances; perhaps present 
+        <name type="place" key="Mission (Stinking Cabin) Creek">Mission Creek</name>, about a mile
+        below 
+        <name type="person" key="Clark, William">Clark's</name>campsite of July 15 on the opposite
+        side of the 
+        <name type="place" key="Yellowstone River">Yellowstone River</name>, or 
+        <name type="place" key="Locke (Stinking Cabin) Creek">Locke Creek</name>, some three miles
+        below 
+        <name type="place" key="Mission (Stinking Cabin) Creek">Mission Creek</name>, both in 
+        <name type="place" key="Park County, Mont.">Park County</name>, 
+        <name type="place" key="Montana">Montana</name>. 
+        <hi rend="italic">Atlas</hi>maps 107, 114. 
+        <name type="person" key="Clark, William">Clark</name>is using a name supplied by the 
+        <name type="native_nation" key="Mandan Indians">Mandans</name>and 
+        <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>(see 
+        <ref n="1804-1805.winter.part1" type="related">
+                  <name type="native_nation" key="Fort Mandan (N. Dak.)">Fort
+        Mandan</name>Miscellany</ref>). The "
+        <name type="place"
+                     key="Boulder River (Rivers Across, Stinking Cabin Creek) (Sweet Grass County, Mont.)">
+        Stinking Cabin Creek</name>" of the table therein would appear to be 
+        <name type="place"
+                     key="Boulder River (Rivers Across, Stinking Cabin Creek) (Sweet Grass County, Mont.)">
+        Boulder River</name>in 
+        <name type="place" key="Sweet Grass County, Mont.">Sweet Grass County</name>, 
+        <name type="place" key="Montana">Montana</name>, one of the "
+        <name type="place"
+                     key="Boulder River (Rivers Across, Stinking Cabin Creek) (Sweet Grass County, Mont.)">
+        Rivers Across</name>" of 
+        <ref n="1806-07-18" type="related">July 18, 1806</ref>, below, or 
+        <name type="place" key="Shoshone Indians">Shoshone River</name>, 
+        <name type="place" key="Park County, Wyo.">Park</name>and 
+        <name type="place" key="Greybull County, Wyo.">Greybull</name>counties, 
+        <name type="place" key="Wyoming">Wyoming</name>. 
+        <name type="person" key="Clark, William">Clark</name>may well have misidentified the
+        stream in the present instance, since the Indians at 
+        <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name>obviously did not tell
+        him of every affluent of the 
+        <name type="place" key="Yellowstone River">Yellowstone</name>.</note>
+            <note xml:id="n37071605" n="5">The number "60" appears above this course, but cannot be
+        matched to any mileage total.</note>
+            <note xml:id="n37071606" n="6">The camp was in 
+        <name type="place" key="Sweet Grass County, Mont.">Sweet Grass County</name>, 
+        <name type="place" key="Montana">Montana</name>, on the north side of the 
+        <name type="place" key="Yellowstone River">Yellowstone</name>just below the mouth of 
+        <name type="place" key="Little Timber (Small, Grape) Creek">Little Timber Creek</name>;
+        the stream is 
+        <name type="place" key="Little Timber (Small, Grape) Creek">"Small Creek"</name>on 
+        <hi rend="italic">Atlas</hi>map 107, and 
+        <name type="place" key="Little Timber (Small, Grape) Creek">"Grape Creek Small"</name>on 
+        <hi rend="italic">Atlas</hi>map 114.</note>
+            <note xml:id="n37071607" n="7">Perhaps the mountain sucker, 
+        <hi rend="italic">Catostomus platyrhynchus;</hi>if so, the first description. Burroughs,
+        264–65; Cutright (LCPN), 426.</note>
+            <note xml:id="n37071608" n="8">The dark freestone is sandstone of the 
+        <name type="place" key="Livingston Formation">Livingston Formation</name>and the 
+        <name type="place" key="Eagle Sandstone">Eagle Sandstone</name>. Dips up to 70° occur
+        along some of the anticlines and synclines, but no perpendicular strata have been mapped
+        in this area. Many near-vertical igneous dikes, however, cut the surface several miles
+        north of the river, but would not have been easily seen from 
+        <name type="person" key="Clark, William">Clark's</name>route.</note>
+            <note xml:id="n37071609" n="9">This is undoubtedly hemp dogbane, as noted under 
+        <name type="person" key="Lewis, Meriwether">Lewis's</name>entry of 
+        <ref n="1806-07-20" type="related">July 20, 1806</ref>. It is not a coincidence that 
+        <name type="person" key="Lewis, Meriwether">Lewis</name>also mentions silkgrass and
+        sunflowers together in bottomland habitats.</note>
+            <note xml:id="n37071610" n="10">See 
+        <name type="person" key="Lewis, Meriwether">Lewis's</name>entry of 
+        <ref n="1806-07-20" type="related">July 20, 1806</ref>.</note>
+            <note xml:id="n37071611" n="11">This can be neither the false indigo, 
+        <hi rend="italic">Amorpha,</hi>nor the wild false indigo, 
+        <hi rend="italic">Baptesia,</hi>since neither are known from the area. The term wild
+        indigo probably refers to a plant with pinnately compound leaves typical of true indigo, 
+        <hi rend="italic">Indigoifera.</hi>It is probably a species of milkvetch, 
+        <hi rend="italic">Astragalus,</hi>or of locoweed, 
+        <hi rend="italic">Oxytropis,</hi>possibly purple locoweed, 
+        <hi rend="italic">O. lambertii</hi>Pursh. Dorn, 134, 143.</note>
+            <note xml:id="n37071612" n="12">
+               <name type="person" key="Clark, William">Clark's</name>courses and distances from the 
+        <name type="place" key="East Gallatin River (East Fork Gallatin's River)">East Gallatin
+        River</name>down the 
+        <name type="place" key="Yellowstone River">Yellowstone</name>; the "
+        <name type="place" key="Rocky Mountains">Rocky Mountain</name>" here is more specifically
+        the 
+        <name type="place" key="Bridger Range">Bridger Range</name>.</note>
+            <note xml:id="n37071613" n="13">The 
+        <name type="place" key="Gates of the Rocky Mountains">Gates of the Mountains</name>is a
+        stretch of about five and three-quarter miles, roughly midway between 
+        <name type="place" key="Holter Dam">Holter</name>and 
+        <name type="place" key="Hauser Dam">Hauser</name>dams in 
+        <name type="place" key="Lewis and Clark County, Mont.">Lewis and Clark County</name>, 
+        <name type="place" key="Montana">Montana</name>. The party passed here on the outbound
+        journey on 
+        <ref n="1805-07-19" type="related">July 19, 1805</ref>.</note>
+            <note xml:id="n37071614" n="14">
+               <name type="place" key="Little Prickly Pear (Ordway's) Creek">Little Prickly Pear
+        Creek</name>, 
+        <name type="place" key="Lewis and Clark County, Mont.">Lewis and Clark County</name>; it
+        is one of the few physical features 
+        <name type="person" key="Ordway, John">Ordway</name>mentions on his detached trip.</note>
+            <note xml:id="n37071615" n="15">
+               <name type="person" key="Drouillard, George">Drouillard</name>and the 
+        <name type="person" key="Field, Joseph and Reubin">Field brothers</name>went with 
+        <name type="person" key="Lewis, Meriwether">Lewis</name>. See 
+        <name type="person" key="Lewis, Meriwether">Lewis's</name>entries of July 16–28 for his
+        account of this trip.</note>
+            <note xml:id="n37071616" n="16">With 
+        <name type="person" key="Gass, Patrick">Gass</name>were 
+        <name type="person" key="Werner, William">Werner</name>, 
+        <name type="person" key="Frazer, Robert">Frazer</name>, 
+        <name type="person" key="Thompson, John B.">Thompson</name>, 
+        <name type="person" key="McNeal, Hugh">McNeal</name>, and 
+        <name type="person" key="Goodrich, Silas">Goodrich</name>.</note>
+            <note xml:id="n37071617" n="17">The party 
+        <name type="person" key="Clark, William">Clark</name>was expected to send down from the 
+        <name type="place" key="Missouri River, Three Forks of the">Three Forks of the
+        Missouri</name>with the canoes that had been cached on the upper 
+        <name type="place" key="Beaverhead (Jefferson) River">Beaverhead River</name>in August
+        1805.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-07-15" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-07-17" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,1761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1804-1805.winter.part3">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">Part 3: Botanical Collections</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic
+        Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>cdrh@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
+            3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">450-472</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-04-20</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-04-12</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="main">
+            <hi rend="italic">Part 3: Botanical Collections</hi>
+         </head>
+         <div type="part">
+            <p>The following lists represent 
+        <name type="person" key="Lewis, Meriwether">Lewis's</name>botanical efforts during the
+        first year of the expedition. The first document is 
+        <name type="person" key="Lewis, Meriwether">Lewis's</name>list of specimens from Codex R,
+        pp. 4–49; it was probably prepared at 
+        <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name>, perhaps from other
+        notes now lost. The second document was prepared by 
+        <name type="person" key="Vaughan, John">John Vaughan</name>of the American Philosophical
+        Society as a receiving list of the specimens and was probably copied from identification
+        labels accompanying the items or from a separate list. It is from the Donation Book at the
+        American Philosophical Society (see 
+        <ref n="v02.appendix.b" type="related">Appendixes B</ref>and 
+        <ref n="v02.appendix.c" type="related">C</ref>). The "H" following some items in the
+        Donation Book may represent an accession check and may stand for "have." The specimens are
+        apparently the items in box 4 of the goods sent back from 
+        <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name>in April 1805, and
+        designated "Specimens of plants numbered from 1 to 60." See Jackson (LLC), 1:235, 239–40
+        n. 21; 
+        <name type="person" key="Clark, William">Clark's</name>entry, 
+        <ref n="1805-04-03" type="related">April 3, 1805</ref>, and accompanying notes. The
+        discrepancy in the number of items cannot be explained. 
+        <name type="person" key="Lewis, Meriwether">Lewis</name>has additional specimens numbered
+        100–108. 
+        <name type="person" key="Vaughan, John">Vaughan's</name>numbers 61 and 62 may be his own
+        convention for loose, unnumbered items, while his note on the "corolla of tobacco" may
+        apply to items 106 or 108. These herberia (with some losses) are at the 
+        <name type="place" key="Academy of Natural Sciences">Academy of Natural Sciences</name>, 
+        <name type="place" key="Philadelphia, Pa.">Philadelphia</name>.</p>
+            <p>The discussion of this collection, here called the 
+        <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name>collection, is
+        necessarily brief in order not to duplicate a specialized volume which will appear as the
+        final book in this edition. The natural history volume will be much like the 
+        <hi rend="italic">Atlas</hi>with its introduction, calendar, and illustrations. The final
+        volume will include a discussion of the party's botanical activities, an introduction to
+        the 
+        <name type="person" key="Lewis, Meriwether">Lewis</name>and 
+        <name type="person" key="Clark, William">Clark</name>herbarium at the Academy, and
+        illustrations of those specimens. An excellent examination of this topic is available in
+        Cutright (LCPN), 357–75.</p>
+            <p>We provide at this time a table of botanical identifications. A similar table, probably
+        in the form of a calendar, will accompany the natural history volume and will include the
+        whole of the 
+        <name type="person" key="Lewis, Meriwether">Lewis</name>and 
+        <name type="person" key="Clark, William">Clark</name>herbarium. The present table gives
+        the voucher number, approximate date and place of collection, and the current scientific
+        and common name. Since 
+        <name type="person" key="Lewis, Meriwether">Lewis's</name>voucher numbers are not
+        chronologically or systematically arranged from 
+        <name type="place" key="Saint Louis, Mo.">St. Louis</name>to 
+        <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name>, we have recorded the
+        items in chronological fashion to provide easy comparison with the daily journals and
+        their corresponding botanical annotation. The lack of chronology in the voucher numbers
+        may be evidence that label numbers were not assigned at the time of collection, but later,
+        possibly at 
+        <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name>. The "1804 Dates" are
+        those on labels at the Academy or from the lists of 
+        <name type="person" key="Lewis, Meriwether">Lewis</name>and 
+        <name type="person" key="Vaughan, John">Vaughan</name>. The location was determined by
+        comparing the specimen dates with journal entries, 
+        <hi rend="italic">Atlas</hi>maps, and our annotation. In most instances 
+        <name type="person" key="Lewis, Meriwether">Lewis's</name>precise location for collecting
+        the specimens is unclear, so we have given the closest geographic landmark for that
+        day.</p>
+            <p>The most difficult task was to apply current scientific and common names to the
+        herbaria. Since the first thirty items are missing from the 
+        <name type="place" key="Academy of Natural Sciences">Academy</name>, we had to rely on 
+        <name type="person" key="Lewis, Meriwether">Lewis's</name>descriptions for
+        identifications. The lack of existing specimens cannot be explained and accounts for
+        several unidentified items. The remaining specimens at the &gt;Academy were examined by
+        Dr. A. T. Harrison, formerly of the University of Nebraska, with the assistance of the
+        Academy's curatorial staff. He also examined previous botanical work on the plants,
+        current botanical literature, and employed his own familiarity with regional flora. Items
+        number 37,62, and 102 remain unidentified as they were not to be found in the collection.
+        Numbers 62 and 102 may never have been accessioned, while number 37 remains a curious loss
+        similar to the first thirty specimens.</p>
+            <lb/>
+         </div>
+         <milestone unit="editor_end"/>
+         <div type="entry" xml:id="lc.1804-1805.winter.part3.02">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>[
+              <hi rend="italic">undated, winter 1804–5</hi>]</date>
+               </ab>
+               <p>A List of specimines of plants collected by me on the 
+          <name type="place" key="Mississippi River">Mississippi</name>and 
+          <name type="place" key="Missouri River">Missouri</name>rivers—    contain such
+          observations on the vegitable kingdom spread to our view in this rich country as they
+          have occurred to my mind.—or as the several subjects have presented themselves to my
+          view.—</p>
+               <p>No. 
+          <hi rend="italic">1</hi>.    a species of Cress, taken at 
+          <name type="place" key="Saint Louis, Mo.">St. Louis</name>May 10th 1804.    it
+          is common in the open growns on the 
+          <name type="place" key="Mississippi River">Mississippi</name>bottoms, appears in the
+          uncultivated parts of the lots gardens and orchards, the seed come to maturity by the
+          10th of May in most instances.—</p>
+               <p>
+                  <hi rend="italic">No. 2</hi>.    was taken on the 22ed of May 1804 on the bank
+          of the 
+          <name type="place" key="Missouri River">Missouri</name>about 8 miles above 
+          <name type="place" key="Saint Charles, Mo.">St. Charles</name>   it is common
+          in the botom lands—    rises to the hight of two feet, and rarely puts forth
+          more than two stalks from the same root and most commonly only one—    it's
+          root is spiral.</p>
+               <p>
+                  <hi rend="italic">No. 3</hi>.    Was taken on the 23rd of May 1804, near the
+          mouth of the 
+          <name type="place" key="Femme Osage (Osage Woman's) River">Osage Woman's creek</name>,
+          it is a srub and resembles much in growth the 
+          <hi rend="italic">bladder scenna</hi>, it rises to hight of eight or ten feet and is an
+          inhabitant of a moist rich soil.—    usually the verge of the river bank.—
+             it is a handsome Shrub</p>
+               <p>No. 4.    Was taken at a small Village North side of the 
+          <name type="place" key="Missouri River">Missouri</name>called 
+          <name type="place" key="La Charette, Mo.">Sharett</name>, on the 25th of May 1804.
+             this is the last settlement on the 
+          <name type="place" key="Missouri River">Missouri</name>; and consists of ten or twelve
+          families mostly hunters.    this specimine is the seed of the Cottonwood which
+          is so abundant in this country, it has now arrived at maturity and the wind when blowing
+          strong drives it through the air to a great distance being supported by a parrishoot of
+          this cottonlike substance which gives the name to the tree    in some seasons
+          it is so abundant as to be troublesome to the traveler—    this tree arrives
+          at great sise, grows extreemly quick    the wood is of a white colour, soft
+          spungey and light, perogues are most usually made of these trees, the wood is not
+          durable nor do I know any othe valuable purpose which it can answer except that just
+          mentioned—</p>
+               <p>this tree forms a great majority of the timber bordering the rivers 
+          <name type="place" key="Missouri River">Missouri</name>and 
+          <name type="place" key="Mississippi River">Mississippi</name>; it extends itself
+          throughout the extensive bottom lands of these streams and seases to appear when the
+          land rises into hills—    when these rivers form new lands on their borders or
+          Islands in their steams, which they are pertually doing, the sweet willow is the first
+          tree or shrub which usually makes it's appearance, this continues one two or three years
+          and is then supplanted by the Cotton wood which invariably succeedes it.—   
+          this tree resembles much in it's air and appearance that beatifull and celibrated tree
+          the Lombardy poplar; and more particularly so when in its young state; the young plants
+          grow very close untill they have attained the age of four or five years, a proportion of
+          them then begin to dye and the forrest opens and gives place to sundry other shrubs and
+          plants which will be noticed in their proper places.—</p>
+               <p>
+                  <hi rend="italic">No. 5</hi>.    was taken on the 27th of May 1804 near the
+          mouth of the 
+          <name type="place" key="Gasconade River">Gasconade</name>; it is a species of cress
+          which grows very abundantly alonge the river beach in many places; my men make use of it
+          and find it a very pleasant wholsome sallad.—</p>
+               <p>
+                  <hi rend="italic">No.6</hi>.    Was taken on the 27th of may 1804 near the
+          mouth of the 
+          <name type="place" key="Gasconade River">Gasconade</name>; it is a species of rape or
+          kail, it grows on the beach of the river, when young my men used it a boiled green and
+          found healthy and pleasent.—</p>
+               <p>
+                  <hi rend="italic">No. 7</hi>.    was found on the 27th of May 1804 near the
+          water side about 10 miles below the mouth of the 
+          <name type="place" key="Gasconade River">Gasconade</name>, it rises to the hight of
+          three feet and puts forth many large suculent branched stalks from the same root, this
+          plant is a stranger to me.—</p>
+               <p>
+                  <hi rend="italic">No. 8</hi>.    Was taken the 29th of May 1804 below the
+          mouth of the 
+          <name type="place" key="Osage (Osarge) River">Osage Rivr.</name>   this plant
+          is known in 
+          <name type="place" key="Kentucky">Kentuckey</name>and many other parts of this western
+          country by the name of the yellow root—    it is a sovereighn remidy for a
+          disorder common in this quarter called the Soar eyes—    this complaint is
+          common    it is a violent inflamation of the eyes attended with high fevers
+          and headach, and is extreemly distressing, and frequently attended with the loss of
+          sight—    this root affords a speady and efficasious remidy for this disorder
+          prepared &amp; used in the following manner—    let the roots be geathered
+          washed and carefully dryed in the shade; brake them in pieces of half an inch in length
+          and put them in a bottle or viol, taking care to fill the vessel about two thirds full
+          of the dryed root, then fill the vessell with could water, rain water is preferable; let
+          it remain about six hours shaking it occasionally and it will be fit for use; the water
+          must remain with the root and be applyed to the eyes frequently by wetting a piece of
+          fine linin touching them gently with it.—    this root is a fine aromatic
+          bitter, and a strong asstringent; it is probable that it might be applyed in many cases
+          as a medicene with good effect, but I have not learnt that any experiment has been made
+          by an inward application—    it makes an excellent mouth water, and a good
+          outward applycation for wounds or inflamations of every kind.—    native of
+          rich bottom lands on the rivers—</p>
+               <p>
+                  <hi rend="italic">No. 9</hi>.    Was taken on the 30th of May 1804 below the
+          mouth of the 
+          <name type="place" key="Osage (Osarge) River">Osage river</name>; it rises from 18
+          Inches to 2 feet in hight; is a beautifull green plant found most generally on the sides
+          of rich hills in the forrest    it's radix is fiberous—</p>
+               <p>
+                  <hi rend="italic">No. 10</hi>.    This plant was taken the 1st of June at the
+          mouth of the 
+          <name type="place" key="Osage (Osarge) River">Osage river</name>; it is known in this
+          country by the name of the 
+          <hi rend="italic">wild ginger</hi>, it resembles that plant somewhat in both taste and
+          effect; it is a strong stomatic stimelent, and frequently used in sperits with bitter
+          herbs—    it is common throughout the rich lands in the Western country.</p>
+               <p>No. 11.    Was taken the 3rd of June above the mouth of the 
+          <name type="place" key="Osage (Osarge) River">Osage river</name>; it is the groath of
+          high dry open praries; rises to the hight of 18 inches or two feet puts forth many stems
+          from the same root; the radix is fiborous; the Indians frequently use the fruit of this
+          plant to alay their thirst as they pass through these extensive dry praries common to
+          many parts of the country bordering on the 
+          <name type="place" key="Missouri River">Missouri</name>; it resembles much the Indigo in
+          the appearance of it's growth.    it bears it's fruit much like the indigo, a
+          stem projects about three inches from the main stem at an angle of about 20 degrees, and
+          bears from [two?] to four podds, which in their succulent and unripe state as at this
+          season of the year are about the sise of a pullet's egg, somewhat flattened on two
+          sides; the matrix is formed in two lobes and the seed are like pees and attached to the
+          matrix in the same manner, single and adhering to the center    the pulp is
+          crisp &amp; clear and tasts very much like the hull of a gardin pee.—    when
+          ripe the fruit is of a fine red coulour and sweet flavor.—    it dose not
+          ripen untill the middle of June.—</p>
+               <p>
+                  <hi rend="italic">No. 12</hi>.    1st of August 1804.    one of our
+          hunters brought us a bough of the purple courant, which is frequently cultivated in the 
+          <name type="place" key="Atlantic Ocean">Atlantic</name>states; the fruit was ripe; I
+          presume it is a native of North America—    here it grows generally in the
+          praries but is not very abundant.—    No. 12 is a specimine of it's
+          leaves.—</p>
+               <p>
+                  <hi rend="italic">No. 13</hi>.    The 
+          <hi rend="italic">narrow leaf willow</hi>taken on the 14th of June—    this
+          tree is male and female, the female bearing it seed in a small pod small ova form of
+          three lobes, or devisions—    these pods are attached to a stem which projects
+          from the small boughs, and are from thirty to fifty in number, about this season they
+          begin to ripen, when the pods burst and a great number of small seeds each furnished
+          with a parrishoot of a cotton-like substance are discharged from those cels.
+             they readily float in the air and are driven by the wind to a great
+          distance, they are so abundant at some times as to be disagreeable to the traveller—
+             the 
+          <hi rend="italic">male</hi>plant has sucession of it's flowers, commencing to bloom
+          about the 1st of June and continuing untill the 1st of August, they are a small tausel
+          of a half, or ¾ of an inch in length, round, and tapering to the extremity, putting
+          frort from it's sides an infinite number of small stamens of a brown colour.
+             it's leaves are numerous narrow, slightly indented, of a yellowish 〈deep〉
+          green, on the uper side, and whiteish green underneath, pointed, being widest in the
+          middle which rarely exceeds ⅛th of an inch, it is smoth, tho' not glossey</p>
+               <p>This tree is invariably the first which makes it's appearance on the newly made Lands
+          on the borders of the 
+          <name type="place" key="Mississippi River">Mississippi</name>and 
+          <name type="place" key="Missouri River">Missouri</name>, and seems to contribute much
+          towards facilitating the operation of raisin this ground still higher; they grow
+          remarkably close and in some instances so much so that they form a thicket almost
+          impenetrable    the points of land which are forming allways become eddies
+          when overflown in high water    these willows obstruct the force of the water
+          and makes it more still which causes the mud and sand to be deposited in greater
+          quantities; the willow is not attal imbarrassed or injured by this inundation, but 〈the
+          moment the water subsides〉 puts forth an innumerable quantity of small fibrous roots
+          from every part of its trunk near the surface of the water which further serve to
+          collect the mud, if there happens not to be a sufficient quantity of mud depossited in
+          the one season to cover the trunk of the willow as high as these capillery roots when
+          the water subsides they fall down and rest on the trunk of the tree and conceal it for
+          18 or 20 Inches; these capillery roots now perish and the willow puts forth other roots
+          at the surface of the ground which enter it and furnish the tree with it's wanted
+          nutriment—    this willow never rises to any considerable sise, it is seldom
+          seen larger than a mans arm, and scarcely every rises higher than 25 feet.   
+          the wood is white light and tough, and is generally used by the watermen for 
+          <hi rend="italic">setting poles</hi>in preference to anything else.—    as the
+          willow incrases in size and the land gets higher 〈and more dry〉 by the annul inundations
+          of the river, the weeker plants decline dye and give place to the cotton-wood which is
+          it's ordinary successor, and these last in their turn also thin themselves as they
+          become larger in a similar manner and leave the ground open for the admission of other
+          forest trees and under brush—    these willow bars form a pleasant beacon to
+          the navigator at that season when the banks of the river are tumbling in, as they seldom
+          high and rearly falling in but on the contrary most usually increasing.—</p>
+               <p>
+                  <hi rend="italic">No. 14</hi>.    The 
+          <hi rend="italic">wide leaf willow</hi>or that species which I believe to be common to
+          most parts of the 
+          <name type="place" key="Atlantic Ocean">Atlantic</name>States.    it grows in
+          similar situations to that discribed with rispect to the narrow leaf willow, but is
+          never found in such abundance, it arrives to greater size some times to forty feet in
+          hight and eighteen inches in diameter, the leave is smoth ovate, pointed, finely
+          indented, a pale green on the upper side and of a whiteis green or silver colour
+          underneath—    like the narrow leaf willow the leaf is widest in the middle
+          where it is from one inch to ¾ wide.—    it bears it's seed in the manner
+          discribed of the other and the plants ar likewise male and female.</p>
+               <p>
+                  <hi rend="italic">No. 15</hi>.    Was taken on the 20th of July, a pieniel
+          plant, an inhabitant of the open praries or plains, high situations, where the grass is
+          low.    the flower is a pale purple colour small form a kind of button of a
+          long conic like form which terminate it's branches which are numerous—    it
+          grows abot 2½ or three feet high—    it is a stranger to me.—    the
+          leaves are small and narrow, and divided into three on a stem</p>
+               <p>
+                  <hi rend="italic">No. 16</hi>.    this is much the same as No. 15 with this
+          difference that the blume of the conic tausel are white in stead of purple and it's
+          leaves single fewer and longer—</p>
+               <p>
+                  <hi rend="italic">No. 17</hi>.    Taken on the 27th of July, the appearance of
+          the bush is much like the privy and about the same hight    it grows about the
+          borders of the open praries    it's leaf is a deep green, ovate 1½ to 1¼
+          inches long ½ inch wide finely indented—    pla[n]t piennial.    the
+          buries or fruit a small round bury of a deep perple coulour nearly black, has three seed
+          formed like the third part of a globe split by the meeting of two plains at it's axcis.—
+             I do not know whether birds eat them or not.    they look
+          handsome but tast insipid.    this is a groath with which I am not
+          acquainted.—</p>
+               <p>No. 18.    was taken 30th July grows in the praries in high situations,
+          it's radix 〈matrix〉 is peennial, it grows about three ½ or 4 feet high    it
+          has a long tap root it is but little branced, it's colateral brances are short and
+          furnished with many leaf stems which are garnished by a great number of small leaves
+          which are attatch by pairs on either side and resemble some of the sensative bryers, tho
+          I could not discover that this plant par took of that quality.—    it's flower
+          is of a gloubelar form composed of a number of fibers of a yellowish white, and produces
+          as a fruit a bunch of little pees which are all bent edgeways into the form of a
+          semicircle and so closely connected and compressed as to form a globular figure of a
+          curious appearance—</p>
+               <p>
+                  <hi rend="italic">No. 19</hi>.    Taken at the old village of the 
+          <name type="native_nation" key="Little Osage Indians">little Osages</name>; the seed
+          were now ripe; it grew in great abundance in the prarie from five to six feet high; it
+          gave the plain much the appearance of an extensive timothy meadow ready for the sythe,
+          the small birds feed on the seed which are very abundant resembling in size shape and
+          colour those of the 〈timothey〉 flax; when ripe they fall very easily from the stem.
+             the leaf of this grass does not decline or wither as many others do at the
+          time the seed ripens but still continues succulant and green.    it continues
+          throughout the summer to put up a succession of young succors which in turn bear a
+          larger quantity of seed: this succession of crops continues throughout the season
+          without the declining or withering of the stalk or leaves of the mother plant.
+             the horses were very fond of this grass and I am disposed to believe that
+          it would make a valuable grass for culture.—    this grass is common in the
+          praries or bottom lands as high as the 
+          <name type="place" key="Platte River (Nebr.)">river Platte</name>and perhaps further—
+             it is a fine sweet grass and I am confident would make good hay.—</p>
+               <p>
+                  <hi rend="italic">No. 20</hi>.    A specemine of wild Rye taken on the 27th of
+          July, this grass is common to all the low praries above the 
+          <name type="place" key="Kansas (Decaugh, Kaw) River">Cancez river</name>   it
+          rises to the hight of six feet and upwards and resembles the rye extreemly in appearance
+          the geese and ducks feed on it when young, as they do also on the grain when ripe
+             in September and October it produces much grain tho of an inferior quality
+          compared with cultivated rye.—</p>
+               <p>
+                  <hi rend="italic">No 21</hi>.    is another species of the wild rye
+             it dose not grow as tall as No. 20 neither does it like that species
+          confine itself so much to the open ground; it is sometimes found in the timbered land.
+             the grain it produces is [n]either so large or so abundant as the
+          former.—</p>
+               <p>No. 22. 23. 24 &amp; 25.    Are various species of grasses which appear in
+          the praries, No. 23 is the most common of any other grass, it rises to the hight of from
+          4 to 8 feet and never bears any flower or seed that I ever observed and suppose
+          therefore that it must propegate by means of the root: 
+          <hi rend="italic">common</hi>to all praries in this country.</p>
+               <p>
+                  <hi rend="italic">No. 26</hi>.—    Taken on the 2ed of August in the parie at
+          the 
+          <name type="place" key="Council Bluff (Nebr.)">Cuncil bluff</name>. it is a species of
+          honeysuccle; the flower is small and the tube of the flour is very small and short
+             they smell precisely like the English Honeysuccle so much admired in our
+          gardens; this is a shrub and does not run or vine. the vining honesuccle which bears a
+          red flour is also common to the 
+          <name type="place" key="Illinois">Illinois</name>and is found as high up the 
+          <name type="place" key="Missouri River">Missoury</name>as the mouth of the 
+          <name type="place" key="Kansas (Decaugh, Kaw) River">Kancez river</name>above which I
+          have not observed it.—    this species of shrub Honesuccle has some of it's
+          leaves much indented; the fruit nearly ripe when the plant is still in blume; it makes a
+          pretty groath and is a pleasant looking pla[n]t rises to three or four feet high and
+          limbs are much branchd.</p>
+               <p>No. 27.    taken 4th of August, and furst observed at the 
+          <name type="place" key="Bald-pated Prairie">bald prarie</name>—    it is
+          beatifull plant with a variagated leaf—    these leaves incompass the flowers
+          which are small and in the center of them; at a small distance they resemble somewhat a
+          white rose    the leaf near the large stem is green and is edged with white;
+          they grow smaller and more numerous as they approach the flower or the extremity of the
+          limb.    the plant is much branched; the leaf is smoth on both sides and edge,
+          of an ovate form and pale green colour, rises to five or six feet, is annual
+             at every point that it branches it has a pair of opposite leaves and from
+          thee to four branches—</p>
+               <p>
+                  <figure rend="aps">
+                     <p>Large "convolvalist" leaf (Convolvulus
+              sepium L.,
+              <lb/>hedge bindweed), July 17, 1804, Codex R, p. 37 
+              <bibl>
+                           <orgName>(American Philosophical Society library,</orgName>
+                           <note place="inline">used with permission.)</note>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+               <p>No. 28.—    taken on the 17th July at the 
+          <name type="place" key="Bald-pated Prairie">bald prarie</name>—    is a large
+          convolvalist a fine white colour; the vines are very extensive and run in every
+          direction intwining themselves about the larger weeds and bending them down is [in] such
+          manner as to make the open grownds 〈impassable〉 or praries where they grow almost
+          impassable; the root is about the size and shape of the vine and enters it so deep that
+          I could not find it's brances tho' I dug as much as 2 feet in surch of it.—   
+          the leaf is of a tonge like form pale green even on the edges.    leaf thus
+          [see figure]—</p>
+               <p>
+                  <hi rend="italic">No. 29</hi>.    Taken on the 18th of July.—    an
+          annuel plant puting up many branches from the root has a leaf like the pateridge bea[n],
+          is jointed bears a number of yllow 
+          <hi rend="italic">pea-like</hi>flowers which grow on the seed stems which project from
+          the main branches and which are unattended with leaves; these flowers grow all arround
+          this stem and give it the appearance of a tausell.    the [l]eaf stems ar long
+          and have 24 par of leaves.</p>
+               <p>No. 30.    was taken at the bald praries and is common to both low and high
+          praries    it usually grows in a single stem and appears to be an annual
+          groath    the leaves are white and like the stem appear to be covered with a
+          white down—    this is common to all the praries above the 
+          <name type="place" key="Kansas (Decaugh, Kaw) River">Kancez river</name>; from it's
+          resemblence in taste smell &amp;c to the 
+          <hi rend="italic">common Sage</hi>I have called it the wild Sage.—</p>
+               <p>
+                  <hi rend="italic">No. 31</hi>.    Taken on the 10th of August, a species of
+          sand rush, joined and so much branched as to form a perfect broom; it is common to every
+          part of this river at least as far as Latitude 42 N.    it grows near the
+          water's edge in moist sand; the horses are remarkably fond of it.</p>
+               <p>
+                  <hi rend="italic">No.</hi>〈32〉 
+          <hi rend="italic">40.</hi>—    Taken at our camp at the 
+          <name type="native_nation" key="Omaha Indians">Maha</name>vilage August 17th 1804.
+             it is a handsome plant about 3 feet high    much branched
+             bears a yellow circular flower carnished with meany small narrow ovate
+          petals of the same colour, the leaf about an inch and a quarter in length thick smoth
+          indent finely, incompassing the stalk about ⅔'s and of a tongue-like form; ynnual plant
+             is covered with a gumlike substance which adheres to the fingers and yealds
+          a pleasent smell.—</p>
+               <p>No. (100)    Novr. 17th    the seed of a plant given me by the
+          recaray chief who accompanyed us to the mandanes    he informed me that a tea
+          of the seed was a strong diaerettic—    and that the squaws chewed them and
+          rubed their hair with them as a perfume.</p>
+               <p>No. (101.)    the root wen pounded in either green or dryed state makes an
+          excellent poltice for swellings or soar throat.—    information of the same
+          chief.</p>
+               <p>No. (102)    by the information of the same chief—    is an
+          excellent purge—    the root is dryed and pounded    in that state
+          as much as you can hold betwen the finger and thumb thrise is a doze—    it is
+          the growth of the open praries—    has many small stalks 2 feet high.
+             radix piennl</p>
+               <p>
+                  <hi rend="italic">No. 103</hi>.    is the growth of the open praries—it seldom
+          grows higher    it is said to be good for inflamed eyes    the
+          leaves are immerced in water and being bruised with the fingers a little the water is
+          squeezed from it and occasionally droped when could upon the eyes.—</p>
+               <p>(104 No.)    October the 16th    a dwarf cedar of the open
+          praries    seldom ever rises more than six inches high—    it is
+          said to be a stimilating shrub—    it is used as a tea by the Indians to
+          produce sweat—    they would make a handsome edging to the borders of a gardin
+          if used as the small 
+          <hi rend="italic">box</hi>sometimes is.—</p>
+               <p>
+                  <hi rend="italic">N 105</hi>.    seed of the Larger species of recarre tobacco
+          pre[se]nted us by 
+          <hi rend="italic">Lepoy</hi>an Indian chief of that nation commanding the 
+          <hi rend="italic">middle town</hi>.</p>
+               <p>No. 106—    is the corrollars of the same prepared for smoking.
+             they are plucked and dryed in the shade—</p>
+               <p>
+                  <hi rend="italic">No. 107</hi>.    is the seed of the smaller species.—</p>
+               <p>The recarres cultivate two species of tobacco,
+          <ref target="n01" n="1"/>for the purpose of smoking in which way they use it altogether
+          as they neither snuff nor chew—</p>
+               <p>The 
+          <hi rend="italic">Larger species</hi>(see specimine plants No. 108) rises to the hight
+          of three feet.    it's round green and succulent much branched when suffered
+          to grow singly.    in that sittuation it branches near the ground and
+          continues to branch and rebranch as it rises at the distance of an inch or 2 inches,
+          thus forming an infinite number of boughs at the top which are terminated by the flowers
+          which are tubelar; trunnicated scalluped on the edges and five pointed, white colour,
+          order, 
+          <hi rend="italic">pentandria moniginia</hi>,— the leaf is of a toung-like form. 〈The
+          indians〉 the larger of which are attached to the lower part of the stalk.   
+          one inch wide in the broadest part, &amp; 2½ inches long.—    the demins as
+          they are higher on the stalk, tho' they increas in number—    The indians
+          cultivate it in the following manner—they prepare hills at the distance of about 2½ feet
+          from each other, and leavel the top nearly leaving it somewhat convex.    in
+          these hills they sew the seed as early in the spring as the climate will permit them to
+          prepare the earth say latter end of April; they keep the hill clear of weeds and grass
+          by plucking it from among the stalks of tobacco with their fingers—and sometimes allso
+          thin the stalks of tobacco by plucking up the weaker stalks tho they leave many stalks
+          to grow on each hill.    when the tobacco begins to form it's seed poods it is
+          then ready for the knife when a great portion from each hill is cut and hung on sticks
+          untill it is nearly dry—when they form them into carrots of the thickness of a mans arm
+          role them closely with willow bark and hang them in the smoke of their lodges to dry.
+             in forming the carrot, they put the butts or lower parts of the stalks
+          together.    where the tobacco is cultivated with a view to make carrots the
+          stalks are so thick that they do not attain a thickness at the largest part of the stem
+          greater than that of a small quill—    They esteem much more the carraller
+          [corolla] dryed for the purpose of smoking—and for this purpose leave some plant more
+          widely seperated from each other—in which situation they produce a greater abundance of
+          flowers &amp; seed.    they begin to blume in the month of [
+          <hi rend="italic">blank</hi>] and continue untill the first frost;—during the full blume
+          of the flower they pluck the carrallar together with the flower and discarding the
+          latter suffer the former to dry in the shade when perfectly dryed it resembles at first
+          view the green 
+          <hi rend="italic">tea</hi>and in that state it is smoked by the indians and I found it
+          very pleasent—    it dose not affect the nerves in the same manner that the
+          tobacco cultivated in the U' S. dose—    The smaller species of this plant
+          differs but little from this just discribed—    it is cultivated in the same
+          manner and bears a flower like the other only smaller—    the only difference
+          is the form of the leaf, which is larger (say) 4 times the size and 
+          <hi rend="italic">ovate</hi>—    they dry this on sticks and use it in that
+          manner    it is reather stronger than the large kind and is seldom made into
+          carrots by the 
+          <name type="native_nation" key="Arikara Indians">Recares</name>.—</p>
+               <p>
+                  <seg n="u9758">☞</seg>it is worthy of remark that the recares never use 
+          <hi rend="italic">sperituous liquors</hi>. 
+          <name type="person" key="Tabeau, Pierre-Antoine">Mr. Tibeau</name>informed me that on a
+          certain occasion he offered one of their considerate men a dram of sperits, telling him
+          it's virtues—    the other replyed that he had been informed of it's effects
+          and did not like to make himself a fool unless he was paid to do so—    that
+          if 
+          <name type="person" key="Tabeau, Pierre-Antoine">Mr. T.</name>wished to laugh at him
+          &amp; would give him a knife or 
+          <hi rend="italic">breech-coloth</hi>or something of that kind he would take a glass but
+          not otherwise.—</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.1804-1805.winter.part3.03">
+            <sp who="jv">
+               <speaker>Vaughan</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>Donations    November 16, 1805 from 
+          <name type="person" key="Lewis, Meriwether">Meriwether Lewis</name>   Dried
+          Plants &amp;c put into Dr. B. S Bartons hands for examination</p>
+               <p>No. 1 At 
+          <name type="place" key="Saint Louis, Mo.">St. Louis</name>May 10th 1804</p>
+               <p>2 May 10th 1804</p>
+               <p>3 May 23, 1804</p>
+               <p>4 May 25th 1804    The Cottonwood found on every part of the 
+          <name type="place" key="Missouri River">Missouri</name>as high as the mandans, generally
+          grows in the river bottoms &amp; near is borders.—    H</p>
+               <p>5. May 27, 1804</p>
+               <p>6 May 27, 1804</p>
+               <p>7 May 27, 1804</p>
+               <p>8 May 29, 1804    This plant is known in 
+          <name type="place" key="Kentucky">Kentucky</name>&amp; many other parts of the Western
+          Country by the name of the yellow root—    It is said to be a Sovereign remedy
+          in a disorder common to the Inhabitants of the Country where found, usually termed Sore
+          eyes—    frequently attended with high fever &amp; Sometimes terminates in the
+          loss of sight, always gives great pain &amp; continues for a length of time in most
+          cases. The preparation &amp; application of the root is as follows—    having
+          procured a quantity of the roots, wash them clean &amp; Suffer them to dry in the Shade,
+          break them with the fingers as fine as you conveniently can, put them in a glass vessel,
+          taking care to fill it about ⅔ with the Broken root, then add rain or river water until
+          the Vessel is filled, shake it frequently &amp; it will be fit for use in the course of
+          6 hours. The Water must not be decanted but remaining with the root is to be frequently
+          applied by wetting a piece of the fine linnen and touching thee Eyes gently with it—
+             This root has a fine aromatic bitter taste, it is probable that it might be
+          appplied internally in many cases with good effect, but I have not learnt that any
+          experiments have yet been made with it in that way. It makes an excellent 
+          <hi rend="italic">mouth water</hi>&amp; is an excellent outward application in cases of
+          wounds or local application of any kind—    It is the Growth of rich bottom
+          lands. 
+          <name type="person" key="Lewis, Meriwether">M. Lewis</name>
+               </p>
+               <p>9—</p>
+               <p>10 Usually called wild ginger    grows in rich bottom Land   
+          June 1, 1804</p>
+               <p>11. June 3d 1804</p>
+               <p>12 The purple Currant.    1 Augt. 1804</p>
+               <p>13 Narrow leaf willow common to the borders of the 
+          <name type="place" key="Missouri River">Missouri</name>   June 14, 1804</p>
+               <p>14 Broadleaf Willow found on the 
+          <name type="place" key="Missouri River">missouri</name>   not So common as the
+          Narrow leaf willow but grows much larger sometimes rising to 30 feet    June
+          14, 1804</p>
+               <p>15 found in the open plains—    20 July, 1804    H</p>
+               <p>16 same as No 16    H</p>
+               <p>17 found on the Edges of the Prairies, rises about 8 foot high    the leaf
+          is a deep green, the bush has a handsome appearance with its fruit—    27
+          July, 1804    H</p>
+               <p>18. growth of the high plains taken the 30 July, 1804.    H</p>
+               <p>20 S. 〈gr:〉</p>
+               <p>20. # Growth of the rich Prairie bottoms found 27 July, 1804    S.
+          〈gr.〉</p>
+               <p>21 Another Speecis of the wild Rye it does not grow as tall as No 20 S   
+          27 July</p>
+               <p>22, 〈23, 24,〉 S    No 22, 23, 24, 25 are various Species of grass which
+          grow in the prarie Bottom lands of the 
+          <name type="place" key="Missouri River">Missouri</name>   No 23 is the most
+          common    it rises to the height of 4 &amp; 5 feet &amp; never bears any Seed
+          or flower, it propagates itself by the root—    27 July</p>
+               <p>23,</p>
+               <p>24—    H</p>
+               <p>25 H</p>
+               <p>26 H</p>
+               <p>26 #</p>
+               <p>26 Ø Species of Honey Suckle common to the prairies    this Specimen was
+          obtained at the 
+          <name type="place" key="Council Bluff (Nebr.)">Council Bluffs</name>2d Aug. 1804
+             H</p>
+               <p>27 Growth of the Prairie Bottoms taken on the 4th Aug. 1804</p>
+               <p>28          Do—         
+          Do—          15 July 1804</p>
+               <p>29 Growth of the open praries 18 July 1804</p>
+               <p>30.       Do—       Do—    13
+          July</p>
+               <p>No 31. Growth of the Sand Bars near the Banks of the Rivers    10 Aug
+          1804</p>
+               <p>32 Specimens of the aromatic plants on which the Antelope feeds    these
+          wer obtained 21 Sep. 1804 at the upper part of the 
+          <name type="place" key="Missouri River, Big Bend of the">Big bend of the
+          Missouri</name>—    H</p>
+               <p>33 an evergreen plant which grows usually in the open plains, the natives smoke its
+          leaves mixed with Tobacco called by the french engages 
+          <hi rend="italic">Sacacommé</hi>   obtained at 
+          <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandon</name>
+               </p>
+               <p>34 The leaf of Oak which is common to the Prairies.    5 Sep. 1804</p>
+               <p>35. Sept. 18 The Growth of the Prairies    H</p>
+               <p>36 Sept. 18 Growth of the high Prairies—</p>
+               <p>37 Sept. 22       Do—       Do—</p>
+               <p>38 Oct. 15, 1804—    Growth of the high Prairies or Plains—</p>
+               <p>A 39 Obtained at the mouth of the 
+          <name type="place" key="Niobrara (Quicurre, Rapid) River">River Quicoarre</name>from
+          which place upwards, it is abundant in the 
+          <name type="place" key="Missouri River">Missouri</name>bottoms, it is a pleasant Berry
+          to eat, it has much the flavor of the Cranbury &amp; continues on the bush thro' the
+          Winter    This is an Evergreen shrub—</p>
+               <p>Some plants are sent down by the barge to the care of Capt Stoddart at 
+          <name type="place" key="Saint Louis, Mo.">St. Louis</name>—    H</p>
+               <p>40. 17 Aug 1804    Growth of Prairies at our Camp near the old 
+          <name type="native_nation" key="Omaha Indians">Maha</name>Village 〈the Gr〉   
+          H</p>
+               <p>41. 2d Sep. 1804    on the Bluffs    grows in open high
+          Situations    H</p>
+               <p>42. 27th Augt.    At the Chalk Bluff    grows in the mineral
+          earth at the base of the Hill    H</p>
+               <p>43. 25th Augt.    Growth of the open Prairies.—    H</p>
+               <p>44 Sepr 1st.       Do—       Do   
+          H</p>
+               <p>45. Oct. 12.    Specimen of Tobacco the Indians cultivate called 
+          <name type="native_nation" key="Arikara Indians">Ricaras</name>Tobacco—    at
+          the 
+          <name type="native_nation" key="Arikara Indians">Ricares</name>Town</p>
+               <p>46. Sep. 15, 1804    The growth of the Upper Prairis    H</p>
+               <p>47 Oct. 17    Species of Juniper common to the Bluffs    H</p>
+               <p>48. Oct. 17    a Decoction of this plant used by the Indians to wash their
+          Wounds.—    103</p>
+               <p>49. Oct. 16 (104)    never more than 6 Inches high    Dwarf
+          Cedar.</p>
+               <p>50—    Oct. 18    The small rose of the Prairies    it
+          rises from 12 to 14 Inch high    does not vine    H</p>
+               <p>51. Oct. 3d 1804    Radix Perennial    three to 8 Stalks as high
+          as the specimen growth of the high sides of the Bluff (Camomile taste)</p>
+               <p>52. Sep. 15 1804    Growth of the plains.    H</p>
+               <p>53 Oct. 3d    Flavor like the Cammomile    Radix Perennial—
+             High Bluffs</p>
+               <p>53 (A) Sep. 2    The Indians use it as an application to fresh wounds they
+          bruise the leaves add a little water &amp; use it—</p>
+               <p>54. Oct. 2d    grows from 18 Inches to 2½ feet    many stalks
+          from the same root, from which they issue near the ground    The Radix
+          perennial—    The goat or antelope feed on it in the winter, it is the growth
+          of the high bluffs    S    H</p>
+               <p>55 Oct. 2d 1804    Growth of the high Bluffs</p>
+               <p>56 Oct. 2d 1804.    Growth of the open plains</p>
+               <p>57 Oct. 1, 1804    first discovered in the neighborhood of the 
+          <name type="place" key="Kansas (Decaugh, Kaw) River">Kancez River</name>—now very
+          common, the growth of the little Cops, which appear on the steep declivities of the
+          Hills where they are sheltered from the ravages of the fire.    H</p>
+               <p>58. 2d Oct. 1804    A species of Cedar found on the Bluffs the trees of
+          which are large, some 6 feet in the Girth—    H</p>
+               <p>58. 12 Sepr.    growth of the high dry Prairie    H</p>
+               <p>59—    19th Sepr. 1804    The growth of the high &amp; bare
+          Prairies which produce little Grass—    Generally mineral earth   
+          H</p>
+               <p>59. Growth of moist &amp; very wet prairies—    8 Sep. H</p>
+               <p>60. Oct 1, 1804—    another variety of wild Sage growth of High &amp;
+          bottom Prairies—    H</p>
+               <p>
+                  <hi rend="center">Seeds</hi>
+               </p>
+               <p>61 Wild Prairie Timothy Seeds    H</p>
+               <p>62 Seeds of a Species of Pine with a Pod    H</p>
+               <p>The Fang of a Rattle Snake, they are abundant on the 
+          <name type="place" key="Missouri River">Missouri</name>
+               </p>
+               <p>Specimen of the fur of the Antelope, this animal affords but little, it is intermixed
+          with the coarse hair &amp; is not perceptible but by close examination—</p>
+               <p>Two Small quadrupeds.</p>
+               <p>a few Insects</p>
+               <p>The Corolla of the Indian Tobacco as prepared for the purpoe of Smoking by the 
+          <name type="native_nation" key="Mandan Indians">Mandans</name>, 
+          <name type="native_nation" key="Arikara Indians">Ricaras</name>, 
+          <name type="native_nation" key="Hidatsa Indians">Minetares</name>&amp; 
+          <name type="native_nation" key="Hidatsa Indians, Awaxawi">Ahwahhaways</name>, in this
+          State it is mixed with a small quantity of Buffaloes Tallow, previous to charging the
+          pipe—    It is esteemed a great delicacy among these people, they dispose of
+          it to their neighbors the 
+          <name type="native_nation" key="Assiniboine Indians">Assinouboins</name>&amp; others who
+          visit them for the purpose of Traffick from whom they obtain a high price—</p>
+               <p>
+                  <table rows="75" cols="4">
+                     <head>BOTANICAL IDENTIFICATIONS</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Voucher
+                  <lb/>Number</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">
+                              <lb/>1804 Dates</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">
+                              <lb/>Approximate Location</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Current Scientific and
+                  <lb/>Common Names</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">May 10</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Saint Louis, Mo.">St. Louis</name>, 
+                <name type="place" key="Missouri">MO</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">perhaps 
+                <hi rend="italic">Thlaspi arvense</hi>L.
+                <lb/>(field pennycress naturalized
+                <lb/>from Europe)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">May 22</cell>
+                        <cell role="data" rows="1" cols="1">above 
+                <name type="place" key="Saint Charles, Mo.">St. Charles</name>, 
+                <name type="place" key="Saint Charles County, Mo.">St.
+                <lb/>Charles County</name>, 
+                <name type="place" key="Missouri">MO</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">unknown</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">May 23</cell>
+                        <cell role="data" rows="1" cols="1">near mouth of 
+                <name type="place" key="Femme Osage (Osage Woman's) River">Femme
+                <lb/>Osage River</name>, 
+                <name type="place" key="Saint Charles County, Mo.">St.
+                <lb/>Charles County</name>, 
+                <name type="place" key="Missouri">MO</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Amorpha fruiticosa</hi>L.
+                <lb/>(false indigo)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">May 25</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Marthasville, Mo.">Marthasville</name>,
+                <lb/>
+                           <name type="place" key="Warren County, Mo.">Warren County</name>, 
+                <name type="place" key="Missouri">MO</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Populus deltoides</hi>Marsh. var.
+                <lb/>
+                           <hi rend="italic">deltoides</hi>
+                           <lb/>(cottonwood)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">5</cell>
+                        <cell role="data" rows="1" cols="1">May 27</cell>
+                        <cell role="data" rows="1" cols="1">near mouth of
+                <lb/>
+                           <name type="place" key="Gasconade River">Gasconade River</name>,
+                <lb/>
+                           <name type="place" key="Gasconade County, Mo.">Gasconade County</name>,
+                <lb/>
+                           <name type="place" key="Missouri">MO</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">Possibly one of the following
+                <lb/>species of 
+                <hi rend="italic">Rorippa</hi>:
+                <lb/>a. 
+                <hi rend="italic">R. palustris</hi>(L.) Bess.
+                <lb/>   (bog yellow cress)
+                <lb/>b. 
+                <hi rend="italic">R. sessiliflora</hi>(Nutt.) Hitchc.
+                <lb/>   (sessile-flowered cress)
+                <lb/>c. 
+                <hi rend="italic">R. sinuata</hi>(Nutt.) Hitchc.
+                <lb/>   (spreading yellow cress)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">6</cell>
+                        <cell role="data" rows="1" cols="1">May 27</cell>
+                        <cell role="data" rows="1" cols="1">near mouth of
+                <lb/>
+                           <name type="place" key="Gasconade River">Gasconade River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">unknown, but no native
+                <lb/>species of rape or kale
+                <lb/>(
+                <hi rend="italic">Brassica</hi>)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">7</cell>
+                        <cell role="data" rows="1" cols="1">May 27</cell>
+                        <cell role="data" rows="1" cols="1">about ten miles below
+                <lb/>mouth of 
+                <name type="place" key="Gasconade River">Gasconade
+                <lb/>River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">unknown</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">8</cell>
+                        <cell role="data" rows="1" cols="1">May 29</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Osage County, Mo.">Osage</name>-
+                <name type="place" key="Gasconade County, Mo.">Gasconade</name>
+                           <lb/>county line, 
+                <name type="place" key="Missouri">MO</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Hydrastis canadensis</hi>L.
+                <lb/>(golden seal, yellowroot)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">9</cell>
+                        <cell role="data" rows="1" cols="1">May 30</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Osage County, Mo.">Osage</name>-
+                <name type="place" key="Gasconade County, Mo.">Gasconade</name>
+                           <lb/>country line</cell>
+                        <cell role="data" rows="1" cols="1">unknown</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">10</cell>
+                        <cell role="data" rows="1" cols="1">June 1</cell>
+                        <cell role="data" rows="1" cols="1">mouth of 
+                <name type="place" key="Osage (Osarge) River">Osage River</name>
+                           <lb/>
+                           <name type="place" key="Osage County, Mo.">Osage</name>-
+                <name type="place" key="Cole County, Mo.">Cole</name>county
+                <lb/>line, 
+                <name type="place" key="Missouri">MO</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Asarum canadense</hi>L.
+                <lb/>(wild ginger)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">11</cell>
+                        <cell role="data" rows="1" cols="1">June 3</cell>
+                        <cell role="data" rows="1" cols="1">east of 
+                <name type="place" key="Jefferson City, Mo.">Jefferson City</name>,
+                <lb/>
+                           <name type="place" key="Cole County, Mo.">Cole County</name>, 
+                <name type="place" key="Missouri">MO</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Astragalus crassicarpa</hi>Nutt.
+                <lb/>var. 
+                <hi rend="italic">berlandieri</hi>Barneb.
+                <lb/>(ground plum, buffalo bean)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">13</cell>
+                        <cell role="data" rows="1" cols="1">June 14</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Miami, Mo.">Miami</name>, 
+                <name type="place" key="Saline County, Mo.">Saline
+                <lb/>County</name>, 
+                <name type="place" key="Missouri">MO</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Salix exigua</hi>Nutt. ssp. 
+                <hi rend="italic">interior</hi>
+                           <lb/>(Rowlee) Cronq.
+                <lb/>(sandbar, or coyote, willow)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">14</cell>
+                        <cell role="data" rows="1" cols="1">June 14</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Miami, Mo.">Miami</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Salix amygdaloides</hi>Anderss.
+                <lb/>(peach-leaved willow)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">19</cell>
+                        <cell role="data" rows="1" cols="1">undated,
+                <lb/>June 16?</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Carroll County, Mo.">Carroll County</name>, 
+                <name type="place" key="Missouri">MO</name>
+                           <lb/>opposite 
+                <name type="place" key="Lafayette County, Mo.">Lafayette</name>-
+                <lb/>
+                           <name type="place" key="Saline County, Mo.">Saline</name>county line</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Phalaris arundinacea</hi>L.
+                <lb/>(reed canarygrass)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">61</cell>
+                        <cell role="data" rows="1" cols="1">undated,
+                <lb/>June 16?</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Carroll County, Mo.">Carroll County</name>,
+                <lb/>opposite 
+                <name type="place" key="Lafayette County, Mo.">Lafayette</name>-
+                <lb/>
+                           <name type="place" key="Saline County, Mo.">Saline</name>county line</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Phalaris arundinacea</hi>L.
+                <lb/>(reed canarygrass)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">30</cell>
+                        <cell role="data" rows="1" cols="1">July 13</cell>
+                        <cell role="data" rows="1" cols="1">above 
+                <name type="place" key="Rulo, Nebr.">Rulo</name>,
+                <lb/>
+                           <name type="place" key="Richardson County, Nebr.">Richardson County</name>,
+                <lb/>
+                           <name type="place" key="Nebraska">NE</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Artemisia ludoviciana</hi>Nutt.
+                <lb/>var. 
+                <hi rend="italic">ludoviciana</hi>
+                           <lb/>(white sage)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">28</cell>
+                        <cell role="data" rows="1" cols="1">July 15
+                <lb/>or 17</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Iowa">Iowa</name>-
+                <name type="place" key="Missouri">Missouri</name>
+                           <lb/>state line</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Convolvulus sepium</hi>L.
+                <lb/>(hedge bindweed)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">29</cell>
+                        <cell role="data" rows="1" cols="1">July 18</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Nebraska City, Nebr.">Nebraska City</name>,
+                <lb/>
+                           <name type="place" key="Otoe County, Nebr.">Otoe County</name>, 
+                <name type="place" key="Nebraska">NE</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Cassia fasciulata</hi>Michx.
+                <lb/>(partridge pea)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">15</cell>
+                        <cell role="data" rows="1" cols="1">July 20</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Cass County, Nebr.">Cass</name>-
+                <name type="place" key="Otoe County, Nebr.">Otoe</name>county
+                <lb/>line, 
+                <name type="place" key="Nebraska">NE</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Petalostemon purpureum</hi>
+                           <lb/>(Vent.) Rydb.
+                <hi rend="italic"/>
+                           <lb/>(purple prairie clover)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">16</cell>
+                        <cell role="data" rows="1" cols="1">undated,
+                <lb/>July 20?</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Cass County, Nebr.">Cass</name>-
+                <name type="place" key="Otoe County, Nebr.">Otoe</name>county
+                <lb/>line</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Petalostemon candidum</hi>(Willd.)
+                <lb/>Michx.
+                <lb/>(white prairie clover)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">17</cell>
+                        <cell role="data" rows="1" cols="1">July 27</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Bellevue, Nebr.">Bellevue</name>, 
+                <name type="place" key="Sarpy County, Nebr.">Sarpy
+                <lb/>County</name>, 
+                <name type="place" key="Nebraska">NE</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">unknown</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">20</cell>
+                        <cell role="data" rows="1" cols="1">July 27</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Bellevue, Nebr.">Bellevue</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Elymus canadensis</hi>L.
+                <lb/>(Canada wild rye)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">21</cell>
+                        <cell role="data" rows="1" cols="1">July 27</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Bellevue, Nebr.">Bellevue</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Elymus virginicus</hi>L.
+                <lb/>(Virginia wild rye) or
+                <lb/>
+                           <hi rend="italic">E. villosus</hi>Muhl.
+                <lb/>(slender wild rye)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">22</cell>
+                        <cell role="data" rows="1" cols="1">July 27</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Bellevue, Nebr.">Bellevue</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">unknown</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">23</cell>
+                        <cell role="data" rows="1" cols="1">July 27</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Bellevue, Nebr.">Bellevue</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Andropogon gerardi</hi>Vitman
+                <lb/>(big bluestem)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">24</cell>
+                        <cell role="data" rows="1" cols="1">July 27</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Bellevue, Nebr.">Bellevue</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">unknown</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">25</cell>
+                        <cell role="data" rows="1" cols="1">July 27</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Bellevue, Nebr.">Bellevue</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">unknown</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">18</cell>
+                        <cell role="data" rows="1" cols="1">July 30</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Fort Calhoun, Nebr.">Fort Calhoun</name>,
+                <lb/>
+                           <name type="place" key="Washington County, Nebr.">Washington County</name>,
+                <lb/>
+                           <name type="place" key="Nebraska">NE</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Desmanthus illinoensis</hi>(Michx.)
+                <lb/>MacM.
+                <lb/>(bundleflower)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">12</cell>
+                        <cell role="data" rows="1" cols="1">August 1</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Fort Calhoun, Nebr.">Fort Calhoun</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Ribes americanum</hi>Mill.
+                <lb/>(wild black currant)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">26</cell>
+                        <cell role="data" rows="1" cols="1">August 2</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Fort Calhoun, Nebr.">Fort Calhoun</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Symphoricarpos occidentalis</hi>
+                           <lb/>Hook.
+                <lb/>(western snowberry) or
+                <lb/>
+                           <hi rend="italic">S. orbiculatus</hi>Moench
+                <lb/>(buckbrush)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">27</cell>
+                        <cell role="data" rows="1" cols="1">August 4</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Blair, Nebr.">Blair</name>, 
+                <name type="place" key="Washington County, Nebr.">Washington
+                <lb/>County</name>, 
+                <name type="place" key="Nebraska">NE</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Euphorbia marginata</hi>Pursh
+                <lb/>(snow-on-the-mountain)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">31</cell>
+                        <cell role="data" rows="1" cols="1">August 10</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Decatur, Nebr.">Decatur</name>, 
+                <name type="place" key="Burt County, Nebr.">Burt
+                <lb/>County</name>, 
+                <name type="place" key="Nebraska">NE</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Equisetum arvense</hi>L.
+                <lb/>(field horsetail)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">40</cell>
+                        <cell role="data" rows="1" cols="1">August 17</cell>
+                        <cell role="data" rows="1" cols="1">south of 
+                <name type="place" key="Dakota City, Nebr.">Dakota City</name>,
+                <lb/>
+                           <name type="place" key="Dakota County, Nebr.">Dakota County</name>, 
+                <name type="place" key="Nebraska">NE</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Grindelia squarrosa</hi>(Pursh)
+                <lb/>Dun. var. 
+                <hi rend="italic">squarrosa</hi>
+                           <lb/>(curly-top gumweed)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">43</cell>
+                        <cell role="data" rows="1" cols="1">August 25</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Vermillion, S. Dak.">Vermillion</name>, 
+                <name type="place" key="Clay County, S. Dak.">Clay
+                <lb/>County</name>, 
+                <name type="place" key="South Dakota">SD</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Cleome serrulata</hi>Pursh
+                <lb/>(
+                <name type="place" key="Rocky Mountains">Rocky Mountain</name>bee plant)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">42</cell>
+                        <cell role="data" rows="1" cols="1">August 27</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Yankton, S. Dak.">Yankton</name>,
+                <lb/>
+                           <name type="place" key="Yankton County, S. Dak.">Yankton County</name>, 
+                <name type="place" key="South Dakota">SD</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Psoralea lanceolata</hi>Pursh
+                <lb/>(lemon scurf pea)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">44</cell>
+                        <cell role="data" rows="1" cols="1">September
+                <lb/>1</cell>
+                        <cell role="data" rows="1" cols="1">west of 
+                <name type="place" key="Yankton, S. Dak.">Yankton</name>–
+                <lb/>
+                           <name type="place" key="Bon Homme County, S. Dak.">Bon Homme</name>
+                           <lb/>county line, SD</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Mirabilis nyctaginea</hi>(Michx.)
+                <lb/>MacM.
+                <lb/>(wild four o'clock)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">41</cell>
+                        <cell role="data" rows="1" cols="1">September
+                <lb/>2</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Springfield, S. Dak.">Springfield</name>,
+                <lb/>
+                           <name type="place" key="Bon Homme County, S. Dak.">Bon Homme
+                <lb/>County</name>, 
+                <name type="place" key="South Dakota">SD</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Artemisia frigida</hi>Willd.
+                <lb/>(prairie sagewort)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">53 A</cell>
+                        <cell role="data" rows="1" cols="1">September
+                <lb/>2</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Springfield, S. Dak.">Springfield</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Petalostemum purpureum</hi>
+                           <lb/>(Vent.) Rydb.
+                <lb/>(purple prairie clover)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">39 A</cell>
+                        <cell role="data" rows="1" cols="1">undated,
+                <lb/>September
+                <lb/>4?</cell>
+                        <cell role="data" rows="1" cols="1">mouth of 
+                <name type="place" key="Niobrara (Quicurre, Rapid) River">Nio-
+                <lb/>brara River</name>, 
+                <name type="place" key="Knox County, Nebr.">Knox
+                <lb/>County</name>, 
+                <name type="place" key="Nebraska">NE</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Shepherdia argentea</hi>(Pursh)
+                <lb/>Nutt.
+                <lb/>(buffaloberry)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">34</cell>
+                        <cell role="data" rows="1" cols="1">September
+                <lb/>5</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Verdel, Nebr.">Verdel</name>, 
+                <name type="place" key="Knox County, Nebr.">Knox
+                <lb/>County</name>, 
+                <name type="place" key="Nebraska">NE</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Quercus macrocarpa</hi>Michx.
+                <lb/>(bur oak)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">59 [a]</cell>
+                        <cell role="data" rows="1" cols="1">September
+                <lb/>8</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Nebraska">Nebraska</name>–
+                <name type="place" key="South Dakota">South
+                <lb/>Dakota</name>state
+                <lb/>line</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Zizania aquatic</hi>L.
+                <lb/>(wild rice)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">58 [a]</cell>
+                        <cell role="data" rows="1" cols="1">September
+                <lb/>12</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Charles Mix County, S. Dak.">Charles Mix</name>–
+                <lb/>
+                           <name type="place" key="Brule County, S. Dak.">Brule county</name>line,
+                <lb/>SD</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Liatris aspera</hi>Michx.
+                <lb/>(rough gayfeather)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">46</cell>
+                        <cell role="data" rows="1" cols="1">September
+                <lb/>15</cell>
+                        <cell role="data" rows="1" cols="1">near mouth of
+                <lb/>
+                           <name type="place" key="White River">White River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Astragalus canadensis</hi>L. var.
+                <lb/>
+                           <hi rend="italic">mortoni</hi>(Nutt.) S. Wats.
+                <lb/>(Canada milkvetch)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">52</cell>
+                        <cell role="data" rows="1" cols="1">September
+                <lb/>15</cell>
+                        <cell role="data" rows="1" cols="1">near mouth of
+                <lb/>
+                           <name type="place" key="White River">White River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Artemisia dracunculus</hi>L.
+                <lb/>(silky wormwood)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">35</cell>
+                        <cell role="data" rows="1" cols="1">September
+                <lb/>18</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Chamberlain, S. Dak.">Chamberlain</name>,
+                <lb/>
+                           <name type="place" key="Brule County, S. Dak.">Brule County</name>, 
+                <name type="place" key="South Dakota">SD</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Liatris pycnostachya</hi>Michx.
+                <lb/>(tall blazing star gayfeather)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">36</cell>
+                        <cell role="data" rows="1" cols="1">September
+                <lb/>18</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Chamberlain, S. Dak.">Chamberlain</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Astragalus missouriensis</hi>Nutt.
+                <lb/>(Missouri milkvetch)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">59 [b]</cell>
+                        <cell role="data" rows="1" cols="1">September
+                <lb/>19</cell>
+                        <cell role="data" rows="1" cols="1">lower part of 
+                <name type="place" key="Missouri River, Big Bend of the">Big
+                <lb/>Bend of Missouri</name>;
+                <lb/>
+                           <name type="place" key="Buffalo County, S. Dak.">Buffalo County</name>, 
+                <name type="place" key="South Dakota">SD</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Chrysothamnus nauseosus</hi>(Pursh)
+                <lb/>Britt. &amp; Rusby
+                <lb/>(broom snakeweed)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">32</cell>
+                        <cell role="data" rows="1" cols="1">September
+                <lb/>21</cell>
+                        <cell role="data" rows="1" cols="1">upper part of 
+                <name type="place" key="Missouri River, Big Bend of the">Big
+                <lb/>Bend of Missouri</name>;
+                <lb/>
+                           <name type="place" key="Hughes County, S. Dak.">Hughes County</name>, 
+                <name type="place" key="South Dakota">SD</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Gutierrezia sarothrae</hi>(Pursh)
+                <lb/>Britt. &amp; Rusby
+                <lb/>(broom snakeweed)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">37</cell>
+                        <cell role="data" rows="1" cols="1">September 22</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Lyman County, S. Dak.">Lyman</name>-
+                <name type="place" key="Stanley County, S. Dak.">Stanley</name>
+                           <lb/>County line, 
+                <name type="place" key="South Dakota">SD</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">unknown</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">57</cell>
+                        <cell role="data" rows="1" cols="1">October 1</cell>
+                        <cell role="data" rows="1" cols="1">near mouth of
+                <lb/>
+                           <name type="place" key="Cheyenne River">Cheyenne River</name>,
+                <lb/>
+                           <name type="place" key="Stanley County, S. Dak.">Stanley County</name>, 
+                <name type="place" key="South Dakota">SD</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Rhus aromatica</hi>Air. var.
+                <lb/>
+                           <hi rend="italic">trilobata</hi>(Nutt.) Gray
+                <lb/>(aromatic sumac)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">60</cell>
+                        <cell role="data" rows="1" cols="1">October 1</cell>
+                        <cell role="data" rows="1" cols="1">near mouth of
+                <lb/>
+                           <name type="place" key="Cheyenne River">Cheyenne River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Artemisia cana</hi>Pursh
+                <lb/>(silversage, hoary
+                <lb/>sagebrush)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">54</cell>
+                        <cell role="data" rows="1" cols="1">October 2</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Sully County, S. Dak.">Sully</name>-
+                <name type="place" key="Potter County, S. Dak.">Potter</name>
+                           <lb/>county line</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Chrysothmnus nauseosus</hi>
+                           <lb/>(Pall.) Britt. ssp. 
+                <hi rend="italic">graveolens</hi>
+                           <lb/>(Nutt.) Piper
+                <lb/>(rabbit brush)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">55</cell>
+                        <cell role="data" rows="1" cols="1">October 2</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Sully County, S. Dak.">Sully</name>-
+                <name type="place" key="Potter County, S. Dak.">Potter</name>
+                           <lb/>county line</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Artemisia cana</hi>Pursh
+                <lb/>(silversage, hoary
+                <lb/>sagebrush)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">56</cell>
+                        <cell role="data" rows="1" cols="1">October 2</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Sully County, S. Dak.">Sully</name>-
+                <name type="place" key="Potter County, S. Dak.">Potter</name>
+                           <lb/>county line</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Artemisia cana</hi>Pursh
+                <lb/>(silversage, hoary
+                <lb/>sagebrush)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">58 [b]</cell>
+                        <cell role="data" rows="1" cols="1">October 2</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Sully County, S. Dak.">Sully</name>-
+                <name type="place" key="Potter County, S. Dak.">Potter</name>
+                           <lb/>county line</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Juniperus scopulorum</hi>Sarg.
+                <lb/>(
+                <name type="place" key="Rocky Mountains">Rocky Mountain</name>red
+                <lb/>cedar)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">51</cell>
+                        <cell role="data" rows="1" cols="1">October 3</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Sully County, S. Dak.">Sully</name>-
+                <name type="place" key="Potter County, S. Dak.">Potter</name>
+                           <lb/>county line</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Artemisia frigida</hi>Willd.
+                <lb/>(prairie sagewort)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">53</cell>
+                        <cell role="data" rows="1" cols="1">October 3</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Sully County, S. Dak.">Sully</name>-
+                <name type="place" key="Potter County, S. Dak.">Potter</name>
+                           <lb/>county line</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Artemisia longifolia</hi>Nutt.
+                <lb/>(long leaf sage)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">45</cell>
+                        <cell role="data" rows="1" cols="1">October 12</cell>
+                        <cell role="data" rows="1" cols="1">above 
+                <name type="place" key="Walworth County, S. Dak.">Walworth</name>-
+                <lb/>
+                           <name type="place" key="Campbell County, S. Dak.">Campbell</name>line, 
+                <name type="place" key="South Dakota">SD</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Nicotiana quadrivalvis</hi>
+                           <lb/>Pursh
+                <lb/>(Indian tobacco)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">38</cell>
+                        <cell role="data" rows="1" cols="1">October 15</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place" key="Fort Yates (N. Dak.)">Fort Yates</name>,
+                <lb/>
+                           <name type="place" key="Sioux County, N. Dak.">Sioux County</name>, 
+                <name type="place" key="North Dakota">ND</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Poinsettia cyathophora</hi>
+                           <lb/>(Murr.)
+                <lb/>Klotzsch &amp; Garcke
+                <lb/>(
+                <name type="place" key="Fire-on-the-mountain">fire-on-the-mountain</name>)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">49
+                <lb/>(same as
+                <lb/>104)</cell>
+                        <cell role="data" rows="1" cols="1">October 16</cell>
+                        <cell role="data" rows="1" cols="1">near 
+                <name type="place"
+                                 key="Little Beaver (Kee-tooch Sar-kar-nar) Creek (Emmons County, N. Dak.)">Little
+                Beaver
+                <lb/>Creek</name>, 
+                <name type="place" key="Emmons County, N. Dak.">Emmons
+                <lb/>County</name>, 
+                <name type="place" key="North Dakota">ND</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Juniperus horizontalis</hi>
+                           <lb/>Moench
+                <lb/>(creeping juniper)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">47</cell>
+                        <cell role="data" rows="1" cols="1">October 17</cell>
+                        <cell role="data" rows="1" cols="1">below mouth of
+                <lb/>
+                           <name type="place" key="Cannonball (Bullet) River">Cannon Ball River</name>,
+                <lb/>
+                           <name type="place" key="Sioux County, N. Dak.">Sioux County</name>, 
+                <name type="place" key="North Dakota">ND</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Juniperns communis</hi>L.
+                <lb/>(dwarf juniper)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">48
+                <lb/>(same as
+                <lb/>103)</cell>
+                        <cell role="data" rows="1" cols="1">October 17</cell>
+                        <cell role="data" rows="1" cols="1">below mouth of
+                <lb/>
+                           <name type="place" key="Cannonball (Bullet) River">Cannon Ball River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Psoralea argophylla</hi>Pursh
+                <lb/>(silver-leaf scurf pea)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">50</cell>
+                        <cell role="data" rows="1" cols="1">October 18</cell>
+                        <cell role="data" rows="1" cols="1">near mouth of
+                <lb/>
+                           <name type="place" key="Cannonball (Bullet) River">Cannon Ball River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">probably 
+                <hi rend="italic">Rosa arkansana</hi>
+                           <lb/>Porter
+                <lb/>(prairie wild rose)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">33</cell>
+                        <cell role="data" rows="1" cols="1">undated</cell>
+                        <cell role="data" rows="1" cols="1">at 
+                <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Arctostaphylos uva-ursi</hi>L.
+                <lb/>(bearberry)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">100</cell>
+                        <cell role="data" rows="1" cols="1">November 17</cell>
+                        <cell role="data" rows="1" cols="1">at 
+                <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Aquilegia canadensis</hi>L.
+                <lb/>(columbine)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">62</cell>
+                        <cell role="data" rows="1" cols="1">undated</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">unknown</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">101</cell>
+                        <cell role="data" rows="1" cols="1">undated</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Echinacea angustifolia</hi>DC.
+                <lb/>(narrow leaf purple
+                <lb/>coneflower)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">102</cell>
+                        <cell role="data" rows="1" cols="1">undated</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">unknown</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">103
+                <lb/>(same as
+                <lb/>48)</cell>
+                        <cell role="data" rows="1" cols="1">undated</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Psoralea argophylla</hi>Pursh
+                <lb/>(silver-leaf scurf pea)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">104
+                <lb/>(same as
+                <lb/>49)</cell>
+                        <cell role="data" rows="1" cols="1">undated</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Juniperus horizontalis</hi>
+                           <lb/>Moench
+                <lb/>(creeping juniper)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">105</cell>
+                        <cell role="data" rows="1" cols="1">undated</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Nicotiana quadrivalvis</hi>
+                           <lb/>Pursh
+                <lb/>(Indian tobacco)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">106</cell>
+                        <cell role="data" rows="1" cols="1">undated</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Nicotiana quadrivalvis</hi>
+                           <lb/>Pursh
+                <lb/>(Indian tobacco)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">107</cell>
+                        <cell role="data" rows="1" cols="1">undated</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">possibly 
+                <hi rend="italic">Nicotiana rustica</hi>
+                           <lb/>L. var. 
+                <hi rend="italic">pumila</hi>Schrank
+                <lb/>(small Arikara tobacco)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">108</cell>
+                        <cell role="data" rows="1" cols="1">undated</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Nicotiana quadrivalvis</hi>
+                           <lb/>Pursh
+                <lb/>(Indian tobacco)</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n01" n="1">The mention of seeds of two varieties of tobacco cultivated by
+        the 
+        <name type="native_nation" key="Arikara Indians">Arikaras</name>has not been entirely
+        resolved. Voucher 105 is the seed of the larger tobacco variety and 107 is the seed of the
+        smaller variety. The large variety, based on 
+        <name type="person" key="Lewis, Meriwether">Lewis's</name>excellent description, is
+        clearly 
+        <hi rend="italic">Nicotiana quadrivalvis</hi>Pursh. The voucher specimen 45 is the plant
+        with flowers. The small variety, described by 
+        <name type="person" key="Lewis, Meriwether">Lewis</name>as being similar but with smaller
+        flowers, and with larger, ovate leaves, is very different and fits the description of 
+        <hi rend="italic">Nicotiana rustica</hi>L. var. 
+        <hi rend="italic">pumila</hi>Schrank. Goodspeed, 356; Cronquist et al., 72. This is
+        important primary evidence that two different species of tobacco were cultivated by the
+        Arikaras. Cf. Gilmore (UPI), 61–62; Gilmore (SCAT), 480–81. Unfortunately, Lewis did not
+        collect a specimen of this smaller species. The tobacco seeds were returned to 
+        <name type="person" key="Jefferson, Thomas">Jefferson</name>and apparently cultivated in
+        the gardens of William Hamilton and Bernard McMahon. Jackson (LLC), 1:238–39 n. 17, 269,
+        356, 357 n. 1, 2:389, 392 n. 1, 529.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-1805.winter.part2" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-1805.winter.part4" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
