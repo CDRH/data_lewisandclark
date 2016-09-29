@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1805-10-11">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-10-11">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1989</date>
                <biblScope type="pages">261-264</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">237</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">153</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -93,10 +105,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-10-11.01">
             <placeName/>
             <geo>46.7 -114.4667</geo>
-            <note>Camped below Almota Creek, near present Almota, Whitman County, WA. In between Lower Granite Dam, Lower Granite Lake and Lake Bryan. </note>
+            <note>Camped below Almota Creek, near present Almota, Whitman County, WA. In between Lower
+          Granite Dam, Lower Granite Lake and Lake Bryan. </note>
          </geoDecl>
       </encodingDesc>
       <profileDesc/>
@@ -116,9 +129,11 @@
    <text>
       <body>
          <head type="date">
-            <date>October 11, 1805</date>
+            <date when="1805-10-11">October 11, 1805</date>
          </head>
-         <div type="entry" xml:id="lc.1805-10-11.01">
+         <div type="entry"
+              xml:id="lc.jrn.1805-10-11.01"
+              ref="lc.geo.1805-10-11.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -259,7 +274,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-10-11.02">
+         <div type="entry"
+              xml:id="lc.jrn.1805-10-11.02"
+              ref="lc.geo.1805-10-11.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -299,7 +316,9 @@
           the S. W. and hard. The day worm.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-10-11.03">
+         <div type="entry"
+              xml:id="lc.jrn.1805-10-11.03"
+              ref="lc.geo.1805-10-11.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -321,7 +340,9 @@
           more dogs and a little Sammon &amp;C—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-10-11.04">
+         <div type="entry"
+              xml:id="lc.jrn.1805-10-11.04"
+              ref="lc.geo.1805-10-11.01">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -345,7 +366,9 @@
           and shores of the river are very stony; and the stones of a round smooth kind.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-10-11.05">
+         <div type="entry"
+              xml:id="lc.jrn.1805-10-11.05"
+              ref="lc.geo.1805-10-11.01">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

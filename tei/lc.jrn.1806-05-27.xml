@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1806-05-27">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-05-27">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1991</date>
                <biblScope type="pages">290-297</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">315</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -82,10 +91,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-05-27.01">
             <placeName/>
             <geo>46.05 -116.5333</geo>
-            <note>A few men left camp to go hunting and exploring. Camped at a Nez Perce village on  Lawyer Creek, near Orofino ID.</note>
+            <note>A few men left camp to go hunting and exploring. Camped at a Nez Perce village on
+          Lawyer Creek, near Orofino ID.</note>
             <note>Approximate location</note>
          </geoDecl>
       </encodingDesc>
@@ -106,9 +116,11 @@
    <text>
       <body>
          <head type="date">
-            <date>May 27, 1806</date>
+            <date when="1806-05-27">May 27, 1806</date>
          </head>
-         <div type="entry" xml:id="lc.1806-05-27.01">
+         <div type="entry"
+              xml:id="lc.jrn.1806-05-27.01"
+              ref="lc.geo.1806-05-27.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -245,7 +257,9 @@
           insects.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-05-27.02">
+         <div type="entry"
+              xml:id="lc.jrn.1806-05-27.02"
+              ref="lc.geo.1806-05-27.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -378,7 +392,9 @@
           feeds on bugs, worms and a variety of insects.—.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-05-27.03">
+         <div type="entry"
+              xml:id="lc.jrn.1806-05-27.03"
+              ref="lc.geo.1806-05-27.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -404,7 +420,9 @@
           Shower.    the Indians grass houses leak.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-05-27.04">
+         <div type="entry"
+              xml:id="lc.jrn.1806-05-27.04"
+              ref="lc.geo.1806-05-27.01">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1805-11-19">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-11-19">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1990</date>
                <biblScope type="pages">68-71</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">255</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">175</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -111,9 +123,9 @@
    <text>
       <body>
          <head type="date">
-            <date>November 19, 1805</date>
+            <date when="1805-11-19">November 19, 1805</date>
          </head>
-         <div type="entry" xml:id="lc.1805-11-19.01">
+         <div type="entry" xml:id="lc.jrn.1805-11-19.01" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -159,7 +171,7 @@
           Tale feathers 14¼ In.    Head is 6¼ Inch long including the [beek?]</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-11-19.02">
+         <div type="entry" xml:id="lc.jrn.1805-11-19.02" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -182,7 +194,7 @@
           <hi rend="italic">EC: see Codex I.</hi>]</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-11-19.03">
+         <div type="entry" xml:id="lc.jrn.1805-11-19.03" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -238,7 +250,7 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-11-19.04">
+         <div type="entry" xml:id="lc.jrn.1805-11-19.04" ref="">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -260,7 +272,7 @@
           <name type="place" key="Baker (Haley's) Bay">Hailys bay</name>.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-11-19.05">
+         <div type="entry" xml:id="lc.jrn.1805-11-19.05" ref="">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -277,7 +289,7 @@
           to day.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-11-19.06">
+         <div type="entry" xml:id="lc.jrn.1805-11-19.06" ref="">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

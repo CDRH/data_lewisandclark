@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1804-06-29">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-06-29">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1986</date>
                <biblScope type="pages">328-332</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">18, 384</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -82,7 +91,7 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-06-29.01">
             <placeName/>
             <geo>39.161 -94.617</geo>
             <note>In the vacinity of current Riverside, MO and Line Creek</note>
@@ -105,9 +114,11 @@
    <text>
       <body>
          <head type="date">
-            <date>June 29, 1804</date>
+            <date when="1804-06-29">June 29, 1804</date>
          </head>
-         <div type="entry" xml:id="lc.1804-06-29.01">
+         <div type="entry"
+              xml:id="lc.jrn.1804-06-29.01"
+              ref="lc.geo.1804-06-29.01">
             <sp who="wc">
                <speaker>
                   <name type="person" key="Clark, William">Clark</name>
@@ -166,7 +177,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-06-29.02">
+         <div type="entry"
+              xml:id="lc.jrn.1804-06-29.02"
+              ref="lc.geo.1804-06-29.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -212,7 +225,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-06-29.03">
+         <div type="entry"
+              xml:id="lc.jrn.1804-06-29.03"
+              ref="lc.geo.1804-06-29.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -310,7 +325,9 @@
           Parrade for inspection—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-06-29.04">
+         <div type="entry"
+              xml:id="lc.jrn.1804-06-29.04"
+              ref="lc.geo.1804-06-29.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -1143,7 +1160,9 @@
                <p>Latitude deduced from this obstn.    39° 5' 21.2"</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-06-29.05">
+         <div type="entry"
+              xml:id="lc.jrn.1804-06-29.05"
+              ref="lc.geo.1804-06-29.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -1164,7 +1183,9 @@
           them,</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-06-29.06">
+         <div type="entry"
+              xml:id="lc.jrn.1804-06-29.06"
+              ref="lc.geo.1804-06-29.01">
             <sp who="cf">
                <speaker>Floyd</speaker>
                <ab>
@@ -1178,7 +1199,9 @@
           N. Side Late in the evning</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-06-29.07">
+         <div type="entry"
+              xml:id="lc.jrn.1804-06-29.07"
+              ref="lc.geo.1804-06-29.01">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1805-07-25">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-07-25">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1987</date>
                <biblScope type="pages">426-429</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">189</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">117</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -93,7 +105,7 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-07-25.01">
             <placeName/>
             <geo>46.1202 -111.4069</geo>
             <note>Immediately above Toston Dam, Broadwater County, MT</note>
@@ -116,9 +128,11 @@
    <text>
       <body>
          <head type="date">
-            <date>July 25, 1805</date>
+            <date when="1805-07-25">July 25, 1805</date>
          </head>
-         <div type="entry" xml:id="lc.1805-07-25.01">
+         <div type="entry"
+              xml:id="lc.jrn.1805-07-25.01"
+              ref="lc.geo.1805-07-25.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -284,7 +298,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-07-25.02">
+         <div type="entry"
+              xml:id="lc.jrn.1805-07-25.02"
+              ref="lc.geo.1805-07-25.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -342,7 +358,9 @@
           night.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-07-25.03">
+         <div type="entry"
+              xml:id="lc.jrn.1805-07-25.03"
+              ref="lc.geo.1805-07-25.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -364,7 +382,9 @@
           the game killed to day.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-07-25.04">
+         <div type="entry"
+              xml:id="lc.jrn.1805-07-25.04"
+              ref="lc.geo.1805-07-25.01">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -381,7 +401,9 @@
           16 miles and encamped on the north side.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-07-25.05">
+         <div type="entry"
+              xml:id="lc.jrn.1805-07-25.05"
+              ref="lc.geo.1805-07-25.01">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

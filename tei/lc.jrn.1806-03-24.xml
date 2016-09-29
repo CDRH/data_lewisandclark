@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1806-03-24">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-03-24">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1991</date>
                <biblScope type="pages">9-11</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">280-281</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">201</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -93,7 +105,7 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-03-24.01">
             <placeName/>
             <geo>46.2333 -123.4833</geo>
             <note>Camped northeast of Brownsmead, on Aldrich Point, Clatsop County, OR.</note>
@@ -116,9 +128,11 @@
    <text>
       <body>
          <head type="date">
-            <date>March 24, 1806</date>
+            <date when="1806-03-24">March 24, 1806</date>
          </head>
-         <div type="entry" xml:id="lc.1806-03-24.01">
+         <div type="entry"
+              xml:id="lc.jrn.1806-03-24.01"
+              ref="lc.geo.1806-03-24.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -173,7 +187,9 @@
           today.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-03-24.02">
+         <div type="entry"
+              xml:id="lc.jrn.1806-03-24.02"
+              ref="lc.geo.1806-03-24.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -214,7 +230,9 @@
           Miles</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-03-24.03">
+         <div type="entry"
+              xml:id="lc.jrn.1806-03-24.03"
+              ref="lc.geo.1806-03-24.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -240,7 +258,9 @@
           the names of the tradors and a number of the Sailors &amp;C.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-03-24.04">
+         <div type="entry"
+              xml:id="lc.jrn.1806-03-24.04"
+              ref="lc.geo.1806-03-24.01">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -260,7 +280,9 @@
           <ref target="n31032415" n="15"/>at an old village, which had been vacated.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-03-24.05">
+         <div type="entry"
+              xml:id="lc.jrn.1806-03-24.05"
+              ref="lc.geo.1806-03-24.01">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

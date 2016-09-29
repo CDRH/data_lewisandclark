@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1806-07-19">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-07-19">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1987</date>
                <biblScope type="pages">116-118, 204-208</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">337-339</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -82,15 +91,17 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-07-19.01">
             <placeName/>
             <geo>48.34 -111.2766</geo>
-            <note>Lewis camped on the Marias, in Toole County, MT, about a mile west of the Liberty County line.</note>
+            <note>Lewis camped on the Marias, in Toole County, MT, about a mile west of the Liberty
+          County line.</note>
          </geoDecl>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-07-19.02">
             <placeName/>
             <geo>45.6167 -108.9167</geo>
-            <note>Clark camped on the north side of the Yellowstone River in Stillwater County, south of present Park City, and remained here until 07-24. "Canoe Camp."</note>
+            <note>Clark camped on the north side of the Yellowstone River in Stillwater County, south
+          of present Park City, and remained here until 07-24. "Canoe Camp."</note>
          </geoDecl>
       </encodingDesc>
       <profileDesc/>
@@ -110,9 +121,9 @@
    <text>
       <body>
          <head type="date">
-            <date>July 19, 1806</date>
+            <date when="1806-07-19">July 19, 1806</date>
          </head>
-         <div type="entry" xml:id="lc.1806-07-19.01">
+         <div type="entry" xml:id="lc.jrn.1806-07-19.01" ref="">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -218,7 +229,7 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-07-19.02">
+         <div type="entry" xml:id="lc.jrn.1806-07-19.02" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -291,7 +302,7 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-07-19.03">
+         <div type="entry" xml:id="lc.jrn.1806-07-19.03" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -625,7 +636,7 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-07-19.04">
+         <div type="entry" xml:id="lc.jrn.1806-07-19.04" ref="">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -682,7 +693,7 @@
              much worse than they were last year.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-07-19.05">
+         <div type="entry" xml:id="lc.jrn.1806-07-19.05" ref="">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>

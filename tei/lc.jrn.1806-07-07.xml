@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1806-07-07">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-07-07">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1987</date>
                <biblScope type="pages">95-96, 169-171</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">332</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -82,10 +91,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-07-07.01">
             <placeName/>
             <geo>45.3167 -113.1833</geo>
-            <note>Clark and a small party crossed Warm Spring Creek and camped near the head of Divide Creek, Beaverhead County, MT.</note>
+            <note>Clark and a small party crossed Warm Spring Creek and camped near the head of Divide
+          Creek, Beaverhead County, MT.</note>
          </geoDecl>
       </encodingDesc>
       <profileDesc/>
@@ -105,9 +115,11 @@
    <text>
       <body>
          <head type="date">
-            <date>July 7, 1806</date>
+            <date when="1806-07-07">July 7, 1806</date>
          </head>
-         <div type="entry" xml:id="lc.1806-07-07.01">
+         <div type="entry"
+              xml:id="lc.jrn.1806-07-07.01"
+              ref="lc.geo.1806-07-07.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -211,7 +223,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-07-07.02">
+         <div type="entry"
+              xml:id="lc.jrn.1806-07-07.02"
+              ref="lc.geo.1806-07-07.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -347,7 +361,9 @@
           in length.    remarkable Cold night</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-07-07.03">
+         <div type="entry"
+              xml:id="lc.jrn.1806-07-07.03"
+              ref="lc.geo.1806-07-07.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -374,7 +390,9 @@
           in the course of this afternoon—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-07-07.04">
+         <div type="entry"
+              xml:id="lc.jrn.1806-07-07.04"
+              ref="lc.geo.1806-07-07.01">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1804-10-29">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-10-29">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1987</date>
                <biblScope type="pages">208-215</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">91-92</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">60-61</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -111,9 +123,9 @@
    <text>
       <body>
          <head type="date">
-            <date>October 29, 1804</date>
+            <date when="1804-10-29">October 29, 1804</date>
          </head>
-         <div type="entry" xml:id="lc.1804-10-29.01">
+         <div type="entry" xml:id="lc.jrn.1804-10-29.01" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -226,7 +238,7 @@
           8 oclock, and lookd truly tremendious.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-10-29.02">
+         <div type="entry" xml:id="lc.jrn.1804-10-29.02" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -489,7 +501,7 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-10-29.03">
+         <div type="entry" xml:id="lc.jrn.1804-10-29.03" ref="">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -511,7 +523,7 @@
           Indians, that I omited winding her up.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-10-29.04">
+         <div type="entry" xml:id="lc.jrn.1804-10-29.04" ref="">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -544,7 +556,7 @@
           &amp;.C. &amp;.C.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-10-29.05">
+         <div type="entry" xml:id="lc.jrn.1804-10-29.05" ref="">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -573,7 +585,7 @@
           with which they were highly pleased.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-10-29.06">
+         <div type="entry" xml:id="lc.jrn.1804-10-29.06" ref="">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

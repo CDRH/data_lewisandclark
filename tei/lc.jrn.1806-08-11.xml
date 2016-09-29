@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1806-08-11">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-08-11">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1987</date>
                <biblScope type="pages">154-157, 288-289</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">347-348</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -82,15 +91,17 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-08-11.01">
             <placeName/>
             <geo>48.3 -102.3</geo>
-            <note>Clark camped on the present Little Knife River, Mountrail County, ND, which the party had passed on 1805-04-15. </note>
+            <note>Clark camped on the present Little Knife River, Mountrail County, ND, which the party
+          had passed on 1805-04-15. </note>
          </geoDecl>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-08-11.02">
             <placeName/>
             <geo>48.1465 -102.7815</geo>
-            <note>The party camped in southwestern Mountrail County, ND, a little above the mouth of present White Earth River.</note>
+            <note>The party camped in southwestern Mountrail County, ND, a little above the mouth of
+          present White Earth River.</note>
          </geoDecl>
       </encodingDesc>
       <profileDesc/>
@@ -110,9 +121,9 @@
    <text>
       <body>
          <head type="date">
-            <date>August 11, 1806</date>
+            <date when="1806-08-11">August 11, 1806</date>
          </head>
-         <div type="entry" xml:id="lc.1806-08-11.01">
+         <div type="entry" xml:id="lc.jrn.1806-08-11.01" ref="">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -224,7 +235,7 @@
           should decend the river.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-08-11.02">
+         <div type="entry" xml:id="lc.jrn.1806-08-11.02" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -305,7 +316,7 @@
           troublesom.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-08-11.03">
+         <div type="entry" xml:id="lc.jrn.1806-08-11.03" ref="">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -350,7 +361,7 @@
           Sunset and Camped on a Sand beach on Ld Side    high winds.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-08-11.04">
+         <div type="entry" xml:id="lc.jrn.1806-08-11.04" ref="">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>

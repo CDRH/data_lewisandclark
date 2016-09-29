@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1805-12-04">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-12-04">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1990</date>
                <biblScope type="pages">107-108</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">258</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">180</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -111,9 +123,9 @@
    <text>
       <body>
          <head type="date">
-            <date>December 4, 1805</date>
+            <date when="1805-12-04">December 4, 1805</date>
          </head>
-         <div type="entry" xml:id="lc.1805-12-04.01">
+         <div type="entry" xml:id="lc.jrn.1805-12-04.01" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -132,7 +144,7 @@
           intended, I feel my self Something better and have an appetite to eate Something</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-12-04.02">
+         <div type="entry" xml:id="lc.jrn.1805-12-04.02" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -158,7 +170,7 @@
           accident has taken place in his craft or party</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-12-04.03">
+         <div type="entry" xml:id="lc.jrn.1805-12-04.03" ref="">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -170,7 +182,7 @@
           high wind all day.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-12-04.04">
+         <div type="entry" xml:id="lc.jrn.1805-12-04.04" ref="">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -183,7 +195,7 @@
           take care of the meat. The rain continued all day.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-12-04.05">
+         <div type="entry" xml:id="lc.jrn.1805-12-04.05" ref="">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

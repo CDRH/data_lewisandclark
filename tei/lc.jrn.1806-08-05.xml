@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1806-08-05">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-08-05">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1987</date>
                <biblScope type="pages">149, 281-282</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">345-346</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -82,15 +91,17 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-08-05.01">
             <placeName/>
             <geo>48.3667 -103.2667</geo>
-            <note>Clark camped above Little Muddy River, McKenzie County, which reaches the Missouri at Williston, Williams County, ND.</note>
+            <note>Clark camped above Little Muddy River, McKenzie County, which reaches the Missouri at
+          Williston, Williams County, ND.</note>
          </geoDecl>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-08-05.02">
             <placeName/>
             <geo>48.0833 -105.6833</geo>
-            <note>The rest of the party camped on Prairie Elk Creek, McCone County, MT, four miles southwest of present Wolf Point.</note>
+            <note>The rest of the party camped on Prairie Elk Creek, McCone County, MT, four miles
+          southwest of present Wolf Point.</note>
          </geoDecl>
       </encodingDesc>
       <profileDesc/>
@@ -110,9 +121,9 @@
    <text>
       <body>
          <head type="date">
-            <date>August 5, 1806</date>
+            <date when="1806-08-05">August 5, 1806</date>
          </head>
-         <div type="entry" xml:id="lc.1806-08-05.01">
+         <div type="entry" xml:id="lc.jrn.1806-08-05.01" ref="">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -148,7 +159,7 @@
           happens from their sheding or casting the fathers of the wings at this season.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-08-05.02">
+         <div type="entry" xml:id="lc.jrn.1806-08-05.02" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -181,7 +192,7 @@
           night from the S W. and blew away the misquetors.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-08-05.03">
+         <div type="entry" xml:id="lc.jrn.1806-08-05.03" ref="">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -202,7 +213,7 @@
           that we could Scarsely See &amp; cut our faces by the force of the wind.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-08-05.04">
+         <div type="entry" xml:id="lc.jrn.1806-08-05.04" ref="">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>

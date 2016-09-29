@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1804-08-19">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-08-19">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1986</date>
                <biblScope type="pages">490-494</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">41</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -100,9 +109,9 @@
    <text>
       <body>
          <head type="date">
-            <date>August 19, 1804</date>
+            <date when="1804-08-19">August 19, 1804</date>
          </head>
-         <div type="entry" xml:id="lc.1804-08-19.01">
+         <div type="entry" xml:id="lc.jrn.1804-08-19.01" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -277,7 +286,7 @@
           <name type="person" key="York">York</name>principally?]</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-08-19.02">
+         <div type="entry" xml:id="lc.jrn.1804-08-19.02" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -397,7 +406,7 @@
           yet, he gets wordse and we are muc allarmed at his Situation, all attention to him.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-08-19.03">
+         <div type="entry" xml:id="lc.jrn.1804-08-19.03" ref="">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -423,7 +432,7 @@
           presidant &amp;C. &amp;C.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-08-19.04">
+         <div type="entry" xml:id="lc.jrn.1804-08-19.04" ref="">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

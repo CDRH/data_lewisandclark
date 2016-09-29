@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1804-10-02">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-10-02">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1987</date>
                <biblScope type="pages">138-140</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">75</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">49-50</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -93,7 +105,7 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-10-02.01">
             <placeName/>
             <geo>44.8 -100.4833</geo>
             <note>Plum Island, which is now inundated by the river. Sully County, SD</note>
@@ -116,9 +128,11 @@
    <text>
       <body>
          <head type="date">
-            <date>October 2, 1804</date>
+            <date when="1804-10-02">October 2, 1804</date>
          </head>
-         <div type="entry" xml:id="lc.1804-10-02.01">
+         <div type="entry"
+              xml:id="lc.jrn.1804-10-02.01"
+              ref="lc.geo.1804-10-02.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -173,7 +187,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-10-02.02">
+         <div type="entry"
+              xml:id="lc.jrn.1804-10-02.02"
+              ref="lc.geo.1804-10-02.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -265,7 +281,9 @@
           much less Sediment of the Same Colour.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-10-02.03">
+         <div type="entry"
+              xml:id="lc.jrn.1804-10-02.03"
+              ref="lc.geo.1804-10-02.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -288,7 +306,9 @@
           <hi rend="double underline">12</hi>miles</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-10-02.04">
+         <div type="entry"
+              xml:id="lc.jrn.1804-10-02.04"
+              ref="lc.geo.1804-10-02.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -310,7 +330,9 @@
                <p>Latitude deduced from this observation.    N. 44° 19' 36.3"</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-10-02.05">
+         <div type="entry"
+              xml:id="lc.jrn.1804-10-02.05"
+              ref="lc.geo.1804-10-02.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -336,7 +358,9 @@
           bar in the middle of the River.—    no hunting for Indians Troublesom.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-10-02.06">
+         <div type="entry"
+              xml:id="lc.jrn.1804-10-02.06"
+              ref="lc.geo.1804-10-02.01">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -363,7 +387,9 @@
           sand bar in the middle of the river.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-10-02.07">
+         <div type="entry"
+              xml:id="lc.jrn.1804-10-02.07"
+              ref="lc.geo.1804-10-02.01">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

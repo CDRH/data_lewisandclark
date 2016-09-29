@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1805-05-12">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-05-12">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1987</date>
                <biblScope type="pages">145-149</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">146-147</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">88</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -93,10 +105,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-05-12.01">
             <placeName/>
             <geo>47.763 -106.6487</geo>
-            <note>Again, the area has been inundated by the river, but it would have been located in Garfield County, MT</note>
+            <note>Again, the area has been inundated by the river, but it would have been located in
+          Garfield County, MT</note>
             <note>Approximate location</note>
          </geoDecl>
       </encodingDesc>
@@ -117,9 +130,11 @@
    <text>
       <body>
          <head type="date">
-            <date>May 12, 1805</date>
+            <date when="1805-05-12">May 12, 1805</date>
          </head>
-         <div type="entry" xml:id="lc.1805-05-12.01">
+         <div type="entry"
+              xml:id="lc.jrn.1805-05-12.01"
+              ref="lc.geo.1805-05-12.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -292,7 +307,9 @@
           midnight; the wind blew violently all night.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-05-12.02">
+         <div type="entry"
+              xml:id="lc.jrn.1805-05-12.02"
+              ref="lc.geo.1805-05-12.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -414,7 +431,9 @@
           for about half the night, wind Continued violent all night</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-05-12.03">
+         <div type="entry"
+              xml:id="lc.jrn.1805-05-12.03"
+              ref="lc.geo.1805-05-12.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -435,7 +454,9 @@
           <hi rend="italic">blank</hi>] miles this day. Some Squawls of rain this evening.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-05-12.04">
+         <div type="entry"
+              xml:id="lc.jrn.1805-05-12.04"
+              ref="lc.geo.1805-05-12.01">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -449,7 +470,9 @@
           continued until night when some rain fell. Our distance this day only 13½ miles.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-05-12.05">
+         <div type="entry"
+              xml:id="lc.jrn.1805-05-12.05"
+              ref="lc.geo.1805-05-12.01">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1804-07-05">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-07-05">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1986</date>
                <biblScope type="pages">350-352</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">20-21, 385</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">18-19</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -93,10 +105,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-07-05.01">
             <placeName/>
             <geo>39.677 -94.985</geo>
-            <note>Hard to tell where they camped, but it was on the south side of the Missouri River, and some miles northeast of Doniphan, KS</note>
+            <note>Hard to tell where they camped, but it was on the south side of the Missouri River,
+          and some miles northeast of Doniphan, KS</note>
             <note>Approximate location</note>
          </geoDecl>
       </encodingDesc>
@@ -117,9 +130,11 @@
    <text>
       <body>
          <head type="date">
-            <date>July 5, 1804</date>
+            <date when="1804-07-05">July 5, 1804</date>
          </head>
-         <div type="entry" xml:id="lc.1804-07-05.01">
+         <div type="entry"
+              xml:id="lc.jrn.1804-07-05.01"
+              ref="lc.geo.1804-07-05.01">
             <sp who="wc">
                <speaker>
                   <name type="person" key="Clark, William">Clark</name>
@@ -212,7 +227,9 @@
           are plenty about those Praries. Some Buffalow Sign.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-07-05.02">
+         <div type="entry"
+              xml:id="lc.jrn.1804-07-05.02"
+              ref="lc.geo.1804-07-05.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -303,7 +320,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-07-05.03">
+         <div type="entry"
+              xml:id="lc.jrn.1804-07-05.03"
+              ref="lc.geo.1804-07-05.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -328,7 +347,9 @@
           a Range    verry thick high Rushes for common,</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-07-05.04">
+         <div type="entry"
+              xml:id="lc.jrn.1804-07-05.04"
+              ref="lc.geo.1804-07-05.01">
             <sp who="cf">
                <speaker>Floyd</speaker>
                <ab>
@@ -344,7 +365,9 @@
           to Defende them Selves on Horse Back    encampt on the South Side</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-07-05.05">
+         <div type="entry"
+              xml:id="lc.jrn.1804-07-05.05"
+              ref="lc.geo.1804-07-05.01">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -357,7 +380,9 @@
           high prairie land.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-07-05.06">
+         <div type="entry"
+              xml:id="lc.jrn.1804-07-05.06"
+              ref="lc.geo.1804-07-05.01">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

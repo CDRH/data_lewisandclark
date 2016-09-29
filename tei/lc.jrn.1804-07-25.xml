@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1804-07-25">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-07-25">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1986</date>
                <biblScope type="pages">418-419</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">29-30, 390</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -100,9 +109,9 @@
    <text>
       <body>
          <head type="date">
-            <date>July 25, 1804</date>
+            <date when="1804-07-25">July 25, 1804</date>
          </head>
-         <div type="entry" xml:id="lc.1804-07-25.01">
+         <div type="entry" xml:id="lc.jrn.1804-07-25.01" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -137,7 +146,7 @@
           Killed to Day    Several Grous Seen in the Prarie</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-07-25.02">
+         <div type="entry" xml:id="lc.jrn.1804-07-25.02" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -179,7 +188,7 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-07-25.03">
+         <div type="entry" xml:id="lc.jrn.1804-07-25.03" ref="">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -226,7 +235,7 @@
                <p>Altd. by Sextant at the time of Observtn.    74° 19' 30"</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-07-25.04">
+         <div type="entry" xml:id="lc.jrn.1804-07-25.04" ref="">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -244,7 +253,7 @@
           <name type="person" key="Field, Joseph">Jo Feilds</name>killed 1 Turkey to day—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-07-25.05">
+         <div type="entry" xml:id="lc.jrn.1804-07-25.05" ref="">
             <sp who="cf">
                <speaker>Floyd</speaker>
                <ab>
@@ -255,7 +264,7 @@
           Home but Seen Some fresh Sine of them.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-07-25.06">
+         <div type="entry" xml:id="lc.jrn.1804-07-25.06" ref="">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

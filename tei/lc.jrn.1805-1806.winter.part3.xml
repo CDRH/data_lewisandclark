@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1805-1806.winter.part3">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-1806.winter.part3">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -41,8 +41,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -94,7 +96,7 @@
         <name type="place" key="Rocky Mountains">Rocky Mountains</name>on the return trip.</p>
          </div>
          <milestone unit="editor_end"/>
-         <div type="entry" xml:id="lc.1805-1806.winter.part3.02">
+         <div type="entry" xml:id="lc.jrn.1805-1806.winter.part3.02" ref="">
             <sp who="wc">
                <speaker>
                   <name type="person" key="Clark, William">Clark</name>
@@ -288,7 +290,7 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-1806.winter.part3.03">
+         <div type="entry" xml:id="lc.jrn.1805-1806.winter.part3.03" ref="">
             <sp who="wc">
                <speaker>
                   <name type="person" key="Clark, William">Clark</name>
@@ -429,7 +431,7 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-1806.winter.part3.04">
+         <div type="entry" xml:id="lc.jrn.1805-1806.winter.part3.04" ref="">
             <sp who="wc">
                <speaker>
                   <name type="person" key="Clark, William">Clark</name>
@@ -480,7 +482,7 @@
           Creek</name>from Same place is S 67° E. 135 Miles</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-1806.winter.part3.05">
+         <div type="entry" xml:id="lc.jrn.1805-1806.winter.part3.05" ref="">
             <sp who="wc">
                <speaker>
                   <name type="person" key="Clark, William">Clark</name>
@@ -725,7 +727,7 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-1806.winter.part3.06">
+         <div type="entry" xml:id="lc.jrn.1805-1806.winter.part3.06" ref="">
             <sp who="ml">
                <speaker>Lewis
           <ref target="n3012" n="12"/>

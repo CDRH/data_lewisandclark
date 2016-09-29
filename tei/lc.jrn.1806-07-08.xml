@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1806-07-08">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-07-08">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1987</date>
                <biblScope type="pages">96-98, 171-173</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">333-334</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -82,15 +91,17 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-07-08.01">
             <placeName/>
             <geo>44.9987 -112.8541</geo>
-            <note>Clark camped at Camp Fortunate, where the party had camped on 1805-08-17. He remained here until 07-10.</note>
+            <note>Clark camped at Camp Fortunate, where the party had camped on 1805-08-17. He remained
+          here until 07-10.</note>
          </geoDecl>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-07-08.02">
             <placeName/>
             <geo>47.65 -113.1</geo>
-            <note>The rest of the party camped on an island in Sun River, and affluent of Grasshopper Creek, Beaverhead County, MT.</note>
+            <note>The rest of the party camped on an island in Sun River, and affluent of Grasshopper
+          Creek, Beaverhead County, MT.</note>
          </geoDecl>
       </encodingDesc>
       <profileDesc/>
@@ -110,9 +121,9 @@
    <text>
       <body>
          <head type="date">
-            <date>July 8, 1806</date>
+            <date when="1806-07-08">July 8, 1806</date>
          </head>
-         <div type="entry" xml:id="lc.1806-07-08.01">
+         <div type="entry" xml:id="lc.jrn.1806-07-08.01" ref="">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -221,7 +232,7 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-07-08.02">
+         <div type="entry" xml:id="lc.jrn.1806-07-08.02" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -367,7 +378,7 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-07-08.03">
+         <div type="entry" xml:id="lc.jrn.1806-07-08.03" ref="">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -401,7 +412,7 @@
           antelope which the party had droped on the road.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-07-08.04">
+         <div type="entry" xml:id="lc.jrn.1806-07-08.04" ref="">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1806-07-03">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-07-03">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1987</date>
                <biblScope type="pages">82-87, 161-162</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">330</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -82,10 +91,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-07-03.01">
             <placeName/>
             <geo>47.0719 -113.971</geo>
-            <note>Camped on Grant Creek near its junction with Clark Fork, northwest of Missoula, Missoula County, MT. Remained here until 07-05.</note>
+            <note>Camped on Grant Creek near its junction with Clark Fork, northwest of Missoula,
+          Missoula County, MT. Remained here until 07-05.</note>
             <note>Approximate location</note>
          </geoDecl>
       </encodingDesc>
@@ -106,9 +116,11 @@
    <text>
       <body>
          <head type="date">
-            <date>July 3, 1806</date>
+            <date when="1806-07-03">July 3, 1806</date>
          </head>
-         <div type="entry" xml:id="lc.1806-07-03.01">
+         <div type="entry"
+              xml:id="lc.jrn.1806-07-03.01"
+              ref="lc.geo.1806-07-03.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -190,7 +202,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-07-03.02">
+         <div type="entry"
+              xml:id="lc.jrn.1806-07-03.02"
+              ref="lc.geo.1806-07-03.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -355,7 +369,9 @@
           pointed tail she had a number of young which could just fly.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-07-03.03">
+         <div type="entry"
+              xml:id="lc.jrn.1806-07-03.03"
+              ref="lc.geo.1806-07-03.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -415,7 +431,9 @@
           rideing a hard trotting horse; I give him a pill of Opiom which Soon releve him.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-07-03.04">
+         <div type="entry"
+              xml:id="lc.jrn.1806-07-03.04"
+              ref="lc.geo.1806-07-03.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -441,7 +459,9 @@
              one of the hunters killed a deer this evening.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-07-03.05">
+         <div type="entry"
+              xml:id="lc.jrn.1806-07-03.05"
+              ref="lc.geo.1806-07-03.01">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>

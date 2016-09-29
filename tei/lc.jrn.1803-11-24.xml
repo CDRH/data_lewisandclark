@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1803-11-24">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1803-11-24">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -61,7 +63,7 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1803-11-24.01">
             <placeName/>
             <geo>37.46 -89.471</geo>
             <note>10 miles north of Cape Girardeau, MO</note>
@@ -86,9 +88,11 @@
    <text>
       <body>
          <head type="date">
-            <date>November 24, 1803</date>
+            <date when="1803-11-24">November 24, 1803</date>
          </head>
-         <div type="entry" xml:id="lc.1803-11-24.01">
+         <div type="entry"
+              xml:id="lc.jrn.1803-11-24.01"
+              ref="lc.geo.1803-11-24.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>

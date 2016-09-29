@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1805-07-13">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-07-13">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1987</date>
                <biblScope type="pages">378-379</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">183</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">111</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -111,9 +123,9 @@
    <text>
       <body>
          <head type="date">
-            <date>July 13, 1805</date>
+            <date when="1805-07-13">July 13, 1805</date>
          </head>
-         <div type="entry" xml:id="lc.1805-07-13.01">
+         <div type="entry" xml:id="lc.jrn.1805-07-13.01" ref="">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -179,7 +191,7 @@
           tormenting of all insects; the man returned with it a little after dark.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-07-13.02">
+         <div type="entry" xml:id="lc.jrn.1805-07-13.02" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -197,7 +209,7 @@
           Pemitigon. The Musquetors &amp; Knats verry troublesom all day &amp; night</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-07-13.03">
+         <div type="entry" xml:id="lc.jrn.1805-07-13.03" ref="">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -219,7 +231,7 @@
           Camped. the Musquetoes verry troublesome in the evening.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-07-13.04">
+         <div type="entry" xml:id="lc.jrn.1805-07-13.04" ref="">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -236,7 +248,7 @@
           canoes were finished except the putting in some knees.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-07-13.05">
+         <div type="entry" xml:id="lc.jrn.1805-07-13.05" ref="">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

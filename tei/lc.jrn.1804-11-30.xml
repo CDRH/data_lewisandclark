@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1804-11-30">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-11-30">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1987</date>
                <biblScope type="pages">243-247</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -89,9 +95,9 @@
    <text>
       <body>
          <head type="date">
-            <date>November 30, 1804</date>
+            <date when="1804-11-30">November 30, 1804</date>
          </head>
-         <div type="entry" xml:id="lc.1804-11-30.01">
+         <div type="entry" xml:id="lc.jrn.1804-11-30.01" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -138,7 +144,7 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-11-30.02">
+         <div type="entry" xml:id="lc.jrn.1804-11-30.02" ref="">
             <sp who="wc">
                <speaker>
                   <name type="person" key="Clark, William">Clark</name>
@@ -180,7 +186,7 @@
           <name type="native_nation" key="Sioux Indians">Sioux</name>being noumerous—.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-11-30.03">
+         <div type="entry" xml:id="lc.jrn.1804-11-30.03" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -330,7 +336,7 @@
           measure</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-11-30.04">
+         <div type="entry" xml:id="lc.jrn.1804-11-30.04" ref="">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1804-08-13">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-08-13">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1986</date>
                <biblScope type="pages">475-478</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">38-39, 394</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">28</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -93,10 +105,12 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-08-13.01">
             <placeName/>
             <geo>42.3603 -96.4179</geo>
-            <note>A few miles south of present Dakota City, NE, but could again be on either the Nebraska or Iowa side of the river. Either in Dakota County, NE, or Woodbury County, IA. Remained here and in the surrounding area until 1804-08-20</note>
+            <note>A few miles south of present Dakota City, NE, but could again be on either the
+          Nebraska or Iowa side of the river. Either in Dakota County, NE, or Woodbury County, IA.
+          Remained here and in the surrounding area until 1804-08-20</note>
          </geoDecl>
       </encodingDesc>
       <profileDesc/>
@@ -116,9 +130,11 @@
    <text>
       <body>
          <head type="date">
-            <date>August 13, 1804</date>
+            <date when="1804-08-13">August 13, 1804</date>
          </head>
-         <div type="entry" xml:id="lc.1804-08-13.01">
+         <div type="entry"
+              xml:id="lc.jrn.1804-08-13.01"
+              ref="lc.geo.1804-08-13.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -222,7 +238,9 @@
           Derection of the Current    the Hills leave the river on the L. Side</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-08-13.02">
+         <div type="entry"
+              xml:id="lc.jrn.1804-08-13.02"
+              ref="lc.geo.1804-08-13.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -318,7 +336,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-08-13.03">
+         <div type="entry"
+              xml:id="lc.jrn.1804-08-13.03"
+              ref="lc.geo.1804-08-13.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -589,7 +609,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-08-13.04">
+         <div type="entry"
+              xml:id="lc.jrn.1804-08-13.04"
+              ref="lc.geo.1804-08-13.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -630,7 +652,9 @@
           but found none,</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-08-13.05">
+         <div type="entry"
+              xml:id="lc.jrn.1804-08-13.05"
+              ref="lc.geo.1804-08-13.01">
             <sp who="cf">
                <speaker>Floyd</speaker>
                <ab>
@@ -644,7 +668,9 @@
           thay Returnd    found none of them at Home</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-08-13.06">
+         <div type="entry"
+              xml:id="lc.jrn.1804-08-13.06"
+              ref="lc.geo.1804-08-13.01">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -658,7 +684,9 @@
           day.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-08-13.07">
+         <div type="entry"
+              xml:id="lc.jrn.1804-08-13.07"
+              ref="lc.geo.1804-08-13.01">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

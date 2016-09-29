@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1803-11-13">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1803-11-13">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -61,7 +63,7 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1803-11-13.01">
             <placeName/>
             <geo>37.14 -88.746</geo>
             <note>McCracken County, KY, 3 miles from Massac</note>
@@ -86,9 +88,11 @@
    <text>
       <body>
          <head type="date">
-            <date>November 13, 1803</date>
+            <date when="1803-11-13">November 13, 1803</date>
          </head>
-         <div type="entry" xml:id="lc.1803-11-13.01">
+         <div type="entry"
+              xml:id="lc.jrn.1803-11-13.01"
+              ref="lc.geo.1803-11-13.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -104,7 +108,9 @@
           <ref target="n02111302" n="2"/>〈I then took a〉</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1803-11-13.02">
+         <div type="entry"
+              xml:id="lc.jrn.1803-11-13.02"
+              ref="lc.geo.1803-11-13.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>

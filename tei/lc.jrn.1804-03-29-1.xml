@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1804-03-29-1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-03-29-1">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -79,11 +81,11 @@
    <text>
       <body>
          <head type="date">
-            <date>various dates, December 4, 1803–March 29, 1804
+            <date when="1804-03-29">various dates, December 4, 1803–March 29, 1804
         <ref target="n030329-101" n="1"/>
             </date>
          </head>
-         <div type="entry" xml:id="lc.1804-03-29-1.01">
+         <div type="entry" xml:id="lc.jrn.1804-03-29-1.01" ref="">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>

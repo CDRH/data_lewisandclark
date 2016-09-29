@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xml:id="lc.1804-1805.winter.introduction">
+     xml:id="lc.jrn.1804-1805.winter.introduction">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -43,8 +43,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>

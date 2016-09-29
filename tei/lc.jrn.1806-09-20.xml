@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1806-09-20">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-09-20">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1987</date>
                <biblScope type="pages">366-368</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -71,10 +77,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-09-20.01">
             <placeName/>
             <geo>38.65 -91.0833</geo>
-            <note>Camped where the party had camped on 1804-05-25. La Charette, Warren County, MO.</note>
+            <note>Camped where the party had camped on 1804-05-25. La Charette, Warren County,
+          MO.</note>
          </geoDecl>
       </encodingDesc>
       <profileDesc/>
@@ -94,9 +101,11 @@
    <text>
       <body>
          <head type="date">
-            <date>September 20, 1806</date>
+            <date when="1806-09-20">September 20, 1806</date>
          </head>
-         <div type="entry" xml:id="lc.1806-09-20.01">
+         <div type="entry"
+              xml:id="lc.jrn.1806-09-20.01"
+              ref="lc.geo.1806-09-20.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -160,7 +169,9 @@
           <ref target="n40092007" n="7"/>Came 68 ms. to day.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-09-20.02">
+         <div type="entry"
+              xml:id="lc.jrn.1806-09-20.02"
+              ref="lc.geo.1806-09-20.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>

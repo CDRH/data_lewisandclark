@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1804-07-17">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-07-17">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1986</date>
                <biblScope type="pages">386-390</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">27, 388</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">21</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -111,9 +123,9 @@
    <text>
       <body>
          <head type="date">
-            <date>July 17, 1804</date>
+            <date when="1804-07-17">July 17, 1804</date>
          </head>
-         <div type="entry" xml:id="lc.1804-07-17.01">
+         <div type="entry" xml:id="lc.jrn.1804-07-17.01" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -306,7 +318,7 @@
           Same brees.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-07-17.02">
+         <div type="entry" xml:id="lc.jrn.1804-07-17.02" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -524,7 +536,7 @@
           day</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-07-17.03">
+         <div type="entry" xml:id="lc.jrn.1804-07-17.03" ref="">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -753,7 +765,7 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-07-17.04">
+         <div type="entry" xml:id="lc.jrn.1804-07-17.04" ref="">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -767,7 +779,7 @@
           hunters killed 4 Deer to day    Lat. 40 29' 54" North—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-07-17.05">
+         <div type="entry" xml:id="lc.jrn.1804-07-17.05" ref="">
             <sp who="cf">
                <speaker>Floyd</speaker>
                <ab>
@@ -782,7 +794,7 @@
           Down for Som distance 〈to〉 from 20 to 30 miles</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-07-17.06">
+         <div type="entry" xml:id="lc.jrn.1804-07-17.06" ref="">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -794,7 +806,7 @@
           <ref target="n04071703" n="3"/>killed three deer.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-07-17.07">
+         <div type="entry" xml:id="lc.jrn.1804-07-17.07" ref="">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

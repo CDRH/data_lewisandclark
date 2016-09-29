@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1805-04-15">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-04-15">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1987</date>
                <biblScope type="pages">41-45</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">131-132</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">80</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -93,10 +105,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-04-15.01">
             <placeName/>
             <geo>48.0805 -102.6759</geo>
-            <note>In Mountrail County, ND, on the north shore of the river, past Little Knife River. The location is now under the Garrison Reservoir.</note>
+            <note>In Mountrail County, ND, on the north shore of the river, past Little Knife River.
+          The location is now under the Garrison Reservoir.</note>
             <note>Approximate location</note>
          </geoDecl>
       </encodingDesc>
@@ -117,9 +130,11 @@
    <text>
       <body>
          <head type="date">
-            <date>April 15, 1805</date>
+            <date when="1805-04-15">April 15, 1805</date>
          </head>
-         <div type="entry" xml:id="lc.1805-04-15.01">
+         <div type="entry"
+              xml:id="lc.jrn.1805-04-15.01"
+              ref="lc.geo.1805-04-15.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -314,7 +329,9 @@
                <p>Chronometer to fast at the time of observation on mean time</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-04-15.02">
+         <div type="entry"
+              xml:id="lc.jrn.1805-04-15.02"
+              ref="lc.geo.1805-04-15.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -438,7 +455,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-04-15.03">
+         <div type="entry"
+              xml:id="lc.jrn.1805-04-15.03"
+              ref="lc.geo.1805-04-15.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -462,7 +481,9 @@
           a large Sand beach on the South Side of the river.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-04-15.04">
+         <div type="entry"
+              xml:id="lc.jrn.1805-04-15.04"
+              ref="lc.geo.1805-04-15.01">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -477,7 +498,9 @@
           encamped on the South side.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-04-15.05">
+         <div type="entry"
+              xml:id="lc.jrn.1805-04-15.05"
+              ref="lc.geo.1805-04-15.01">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

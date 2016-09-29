@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1804-05-14">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-05-14">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -61,7 +63,7 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-05-14.01">
             <placeName/>
             <geo>38.83 -90.2211</geo>
             <note>Near Coldwater Creek, MO, on Missouri River</note>
@@ -84,9 +86,11 @@
    <text>
       <body>
          <head type="date">
-            <date>May 14, 1804</date>
+            <date when="1804-05-14">May 14, 1804</date>
          </head>
-         <div type="entry" xml:id="lc.1804-05-14.01">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14.01"
+              ref="lc.geo.1804-05-14.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -106,7 +110,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-05-14.02">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14.02"
+              ref="lc.geo.1804-05-14.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -393,7 +399,9 @@
           Days provisions for the party as far as the provisions last</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-05-14.03">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14.03"
+              ref="lc.geo.1804-05-14.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -428,7 +436,9 @@
           Some distance back.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-05-14.04">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14.04"
+              ref="lc.geo.1804-05-14.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -654,7 +664,9 @@
           dirty water river—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-05-14.05">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14.05"
+              ref="lc.geo.1804-05-14.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -679,7 +691,9 @@
           relation to that country.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-05-14.06">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14.06"
+              ref="lc.geo.1804-05-14.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -808,7 +822,9 @@
           make a bread of it.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-05-14.07">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14.07"
+              ref="lc.geo.1804-05-14.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1804-09-10">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-09-10">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1987</date>
                <biblScope type="pages">61-64</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">57</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">37-38</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -93,10 +105,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-09-10.01">
             <placeName/>
             <geo>43.3333 -99.0667</geo>
-            <note>Pocahontas, or Towhead, Island in between Gregory and Charles Mix Counties, SD</note>
+            <note>Pocahontas, or Towhead, Island in between Gregory and Charles Mix Counties,
+          SD</note>
          </geoDecl>
       </encodingDesc>
       <profileDesc/>
@@ -116,9 +129,11 @@
    <text>
       <body>
          <head type="date">
-            <date>September 10, 1804</date>
+            <date when="1804-09-10">September 10, 1804</date>
          </head>
-         <div type="entry" xml:id="lc.1804-09-10.01">
+         <div type="entry"
+              xml:id="lc.jrn.1804-09-10.01"
+              ref="lc.geo.1804-09-10.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -216,7 +231,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-09-10.02">
+         <div type="entry"
+              xml:id="lc.jrn.1804-09-10.02"
+              ref="lc.geo.1804-09-10.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -307,7 +324,9 @@
           Scerce</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-09-10.03">
+         <div type="entry"
+              xml:id="lc.jrn.1804-09-10.03"
+              ref="lc.geo.1804-09-10.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -321,7 +340,9 @@
           of strong water—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-09-10.04">
+         <div type="entry"
+              xml:id="lc.jrn.1804-09-10.04"
+              ref="lc.geo.1804-09-10.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -341,7 +362,9 @@
           <hi rend="italic">blank</hi>]</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-09-10.05">
+         <div type="entry"
+              xml:id="lc.jrn.1804-09-10.05"
+              ref="lc.geo.1804-09-10.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -442,7 +465,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-09-10.06">
+         <div type="entry"
+              xml:id="lc.jrn.1804-09-10.06"
+              ref="lc.geo.1804-09-10.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -468,7 +493,9 @@
           walked the afternoon on S. S    joined us also killed 2 Buffalow</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-09-10.07">
+         <div type="entry"
+              xml:id="lc.jrn.1804-09-10.07"
+              ref="lc.geo.1804-09-10.01">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -490,7 +517,9 @@
           We encamped on an island and killed one buffaloe.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-09-10.08">
+         <div type="entry"
+              xml:id="lc.jrn.1804-09-10.08"
+              ref="lc.geo.1804-09-10.01">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

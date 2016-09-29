@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1806.postexpedition.part1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="lc.jrn.1806.postexpedition.part1">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -41,8 +42,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -84,7 +87,7 @@
          <head type="main">Part 1: Estimated Distances</head>
          <head type="sub"/>
          <head type="date">
-            <date>undated</date>
+            <date notbefore="1806.poste" notafter="1806.poxpedition.pa">undated</date>
          </head>
          <div type="part">
             <p>
@@ -103,7 +106,7 @@
         loss or injury to the codex piece.</p>
          </div>
          <milestone unit="editor_end"/>
-         <div type="entry" xml:id="lc.1806.postexpedition.part1.02">
+         <div type="entry" xml:id="lc.jrn.1806.postexpedition.part1.02" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>

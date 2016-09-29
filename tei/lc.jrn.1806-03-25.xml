@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1806-03-25">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-03-25">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1991</date>
                <biblScope type="pages">11-15</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">281</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">201-202</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -93,10 +105,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-03-25.01">
             <placeName/>
             <geo>46 -123.0167</geo>
-            <note>Campled below the mouth of the Clatskanie River, opposite Cape Horn, Columbia County, OR.</note>
+            <note>Campled below the mouth of the Clatskanie River, opposite Cape Horn, Columbia County,
+          OR.</note>
             <note>Approximate location</note>
          </geoDecl>
       </encodingDesc>
@@ -117,9 +130,11 @@
    <text>
       <body>
          <head type="date">
-            <date>March 25, 1806</date>
+            <date when="1806-03-25">March 25, 1806</date>
          </head>
-         <div type="entry" xml:id="lc.1806-03-25.01">
+         <div type="entry"
+              xml:id="lc.jrn.1806-03-25.01"
+              ref="lc.geo.1806-03-25.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -181,7 +196,9 @@
           it bears a freut about an inch in diameter which is good to eat.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-03-25.02">
+         <div type="entry"
+              xml:id="lc.jrn.1806-03-25.02"
+              ref="lc.geo.1806-03-25.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -232,7 +249,9 @@
           before mentioned retains leaves all winter.    made 15 Miles.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-03-25.03">
+         <div type="entry"
+              xml:id="lc.jrn.1806-03-25.03"
+              ref="lc.geo.1806-03-25.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -256,7 +275,9 @@
           <ref target="n31032514" n="14"/>for the night.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-03-25.04">
+         <div type="entry"
+              xml:id="lc.jrn.1806-03-25.04"
+              ref="lc.geo.1806-03-25.01">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -277,7 +298,9 @@
           14 large ones.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-03-25.05">
+         <div type="entry"
+              xml:id="lc.jrn.1806-03-25.05"
+              ref="lc.geo.1806-03-25.01">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

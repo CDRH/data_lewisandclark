@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1804-05-24">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-05-24">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1986</date>
                <biblScope type="pages">249-251</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">7, 375</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">9</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -93,10 +105,12 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-05-24.01">
             <placeName/>
             <geo>38.49 -90.96</geo>
-            <note> An old house about 4 miles south of the present day town of Washington, MO. The camp appears to be very far inland because of the considerable change in the Missouri River's course over the years</note>
+            <note> An old house about 4 miles south of the present day town of Washington, MO. The camp
+          appears to be very far inland because of the considerable change in the Missouri
+          River's course over the years</note>
             <note>Approximate location</note>
          </geoDecl>
       </encodingDesc>
@@ -117,9 +131,11 @@
    <text>
       <body>
          <head type="date">
-            <date>May 24, 1804</date>
+            <date when="1804-05-24">May 24, 1804</date>
          </head>
-         <div type="entry" xml:id="lc.1804-05-24.01">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-24.01"
+              ref="lc.geo.1804-05-24.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -145,7 +161,9 @@
           <hi rend="italic">sentence unfinished</hi>]</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-05-24.02">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-24.02"
+              ref="lc.geo.1804-05-24.01">
             <sp who="wc">
                <speaker>
                   <name type="person" key="Clark, William">Clark</name>
@@ -173,7 +191,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-05-24.03">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-24.03"
+              ref="lc.geo.1804-05-24.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -240,7 +260,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-05-24.04">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-24.04"
+              ref="lc.geo.1804-05-24.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -250,7 +272,9 @@
              encamped on S Side</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-05-24.05">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-24.05"
+              ref="lc.geo.1804-05-24.01">
             <sp who="cf">
                <speaker>Floyd</speaker>
                <ab>
@@ -260,7 +284,9 @@
           ocord this day    encamped on South Side</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-05-24.06">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-24.06"
+              ref="lc.geo.1804-05-24.01">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -271,7 +297,9 @@
           at night on the south side. This day our boat turned in a ripple, and nearly upset.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1804-05-24.07">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-24.07"
+              ref="lc.geo.1804-05-24.01">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

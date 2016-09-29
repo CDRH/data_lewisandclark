@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1806.postexpedition.part2">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="lc.jrn.1806.postexpedition.part2">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -41,8 +42,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -92,7 +95,7 @@
         <name type="place" key="Saint Louis, Mo.">St. Louis</name>in September 1806.</p>
          </div>
          <milestone unit="editor_end"/>
-         <div type="entry" xml:id="lc.1806.postexpedition.part2.02">
+         <div type="entry" xml:id="lc.jrn.1806.postexpedition.part2.02" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -381,7 +384,7 @@
           <name type="place" key="Missouri River">Missouri</name>.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806.postexpedition.part2.03">
+         <div type="entry" xml:id="lc.jrn.1806.postexpedition.part2.03" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -470,7 +473,7 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806.postexpedition.part2.04">
+         <div type="entry" xml:id="lc.jrn.1806.postexpedition.part2.04" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -785,7 +788,7 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806.postexpedition.part2.05">
+         <div type="entry" xml:id="lc.jrn.1806.postexpedition.part2.05" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>

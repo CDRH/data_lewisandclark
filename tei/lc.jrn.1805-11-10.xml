@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1805-11-10">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-11-10">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1990</date>
                <biblScope type="pages">38-40</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">252</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">169</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -93,10 +105,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-11-10.01">
             <placeName/>
             <geo>46.2333 -123.8667</geo>
-            <note>Camped on the eastern side of Point Ellice, Pacific County, WA. East of the Astoria Bridge and near Meglar. Remained here until 11-15 but for a slight move on 11-12.</note>
+            <note>Camped on the eastern side of Point Ellice, Pacific County, WA. East of the Astoria
+          Bridge and near Meglar. Remained here until 11-15 but for a slight move on 11-12.</note>
          </geoDecl>
       </encodingDesc>
       <profileDesc/>
@@ -116,9 +129,11 @@
    <text>
       <body>
          <head type="date">
-            <date>November 10, 1805</date>
+            <date when="1805-11-10">November 10, 1805</date>
          </head>
-         <div type="entry" xml:id="lc.1805-11-10.01">
+         <div type="entry"
+              xml:id="lc.jrn.1805-11-10.01"
+              ref="lc.geo.1805-11-10.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -167,7 +182,9 @@
           drying our bedding.    nothing to eate but Pounded fish</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-11-10.02">
+         <div type="entry"
+              xml:id="lc.jrn.1805-11-10.02"
+              ref="lc.geo.1805-11-10.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -193,7 +210,9 @@
           miles today—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-11-10.03">
+         <div type="entry"
+              xml:id="lc.jrn.1805-11-10.03"
+              ref="lc.geo.1805-11-10.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -215,7 +234,9 @@
              we had Scarsely room for to camp.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-11-10.04">
+         <div type="entry"
+              xml:id="lc.jrn.1805-11-10.04"
+              ref="lc.geo.1805-11-10.01">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -238,7 +259,9 @@
           water is become very salt.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-11-10.05">
+         <div type="entry"
+              xml:id="lc.jrn.1805-11-10.05"
+              ref="lc.geo.1805-11-10.01">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

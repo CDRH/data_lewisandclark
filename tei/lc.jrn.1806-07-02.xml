@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1806-07-02">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-07-02">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1987</date>
                <biblScope type="pages">79-81</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">329-330</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -100,9 +109,9 @@
    <text>
       <body>
          <head type="date">
-            <date>July 2, 1806</date>
+            <date when="1806-07-02">July 2, 1806</date>
          </head>
-         <div type="entry" xml:id="lc.1806-07-02.01">
+         <div type="entry" xml:id="lc.jrn.1806-07-02.01" ref="">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -162,7 +171,7 @@
           excessively troublesome to us since our arrival at this place.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-07-02.02">
+         <div type="entry" xml:id="lc.jrn.1806-07-02.02" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -200,7 +209,7 @@
           our men amused themselves in running races on foot as well as with their horses.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-07-02.03">
+         <div type="entry" xml:id="lc.jrn.1806-07-02.03" ref="">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -224,7 +233,7 @@
           left their to draw the canoes past the portage.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1806-07-02.04">
+         <div type="entry" xml:id="lc.jrn.1806-07-02.04" ref="">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>

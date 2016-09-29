@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1805-09-21">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-09-21">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1989</date>
                <biblScope type="pages">225-228</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">227</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">146</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -93,16 +105,18 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-09-21.01">
             <placeName/>
             <geo>46.4667 -115.7833</geo>
-            <note>Clark camped on the Clearwater River about a mile above present Orofino, Clearwater County, ID.</note>
+            <note>Clark camped on the Clearwater River about a mile above present Orofino, Clearwater
+          County, ID.</note>
             <note>Approximate location</note>
          </geoDecl>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-09-21.02">
             <placeName/>
             <geo>46.2599 -115.8055</geo>
-            <note>The group camped on Lolo Creek in Clearwater County, ID, along the boundary between Idaho and Clearwater counties.</note>
+            <note>The group camped on Lolo Creek in Clearwater County, ID, along the boundary between
+          Idaho and Clearwater counties.</note>
          </geoDecl>
       </encodingDesc>
       <profileDesc/>
@@ -122,9 +136,9 @@
    <text>
       <body>
          <head type="date">
-            <date>September 21, 1805</date>
+            <date when="1805-09-21">September 21, 1805</date>
          </head>
-         <div type="entry" xml:id="lc.1805-09-21.01">
+         <div type="entry" xml:id="lc.jrn.1805-09-21.01" ref="">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -167,7 +181,7 @@
           this day S 30 W 15 M.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-09-21.02">
+         <div type="entry" xml:id="lc.jrn.1805-09-21.02" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -199,7 +213,7 @@
           gave him a Medal.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-09-21.03">
+         <div type="entry" xml:id="lc.jrn.1805-09-21.03" ref="">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -249,7 +263,7 @@
                <p>I am verry Sick to day and puke which relive me.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-09-21.04">
+         <div type="entry" xml:id="lc.jrn.1805-09-21.04" ref="">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -268,7 +282,7 @@
           a fiw craw fish in the creek and eat them.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-09-21.05">
+         <div type="entry" xml:id="lc.jrn.1805-09-21.05" ref="">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -290,7 +304,7 @@
           horse.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-09-21.06">
+         <div type="entry" xml:id="lc.jrn.1805-09-21.06" ref="">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

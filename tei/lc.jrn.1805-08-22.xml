@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1805-08-22">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-08-22">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,8 +40,10 @@
          </publicationStmt>
          <sourceDesc>
             <bibl>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <respStmt>
                   <name>Thomas W. Dunlay,</name>
@@ -54,8 +56,12 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1989</date>
                <biblScope type="pages">141-148</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             9</title>
@@ -64,8 +70,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1995</date>
                <biblScope type="pages">208-209</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             10</title>
@@ -75,8 +84,11 @@
                <pubPlace>Lincoln and London</pubPlace>
                <date>1996</date>
                <biblScope type="pages">130-131</biblScope>
-               <author>Meriwether Lewis</author>
-               <author>William Clark</author>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
                <editor role="editor">Gary E. Moulton</editor>
                <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
             11</title>
@@ -93,10 +105,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
-         <geoDecl datum="WGS">
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-08-22.01">
             <placeName/>
             <geo>45.4 -113.9833</geo>
-            <note>Went 15 miles from previous location, camped down the Salmon River a few miles southwest of North Fork, Lemhi County, ID.</note>
+            <note>Went 15 miles from previous location, camped down the Salmon River a few miles
+          southwest of North Fork, Lemhi County, ID.</note>
             <note>Approximate location</note>
          </geoDecl>
       </encodingDesc>
@@ -117,9 +130,11 @@
    <text>
       <body>
          <head type="date">
-            <date>August 22, 1805</date>
+            <date when="1805-08-22">August 22, 1805</date>
          </head>
-         <div type="entry" xml:id="lc.1805-08-22.01">
+         <div type="entry"
+              xml:id="lc.jrn.1805-08-22.01"
+              ref="lc.geo.1805-08-22.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -280,7 +295,9 @@
              it was about the size of a robin—["]</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-08-22.02">
+         <div type="entry"
+              xml:id="lc.jrn.1805-08-22.02"
+              ref="lc.geo.1805-08-22.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -329,7 +346,9 @@
           inaxcessable) I Saw one which would make a Small Canoe.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-08-22.03">
+         <div type="entry"
+              xml:id="lc.jrn.1805-08-22.03"
+              ref="lc.geo.1805-08-22.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -381,7 +400,9 @@
           themselves with, but wished them to live in peace with all nations &amp;C.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-08-22.04">
+         <div type="entry"
+              xml:id="lc.jrn.1805-08-22.04"
+              ref="lc.geo.1805-08-22.01">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -418,7 +439,9 @@
           of provisions is exhausted.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.1805-08-22.05">
+         <div type="entry"
+              xml:id="lc.jrn.1805-08-22.05"
+              ref="lc.geo.1805-08-22.01">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>
