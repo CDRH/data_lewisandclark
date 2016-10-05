@@ -64,6 +64,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-1806.winter.part1.01">
+            <placeName/>
+            <geo> </geo>
+            <note>No location. Estimated distances from Fort Mandan to the Pacific Coast.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -139,7 +144,9 @@
         the next part of this chapter.</p>
          </div>
          <milestone unit="editor_end"/>
-         <div type="entry" xml:id="lc.jrn.1805-1806.winter.part1.02" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1805-1806.winter.part1.02"
+              ref="lc.geo.1805-1806.winter.part1.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>

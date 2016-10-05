@@ -63,6 +63,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-01-31-1.01">
+            <placeName/>
+            <geo>38.9225 -89.9644</geo>
+            <note>Weather observation, as well as flow patterns of the Mississippi. Study commenced on 1804-01-01.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -85,7 +90,9 @@
          <head type="date">
             <date when="1804-01-31">Weather, January 1804</date>
          </head>
-         <div type="entry" xml:id="lc.jrn.1804-01-31-1.01" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-01-31-1.01"
+              ref="lc.geo.1804-01-31-1.01">
             <sp who="mlwc">
                <speaker>Lewis and 
           <name type="person" key="Clark, William">Clark</name>

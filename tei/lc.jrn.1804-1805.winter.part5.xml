@@ -64,6 +64,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-1805.winter.part5.01">
+            <placeName/>
+            <geo> </geo>
+            <note>No location. Collection of random documents and notes made by Clark.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -114,7 +119,9 @@
             <lb/>
          </div>
          <milestone unit="editor_end"/>
-         <div type="entry" xml:id="lc.jrn.1804-1805.winter.part5.02" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-1805.winter.part5.02"
+              ref="lc.geo.1804-1805.winter.part5.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -446,7 +453,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.jrn.1804-1805.winter.part5.03" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-1805.winter.part5.03"
+              ref="lc.geo.1804-1805.winter.part5.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -1065,7 +1074,9 @@
           <ref target="n11" n="11"/>Speake the Same Language.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.jrn.1804-1805.winter.part5.04" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-1805.winter.part5.04"
+              ref="lc.geo.1804-1805.winter.part5.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>

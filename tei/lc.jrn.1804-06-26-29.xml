@@ -63,6 +63,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-06-26-29.01">
+            <placeName/>
+            <geo>39.1163 -94.6115</geo>
+            <note>Clark's notes about the Missouri River at the campsite from 1804-06-26. Wyandotte County, KS.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -83,7 +88,9 @@
          <head type="date">
             <date notbefore="1804-06-26" notafter="1804-06-29">June 26-29, 1804</date>
          </head>
-         <div type="entry" xml:id="lc.jrn.1804-06-26-29.01" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-06-26-29.01"
+              ref="lc.geo.1804-06-26-29.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>

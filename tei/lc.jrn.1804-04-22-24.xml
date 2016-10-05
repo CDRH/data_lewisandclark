@@ -63,6 +63,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-04-22-24.01">
+            <placeName/>
+            <geo>38.6167 -90.1833</geo>
+            <note>Spent a few days (April 22, 23, 24) in St. Louis.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -83,7 +88,9 @@
          <head type="date">
             <date notbefore="1804-04-22" notafter="1804-04-24">April 22, 23, 24, 1804</date>
          </head>
-         <div type="entry" xml:id="lc.jrn.1804-04-22-24.01" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-04-22-24.01"
+              ref="lc.geo.1804-04-22-24.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>

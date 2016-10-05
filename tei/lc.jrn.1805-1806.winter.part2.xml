@@ -64,6 +64,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-1806.winter.part2.01">
+            <placeName/>
+            <geo> </geo>
+            <note>No location. Estimation of Native American population size and locations.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -147,7 +152,9 @@
         <name type="native_nation" key="Cathlapotle Indians">Quath-lah-pottles</name>.</p>
          </div>
          <milestone unit="editor_end"/>
-         <div type="entry" xml:id="lc.jrn.1805-1806.winter.part2.02" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1805-1806.winter.part2.02"
+              ref="lc.geo.1805-1806.winter.part2.01">
             <sp who="mlwc">
                <speaker>
                   <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -1221,7 +1228,9 @@
             </sp>
          </div>
          <milestone unit="editor_end"/>
-         <div type="entry" xml:id="lc.jrn.1805-1806.winter.part2.03" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1805-1806.winter.part2.03"
+              ref="lc.geo.1805-1806.winter.part2.01">
             <sp who="wc">
                <speaker>
                   <name type="person" key="Clark, William">Clark</name>
@@ -2468,7 +2477,9 @@
             </sp>
          </div>
          <milestone unit="editor_end"/>
-         <div type="entry" xml:id="lc.jrn.1805-1806.winter.part2.04" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1805-1806.winter.part2.04"
+              ref="lc.geo.1805-1806.winter.part2.01">
             <sp who="wc">
                <speaker>
                   <name type="person" key="Clark, William">Clark</name>

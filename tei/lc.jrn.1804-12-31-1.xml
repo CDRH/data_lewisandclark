@@ -77,6 +77,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-12-31-1.01">
+            <placeName/>
+            <geo> </geo>
+            <note>No location. Daily weather record for the month of December.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -97,7 +102,9 @@
          <head type="date">
             <date when="1804-12-31">Weather, December 1804</date>
          </head>
-         <div type="entry" xml:id="lc.jrn.1804-12-31-1.01" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-12-31-1.01"
+              ref="lc.geo.1804-12-31-1.01">
             <sp who="mlwc">
                <speaker>Lewis and 
           <name type="person" key="Clark, William">Clark</name>

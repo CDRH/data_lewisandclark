@@ -65,6 +65,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806.postexpedition.part2.01">
+            <placeName/>
+            <geo> </geo>
+            <note>No location. Miscellaneous notes following the end of the expedition.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -95,7 +100,9 @@
         <name type="place" key="Saint Louis, Mo.">St. Louis</name>in September 1806.</p>
          </div>
          <milestone unit="editor_end"/>
-         <div type="entry" xml:id="lc.jrn.1806.postexpedition.part2.02" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1806.postexpedition.part2.02"
+              ref="lc.geo.1806.postexpedition.part2.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -384,7 +391,9 @@
           <name type="place" key="Missouri River">Missouri</name>.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.jrn.1806.postexpedition.part2.03" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1806.postexpedition.part2.03"
+              ref="lc.geo.1806.postexpedition.part2.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -473,7 +482,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.jrn.1806.postexpedition.part2.04" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1806.postexpedition.part2.04"
+              ref="lc.geo.1806.postexpedition.part2.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -788,7 +799,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.jrn.1806.postexpedition.part2.05" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1806.postexpedition.part2.05"
+              ref="lc.geo.1806.postexpedition.part2.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>

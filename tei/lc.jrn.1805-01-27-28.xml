@@ -59,6 +59,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-01-27-28.01">
+            <placeName/>
+            <geo>47.2893 -101.3295</geo>
+            <note>Referring to actions at the winter campsite of 1804. Established camp on 1804-11-01 and remained here until 1805-04-07.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -79,7 +84,9 @@
          <head type="date">
             <date notbefore="1805-01-27" notafter="1805-01-28">January 27-28</date>
          </head>
-         <div type="entry" xml:id="lc.jrn.1805-01-27-28.01" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1805-01-27-28.01"
+              ref="lc.geo.1805-01-27-28.01">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>

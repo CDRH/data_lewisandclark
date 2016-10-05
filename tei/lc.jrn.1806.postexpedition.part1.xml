@@ -65,6 +65,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806.postexpedition.part1.01">
+            <placeName/>
+            <geo> </geo>
+            <note>No location. Estimated distances from St. Charles, Missouri, to the Pacific Coast.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -106,7 +111,9 @@
         loss or injury to the codex piece.</p>
          </div>
          <milestone unit="editor_end"/>
-         <div type="entry" xml:id="lc.jrn.1806.postexpedition.part1.02" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1806.postexpedition.part1.02"
+              ref="lc.geo.1806.postexpedition.part1.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>

@@ -63,6 +63,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-01-21-2.01">
+            <placeName/>
+            <geo>38.8 -90.12</geo>
+            <note>Observations on the day at their winter camp location from 1803-12-12 to 1804-05-14.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -83,7 +88,9 @@
          <head type="date">
             <date when="1804-01-21">January 21, 1804</date>
          </head>
-         <div type="entry" xml:id="lc.jrn.1804-01-21-2.01" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-01-21-2.01"
+              ref="lc.geo.1804-01-21-2.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>

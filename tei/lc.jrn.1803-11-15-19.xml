@@ -63,6 +63,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1803-11-15-19.01">
+            <placeName/>
+            <geo>37.0008 -89.176</geo>
+            <note>Entry recorded more than likely at the time when the party was at the juncture of the Ohio and Mississippi Rivers.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -85,7 +90,9 @@
          <head type="date">
             <date notbefore="1803-11-15" notafter="1803-11-19">undated, ca. November 15–19, 1803</date>
          </head>
-         <div type="entry" xml:id="lc.jrn.1803-11-15-19.01" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1803-11-15-19.01"
+              ref="lc.geo.1803-11-15-19.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -196,7 +203,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.jrn.1803-11-15-19.02" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1803-11-15-19.02"
+              ref="lc.geo.1803-11-15-19.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>

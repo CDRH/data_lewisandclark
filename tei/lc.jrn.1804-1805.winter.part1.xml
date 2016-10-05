@@ -64,6 +64,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-1805.winter.part1.01">
+            <placeName/>
+            <geo> </geo>
+            <note>No location. Notes in compliment to Clark's map of the West.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -208,7 +213,9 @@
             <lb/>
          </div>
          <milestone unit="editor_end"/>
-         <div type="entry" xml:id="lc.jrn.1804-1805.winter.part1.02" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-1805.winter.part1.02"
+              ref="lc.geo.1804-1805.winter.part1.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -2879,7 +2886,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.jrn.1804-1805.winter.part1.03" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-1805.winter.part1.03"
+              ref="lc.geo.1804-1805.winter.part1.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -5438,7 +5447,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.jrn.1804-1805.winter.part1.04" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-1805.winter.part1.04"
+              ref="lc.geo.1804-1805.winter.part1.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>

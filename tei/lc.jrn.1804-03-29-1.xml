@@ -63,6 +63,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-03-29-1.01">
+            <placeName/>
+            <geo> </geo>
+            <note>No location. Various journal entries.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -85,7 +90,9 @@
         <ref target="n030329-101" n="1"/>
             </date>
          </head>
-         <div type="entry" xml:id="lc.jrn.1804-03-29-1.01" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-03-29-1.01"
+              ref="lc.geo.1804-03-29-1.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>

@@ -91,6 +91,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-06-30-1.01">
+            <placeName/>
+            <geo> </geo>
+            <note>No location. Daily weather report for the month of June 1806.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -111,7 +116,9 @@
          <head type="date">
             <date when="1806-06-30">June 30, 1806</date>
          </head>
-         <div type="entry" xml:id="lc.jrn.1806-06-30-1.01" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1806-06-30-1.01"
+              ref="lc.geo.1806-06-30-1.01">
             <sp who="mlwc">
                <speaker>
                   <name type="person" key="Lewis, Meriwether">Lewis</name>and 

@@ -63,6 +63,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-04-12-1.01">
+            <placeName/>
+            <geo> </geo>
+            <note>No location. List of party members, as well as planning the expedition and supply needs.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -83,7 +88,9 @@
          <head type="date">
             <date when="1804-04-12">ca. April 1804</date>
          </head>
-         <div type="entry" xml:id="lc.jrn.1804-04-12-1.01" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-04-12-1.01"
+              ref="lc.geo.1804-04-12-1.01">
             <sp who="mlwcunk">
                <speaker>Lewis, Clark, and Unknown</speaker>
                <ab>
@@ -640,7 +647,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.jrn.1804-04-12-1.02" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-04-12-1.02"
+              ref="lc.geo.1804-04-12-1.01">
             <sp who="unk">
                <speaker>Unknown</speaker>
                <ab>
@@ -666,7 +675,9 @@
           <name type="place" key="New Madrid, Mo.">New Madrid</name>12 O'C Widnesday—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.jrn.1804-04-12-1.03" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-04-12-1.03"
+              ref="lc.geo.1804-04-12-1.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>

@@ -105,6 +105,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-05-14-1.01">
+            <placeName/>
+            <geo>38.83 -90.2211</geo>
+            <note>Extension of Clark's entry from 1804-05-14. Also various additional entries and notes. Camped near a limestone rock edge called Colewater.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -125,7 +130,9 @@
          <head type="date">
             <date when="1804-05-14">May 14, 1804</date>
          </head>
-         <div type="entry" xml:id="lc.jrn.1804-05-14-1.01" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14-1.01"
+              ref="lc.geo.1804-05-14-1.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -147,7 +154,9 @@
              men in high Spirits</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.jrn.1804-05-14-1.02" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14-1.02"
+              ref="lc.geo.1804-05-14-1.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
@@ -178,7 +187,9 @@
           <hi rend="italic">West</hi>   wind from N. E</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.jrn.1804-05-14-1.03" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14-1.03"
+              ref="lc.geo.1804-05-14-1.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -236,7 +247,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.jrn.1804-05-14-1.04" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14-1.04"
+              ref="lc.geo.1804-05-14-1.01">
             <sp who="jo">
                <speaker>Ordway</speaker>
                <ab>
@@ -265,7 +278,9 @@
                </p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.jrn.1804-05-14-1.05" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14-1.05"
+              ref="lc.geo.1804-05-14-1.01">
             <sp who="cf">
                <speaker>Floyd</speaker>
                <ab>
@@ -283,7 +298,9 @@
           side of the River</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.jrn.1804-05-14-1.06" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14-1.06"
+              ref="lc.geo.1804-05-14-1.01">
             <sp who="pg">
                <speaker>Gass</speaker>
                <ab>
@@ -328,7 +345,9 @@
           future toils, suffering and dangers.</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.jrn.1804-05-14-1.07" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14-1.07"
+              ref="lc.geo.1804-05-14-1.01">
             <sp who="jw">
                <speaker>Whitehouse</speaker>
                <ab>

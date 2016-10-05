@@ -63,6 +63,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-1805.winter.part3.01">
+            <placeName/>
+            <geo> </geo>
+            <note>No location. Records of different botanical specimens by Lewis.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -162,7 +167,9 @@
             <lb/>
          </div>
          <milestone unit="editor_end"/>
-         <div type="entry" xml:id="lc.jrn.1804-1805.winter.part3.02" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-1805.winter.part3.02"
+              ref="lc.geo.1804-1805.winter.part3.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
@@ -596,7 +603,9 @@
           not otherwise.—</p>
             </sp>
          </div>
-         <div type="entry" xml:id="lc.jrn.1804-1805.winter.part3.03" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1804-1805.winter.part3.03"
+              ref="lc.geo.1804-1805.winter.part3.01">
             <sp who="jv">
                <speaker>Vaughan</speaker>
                <ab>

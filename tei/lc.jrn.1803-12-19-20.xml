@@ -63,6 +63,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1803-12-19-20.01">
+            <placeName/>
+            <geo> </geo>
+            <note>No location. A rough draft for a letter in response to a request from Andrew MacFarlane.</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc/>
       <revisionDesc>
@@ -85,7 +90,9 @@
          <head type="date">
             <date notbefore="1803-12-19" notafter="1803-12-20">December 19-20, 1803</date>
          </head>
-         <div type="entry" xml:id="lc.jrn.1803-12-19-20.01" ref="">
+         <div type="entry"
+              xml:id="lc.jrn.1803-12-19-20.01"
+              ref="lc.geo.1803-12-19-20.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>
