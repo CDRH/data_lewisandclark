@@ -54,7 +54,7 @@
   <xsl:template match="/TEI/teiHeader[1]/profileDesc[1]/textClass[1]/keywords[@n='subcategory']">
     <xsl:element name="keywords" namespace="http://www.tei-c.org/ns/1.0">
       <xsl:attribute name="scheme">original</xsl:attribute>
-      <xsl:attribute name="n">category</xsl:attribute>
+      <xsl:attribute name="n">subcategory</xsl:attribute>
       <xsl:choose>
         <!-- Journals -->
         <xsl:when test="starts-with(/TEI/@xml:id,'lc.jrn') and 
@@ -87,7 +87,7 @@
         <xsl:when test="starts-with(/TEI/@xml:id,'lc.img.18')">
           <xsl:element name="term" namespace="http://www.tei-c.org/ns/1.0">People and Places</xsl:element>
         </xsl:when>
-        <xsl:when test="starts-with(/TEI/@xml:id,'lc.img.lc.johnsgard')">
+        <xsl:when test="starts-with(/TEI/@xml:id,'lc.img.johnsgard')">
           <xsl:element name="term" namespace="http://www.tei-c.org/ns/1.0">Plants and Animals</xsl:element>
         </xsl:when>
         <xsl:when test="starts-with(/TEI/@xml:id,'lc.img.loc')">
