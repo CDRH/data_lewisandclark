@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.lc.ronda.01.03">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.sup.ronda.01.03">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -61,6 +62,22 @@
             <p/>
          </projectDesc>
       </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Supplements</term>
+            </keywords>
+            <keywords scheme="original" n="category">
+               <term>Texts</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change>
             <date>2005-11-01</date>
@@ -127,7 +144,8 @@
           With 
           <name type="person" key="Black Buffalo (Un-tongar-Sar-bar)">Black Buffalo</name>still on
           board, the explorers brought their flotilla to a sandbar opposite a 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>encampment. As the men ate breakfast, the captains talked with several warriors.
           The Indians were told about the "bad treatment" the expedition had suffered at the hands
@@ -158,17 +176,20 @@
           <name type="place" key="Cheyenne River">Cheyenne River</name>; they also found 
           <name type="person" key="Vallé, Jean">Jean Vallé</name>, an independent trader. The
           Frenchman was engaged in the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>trade and had a small supply of goods for that purpose. 
           <name type="person" key="Vallé, Jean">Vallé</name>gave the captains an important bit of
           information about Upper 
           <name type="place" key="Missouri River">Missouri</name>trade patterns when he reported
           that many of the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>were currently at the 
-          <name type="place" key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
+          <name type="place"
+                        key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
           River</name>
                   <name type="native_nation" key="Arikara Indians">Arikara</name>villages.
           <ref target="n0304" n="4"/>
@@ -176,7 +197,8 @@
           <name type="person" key="Clark, William">Clark</name>would soon learn much more about
           that 
           <name type="native_nation" key="Arikara Indians">Arikara</name>-
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>connection, and disrupting it became one of the captains' leading diplomatic
           objectives.</p>
@@ -185,7 +207,8 @@
           present dread of 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>ambush. October 2
           proved to be a day filled with alarms and fear of the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>. Suspecting a surprise attack, "We prepared our selves for action which we
           expected every moment." Action seemed at hand early in the afternoon when a large 
@@ -198,10 +221,12 @@
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>party, whose
           intentions were never clear, left as quickly as it had appeared.
           <ref target="n0305" n="5"/>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>warriors would not again menace the explorers until they wintered with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>.</p>
                <p>As the expedition continued up the 
@@ -218,7 +243,8 @@
           <name type="place" key="Lahocatt village">Lahoocatt</name>and moved north to join the
           larger body of 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>at the 
-          <name type="place" key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
+          <name type="place"
+                        key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
           River</name>villages.
           <ref target="n0306" n="6"/>At the end of the first week of October, 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -250,7 +276,8 @@
           <name type="native_nation" key="Arikara Indians">Arikaras</name>noted the linguistic
           affinity between the 
           <name type="place" key="Platte River (Nebr.)">Platte River</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html"
+                       rend="box">
                      <name type="native_nation" key="Pawnee Indians">Pawnees</name>
                   </ref>and the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>. 
@@ -278,7 +305,8 @@
           south-central 
           <name type="place" key="Nebraska">Nebraska</name>. Since the tradition is associated
           with the Caddoan language family, they were probably the predecessors of the historic 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html"
+                       rend="box">
                      <name type="native_nation" key="Pawnee Indians">Pawnees</name>
                   </ref>and 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>.</p>
@@ -292,13 +320,15 @@
           <name type="native_nation" key="Arikara Indians">Arikara</name>entered the Upper 
           <name type="place" key="Missouri River">Missouri</name>, they settled in territory
           claimed by the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>. Early relations between the two peoples were generally peaceful. Indeed,
           housing styles of the Central Plains Tradition influenced 
           <name type="native_nation" key="Mandan Indians">Mandan</name>earth lodge construction.
           But by the middle-1400s, as the northern 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>began to reoccupy the 
           <name type="place" key="Bad (Teton) River (S. Dak.)">Bad</name>-
@@ -306,7 +336,8 @@
           sign of conflict was the rise of fortified 
           <name type="native_nation" key="Arikara Indians">Arikara</name>villages.
           <ref target="n0311" n="11"/>Meeting stiff resistance, the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>gradually withdrew during the 1450–1650 period, leaving the Upper 
           <name type="place" key="Missouri River">Missouri</name>south of the 
@@ -321,7 +352,8 @@
           <name type="native_nation" key="Mandan Indians">Mandan</name>attack had considerably
           diminished. But that fairly peaceful interlude was shattered in the eighteenth century
           when the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>migration to the northern plains and increased tension with the 
           <name type="native_nation" key="Mandan Indians">Mandan</name>and 
@@ -347,17 +379,20 @@
           <name type="place" key="Bad (Teton) River (S. Dak.)">Bad</name>, 
           <name type="place" key="Cheyenne River">Cheyenne</name>, 
           <name type="place" key="Moreau (Sur-war-kar-ne) River (S. Dak.)">Moreau</name>, and 
-          <name type="place" key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
+          <name type="place"
+                        key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
           Rivers</name>were the foci of 
           <name type="native_nation" key="Arikara Indians">Arikara</name>occupation in the
           historic period. Several related ecological factors determined the location of Indian
           villages. The rivers provided fresh water while the valleys offered a source of
           firewood. In addition, the east-west position of the valleys acted as natural highways
           guiding western tribes such as the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>, 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyennes</name>
                   </ref>, and Kiowas to the agricultural towns.
           <ref target="n0313" n="13"/>
@@ -389,7 +424,8 @@
           around the 
           <name type="place" key="Cheyenne River">Cheyenne</name>, 
           <name type="place" key="Moreau (Sur-war-kar-ne) River (S. Dak.)">Moreau</name>, and 
-          <name type="place" key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">
+          <name type="place"
+                        key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">
           Grand</name>rivers had grown to accommodate refugees from war and disease. The captains
           noticed recently abandoned towns of sixty loges; each of three villages visited during
           their interlude with the 
@@ -566,7 +602,8 @@
           in the summer of 1803 because of severe flooding, many 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>left the 
           <name type="place" key="Moreau (Sur-war-kar-ne) River (S. Dak.)">Moreau</name>and 
-          <name type="place" key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
+          <name type="place"
+                        key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
           River</name>villages to hunt on the plains. Hunting was far more than an expedient in
           hard times. The extended winter buffalo hunt was a necessary part of the 
           <name type="native_nation" key="Arikara Indians">Arikaras'</name>food supply. In October
@@ -574,10 +611,12 @@
           mounted hunters carried skin tepees with them as they traveled far from the villages.
           Because of the close relationship between the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>and the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>, village hunters sometimes spent the winter alongside the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>. The 
           <name type="native_nation" key="Arikara Indians">Arikara</name>buffalo hunt was, at
@@ -585,7 +624,8 @@
           selected for the occasion. Those warriors would arrange the placement of hunters and
           give signals for the rush to kill the animals. Their buffalo hunting was sometimes
           limited by interference from the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>. Anxious to remain the prime suppliers of hides and meat to the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>, 
@@ -600,7 +640,8 @@
                <p>As 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>neared the 
-          <name type="place" key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
+          <name type="place"
+                        key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
           River</name>villages, they slowly learned about two aspects of 
           <name type="native_nation" key="Arikara Indians">Arikara</name>life that would shape
           their relations with the Indians. 
@@ -616,7 +657,8 @@
           <name type="person" key="Raven Man (Kakawita)">Kakawita</name>, 
           <name type="place" key="Hay (Pocasse)">Pocasse</name>, and 
           <name type="person" key="Eagles Feather (Piaheto)">Piahito</name>. But with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>encounter still fresh in their minds, it was a second dimension of 
           <name type="native_nation" key="Arikara Indians">Arikara</name>life that commanded more
@@ -653,10 +695,12 @@
           <name type="native_nation" key="Tawehash Indians">Tawehashs</name>. But the most
           important customers of the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>were the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyennes</name>
                   </ref>and the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>.
           <ref target="n0330" n="30"/>The 
@@ -666,7 +710,8 @@
                <p>The often-troubled relationship between the 
           <name type="native_nation" key="Arikara Indians">Arikara</name>villages and 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>bands was an uneasy symbiosis. From a 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>perspective, some sort
@@ -679,11 +724,13 @@
           <name type="person" key="Black Buffalo (Un-tongar-Sar-bar)">Black Buffalo</name>and the 
           <name type="person" key="Partisan">Partisan</name>made plain to the captains the
           long-term 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>interest in controlling the flow of manufactured goods upriver to the village
           farmers. The overriding 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>need was for the 
           <name type="native_nation" key="Arikara Indians">Arikaras'</name>food products and
@@ -708,11 +755,13 @@
           <name type="native_nation" key="Arikara Indians">Arikara</name>corn ripened, all
           thoughts of warfare disappeared.
           <ref target="n0331" n="31"/>For the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>, corn was more important than blood. That August, as in every other late summer
           and early fall, 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>bands flocked to the 
           <name type="native_nation" key="Arikara Indians">Arikara</name>towns, bringing meat,
@@ -723,7 +772,8 @@
           <name type="person" key="Clark, William">Clark</name>, like other non-Indian observers,
           consistently misunderstood the 
           <name type="native_nation" key="Arikara Indians">Arikara</name>-
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>connection. Already disposed to cast the 
           <name type="native_nation" key="Sioux Indians, Teton">Tetons</name>as "that lawless,
@@ -731,7 +781,8 @@
           exploitation. 
           <name type="person" key="Clark, William">Clark</name>believed that this economic link
           meant 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>political domination of the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>. As he explained, the 
@@ -741,13 +792,15 @@
           and [kept] them in perpetial dread." To the captains, 
           <name type="native_nation" key="Arikara Indians">Arikara</name>villagers seemed helpless
           victims of 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>aggression. In both their written records and in their diplomacy, 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>argued that a disruption of the 
           <name type="native_nation" key="Arikara Indians">Arikara</name>-
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>alliance would free the village farmers from tyranny and might force 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>bands to accept
@@ -757,12 +810,14 @@
           <name type="person" key="Tabeau, Pierre-Antoine">Tabeau</name>insisted that the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>functioned as "a certain
           kind of serf" for the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="person" key="Sioux Indians">Sioux</name>
                   </ref>. He declared that the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>were so fully dominated
           by the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="person" key="Sioux Indians">Sioux</name>
                   </ref>that they were even compelled to buy their bows and arrows from the 
           <name type="native_nation" key="Sioux Indians, Teton">Tetons</name>.
@@ -770,7 +825,8 @@
                </p>
                <p>But this harsh view of 
           <name type="native_nation" key="Arikara Indians">Arikara</name>-
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>relations was not shared by the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>themselves. They saw
@@ -780,18 +836,21 @@
           <name type="person" key="Tabeau, Pierre-Antoine">Tabeau</name>and the captains tended to
           overstate the violence and intimidation present in 
           <name type="native_nation" key="Arikara Indians">Arikara</name>-
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>dealings. There was, in fact, far more cooperation in times of war and friendship
           in times of peace. Much of the tension 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>were to encounter between the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>was based on raids carried out by joint 
           <name type="native_nation" key="Arikara Indians">Arikara</name>-
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>war parties against the 
           <name type="place" key="Knife River">Knife River</name>
@@ -805,13 +864,15 @@
           power of the 
           <name type="native_nation" key="Sioux Indians, Teton">Tetons</name>, but they also knew
           how important their corn was to 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>survival. 
           <name type="person" key="Truteau, Jean Baptiste">Truteau</name>was close to the mark
           when he wrote in 1795 that "the 
           <name type="native_nation" key="Arikara Indians">Ricaras</name>and this 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>nation live together peacefully. The former recieve them in order to obtain guns,
           clothes, hats, kettles, clothes, etc., which are given them in exchange for their
@@ -820,14 +881,17 @@
                </p>
                <p>The captains themselves ran into the determination of the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>to continue their 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>connection. When the expedition stopped at the 
-          <name type="place" key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
+          <name type="place"
+                        key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
           River</name>villages on the return journey, the explorer-diplomats tried in vain to
           convince the 
           <name type="native_nation" key="Arikara Indians">Arikara</name>chiefs to sever 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>ties. Several chiefs, who grasped the Upper 
           <name type="place" key="Missouri River">Missouri</name>balance of trade and power better
@@ -842,19 +906,23 @@
                <p>If the captains and the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>had very different
           perceptions of the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>, both parties agreed that the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyennes</name>
                   </ref>were far more acceptable and less troublesome customers. The 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyennes</name>
                   </ref>, who had abandoned farming in the eastern prairie valleys to become a plains
           people, depended heavily on the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>for foodstuffs and
           tobacco. Each summer many 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyennes</name>
                   </ref>journeyed to the 
           <name type="native_nation" key="Arikara Indians">Arikara</name>villages to trade and
@@ -870,23 +938,28 @@
           <name type="native_nation" key="Arikara Indians">Arikaras</name>especially valued
           "shirts of antelope skin, ornamented and worked with different colored quills of the
           porcupine." In addition to meat and fancy clothing, the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Chyenne Indians">Cheyennes</name>
                   </ref>also brought flour made from pounded prairie apples. Much of what they offered
           might be classed as luxury goods, but there was one 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne River">Cheyenne</name>
                   </ref>commodity that 
           <name type="native_nation" key="Arikara Indians">Arikara</name>middlemen were very
           anxious to possess. 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyenne</name>
                   </ref>horses were essential to fill out herds in preparation for trading with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>. The 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>wanted 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyenne</name>
                   </ref>horses so badly that they were willing to trade precious guns, powder, and shot
           for them. During the 
@@ -895,18 +968,22 @@
           <name type="native_nation" key="Arikara Indians">Arikaras</name>were prepared to trade
           one gun, one hundred rounds of ammunition, and a knife for one horse. The result of this
           trade, however, was that 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>-
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyenne</name>
                   </ref>relations were often tense because the 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>bands resented seeing 
           <name type="native_nation" key="Arikara Indians">Arikara</name>corn in 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyenne</name>
                   </ref>mouths and English trade guns in 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyenne</name>
                   </ref>hands."
           <ref target="n0336" n="36"/>
@@ -920,10 +997,12 @@
           <name type="person" key="Tabeau, Pierre-Antoine">Tabeau</name>as "this great gathering
           of different nations." Although there was always the threat of violence, especially
           between the competitive 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyennes</name>
                   </ref>, the trading days were better occasions to make bargains and visit old friends.
           "Times are lively," noted Edwin Denig, "feasting and dancing goes on constantly, both in
@@ -1032,11 +1111,13 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>have to confront 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>internal politics, now they would have to deal with the domestic rivalries
           present in the three 
-          <name type="place" key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
+          <name type="place"
+                        key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
           River</name>settlements.</p>
                <p>
                   <name type="person" key="Truteau, Jean Baptiste">Truteau</name>was the first non-Indian
@@ -1053,7 +1134,8 @@
           <name type="native_nation" key="Arikara Indians">Arikaras</name>to move north to the 
           <name type="native_nation" key="Mandan Indians">Mandan</name>region while others drifted
           south to live with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html"
+                       rend="box">
           Pawnees</ref>.
           <ref target="n0343" n="43"/>
                </p>
@@ -1103,7 +1185,8 @@
           <name type="native_nation" key="Arikara Indians">Arikaras</name>were living in three
           large villages on the 
           <name type="place" key="Missouri River">Missouri</name>near the mouth of the 
-          <name type="place" key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
+          <name type="place"
+                        key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
           River</name>. These villages were founded sometime in the late 1790s after the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>abandoned their 
           <name type="place" key="North Dakota">North Dakota</name>settlements.
@@ -1157,7 +1240,8 @@
           <name type="person" key="Clark, William">Clark</name>reported that 
           <name type="place" key="Waho-erha village">Waho-erha</name>was composed of nine
           different tribes who had not been involved in recent (1790s) troubles with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>as had the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>-proper. 
@@ -1184,7 +1268,8 @@
             </div>
             <div type="section">
                <p>On October 8, 1804, as the Corps of Discovery passed the mouth of the 
-          <name type="place" key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
+          <name type="place"
+                        key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
           River</name>, two of the explorers cam upon the 
           <name type="place" key="Ashley Island">Ashley Island</name>village of 
           <name type="place" key="Sawa-haini village">Sawa-haini</name>. 
@@ -1216,7 +1301,8 @@
           <name type="person" key="Gravelines, Joseph">Gravelines</name>and 
           <name type="person" key="Tabeau, Pierre-Antoine">Tabeau</name>spoke the 
           <name type="native_nation" key="Arikara Indians">Arikara</name>and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>languages, skills much in demand for the 
           <name type="native_nation" key="Arikara Indians">Arikara</name>talks. Later in the
@@ -1237,7 +1323,8 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>may well have discussed American
           diplomatic goals as applied to the 
-          <name type="place" key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
+          <name type="place"
+                        key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
           River</name>villagers. The captains surely did not accept 
           <name type="person" key="Truteau, Jean Baptiste">Truteau's</name>claim that the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>were "the key to the
@@ -1245,19 +1332,22 @@
           <name type="place" key="Missouri River">Missouri</name>."
           <ref target="n0352" n="52"/>That distinction was reserved for the 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>. Nonetheless, the explorer-diplomats did not underestimate the importance of the
           
           <name type="native_nation" key="Arikara Indians">Arikaras</name>both as military allies
           of the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>and as potential American trading partners. They knew from their 
           <name type="place" key="Saint Louis, Mo.">St. Louis</name>contacts that the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>had harrassed traders
           and often blocked their access upriver to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>. 
           <name type="person" key="Clark, William">Clark</name>was honestly concerned about the
@@ -1268,7 +1358,8 @@
           <name type="native_nation" key="Arikara Indians">Arikara</name>negotiations as he had
           for dealings with the 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>. However, the general observations in the president's instructions to 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and the recent experiences with
@@ -1303,11 +1394,13 @@
           <name type="person" key="Clark, William">Clark</name>had other things on their minds as
           well. Those other concerns focused on the complex relations between the 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>, the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>, and the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>and 
           <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>. The explorers only
@@ -1318,10 +1411,12 @@
           to undercut, the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>as unwilling dupes of
           the rapacius 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>, and the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>and 
           <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>as a force of unknown
@@ -1337,7 +1432,8 @@
           American-inspired alliance of all Upper 
           <name type="place" key="Missouri River">Missouri</name>villagers might further weaken
           the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>. On the night before the negotiations began, those goals seemed within reach. 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -1354,7 +1450,8 @@
           <name type="native_nation" key="Mandan Indians">Mandan</name>peace. The Laocata action
           was a reminder that the violent events of the 1790s were not forgotten. Weakening the 
           <name type="native_nation" key="Arikara Indians">Arikara</name>-
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>connection and promoting peace among all the Upper 
           <name type="place" key="Missouri River">Missouri</name>villagers seemed a rational and
@@ -1394,7 +1491,8 @@
           <name type="native_nation" key="Arikara Indians">Arikaras</name>saw little reason to
           exchange valuable and reliable dealings with the 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>for the uncertainties of 
           <name type="place" key="Saint Louis, Mo.">St. Louis</name>trade and 
@@ -1494,14 +1592,16 @@
           <name type="person" key="Clark, William">Clark's</name>attention was seized by something
           in the audience that put a new urgency to the negotiations: the presence of two 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>, one of whom 
           <name type="person" key="Clark, William">Clark</name>recognized from the troubled days
           at the 
           <name type="place" key="Bad (Teton) River (S. Dak.)">Bad River</name>. 
           <name type="person" key="Clark, William">Clark</name>was certain that the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>were there to thwart the progress of the expedition and retain some measure of
           control over 
@@ -1523,7 +1623,8 @@
           exclamation point to 
           <name type="person" key="Lewis, Meriwether">Lewis's</name>presentation, three shots were
           fired from the bow swivel gun on the keelboat. The captains may have hoped the two 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>would be reminded of how close those guns had come to firing on their warriors
           just a few days before. When the smoke cleared, out came gift bale number fifteen,
@@ -1559,7 +1660,8 @@
           <name type="person" key="Clark, William">Clark</name>were not about to break with
           tradition, even if it caused more tension within 
           <name type="native_nation" key="Arikara Indians">Arikara</name>politics and made 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>efforts at sowing discord easier. 
           <name type="person" key="Lighting Crow (Kakawissassa)">Kakawissassa</name>of 
@@ -1683,7 +1785,8 @@
           welcome.</p>
                <p>The chief's speech contained three important elements. First, there was the immediate
           question of 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>influence on the 
           <name type="native_nation" key="Arikara Indians">Arikaras'</name>behavior toward the
@@ -1704,7 +1807,8 @@
           <name type="person" key="Lighting Crow (Kakawissassa)">Kakawissassa</name>turned to his
           second point. In reply to the call for intertribal peace, the chief asked the captains
           to "speak good words" to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>on behalf of the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>. Seeing two of their
@@ -1719,7 +1823,8 @@
           <name type="native_nation" key="Arikara Indians">Arikara</name>women to process, he
           promised a good supply of buffalo robes. More important, he promised to aid American
           traders in entering 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
           Cheyenne</ref>and 
           <name type="native_nation" key="Arapaho Indians">Arapaho</name>markets.
           <ref target="n0366" n="66"/>
@@ -1734,7 +1839,8 @@
           <name type="person" key="Lighting Crow (Kakawissassa)">Kakawissassa's</name>speech was
           actually much more and much less than it appeared to be. That the captains accepted it
           literally only suggests how innocent they were of Indian realities. On the issue of 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>-inspired attempts to forcibly detain the expedition, 
           <name type="person" key="Lighting Crow (Kakawissassa)">Kakawissassa</name>was
@@ -1745,18 +1851,21 @@
           <name type="person" key="Clark, William">Clark</name>took this to signal a weakening of
           the 
           <name type="native_nation" key="Arikara Indians">Arikara</name>-
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>alliance. But postexpedition events did not bear out the captains' optimistic
           evaluation. The 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>were not about to
           abandon their 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>trade connection for an uncertain link with 
           <name type="place" key="Saint Louis, Mo.">St. Louis</name>. American merchants,
           interested in beaver, could not take the place of 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>middlemen as both suppliers of manufactured goods and customers for 
           <name type="native_nation" key="Arikara Indians">Arikara</name>corn and horses. 
@@ -1765,14 +1874,16 @@
           trade. That the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>did not envision
           severing the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>alliance was to be made painfully clear in 1807, when both 
           <name type="person" key="Lisa, Manuel">Manuel Lisa</name>and 
           <name type="person" key="Pryor, Nathaniel Hale">Nathaniel Pryor</name>encountered
           hostility from 
           <name type="native_nation" key="Arikara Indians">Arikara</name>-
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>forces.</p>
                <p>The 
@@ -1790,7 +1901,8 @@
           <name type="native_nation" key="Arikara Indians">Arikara</name>-
           <name type="native_nation" key="Mandan Indians">Mandan</name>tensions not easily
           overcome. The peace policy, actually part of a larger anti-
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>thrust, was doomed to failure by both 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>military power and
@@ -1798,7 +1910,8 @@
           <name type="native_nation" key="Arikara Indians">Arikara</name>-
           <name type="native_nation" key="Mandan Indians">Mandan</name>alliance would field
           several war parties against the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>, but those joint ventures would be short-lived. More important, the 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>bands engaged in
@@ -1811,7 +1924,8 @@
           <name type="person" key="Clark, William">Clark</name>to pass unimpeded was an
           abberation. In the years after the expedition, as 
           <name type="person" key="Lisa, Manuel">Manuel Lisa</name>brought the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>into the American trading orbit, the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>assumed the 
@@ -1897,7 +2011,8 @@
           almost as an afterthought, 
           <name type="person" key="Hay (Pocasse)">Pocasse</name>suggested yet another doubt about
           severing the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>connection. With the exposed location of the villages and the temporary nature of
           American forces, what guarantees of safety did the 
@@ -1938,7 +2053,8 @@
           with his own eyes. As much as he doubted 
           <name type="native_nation" key="Mandan Indians">Mandan</name>intentions, he also
           questioned 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>motives, declaring that the 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>"has not a good
@@ -1952,7 +2068,8 @@
           <name type="person" key="Lighting Crow (Kakawissassa)">Kakawissassa</name>and 
           <name type="person" key="Hay (Pocasse)">Pocasse</name>and that they would watch over 
           <name type="place" key="Waho-erha village">Waho-erha</name>while he went up to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>. 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -1970,21 +2087,25 @@
           captains wanted from the chief. 
           <name type="person" key="Eagles Feather (Piaheto)">Piahito</name>again stressed his
           concern about a trip to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>. What would an alliance with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">Mandan
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">Mandan
           Indians
           <name type="native_nation" key="Mandan Indians"/>
                   </ref>mean, how might the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>react, and what possible benefits wouuld the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>gain from such a move?
           As the formal talks ended and one of the 
           <name type="native_nation" key="Arikara Indians">Arikara</name>chiefs agreed to go with
           the captains to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>, all those doubts and questions were unresolved.
           <ref target="n0372" n="72"/>
@@ -2098,7 +2219,8 @@
           <name type="person" key="Biddle, Nicholas">Nicholas Biddle</name>that the "
           <name type="native_nation" key="Arikara Indians">Ricara</name>women [were] better
           looking than the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>."
           <ref target="n0380" n="80"/>
@@ -2169,7 +2291,8 @@
           chiefs on board, 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>left the 
-          <name type="place" key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
+          <name type="place"
+                        key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
           River</name>settlements. It was a festive departure, with "the fiddle playing and the
           horns sounding." The days that followed were filled with small incidents that added to
           the sum of Indian-expedition relations. One of those revealing events took place on
@@ -2243,7 +2366,8 @@
           <name type="native_nation" key="Arikara Indians">Arikaras</name>was a welcome change. It
           remained for 
           <name type="person" key="Clark, William">Clark</name>to record his impressions of the 
-          <name type="place" key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
+          <name type="place"
+                        key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
           River</name>villagers. Of the people, he wrote, "They appear to be peaceful, their men
           tall and perpotiend, women Small and industerous." Recalling their hospitality, he
           described the 

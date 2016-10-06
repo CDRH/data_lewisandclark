@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.lc.ronda.01.01">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.sup.ronda.01.01">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -59,6 +60,22 @@
             <p/>
          </projectDesc>
       </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Supplements</term>
+            </keywords>
+            <keywords scheme="original" n="category">
+               <term>Texts</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change>
             <date>2005-11-01</date>
@@ -228,7 +245,8 @@
           languages and religious ceremonies might prove or disprove a very old and persistent
           notion about the origin of native people. A widespread academic theory held that Indians
           might constitute one of the lost tribes of the children of Israel. If the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
           Mandans</ref>were misplaced Welshmen, as so many thought, why not see if there were any
           Jewish Indians in the West?
           <ref target="n0106" n="6"/>
@@ -370,7 +388,8 @@
           <name type="place" key="London">London</name>, 
           <name type="person" key="Jefferson, Thomas">Jefferson</name>assumed that 
           <name type="native_nation" key="Omaha Indians">Omahas</name>and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>in the Federal City would be properly impressed with the wealth and power of the
           new nation. And in an afterthought whose origins looked back to the earliest days of
@@ -424,18 +443,22 @@
           <name type="place" key="Saint Louis, Mo.">St. Louis</name>contacts. 
           <name type="person" key="Jefferson, Thomas">Jefferson</name>recognized the central role
           played by 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>Indians in 
           <name type="place" key="Missouri River">Missouri</name>Valley trade and politics. He did
           not know the full complexity of the system that bound together British traders, 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>hunters, and village farmers, nor did he realize just how far west 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>power had expanded. But the president did know that a 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>blockade on the 
           <name type="place" key="Missouri River">Missouri</name>could strangle an American fur
@@ -445,13 +468,15 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>, "we wish most particularly to
           make a favorable impression, because of their immense power." 
           <name type="person" key="Jefferson, Thomas">Jefferson's</name>claim that the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>bands were "very desirous of being on the most friendly terms with us" was mostly
           wishful thinking. But that exercise in hope ultimately pointed the expedition toward
           what proved a nearly fatal confrontation with the 
           <name type="native_nation" key="Sioux Indians, Brulé or Bois Brule">Brulé</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
           Sioux</ref>.
           <ref target="n0113" n="13"/>
                </p>
@@ -550,7 +575,8 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>was to discover only later that
           there were not nearly enough blue beads or brass buttons, an oversight that cost the
           expedition dearly among the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">Nez
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">Nez
           Perce</ref>and 
           <name type="native_nation" key="Chinook Indians">Chinookan</name>Indians. And at 
           <name type="person" key="Jefferson, Thomas">Jefferson's</name>direct command there were
@@ -704,7 +730,8 @@
           <name type="place" key="Nebraska">Nebraska</name>. Even more important, he had sent his
           Welsh lieutenant, 
           <name type="person" key="Evans, John Thomas">John Evans</name>, to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
           Mandans</ref>and had entertained notions of sending 
           <name type="person" key="Evans, John Thomas">Evans</name>across the mountains to the 
           <name type="place" key="Pacific Ocean">Pacific</name>. 
@@ -772,7 +799,8 @@
           <name type="person" key="Clark, William">Clark</name>could not have missed 
           <name type="person" key="Evans, John Thomas">Evans</name>and 
           <name type="person" key="Mackay, James">Mackay's</name>singling out of the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
           Mandans</ref>as the Indians most helpful to traders. "The 
           <name type="native_nation" key="Mandan Indians">Mandaines</name>," wrote 
           <name type="person" key="Mackay, James">James Mackay</name>, "as well all other nations
@@ -788,7 +816,8 @@
           <name type="person" key="Mackay, James">Mackay</name>reminded the explorers that their
           diplomacy would be for high stakes. 
           <name type="person" key="Mackay, James">Mackay's</name>observation that courting the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>could "put a Stop to the unjust progress of the English" was written for Spanish
           eyes, but its meaning was not lost on the Americans.
@@ -799,7 +828,8 @@
           <name type="place" key="Saint Louis, Mo.">St. Louis</name>. The 
           <name type="native_nation" key="Omaha Indians">Omahas</name>, 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>, and some of the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>bands had already made life miserable for traders bound upriver. 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -823,7 +853,8 @@
           early experiences with the 
           <name type="native_nation" key="Blackfeet Indians, Piegan">Piegans</name>and his 1787
           visit to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>. In the "Notes" 
           <name type="person" key="Mackay, James">Mackay</name>offered a blend of current opinion
@@ -832,12 +863,14 @@
           the expedition's purposes, the trader made astute comments on the lives of the 
           <name type="place" key="Missouri River">Missouri River</name>villagers. Drawing on his
           own visit to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>and 
           <name type="person" key="Evans, John Thomas">Evans's</name>experiences with the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>, 
           <name type="person" key="Mackay, James">Mackay</name>briefly described the construction
@@ -873,11 +906,13 @@
           were briefly noted in the journal. Those included the 
           <name type="native_nation" key="Oto Indians">Otos</name>, 
           <name type="native_nation" key="Omaha Indians">Omahas</name>, the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>bands, 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>, and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>. Although the extracts did not plainly spell out the complex relations between
           those groups, 
@@ -927,7 +962,8 @@
           <name type="place" key="Missouri River">Missouri</name>and its tributaries 
           <name type="person" key="Soulard, Antoine">Soulard</name>placed the 
           <name type="native_nation" key="Oto Indians">Oto</name>, 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html"
+                       rend="box">
                      <name type="native_nation" key="Pawnee Indians">Pawnee</name>
                   </ref>, and 
           <name type="native_nation" key="Omaha Indians">Omaha</name>peoples. Using simple circle
@@ -935,21 +971,25 @@
           <name type="native_nation" key="Arikara Indians">Arikara</name>and 
           <name type="native_nation" key="Mandan Indians">Mandan</name>villages and the
           territories of nomadic 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>, 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyennes</name>
                   </ref>, and 
           <name type="native_nation" key="Assiniboine Indians">Assiniboins</name>. Farther north
           Soulard sites the 
           <name type="native_nation" key="Blackfeet Indians">Blackfeet</name>and 
           <name type="native_nation" key="Chippewa Indians">Chipewyans</name>. The 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Crow.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Crow.html"
+                       rend="box">
                      <name type="native_nation" key="Crow Indians">Crow</name>
                   </ref>and 
           <name type="native_nation" key="Shoshone Indians">Snakes</name>(
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshonis</name>
                   </ref>) marked the western limit of 
           <name type="place" key="Saint Louis, Mo.">St. Louis</name>knowledge. Looking at 
@@ -1019,7 +1059,8 @@
           <name type="native_nation" key="Mandan Indians">Mandan</name>, and 
           <name type="native_nation" key="Hidatsa Indians">Hidatsa</name>villages. Those places
           along the river frequented by 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>bands were also noted. By examining the 
           <name type="person" key="Evans, John Thomas">Evans</name>map along with the ones by 
@@ -1046,7 +1087,8 @@
           <name type="person" key="Hay, John">Hay</name>who suggested putting a variety of gifts
           into bags protected by waterproof fabric. Those bags were first divided into two general
           groups, one for the Indians on the river up to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>and a second set for "foreign nations." All told, there were to be twenty-one
           bags of Indian goods. As 
@@ -1063,10 +1105,12 @@
           everything from a pair of scarlet leggings to a military officer's coat and American
           flag. There were similar bags for the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>. For those Indians beyond the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>there were five bales stuffed with peace medals, fancy handkerchiefs, hat bands,
           and mirrors.
@@ -1184,7 +1228,8 @@
           <name type="place" key="Missouri River">Missouri</name>. The explorers saw rafts and
           canoes filled with furs from the 
           <name type="native_nation" key="Omaha Indians">Omaha</name>and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html"
+                       rend="box">
                      <name type="native_nation" key="Pawnee Indians">Pawnee</name>
                   </ref>villages. River traffic also brought the expedition some valuable information.
           Late in May, around the isolated village of 
@@ -1192,7 +1237,8 @@
           <name type="person" key="Loisel, Régis">Régis Loisel</name>. A prominent member of the
           Missouri Fur Company, he was on his way back downriver after establishing a post to
           garner the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>and 
           <name type="native_nation" key="Arikara Indians">Arikara</name>trade. The experienced 
@@ -1210,7 +1256,8 @@
                <p>Early in June there was another fortunate meeting, this time with an Indian language
           interpreter. The expedition was not well prepared to deal with translation problems,
           especially those involving important conferences with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>. 
           <name type="person" key="Cruzatte, Pierre">Pierre Cruzatte</name>knew a few words and
@@ -1222,7 +1269,8 @@
           <name type="person" key="Dorion, Pierre, Sr.">Pierre Dorion</name>. The Frenchman had
           spent some twenty years with the 
           <name type="native_nation" key="Sioux Indians, Yankton">Yankton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians, Yankton">Sioux</name>
                   </ref>and their neighbors. He was just the sort of agent 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -1248,14 +1296,16 @@
           <name type="native_nation" key="Missouri Indians">Missouri</name>, 
           <name type="native_nation" key="Omaha Indians">Omaha</name>, 
           <name type="native_nation" key="Ponca Indians">Ponca</name>, and perhaps 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html"
+                       rend="box">
                      <name type="native_nation" key="Pawnee Indians">Pawnee</name>
                   </ref>Indians. On July 20, camped above present-day 
           <name type="place" key="Nebraska City, Nebr.">Nebraska City</name>, 
           <name type="place" key="Nebraska">Nebraska</name>, 
           <name type="person" key="Clark, William">Clark</name>speculated that from his location a
           man could walk in two days to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html"
+                       rend="box">
                      <name type="native_nation" key="Pawnee Indians">Pawnees</name>
                   </ref>on the 
           <name type="place" key="Platte River (Nebr.)">Platte</name>and in one day to the 
@@ -1281,7 +1331,8 @@
           <name type="person" key="Cruzatte, Pierre">Pierre Cruzatte</name>were given parcels of
           tobacco and ordered to find the 
           <name type="native_nation" key="Oto Indians">Otos</name>and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html"
+                       rend="box">
                      <name type="native_nation" key="Pawnee Indians">Pawnees</name>
                   </ref>. Some signs, undisclosed in expeditionary records, suggested that at least a few
           river Indians had returned from hunting to obtain additional corn supplies. Taking this
@@ -1535,7 +1586,8 @@
           buffalo. Although the 
           <name type="native_nation" key="Omaha Indians">Omahas</name>were less powerful in the
           face of mounting 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>influence, their absence from home was a major disappointment. Any hope of
           negotiating an 
@@ -1611,10 +1663,12 @@
           <name type="native_nation" key="Oto Indians">Otos</name>and 
           <name type="native_nation" key="Missouri Indians">Missouris</name>also had stormy
           relations with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html"
+                       rend="box">
                      <name type="native_nation" key="Pawnee Indians">Pawnees</name>
                   </ref>. The chiefs admitted that theft of 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html"
+                       rend="box">
                      <name type="native_nation" key="Pawnee Indians">Pawnee</name>
                   </ref>corn while those people were off buffalo hunting was sufficient reason to fear
           revenge. What 
@@ -1623,7 +1677,8 @@
           struggles of the 
           <name type="native_nation" key="Oto Indians">Otos</name>, 
           <name type="native_nation" key="Omaha Indians">Omahas</name>, and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>to secure that trade. But the 
           <name type="native_nation" key="Oto Indians">Oto</name>chief was offering a vision of
@@ -1664,7 +1719,8 @@
           <name type="person" key="Big Horse">Big Horse</name>added to the growing confusion by
           insisting that without "a spoonful of your milk"—a polite way to ask for alcohol—his
           younger warriors could not be restrained from attacking the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html"
+                       rend="box">
                      <name type="native_nation" key="Pawnee Indians">Pawnees</name>
                   </ref>and 
           <name type="native_nation" key="Omaha Indians">Omahas</name>. Whiskey for peace was not
@@ -1677,7 +1733,8 @@
           <name type="person" key="Farfonge">Fairfong</name>and 
           <name type="person" key="Labiche, François">François Labiche</name>to make peace with
           the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html"
+                       rend="box">
                      <name type="native_nation" key="Pawnee Indians">Pawnees</name>
                   </ref>. When this request was flatly rejected, all talk ended in sullen silence.</p>
                <p>Uncertain of their next move and fearing that the whole conference might dissolve in
@@ -1725,7 +1782,8 @@
           giveaways of valuable goods from what seemed an endless supply on the keelboat. 
           <name type="person" key="Little Thief">Little Thief</name>and the other chiefs knew that
           their influence was in decline as 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>and upriver villagers garnered a steadily larger share of the trade. Each
           expected too much from the other, and the day seemed to be ending in squabble and petty
@@ -1763,7 +1821,8 @@
           way up the 
           <name type="place" key="Missouri River">Missouri</name>and into 
           <name type="native_nation" key="Sioux Indians, Yankton">Yankton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>territory, 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -1784,7 +1843,8 @@
           these Indians, the captains sent 
           <name type="person" key="Dorion, Pierre, Sr.">Pierre Dorion</name>and 
           <name type="person" key="Pryor, Nathaniel Hale">Sergeant Nathaniel Pryor</name>to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>village. Toward evening 
           <name type="person" key="Pryor, Nathaniel Hale">Pryor</name>and 
@@ -1842,19 +1902,22 @@
                   <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>were ready to begin their first
           conference with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>. While the 
           <name type="native_nation" key="Oto Indians">Oto</name>and 
           <name type="native_nation" key="Missouri Indians">Missouri</name>meetings were important
           as first forays in frontier diplomacy, the explorers knew that talks with any 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>group would be of lasting significance. If the American fur trade empire was to
           move from the realm of 
           <name type="person" key="Jefferson, Thomas">Jefferson's</name>imagination to commercial
           reality, 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>cooperation and participation were essential. Knowing all that, 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -1883,7 +1946,8 @@
           <name type="native_nation" key="Oto Indians">Otos</name>and 
           <name type="native_nation" key="Missouri Indians">Missouris</name>and on arranging a
           major delegation of chiefs from several 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>bands. Probably, 
           <name type="person" key="Lewis, Meriwether">Lewis</name>proclaimed American sovereignty
@@ -2021,7 +2085,8 @@
           <name type="person" key="Dorion, Pierre, Sr.">Dorion's</name>plans to remain with them
           augured well for the organization of delegations. On the surface, at least, the council
           was a grand success. Here were 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>headmen and warriors who welcomed the Americans and gladly joined the new trade
           system. The expedition's diplomacy appeared to have come of age. To that achievement was
@@ -2033,7 +2098,8 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>were so confident of continued
           success in dealing with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>that they did not think twice about leaving behind the only skilled interpreter.
           That the expedition's fortunes were about to slide into a morass of angry words and

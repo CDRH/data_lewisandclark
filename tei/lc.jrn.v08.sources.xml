@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.v08.sources">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.v08.sources">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -62,6 +63,22 @@
             <p/>
          </projectDesc>
       </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="category">
+               <term>Journal Editorial</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change>
             <date>2005-01-12</date>

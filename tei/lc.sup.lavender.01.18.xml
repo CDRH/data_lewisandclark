@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.lc.lavender.01.18">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.sup.lavender.01.18">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -57,6 +58,22 @@
             <p/>
          </projectDesc>
       </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Supplements</term>
+            </keywords>
+            <keywords scheme="original" n="category">
+               <term>Texts</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change>
             <date>2005-11-09</date>
@@ -420,15 +437,18 @@
           whites called it 
           <name type="place" key="Bitterroot (Clark's, Flathead) River">Clark's Fork</name>.)
           After riding about five miles they came abreast of the point where today's 
-          <name type="place" key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark
+          <name type="place"
+                        key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark
           Fork</name>(their 
-          <name type="place" key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">East
+          <name type="place"
+                        key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">East
           Fork of Clark's River</name>) joined the 
           <name type="place" key="Bitterroot (Clark's, Flathead) River">Bitterroot</name>. 
           <name type="person" key="Lewis, Meriwether">Lewis</name>wanted to cross the 
           <name type="place" key="Bitterroot (Clark's, Flathead) River">Bitterroot</name>so he
           could follow the north bank of the 
-          <name type="place" key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark
+          <name type="place"
+                        key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark
           Fork</name>through 
           <name type="place" key="Hellgate Canyon">Hellgate Canyon</name>to the 
           <name type="place" key="Big Blackfoot River">Big Blackfoot River</name>. 
@@ -570,7 +590,8 @@
           six miles above their target point. They had seen Indian sign along the way and were
           very much on the qui vive as they jogged ahead for five days, sometimes out on the
           treeless plains. On reaching the junction of 
-          <name type="place" key="Two Medicine River (Main or South Branch Marias River)">Two
+          <name type="place"
+                        key="Two Medicine River (Main or South Branch Marias River)">Two
           Medicine</name>and 
           <name type="place" key="Cut Bank Creek (North Branch of Marias River)">Cut
           Bank</name>creeks (their mingling forms the 
@@ -612,7 +633,8 @@
                   </hi>(
           <name type="person" key="Lewis, Meriwether">Lewis's</name>emphasis), the quartet rode
           south to 
-          <name type="place" key="Two Medicine River (Main or South Branch Marias River)">Two
+          <name type="place"
+                        key="Two Medicine River (Main or South Branch Marias River)">Two
           Medicine Creek</name>. 
           <name type="person" key="Drouillard, George">Drouillard</name>pressed down the stream to
           hunt. 
@@ -1059,9 +1081,11 @@
             <div type="section">
                <note xml:id="n18unnumbered" n="*" type="footnote">The U.S. Board of Geographic names
           eschews apostrophes in proper names—e.g., 
-          <name type="place" key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark
+          <name type="place"
+                        key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark
           Fork River</name>, not 
-          <name type="person" key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">
+          <name type="person"
+                        key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">
           Clark's Fork</name>. This may be the place for us to drop the apostrophe from 
           <name type="place" key="Marias River">Maria's River</name>, as the hoard has, even
           though 

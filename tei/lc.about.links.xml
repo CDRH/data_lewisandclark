@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.lc.links">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.about.links">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -24,14 +25,21 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl></bibl>
+            <bibl/>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
          <textClass>
-            <keywords scheme="lcsh">
+            <keywords scheme="original" n="category">
+               <term>About</term>
+            </keywords>
+            <keywords scheme="original" n="category">
+               <term>Links</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
                <term/>
-               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
                <term/>
             </keywords>
          </textClass>
@@ -78,7 +86,8 @@
         information on relevant maps and films.
         <lb/>
                <lb/>
-               <ref target="http://www.loc.gov/exhibits/lewisandclark/virtualtour/" rend="new">Rivers,
+               <ref target="http://www.loc.gov/exhibits/lewisandclark/virtualtour/"
+                    rend="new">Rivers,
         Edens, and Empires: Lewis and Clark and the Revealing of America</ref>
                <lb/>Cartographic and ethnographic materials. A virtual tour of the Rivers, Edens, and
         Empires exhibit from the Northwest Gallery of the Library of Congress's Thomas Jefferson
@@ -132,7 +141,8 @@
                <lb/>Provides access to history journals, full-text articles, and a discussion board.
         <lb/>
                <lb/>
-               <ref target="http://www.lewisandclark.org/?p=proceeded_on&amp;n=publications" rend="new">
+               <ref target="http://www.lewisandclark.org/?p=proceeded_on&amp;n=publications"
+                    rend="new">
                   <hi rend="italic">We Proceeded On</hi>
                </ref>
                <lb/>The official publication of the Lewis and Clark Trail Heritage Foundation, Inc.

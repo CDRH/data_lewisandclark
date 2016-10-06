@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.lc.toc.xml">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.toc">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -24,14 +25,21 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl></bibl>
+            <bibl/>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
          <textClass>
-            <keywords scheme="lcsh">
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="category">
+               <term>Journal Editorial</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
                <term/>
-               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
                <term/>
             </keywords>
          </textClass>
@@ -202,7 +210,8 @@
                   </item>
                </list>
                <lb/>
-               <ref target="http://lewisandclarkjournals.unl.edu/namesindex/" type="related">Index</ref>
+               <ref target="http://lewisandclarkjournals.unl.edu/namesindex/"
+                    type="related">Index</ref>
                <lb/>
                <lb/>
                <hi rend="bold">About the Journals</hi>

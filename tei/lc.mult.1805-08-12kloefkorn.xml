@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1805-08-12kloefkorn">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.mult.1805-08-12kloefkorn">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -44,7 +45,7 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <bibl></bibl>
+            <bibl/>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -52,6 +53,22 @@
             <p/>
          </projectDesc>
       </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Multimedia</term>
+            </keywords>
+            <keywords scheme="original" n="category">
+               <term>Audio</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change>
             <date>2005-10-07</date>

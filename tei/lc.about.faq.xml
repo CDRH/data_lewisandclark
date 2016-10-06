@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.lc.faq">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.about.faq">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -24,14 +25,21 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl></bibl>
+            <bibl/>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
          <textClass>
-            <keywords scheme="lcsh">
+            <keywords scheme="original" n="category">
+               <term>About</term>
+            </keywords>
+            <keywords scheme="original" n="category">
+               <term>FAQ</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
                <term/>
-               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
                <term/>
             </keywords>
          </textClass>
@@ -86,7 +94,8 @@
                <hi rend="bold">Audio</hi>
                <lb/>
                <lb/>To play the sound files, you will need to 
-        <ref target="http://sdc.shockwave.com/shockwave/download/download.cgi?" rend="new">download
+        <ref target="http://sdc.shockwave.com/shockwave/download/download.cgi?"
+                    rend="new">download
         the Macromedia Flash Player</ref>if it is not already available on your computer.
         <lb/>
                <lb/>

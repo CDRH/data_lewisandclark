@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.introduction.v08">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.introduction.v08">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -62,6 +63,22 @@
             <p/>
          </projectDesc>
       </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="category">
+               <term>Journal Editorial</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change>
             <date>2004-11-01</date>
@@ -148,7 +165,8 @@
         <name type="person" key="Lewis, Meriwether">Lewis</name>headed down the 
         <name type="place" key="Bitterroot (Clark's, Flathead) River">Bitterroot River</name>,
         then up the 
-        <name type="place" key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark
+        <name type="place"
+                     key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark
         Fork</name>and across the 
         <name type="place" key="Continental Divide">Continental Divide</name>along a route
         suggested by the 
@@ -192,7 +210,8 @@
         tribe 
         <name type="person" key="Lewis, Meriwether">Lewis</name>and his small party had wanted to
         avoid. They talked and all agreed to camp together that night on 
-        <name type="place" key="Two Medicine River (Main or South Branch Marias River)">Two
+        <name type="place"
+                     key="Two Medicine River (Main or South Branch Marias River)">Two
         Medicine River</name>. 
         <name type="person" key="Lewis, Meriwether">Lewis</name>was awakened the next morning by
         sounds of a struggle as the Indians tried to make off with the expedition's guns and

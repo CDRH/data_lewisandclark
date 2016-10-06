@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.introduction.general">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.introduction.general">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -62,6 +63,22 @@
             <p/>
          </projectDesc>
       </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="category">
+               <term>Journal Editorial</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change>
             <date>2004-03-01</date>
@@ -1748,14 +1765,17 @@
         <name type="person" key="Clark, William">Clark's</name>copy of the sketch appears in the
         middle of the journal entry as if done at the same time as the entry itself. Yet the map
         labels as "Clark's River" the 
-        <name type="place" key="Pend Oreille (Clark's, Flathead, Lastaro, Lastaw) River">Pend
+        <name type="place"
+                     key="Pend Oreille (Clark's, Flathead, Lastaro, Lastaw) River">Pend
         Oreille River</name>where it enters the 
         <name type="place" key="Columbia River">Columbia</name>. There is good reason to believe
         that the captains did not decide to give the name Clark's River to the combined 
         <name type="place" key="Bitterroot (Clark's, Flathead) River">Bitterroot</name>-
-        <name type="person" key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark
+        <name type="person"
+                     key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark
         Fork</name>-
-        <name type="place" key="Pend Oreille (Clark's, Flathead, Lastaro, Lastaw) River">Pend
+        <name type="place"
+                     key="Pend Oreille (Clark's, Flathead, Lastaro, Lastaw) River">Pend
         Oreille</name>rivers until between April 17 and May 6, 1806 (see 
         <hi rend="italic">Atlas</hi>, pp. 10–11). An almost exact duplicate of the map in another
         notebook not containing daily entries shows the same stream as the "Flathead River," the

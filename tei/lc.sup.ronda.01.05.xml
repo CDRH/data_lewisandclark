@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.lc.ronda.01.05">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.sup.ronda.01.05">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -63,6 +64,22 @@
             <p/>
          </projectDesc>
       </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Supplements</term>
+            </keywords>
+            <keywords scheme="original" n="category">
+               <term>Texts</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change>
             <date>2005-11-01</date>
@@ -106,7 +123,8 @@
           expedition, virtually every diarist in it diligently recorded all sorts of information
           about Indian life. But the demands of time and travel made thorough study difficult. It
           was not until the winter with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>that 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -158,7 +176,8 @@
           <name type="person" key="Clark, William">Clark</name>, every observation was also a
           judgment. Those judgments are plain in the explorers' comments about the feisty 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>and the sharp 
           <name type="native_nation" key="Chinook Indians">Chinook</name>traders. For instance, 
@@ -190,7 +209,8 @@
           traditions, medical practices, or cultural values were quietly dropped from the official
           list. This did not mean the expedition was unwilling to record that sort of data. During
           the winter with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>, journal entries noted creation myths, migration legends, burial practices, and
           sacred rituals. It does suggest that the captains very sensibly recognized their
@@ -233,7 +253,8 @@
           leading men from 
           <name type="place" key="Mitutanka (Matootonha) village">Mitutanka</name>, 
           <name type="person" key="Big Man (Oh-he-nar)">Big Man (Ohheenar)</name>, an adopted 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyenne</name>
                   </ref>, and 
           <name type="person" key="Coal, The (Sho-ta-harro-ra)">Coal (Shotaharrora)</name>, an
@@ -282,7 +303,8 @@
           what they called the captains' "High sounding language" and several warriors were
           angered by the explorers' boasts about American military might. Such tensions, often
           fueled by the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandan</name>s</ref>' malicious rumors,
           kept many 
           <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>away from the fort and
@@ -328,17 +350,21 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>learned about the size and
           locations of the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Crow.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Crow.html"
+                       rend="box">
                      <name type="native_nation" key="Crow Indians">Crow</name>
                   </ref>, 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Flathead.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Flathead.html"
+                       rend="box">
                      <name type="native_nation" key="Flathead Indians">Flathead</name>
                   </ref>, 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshoni</name>
                   </ref>, and 
           <name type="native_nation" key="Nez Perce Indians">Blue Mud</name>(
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>) Indians. 
           <ref target="n0508" n="8"/>Without 
@@ -347,7 +373,8 @@
           ethnography.</p>
                <p>Throughout the winter there were other important interviews with Indians who were
           neither 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>nor 
           <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>. 
@@ -361,19 +388,22 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>, thereby expanding their knowledge
           of northern peoples and trade routes. There were also a number of 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyennes</name>
                   </ref>in the 
           <name type="native_nation" key="Mandan Indians">Mandan</name>villages who perhaps told
           the captains about tribes to the West and Southwest. And of course there was the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshoni</name>
                   </ref>woman 
           <name type="person" key="Sacagawea">Sacagawea</name>, whose contribution is simply
           impossible to verify. It seems more likely that whatever 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>knew about the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshonis</name>
                   </ref>came from 
           <name type="native_nation" key="Hidatsa Indians">Hidatsa</name>sources. 
@@ -431,15 +461,18 @@
           ready to share his experience with the captains. They questioned him closely about Upper
           
           <name type="place" key="Mississippi River">Mississippi</name>tribes and the many 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>bands.
           <ref target="n0512" n="12"/>
                   <name type="person" key="Heney, Hugh">Heney's</name>imprint is clearly on the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Chippewa.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Chippewa.html"
+                       rend="box">
                      <name type="native_nation" key="Chippewa Indians">Chippewa</name>
                   </ref>sections of their "Estimate of the Eastern Indians." Other North West Company men
           like 
@@ -523,14 +556,16 @@
           <name type="native_nation" key="Hidatsa Indians">Hidatsa</name>chiefs, 
           <name type="person" key="Clark, William">Clark</name>offered a long summary of his
           political observations. "The throne of the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>," he explained, "generally descends from the chief to his son if he is able, or
           promises to be able to direct the military movements of warriors." Unlike so many other
           non-Indian observers, 
           <name type="person" key="Clark, William">Clark</name>did not suggest that the "throne of
           the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>" assumed some sort of coercive power over ordinary villagers. Grasping the
           essential reality of Indian leadership on the northern plains, he realized that "the
@@ -607,7 +642,8 @@
                <p>Perhaps 
           <name type="person" key="Ordway, John">Ordway's</name>most arresting ethnographic
           observation during the winter with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>was a description of one of the most popular games played throughout Indian North
           America. Known as the game of hoop and pole, the sport was found among almost every
@@ -620,7 +656,8 @@
           large cleared, level playing space, long sticks with thongs to catch in the target
           rings, and flat clay targets. Because the long throwing sticks looked like billiard
           cues, later white observers insisted that the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>and 
           <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>played billiards.</p>
@@ -677,14 +714,16 @@
           <name type="native_nation" key="Arikara Indians">Arikara</name>craftsmen used to make
           glass beads. The Frenchman indicated that the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>learned the skill from 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshoni</name>
                   </ref>prisoners, but 
           <name type="person" key="Tabeau, Pierre-Antoine">Tabeau</name>heard from his 
           <name type="native_nation" key="Arikara Indians">Arikara</name>friends that the process
           came to them from a "Spanish prisoner," perhaps an Indian held captive somewhere in the
           Southwest and traded up to the 
-          <name type="place" key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
+          <name type="place"
+                        key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
           River</name>villages. As 
           <name type="person" key="Gravelines, Joseph">Gravelines</name>went slowly through the
           steps, 
@@ -708,7 +747,8 @@
           themselves, the interpreters, Sacagawea, and her child Jean Baptiste, the captains
           purchased a buffalo skin tepee. The expedition had seen tepees early in the journey
           among the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
           Sioux</ref>bands; 
           <name type="person" key="Lewis, Meriwether">Lewis</name>now wrote one of the best
           descriptions yet drafted of that distinctive plains dwelling. 
@@ -775,7 +815,8 @@
           <name type="native_nation" key="Mandan Indians">Mandan</name>artist had portrayed in
           vivid detail a 1797 battle between 
           <name type="native_nation" key="Arikara Indians">Arikara</name>-
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>raiders and 
           <name type="native_nation" key="Mandan Indians">Mandan</name>-
@@ -816,7 +857,8 @@
           should participate in all sorts of activities. From formal rituals and largescale hunts
           to more intimate encounters, the expedition's members learned about Indians by living
           parts of villager culture. Because the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>and 
           <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>did not schedule major
@@ -931,19 +973,23 @@
           <name type="native_nation" key="Mandan Indians">Mandan</name>and 
           <name type="native_nation" key="Hidatsa Indians">Hidatsa</name>contacts came information
           on the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Crow.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Crow.html"
+                       rend="box">
                      <name type="native_nation" key="Crow Indians">Crow</name>
                   </ref>, 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshoni</name>
                   </ref>, 
           <name type="native_nation" key="Blackfeet Indians">Blackfeet</name>, and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>Indians. Reaching back to their days near 
           <name type="place" key="Saint Louis, Mo.">St. Louis</name>, the explorers used traders'
           information on the three 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Pawnee.html"
+                       rend="box">
                      <name type="native_nation" key="Pawnee Indians">Pawnee</name>
                   </ref>divisions as well as the 
           <name type="native_nation" key="Iowa Indians">Iowa</name>and 
@@ -952,10 +998,12 @@
           traded with the 
           <name type="native_nation" key="Arikara Indians">Arikara</name>villages proved
           invaluable when filling out the sections dealing with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Arapaho.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Arapaho.html"
+                       rend="box">
                      <name type="native_nation" key="Arapaho Indians">Arapaho</name>
                   </ref>, Sutaio, 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Kiowa.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Kiowa.html"
+                       rend="box">
                      <name type="native_nation" key="Kiowa Apache (Cartarkah) Indians">Kiowa Apache</name>
                   </ref>, 
           <name type="native_nation" key="Comanche Indians">Comanche</name>, and other central
@@ -971,7 +1019,8 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>wanted, at least during the winter
           with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>, was a kind of statistical geography of those tribes they had already met, those
           yet to be encountered, and those who might influence United States Indian policy. And
@@ -1024,7 +1073,8 @@
           were two additional sources of Indian information, which bring to light important
           aspects of native life as well as the fundamental contribution made by Indians to the
           expedition. Throughout the winter with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>, 
           <name type="person" key="Clark, William">Clark</name>carefully gathered material in
@@ -1182,24 +1232,29 @@
           <name type="place" key="North Saskatchewan River">North Saskatchewan River</name>, 
           <name type="person" key="Clark, William">Clark</name>precisely spotted the Sarsi
           Indians. Turning west, he accurately recorded the locations and populations of the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Crow.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Crow.html"
+                       rend="box">
                      <name type="native_nation" key="Crow Indians">Crow</name>
                   </ref>, 
           <name type="native_nation" key="Comanche Indians">Comanche</name>, 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyenne</name>
                   </ref>, 
           <name type="native_nation" key="Kiowa Indians">Kiowa</name>, 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshoni</name>
                   </ref>, and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Flathead.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Flathead.html"
+                       rend="box">
                      <name type="native_nation" key="Flathead Indians">Flathead</name>
                   </ref>Indians. Drawing on information from 
           <name type="native_nation" key="Hidatsa Indians">Hidatsa</name>sources, he noted the
           important links between the 
           <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>and the River 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Crow.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Crow.html"
+                       rend="box">
                      <name type="native_nation" key="Crow Indians">Crows</name>
                   </ref>. Recognizing the distant travels of 
           <name type="native_nation" key="Hidatsa Indians">Hidatsa</name>warriors, 
@@ -1209,7 +1264,8 @@
           <name type="place" key="Knife River">Knife River</name>villages, along the 
           <name type="place" key="Missouri River">Missouri</name>, across the mountains, and on to
           the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Flathead.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Flathead.html"
+                       rend="box">
                      <name type="native_nation" key="Flathead Indians">Flathead</name>
                   </ref>Indians in the present-day 
           <name type="place" key="Bitterroot Valley">Bitterroot Valley</name>in 
@@ -1247,7 +1303,8 @@
           <name type="person" key="Lewis, Meriwether">Lewis's</name>analysis. Nowhere was that
           distortion more evident than in the ways explorers and Indians understood the nature of
           the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_GreatFalls.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_GreatFalls.html"
+                       rend="box">
                      <name type="place" key="Columbia River, Great Falls of the">Great Falls</name>
                   </ref>
                   <name type="place" key="Missouri River, Great Falls of the">of the Missouri</name>. The
@@ -1263,7 +1320,8 @@
           purported easy passage over the 
           <name type="place" key="Continental Divide">Continental Divide</name>, and the imagined
           south fork of the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Columbia.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Columbia.html"
+                       rend="box">
                      <name type="place" key="Columbia River">Columbia</name>
                   </ref>
                   <name type="place" key="Columbia River">River</name>just over the divide, the Indians'
@@ -1312,7 +1370,8 @@
                      <name type="native_nation" key="Assiniboine Indians">Assiniboin</name>
                   </ref>Indians who accompanied him asked to be adopted as his "children," thus repeating
           the formula they had long employed with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>. In mid-November 1804, with a large number of 
           <ref target="http://lewisandclarkjournals.unl.edu/images_Assinniboine.html"
@@ -1452,7 +1511,8 @@
           in the expedition's record. By the time 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>got to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshonis</name>
                   </ref>, they were journeymen ethnographers on the way to becoming masters.</p>
             </div>

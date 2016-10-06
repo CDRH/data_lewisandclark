@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.lc.videot6">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.mult.videot6">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -27,14 +28,21 @@
             <note/>
          </notesStmt>
          <sourceDesc>
-            <bibl></bibl>
+            <bibl/>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
          <textClass>
-            <keywords scheme="lcsh">
+            <keywords scheme="original" n="category">
+               <term>Multimedia</term>
+            </keywords>
+            <keywords scheme="original" n="category">
+               <term>Video</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
                <term/>
-               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
                <term/>
             </keywords>
          </textClass>

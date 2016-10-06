@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.lc.bright.01">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.sup.bright.01">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -43,7 +44,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl></bibl>
+            <bibl/>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -51,6 +52,22 @@
             <p/>
          </projectDesc>
       </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Supplements</term>
+            </keywords>
+            <keywords scheme="original" n="category">
+               <term>Texts</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change>
             <date>2006-02-24</date>
@@ -1173,7 +1190,8 @@
                <row role="data">
                   <cell role="citation" rows="1" cols="1">
                      <hi rend="bold">
-                        <name type="place" key="Celilo (Great) Falls, Wasco Co., OR, Klicktitat Co., WA">
+                        <name type="place"
+                              key="Celilo (Great) Falls, Wasco Co., OR, Klicktitat Co., WA">
               Celilo Falls</name>
                      </hi>(OR, Wasco Co.; WA, Klicktitat Co.) [suh LIE loh] From 
             <name type="native_nation" key="Wishram-Wasco Indians">Wishram</name>(
@@ -1183,7 +1201,8 @@
             Kinkade p.c.). The term was not used by 
             <name type="person" key="Lewis, Meriwether">L</name>&amp; 
             <name type="person" key="Clark, William">C</name>, who refer simply to the "
-            <name type="place" key="Celilo (Great) Falls, Wasco Co., OR, Klicktitat Co., WA">Great
+            <name type="place"
+                           key="Celilo (Great) Falls, Wasco Co., OR, Klicktitat Co., WA">Great
             falls</name>" (J
             <name type="person" key="Lewis, Meriwether">L</name>
                      <name type="person" key="Clark, William">C</name>E 5:326 n.11).</cell>
@@ -1218,7 +1237,8 @@
                <row role="data">
                   <cell role="citation" rows="1" cols="1">
                      <hi rend="bold">
-                        <name type="native_nation" key="Clowwewalla (Char-cow-ah, Cush-hooks) Indians">
+                        <name type="native_nation"
+                              key="Clowwewalla (Char-cow-ah, Cush-hooks) Indians">
               Char-cow-ah</name>
                      </hi>. Applied by 
             <name type="person" key="Lewis, Meriwether">L</name>&amp; 
@@ -1662,7 +1682,8 @@
                <row role="data">
                   <cell role="citation" rows="1" cols="1">
                      <hi rend="bold">
-                        <name type="place" key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">
+                        <name type="place"
+                              key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">
               Clark Fork</name>
                      </hi>(
             <name type="place" key="Montana">MT</name>, Missoula Co.; 
@@ -2260,12 +2281,14 @@
                <row role="data">
                   <cell role="citation" rows="1" cols="1">
                      <hi rend="bold">
-                        <name type="place" key="Snake (E-pa,-âh-zhah, Miry) Creek (McLean County, N. Dak.)">
+                        <name type="place"
+                              key="Snake (E-pa,-âh-zhah, Miry) Creek (McLean County, N. Dak.)">
               E-pe,-âh-zhah</name>
                      </hi>. 
             <name type="person" key="Lewis, Meriwether">L</name>&amp; 
             <name type="person" key="Clark, William">C</name>'s writing for 
-            <name type="place" key="Snake (E-pa,-âh-zhah, Miry) Creek (McLean County, N. Dak.)">
+            <name type="place"
+                           key="Snake (E-pa,-âh-zhah, Miry) Creek (McLean County, N. Dak.)">
             Snake Creek</name>(
             <name type="place" key="North Dakota">ND</name>, McLean Co.); from 
             <name type="native_nation" key="Hidatsa Indians">Hidatsa</name>/apée áaši/ 'coiling
@@ -2415,14 +2438,16 @@
                <row role="data">
                   <cell role="citation" rows="1" cols="1">
                      <hi rend="bold">
-                        <name type="native_nation" key="Tututni (Han-na-kal-lal, Luck-kar-So) Indians">
+                        <name type="native_nation"
+                              key="Tututni (Han-na-kal-lal, Luck-kar-So) Indians">
               Han-na-kal-lal</name>
                      </hi>. Applied by 
             <name type="person" key="Lewis, Meriwether">L</name>&amp; 
             <name type="person" key="Clark, William">C</name>to a tribe on the 
             <name type="place" key="Oregon">Oregon</name>coast, perhaps the 
             <hi rend="italic">
-                        <name type="native_nation" key="Tututni (Han-na-kal-lal, Luck-kar-So) Indians">
+                        <name type="native_nation"
+                              key="Tututni (Han-na-kal-lal, Luck-kar-So) Indians">
               Tututni</name>
                      </hi>(q.v.; J
             <name type="person" key="Lewis, Meriwether">L</name>
@@ -2906,7 +2931,8 @@
             <name type="person" key="Clark, William">C</name>'s name for the present 
             <name type="place" key="John Day (Kekemarque) River (Clatsop County, Oreg.)">John Day
             River (OR, Clatsop Co).</name>; not to be confused with the larger 
-            <name type="place" key="John Day (Lepage's) River (Sherman-Gilliam counties, Oreg.)">
+            <name type="place"
+                           key="John Day (Lepage's) River (Sherman-Gilliam counties, Oreg.)">
             John Day River (OR, Sherman Co.)</name>. Perhaps from the 
             <name type="native_nation" key="Chinook Indians">Chinook</name>toponym /kigimaXix/ (J
             <name type="person" key="Lewis, Meriwether">L</name>
@@ -3010,14 +3036,16 @@
                <row role="data">
                   <cell role="citation" rows="1" cols="1">
                      <hi rend="bold">
-                        <name type="native_nation" key="Athapascan Kwalhiokwa (Kil-laxt-ho-kle) Indians">
+                        <name type="native_nation"
+                              key="Athapascan Kwalhiokwa (Kil-laxt-ho-kle) Indians">
               Kil-laxt-ho-kle</name>
                      </hi>. Applied by 
             <name type="person" key="Lewis, Meriwether">L</name>&amp; 
             <name type="person" key="Clark, William">C</name>to an ethnic group north along the
             coast from the 
             <name type="native_nation" key="Chinook Indians">Chinook</name>, perhaps the 
-            <name type="native_nation" key="Athapascan Kwalhiokwa (Kil-laxt-ho-kle) Indians">
+            <name type="native_nation"
+                           key="Athapascan Kwalhiokwa (Kil-laxt-ho-kle) Indians">
             Kwalhiokwa (Athabaskan)</name>tribe (J
             <name type="person" key="Lewis, Meriwether">L</name>
                      <name type="person" key="Clark, William">C</name>E 6:475, 486, 491); see below.</cell>
@@ -3444,11 +3472,13 @@
                <row role="data">
                   <cell role="citation" rows="1" cols="1">
                      <hi rend="bold">
-                        <name type="native_nation" key="Tututni (Han-na-kal-lal, Luck-kar-so) Indians">
+                        <name type="native_nation"
+                              key="Tututni (Han-na-kal-lal, Luck-kar-so) Indians">
             Luck-kar-so</name>.</hi>Applied by 
             <name type="person" key="Lewis, Meriwether">L</name>&amp; 
             <name type="person" key="Clark, William">C</name>to the 
-            <name type="native_nation" key="Tututni (Han-na-kal-lal, Luck-kar-so) Indians">
+            <name type="native_nation"
+                           key="Tututni (Han-na-kal-lal, Luck-kar-so) Indians">
             Tututni</name>(q.v.), a tribe on the 
             <name type="place" key="Oregon">Oregon</name>coast (J
             <name type="person" key="Lewis, Meriwether">L</name>
@@ -6838,7 +6868,8 @@
                <row role="data">
                   <cell role="citation" rows="1" cols="1">
                      <hi rend="bold">
-                        <name type="native_nation" key="Tututni (Han-na-kal-lal, Luck-kar-So) Indians">
+                        <name type="native_nation"
+                              key="Tututni (Han-na-kal-lal, Luck-kar-So) Indians">
               Tututni</name>
                      </hi>. Modern name for an 
             <name type="native_nation" key="Athabaskan Indians">Athabaskan</name>group of
@@ -6847,9 +6878,11 @@
             of /doto/ village' (HNAI 7:586). Referred to by 
             <name type="person" key="Lewis, Meriwether">L</name>&amp; 
             <name type="person" key="Clark, William">C</name>as 〈
-            <name type="native_nation" key="Tututni (Han-na-kal-lal, Luck-kar-So) Indians">
+            <name type="native_nation"
+                           key="Tututni (Han-na-kal-lal, Luck-kar-So) Indians">
             Han-na-kal-lal</name>〉 and 〈
-            <name type="native_nation" key="Tututni (Han-na-kal-lal, Luck-kar-So) Indians">
+            <name type="native_nation"
+                           key="Tututni (Han-na-kal-lal, Luck-kar-So) Indians">
             Luck-kar-so</name>〉 (J
             <name type="person" key="Lewis, Meriwether">L</name>
                      <name type="person" key="Clark, William">C</name>E 6:491); see above.</cell>

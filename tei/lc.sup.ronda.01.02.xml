@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.lc.ronda.01.02">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.sup.ronda.01.02">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -59,6 +60,22 @@
             <p/>
          </projectDesc>
       </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Supplements</term>
+            </keywords>
+            <keywords scheme="original" n="category">
+               <term>Texts</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change>
             <date>2005-11-01</date>
@@ -97,7 +114,8 @@
           southwest bank. But the initial welcome vanished when 
           <name type="person" key="Clark, William">Clark</name>discovered that the Indians were 
           <name type="native_nation" key="Sioux Indians, Brulé or Bois Brule">Brulé</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>of 
           <name type="person" key="Black Buffalo (Un-tongar-Sar-bar)">Black Buffalo's</name>band.
@@ -105,7 +123,8 @@
           <name type="native_nation" key="Ponca Indians">Poncas</name>, 
           <name type="native_nation" key="Omaha Indians">Omahas</name>, or perhaps 
           <name type="native_nation" key="Sioux Indians, Yankton">Yankton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>. But once their 
           <name type="native_nation" key="Sioux Indians, Brulé or Bois Brule">Brulé</name>identity
@@ -114,7 +133,8 @@
           <name type="person" key="Clark, William">Clark</name>, the interpreter 
           <name type="person" key="Jusseaume, René">René Jusseaume</name>shouted across the river
           that the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>were "bad people" and that "if any [came] near our camp we should kill them
           certainly." In a second barrage, 
@@ -124,10 +144,12 @@
           future traders would be "sufficiently strong to whip any vilenous party who dare[d] to
           oppose them." As a parting shot, 
           <name type="person" key="Clark, William">Clark</name>notified the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>that the Americans had given guns, ammunition, and even a cannon to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>and 
           <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>—weapons that would
@@ -161,7 +183,8 @@
                <p>The expedition's members did not sleep well that night. Wet sand, gusty winds, and an
           exposed campsite made them uncomfortable. Perhaps the unsettling jeers and curses of the
           
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>moved the captains and their men to recall another and even more disagreeable
           clash just two years earlier with 
@@ -180,13 +203,15 @@
           <name type="person" key="Clark, William">Clark</name>expedition rested at their camp
           just below the mouth of the 
           <name type="place" key="Bad (Teton) River (S. Dak.)">Bad River</name>, three 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>boys swam across the 
           <name type="place" key="Missouri River">Missouri</name>to greet the explorers. The boys
           came from 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>villages along the 
           <name type="place" key="Bad (Teton) River (S. Dak.)">Bad River</name>, opposite
@@ -216,11 +241,13 @@
           chance encounter with 
           <name type="person" key="Loisel, Régis">Regis Loisel</name>, a trader just back from the
           
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>country, had added to their information.
           <ref target="n0203" n="3"/>Now the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>boys told of two villages upriver. The captains, anxious to begin the talks, told
           the boys that their chiefs were invited to a conference the following day.
@@ -251,7 +278,8 @@
           <name type="place" key="Bad (Teton) River (S. Dak.)">Bad River</name>, anchored in the 
           <name type="place" key="Missouri River">Missouri</name>while the captains tried to talk
           with these 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>. 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -271,7 +299,8 @@
           talk the next day. Once back on the keelboat, 
           <name type="person" key="Lewis, Meriwether">Lewis</name>seemed relieved to report "all
           well" with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>.
           <ref target="n0205" n="5"/>
@@ -283,24 +312,29 @@
           <name type="person" key="Jefferson, Thomas">Jefferson's</name>general instructions
           emphasized intertribal peace, trade contacts, American sovereignty, and the collection
           of ethnological material. But he had a special interest in the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>. Of all the Indians east of the mountains known to whites, it was the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>that the president singled out for the explorers' particular attention. 
           <name type="person" key="Jefferson, Thomas">Jefferson's</name>concern with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>was based on his appraisal of both their military strength and their economic
           potential. The martial power of the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>nation on both sides of the 
           <name type="place" key="Missouri River">Missouri</name>was well known. 
           <name type="person" key="Jefferson, Thomas">Jefferson</name>was equally sensitive to the
           economic possibilities and imperial rivalries present in any 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>-American negotiations. The journal by 
           <name type="person" key="Truteau, Jean Baptiste">Truteau</name>that 
@@ -308,30 +342,35 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>in November 1803 revealed those
           elements. 
           <name type="person" key="Truteau, Jean Baptiste">Truteau</name>described the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>as "the greatest beaver hunters," whose pelts were worth "double the Canadian for
           the fineness of [their] fur and parchment."
           <ref target="n0206" n="6"/>Here was a grand opportunity for American enterprise.
           Profits from the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>fur trade would be an early vindication of the Louisiana Purchase. But, as 
           <name type="person" key="Truteau, Jean Baptiste">Truteau</name>had observed, the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>trade was firmly in the hands of the North West Company and its posts on the 
           <name type="place" key="Des Moines River">Des Moines</name>and 
           <name type="place" key="Minnesota River (St. Peters)">St. Peters</name>rivers. If
           American sovereignty and commerce were to triumph, the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>would have to abandon John Bull for dealings with Uncle Sam.</p>
                <p>
                   <name type="person" key="Jefferson, Thomas">Jefferson</name>hoped 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>might begin to lure the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>into the American orbit. But that would be no easy task. As he admitted to
           Secretary of the Navy 
@@ -340,7 +379,8 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>, 
           <name type="person" key="Jefferson, Thomas">Jefferson</name>urged the explorers to pay
           close attention to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>. "On that nation," wrote the president, "we wish more particularly to make a
           friendly impression, because of their immense power, and because we learn they are very
@@ -348,7 +388,8 @@
           <ref target="n0207" n="7"/>
                   <name type="person" key="Jefferson, Thomas">Jefferson</name>engaged in wishful thinking
           when he wrote that the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>were looking for American friendship, but he was closer to the mark in noting
           "their immense power." 
@@ -357,7 +398,8 @@
           convince the Indians that 
           <name type="place" key="Saint Louis, Mo.">St. Louis</name>merchants did not endanger the
           
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>role in Upper 
           <name type="place" key="Missouri River">Missouri</name>trade, and persuade Teton
@@ -365,7 +407,8 @@
           would have to deal with Indian leaders who clearly understood tribal needs and had both
           the diplomatic skill and the military force to command attention. With its tangle of
           economic, military, and imperial interests, the Teton 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>negotiation was perhaps the most demanding piece of Indian diplomacy assigned to 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -381,11 +424,13 @@
           trade network of the Upper 
           <name type="place" key="Missouri River">Missouri</name>, the 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>played a dangerous and precarious game. 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>of the 
           <name type="native_nation" key="Sioux Indians, Brulé or Bois Brule">Brulé</name>, 
@@ -398,7 +443,8 @@
           <name type="native_nation" key="Sioux Indians, Teton">Tetons</name>met 
           <name type="native_nation" key="Sioux Indians, Sisseton">Sisseton</name>and 
           <name type="native_nation" key="Sioux Indians, Yankton">Yankton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>who had obtained manufactured goods from North West Company posts on the 
           <name type="place" key="Des Moines River">Des Moines</name>and 
@@ -410,7 +456,8 @@
           secure food supply was essential. So long as the 
           <name type="native_nation" key="Sioux Indians, Teton">Tetons</name>could control the
           flow of European goods to the villagers, the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>position would be reasonably strong. But if the villagers gained easy direct
           access to 
@@ -477,7 +524,8 @@
           horse-stealing raid on the 
           <name type="native_nation" key="Ponca Indians">Poncas</name>. In retaliation, 
           <name type="native_nation" key="Ponca Indians">Ponca</name>warriors stole nine 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>horses and attacked a 
           <name type="native_nation" key="Sioux Indians, Brulé or Bois Brule">Brulé</name>village.
@@ -491,7 +539,8 @@
           <name type="person" key="Partisan">Partisan</name>looked to use the talks to increase
           their own prestige. Playing to the Indian galleries, each chief would try to outdo the
           other in zealous defense of 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>privilege.</p>
                <p>Early on the morning of September 25, the expedition established a council place on a
@@ -508,14 +557,16 @@
           something to eat. Not to be outdone, the chiefs gave the expedition several hundred
           pounds of fat buffalo meat. 
           <name type="person" key="Clark, William">Clark</name>responded by offering the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>some pork. Both sides had now shown the required hospitality and it was time at
           last to talk. To their chagrin, the Americans discovered they lacked an interpreter
           skillful enough for this demanding task. The translator 
           <name type="person" key="Dorion, Pierre, Sr.">Pierre Dorion</name>had remained with the 
           <name type="native_nation" key="Sioux Indians, Yankton">Yankton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>to promote peace between that tribe and the 
           <name type="native_nation" key="Omaha Indians">Omahas</name>. 
@@ -545,7 +596,8 @@
           <name type="native_nation" key="Oto Indians">Otos</name>, 
           <name type="native_nation" key="Missouri Indians">Missouris</name>, and 
           <name type="native_nation" key="Sioux Indians, Yankton">Yankton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>.
           <ref target="n0213" n="13"/>The performance began with a military parade by uniformed
@@ -654,7 +706,8 @@
           now faced each other. The pointed and angry words they exchanged, passed through a very
           inadequate interpreter, reveal much about expedition-Indian relations and 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>policy. 
           <name type="person" key="Clark, William">Clark</name>told 
@@ -668,7 +721,8 @@
           verry positive terms." Those terms included a reminder that the expedition was sent by
           the Chief of the Seventeen Fires, whose warriors could be summoned in a moment to punish
           the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>. And in a burst of temper, 
           <name type="person" key="Clark, William">Clark</name>boasted that he had "more medicine
@@ -724,13 +778,15 @@
           <name type="person" key="Black Buffalo (Un-tongar-Sar-bar)">Black Buffalo</name>and his
           soldiers still on board, the keelboat sailed about five miles upriver. The shore was
           lined with 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>spectators closely watching the progress of the chiefs and the explorers. 
           <name type="person" key="Clark, William">Clark</name>noted that "these people Shew great
           anxiety." With the failure of the bluff-and-bluster tactics the day before and the
           expedition now moving upriver, perhaps many 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>feared they had lost the battle of wits and wills. Hoping to keep the expedition
           a bit longer, 
@@ -752,7 +808,8 @@
           <name type="person" key="Clark, William">Clark</name>remained on board. The 
           <name type="native_nation" key="Sioux Indians, Brulé or Bois Brule">Brulé</name>chief
           "appeared disposed to make up and be friendly." The 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>village the expedition saw that day must have been an impressive sight. 
           <name type="person" key="Ordway, John">Ordway</name>, one of the expedition's most
@@ -764,7 +821,8 @@
           <name type="person" key="Gass, Patrick">Gass</name>estimated that with about ten persons
           in each tepee the total village population was eight or nine hundred persons. 
           <name type="person" key="Gass, Patrick">Gass</name>thought that two-thirds of the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>in the village were women and children.
           <ref target="n0220" n="20"/>
@@ -777,14 +835,16 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>. 
           <name type="person" key="Gass, Patrick">Gass</name>reported back that 
           <name type="person" key="Lewis, Meriwether">Lewis</name>was well and that the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>were preparing a feast and dance to honor the Americans. That news was a clear
           indication of a shift in 
           <name type="native_nation" key="Sioux Indians, Brulé or Bois Brule">Brulé</name>tactics.
           If the whites could not be easily bluffed, they might be flattered and impressed by a
           show of 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>hospitality and military prowess. It was 
           <name type="person" key="Black Buffalo (Un-tongar-Sar-bar)">Black Buffalo's</name>turn
@@ -815,7 +875,8 @@
           <name type="native_nation" key="Sioux Indians, Brulé or Bois Brule">Brulé</name>elder
           stood "and Spoke aproveing what we had done." Because the captains still lacked a
           reliable 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>interpreter, they were uncertain about much of what the old man said. The import
           of his speech seemed to be that the 
@@ -859,7 +920,8 @@
           <name type="person" key="Black Buffalo (Un-tongar-Sar-bar)">Black Buffalo</name>was
           employing his oratorical talents to further the fundamental 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>aim—to keep the expedition from opening direct trade with the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>and other Upper 
@@ -872,7 +934,8 @@
           passed around the circle for all to smoke.</p>
                <p>Food was next on the evening agenda. The captains and their men were presented with
           all the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>delicacies, including platters of roast dog, buffalo, pemmican, and prairie
           turnips.
@@ -913,7 +976,8 @@
           <name type="person" key="Clark, William">Clark</name>left the 
           <name type="native_nation" key="Sioux Indians, Brulé or Bois Brule">Brulé</name>village,
           they were offered young women as bed partners. For the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>, the proposal combined hospitality and diplomacy. 
           <name type="person" key="Clark, William">Clark</name>understood the meaning of the
@@ -953,7 +1017,8 @@
           <name type="person" key="Partisan">Partisan</name>, and the "considerable man" 
           <name type="person" key="Warchapa">Warchapa</name>, returned to the keelboat. After
           about half an hour, the captains evidently thought it best that all return to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>village. When 
           <name type="person" key="Clark, William">Clark</name>began to suggest they go ashore,
@@ -974,7 +1039,8 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>arrived in the village and both
           captains enjoyed a display of the same dancing and ceremony as the previous night. And
           once again, on the way back to the keelboat, they were offered 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>women. As before, the offer was rejected.</p>
                <p>Tired by a full day of talking and visiting, the American party, along with the 
@@ -985,7 +1051,8 @@
           <name type="person" key="Clark, William">Clark</name>at once shouted at his men to get
           their oars in order to prevent further damage to either vessel. His shouting and the
           general bustle of men moving quickly in the darkness frightened the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>. An alarm ran through the village as 
           <name type="person" key="Black Buffalo (Un-tongar-Sar-bar)">Black Buffalo</name>spread
@@ -1008,7 +1075,8 @@
           the fear of 
           <name type="native_nation" key="Omaha Indians">Omaha</name>attack and the genuine desire
           of the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>to help the endangered vessels.
           <ref target="n0227" n="27"/>In light of 
@@ -1034,7 +1102,8 @@
           cable and a missing anchor.</p>
                <p>But the Americans also had reason to worry that night. Although 
           <name type="person" key="Clark, William">Clark</name>stressed the sudden arrival of 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>warriors as cause for alarm, it was probably intelligence brought to the captains
           by 
@@ -1048,17 +1117,20 @@
           <name type="person" key="Clark, William">Clark</name>"were to be stoped." The value of
           that information gathered from Indians who saw the 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>as enemies is now hard to judge. Certainly it fit the overall evaluation of 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>behavior held by the expedition. 
           <name type="person" key="Clark, William">Clark's</name>tense lines "we Shew as little
           signs of a Knowledge of their intentions as possible, all prepared on board for any
           thing which might happen, we kept a Strong guard all night in the boat, no Sleep" betray
           both fear of 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>military power and an exaggerated readiness to fight.
           <ref target="n0229" n="29"/>
@@ -1068,7 +1140,8 @@
           <name type="person" key="Clark, William">Clark</name>and their men had now been with the
           
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>for three days. Those were days filled with isolated moments of trouble and
           misunderstanding and long periods of friendly visiting and good company. The expedition
@@ -1084,7 +1157,8 @@
           <name type="native_nation" key="Sioux Indians, Brulé or Bois Brule">Brulé</name>chiefs
           both to advance their own prestige and to defend 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>economic interests. In the eyes of men like 
           <name type="person" key="Black Buffalo (Un-tongar-Sar-bar)">Black Buffalo</name>and the 
@@ -1098,7 +1172,8 @@
           far. If there was a bloody incident and Indian casualties were high, the chiefs would
           surely lose influence. Pressure tactics that proved effective in intimidating poorly
           armed traders who needed 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>cooperation would not work against a military expedition whose goals went far
           beyond the ledger book. It was against this background of cross purposes, face saving,
@@ -1108,7 +1183,8 @@
           <name type="place" key="James (Jacque) River (S. Dak.)">Bad River</name>that the last
           day of the 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>confrontation was played out.</p>
                <p>Much of Friday morning was spent in a fruitless search for the keelboat anchor. By
@@ -1227,7 +1303,8 @@
           <name type="place" key="Saint Louis, Mo.">St. Louis</name>traders, 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>did not have to stay with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>, trade with them, and depend on their cooperation. Subsequent 
           <name type="place" key="Saint Louis, Mo.">St. Louis</name>parties, from 
@@ -1236,11 +1313,13 @@
           <name type="person" key="Hunt, Wilson Price">Wilson Price Hunt's</name>Astorians, would
           find the 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>as intransigent as ever.</p>
                <p>The memory of the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>September was still fresh when 
           <name type="person" key="Clark, William">Clark</name>, writing from 
@@ -1252,10 +1331,12 @@
           <ref target="n0235" n="35"/>
                   <name type="person" key="Clark, William">Clark's</name>harsh words masked a harsher
           reality. The 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>talks had failed. The 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>were no closer to becoming part of the 
           <name type="place" key="Saint Louis, Mo.">St. Louis</name>trade network. No delegation
@@ -1274,10 +1355,12 @@
           party bound for 
           <name type="place" key="Saint Louis, Mo.">St. Louis</name>, the spring of 1805 was sure
           to encounter heavy 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>fire. 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>hostility might endanger not only 
           <name type="person" key="Warfington, Richard">Warfington's</name>men but the keelboat
@@ -1290,7 +1373,8 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>could say their efforts were
           inconclusive; at worst they may have exacerbated 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>-American relations.</p>
                <p>Nearly 150 years later, Bernard DeVoto voiced what has become historical wisdom about
@@ -1299,7 +1383,8 @@
           <name type="person" key="Clark, William">Clark</name>defeated the 
           <name type="native_nation" key="Sioux Indians, Teton">Tetons</name>, forced them to back
           down, and made them "women" in the eyes of their neighbors. Heaping abuse on the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>, he described 
           <name type="native_nation" key="Sioux Indians, Brulé or Bois Brule">Brulé</name>soldiers
@@ -1309,7 +1394,8 @@
           again."
           <ref target="n0237" n="37"/>But it was not the 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>who were defeated. Rather, it was American diplomacy that had been handed a
           stinging rebuff. As 
@@ -1317,7 +1403,8 @@
           <name type="person" key="Clark, William">Clark</name>recognized in their 1806 letter to
           the North West Company trader 
           <name type="person" key="Heney, Hugh">Hugh Heney</name>, the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>would always be a barrier to trade on the Upper 
           <name type="place" key="Missouri River">Missouri</name>"until some effectual measures be
@@ -1327,7 +1414,8 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>. In the next two decades, as
           English traders retreated from the prairies and plains and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>population grew, the 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>bands did indeed turn

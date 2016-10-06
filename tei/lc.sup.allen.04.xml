@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.lc.allen.04">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.sup.allen.04">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -40,7 +41,7 @@
             </availability>
          </publicationStmt>
           <sourceDesc>
-              <bibl></bibl>
+              <bibl/>
           </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -48,6 +49,22 @@
             <p/>
          </projectDesc>
       </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Supplements</term>
+            </keywords>
+            <keywords scheme="original" n="category">
+               <term>Texts</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change>
             <date>2005-11-23</date>
@@ -1420,7 +1437,8 @@
         account of this river should prove true on an investigation of it" (Thwaites, 
         <hi rend="italic">op. cit</hi>. [see footnote 6 above], Vol. 2, 382).</note>
             <note xml:id="n23" n="23">The river flowing from the east is the main branch of 
-        <name type="place" key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark
+        <name type="place"
+                     key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark
         Fork</name>of the 
         <name type="place" key="Columbia River">Columbia</name>, called the 
         <name type="place" key="Missoula, Mont.">Missoula</name>where it is joined by the 

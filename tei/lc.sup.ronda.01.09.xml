@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.lc.ronda.01.09">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.sup.ronda.01.09">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -59,6 +60,22 @@
             <p/>
          </projectDesc>
       </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Supplements</term>
+            </keywords>
+            <keywords scheme="original" n="category">
+               <term>Texts</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change>
             <date>2005-11-01</date>
@@ -128,14 +145,16 @@
           of organizing delegations of Indians to visit federal officials in 
           <name type="place" key="Washington D.C.">Washington</name>. Like intertribal peace, this
           accomplishment hinged on neutralizing "the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>menace." Finally, there were ethnographic tasks yet undone. In their hurry to
           reach the 
           <name type="place" key="Pacific Ocean">Pacific</name>, 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>had not carefully studied the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>people. Time spent with those Indians would allow the American ethnographers to
           record aspects of their life and culture.</p>
@@ -151,7 +170,8 @@
           Cascades</name>and 
           <name type="place" key="Columbia River, The Dalles of the (Great Narrows)">The
           Dalles</name>, and reach their horses at the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>villages before those Indians left for summer hunts. Delays caused by snow on the
           
@@ -200,7 +220,8 @@
           <name type="person" key="Clark, William">Clark</name>decided to remain at their camp on
           the north side of the river while laying in a supply of dried meat sufficient for the
           journey to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>. Such a halt would also afford 
           <name type="person" key="Clark, William">Clark</name>time to extend his search for the
@@ -375,7 +396,8 @@
           <name type="place" key="Columbia River, The Dalles of the (Great Narrows)">Long
           Narrows</name>, the explorers settled in to pursue portage and trade duties. Convinced
           that an overland route to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>villages would save considerable time, 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -467,16 +489,19 @@
           <name type="person" key="Clark, William">Clark</name>found the 
           <name type="native_nation" key="Tenino Indians">Eneershurs'</name>sales resistance
           lessening. But only two more horses were forthcoming. At prices double what 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshoni</name>
                   </ref>and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Flathead.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Flathead.html"
+                       rend="box">
                      <name type="native_nation" key="Flathead Indians">Flathead</name>
                   </ref>traders had asked, 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>must have wondered if the
           expedition's corral would ever hold enough horses for the journey to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>. 
           <name type="person" key="Clark, William">Clark</name>had not slept in two days; when he
@@ -546,7 +571,8 @@
           demanded tobacco, and made uncharitable remarks about his person. 
           <name type="person" key="Clark, William">Clark's</name>sole achievement was a chance
           meeting with a 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>man who lent him a horse and promised to guide the party on their overland route
           to the 
@@ -585,12 +611,14 @@
           Dalles</name>, the expedition marched along the north side of the 
           <name type="place" key="Columbia River">Columbia</name>through rocky, sandy country.
           Guided by the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>who had earlier offered his services to 
           <name type="person" key="Clark, William">Clark</name>and aided by the presence of an
           additional 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>family, the expedition headed toward the 
           <name type="native_nation" key="Walula Indians">Walulas</name>and their friendly chief 
@@ -611,7 +639,8 @@
           <name type="native_nation" key="Walula Indians">Walulas</name>symbolized the end of the 
           <name type="place" key="Columbia River">Columbia</name>passage. It also meant that the
           mountains were ahead, and a time with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>. 
           <name type="person" key="Yelleppit">Yelleppit's</name>village of fifteen large mat
@@ -627,7 +656,8 @@
           precious was information offered by the 
           <name type="native_nation" key="Walula Indians">Walulas</name>on the best way to reach
           the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>camps on the 
           <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater</name>.
@@ -674,7 +704,8 @@
           attempting a river crossing. Talks with the 
           <name type="native_nation" key="Walula Indians">Walulas</name>were simplified by the
           presence of a female 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshoni</name>
                   </ref>prisoner who provided the necessary translation link between 
           <name type="person" key="Sacagawea">Sacagawea</name>and the Sahaptian-speaking 
@@ -714,7 +745,8 @@
           <name type="place" key="Pataha Creek">Pataha Creek</name>east of present-day 
           <name type="place" key="Pomeroy, Wash.">Pomeroy</name>, 
           <name type="place" key="Washington">Washington</name>, the expedition met a 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>known to them as 
           <name type="person" key="Apash Wyakaikt">Wearkkoomt</name>. More properly named 
@@ -732,7 +764,8 @@
           were "very instrumental in procuring us a hospitable and friendly reception among those
           natives." Not even rain, snow, hail, and scanty rations could diminish what must have
           been the expedition's pleasure at knowing they would soon be with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>on the 
           <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater</name>.
@@ -746,7 +779,8 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>luck held and neither horse nor
           load was damaged. In the afternoon of May 4, the party arrived at the lodges of another 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>familiar from a year before. 
           <name type="person" key="Tetoharsky">Tetoharsky</name>, along with 
@@ -764,7 +798,8 @@
           <name type="person" key="Twisted Hair (Walamotinin)">Twisted Hair</name>had pastured the
           expedition's herd of horses. Knowing that more horses were close by may have improved
           morale, dampened by a night so cold and disagreeable that the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>huddled around 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -775,10 +810,12 @@
                <p>On the following day, May 5, the explorers plodded along the 
           <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater</name>.
           Their enquiries at 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>mat lodges for food found the larders nearly bare. And many 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>resented the way the strangers crowded into the lodges, disregarding both
           etiquette and their obvious poverty. But at one of the lodges 
@@ -787,13 +824,15 @@
           westbound journey, 
           <name type="person" key="Clark, William">Clark</name>had done a good deal of doctoring
           among the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>. One of those he had medicated had "never ceased to extol the virtues of our
           medicines and the skill of my friend 
           <name type="person" key="Clark, William">Captain Clark</name>as a phisician." Ointments
           and salves now proved powerful agents as dozens of ailing 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>began to line up for consultations with "their favorite phisician." 
           <name type="person" key="Lewis, Meriwether">Lewis</name>doubted the efficacy of 
@@ -801,11 +840,13 @@
           "this deception for they will not give us any provision without compensation in
           merchandize and our stock is now reduced to a mere handfull."</p>
                <p>Provisions, especially dog meat, were what the expedition desperately needed. The 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>did not usually eat dog and found it amusing that the explorers relished it. That
           amusement very nearly sparked a serious argument when a 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>prankster "very impertinently" threw a scrawny puppy toward 
           <name type="person" key="Lewis, Meriwether">Lewis</name>. Angered by the act and the
@@ -819,12 +860,14 @@
           <hi rend="italic">on dog</hi>" without further interruption.</p>
                <p>Later that afternoon, the expedition reached a large mat lodge measuring 15 by 156
           feet. Holding thirty families, this 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>long house was home to many in the band of 
           <name type="person" key="Cut Nose">Neeshneparkkeook, or Cutnose</name>, who had gotten
           his name as the result of a wound suffered in combat with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshonis</name>
                   </ref>. Although not especially impressed with either his physique or his intelligence,
           
@@ -832,19 +875,24 @@
           <name type="person" key="Clark, William">Clark</name>gave 
           <name type="person" key="Cut Nose">Cutnose</name>a small medal. Perhaps more important,
           the explorers met a 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshoni</name>
                   </ref>taken prisoner by the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>. With this man as translator, it was now possible to have direct talks with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>without relying on signs. The first piece of information that came from the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshoni</name>
                   </ref>translator was worrisome. He indicated that at least one 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>elder believed 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -859,14 +907,16 @@
           <name type="person" key="Clark, William">Clark's</name>eyewash were quickly butchered. 
           <name type="person" key="Clark, William">Clark</name>also had time to record accurate
           descriptions of 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>clothing, burial practices, and hunting techniques. But just beneath that travel
           routine was some very disturbing news, something beyond horses or diplomacy. Everyone in
           the party could now see that the 
           <name type="place" key="Bitterroot (Snow) Mountains">Bitterroots</name>were covered with
           snow, an observation confirmed by several 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>who reported, "The snow is yet so deep on the mountains that we shall not be able
           to pass them until after the next full moon or about the first of June." Describing this
@@ -906,7 +956,8 @@
           <name type="person" key="Twisted Hair (Walamotinin)">Twisted Hair</name>and 
           <name type="person" key="Cut Nose">Cutnose</name>on good terms might clear the air and
           make rounding up the horses much easier. Because the young 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshoni</name>
                   </ref>interpreter refused to take part in what he said was not his affair, 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -966,7 +1017,8 @@
           <name type="person" key="Cut Nose">Cutnose</name>had become a thing of the past. But
           against these good omens was the growing awareness that the expedition would be spending
           more time with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>than first anticipated. 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -983,10 +1035,12 @@
           <name type="person" key="Clark, William">Clark</name>finally came down to 
           <name type="place" key="Lawyer (Commearp) Creek">Lawyer's Canon Creek</name>and
           straggled into the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>settlement. Greeting them were an impressive 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>chief and his people, framed by a large mat lodge and an American flag left
           behind the previous year. Cold and hungry, 
@@ -998,7 +1052,8 @@
           horses as needed for fresh meat.</p>
                <p>While all this menu-planning was going on, the stage was being set for preliminary
           talks with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>. Those councils moved a step closer when an important chief 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -1019,7 +1074,8 @@
           <name type="person" key="Broken Arm">Broken Arm</name>and 
           <name type="person" key="Hohots Ilppilp">Hohots Ilppilp</name>were first given medals.
           Using their 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshoni</name>
                   </ref>interpreter, the explorers explained "the design and the importance of medals in
           the estimation of the whites as well as the red men who had been taught their value."
@@ -1034,7 +1090,8 @@
           <ref target="n0922" n="22"/>
                </p>
                <p>Early talks with 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>chiefs prepared the way for two days of serious diplomatic exchange on May 11 and
           12. If 
@@ -1042,12 +1099,14 @@
           <name type="person" key="Clark, William">Clark</name>were unsure of their agenda at 
           <name type="place" key="Fort Clatsop (Oreg.)">Fort Clatsop</name>, they were more
           certain of their negotiating priorities with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>and other plateau peoples. Participation in the American trade system,
           intertribal peace, and delegations of notables destined for the president's reception
           room were all on the list of subjects to be broached with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>. It was an agenda that 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -1058,7 +1117,8 @@
                <p>With the arrival of 
           <name type="person" key="Yoom-park-kar-tim">Yoomparkkartim (Five Big Hearts)</name>, "a
           chief of great note," all major 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>headmen in the immediate area were present. 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -1072,10 +1132,12 @@
           formal presentation. Although his remarks were short and uncomplicated, translations
           proved "tedious" as every word passed through English, French, 
           <name type="native_nation" key="Hidatsa Indians">Hidatsa</name>, 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshoni</name>
                   </ref>, and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>speakers. Half the day was taken up getting 
           <name type="person" key="Lewis, Meriwether">Lewis's</name>message across to the patient
@@ -1108,26 +1170,31 @@
           for talk and a ceremonial acceptance of a consensus that was ultimately binding on none.
           Throughout the morning of Monday, May 12, chiefs and elders spoke their minds in a
           council that eventually proved to have far-reaching consequences for the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>people. The 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>leaders assembled at 
           <name type="person" key="Broken Arm">Broken Arm's</name>village certainly understood
           what was at stake. By 1806 there were about four thousand 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>living in several autonomous bands. The predictable rhythms of their lives were
           increasingly challenged by the flood of firearms falling into the hands of 
           <name type="native_nation" key="Blackfeet Indians">Blackfeet</name>and 
           <name type="native_nation" key="Atsina Indians">Atsina</name>warriors. The 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>situation was similar to that of 
           <name type="person" key="Cameahwait">Cameahwait's</name>
                   <name type="native_nation" key="Shoshone Indians, Lemhi">Lemhi</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshonis</name>
                   </ref>. Both peoples desperately needed a place in the American trade system, if only
           to obtain guns and ammunition. In a plains and plateau world undergoing profound change,
@@ -1147,45 +1214,54 @@
           present formally their views to 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>. Because so many 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>required medical attention, the captains decided that 
           <name type="person" key="Clark, William">Clark</name>would spend the rest of the day
           doctoring while 
           <name type="person" key="Lewis, Meriwether">Lewis</name>pursued his diplomacy. The
           official orator for the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>was the elderly father of 
           <name type="person" key="Hohots Ilppilp">Hohots Ilppilp</name>, a man of considerable
           prestige and political skill. Declaring that the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>now spoke with one heart and one mind, the old speaker presented a perceptive,
           critical evaluation of American proposals and native needs. He agreed that peace with
           neighboring tribes had real advantages. As if to underscore the unity of American and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>policies, he reported that in the summer of 1805 a 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>delegation had gone to parley with 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshonis</name>
                   </ref>along the 
           <name type="place"
                         key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake
           River</name>. But those emissaries had been killed by 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshoni</name>
                   </ref>warriors and the resulting raid against the 
           <name type="place"
                         key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake
           River</name>people had counted forty-two 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshonis</name>
                   </ref>dead and only three 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>casualties. The blood of the slain peacemakers had been properly revenged and
           peace was now possible. But whether the old man meant peace as 
@@ -1196,27 +1272,32 @@
           unthinkingly assumed that "peace" meant the same thing on both sides of the cultural
           divide.</p>
                <p>As the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>leadership understood it, the real issue was trade and security. Access to guns
           symbolized their concern. Speaking to that complex matter, the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>orator declared that his people were willing to travel on to the 
           <name type="place" key="Missouri River">Missouri</name>plains for trade. However, no 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>was prepared to make such a trading journey unless there were solid assurances
           that 
           <name type="native_nation" key="Blackfeet Indians">Blackfeet</name>and 
           <name type="native_nation" key="Atsina Indians">Atsina</name>warriors were not lying in
           ambush along the trail. All of this meant arming the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>and making peace with those plains warriors already well armed by Canadian
           traders. That these two objectives were mutually exclusive may have been evident to some
           
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>but not to 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -1224,7 +1305,8 @@
           everlasting friendship to the Americans, saying that although the bands were poor,
           "their hearts were good." There may have been plenty of "good hearts" in evidence, but
           what the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>really wanted were guns. As for a delegation to the Federal City, that issue was
           unresolved. If the Americans could deliver weapons, then perhaps a long journey to see
@@ -1238,7 +1320,8 @@
           <name type="person" key="Clark, William">Clark</name>continued his medical
           ministrations. But in all this play and good feeling, there was one activity that
           especially fascinated many 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>warriors. Firing rifles at targets drew their attention. The presence of native
           visitors on the weapons range was a clear indication of what lay behind so much of the
@@ -1254,7 +1337,8 @@
                   <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>believed that their major
           diplomatic objectives with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>had been accomplished. After the talks, they were increasingly concerned with the
           problem of deep snows in the 
@@ -1263,7 +1347,8 @@
           <name type="place" key="Lolo Trail">Lolo Trail</name>would not be passable for at least
           another month. Any hope of a quick passage over the mountains was now gone. A site had
           to be found for a camp among the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>, and arrangements had to be made for guides once the trail was open. 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -1295,7 +1380,8 @@
           a welcome at 
           <name type="place" key="Camp Chopunnish (Idaho)">Camp Chopunnish</name>than at 
           <name type="place" key="Fort Clatsop (Oreg.)">Fort Clatsop</name>. Contacts with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>ranged from trade and medicine to sport and sex. As they waited for snows to melt
           up in the 
@@ -1304,17 +1390,20 @@
                <p>Despite the best efforts of expeditionary hunters led by 
           <name type="person" key="Drouillard, George">George Drouillard</name>, it was plain by
           early May that a reliable trade in foodstuffs had to be established with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>villages. It was this trade that most often provided common ground for explorer
           and Indian. What to offer for stocks of camas and cous roots and the much-sought-after
           cous bread proved a serious problem. 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>tastes in trade goods did not run to "baubles," as 
           <name type="person" key="Lewis, Meriwether">Lewis</name>called them. Beads, armbands,
           and other luxury items failed to attract much attention. The practical 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>sought knives, kettles, blankets, and moccasin awls. But the expedition's
           supplies of those tools and utensils were short, and if 
@@ -1327,7 +1416,8 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>organized trading parties to visit
           the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>villages. Typical of those ventures was the first mission to 
           <name type="person" key="Broken Arm">Broken Arm's</name>village. 
@@ -1340,7 +1430,8 @@
           "our marketers" returned near dark with six bushels of roots and bread. On May 20, 
           <name type="person" key="Frazer, Robert">Frazer</name>was sent on the second trade
           foray. He reported that the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>were apparently ready to depart from their usual utilitarian demands and might be
           wooed with brass uniform buttons. Buttons promptly vanished from the expedition's
@@ -1360,16 +1451,19 @@
           along the 
           <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater</name>.
           Trading was often difficult as 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>folk soon learned that the laws of supply and demand favored them. 
           <name type="person" key="Gass, Patrick">Gass</name>admitted that roots and bread could
           only be bought "at a very dear rate." Hardpressed to meet 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>business demands, some men ingeniously fashioned moccasin awls from small links
           of a discarded chain. The 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>trade was not only difficult but dangerous as well. When 
           <name type="person" key="Charbonneau, Toussaint">Charbonneau</name>and 
@@ -1407,7 +1501,8 @@
                </p>
                <p>By the first days of June, the expedition's stocks of trade items were nearly gone.
           High prices, accidents, and continued poor hunting made business with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>increasingly difficult and jeopardized the explorers along the 
           <name type="place" key="Lolo Trail">Lolo Trail</name>. "Having exhausted all our
@@ -1446,7 +1541,8 @@
                <p>Throughout the first week of June, 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>continued to pursue the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>trade. Believing that snows would be sufficiently melted within the next two
           weeks, the explorers redoubled their efforts to stockpile food for the mountain passage.
@@ -1465,7 +1561,8 @@
           <ref target="n0931" n="31"/>The remaining trade centered on obtaining ropes for
           packsaddles, skin bags to hold provisions, and animal hair for saddle pads.</p>
                <p>That the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>continued to have "good hearts" toward their 
           <name type="place" key="Camp Chopunnish (Idaho)">Camp Chopunnish</name>neighbors was the
@@ -1473,12 +1570,14 @@
           of trade goods, especially guns and ammunition, and some lessening of tensions with
           plains raiders clearly shaped the Indians' behavior. Only slightly less important for
           expedition–
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>relations were the medical services 
           <name type="person" key="Clark, William">Clark</name>provided to countless Indian men,
           women, and children. Just how interested the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>were in his doctoring was evident even before 
           <name type="place" key="Camp Chopunnish (Idaho)">Camp Chopunnish</name>was established.
@@ -1487,7 +1586,8 @@
           during the westbound journey "raised my reputation and gives those nativs an exolted
           oppinion of my skill a a phisician." Quickly realizing that much of their future comfort
           and security depended on 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>good will, the explorers were willing to continue the "deception" of 
           <name type="person" key="Clark, William">Clark</name>as the great healer. But 
@@ -1498,7 +1598,8 @@
           <ref target="n0932" n="32"/>
                </p>
                <p>As the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>' "favorite phisician," 
           <name type="person" key="Clark, William">Clark</name>had a waiting room filled with
@@ -1515,7 +1616,8 @@
           <name type="person" key="Clark, William">Clark</name>also administered back rubs and on
           at least one occasion performed minor surgery on festering abscess. The fact that a
           party of 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>once spent two days in the saddle to obtain some of 
           <name type="person" key="Clark, William">Clark's</name>famous eyewash is a reminder of
@@ -1524,7 +1626,8 @@
           <ref target="n0933" n="33"/>
                </p>
                <p>Of all the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>cases seen by 
           <name type="person" key="Clark, William">Clark</name>, none was more dramatic or as
@@ -1549,7 +1652,8 @@
           <name type="person" key="Clark, William">Clark</name>learned the difference between
           successful diagnosis and effective therapy. The explorers were especially eager to
           provide good care for the chief. Success in treatment would further insure 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>hospitality and support. But in a case as complex as this, they were quite unsure
           how to proceed. Notions about diet as the root cause of the man's immobility offered
@@ -1601,7 +1705,8 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>in this difficult case reenforced
           the positive image of the explorers in the minds of many 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>.
           <ref target="n0937" n="37"/>
@@ -1611,20 +1716,23 @@
           <name type="person" key="Clark, William">Clark</name>still found time to record
           something about the lives of their Indian hosts. As had become the rule in their
           ethnography, the explorers paid most attention to 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>material culture. In references scattered throughout the 
           <name type="place" key="Camp Chopunnish (Idaho)">Camp Chopunnish</name>entries, 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>commented on a variety of topics.
           Eating habits, domestic architecture, hunting techniques, and the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>passion for fine horses all found a place in their records. Clothing, saddles,
           and weapons were duly noted and described. Attitudes about old age, the protocol of
           diplomacy, and the custom of sacrificing horses at the death of a prominent person made
           the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>come alive in the journals. And the explorers took time to set down one vivid
           aural impression of native life. "The noise of their women pounding roots reminds me of
@@ -1642,7 +1750,8 @@
           strongly suggesting that the Americans stood "at ease" among the 
           <name type="place" key="Clearwater (Flathead, Kooskooskee) River">
           Clearwater</name>people. Finding much to admire in 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>customs, hospitality, and physique, 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -1660,15 +1769,18 @@
                </p>
                <p>Even more elusive are the facts about sexual relations between men in the expedition
           and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>women. Among the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>, there were no strong sanctions for or against sex with whites. These plateau
           people used sex neither to seal trade bargains nor to gain spiritual power. The
           expedition's records during the winters with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>and the 
           <name type="native_nation" key="Clatsop Indians">Clatsops</name>are filled with the
@@ -1679,17 +1791,20 @@
           roots took place during those early spring days. Sex usually made for good copy in the
           journals when it involved disease, personal trouble, or cultural misunderstanding. Since
           relations with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>were amiable, whatever personal encounters took place may well have been mutually
           satisfactory.</p>
                <p>Perhaps the most intriguing piece of evidence to suggest the presence of such
           liaisons is a photograph taken by the noted western cameraman William H. Jackson. Before
           the 1877 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>War, Jackson encountered a 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>band and was introduced to a blue-eyed, sandy-haired man claiming to be 
           <name type="person" key="Clark, William">William Clark's</name>son. Sufficiently
@@ -1698,14 +1813,16 @@
           <name type="place" key="Clearwater (Flathead, Kooskooskee) River">
           Clearwater</name>persisted, and when Chief Joseph's band surrendered to General Nelson
           Miles in 1877, one of the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>prisoners was pointed out as 
           <name type="person" key="Clark, William">Clark's</name>son. Although in no way
           conclusive, the story does reveal the continued positive reputation of 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>among the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>well into the nineteenth century. Whether this particular man was indeed 
           <name type="person" key="Clark, William">Clark's</name>son or the child of another white
@@ -1722,13 +1839,15 @@
           Despite long months of travel and often irregular diets, most remained in good
           condition. Their frontier and military backgrounds were filled with demanding physical
           conditioning as well as a tradition of competitive sports. The 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>men equally admired strong bodies and tests of skill and strength. Early in June,
           as the expedition prepared to leave camp, the explorers and Indians staged an impromptu
           series of athletic contests. There had already been some target shooting, and now foot
           races were added to the schedule. Matched against a 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>team that 
           <name type="person" key="Lewis, Meriwether">Lewis</name>admitted was "very active" were
@@ -1753,11 +1872,13 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>certainly believed that most of the
           American proposals had been accepted, some issues had not yet received formal 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>replies. Those included the expedition's requests for guides beyond the
           mountains, a 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>group to accompany 
           <name type="person" key="Lewis, Meriwether">Lewis</name>at least partway in his journey
@@ -1781,13 +1902,15 @@
           declaring that his hunters would not venture beyond the 
           <name type="place" key="Bitterroot (Snow) Mountains">Bitterroots</name>until late in the
           summer. He hinted that there was little hope for a 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>delegation to go with 
           <name type="person" key="Lewis, Meriwether">Lewis</name>. Although none of the chief's
           replies spelled defeat for American diplomacy, they did reveal a certain prudent
           wariness. The 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>wanted American guns and the security they promised, but there were always those
           cries of fearful women to counsel caution.
@@ -1810,7 +1933,8 @@
           second chance to explain federal policy might change some minds, he was wrong. 
           <name type="person" key="Broken Arm">Broken Arm</name>repeated what he had said two days
           before: no large number of 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>were about to accompany the expedition. The request for some warrior-diplomats to
           foster intertribal peace on the 
@@ -1821,14 +1945,17 @@
           <name type="person" key="Clark, William">Clark</name>to think the whole notion of peace
           with neighbors was now in doubt. The chief explained that, as a result of recent
           contacts with 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshonis</name>
                   </ref>who desired peace with 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>and 
           <name type="native_nation" key="Cayuse Indians">Cayuse</name>bands, a 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>delegation had been sent toward the 
           <name type="place"
@@ -1838,15 +1965,18 @@
           peace and to emphasize his good intentions presented 
           <name type="person" key="Clark, William">Clark</name>two ceremonial pipes—one a
           traditional 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>pipe for the explorers and the other a fancy plains pipe with silver inlays for
           the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshonis</name>
                   </ref>. Knowing the significance of those pipes, 
           <name type="person" key="Clark, William">Clark</name>decorated the one destined for the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshonis</name>
                   </ref>with blue ribbon and white wampum to symbolize a mutual desire for peace. As he
           made his way back to camp, 
@@ -1866,7 +1996,8 @@
           <name type="place" key="Bitterroot (Snow) Mountains">Bitterroots</name>. The
           expedition's timetables called for a quick journey over the mountains. A long stay with
           the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>, no matter how pleasant, seriously endangered the homeward voyage. By the middle
           of May, both captains were looking for any sign to prove that the 
@@ -1881,7 +2012,8 @@
           makes life esteemable—patience, patience." 
           <name type="person" key="Lewis, Meriwether">Lewis</name>might well have counseled
           patience for himself and the whole party. Both 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>and expedition hunters reported deep snows that might not melt until at least
           mid-June.
@@ -1893,7 +2025,8 @@
           <name type="person" key="Clark, William">Clark</name>felt certain that their food stocks
           were sufficient to meet any challenge on the trail. But two days later, all those hopes
           and plans suffered an unexpected setback. A 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>reported that the trail beyond 
           <name type="place" key="Weippe Prairie (Camas Flats, Quawmash Flats)">Weippe
@@ -1904,7 +2037,8 @@
           disagreeable inasmuch as it causes some doubt as to the time at which it will be proper
           for us to set out." A hurried and anguished meeting to discuss tactics must have
           followed that unwelcome 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>road report. When 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -1992,7 +2126,8 @@
           <name type="place" key="Weippe Prairie (Camas Flats, Quawmash Flats)">Weippe
           Prairie</name>, the expedition's fortunes took an upward turn. 
           <name type="person" key="Drouillard, George">Drouillard</name>brought three 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>guides into camp. In return for guns and ammunition, these men promised to direct
           the explorers at least as far as 
@@ -2000,22 +2135,27 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>were told that a peace had been
           arranged between 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>, 
           <name type="native_nation" key="Walula Indians">Walula</name>, and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshoni</name>
                   </ref>bands. But news about fresh engagements with 
           <name type="native_nation" key="Atsina Indians">Atsina</name>warriors was troubling. The
           
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>guides claimed that hostile raiders had recently killed many 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshonis</name>
                   </ref>and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Flathead.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Flathead.html"
+                       rend="box">
                      <name type="native_nation" key="Flathead Indians">Flatheads</name>
                   </ref>. Those deaths added both danger and urgency to 
           <name type="person" key="Lewis, Meriwether">Lewis's</name>diplomacy on the 
@@ -2023,7 +2163,8 @@
           <ref target="n0949" n="49"/>
                </p>
                <p>Led by experienced 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>, the expedition made a safe and swift passage over those tremendous mountains.
           By June 29 the explorers were at the 
@@ -2057,7 +2198,8 @@
           <name type="place" key="Yellowstone River">Yellowstone</name>.</p>
                <p>Although 
           <name type="person" key="Lewis, Meriwether">Lewis's</name>Blackfeet adventure on the 
-          <name type="place" key="Two Medicine River (Main or South Branch Marias River)">Two
+          <name type="place"
+                        key="Two Medicine River (Main or South Branch Marias River)">Two
           Medicine River</name>was more dramatic than anything 
           <name type="person" key="Clark, William">Clark</name>undertook, 
           <name type="person" key="Clark, William">Clark's</name>assignment was every bit as
@@ -2089,20 +2231,23 @@
           <name type="place" key="Lolo (Travelers' Rest) Creek (Mont.)">Travelers' Rest</name>.
           Thinking about the complex diplomacy ahead with 
           <name type="place" key="Missouri River">Missouri River</name>villagers and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>bands, 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>decided that the Nor'Wester 
           <name type="person" key="Heney, Hugh">Hugh Heney</name>might prove a valuable ally in
           the struggle either to win or to cow the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>. In a long letter to 
           <name type="person" key="Heney, Hugh">Heney</name>, the explorers offered him the office
           of Indian agent. More specifically, the captains wanted the trader to use his influence
           to wean 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>chiefs away from British merchants like Murdoch Cameron and bring them into the 
           <name type="place" key="Saint Louis, Mo.">St. Louis</name>trade system. At the same
@@ -2116,7 +2261,8 @@
           <name type="person" key="Heney, Hugh">Heney</name>to employ every means to pacify or at
           least neutralize 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>power. So long as the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>choked traffic from 
           <name type="place" key="Saint Louis, Mo.">St. Louis</name>, the American fur trade would
@@ -2126,7 +2272,8 @@
           <name type="person" key="Heney, Hugh">Heney</name>that American Indian policy was based
           on peace and reconciliation. But the iron fist of coercion was undisguised in the
           letter. If the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>did not allow passage of American trade goods, 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -2136,7 +2283,8 @@
           bands of Savages who be so illy advised as to refuse her profered friendship and
           continue their depridation on her citizens who may in future assend or decend the
           river." The captains' claims that 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>warriors amounted to "comparatively feeble bands of Savages" would have surprised
           men like 
@@ -2157,7 +2305,8 @@
           <name type="native_nation" key="Blackfeet Indians">Blackfeet</name>and 
           <name type="native_nation" key="Atsina Indians">Atsina</name>territories was risky, but
           when his 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
                   </ref>guides left him and warned that the "Pahkees" would "cut us off," the full weight
           of that danger came home. Two days later, when 
@@ -2206,7 +2355,8 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>rode with the 
           <name type="person" key="Field, Joseph and Reubin">Field brothers</name>while 
           <name type="person" key="Drouillard, George">Drouillard</name>scouted the 
-          <name type="place" key="Two Medicine River (Main or South Branch Marias River)">Two
+          <name type="place"
+                        key="Two Medicine River (Main or South Branch Marias River)">Two
           Medicine River</name>valley. At midafternoon, as 
           <name type="person" key="Lewis, Meriwether">Lewis</name>forded 
           <name type="place" key="Badger Creek (Mont.)">Badger Creek</name>and came up a sharp
@@ -2214,7 +2364,8 @@
           captain quickly drew out his small telescope for a closer look. He saw "a very
           unpleasant sight." Standing out against the afternoon sky were several Indians looking
           intently down toward the 
-          <name type="place" key="Two Medicine River (Main or South Branch Marias River)">Two
+          <name type="place"
+                        key="Two Medicine River (Main or South Branch Marias River)">Two
           Medicine River</name>valley and its cottonwood fringe. These Indians were so fixed on
           watching 
           <name type="person" key="Drouillard, George">Drouillard</name>that they did not appear
@@ -2289,7 +2440,8 @@
           supplies were with 
           <name type="person" key="Drouillard, George">Drouillard</name>who was still down along
           the 
-          <name type="place" key="Two Medicine River (Main or South Branch Marias River)">Two
+          <name type="place"
+                        key="Two Medicine River (Main or South Branch Marias River)">Two
           Medicine</name>. While one Indian joined 
           <name type="person" key="Field, Reubin">Reuben Field</name>to find 
           <name type="person" key="Drouillard, George">Drouillard</name>, 
@@ -2319,7 +2471,8 @@
           by loose, slippery gravel, the explorers and their nervous 
           <name type="native_nation" key="Blackfeet Indians">Blackfeet</name>hosts made their way
           to three solitary cottonwood trees near the 
-          <name type="place" key="Two Medicine River (Main or South Branch Marias River)">Two
+          <name type="place"
+                        key="Two Medicine River (Main or South Branch Marias River)">Two
           Medicine River</name>.</p>
                <p>At those trees which still stand near the river, the 
           <name type="native_nation" key="Blackfeet Indians">Blackfeet</name>put up a makeshift
@@ -2363,10 +2516,12 @@
           geo-political bombshell by declaring that the 
           <name type="native_nation" key="Blackfeet Indians">Blackfeet's</name>traditional
           enemies—the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_NezPerce.html"
+                       rend="box">
                      <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>
                   </ref>, 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshonis</name>
                   </ref>, and 
           <name type="native_nation" key="Kutenai Indians">Kutenais</name>—were now united by an
@@ -2377,7 +2532,8 @@
           <name type="native_nation" key="Blackfeet Indians">Blackfeet</name>would receive such
           news with glad hearts and then join an American alliance, he gravely misjudged western
           realities. That night along the 
-          <name type="place" key="Two Medicine River (Main or South Branch Marias River)">Two
+          <name type="place"
+                        key="Two Medicine River (Main or South Branch Marias River)">Two
           Medicine</name>the explorer, in effect, announced the clash of empires had come to the 
           <name type="native_nation" key="Blackfeet Indians">Blackfeet</name>. After more than
           twenty years of unchallenged power on the plains made possible by Canadian guns, the 
@@ -2494,7 +2650,8 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>, "I felt the wind of his bullet
           very distinctly."</p>
                <p>As quickly as the 
-          <name type="place" key="Two Medicine River (Main or South Branch Marias River)">Two
+          <name type="place"
+                        key="Two Medicine River (Main or South Branch Marias River)">Two
           Medicine</name>fight had exploded in two deaths, it was over. Whatever the combatants on
           both sides felt about each other, all were united by a common desire—to escape as
           quickly as possible. Fleeing north, the six surviving 
@@ -2519,7 +2676,8 @@
           <ref target="n0957" n="57"/>
                </p>
                <p>What remained now was to escape the 
-          <name type="place" key="Two Medicine River (Main or South Branch Marias River)">Two
+          <name type="place"
+                        key="Two Medicine River (Main or South Branch Marias River)">Two
           Medicine</name>killing ground. Ahead lay two full days of hard riding over broken ground
           to reach 
           <name type="person" key="Ordway, John">Ordway's</name>party on the 
@@ -2529,11 +2687,13 @@
           our canoes coming down." 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and his tired companions left
           behind at the 
-          <name type="place" key="Two Medicine River (Main or South Branch Marias River)">Two
+          <name type="place"
+                        key="Two Medicine River (Main or South Branch Marias River)">Two
           Medicine</name>the seed of a myth that has long shaped popular understanding of the 
           <name type="native_nation" key="Blackfeet Indians">Blackfeet</name>fight. That myth
           links the 
-          <name type="place" key="Two Medicine River (Main or South Branch Marias River)">Two
+          <name type="place"
+                        key="Two Medicine River (Main or South Branch Marias River)">Two
           Medicine</name>encounter with later 
           <name type="native_nation" key="Blackfeet Indians">Blackfeet</name>-American
           hostilities. As the story goes, the violence directed against American fur traders in
@@ -2580,7 +2740,8 @@
           American traders comes from something 
           <name type="person" key="Lewis, Meriwether">Lewis</name>himself said that July night
           around the fire along the 
-          <name type="place" key="Two Medicine River (Main or South Branch Marias River)">Two
+          <name type="place"
+                        key="Two Medicine River (Main or South Branch Marias River)">Two
           Medicine</name>. After telling the 
           <name type="native_nation" key="Blackfeet Indians, Piegan">Piegans</name>that their
           traditional enemies had been united in a peace promoted by American diplomats, 
@@ -2598,10 +2759,12 @@
           member of the expedition, 
           <name type="native_nation" key="Colter, John">John Colter</name>, joined in an 1808
           battle with 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Crow.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Crow.html"
+                       rend="box">
                      <name type="native_nation" key="Crow Indians">Crow</name>
                   </ref>and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Flathead.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Flathead.html"
+                       rend="box">
                      <name type="native_nation" key="Flathead Indians">Flathead</name>
                   </ref>warriors against the 
           <name type="native_nation" key="Blackfeet Indians">Blackfeet</name>, the message was not
@@ -2633,7 +2796,8 @@
           <name type="place" key="Yellowstone River">Yellowstone</name>, the plan for 
           <name type="person" key="Pryor, Nathaniel Hale">Pryor</name>to carry a letter to 
           <name type="person" key="Heney, Hugh">Hugh Heney</name>had misfired when 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Crow.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Crow.html"
+                       rend="box">
                      <name type="native_nation" key="Crow Indians">Crow</name>
                   </ref>Indians stole expedition horses, and 
           <name type="person" key="Lewis, Meriwether">Lewis</name>had been wounded in a freak
@@ -2642,7 +2806,8 @@
           <name type="place" key="Yellowstone River">Yellowstone</name>, the company was whole
           again. What remained of its Indian business was the same thorny problem that had
           occupied so much time during the winter with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
           Mandans</ref>. Establishing peace among 
           <name type="native_nation" key="Mandan Indians">Mandan</name>, 
           <name type="native_nation" key="Hidatsa Indians">Hidatsa</name>, and 
@@ -2651,7 +2816,8 @@
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>had not abandoned their commitment
           to a villager alliance aimed at eliminating or reducing 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>influence. The explorers thought they had successfully planted the seeds of that
           policy during their first winter. In truth, the alliance and the tactics to execute it
@@ -2703,14 +2869,16 @@
           <name type="person" key="Black Cat (Posecopsahe)">Black Cat</name>agreed with such a
           journey would be important but insisted that the price in danger exacted by 
           <name type="person" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>warriors was too high. It was just those kinds of fears that 
           <name type="person" key="Clark, William">Clark</name>sought to allay. Claiming more
           power than either the expedition or the United States actually had, he told 
           <name type="person" key="Black Cat (Posecopsahe)">Black Cat</name>that the Americans
           "would not suffer those Indians [the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>] to hurt any of our red children who should think proper to accompany us." Bent
           on making promises even more difficult to keep, 
@@ -2744,16 +2912,19 @@
           and whites. He showed some passing interest in making the long trip to 
           <name type="place" key="Washington D.C.">Washington</name>but insisted that dangers
           posed by the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>made the journey far too harzardous. "The 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>were in the road," he said, "and would most certainly kill him or any others who
           should go down." Suddenly turning the negotiating tables, the chief observed that the
           American claim to have brought peace to the 
           <name type="place" key="Missouri River">Missouri</name>was not true. 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>warriors had recently killed eight 
           <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>and taken some horses.
@@ -2764,11 +2935,13 @@
           
           <name type="person" key="Le Borgne (One Eye)">Le Borgne</name>boasted that he had done
           much better. The chief had recently negotiated a complex trade agreement with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyennes</name>
                   </ref>. When the Americans pacified the 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>, then 
           <name type="person" key="Le Borgne (One Eye)">Le Borgne</name>might consider a visit to
@@ -2786,7 +2959,8 @@
           men again shared a pipe, 
           <name type="person" key="Black Cat (Posecopsahe)">Black Cat</name>broke the news 
           <name type="person" key="Clark, William">Clark</name>most feared. Because "the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>were still very troublesom," not a single prominent man was willing to risk a 
           <name type="place" key="Missouri River">Missouri</name>voyage. 
@@ -2806,7 +2980,8 @@
           heads. 
           <name type="person" key="Black Cat (Posecopsahe)">Black Cat</name>broke the painful
           silence and admitted that fear of 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>ambushes and reprisal made it impossible for anyone to accompany the expedition.
           At last 
@@ -2846,16 +3021,19 @@
           against 
           <name type="person" key="Cameahwait">Camehwait's</name>
                   <name type="native_nation" key="Shoshone Indians, Lemhi">Lemhi</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshonis</name>
                   </ref>and the 
-          <name type="place" key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
+          <name type="place"
+                        key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
           River</name>
                   <name type="native_nation" key="Arikara Indians">Arikaras</name>. Such news plainly
           demonstrated the fragile character of any villager alliance. Even more worrisome,
           continued 
           <name type="native_nation" key="Hidatsa Indians">Hidatsa</name>forays against the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Shoshoni.html"
+                       rend="box">
                      <name type="native_nation" key="Shoshone Indians">Shoshonis</name>
                   </ref>and other potential American allies could only subvert and discredit diplomatic
           efforts made over the past two years. A symbolic gesture in the form of a 
@@ -2897,7 +3075,8 @@
           must have been painfully familiar to all the explorers. The 
           <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>wanted to see the great
           father, but so long as the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>stood in the way such a trip was impossible. But 
           <name type="person" key="Cherry Grows on a Bush (Caltarcota)">Caltarcota</name>had more
@@ -2908,7 +3087,8 @@
           <name type="native_nation" key="Arikara Indians">Arikara</name>peace and lessening of
           tensions with the 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>in 1804, and nothing he had heard since had changed his mind. Raids against
           enemies were both strategically wise and culturally necessary. The 
@@ -2996,13 +3176,15 @@
           <name type="person" key="Clark, William">Clark</name>. The explorers simply could not
           comprehend the intricate relationship between 
           <name type="native_nation" key="Arikara Indians">Arikara</name>farmers and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>hunters. In the eyes of the explorers, the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>should have been willing
           recruits in the struggle against 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>power. That 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>and Arikara warriors continued to carry out joint raids against 
           <name type="native_nation" key="Mandan Indians">Mandan</name>and 
@@ -3010,7 +3192,8 @@
           How could the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>pursue a policy that
           further bound them to their 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>oppressors? 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
@@ -3021,7 +3204,8 @@
           <name type="person" key="Big White (Sheheke)">Sheheke</name>, might at last end the
           raids that fueled endless hostilities.</p>
                <p>By the morning of August 21, the expedition was at the 
-          <name type="person" key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
+          <name type="person"
+                        key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand
           River</name>and the Arikara villages. After exchanging volleys of shots in greeting, the
           Americans landed opposite the upper village of 
           <name type="place" key="Waho-erha village">Waho-erha</name>. While securing their
@@ -3029,13 +3213,15 @@
           above the 
           <name type="native_nation" key="Arikara Indians">Arikara</name>towns. Those tepees
           belonged to 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyennes</name>
                   </ref>who regularly traded for 
           <name type="native_nation" key="Arikara Indians">Arikara</name>corn. 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>had met individual 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyennes</name>
                   </ref>during the 
           <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name>winter, but now there
@@ -3043,7 +3229,8 @@
           <name type="person" key="Clark, William">Clark</name>was greeted by a crowd of friendly
           and inquisitive 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>and 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyennes</name>
                   </ref>.</p>
                <p>Without further ceremony, 
@@ -3067,29 +3254,34 @@
           <name type="person" key="Grey Eyes">Grey Eyes</name>, 
           <name type="person" key="Clark, William">Clark</name>again emphasized the need for peace
           with neighbors and unity against the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>. The 
           <name type="native_nation" key="Arikara Indians">Arikara</name>chief than delivered a
           "very animated" speech, filled with rhetorical sound and fury denouncing the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>as "bad people." But the sharp words were intended to please 
           <name type="person" key="Clark, William">Clark</name>and did not signify any change in 
           <name type="native_nation" key="Arikara Indians">Arikara</name>policy. 
           <name type="person" key="Grey Eyes">Grey Eyes</name>certainly wished that the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>might be less troublesome at market times, but he was not about to alienate so
           strong and important a customer in order to please untested whites.</p>
                <p>As the day grew hotter and the diplomacy less successful, 
           <name type="person" key="Clark, William">Clark</name>was grateful when a 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyenne</name>
                   </ref>chief invited him to enjoy the shade of a tepee. Making little progress with the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>, the captain hoped for
           better with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyennes</name>
                   </ref>. After smoking with the chief, 
           <name type="person" key="Clark, William">Clark</name>offered him a small peace medal. It
@@ -3100,13 +3292,15 @@
           <name type="person" key="Clark, William">Clark</name>convinced the chief that flags and
           medals were signs of status and prestige, not carriers of disease and death. As things
           fell out, American diplomacy proved more successful with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyennes</name>
                   </ref>than the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>. Just before leaving
           the villages on August 22, 
           <name type="person" key="Clark, William">Clark</name>was approached by several 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyenne</name>
                   </ref>chiefs who asked that American traders be sent among them to teach proper
           trapping techniques. That was the kind of request to gladden the heart of any 
@@ -3114,24 +3308,28 @@
           <ref target="n0965" n="65"/>
                </p>
                <p>But 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyenne</name>
                   </ref>requests were still in the future as 
           <name type="person" key="Big White (Sheheke)">Sheheke</name>, who had accompanied 
           <name type="person" key="Clark, William">Clark</name>to the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyenne</name>
                   </ref>camp, offered a long discourse on villager tensions—a diatribe that contained
           more self-justification than serius analysis. The 
           <name type="native_nation" key="Mandan Indians">Mandan's</name>torrent of invective was
           finally checked when the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyenne</name>
                   </ref>chief caustically observed that all the village folk shared a measure of blame.
           Never one to miss a chance to press the fundamentals of American Indian policy, 
           <name type="person" key="Clark, William">Clark</name>again insisted that "if they wished
           to be happy they must shake off all intimecy with the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>and unite themselves in a strong alliance and attend to what he had told them."
           But, as before, American proposals got no more than token assent.</p>
@@ -3139,7 +3337,8 @@
           <name type="person" key="Big White (Sheheke)">Sheheke</name>and his family. They were
           constant reminders of all the blows and strikes the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>and the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>had exchanged over the years. Resentment finally exploded late in the evening. 
           <name type="person" key="Big White (Sheheke)">Sheheke</name>found himself embroiled in
@@ -3156,7 +3355,8 @@
           <name type="person" key="Clark, William">Clark</name>finished the evening hearing 
           <name type="person" key="One Arm">One Arm</name>and the other chiefs swear peace toward
           the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Mandan.html"
+                       rend="box">
                      <name type="native_nation" key="Mandan Indians">Mandans</name>
                   </ref>and loyalty to the United States.
           <ref target="n0966" n="66"/>
@@ -3170,12 +3370,14 @@
           <name type="native_nation" key="Arikara Indians">Arikara</name>leaders themselves again
           told 
           <name type="person" key="Clark, William">Clark</name>how dependent they were on the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
                      <name type="native_nation" key="Sioux Indians">Sioux</name>
                   </ref>for guns and ammunition. Those were facts that not even the most adept diplomat
           could shape to fit an American mold. Except for the interest in the fur trade shown by
           the 
-          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html" rend="box">
+          <ref target="http://lewisandclarkjournals.unl.edu/images_Cheyenne.html"
+                       rend="box">
                      <name type="native_nation" key="Cheyenne Indians">Cheyennes</name>
                   </ref>, the expedition left the 
           <name type="native_nation" key="Arikara Indians">Arikaras</name>with little to call
@@ -3192,7 +3394,8 @@
           <name type="person" key="Black Buffalo (Un-tongar-Sar-bar)">Black Buffalo</name>and the
           Brulé 
           <name type="native_nation" key="Sioux Indians, Teton">Teton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
           Sioux</ref>, those most redoubtable of expedition adversaries, were not about to allow 
           <name type="person" key="Lewis, Meriwether">Lewis</name>and 
           <name type="person" key="Clark, William">Clark</name>to leave the river without one last
@@ -3207,7 +3410,8 @@
           <name type="person" key="Black Buffalo (Un-tongar-Sar-bar)">Black Buffalo</name>. The
           jeering and hooting so unnerved the explorers that when they came upon some friendly 
           <name type="native_nation" key="Sioux Indians, Yankton">Yankton</name>
-                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html" rend="box">
+                  <ref target="http://lewisandclarkjournals.unl.edu/images_Sioux.html"
+                       rend="box">
           Sioux</ref>two days later there was nearly fatal gunfire.</p>
                <p>But raw nerves were soothed in the days that followed. Edginess was replaced by
           excitement. Every day brought fresh signs that the great venture—what 
@@ -3454,7 +3658,8 @@
         Artifacts," Jackson, ed., 
         <hi rend="italic">Letters,</hi>2:477. My understanding of both 
         <name type="place" key="Camp Disappointment (Mont.)">Camp Disappointment</name>and the 
-        <name type="place" key="Two Medicine River (Main or South Branch Marias River)">Two
+        <name type="place"
+                     key="Two Medicine River (Main or South Branch Marias River)">Two
         Medicine River</name>fight site was greatly enhanced by Wilbur Werner, who guided me over
         both locations in the summer of 1981.</note>
             <note xml:id="n0958" n="58">
