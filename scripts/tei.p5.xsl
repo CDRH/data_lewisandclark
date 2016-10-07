@@ -84,7 +84,7 @@
       <!-- TODO Talk to Jessica - this rule was not in the cdrh.xsl file, it was replaced by the footnote rule -->
       <xsl:otherwise>
         <a href="../doc/{@target}" class="internal_link">
-          <xsl:apply-templates/>
+          <xsl:apply-templates/><xsl:text> </xsl:text>
         </a>
       </xsl:otherwise>
     </xsl:choose>
