@@ -104,13 +104,16 @@
               </field>
               <!-- geo coordinates -->
               <!-- todo change ref to n when files are changed -->
+              
               <xsl:variable name="georef" select="@ref"/>
               <xsl:variable name="geo">
                 <xsl:value-of select="/TEI/teiHeader[1]/encodingDesc[1]/geoDecl[@xml:id=$georef]/geo"/>
               </xsl:variable>
-              <field name="lc_geo_coordinates_p">
-                <xsl:value-of select="translate($geo,' ',',')"/>
-              </field>
+              <xsl:if test="$geo != ''">
+                <field name="lc_geo_coordinates_p">
+                  <xsl:value-of select="translate($geo,' ',',')"/>
+                </field>
+              </xsl:if>
               <!-- text -->
               <field name="text">
                 <xsl:apply-templates select="."/>
