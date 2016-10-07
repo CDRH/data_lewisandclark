@@ -125,6 +125,16 @@
                 
               </field>
               
+              <!-- uriHTML -->
+                <field name="uriHTML">
+                  <xsl:value-of select="$file_location"/>
+                  <xsl:value-of select="$slug"/>
+                  <xsl:text>/html-generated/</xsl:text>
+                  <xsl:value-of select="/TEI/@xml:id"/>
+                  <xsl:text>.txt</xsl:text>
+                </field>
+              
+              
               <xsl:call-template name="tei_template_part"><xsl:with-param name="filenamepart" select="$filenamepart"/></xsl:call-template>
             </doc>
           </xsl:for-each>
@@ -154,7 +164,12 @@
             </xsl:choose>
             
             <!-- Text -->
-            <!--<xsl:call-template name="text"/>-->
+            <xsl:call-template name="text"/>
+            
+            <!-- uriHTML -->
+            <xsl:call-template name="uriHTML">
+              <xsl:with-param name="id" select="$filenamepart"/>
+            </xsl:call-template>
             
             
           <xsl:call-template name="tei_template_part"><xsl:with-param name="filenamepart" select="$filenamepart"/></xsl:call-template>
@@ -193,10 +208,7 @@
         <xsl:with-param name="id" select="$filenamepart"/>
       </xsl:call-template>
       
-      <!-- uriHTML -->
-      <xsl:call-template name="uriHTML">
-        <xsl:with-param name="id" select="$filenamepart"/>
-      </xsl:call-template>
+      
       
       <!-- image_id -->
       <xsl:call-template name="image_id"/>
