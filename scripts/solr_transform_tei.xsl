@@ -67,7 +67,12 @@
   <!-- ==================================================================== -->
   <!--                            OVERRIDES   - Doc setup                              -->
   <!-- ==================================================================== -->
-  
+  <xsl:template match="name">
+    <xsl:apply-templates/>
+    <xsl:text> (</xsl:text>
+    <xsl:value-of select="@key"/>
+    <xsl:text>) </xsl:text>
+  </xsl:template>
   
   <!-- If journal, call tei template twice? -->
   
@@ -76,24 +81,78 @@
     
     <add>
       <xsl:choose>
-        <xsl:when test="starts-with($filenamepart,'lc.jrn')">
+        <!-- When Journal, select different stuff -->
+        <xsl:when test="starts-with($filenamepart,'lc.jrn.1') and //div[@type='entry']">
           <xsl:for-each select="//div[@type='entry']">
             <doc>
               <!-- id -->
               <xsl:call-template name="id">
                 <xsl:with-param name="id" select="@xml:id"/>
               </xsl:call-template>
+              <!-- date and dateDisplay-->
+              <xsl:variable name="journal_date">
+                <xsl:choose>
+                  <xsl:when test="/TEI/text[1]/body[1]/head[1]/date[1]/@when"><xsl:value-of select="/TEI/text[1]/body[1]/head[1]/date[1]/@when"/></xsl:when>
+                  <xsl:otherwise><xsl:value-of select="/TEI/text[1]/body[1]/head[1]/date[1]/@notafter"/></xsl:otherwise>
+                </xsl:choose>
+              </xsl:variable>
+              <field name="date">
+                <xsl:value-of select="$journal_date"/>
+              </field>
+              <field name="dateDisplay">
+                <xsl:call-template name="extractDate"><xsl:with-param name="date"><xsl:value-of select="$journal_date"/></xsl:with-param></xsl:call-template>
+              </field>
+              <!-- geo coordinates -->
+              <!-- todo change ref to n when files are changed -->
+              <xsl:variable name="georef" select="@ref"/>
+              <xsl:variable name="geo">
+                <xsl:value-of select="/TEI/teiHeader[1]/encodingDesc[1]/geoDecl[@xml:id=$georef]/geo"/>
+              </xsl:variable>
+              <field name="lc_geo_coordinates_p">
+                <xsl:value-of select="translate($geo,' ',',')"/>
+              </field>
+              <!-- text -->
+              <field name="text">
+                <xsl:apply-templates select="."/>
+                <!-- grab refs for searching -->
+                <xsl:for-each select=".//ref">
+                  <xsl:variable name="target" select="@target"/>
+                  <xsl:apply-templates select="/TEI/text/back//note[@xml:id=$target]"/><xsl:text>  </xsl:text>
+                </xsl:for-each>
+                
+              </field>
               
               <xsl:call-template name="tei_template_part"><xsl:with-param name="filenamepart" select="$filenamepart"/></xsl:call-template>
             </doc>
           </xsl:for-each>
         </xsl:when>
+        <!-- All other files -->
         <xsl:otherwise>
           <doc>
             <!-- id -->
             <xsl:call-template name="id">
               <xsl:with-param name="id" select="$filenamepart"/>
             </xsl:call-template>
+            <!-- date and dateDisplay-->
+            
+            <xsl:choose>
+              <xsl:when test="/TEI/text[1]/body[1]/list[1]/item[1]/figure[1]/p[1]/bibl[1]/date[1]">
+                <xsl:variable name="image_date" select="/TEI/text[1]/body[1]/list[1]/item[1]/figure[1]/p[1]/bibl[1]/date[1]"></xsl:variable>
+                <field name="date">
+                  <xsl:value-of select="$image_date"/>
+                </field>
+                <field name="dateDisplay">
+                  <xsl:call-template name="extractDate"><xsl:with-param name="date"><xsl:value-of select="$image_date"/></xsl:with-param></xsl:call-template>
+                </field>
+              </xsl:when>
+              <xsl:otherwise>
+                <xsl:call-template name="date"/>
+              </xsl:otherwise>
+            </xsl:choose>
+            
+            <!-- Text -->
+            <!--<xsl:call-template name="text"/>-->
+            
             
           <xsl:call-template name="tei_template_part"><xsl:with-param name="filenamepart" select="$filenamepart"/></xsl:call-template>
           </doc>
@@ -165,8 +224,7 @@
       <!-- contributors -->
       <xsl:call-template name="contributors"/>
       
-      <!-- date and dateDisplay-->
-      <xsl:call-template name="date"/>
+      
       
       <!-- type -->
       
@@ -230,8 +288,7 @@
       <!-- works -->
       <xsl:call-template name="works"/>
       
-      <!-- text -->
-      <!--        <xsl:call-template name="text"/>-->
+      
       
       <!-- fig_location -->
       <xsl:call-template name="fig_location"/>
