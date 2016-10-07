@@ -109,7 +109,7 @@
               <xsl:variable name="geo">
                 <xsl:value-of select="/TEI/teiHeader[1]/encodingDesc[1]/geoDecl[@xml:id=$georef]/geo"/>
               </xsl:variable>
-              <xsl:if test="$geo != ''">
+              <xsl:if test="normalize-space($geo) != ''">
                 <field name="lc_geo_coordinates_p">
                   <xsl:value-of select="translate($geo,' ',',')"/>
                 </field>
