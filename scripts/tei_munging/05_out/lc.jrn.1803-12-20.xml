@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1803-12-20">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+December 20, 1803</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">138-139</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2003-12-22</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1803-12-20">December 20, 1803</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1803-12-20.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>Tuesday 〈19〉 20th Decr</date>
+               </ab>
+               <p>
+I Detain the waggon to haul logs for my building &amp; Took the altitude of the Sun by both enstruments    found <seg n="u9737">☉</seg> L L by Sextt. was 56° 9' 7" by quaterent <seg n="u9737">☉</seg> U L 54° 10' 0"    the eror of qudt is 1° 20' 0"    hauled Logs to day with the Comosaries Teem    men move into ther huts this eveninge. Chronometer has 〈Slow〉 Stoped last night    I wound her up at 12 to day as usial and She now goes    a hard frosty morning.
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1803-12-19-20" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-12-21" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-08-20">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 20, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">310-311</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">352</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">269</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-08-20.01">
+            <placeName/>
+            <geo>45.8733 -100.2427</geo>
+            <note>Camped in Campbell County, SD, probably below the mouth of Spring Creek.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-12-15</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-08-20">August 20, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-08-20.01" n="lc.geo.1806-08-20.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday 20th of August 1806</hi>
+                  </date>
+               </ab>
+               <p>
+a violent hard rain about day light this morning.    all wet except myself and the indians.    we embarked a little after Sun rise    wind moderate and ahead.    we proceeded on at meridn.    passed the enterance of <name type="place" key="Cannonball (Bullet) River">Cannonball river</name>
+                  <ref target="n39082001" n="1"/>    imediately above is the remains of a large <name type="native_nation" key="Sioux Indians">Sieoux</name> encampment which appears to have been made this Spring.    at 3 P M passed the enterance of <name type="place"
+                        key="Beaver (War-re-con-nee, Wardepon) Creek (Emmons County, N. Dak.)">Wardepon River</name>
+                  <ref target="n39082002" n="2"/> [<hi rend="italic">NB: <name type="native_nation" key="Sioux Indians">Scioux</name> boundary to which they claim the country</hi>]    Saw great number of wolves on the bank Some Buffalow &amp; Elk, tho' not so abundant as near the <name type="place" key="Yellowstone River">River Rochejhone</name>. passed the place where we left the last encampment of <name type="native_nation" key="Arikara Indians">Ricaras</name> in the fall 1804 and encamped on a Sandbar from the N. E. Side,<ref target="n39082003" n="3"/> having made 81 miles only, the wind blew hard all day which caused the waves to rise high and flack over into the Small Canoes in Such a manner as to employ one hand in throwing the water out. The plains begin to Change their appearance    the grass is turning of a yellow colour. I observe a great alteration in the Corrent course and appearance of this pt. of the <name type="place" key="Missouri River">Missouri</name>.    in places where there was Sand bars in the fall 1804 at this time the main Current passes, and where the current then passed is now a Sand bar— Sand bars which were then naked are now covered with willow Several feet high.    the enteranc of Some of the Rivers &amp; Creeks Changed owing to the mud thrown into them, and a layor of mud over Some of the bottoms of 8 inches thick.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-20.02" n="lc.geo.1806-08-20.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 20th August 1806.    we Set out eairly and proceeded on verry well    the after part of the day pleasant.    in the evening we Camped on a Sand beach    the Musquetoes verry troublesome.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-20.03" n="lc.geo.1806-08-20.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 20th.</hi>    We embarked early after a heavy gust of wind and rain, and proceeded on very well. The forenoon was cloudy, without rain; and in the afternoon the weather became clear and pleasant.— We went about seventy miles, and encamped; where we found the musquitoes very troublesome.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n39082001" n="1">The <name type="place" key="Cannonball (Bullet) River">Cannonball River</name> on the <name type="place" key="Morton County, N. Dak.">Morton</name>-<name type="place" key="Sioux County, N. Dak.">Sioux</name> county line in <name type="place" key="North Dakota">North Dakota</name>, first passed on <ref n="1804-10-18" type="related">October 18, 1804</ref>. <hi rend="italic">Atlas</hi> map 27; MRC map 48.</note>
+            <note xml:id="n39082002" n="2">
+               <name type="person" key="Clark, William">Clark</name> called this "<name type="place"
+                     key="Beaver (War-re-con-nee, Wardepon) Creek (Emmons County, N. Dak.)">War-re-Con nee" River</name> when they passed it on <ref n="1804-10-16" type="related">October 16, 1804</ref>; it is now <name type="place"
+                     key="Beaver (War-re-con-nee, Wardepon) Creek (Emmons County, N. Dak.)">Beaver Creek</name> in <name type="place" key="Emmons County, N. Dak.">Emmons County</name>, <name type="place" key="North Dakota">North Dakota</name>. Possibly <name type="person" key="Clark, William">Clark</name> has confused the name with the "Eă-Neăh Wáu-de-pón," or <name type="place" key="Little Sioux (Ye-yeau War-da-pon) River">Little Sioux River</name> in <name type="place" key="Harrison County, Iowa">Harrison County</name>, <name type="place" key="Iowa">Iowa</name>; see <ref n="1804-08-08" type="related">August 8, 1804</ref>. <hi rend="italic">Atlas</hi> map 27; MRC map 47.</note>
+            <note xml:id="n39082003" n="3">The camp was in <name type="place" key="Campbell County, S. Dak.">Campbell County</name>, <name type="place" key="South Dakota">South Dakota</name>, probably below the mouth of <name type="place" key="Spring (Stone Idol) Creek (Campbell County, S. Dak.)">Spring Creek</name>, on <hi rend="italic">Atlas</hi> map 26 a nameless stream flowing from a lake; see <ref n="1804-10-13" type="related">October 13, 1804</ref>. The site would now be inundated by <name type="place" key="Oahe Reservoir">Oahe Reservoir</name>. MRC map 46.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-08-19" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-08-21" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

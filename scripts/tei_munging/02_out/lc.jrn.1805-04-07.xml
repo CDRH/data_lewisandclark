@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-04-07">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+April 7, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 4</title>
+               <title level="m" type="sub">April7–July 27, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">7-13</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">126-127</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">77</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">132-133</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-04-07.01">
+            <placeName/>
+            <geo>47.2967 -101.3429</geo>
+            <note>On the east side of the Missouri, about 3 miles southeast of Stanton, ND. In McLean County</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-05-03</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-04-07">April 7, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-04-07.01" n="lc.geo.1805-04-07.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name> April 7th 1805.<ref target="n11040701" n="1"/>
+                  </date>
+               </ab>
+               <p>
+Having on this day at 4 P.M. completed every arrangement necessary for our departure, we dismissed the barge and crew<ref target="n11040702" n="2"/> with orders to return without loss of time to <name type="place" key="Saint Louis, Mo.">S. Louis</name>, a small canoe with two French hunters accompanyed the barge; these men had assended the <name type="place" key="Missouri River">missouri</name> with us the last year as engages. The barge crew consisted of six soldiers and two [<hi rend="italic">blank</hi>] Frenchmen; two Frenchmen and a <name type="native_nation" key="Arikara Indians">Ricara</name> Indian also take their passage in her as far as the <name type="native_nation" key="Arikara Indians">Ricara</name> Vilages, at which place we expect <name type="person" key="Tabeau, Pierre-Antoine">Tiebeau</name> [<name type="person" key="Tabeau, Pierre-Antoine">Tabeau</name>] to embark with his peltry who in that case will make an addition of two, perhaps four men to the crew of the barge. We gave <name type="person" key="Warfington, Richard">Richard Warfington</name>, a discharged Corpl., the charge of the Barge and crew, and confided to his care likewise our dispatches to the government, letters to our private friends, and a number of articles to the President of the United States. One of the Frenchmen by the name of [<hi rend="italic">NB?: Joseph</hi>]<ref target="n11040703" n="3"/>
+                  <name type="person" key="Gravelines, Joseph">Gravline</name> an honest discrete man and an excellent boat-man is imployed to conduct the barge as a pilot; we have therefore every hope that the barge and with her our dispatches will arrive safe at <name type="place" key="Saint Louis, Mo.">St. Louis</name>. <name type="person" key="Gravelines, Joseph">Mr. Gravlin</name> who speaks the <name type="native_nation" key="Arikara Indians">Ricara</name> language extreemly well, has been imployed to conduct a few of the <name type="native_nation" key="Arikara Indians">Recara</name> Chiefs to the seat of government who have promised us to decend in the barge to <name type="place" key="Saint Louis, Mo.">St. Liwis</name> with that view.—</p>
+               <p>
+At same moment that the Barge departed from <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name>, <name type="person" key="Clark, William">Capt. Clark</name> embaked with our party and proceeded up the river.<ref target="n11040704" n="4"/>    as I had used no exercise for several weeks, I determined to talk on shore as far as our encampment of this evening; accordingly I continued my walk on the N. side of the River about six miles, to the upper Village of the <name type="native_nation" key="Mandan Indians">Mandans</name>, and called on the <name type="person" key="Black Cat (Posecopsahe)">Black Cat</name> or <name type="person" key="Black Cat (Posecopsahe)">Pose cop'se há</name>, the great chief of the <name type="native_nation" key="Mandan Indians">Mandans</name>;<ref target="n11040705" n="5"/> he was not as home; I rested myself a minutes, and finding that the party had not arrived I returned about 2 miles and joined them at their encampment on the N. side of the river opposite the lower <name type="native_nation" key="Mandan Indians">Mandan</name> village.<ref target="n11040706" n="6"/> Our party now consisted of the following Individuals. Sergts. <name type="person" key="Ordway, John">John Ordway</name>, <name type="person" key="Pryor, Nathaniel Hale">Nathaniel Prior</name>, &amp; <name type="person" key="Gass, Patrick">Patric Gass</name>; Privates, <name type="person" key="Bratton, William E.">William Bratton</name>, <name type="person" key="Colter, John">John Colter</name>, <name type="person" key="Field, Reubin">Reubin</name>, and <name type="person" key="Field, Joseph">Joseph Fields</name>, <name type="person" key="Shields, John">John Shields</name>, <name type="person" key="Gibson, George">George Gibson</name>, <name type="person" key="Shannon, George">George Shannon</name>, <name type="person" key="Potts, John">John Potts</name>, <name type="person" key="Collins, John">John Collins</name>, <name type="person" key="Whitehouse, Joseph">Joseph Whitehouse</name>, <name type="person" key="Windsor, Richard">Richard Windsor</name>, <name type="person" key="Willard, Alexander">Alexander Willard</name>, <name type="person" key="Hall, Hugh">Hugh Hall</name>, <name type="person" key="Goodrich, Silas">Silas Goodrich</name>, <name type="person" key="Frazer, Robert">Robert Frazier</name>, <name type="person" key="Cruzatte, Pierre">Crouzatt</name>, <name type="person" key="Lepage, Jean Baptiste">John Baptiest la Page</name>, <name type="person" key="Labiche, François">Francis Labiech</name>, <name type="person" key="McNeal, Hugh">Hue McNeal</name>, <name type="person" key="Werner, William">William Werner</name>, <name type="person" key="Howard, Thomas P.">Thomas P. Howard</name>, <name type="person" key="Weiser, Peter">Peter Wiser</name>, and <name type="person" key="Thompson, John B.">John B. Thompson</name>.—</p>
+               <p>
+                  <hi rend="italic">Interpreters,</hi>
+                  <name type="person" key="Drouillard, George">George Drewyer</name> and <name type="person" key="Charbonneau, Toussaint">Tauasant Charbono</name> also a Black man by the name of <name type="person" key="York">York</name>, servant to <name type="person" key="Clark, William">Capt. Clark</name>, an Indian Woman wife to <name type="person" key="Charbonneau, Toussaint">Charbono</name> with a young child, and a <name type="native_nation" key="Mandan Indians">Mandan</name> man who had promised us to accompany us as far as the <name type="native_nation" key="Paiute Indians">Snake</name> Indians with a view to bring about a good understanding and friendly intercourse between that nation and his own, the <name type="native_nation" key="Hidatsa Indians">Minetares</name> and <name type="native_nation" key="Hidatsa Indians, Awaxawi">Ahwahharways</name>.</p>
+               <p>
+Our vessels consisted of six small canoes, and two large perogues. This little fleet altho' not quite so rispectable as those of Columbus or Capt. Cook<ref target="n11040707" n="7"/> were still viewed by us with as much pleasure as those deservedly famed adventurers ever beheld theirs; and I dare say with quite as much anxiety for their safety and preservation.    we were now about to penetrate a country at least two thousand miles in width, on which the foot of civillized man had never trodden; the good or evil it had in store for us was for experiment yet to determine, and these little vessells contained every article by which we were to expect to subsist or defend ourselves. however as this the state of mind in which we are, generally gives the colouring to events, when the immagination is suffered to wander into futurity, the picture which now presented itself to me was a most pleasing one.    entertaing 〈now〉 as I do, the most confident hope of succeading in a voyage which had formed a da[r]ling project of mine for the last ten years 〈of my life〉, I could but esteem this moment of my 〈our〉 departure as among the most happy of my life. The party are in excellent health and sperits, zealously attatched to the enterprise, and anxious to proceed; not a whisper of murmur or discontent to be heard among them, but all act in unison, and with the most perfect harmony. I took an early supper this evening and went to bed. <name type="person" key="Clark, William">Capt. Clark</name> myself the two Interpretters and the woman and child sleep in a tent of dressed skins.    this tent is in the Indian stile, formed of a number of dressed Buffaloe skins sewed together with sniues.<ref target="n11040708" n="8"/>    it is cut in such manner that when foalded double it forms the quarter of a circle, and is left open at one side where it may be attached or loosened at pleasure by strings which are sewed to its sides to the purpose.    to erect this tent, a parsel of ten or twelve poles are provided, fore or five of which are attatched together at one end, they are then elivated and their lower extremities are spread in a circular manner to a width proportionate to the demention of the lodge, in the same position orther poles are leant against those, and the leather is then thrown over them forming a conic figure.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-07.02" n="lc.geo.1805-04-07.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>7th of <hi rend="italic">April Satturday 1805</hi>
+                     <ref target="n11040709" n="9"/>
+                  </date>
+               </ab>
+               <p>
+a windey day, The Interpreter we Sent to the Villages returned with Chief of the <name type="native_nation" key="Arikara Indians">Ricara's</name> &amp; 3 men of that nation    this Chief informed us that he was Sent by his nation to Know the despositions of the nations in this neighbourhood in respect to the recara's Settleing near them, that he had not yet made those arrangements, he request that we would Speek to the <name type="native_nation" key="Assiniboine Indians">Assinniboins</name>, &amp; <name type="native_nation" key="Crow Indians">Crow</name> Inds. in their favour, that they wished to follow our directions and be at peace with all, he viewed all nations in this quarter well disposed except the <name type="native_nation" key="Sioux Indians">Sioux</name>. The wish of those recaras appears to be a junction with the <name type="native_nation" key="Mandan Indians">Mandans</name> &amp; <name type="native_nation" key="Hidatsa Indians">Minetarras</name> in a Defensive war with the <name type="native_nation" key="Sioux Indians">Sioux</name> who rob them of every Spece [species] of property in Such a manner that they Cannot live near them any longer. I told this Chief we were glad to See him, and we viewed his nation as the Dutifull Children of 〈his〉 a Great father who would extend his protection to 〈them〉 all those who would open their ears to his good advice, we had already Spoken to the <name type="native_nation" key="Assiniboine Indians">Assinniboins</name>, and Should Speeke to the <name type="native_nation" key="Crow Indians">Crow</name> Indians if we Should See them &amp;c.     as to the <name type="native_nation" key="Sioux Indians">Sioux</name> their Great father would not let them have any more good Guns &amp;c. would take Care to prosu Such measurs as would provent those <name type="native_nation" key="Sioux Indians">Sioux</name> from Murding and taking the property from his dutyfull red Children &amp;c.—    we gave him a certificate of his good Conduct &amp; a Small Medal, a Carrot of Tobacco and a String of Wompom—    he requested that one of his men who was lame might decend in the boat to their nation and returned to the <name type="native_nation" key="Mandan Indians">Mandans</name> well Satisfied—</p>
+               <p>
+The name of this Chief of War is <hi rend="italic">
+                     <name type="person" key="Raven Man (Kakawita)">Kah-kah, we to</name>—</hi>
+                  <name type="person" key="Raven Man (Kakawita)">Raven brave</name>.<ref target="n11040710" n="10"/>
+               </p>
+               <p>
+This Cheif delivered us a letter from <name type="person" key="Tabeau, Pierre-Antoine">Mr. Taboe</name>. informing us of the wish of the Grand Chiefs of the <name type="native_nation" key="Arikara Indians">Ricarras</name> to visit their Great father and requesting the privolage of put'g on board the boat 3000 w of Skins &amp;c. &amp; adding 4 hands and himself to the party.    this preposeal we Shall agree to, as that addition will make the party in the boat 15 Strong and more able to defend themselves from the Seoux &amp;c.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-07.03" n="lc.geo.1805-04-07.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Fort <name type="native_nation" key="Mandan Indians">Mandan</name>
+                     </hi> April 7th 1805<ref target="n11040711" n="11"/>
+                  </date>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday,</hi> at 4 oClock P M, the Boat, in which was 6 Soldiers 2 frenchmen &amp; an Indian, all under the command of a corporal who had the charge of dispatches, &amp;c.—and a Canoe with 2 french men, Set out down the river for <name type="place" key="Saint Louis, Mo.">St. Louis</name>.    at the same time we Sout out on our voyage up the river in 2 perogues and 6 canoes, and proceded on to the 1st villg. of <name type="native_nation" key="Mandan Indians">Mandans</name> &amp; Camped on the S. S.—    our party consisting of <name type="person" key="Pryor, Nathaniel Hale">Sergt. Nathaniel Pryor</name>
+                  <name type="person" key="Ordway, John">Sgt. John Ordway</name>
+                  <name type="person" key="Gass, Patrick">Sgt. Pat: Gass</name>, <name type="person" key="Bratton, William E.">William Bratten</name>, <name type="person" key="Colter, John">John Colter</name>
+                  <name type="person" key="Field, Joseph">Joseph</name> &amp; <name type="person" key="Field, Reubin">Reubin Fields</name>, <name type="person" key="Shields, John">John Shields</name>
+                  <name type="person" key="Gibson, George">George Gibson</name>
+                  <name type="person" key="Shannon, George">George Shannon</name>, <name type="person" key="Potts, John">John Potts</name>, <name type="person" key="Collins, John">John Collins</name>, <name type="person" key="Whitehouse, Joseph">Jos: Whitehouse</name>, <name type="person" key="Windsor, Richard">Richard Windser</name>, <name type="person" key="Willard, Alexander">Alexander Willard</name>, <name type="person" key="Hall, Hugh">Hugh Hall</name>, <name type="person" key="Goodrich, Silas">Silas Gutrich</name>, <name type="person" key="Frazer, Robert">Robert Frazure</name>, <name type="person" key="Cruzatte, Pierre">Peter Crouzat</name>, <name type="person" key="Lepage, Jean Baptiste">John Baptiest la page</name>, <name type="person" key="Labiche, François">Francis Labich</name>, <name type="person" key="McNeal, Hugh">Hugh McNeal</name>, <name type="person" key="Werner, William">William Werner</name>, <name type="person" key="Howard, Thomas P.">Thomas P. Howard</name>, <name type="person" key="Weiser, Peter">Peter Wiser</name>, <name type="person" key="Thompson, John B.">J. B. Thompson</name> and my Servent <name type="person" key="York">york</name>, <name type="person" key="Drouillard, George">George Drewyer</name> who acts as a hunter &amp; interpreter, <name type="person" key="Charbonneau, Toussaint">Shabonah</name> and his <hi rend="italic">Indian Squar</hi> to act as an Interpreter &amp; interpretress for the snake Indians—one <name type="native_nation" key="Mandan Indians">Mandan</name> &amp; <name type="person" key="Charbonneau, Jean Baptiste">Shabonahs infant</name>. <hi rend="italic">
+                     <name type="person" key="Sacagawea">Sah-kah-gar we â</name>
+                  </hi>
+                  <ref target="n11040712" n="12"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-07.04" n="lc.geo.1805-04-07.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday 7th April 1805</hi>.    clear and pleasant.    about 9 oclock our Intrepter and them that went with him returned    brought with them 4 of the <name type="native_nation" key="Arikara Indians">Rick a Ree</name> Savages.    2 of them Chiefs.<ref target="n11040713" n="13"/>    they Informed us that only 10 of their nation had come up to the <name type="native_nation" key="Mandan Indians">Mandanes</name> villages to treat &amp; Smoak a peace pipe with them &amp;.c.    they brought a letter from <name type="person" key="Tabeau, Pierre-Antoine">Mr. Tabbo</name> who lives with <name type="native_nation" key="Arikara Indians">R. Ree</name> to our officers with news that 3 of the <name type="native_nation" key="Sioux Indians">Souix</name> chiefs was going down on the Big barge to see their Great father and that Some of the  <name type="native_nation" key="Arikara Indians">Rick a Ree</name> chiefs was going also.    one of our hunters went out at 11 oclock and killed a deer.    we Set three of Sd. <name type="native_nation" key="Arikara Indians">Rick Rees</name> chiefs across the River.    the other one being lame Stayed in order to go down to his nation in the Barge.</p>
+               <p>
+About 5 oClock we all went on board fired the Swivel and Set off on our journey.    at the Same time the barge Set off for <name type="place" key="Saint Louis, Mo.">St Louis</name> 2 frenchmen in a perogue in company with them.<ref target="n11040714" n="14"/>    they took down the letters and all the writings which was necessary to go back to the States    also Some curious animals such as Goat Skins &amp; horns, a barking Squirrell Some Mountain Rams horns a prarie hen &amp; badgers Some birds cauled magpies &amp; a nomber of other curious things too tedious to mention &amp;.c.<ref target="n11040715" n="15"/>    we took with us 2 large perogues and 6 small ones which we had loaded with provisions, Indian Goods, ammunition &amp;.c.    we went on verry well with a hard head wind about 4 mls. &amp; Camped    opposite the 1st village of <name type="native_nation" key="Mandan Indians">Mandans</name> on N. S.    wind high from N. W. the greater part of the night    their is 30 of the party which continues to Go on.<ref target="n11040716" n="16"/>    their was 10 which went down in the barge, but only two who had engaged for the route.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-07.05" n="lc.geo.1805-04-07.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday 7th.</hi>    The men returned and four of the <name type="native_nation" key="Arikara Indians">Rickaree</name>s with them. The commanding officers held a conversation with these Indians; and they concluded that some of them would go down in the boat from their village to <name type="place" key="Saint Louis, Mo.">St. Louis</name>. About 5 o'clock in the afternoon we left <name type="place" key="Fort Mandan (N. Dak.)">fort Mandans</name> in good spirits. Thirty one men and a woman went up the river and thirteen returned down it in the boat.<ref target="n11040717" n="17"/> We had two periogues and six canoes, and proceeded about four miles, and encamped opposite the first <name type="native_nation" key="Mandan Indians">Mandan</name> village, on the North side.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-07.06" n="lc.geo.1805-04-07.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Sunday April 7th    This day we had fair weather,—    in the morning the <name type="native_nation" key="Arikara Indians">Rick a Rees</name> chief<ref target="n11040718" n="18"/> came to the Fort, on a Visit to our Officers; he informed them, that the Chiefs of their Nation, was ready to descend the River in our boat, in Order to pay a Visit to the President of the United States.    At half past 4 o'Clock P. M; we all embark'd, in our large Canoes and left <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name>, on our way for the <name type="place" key="Pacific Ocean">Pacific Ocean</name>.—    The boat sett off, Under the command of <name type="person" key="Warfington, Richard">Corporal Warfington</name> with a Command<ref target="n11040719" n="19"/> on board for <name type="place" key="Saint Louis, Mo.">Saint Louis</name> at same time on board of which was sent the deserter Read    we proceeded on and encamped, on the North side of the <name type="place" key="Missouri River">Mesouri River</name>, opposite to the first Village of the <name type="native_nation" key="Mandan Indians">Mandan</name> Nation.—</p>
+               <p>
+This Village lies on the South side of the River and contains 300 Lodges.    the land adjoining it is Priaries, which gradually rise from the River, the Soil is very rich, producing Indian Corn, pumpkins, Squashes &amp; beans in abundance</p>
+               <p>
+The Natives have large fields, which they cultivate and which produces plentifully, They have likewise Gardens, which they plant &amp; have several kinds of Garden Vegetables in it, such as Lettuce, Mustard &amp;ca    they have likewise growing in their Gardens, Gooseberrys,<ref target="n11040720" n="20"/> which is superior in Size, to any in the United States &amp; Currants of different kinds.—    They are in general peaceable well disposed people—and have less of the Savage nature in them, than any Indians we met with on the <name type="place" key="Missouri River">Mesouri River</name>.</p>
+               <p>
+They are of a very light Colour, the Men are very well featur'd and Stout; the Women are in general handsome; this Town or Village Contains from the best calculation we could make 2,000 Inhabitants,<ref target="n11040721" n="21"/> they are Governed by a Chief called the <name type="person" key="Big White (Sheheke)">Big White</name> and the Indians here live to a very old age, numbers being 100 Years old.—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n11040701" n="1">Here begins <name type="person" key="Lewis, Meriwether">Lewis's</name> notebook journal Codex D, running to May 23, 1805. It contains his first known daily journal-keeping since <ref n="1804-09-17" type="related">September 17, 1804</ref>, except for entries in <name type="person" key="Clark, William">Clark's</name> Codex C in February 1805. See the <ref n="introduction.general" type="related">Introduction</ref> and <ref n="v02.appendix.c" type="related">Appendix C</ref>. From this point we have complete journals by <name type="person" key="Lewis, Meriwether">Lewis</name> to August 26, 1805.</note>
+            <note xml:id="n11040702" n="2">In their entries for this date the captains provide a complete list of their permanent party bound for <name type="place" key="Pacific Ocean">the Pacific</name>. For the party returning downriver, however, there is no such definite information. <name type="person" key="Warfington, Richard">Corporal Richard Warfington</name>, in charge of the party, was definitely along, as were the two dishonorably discharged men, <name type="person" key="Newman, John">John Newman</name> and <name type="person" key="Reed, Moses B.">Moses Reed</name>. So were <name type="person" key="Warfington, Richard">Warfington's</name> squad, probably consisting now of Privates <name type="person" key="Boley, John">John Boley</name>, <name type="person" key="Dame, John">John Dame</name>, <name type="person" key="Tuttle, Ebenezer">Ebenezer Tuttle</name>, and <name type="person" key="White, Isaac">Isaac White</name>. Just possibly the mysterious <name type="person" key="Robertson, John">John Robinson</name>, or <name type="person" key="Robertson, John">Robertson</name>, was present instead of <name type="person" key="Boley, John">Boley</name>, <name type="person" key="Tuttle, Ebenezer">Tuttle</name>, or <name type="person" key="White, Isaac">White</name>. See <ref n="v02.appendix.a" type="related">Appendix A</ref>, and <ref n="1804-06-12" type="related">June 12, 1804</ref>, above. <name type="person" key="Newman, John">Newman</name>, <name type="person" key="Reed, Moses B.">Reed</name>, <name type="person" key="Boley, John">Boley</name>, <name type="person" key="Tuttle, Ebenezer">Tuttle</name>, <name type="person" key="Dame, John">Dame</name>, and <name type="person" key="White, Isaac">White</name> probably make up the six soldiers <name type="person" key="Lewis, Meriwether">Lewis</name> mentions. <name type="person" key="Gravelines, Joseph">Joseph Gravelines</name> was present as an interpreter, and as <name type="person" key="Lewis, Meriwether">Lewis</name> indicates there was one <name type="native_nation" key="Arikara Indians">Arikara</name>. The difficulty arises with the anonymous "Frenchmen" on the keelboat and accompanying the boat in a canoe. The two in the canoe are not readily identifiable. <name type="person" key="Lewis, Meriwether">Lewis</name> refers to two French boatmen working the boat, and two more going as far as the <name type="person" key="Arikara Indians">Arikaras</name>, who may or may not have been expedition <hi rend="italic">engagés.</hi> One of those on the boat was probably <name type="person" key="Deschamps, Jean Baptiste">Baptiste Deschamps</name>, the boss of the boatmen. <name type="person" key="Malboeuf (Mabbauf), Etienne">Etienne Malboeuf</name>, <name type="person" key="Rivet, François">Fran<seg n="u231">ç</seg>ois Rivet</name>, and <name type="person" key="Pinaut, Peter">Peter Pinaut</name> are other possibilities. The lack of record as to which boatmen left the party in the fall of 1804 complicates matters further. This lack of information concerning these men presumably reflects the captains' own lack of interest in the "hirelings." Clarke (MLCE), 145–46; Jackson (LLC), 1:237 n. 7.</note>
+            <note xml:id="n11040703" n="3">"Joseph" appears to be added to a blank space and is written in red, perhaps by <name type="person" key="Biddle, Nicholas">Biddle</name>.</note>
+            <note xml:id="n11040704" n="4">
+               <name type="person" key="Ordway, John">Ordway</name> says they left at 5:00 p.m.</note>
+            <note xml:id="n11040705" n="5">
+               <name type="person" key="Black Cat (Posecopsahe)">Black Cat</name> is identified in notes for <ref n="1804-10-28" type="related">October 28, 1804</ref>.</note>
+            <note xml:id="n11040706" n="6">On the starboard shore opposite <name type="place" key="Mitutanka (Matootonha) village">Mitutanka village</name>, in <name type="place" key="McLean County, N. Dak.">McLean County</name>, <name type="place" key="North Dakota">North Dakota</name>, some three miles below <name type="place" key="Stanton, N. Dak.">Stanton</name>. <hi rend="italic">Atlas</hi> maps 29, 33, 46, 55; MRC map 52.</note>
+            <note xml:id="n11040707" n="7">
+               <name type="person" key="Cook, James">Captain James Cook</name> of the British Navy, the most famous explorer of his time, made three voyages (1768–79), in which he greatly increased European knowledge of <name type="place" key="Pacific Ocean">the Pacific</name>. <name type="person" key="Jefferson, Thomas">Jefferson's</name> library included <name type="person" key="Cook, James">Cook's</name> journals of his last voyage, published in 1784, and <name type="person" key="Lewis, Meriwether">Lewis</name> was evidently familiar at least with the portions of it dealing with the Northwest coast. Jackson (TJ), 45–46, 55–56.</note>
+            <note xml:id="n11040708" n="8">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> spelling of "sinews." The tent is obviously a plains Indian tipi, later referred to by the captains as a "leather lodge." It was apparently <name type="person" key="Biddle, Nicholas">Biddle</name> who wrote "Qu" in red across this passage.</note>
+            <note xml:id="n11040709" n="9">The last daily entry in <name type="person" key="Clark, William">Clark's</name> Codex C.</note>
+            <note xml:id="n11040710" n="10">Apparently the captains did not meet <name type="person" key="Raven Man (Kakawita)">Kakawita</name> (<hi rend="italic">kaakaawiítA,</hi> "<name type="place" key="Raven Man (Kakawita)">raven man</name>") when they were at the <name type="native_nation" key="Arikara Indians">Arikara</name> villages in October. He was an important war chief and a rival to <name type="person" key="Lighting Crow (Kakawissassa)">Kakawissassa</name>. Ronda (LCAI), 48–49, 52–53, 65. It was probably <name type="person" key="Gravelines, Joseph">Gravelines</name> who was sent to the villages. See <ref n="1805-04-06" type="related">April 6, 1805</ref>.</note>
+            <note xml:id="n11040711" n="11">Here begins <name type="person" key="Clark, William">Clark's</name> notebook journal Voorhis No. 1, which runs to July 3, 1805. On the flyleaf of the journal is a note by <name type="person" key="Lewis, Meriwether">Lewis</name>. The first line consists of unidentified courses. The remainder seems to be a reminder of information to be gathered about Indians when inquiries could be made. The use of the word "<name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name>," a possible <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> name for the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater River</name> in <name type="place" key="Idaho">Idaho</name>, and of "<name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Lewis's River</name>" (<name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">the Salmon</name> and <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake</name> rivers as named by the captains), shows that <name type="person" key="Lewis, Meriwether">Lewis</name> must have made the note some time after the dates of the main text of the journal (April 7–July 3, 1805). Possibly <name type="person" key="Lewis, Meriwether">Lewis</name> wrote the note at <name type="place" key="Fort Clatsop (Oreg.)">Fort Clatsop</name> or elsewhere to be filled in when he could ask the Indians, not having had time on the trip west. It reads thus:
+<table rows="1" cols="1">
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">N. 42 ½° W.—    N. 78° W.    102 poles.    N. 12° E</cell>
+                  </row>
+               </table>
+               <table rows="2" cols="6">
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Names of Indian nations &amp;</cell>
+                     <cell role="data" rows="2" cols="1">}</cell>
+                     <cell role="data" rows="2" cols="1">No. of Lodges</cell>
+                     <cell role="data" rows="2" cols="1">}</cell>
+                     <cell role="data" rows="2" cols="1">{</cell>
+                     <cell role="data" rows="1" cols="1">Probable No.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">their places of residence</cell>
+                     <cell role="data" rows="1" cols="1">of Souls</cell>
+                  </row>
+               </table>
+               <table rows="4" cols="1">
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <name type="native_nation" key="Flathead Indians">Flatheads</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">     of the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name>—</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">     of <name type="place"
+                              key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Lewis's river</name> above the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name>—    120—</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">     of <name type="place"
+                              key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Lewis's river</name> below the mouth of the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name>—</cell>
+                  </row>
+               </table>
+            </note>
+            <note xml:id="n11040712" n="12">
+               <name type="person" key="Sacagawea">Sacagawea's</name> name may have been added as an afterthought, or perhaps later, after <name type="person" key="Clark, William">Clark</name> came to know her better. The underscore for "Indian Squar" also appears to be an addition. See the entry of <ref n="1804-11-04" type="related">November 4, 1804</ref>, where she is discussed.</note>
+            <note xml:id="n11040713" n="13">
+               <name type="person" key="Clark, William">Clark</name> mentioned only one chief, <name type="person" key="Raven Man (Kakawita)">Kakawita</name> or <name type="person" key="Raven Man (Kakawita)">Raven Man</name>.</note>
+            <note xml:id="n11040714" n="14">Information on the members of the return party is found under <name type="person" key="Lewis, Meriwether">Lewis's</name> entry for this day.</note>
+            <note xml:id="n11040715" n="15">For lists of the materials sent to <name type="place" key="Saint Louis, Mo.">St. Louis</name>, see <name type="person" key="Clark, William">Clark's</name> entry for <ref n="1805-04-03" type="related">April 3</ref>. The animals <name type="person" key="Ordway, John">Ordway</name> mentioned are pronghorn (goat), prairie dog (barking squirrel), bighorn sheep, <hi rend="italic">Ovis canadensis</hi> (mountain ram), sharp-tailed grouse (prairie hen), badger, and black-billed magpie.</note>
+            <note xml:id="n11040716" n="16">On this day both <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> name the members of the permanent party and others who made the trip to <name type="place" key="Pacific Ocean">the Pacific</name> and back.</note>
+            <note xml:id="n11040717" n="17">
+               <name type="person" key="Gass, Patrick">Gass</name> counts all the party, including <name type="person" key="York">York</name> and the two captains, but not the baby <name type="person" key="Charbonneau, Jean Baptiste">Jean 
+Baptiste Charbonneau</name>, making thirty-three persons in the permanent party who would go to <name type="place" key="Pacific Ocean">the Pacific</name> and return. <name type="person" key="Gass, Patrick">Gass</name> also did not add the unnamed <name type="native_nation" key="Mandan Indians">Mandan</name> who started with them but dropped out on April 9. See the captains' entries for this day for names of the permanent 
+party and a note on the composition of the return party.</note>
+            <note xml:id="n11040718" n="18">
+               <name type="person" key="Raven Man (Kakawita)">Kakawita</name>, or <name type="person" key="Raven Man (Kakawita)">Raven Man</name>, an <name type="native_nation" key="Arikara Indians">Arikara</name> chief; see <name type="person" key="Clark, William">Clark's</name> entry for the date.</note>
+            <note xml:id="n11040719" n="19">For the names of members of the return party, see <name type="person" key="Lewis, Meriwether">Lewis's</name> entry for this day.</note>
+            <note xml:id="n11040720" n="20">An unknown gooseberry, <hi rend="italic">Ribes</hi> sp.</note>
+            <note xml:id="n11040721" n="21">An exaggeration since <name type="person" key="Clark, William">Clark</name> counts about 1,250 people in both <name type="native_nation" key="Mandan Indians">Mandan</name> villages. See 
+<name type="person" key="Clark, William">Clark's</name>
+               <ref n="1804-1805.winter.part2" type="related">"Estimate of Eastern Indians"</ref>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-1805.winter.part6" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-04-08" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

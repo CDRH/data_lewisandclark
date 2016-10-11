@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-12-29">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+December 29, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">263</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">106</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-03-30</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-12-29">December 29, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-12-29.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">29th December Satturday 1804</hi>
+                  </date>
+               </ab>
+               <p>
+The frost fell last night nearly a ¼ of an inch Deep and Continud to fall untill the Sun was of Some hite, the Murcurey Stood this morning at 9 d below 0 which is not considered Cold, as the Changes take place gradually without long intermitions</p>
+               <p>
+a number of Indians here
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-12-29.02" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 29th Decr</hi>.    clear &amp; cold.    we finished laying the Intr. flower [floor]    a Great nomber of the natives men women &amp; children visited us the whole day    as we Got the Blacksmiths Shop fixed    they Brought their Squaw axes<ref target="n09122901" n="1"/> &amp; kittle to fix and mend for which they Gave us corn &amp; beans Squasshes &amp;C—    one man who went out hunting to day killd a woolf &amp; kept it for the tradors who Give as much for a woolf Skin as a Beever Skin. N. B. <hi rend="italic">an Indian Stole a drawing nife</hi>.<ref target="n09122902" n="2"/>    took it again.
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n09122901" n="1">Otherwise known as a camp or felling ax, usually having a rounded poll and a short
+handle. Perhaps so named because it was favored by native women.</note>
+            <note xml:id="n09122902" n="2">The underlining is in red. In this case, as elsewhere in <name type="person" key="Ordway, John">Ordway's</name> journal, the "N. B." is
+<name type="person" key="Ordway, John">Ordway's</name> "<hi rend="italic">nota bene</hi>," not the editorial insertion for "<name type="person" key="Biddle, Nicholas">Nicholas Biddle</name>."</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-12-28" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-12-30" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

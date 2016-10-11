@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-02-05">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+February 5, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 6</title>
+               <title level="m" type="sub">November 2, 1805–March 22, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1990</date>
+               <biblScope type="pages">278-280</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">270</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages"/>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">417-418</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-08-23</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-02-05">February 5, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-02-05.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday February 5th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+Late this evening one of the hunters fired his gun over the swamp of the <name type="native_nation" key="Lewis and Clark (Fort, Netul) River">Netul</name> opposite to the fort and hooped. I sent sergt. <name type="person" key="Gass, Patrick">Gass</name> and a party of men over; the tide being in, they took advantage of a little creek which makes up in that direction nearly to the highlands, and in their way fortunately recovered our Indian Canoe, so long lost and much lamented. The Hunter proved to be <name type="person" key="Field, Reubin">Reubin Fields</name>, who reported that he had killed six Elk on the East side of the <name type="native_nation" key="Lewis and Clark (Fort, Netul) River">Netul</name> a little above us; and that yesterday he had heard <name type="person" key="Shannon, George">Shannon</name> and <name type="person" key="Labiche, François">Labuishe</name> fire six or seven shots after he had seperated from them and supposed that they had also killed several other Elk. <name type="person" key="Field, Reubin">Filds</name> brought with him a phesant<ref target="n28020501" n="1"/> which differed but little from those common to the Atlantic states; it's brown is reather brighter and more of a redish tint.    it has eighteen feathers in the tale of about six inches in length.    this bird is also booted as low as the toes.    the two tufts of long black feathers on each side of the neck most conspicuous in the male of those of the Atlantic states is also observable in every particular with this.—    Fir No. 2<ref target="n28020502" n="2"/> is next in dignity in point of size.    it is much the most common species, it may be sad to constitute at least one half of the timber in this neighbourhood.    it appears to be of the spruse kind.    it rises to the hight of 160 to 180 feet very commonly and is from 4 to 6 feet in diameter, very streight round and regularly tapering.    the bark is thin of a dark colour, and much divided with small longitudinal intersticies; that of the boughs and young trees is somewhat smoth but not so much so as the balsom fir nor that of the white pine of our country.    the wood is white throughout and reather soft but very tough, and difficult to rive. The trunk of this tree is a simple branching diffused stem and not proliferous as the pines &amp; firs usially are but like most other trees it puts forth buds from the sides of the small boughs as well as their extremities.    the stem usually terminates in a very slender pointed top like the cedar. The leaves are petiolate, the footstalk small short and oppressed; acerose reather more than half a line in width and very unequal in length, the greatest length being little more than half an inch, while others intermixed on every part of the bough are not more than ¼ in length.    flat with a small longitudinal channel in the upper disk which is of a deep green and glossey, while the uder disk is of a whiteish green only; two ranked, obtusely pointed, soft and flexable.    this tree affords but little rosin.    the cone is remarkably small not larger than the end of a man's thumb soft, flexable and of an ovate form, produced at the ends of the small twigs.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-02-05.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday February 5th 1806</hi>
+                  </date>
+               </ab>
+               <p>
+Late this evening one of the hunters fired off his gun over the marsh of the <name type="place" key="Lewis and Clark (Fort, Netul) River">Netul</name> opposit to the fort &amp; hhoped.     we Sent Sergt. <name type="person" key="Gass, Patrick">Gass</name> and a party of men over; the tide being in the they took advantage of a little Creek which makes up in that direction nearly to the high lands, and in their way fortunately recovered our Indian Canoe So long lost and much lamented. The hunter provd. to be <name type="person" key="Field, Reubin">Reubin Field</name>, who reported that he had killed Six Elk on the East Side of the <name type="place" key="Lewis and Clark (Fort, Netul) River">Netul</name> a little above us; and that he had parted with <name type="person" key="Shannon, George">Shannon</name> and <name type="person" key="Labiche, François">Labiesh</name> yesterday after he had herd them fire Six or Seven Shot after he had Seperated from them, and Supposed that they had also killed Several old Elk. Fields brought with him a Pheasant which differs but little from those Common to the United States—    Fur No. 2 is next in dignity in point of Size.    it is much the most comon Species, it may be Said to Constitute one half of the timber of this neighbourhood.    it appears to be of the Spruce kind.    it rises to the higth of 160 or 180 feet very Commonly and is from 4 to 6 feet in diameter, very Streight round and regularly tapering.    the bark is thin of a dark colour, and much divided with Small longitudinal interstices; that of the boughs and young trees are Somewhat Smoth but not So much so as the balsom fir, nor that of the white pine of our Countrey.    the wood is white throughout and rather Soft but rather tough and dificuelt to rive. The trunk of this tree is Simple branching, deffused Stem and not proliferous as the pine and fir usially are, but like most other trees it puts foth buds from the Sides of the Small boughes as well as from their extremities.    the Stem usially termonate in a very slender pointed top like the Cedar. The leaves are petiolate, the footstalk Small Short and oppressed; acerose reather more than ½ a line in wedth and very uneaqual in length, the greatest length being a little more than half an inch, while others intermixed on every part of the bough are not more than a ¼ of an inch in length.    flat with a Small longitudinal channel in the upper disk which is of a Deep green and glossy, while the 〈upper〉 under disk is of a whitish green only; two ranked, obtusely pointed, Soft and flexable.    this tree affords but little rosin.    the Cone is remarkably Small, not larger than the end of a mans thumb Soft, flexable and of an oval form, produced at the end of a Small twig.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-02-05.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 5th Feby. 1806.    a beautifl. pleasant morning.     about noon one<ref target="n28020503" n="3"/> of our hunters came in.    had killed Six Elk.    a party<ref target="n28020504" n="4"/> who went across the river found our Sciff or Small canoe which was drove up on a marsh up a creek &amp;C
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-02-05.04" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wendesday Febry 5th    We had a beautiful pleasant cool morning.    About noon one of the hunters called to us from the opposite side of the River.    Three men were ordered to go over to him.    They proceeded to the place where he was in a Canoe, &amp; found our small Canoe (which had been lost for some time past,) up on a Marsh, in a Creek, where the Water had drove her.    The man who hallowed to us, had killed Six Elk, &amp; mentioned that he had heard the other two hunters fire, but could not say what they had killed, but he expected they had killed also some Elk
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n28020501" n="1">Oregon ruffed grouse. See also below, <ref n="1806-03-31" type="related">March 31, 1806</ref>. Perhaps it was <name type="person" key="Biddle, Nicholas">Biddle</name> who drew the red vertical line through this passage and the first several lines about the "fir."</note>
+            <note xml:id="n28020502" n="2">This is neither a fir nor a spruce, but the western hemlock, an important, dominant species of the forests of the Pacific Northwest. Franklin &amp; Dyrness, 70–72.</note>
+            <note xml:id="n28020503" n="3">
+               <name type="person" key="Field, Reubin">Reubin Field</name>, say <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>.</note>
+            <note xml:id="n28020504" n="4">Led by <name type="person" key="Gass, Patrick">Gass</name>, write <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-02-04" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-02-06" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

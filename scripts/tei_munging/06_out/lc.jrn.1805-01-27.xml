@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-01-27">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+January 27, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">279</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">111</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-04-01</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-01-27">January 27, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-01-27.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>27th of <hi rend="italic">January Sunday</hi> 1804<ref target="n09012701" n="1"/>
+                  </date>
+               </ab>
+               <p>
+a fine day, attempt to Cut our Boat and Canoos out of the Ice, a deficuelt Task I fear as we find waters between the Ice, I Bleed the man with the Plurisy to day &amp; Swet him, <name type="person" key="Lewis, Meriwether">Capt Lewis</name> took of the Toes of one foot of the Boy who got frost bit Some time ago,<ref target="n09012702" n="2"/>
+                  <name type="person" key="Charbonneau, Toussaint">
+                     <name type="person" key="Charbonneau, Toussaint">Shabono</name>e</name> our interpeter returned, &amp; informed that the <name type="native_nation" key="Assiniboine Indians">Assiniboins</name> had returned to their Camps, &amp; brough 3 horses of <name type="person" key="Larocque, François-Antoine">Mr. Laroches</name> to Stay here for fear of their being Stolen by the <name type="native_nation" key="Assiniboine Indians">Assiniboins</name> who are great rogues—    Cut off the boy toes—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-01-27.02" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday 27th Jany. 1805</hi>. Cloudy. Some men employed Gitting hay from the prarie for to cover the Coal kill.<ref target="n09012703" n="3"/>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n09012701" n="1">
+               <name type="person" key="Clark, William">Clark</name> has been correcting the year for his January entries, here he missed one.</note>
+            <note xml:id="n09012702" n="2">Removal of more toes was necessary on <ref n="1805-01-31" type="related">January 31</ref>. For the probable procedure, see Chuinard (OOMD), 267–69.</note>
+            <note xml:id="n09012703" n="3">Meaning the blacksmith's kiln.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-01-26" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-01-27-28" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

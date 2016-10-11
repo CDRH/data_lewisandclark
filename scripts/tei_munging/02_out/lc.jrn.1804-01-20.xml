@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-01-20">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+January 20, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">158</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-01-05</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-01-20">January 20, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-01-20.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Friday 20th 1804 Jany—    a verry Cold night, river Still falling    〈some〉 no Ice running out of the <name type="place" key="Missouri River">Missouries</name>, the wind this morning from N W—The Thermometer at 7 oClock stood at 5°  below 0, at 8 oClock 7°  below 0, at 9 oClock 4°  below 0, at 10 oClock 2°  below 0, at 11 oClock 2°  above 0, at 12 oClock 4°  above 0,—    Took the M Altitude of <seg n="u9737">☉</seg> L. L with Sext: &amp; made it 62°  30' 45" N (cromtr. too fast 1 h 26' 10")    at 1 oClock the Thmtr. Stood at 6°  above 0, at 2 oClock the Them at 8°  above 0, The river <name type="place" key="Mississippi River">Mississipi</name> raised &amp; some [of] the Ice formed above the <name type="place" key="Missouri River">Missouris</name> broke Loose &amp; floted down, this Ice is 9 Inches Thick, 〈no ice flotes down the〉 at 3 oClock 11 abov 0, (Cloudy)    at 4 oClock at 8° abov 0, at 5 oClock 7½° abov 0,—    a Cloudy, many Grous Caught to Day &amp; <name type="person" key="Hall, Hugh">Hall</name> Caught 14 Rabits—
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-01-19" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-01-21" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

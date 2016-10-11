@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-08-21">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 21, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">311-317</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">352-353</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">269-270</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-08-21.01">
+            <placeName/>
+            <geo>45.6 -100.4167</geo>
+            <note>Camped at Ashley Island, between Campbell and Corson Counties, SD.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-12-15</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-08-21">August 21, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-08-21.01" n="lc.geo.1806-08-21.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Thursday 21st August 1806</hi>
+                  </date>
+               </ab>
+               <p>
+Musquetors very troublesom in the early part of last night and again this morning    I directed <name type="person" key="Ordway, John">Sergt. Ordway</name> to proceed on to where there was Some ash and get enough for two ores which were wanting. Men all put their arms in perfect order and we Set out at 5 a. m.    over took <name type="person" key="Ordway, John">Sergt. ordway</name> with wood for oars &amp;c.    at 8 A. M. Met three french men Comeing up, they proved to be three men from the <name type="native_nation" key="Arikara Indians">Ricaras</name> two of them <name type="person" key="Rivet, François">Reevea</name> &amp; <name type="person" key="Fleury, Francis, dit Grenier">Greinyea</name>
+                  <ref target="n39082101" n="1"/> wintered with us at the <name type="native_nation" key="Mandan Indians">mandans</name> in 1804    we Came too, those men informed us that they were on their way to the <name type="native_nation" key="Mandan Indians">Mandans</name>, and intended to go down to the <name type="place" key="Illinois">Illinois</name> this fall.    one of them quit a young lad requested a passage down to the <name type="place" key="Illinois">Illinois</name>, we concented and he got into a Canoe to an Ore.<ref target="n39082102" n="2"/> Those men informed us that 700 <name type="native_nation" key="Sioux Indians">Seeoux</name> had passed the <name type="native_nation" key="Arikara Indians">Ricaras</name> on their way to war with the <name type="native_nation" key="Mandan Indians">Mandans</name> &amp; <name type="native_nation" key="Hidatsa Indians">Menitarras</name> and that their encampment where the Squaws and Children wer, was Some place near the <name type="place" key="Missouri River, Big Bend of the">Big Bend</name> of this river below.    no <name type="native_nation" key="Arikara Indians">ricaras</name> had accompanied them but were all at home, they also informed us that no trader had arived at the <name type="native_nation" key="Arikara Indians">Ricaras</name> this Season, and that they were informed that the <name type="native_nation" key="Pawnee Indians">Pania</name> or <name type="native_nation" key="Arikara Indians">Ricara</name> Chief who went to the United States last Spring was a year, died on his return at Smoe place near the <name type="place" key="Sioux River">Sieoux river</name> &amp;c.<ref target="n39082103" n="3"/>    〈after〉 those men had nether [<hi rend="italic">NB: powder</hi>] nor lead we gave them a horn of powder and Some balls and after a delay of an hour we parted from the 2 men <name type="person" key="Rivet, François">Reevey</name> &amp; <name type="person" key="Fleury, Francis, dit Grenier">Grienway</name> and proceeded on.    the wind rose and bley from the N. W.    at half past 11 a. m. we arived in view of the upper <name type="native_nation" key="Arikara Indians">Ricara</name> villages,<ref target="n39082104" n="4"/> a Great number of womin Collecting wood on the banks, we Saluted the village with four guns 〈on St〉 and they returned the Salute by fireing Several guns in the village, I observed Several very white Lodges on the hill above the Town which the <name type="native_nation" key="Arikara Indians">ricaras</name> from the Shore informed me were <name type="native_nation" key="Cheyenne Indians">Chyennes</name> who had just arived—.    we landed opposit to the 2d Village<ref target="n39082105" n="5"/> and were met by the most of the men women and children of each village as also the <name type="native_nation" key="Cheyenne Indians">Chyennes</name> they all appeared anxious to take us by the hand and much rejoiced to See us return. I Steped on Shore and was Saluted by the two great Chiefs, whome we had made or given Medals to as we assend this river in 1804, and also Saluted by a great number both of <name type="native_nation" key="Arikara Indians">Ricaras</name> &amp; <name type="native_nation" key="Cheyenne Indians">Chyennes</name>, as they appeared anxious to here what we had done &amp;c. as well as to here Something about the <name type="native_nation" key="Mandan Indians">Mandans</name> &amp; <name type="native_nation" key="Hidatsa Indians">Minetarras</name>. I Set my self down on the Side of the Bank and the Chiefs &amp; brave men of the <name type="native_nation" key="Arikara Indians">Ricaras</name> &amp; <name type="native_nation" key="Cheyenne Indians">Chyennes</name> formed a Cercle around me.<ref target="n39082106" n="6"/>    after takeing a Smoke of <name type="native_nation" key="Mandan Indians">Mandan</name> tobacco which the <name type="person" key="Big White (Sheheke)">Big white</name> Chief who was Seated on my left hand furnished, I informed them as I had before informed the <name type="native_nation" key="Mandan Indians">Mandans</name> &amp; <name type="native_nation" key="Hidatsa Indians">Menitarras</name>, where we had been what we had done and Said to the different nations in there favour and envited Some of their Chiefs to accompany us down and See their great father and receve from his own mouth his good Councils and from his own hands his <hi rend="italic">bountifull</hi> gifts &amp;c. telling pretty much the Same which I had told the <name type="native_nation" key="Mandan Indians">mandans</name> and <name type="native_nation" key="Hidatsa Indians">menitarras</name>.    told them not to be afraid of any nation below that none would hurt them &amp;c. a man of about 32 years of age was intreduced to me as 1st Chief of the nation    this man they Call the grey eyes<ref target="n39082107" n="7"/> or [<hi rend="italic">blank</hi>]    he was absent from the Nation at the time we passed up, the man whome we had acknowledged as the principal chief<ref target="n39082108" n="8"/> informed me that the <name type="person" key="Grey Eyes">Grey eyes</name> was a greater Chief than himself and that he had given up all his pretentions with the Flag and Medal to the <name type="person" key="Grey Eyes">Grey eyes</name>—    The principal chief of the <name type="native_nation" key="Cheyenne Indians">Chyenne's</name> [<hi rend="italic">NB: <name type="native_nation" key="Arikara Indians">Ricaras</name>
+                  </hi>]<ref target="n39082109" n="9"/> was then introduced he is a Stout jolley fellow of about 35 years of age whome the <name type="native_nation" key="Arikara Indians">Ricaras</name> Call the <hi rend="italic">
+                     <name type="person" key="Grey Eyes">Grey Eyes</name>
+                  </hi> I also told the <name type="native_nation" key="Arikara Indians">ricaras</name> that I was very Sorrey to here that they were not on friendly terms with their neighbours the <name type="native_nation" key="Mandan Indians">Mandans</name> &amp; <name type="native_nation" key="Hidatsa Indians">Menetarras</name>, and had not listened to what we had Said to them but had Suffered their young men to join the <name type="native_nation" key="Sioux Indians">Sieoux</name> who had killed 8 <name type="native_nation" key="Mandan Indians">Mandans</name> &amp;c.    that their young men had Stolen the horses of the <name type="native_nation" key="Hidatsa Indians">Minetarras</name>, in retaliation for those enjories the <name type="native_nation" key="Mandan Indians">Mandans</name> &amp; <name type="native_nation" key="Hidatsa Indians">Menetarras</name> had Sent out a war party and killed 2 <name type="native_nation" key="Arikara Indians">ricaras</name>.    how could they expect other nations would be at peace with them when they themselves would not listen to what their great father had told them. I further informed them that the <name type="native_nation" key="Mandan Indians">Mandans</name> &amp; 〈<name type="native_nation" key="Arikara Indians">Ricaras</name>〉 <name type="native_nation" key="Hidatsa Indians">Menetaras</name> had opened their ears to what we had Said to them but had Staid at home untill they were Struk that they were Still disposed to be friendly and on good terms with the <name type="native_nation" key="Arikara Indians">ricaras</name>, they then Saw the great Chief of the <name type="native_nation" key="Mandan Indians">Mandans</name> by my Side who was on his way to see his great father, and was derected by his nation &amp; the <name type="native_nation" key="Hidatsa Indians">Menetaras</name> &amp; <name type="native_nation" key="Hidatsa Indians">Maharhas</name>, to Smoke in the pipe of peace with you and to tell you not to be afraid to go to their towns, or take the Birds in the plains that their ears were open to our Councils and no harm Should be done to a <name type="native_nation" key="Arikara Indians">Ricara</name>. The Chief will Speak presently—. The <name type="person" key="Grey Eyes">Grey eyes</name> Chief of the <name type="native_nation" key="Arikara Indians">ricaras</name> made a very animated Speach in which he mentioned his williness of following the councels which we had given them that they had Some bad young men who would not listen to the Councels but would join the <name type="native_nation" key="Sioux Indians">Seioux</name>, those men they had discarded and drove out of their villages, that the <name type="native_nation" key="Sioux Indians">Seioux</name> were the Cause of their Misunderstanding &amp;c. that they were a bad peoples.    that they had killed Several of the <name type="native_nation" key="Arikara Indians">Ricaras</name> Since I Saw them. That Several of the chiefs wished to accompany us down to See their great father, but wished to see the Chief who went down last Sumer return first, he expressed Some apprehention as to the Safty of that Chiefs in passing the <name type="native_nation" key="Sioux Indians">Sieoux</name>.    that the <name type="native_nation" key="Arikara Indians">Ricaras</name> had every wish to be friendly with the <name type="native_nation" key="Mandan Indians">Mandans</name> &amp;c.    that every <name type="native_nation" key="Mandan Indians">mandan</name> &amp;c. who chose to visit the <name type="native_nation" key="Arikara Indians">ricares</name> should be Safe that he Should Continue with his nation and See that they followed the Council which we had given them &amp;c.— The Sun being very hot the <name type="native_nation" key="Cheyenne Indians">Chyenne</name> Chief envited us to his Lodge which was pitched in the plain at no great distance from the River. I accepted the invitation and accompanied him to his lodge which was new and much larger than any which I have Seen    it was made of 20 dressed Buffalow Skins in the Same form of the <name type="native_nation" key="Sioux Indians">Sceoux</name> and lodges of other nations of this quarter.    about this lodges was 20 others Several of them of nearly the Same Size. I enquired for the ballance of the nation and was informed that they were near at hand and would arive on tomorrow and when all together amounted to 120 Lodges—. after Smokeing I gave a medal of the Small size to the <name type="native_nation" key="Cheyenne Indians">Chyenne</name> Chief &amp;c. which appeared to alarm him, he had a robe and a fleece of fat Buffalow meat brought and gave me with the meadel back and informed me that he knew that the white people were all <hi rend="italic">medecine</hi> and that he was afraid of the midal or any thing that white people gave to them.<ref target="n39082110" n="10"/> I had previously explained the cause of my gveing him the medal &amp; flag, and again told him the use of the medal and the caus of my giveing it to him, and again put it about his neck delivering him up his preasent of a roab &amp; meat, informing him that this was the medecene which his Great father directed me to deliver to all the great Chiefs who listened to his word and followed his councils, that he had done So and I should leave the medal with him as a token of his cincerity &amp;c.    he doubled the quantity of meat, and received the medal</p>
+               <p>
+The <name type="person" key="Big White (Sheheke)">Big White</name> chief of the <name type="native_nation" key="Mandan Indians">Mandans</name> Spoke at some length explainin the Cause of the misunderstanding between his nation and the <name type="native_nation" key="Arikara Indians">ricaras</name>, informing them of his wish to be on the most freindly termes &amp;c.    the <name type="native_nation" key="Cheyenne Indians">Chyennes</name> accused both nations of being in folt. I told to them all that if they eve wished to be hapy that they must Shake off all intimecy with the <name type="native_nation" key="Sioux Indians">Seioux</name> and unite themselves in a Strong allience and attend to what we had told them &amp;c. which they promesed all to do and we Smoked and parted on the best terms, the <name type="native_nation" key="Mandan Indians">Mandan</name> Chief was Saluted by Several Chiefs and brave men on his way with me to the river—    I had requested the <name type="native_nation" key="Arikara Indians">ricaras</name> &amp; <name type="native_nation" key="Cheyenne Indians">Chyennes</name> to inform me as Soon as possible of their intentions of going down with us to See their great father or not.    in the evening the Great Chief requested that I would walk to his house which I did, he gave me about 2 quarts [<hi rend="italic">NB: carrots</hi>] of Tobacco, 2 beaver Skins and a trencher of boiled Corn &amp; beans to eat (as it is the Custom of all the Nations on the <name type="place" key="Missouri River">Missouri</name> to give Something to every white man who enters their lodge Something to eat)    this Chief informed me that none of his Chiefs wished to go down with us they all wished to See the cheif who went down return first, that the <name type="native_nation" key="Cheyenne Indians">Chyennes</name> were a wild people and were afraid to go.    that they Should all listen to what I had Said. I gave him Some ribon to Suspend his Medal to and a Shell which the <name type="native_nation" key="Shoshone Indians">Snake indians</name> gave me for which he was very much pleased.</p>
+               <p>
+The interpreter informed me that the Cheifs of those villages had no intention of going down.    one the Cheifs of the Village on the island talkd. of going down. I returned to the boat where I found the principal Chief of the lower vilege who had Cut part of his hair and disfigured himself in Such a manner that I did not know him, he informed me the <name type="native_nation" key="Sioux Indians">Sieux</name> had killed his nephew and that Was in tears for him &amp;c.    we deturmind to proceed down to the Island and accordingly took the chief on board and proceeded on down to the 1sd village<ref target="n39082111" n="11"/> at which place we arived a little before dark and were met as before by nearly every individual of the Village, we Saluted them and landed imediately opposit the town. The one arm 2d Cheif of this village whome we had expected to accompany us down Spoke to the <name type="native_nation" key="Mandan Indians">mandan</name> Cheif in a loud and thretening tone which Caused me to be Some what alarmed for the Safty of that Cheif, I inform the <name type="native_nation" key="Arikara Indians">Ricaras</name> of this village that the <name type="native_nation" key="Mandan Indians">Mandans</name> had opened their ears to and fold. our Councils, that this Cheif was on his way to see their Great Father the P. of U S. and was under our protection that if any enjorey was done to him by any nation that we Should all die to a man. I told the <name type="native_nation" key="Arikara Indians">Ricaras</name> that they had told us lies, they promised to be at peace with the <name type="native_nation" key="Mandan Indians">mandans</name> &amp; <name type="native_nation" key="Hidatsa Indians">Menetarras</name>.    that our back was Scrcely turned before they went to war &amp; Killd. them and Stole their horses &amp;c—    The Cheif then envited me &amp; the <name type="native_nation" key="Mandan Indians">Mandan</name> Chief to his house to talk there. I accompanied him, after takeing a very Serimonious Smoke the 2d Cheif informd. me that he had opened his ears to what we had Said to him at the time we gave him the medal that he had not been to war against any Natn. Since, that once been to See the <name type="native_nation" key="Mandan Indians">mandans</name> and they were going to kill him, they had not killed the <name type="native_nation" key="Mandan Indians">Mandans</name>, it was the <name type="native_nation" key="Sioux Indians">Seeoux</name> who killed them and not the <name type="native_nation" key="Arikara Indians">ricaras</name>, he Said that the <name type="native_nation" key="Mandan Indians">Mandan</name> Cheif was as Safe as if he was in his own Vilg that he had opened his ears and Could here as well as the <name type="native_nation" key="Mandan Indians">mandans</name>. I then informd them what I had told the upper villages and we all become perfectly reconsiled all to each other and Smoked in the most perfect harmony we had invatations to go into their lodges and eate. I at length went to the grand Chiefs Lodge by his particelar invitation, the <name type="native_nation" key="Mandan Indians">Mandan</name> Chief Stuck close to me the Chief had prepd. a Supper of boiled young Corn, beens &amp; quashes of which he gave me in Wooden bowls.    he also gave me near 2 quarts of the Tobacco Seed, &amp; informed me he had always had his ears open to what we had Said, that he was well convinced that the <name type="native_nation" key="Sioux Indians">Seeoux</name> was the caus of all the trouble between the <name type="native_nation" key="Mandan Indians">Mandans</name> &amp; them    the <name type="native_nation" key="Arikara Indians">Ricars</name> had Stolen horses from the <name type="native_nation" key="Mandan Indians">Mandan</name> which had been returned all except one which could not be got, this mischief was done by Some young men who was bad.    along Converseation of explanations took place between the <name type="native_nation" key="Arikara Indians">Ricara</name> &amp; <name type="native_nation" key="Mandan Indians">mandan</name> Chiefs which appeared to be Satisfactory on both Sides.    the Chief gave a pipe with great form and every thing appeared to be made up. I returned to the river &amp; went to bead.<ref target="n39082112" n="12"/>    the Indians contd on board.    made 22 miles to day only.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-21.02" n="lc.geo.1806-08-21.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Thursday 21st August 1806.    a fair morning.    we Set out eairly and proceed. on    Soon met three frenchmen one by the name of <name type="person" key="Rivet, François">Revey</name>    they have been trapping as high as the <name type="place" key="Yellowstone River">river Roshjone</name> but have made out but poorly and have been living at the <name type="native_nation" key="Arikara Indians">Rickarees</name> and are now going to the <name type="native_nation" key="Mandan Indians">Mandans</name> for their traps and then they Say they will return to <name type="place" key="Saint Louis, Mo.">St. Louis</name>. So we proced. on    about 11 A. M. we arived at the upper village of <name type="native_nation" key="Arikara Indians">Rickarees</name> where we halted after fireing our blunderbusses.    they gathered on the bank verry numerous    a party of the <name type="native_nation" key="Cheyenne Indians">Chiens</name>
+                  <ref target="n39082113" n="13"/> are here trading with these natives for corn    give buffaloe meat dryed meat in return    three frenchman are living here &amp; one Spanyard.<ref target="n39082114" n="14"/> they informed us that 15 hundred of the <name type="native_nation" key="Sioux Indians">Souix</name> nation had gone up to war with the <name type="native_nation" key="Mandan Indians">Mandans</name>.    our officers gave a principal man of the <name type="native_nation" key="Cheyenne Indians">chien</name> nation a meddle.    he gave in return Some fat dryed buffaloe meat.    our officers tryed to git Some of these natives to go down with us but they did not incline to go as they Said they had Sent one with <name type="person" key="Gravelines, Joseph">Mr. Gravveleen</name>
+                  <ref target="n39082115" n="15"/> and he had not returnd.    this nation of <name type="native_nation" key="Cheyenne Indians">chien or dog Indians</name> live at the heads of chien river towards the <name type="place" key="Black Hills">black hills</name>.    they Say they are afraid of the white people and of any thing they have for they think it to be great medicin. Still Say that they have a great deal of fur in their country and have no trade for it &amp;C.    in the evening we mooved down to the lower village of <name type="native_nation" key="Arikara Indians">Rickarees</name> and Camped    <name type="person" key="Roi (Roie, Rokey), Peter">Ross [Roii?]</name> joined us in order to go down with us.    we traded for Robes &amp; Mockasons Some of which was handsome &amp;C.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-21.03" n="lc.geo.1806-08-21.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Thursday 21st.</hi>    We proceeded on early and had a fine morning. At 10 o'clock we arrived at the first village of the <name type="native_nation" key="Arikara Indians">Rickarees</name>,<ref target="n39082116" n="16"/> and halted. In our way here we met three Frenchmen in a canoe; one of them a young man who formerly belonged to the North west Company of traders, wished to go with us to the United States; which our Commanding Officers consented to and he was taken on board one of our canoes. When we halted and landed at the villages, the natives generally assembled, and Captain <name type="person" key="Clark, William">Clarke</name> held a council with them; when they declared they would live in peace with all nations; but that their chiefs and warriors would not go to the United States at present, as they had sent one chief already, and he had not returned. There are also a great many of the <name type="native_nation" key="Cheyenne Indians">Chien, or Dog</name> nation encamped here, in large handsome leather lodges; and who have come to trade with the <name type="native_nation" key="Arikara Indians">Rickarees</name> for corn and beans, for which they give in exchange buffaloe meat and robes. They are a very silly superstitious people. <name type="person" key="Clark, William">Captain Clarke</name> gave one of their chiefs a medal, which he gave back with a buffaloe robe, and said he was afraid of white people, and did not like to take any thing from them: but after some persuasion he accepted the meadal,<ref target="n39082117" n="17"/> and we left them. Here a Frenchman<ref target="n39082118" n="18"/> joined us to go to <name type="place" key="Saint Louis, Mo.">St. Louis</name>, who was in the service of Commanding Officers; and we dropped down to the village on the island, and encamped for the night.<ref target="n39082119" n="19"/>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n39082101" n="1">The first of these may be <name type="person" key="Rivet, François">François Rivet</name>, one of the expedition <hi rend="italic">engagés</hi> of 1804. The identity of "<name type="person" key="Fleury, Francis, dit Grenier">Greinyea</name>" is uncertain, but he is thought to be a man named <name type="person" key="Fleury, Francis, dit Grenier">Grenier</name>, an employee of <name type="person" key="Gravelines, Joseph">Joseph Gravelines</name> and probably one of the two men the party met on October 18, 1804, who had been robbed by the <name type="native_nation" key="Mandan Indians">Mandans</name>. <name type="person" key="Ordway, John">Ordway</name> says that they had been trapping as far as the "<name type="place" key="Yellowstone River">river Roshjone</name>" (<name type="place" key="Yellowstone River">Yellowstone</name>). For <name type="person" key="Rivet, François">Rivet</name>, see <ref n="v02.appendix.a" type="related">Appendix A</ref>.</note>
+            <note xml:id="n39082102" n="2">
+               <name type="person" key="Gass, Patrick">Gass</name>, in his entry for this day, says the young man had formerly worked for the North West Company.</note>
+            <note xml:id="n39082103" n="3">In fact, this chief died in <name type="place" key="Washington D.C.">Washington</name>. The <name type="native_nation" key="Arikara Indians">Arikaras'</name> suspicions as to the cause of his death led to hostilities with the Americans. On the question of his identity, see <ref n="1804-10-09" type="related">October 9</ref> and <ref n="1804-11-06" type="related">November 6, 1804</ref>. <name type="person" key="Jefferson, Thomas">Jefferson</name> to the <name type="native_nation" key="Arikara Indians">Arikaras</name>, April 11, 1806, Jackson (LLC), 1:306 and n. 2.</note>
+            <note xml:id="n39082104" n="4">The <name type="native_nation" key="Arikara Indians">Arikara</name> villages, shown on <hi rend="italic">Atlas</hi> map 25, were in <name type="place" key="Corson County, S. Dak.">Corson</name> and <name type="place" key="Campbell County, S. Dak.">Campbell</name> counties, <name type="place" key="South Dakota">South Dakota</name>, above the mouth of <name type="place"
+                     key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand River</name>; see <ref n="1804-10-08" type="related">October 8, 1804</ref>. The sites are now inundated by <name type="place" key="Oahe Reservoir">Oahe Reservoir</name>. MRC map 45.</note>
+            <note xml:id="n39082105" n="5">Since the first village, in the captains' reckoning, was that on <name type="place" key="Ashley Island">Ashley Island</name> (see <ref n="1804-10-08" type="related">October 8, 1804</ref>), the second was presumably on the north bank of the <name type="place" key="Missouri River">Missouri River</name> in <name type="place" key="Corson County, S. Dak.">Corson County</name>. There exists some confusion as to whether the captains viewed the <name type="native_nation" key="Arikara Indians">Arikaras</name> in that vicinity as living in one village or two (see <ref n="1804-10-09" type="related">October 9, 1804</ref>), but this probably does not affect the general location of the "2d Village" in this instance. However, whether the party landed at this village, or villages, in <name type="place" key="Corson County, S. Dak.">Corson County</name>, or opposite in <name type="place" key="Campbell County, S. Dak.">Campbell County</name>, may be questioned since <name type="person" key="Clark, William">Clark's</name> use of the word "opposite" is not always clear.</note>
+            <note xml:id="n39082106" n="6">Apparently <name type="person" key="Clark, William">Clark</name> was speaking for both captains, as among the <name type="native_nation" key="Mandan Indians">Mandans</name> and <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>, indicating that <name type="person" key="Lewis, Meriwether">Lewis</name> was still unable to move about because of his wound.</note>
+            <note xml:id="n39082107" n="7">
+               <name type="person" key="Grey Eyes">Grey Eyes</name> evidently took precedence over the other <name type="native_nation" key="Arikara Indians">Arikara</name> chiefs, whether or not he was "principal chief" in the white man's sense of the term. In 1807 <name type="person" key="Pryor, Nathaniel Hale">Nathaniel Pryor</name>, on his unsuccessful mission to return <name type="person" key="Big White (Sheheke)">Big White</name> to his people, gave <name type="person" key="Grey Eyes">Grey Eyes</name> a large government peace medal. In 1811 the chief was trading with <name type="person" key="Hunt, Wilson Price">Wilson Price Hunt</name>, leader of the overland Astorians, and with <name type="person" key="Lisa, Manuel">Manuel Lisa</name>. In 1823 his son was killed in a skirmish with Missouri Fur Company traders. The same year the <name type="native_nation" key="Arikara Indians">Arikaras</name> attacked <name type="person" key="Ashley, William">William Ashley's</name> trapping brigade at the tribe's villages; in this battle <name type="person" key="Collins, John">John Collins</name>, of the Corps of Discovery, died. This prompted a punitive expedition of U.S. troops from <name type="place" key="Fort Atkinson (Nebr.)">Fort Atkinson</name> led by <name type="person" key="Leavenworth, Henry">Colonel Henry Leavenworth</name>. When <name type="person" key="Leavenworth, Henry">Leavenworth's</name> artillery bombarded the villages on August 10, 1823, <name type="person" key="Grey Eyes">Grey Eyes</name> was killed. <name type="person" key="Pryor, Nathaniel Hale">Pryor</name> to <name type="person" key="Clark, William">Clark</name>, October 16, 1807, Jackson (LLC), 2:434, 438 n. 5; Bradbury, 130–31; Meyer, 48–49, 54; Chittenden, 2:589; Berry, 26, 40, 43–45, 55; Ronda (LCAI), 249; Ney, 173–80.</note>
+            <note xml:id="n39082108" n="8">This was <name type="person" key="Lighting Crow (Kakawissassa)">Kakawissassa, or Lighting Crow</name>; see <ref n="1804-10-09" type="related">October 9, 1804</ref>.</note>
+            <note xml:id="n39082109" n="9">
+               <name type="person" key="Biddle, Nicholas">Biddle's</name> later interpolation would appear to be an error, induced by the <name type="native_nation" key="Arikara Indians">Arikaras'</name> calling this <name type="native_nation" key="Cheyenne Indians">Cheyenne</name> by the <name type="native_nation" key="Arikara Indians">Arikara</name> chief's name. The two may have exchanged names, thus establishing a ritual brotherhood.</note>
+            <note xml:id="n39082110" n="10">
+               <name type="person" key="Henry, Alexander">Alexander Henry</name> found that the <name type="native_nation" key="Hidatsa Indians">Hidatsas</name> had a similar attitude toward the medals and flags given out by Lewis and <name type="person" key="Clark, William">Clark</name>, preferring to give these articles to their enemies in hopes the bad medicine would fall upon them. At this early stage of Indian-white contact special powers were often attributed to whites, which could be beneficial or malign according to the intentions of the giver. Coues (NLEH), 1:349–50. The chief was probably given the 55 mm <name type="person" key="Jefferson, Thomas">Jefferson</name> medal.</note>
+            <note xml:id="n39082111" n="11">The village of <name type="place" key="Sawa-haini village">Sawa-haini</name> on <name type="place" key="Ashley Island">Ashley Island</name>, above the mouth of <name type="place"
+                     key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand River</name>; see <ref n="1804-10-08" type="related">October 8, 1804</ref>. <hi rend="italic">Atlas</hi> map 25; MRC map 45.</note>
+            <note xml:id="n39082112" n="12">Apparently at <name type="place" key="Ashley Island">Ashley Island</name>, between <name type="place" key="Campbell County, S. Dak.">Campbell</name> and <name type="place" key="Corson County, S. Dak.">Corson</name> counties, now under <name type="place" key="Oahe Reservoir">Oahe Reservoir</name>. <hi rend="italic">Atlas</hi> map 25; MRC map 45.</note>
+            <note xml:id="n39082113" n="13">Meaning <name type="native_nation" key="Cheyenne Indians">Cheyennes</name>, but the term does not derive from the French <hi rend="italic">chien</hi>, "dog."</note>
+            <note xml:id="n39082114" n="14">One of them may have been the <name type="person" key="Roi (Roie, Rokey), Peter">"Ross" (or "Roii?")</name> mentioned later in this entry. He may be an expedition member of 1804, <name type="person" key="Roi (Roie, Rokey), Peter">Peter (or Pierre) Roi</name>. See <name type="person" key="Clark, William">Clark's</name> entry of <ref n="1806-08-22" type="related">August 22, 1806</ref>.</note>
+            <note xml:id="n39082115" n="15">
+               <name type="person" key="Gravelines, Joseph">Gravelines</name>. For a discussion of the death of the <name type="native_nation" key="Arikara Indians">Arikara</name> chief see <name type="person" key="Clark, William">Clark's</name> entries of <ref n="1804-10-08" type="related">October 8</ref> and <ref n="1804-10-09" type="related">9</ref>, 1804, and for this day.</note>
+            <note xml:id="n39082116" n="16">
+               <name type="person" key="Clark, William">Clark</name> gives this as the second village, but it was the first going downriver. This was the <name type="native_nation" key="Arikara Indians">Arikara</name> village, or villages, on the north bank of the <name type="place" key="Missouri River">Missouri</name> in <name type="place" key="Corson County, S. Dak.">Corson County</name>, <name type="place" key="South Dakota">South Dakota</name>, above the mouth of <name type="place"
+                     key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand River</name>.</note>
+            <note xml:id="n39082117" n="17">See <name type="person" key="Clark, William">Clark's</name> account of the incident on this date.</note>
+            <note xml:id="n39082118" n="18">Evidently the <name type="person" key="Roi (Roie, Rokey), Peter">Roie, or Ross</name>, noted by <name type="person" key="Ordway, John">Ordway</name> on this day. <name type="person" key="Clark, William">Clark</name> refers to him the next day, calling him <name type="person" key="Roi (Roie, Rokey), Peter">Rokey</name>. He was probably the former expedition <hi rend="italic">engagé</hi>
+               <name type="person" key="Roi (Roie, Rokey), Peter">Pierre Roi</name>; see <ref n="v02.appendix.a" type="related">Appendix A</ref>.</note>
+            <note xml:id="n39082119" n="19">
+               <name type="person" key="McKeehan, David">McKeehan's</name> note: "We think that some further proof is necessary to establish the weakness and superstition of these Indians. Had the chief persevered in his rejection of the medal, we, instead of thinking him silly and superstitious, would have been inclined to the opinion, that he was the wisest Indian on the <name type="place" key="Missouri River">Missouri</name>."</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-08-20" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-08-22" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

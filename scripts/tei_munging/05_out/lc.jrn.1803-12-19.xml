@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1803-12-19">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">December 19, 1803</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">137-138</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2003-12-19</date>
+            <date/>
+            <name>Laura Weakly</name>
+            <name/>Initial creation Transcribed</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1803-12-19">December 19, 1803</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1803-12-19.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>Monday 19th Der 1803</date>
+               </ab>
+               <p>
+Took the altitude of S L Limb with the Sextt    found it 56° 15' 22"    also with the quaderant found it 52° 57' 0"    the er[ror] of quadt is [<hi rend="italic">blank</hi>]</p>
+               <p>
+	The Waggons Came with provisions this evening    <name type="person" key="Floyd, Charles">Floyd</name> returned with a Letter from <name type="person" key="Lewis, Meriwether">Cap Lewis</name>
+                  <ref target="n03121901" n="1"/>    one from S S<ref target="n03121902" n="2"/> and Sundery papers—    an ax &amp; a Flat Saw to be returned</p>
+               <p>
+
+	At M: [Mouth?] <name type="place" key="Missouri River">Missouries</name>    the 19th Decr<ref target="n03121903" n="3"/>
+               </p>
+               <p>
+                  <table rows="16" cols="6">
+                     <head>Sexton</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">56°</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  9</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  7"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">28</cell>
+                        <cell role="data" rows="1" cols="1">  4</cell>
+                        <cell role="data" rows="1" cols="1">33</cell>
+                        <cell role="data" rows="1" cols="1">1/10</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  1</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">47</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">0</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">–</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">28</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">46</cell>
+                        <cell role="data" rows="1" cols="1">1/10</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">16</cell>
+                        <cell role="data" rows="1" cols="1">18</cell>
+                        <cell role="data" rows="1" cols="1">9/10</cell>
+                        <cell role="data" rows="1" cols="1">+</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  8</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">+</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">28</cell>
+                        <cell role="data" rows="1" cols="1">19</cell>
+                        <cell role="data" rows="1" cols="1">13</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  8</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">49</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">–</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">28</cell>
+                        <cell role="data" rows="1" cols="1">10</cell>
+                        <cell role="data" rows="1" cols="1">24</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">90</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">61</cell>
+                        <cell role="data" rows="1" cols="1">49</cell>
+                        <cell role="data" rows="1" cols="1">36</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">23</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">25</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">28</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">38</cell>
+                        <cell role="data" rows="1" cols="1">23</cell>
+                        <cell role="data" rows="1" cols="1">  8</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Differ with yesterday    54 seconds</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1' 32"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">     38</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">    54</hi> Seconds</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="14" cols="5">
+                     <head>Latidude qde.
+</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">54°</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">10'</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">00"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline"> </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">27</cell>
+                        <cell role="data" rows="1" cols="1">  5</cell>
+                        <cell role="data" rows="1" cols="1">  0</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline"> </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  1</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">47</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline"> </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">27</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">13</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline"> </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">16</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">18</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">9</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">Differ 4° 21 9/10"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">26</cell>
+                        <cell role="data" rows="1" cols="1">46</cell>
+                        <cell role="data" rows="1" cols="1">54</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline"> </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline"> </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  8</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline"> </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">+</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">26</cell>
+                        <cell role="data" rows="1" cols="1">47</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">1/10</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">1</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">20</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline"> </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline"> </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">+</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">28</cell>
+                        <cell role="data" rows="1" cols="1">  7</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">1/10</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">90</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline"> </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline"> </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline"> </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">61</cell>
+                        <cell role="data" rows="1" cols="1">52</cell>
+                        <cell role="data" rows="1" cols="1">57</cell>
+                        <cell role="data" rows="1" cols="1">9/10</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">23</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">25</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">28</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline"> </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">38</cell>
+                        <cell role="data" rows="1" cols="1">27</cell>
+                        <cell role="data" rows="1" cols="1">29</cell>
+                        <cell role="data" rows="1" cols="1">9/10</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="5" cols="7">
+                     <head>Differ from yesterday 3' 18" less</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">55</cell>
+                        <cell role="data" rows="1" cols="1">32"</cell>
+                        <cell role="data" rows="1" cols="1">8/10</cell>
+                        <cell role="data" rows="1" cols="1">        </cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">27</cell>
+                        <cell role="data" rows="1" cols="1">2/10</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">11</cell>
+                        <cell role="data" rows="1" cols="1">27</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">1</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  9</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  1</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">9</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">        </cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">18</cell>
+                        <cell role="data" rows="1" cols="1">2/10</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">8</cell>
+                        <cell role="data" rows="1" cols="1">        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1.9</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n03121901" n="1">See <name type="person" key="Lewis, Meriwether">Lewis</name> to <name type="person" key="Clark, William">Clark</name>, December 17, 1803, Jackson (LLC), 1:144.</note>
+            <note xml:id="n03121902" n="2">This may be S. L (<name type="place" key="Saint Louis, Mo.">St. Louis</name>), Z. Z, or Z. T (perhaps for <name type="person" key="Trudeau, Zenon">Zenon Trudeau</name>).</note>
+            <note xml:id="n03121903" n="3">The following material on the reverse of document 2 of the Field Notes (misplaced as document 3 in Osgood's facsimiles) was marked off by <name type="person" key="Clark, William">Clark</name> as a unit; it is placed under the date given at the head.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1803-12-18" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-12-19-20" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

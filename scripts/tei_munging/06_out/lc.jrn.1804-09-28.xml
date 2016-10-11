@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-09-28">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+September 28, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">123-125</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">71-72</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">47-48</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">89-91</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-09-28.01">
+            <placeName/>
+            <geo>44.4653 -100.4534</geo>
+            <note>About 3 miles up the river from the Oahe Dam, in a spot inundated by the Missouri</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-03-15</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-09-28">September 28, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-09-28.01" n="lc.geo.1804-09-28.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">28th of Septr 1804</hi> Friday    I made maney attempts in defferent ways to find our anchor without Sukcess, the Sand had Covered her up, we Deturmined to proceed on to Day—    and after Brackfast we with great Dificuelty got the Chiefs out of the boat, and when we were about Setting out the Class Called the Soldiars took possession of the Cable—    the 1st Cheif [<name type="person" key="Black Buffalo">Black Buffalo</name>] was Still on board and intended to go a Short distance up with us, was informed that the men Set on the Cable, he went out and told <name type="person" key="Lewis, Meriwether">Capt Lewis</name> who was at the Bow, they wanted tobacco    The 2d Chief [<name type="person" key="Partisan">Partisan</name>] Demanded a flag &amp; Tobacco which we refused to give, Stateing proper reasons to them for it, after much rangleing, we gave a 〈twist〉 Carrot of Tobacco to the 1st Cheif<ref target="n07092801" n="1"/> and he to the men &amp; jurked the Cable from them &amp; proceeded on under a Breeze from the S E.    we took in the 3rd Cheif [<name type="person" key="Buffalo Medicine (Tar-ton-gar-wa-ker)">Buffalo Medicine</name>] who was Sitting on a Sand bar 2 miles above—    he told us the Rope was held by order of the 2d Chief who was a Double Spoken man—    Soon after we Saw a man rideing full Speed up the bank, we brought him on board, &amp; he proved to be the Sun of the 3d Cheif, by him we Sent a talk to the nation, explanitory of our hoisting the red flag under the white, if they were for Peace Stay at home and doe as we had Derected them and if they were for war or deturmined to attempt to Stop us, we were ready to defend our Selves (as I had before Said)—    we Substituted large Stones in place of an Anchor, we came to at a Small Sand bar in the middle of the river and Stayed all night—<ref target="n07092802" n="2"/> I am verry unwell I think for the want of Sleep—</p>
+               <p>
+                  <table rows="3" cols="3">
+                     <head>
+                        <hi rend="italic">Course &amp; Distane</hi> 28th of Septr.</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 33° W.</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">m. to the exty [extremity] of a Sand bar on the L. S.    passed a<lb/>
+willow Isd L S</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">3</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">m. to a bend on the S. S. at a wood opsd. some high land L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">6</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-28.02" n="lc.geo.1804-09-28.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">28th of September 1804 Friday</hi>
+                  </date>
+               </ab>
+               <p>
+Made many attemps in different ways to 〈get up〉 find our Anchor but could not, the Sand had Covered it, from the misfortune of last night our boat was laying at Shore in a verry unfavourable Situation, after finding that the anchor Could not be found we deturmined to proceed on, with great difficuelty got the Chiefs out of our boat, and when we was about Setting out the Class Called the Soldiers took possession of the Cable    the 1s Chief which was Still on board &amp; intended to go a Short distance up with us, I told him the men of his nation Set on the Cable, he went out &amp; told <name type="person" key="Lewis, Meriwether">Capt Lewis</name> who was at the bow the men who Set on the Roap was Soldiers 〈they〉 and wanted [<hi rend="italic">two words illegible, crossed out</hi>] Tobacco 〈&amp; then we might proceed,〉    <name type="person" key="Lewis, Meriwether">Capt. L.</name> Said would not agree to be forced into any thing, the 2d Chief Demanded a flag &amp; Tobacco which we refusd. to Give Stateing proper reasons to them for it    〈<hi rend="italic">the necssity</hi>〉    after much difucelty—which had nearly reduced us to hostility    I threw a Carot of Tobacco to 1s Chief Spoke So as to touch his pride    took the port fire<ref target="n07092803" n="3"/> from the gunner    the Chief gives the Tobaco to his Soldiers &amp; he jurked the rope from them and handed it to the bows man    we then Set out under a Breeze from the S. E.    about 2 miles up we observed the 3rd Chief on Shore beckining to 〈him〉 us    we took him on board    he informed us the roap was held by the order of the 2d Chief who was a Double Spoken man, Soon after we Saw a man Comeing full Speed, thro: the plains left his horse &amp; proceeded across a Sand bar near the Shore we took him on board &amp; observed that he was the Son of the Chief we had on board    we Sent by him a talk to the nation Stateent the Cause of our hoisting the red flag undr. the white, if they were for peace Stay at home &amp; do as we had Derected them, if the were for war ore were Deturmined to Stop us we were ready to defend our Selves, we halted one houre &amp; ½ on the S. S. &amp; made a Substitute of Stones for a ancher, refreshed our men and proceeded on about 2 miles higher up &amp; came too a verry Small Sand bar in the middle of the river &amp; Stayed all night, I am Verry unwelle for want of Sleep    Deturmined to Sleep to night if possible, the men Cooked &amp; we rested well.</p>
+               <p>
+                  <table rows="3" cols="3">
+                     <head>
+                        <hi rend="italic">Course Distance &amp; refr.</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 33 W.</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">miles to the extmty of a Sand bar on the L. S.    passed a 〈Sand〉<lb/>
+willow Isid. on the L. S at the Comse. of the course.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° W</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">3</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">mes. to an object on the bank in a bend to the S. S. at Some<lb/>
+woods, opds. the High land on the L. S. Camped.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">6</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-28.03" n="lc.geo.1804-09-28.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 28th Sept. 1804</hi>.    a clear and pleasant morning. <name type="person" key="Clark, William">Capt. Clark</name> went with the pearogues eairly.    this morning to hunt for the anker. Searched Some time with the Boat hook &amp; poles, could not find it.    they took a chord and put Sinkers to the middle and took each end to the 2 pearogues and dragged the river diligently along time but could not find it.    took breakfast about 10 O.Clock.    the whole lodge of Indians were waiting on the bank to See us Start as we intended if the excident had not of happened last night.    we gave up the Idea of finding our anker.—    We then were about to Set off.    Some of the chiefs were on bord insisting on our Staying untill the others came. We told them we could not wait any longer.—    they then did not incline to let us go on    they Sayed we might return back with what we had or remain with them, but we could not go up the <name type="place" key="Missouri River">Missouri</name> any further, about 200 Indians were then on the bank. Some had fire arms. Some had Spears. Some had a kind of cutlashes, and all the rest had Bows and Steel or Iron pointed arrows. Several of the warries Set by the chord where our boat the big Barge was tied    the 2 pearogues were tied on the outside of the Barge. <name type="person" key="Clark, William">Capt. Clark</name> was Speaking to the chiefs in the cabbin. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> asked the chiefs if they were going out of the boat.    they did not incline to.    then <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> came out.    ordered every man to his place    ordered the Sail hoisted, then one man went out untied the chord, which the warrier had in his hand, then 2 or 3 more of their warries caught hold of the chord and tyed it faster than before. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> then appeared to be angerry, and told to Go out of the Boat and the chief then went out and Sayd we are Sorry to have you go. But if you will Give us one carret of tobacco we will be willing for you to go on &amp; will not try to Stop you. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> Gave it to them.    the head chief Sayd then that we must Give him one more carrit of tobacco more for his warries who held the chord and then we might go, boath of our Captains told him that we did not mean to be trifled with.    nor would not humer them any more, but would Give him 1 carrit more for the warriers, if he would be a man of his word and Stand to his word like a man.    the chief Sayd he was mad too, to See us S[t]and Som much for 1 carrit of tobacco.    if we would Give it we might go on. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> Gave it to him.    he then took the chord in his hand &amp; Gave it to us.    we then Set off under a gentle Breeze which happened to be favourable.    we proceeded on    passd bottom prarie on S. S.    high land on N. S.    went 4 miles and halted.    we fixed 2 large Stone to our boats to answer as ankers, as we did not intend to Camp on Shore again untill we Got to an other Nation. We Saw one of the four  mentioned chiefs comming up the river S. S.    we took him on board.    he informed us that their was 300 Indians around which was the other lodge.—     they wished to have us Stop.    we told his Son to tell them that we Should not Stop.    this old chief Sayd he was our friend and wished to go with us for a while.    the Capts. alowed him to Stay on board.    we then proceeded on.    at Sunset we cast anker near a small Sand bar in the middle of the river, where we Stayed all night.<ref target="n07092804" n="4"/>    heared Some Indians on boath Sides of the river.    corn cooked on the little Sand bar for the next day    all but the cooks Slept on board.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-28.04" n="lc.geo.1804-09-28.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday, 28th.</hi> This morning we dragged the river all around where the boat lay, but could not find the anchor. At 9 o'clock we made preparations to sail; some of the chiefs were on board, and concluded to go some distance with us. When we went to shove off, some of the Indians took hold of the rope and would not let it go. This conduct had like to be attended with bad consequences, as <name type="person" key="Lewis, Meriwether">Captain Lewis</name> was near giving orders to cut the rope and to fire on them. The chiefs, however, went out and talked with them: they said they wanted a carrot of tobacco, and that if we gave that we might go. The tobacco was given them, and we went off under a gentle breeze of wind. 
+We passed high land on the north side and bottom on the south. We proceeded 4 miles, and then saw an Indian<ref target="n07092805" n="5"/> following us along the beach, when <name type="person" key="Lewis, Meriwether">Captain Lewis</name> went in a periogue and brought him on board. He informed us that 300 more Indians had come to their camp, and desired we should stop and talk with them. We did not then stop, but proceeded on, and he remained on board. We passed a fine bottom covered with timber on the north side, and bare hills on the south. We made two large stones serve the purpose of an anchor, and at sunset anchored for the night, near a small sand-bar in the middle of the river.</p>
+               <p>
+While I was at the Indian camp yesterday they yoked a dog to a kind of car, which they have to haul their baggage from one camp to another; the nation having no settled place or village, but are always moving about.<ref target="n07092806" n="6"/> The dogs are not large, much resemble a wolf, and will haul about 70 pounds 
+each.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-28.05" n="lc.geo.1804-09-28.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>		
+Friday 28th Sept. 1804.    we draged the river in hopes to find our anker but it was in vain.    about 9 oClock we went to Set off    Some of the chiefs was then on board and concluded to go a little ways with us.    when we were about to Shove off a nomber of warries on Shore caught hold of our cable 
+and another whiped of[f] the children    the women went off also    only about 60 warries on the edge of the bank and we jest under the bank.    Some of them had fire arms and the rest had Good bows and arrows ready for war.    the consequence had like to have been bad as <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> was near cutting 
+the cable with his Sword and giving orders for the party to fire on them.    then the chiefs went out and Spoke to them.    they Said if we would Give them a carrit of tobacco they would loose the rope.    we gave them tobacco.    the chief after Some hesitation loosed the rope himself.    we then Set of[f]  under a fine breese of wind.    passed high land on N. S. &amp; bottom on S. S.    Saw an Indian comming up the Shore.    we hoisted a white flag, and a red flag for peace or war, and was determined to fight our way, if we could not Go without.    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> Got into a perogue and went on Shore to See what the Indian wished brought him on board.    he Informed us that 300 more of Savages had arived at the village they wished us to Stop and talk with them, but we did not Stop.    he remained on board.    about Sunset we ankered out near a Small Sand bar in the middle of the river for to Stay all night.</p>
+               <p>
+Friday September 28th    This morning the hands were all employed, (excepting the Guard) in dragging for our Anchor and Cable; but without any success, about 9 oClock A. M. we went to sett off.    some of the Indian Chiefs was then on board of the boat, and concluded to go a little way with us, We then proceeded to shove off the boat, a number of their Warriors who were on the shore caught fast hold of the Cable, one of their Warriors drove off their Women and Children from the Boat, Whilst about Sixty of their Warriors stood on the Edge of the bank of the River; and our boat lay just under the bank of it.    The Warriors were all Arm'd some of them had fire Arms, and the remainder Bows &amp; Arrows, they appeared all ready for Warr, which would have been attended with dangerous consequences to us, they having such a superiority to us in regard to Number.—    <name type="person" key="Lewis, Meriwether">Captain Lewis</name> was going to cut the Cable of the Boat with his sword; and to give Orders for our party, to fire on the Indians.    When their chiefs who were on board the Boat; went out and spoke to them, they told our Officers that if they would give the Warriors that held the Rope, a few Carrots of Tobacco; that they would loose the Rope.    The Officer then threw 〈a〉 some Carrotts of tobacco among them, and they left the Rope and ran to get it, One of the Chiefs which had been on board, the boat after some hesitation loosed the Cable.—</p>
+               <p>
+We then set out with a fair breeze of Wind, and passed some high land, lying on the North side of the River; and fine bottoms of land, lying on the South side of the River, We proceeded on, when we espied an Indian coming 
+running up the Shore, the Officers order'd a White flag, and one of Red to be hoisted, as a sign to the Indians, that we were either for peace, or Warr; they being determined if we could not proceed on without fighting, that it 
+should be the case; but if possible, to get on peacably;    <name type="person" key="Lewis, Meriwether">Captain Lewis</name> got on board one of the Pettyaugers, and proceeded to shore, to see what the Indian wanted, and to gain what information; he could from him, respecting the intention of the Indians toward us; <name type="person" key="Lewis, Meriwether">Captain Lewis</name> soon returned, and brought the Indian on board with him;—</p>
+               <p>
+This Indian told the Officers, that Three hundred more Indians, had arrived at the Village, that we had just left; and that they wished us to stop, and have a talk with them.—    and that he had come to us, for that purpose; Our officers proceeded on with the Boat &amp; Pettyaugers, not wishing to have any further connection with such a banditti of Villains.—    The Indian remained on board the boat with us, at Sun set we anchor'd the Boat &amp; Pettyaugers out near a Sand Barr, lying in the middle of the River; Where we remained 'till the morning—    The Tribe of the <name type="native_nation" key="Sioux Indians, Teton">Teton</name> Indians are part of the <name type="native_nation" key="Sioux Indians">Soix</name> Nation, they inhabit on both sides &amp; near the <name type="place" key="Missouri River">Mesouri</name> River.    They are a fierce looking Sett of Savages, &amp; chiefly delight in Warr, plundering &amp;ca.—    they are stout well made Indians and their Women are in general handsome, If I may be allowed to judge from those which I saw in the lodges that we left Yesterday.—	
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n07092801" n="1">
+               <name type="person" key="Clark, William">Clark</name> later explained his action as attempting to touch the chief's pride and get him to use his influence to allay hostilities. See second entry for this day and <name type="person" key="Biddle, Nicholas">Nicholas Biddle</name> Notes [ca. April 1810], Jackson (LLC), 2:518.</note>
+            <note xml:id="n07092802" n="2">
+               <hi rend="italic">Atlas</hi> map 23 erroneously shows the camp of September 26 and 27 as being also that of the twenty-eighth. The actual camp for this day was apparently at the site the map shows as the camp for September 29. It lay between <name type="place" key="Stanley County, S. Dak.">Stanley</name> and <name type="place" key="Hughes County, S. Dak.">Hughes</name> counties, <name type="place" key="South Dakota">South Dakota</name>, perhaps three miles above the present <name type="place" key="Oahe Dam">Oahe Dam</name>; the area is now inundated by <name type="place" key="Oahe Reservoir">Oahe Reservoir</name>. Mattison (OR), 30–33; MRC map 41.</note>
+            <note xml:id="n07092803" n="3">A portfire was a slow-burning fuse, probably a cord impregnated with gunpowder or some other flammable substance; the burning end could be touched to the touchhole of a cannon to fire the weapon. <name type="person" key="Ordway, John">Ordway</name> notes on <ref n="1804-09-25" type="related">September 25</ref> that the swivel cannon was loaded with sixteen musket balls and the two smaller swivels (blunderbusses) with buckshot.</note>
+            <note xml:id="n07092804" n="4">About three miles above <name type="place" key="Oahe Dam">Oahe Dam</name>, <name type="place" key="Hughes County, S. Dak.">Hughes</name> and <name type="place" key="Stanley County, S. Dak.">Stanley</name> counties, <name type="place" key="South Dakota">South Dakota</name>; the
+area is now inundated by the reservoir.</note>
+            <note xml:id="n07092805" n="5">
+               <name type="person" key="Buffalo Medicine (Tar-ton-gar-wa-ker)">Buffalo Medicine</name>.</note>
+            <note xml:id="n07092806" n="6">
+               <name type="person" key="McKeehan, David">McKeehan's</name> note: "It appears that these people, (in some respects resembling the wandering Arabs) are an unsettled, ferocious, blood-thirsty race, and have been great destroyers of the Algonquin nation, who inhabit the country about <name type="place" key="Lake Superior">lake Superior</name>. <name type="person" key="McKenzie, Charles">Mr. McKenzie</name> states the following circumstance, 'Within three miles of the last portage' (a place near <name type="place" key="Lake Superior">lake Superior</name>) 'is a remarkable rock, with a smooth face, but split and cracked in different parts, which hang over the water. Into one of its horizontal chasms a great number of arrows have been shot, which is said to have been done by a war party of the Nadowasis or <name type="native_nation" key="Sioux Indians">Sieux</name>, who had done much mischief in this country, and left these weapons as a warning to the Chebois or natives, that, notwithstanding its lakes, rivers and rocks, it was not inaccessible to their enemies.' <hi rend="italic">General History of the Fur Trade.</hi>"</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-09-27" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-09-29" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

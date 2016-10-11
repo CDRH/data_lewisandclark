@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-03-07">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+March 7, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 6</title>
+               <title level="m" type="sub">November 2, 1805–March 22, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1990</date>
+               <biblScope type="pages">387-391</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">275</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">196</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">426</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-08-31</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-03-07">March 7, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-03-07.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Friday March 7th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+The wind was so high that <name type="person" key="Coboway">Comowol</name> did not leave us untill late this evening. <name type="person" key="Labiche, François">Labuish</name> and <name type="person" key="Drouillard, George">Drewyer</name> returned at sunset having killed one Elk only.    they report that there are some scattering male Elk in the neighbourhood of the place they killed this one or about 5 miles up the <name type="place" key="Lewis and Clark (Fort, Netul) River">Netul</name> on this side.— <name type="person" key="Bratton, William E.">Bratton</name> is much wose today, he complains of a violent pain in the small of his back and is unable in consequence to set up.    we gave him one of our flanel shirts, applyed a bandage of flannel to the part and bathed and rubed it well with some vollatile linniment which I prepared with sperits of wine,<ref target="n28030701" n="1"/> camphor, castile soap<ref target="n28030702" n="2"/> and a little laudinum.    he felt himself better in the evening.—    the large blue and brown herons, or Crains as they are usually called in the U' States are found on this river below tidewater.    they are the same with those of the U' States.    the fishing hawk with the crown of the head White and back of a mealy white, and the blue crested or King fisher are found on every part of the <name type="place" key="Columbia River">Columbia</name> and it's waters and are the same with those of the U' States.    the fishing hawk<ref target="n28030703" n="3"/> is not abundant particularly in the mountains.    there are four speceis of larus or gull on this coast and river, 1st a small speceis about the size of a pigeon; white except some black spots about the head and a little brown on the but of the wings, 2nd a speceis somewhat larger of a light brown colour with a whitish or mealy coloured back.    3rd the large grey gull, or white larus with a greyish 〈black〉 brown back and a light grey belley and breast, about the size of a well grown pullet or reather larger.    the wings are remarkably long in proportion to the size of the body and it's under chap towards the extremity is more gibbous and protuberant than in either of the other speceis.    4th a white gull about the size of the second with a remarkable beak; adjoining the head and at the base of the uper Chap there is an elivated orning of the same substance with the beak which forms the nostrils; it is some what in this form.<ref target="n28030704" n="4"/>    the feet are webbed and the legs and feet of a yellow colour.    the form of the wings body &amp;c are much that of the seond species.    the large grey gull is found on the river as high as the entrance of the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name> and in common with other speceis on the coast; the others appear to be confined to tidewater; and the fourth speceis not so common as either of the others. The cormorant is a large black duck which feeds on fish; I perceive no difference between it and those found in the <name type="place" key="Potomac River">Potomac</name> and other rivers on the <name type="place" key="Atlantic Ocean">Atlantic</name> Coast.    tho' I do not recollect seeing those on the <name type="place" key="Atlantic Ocean">atlantic</name> so high up the rivers as those are found here.    we first met with them on the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name> at the entrance of <name type="native_nation" key="Nez Perce Indians">Chopunnish river</name>.    they increased in quantity as we decended, and formed much the greatest portion of the waterfowl which we saw on the <name type="place" key="Columbia River">Columbia</name> untill we reached tidewater where they also abound but do not bear a similar proportion to the other fowls found in this quarter.—</p>
+               <p>
+                  <figure rend="aps">
+                     <p>Head of a White Gull<lb/>
+(northern fulmar, <hi rend="italic">Fulmarus glacialis</hi>),<lb/>
+March 7, 1806, Codex J, p. 115
+<bibl>
+                           <orgName>(American Philosophical Society library, </orgName>
+                           <note place="inline"> used with permission.)</note>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+               <p>
+There are two speceis of loons.    1st the Speckled loon<ref target="n28030705" n="5"/> found on every part of the rivers of this country.    they are the same size colours and form with those of the <name type="place" key="Atlantic Ocean">Atlantic</name> coast.    the second speceis<ref target="n28030706" n="6"/> we first met with at the great falls of the <name type="place" key="Columbia River">Columbia</name> and from thence down.    this bird is not more than half the size of the speckled loon, it's neck is long, slender and white in front.    the Colour of the body and back of the neck and head are of a dun or ash colour, the breast and belley are white.    the beak is like that of the speckled loon and like them it cannot fly but flutters along on the top of the warter or dives for security when pursued.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-03-07.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Friday March 7th 1806</hi>
+                  </date>
+               </ab>
+               <p>
+The wind was So high that <name type="person" key="Coboway">Comowol</name> did not leave us untill late this evening. <name type="person" key="Drouillard, George">Drewyer</name> &amp; <name type="person" key="Labiche, François">Labiesh</name> returned at Sunset haveing killed one Elk only.    they report that there are Some Scattering mail Elk in the neighbourhood of the place they killed this one or about 5 miles up the <name type="place" key="Lewis and Clark (Fort, Netul) River">Netul river</name> on the west Side—. <name type="person" key="Bratton, William E.">Bratten</name> is much worst to day he complains of a violent pain in the Small of his back, and is unable in consequence of it to Set up.    we gave him one of our flanel Shirts. I applied a bandage of flanel to the part and rubed it well with Some volatile linniment which was prepared with Sperits of wine, camphire, Sastile Soap, and a little laudinum.    he felt himself better in the evening at which time I repeated the linnement and bathed his beet [feet], to restore circulation which he complaind of in that part.</p>
+               <p>
+There are two Species of <hi rend="italic">Loons.</hi>    1st the Speckled loon found on every part of the rivers of this quarter, they are the Same Size Colour and form with those of <name type="place" key="Ohio River">the Ohio</name>, and <name type="place" key="Atlantic Ocean">atlantic</name> coasts.    the 2d Species we first met with at the <name type="place" key="Columbia River, Great Falls of the">great falls of the Columbia</name> and from thence down.    this bird is not more than half the Size of the Speckled loon, it's neck is long, Slender and white in front.    the colour of the body and back of the neck and hear are of a dun or ash Colour, the breast and belly are white.    the back is like that of the Speckled loon, and like them it cannot fly, but flutters along on the top of the water or Dives for Security when pursued.</p>
+               <p>
+                  <name type="person" key="Shields, John">John Shields</name>
+                  <name type="person" key="Field, Reubin">Reubin Fields</name> &amp; Robert <name type="person" key="Frazer, Robert">frasure</name> measured 2 trees of the fur kind    one 37 feet around, appears sound, has but fiew limbs for 200 feet    it is East of the <name type="place" key="Lewis and Clark (Fort, Netul) River">Netul</name>    abt 280 feet high.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-03-07.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Friday 7th March 1806.    a little hail last night and Showers of hail and rain this morning. Sergt. <name type="person" key="Gass, Patrick">Gass</name> and one man went at repairing the canoes.    towards evening 2 hunters<ref target="n28030707" n="7"/> returned    had killed one Elk and Seen a number more.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-03-07.04" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 7th.</hi>    This was a wet morning, and some showers fell occasionally during the day. Among our other difficulties we now experience the want of tobacco and out of 33 persons composing our party, there are but 7 who do not make use of it; we use crab-tree<ref target="n28030708" n="8"/> bark as a substitute. In the evening one of our hunters came in and had killed an elk a considerable distance off.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-03-07.05" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Friday March 7th    A Rainey wet morning.    Serjeant <name type="person" key="Gass, Patrick">Gass</name> &amp; one of our Men were employed in repairing our Canoes.    towards evening our Two hunters returned &amp; had killed One Elk.—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n28030701" n="1">Alcohol.</note>
+            <note xml:id="n28030702" n="2">Soap made from olive oil and sodium hydroxide.</note>
+            <note xml:id="n28030703" n="3">A red vertical starts at "the large blue" and runs to about here, perhaps done by <name type="person" key="Biddle, Nicholas">Biddle</name>.</note>
+            <note xml:id="n28030704" n="4">A sketch of the northern fulmar's head (fig. 46) in <name type="person" key="Lewis, Meriwether">Lewis's</name> Codex J, p. 115.</note>
+            <note xml:id="n28030705" n="5">Perhaps the arctic loon, <hi rend="italic">Gavia arctica</hi> [AOU, 10], specifically the western subspecies, Pacific loon, <hi rend="italic">G. a. pacifica.</hi> Or it may be the same as "those of the <name type="place" key="Atlantic Ocean">Atlantic</name> coast," that is, the common loon, <hi rend="italic">G. immer</hi> [AOU, 7]. Burroughs, 177; Coues (HLC), 3:811 n. 85; Holmgren, 32.</note>
+            <note xml:id="n28030706" n="6">The western grebe, <hi rend="italic">Aechmophorus occidentalis</hi> [AOU, 1]. Burroughs, 178–79; Coues (HLC), 3:882 n. 86. Holmgren, 32, considers it to be either the arctic loon or the red-throated loon, <hi rend="italic">Gavia stellata</hi> [AOU, 11]. With both this and the loon, <name type="person" key="Lewis, Meriwether">Lewis</name> was mistaken about their ability to fly.</note>
+            <note xml:id="n28030707" n="7">
+               <name type="person" key="Drouillard, George">Drouillard</name> and <name type="person" key="Labiche, François">Labiche</name>, say the captains.</note>
+            <note xml:id="n28030708" n="8">Presumably Oregon crabapple, <hi rend="italic">Malus diversifolia</hi> (Bong.) Roem.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-03-06" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-03-08" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

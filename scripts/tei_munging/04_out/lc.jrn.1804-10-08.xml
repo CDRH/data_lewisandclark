@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-10-08">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+October 8, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">150-154</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">77-78</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">52</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">97</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-10-08.01">
+            <placeName/>
+            <geo>45.5989 -100.4219</geo>
+            <note>Ashley Island, Corson County, SD. They remained here until 1804-10-12</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-03-17</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-10-08">October 8, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-10-08.01" n="lc.geo.1804-10-08.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">8th of October Monday 1804</hi>    a cool Morning    wind from the N. W.    passed the mouth of a Small Creek on the L. S.<ref target="n07100801" n="1"/> about 2½ Miles above the Isd.    Passed the Mouth of a River on the L. S. called by the <hi rend="italic">
+                     <name type="native_nation" key="Arikara Indians">Ricaries</name>
+                  </hi>
+                  <name type="place"
+                        key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">We-tar-hoo</name>.<ref target="n07100802" n="2"/>    this river is 120 yards wide, the water Confined within 20 yards, throws out mud with little Sand, great quanties of red Berries, resembling Currents<ref target="n07100803" n="3"/> near the mouth of this river    Latd. 45° 39' 5' N. this river heads in the 1s <name type="place" key="Black Hills">Black Mountain</name>,<ref target="n07100804" n="4"/> 2 Miles higher up passed a Small River on the L. S. Called <name type="place" key="Rampart (Maropa) Creek">
+                     <hi rend="italic">Maropa</hi>
+                  </name>
+                  <ref target="n07100805" n="5"/>    25 yards wide Chocked up with mud—    our hunters discovered a <name type="native_nation" key="Arikara Indians">Ricara</name> village on an Island a flew miles above<ref target="n07100806" n="6"/>    we passed the 1s <name type="native_nation" key="Arikara Indians">Ricara</name> Village<ref target="n07100807" n="7"/> about the center of the Island, in presence of Great numbers of Spectators and Camped above the Island on the L. S. at the foot of Some high land. (<name type="person" key="Gravelines, Joseph">Mr. Gravotine</name> a French man joined us as an interpeter)<ref target="n07100808" n="8"/>    The Island on which 1s <name type="native_nation" key="Arikara Indians">Ricara</name> Village is Situated, is about 3 miles long Seperated from the Main L. Side by a Narrow Deep Channel, those Indians Cultivate on the Island Corn Beens Simmins,<ref target="n07100809" n="9"/> Tobacco &amp;c &amp;c.    after Landing <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> with <name type="person" key="Gravelines, Joseph">Mr. Gravelin</name> and 3 men went to the Village, I formd a Camp on Shore<ref target="n07100810" n="10"/> with the Perogue crew &amp; guard, with the Boat at Anchor, <name type="person" key="Lewis, Meriwether">Capt Lewis</name> returned late, a french man and a Spaniard accompanied him<ref target="n07100811" n="11"/>
+               </p>
+               <p>
+                  <table rows="7" cols="3">
+                     <head>Course Distance &amp;c</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 70° W.</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">m. to a Tree in a bend to the L. S.    passed a Small creek<lb/>
+L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">M. to a point on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 15° E</cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                        <cell role="data" rows="1" cols="1">m. to the mouth of <name type="place"
+                                 key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">We terhoo</name> River in a Bend to the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40° E</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">m. on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30 E</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">m to the mouth of <name type="place" key="Rampart (Maropa) Creek">Maropa River</name> on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 15° E</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">m. to the lower point of an Island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">3 ½</cell>
+                        <cell role="data" rows="1" cols="1">m to a pt. on the L. S    passed the 1s <name type="native_nation" key="Arikara Indians">Ricara</name> V. &amp; the Island.</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-08.02" n="lc.geo.1804-10-08.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>8th of <hi rend="italic">October Monday</hi> 1804</date>
+               </ab>
+               <p>
+a Cool morning    Set out early    the wind from the N. W.    proceeded on    passed the mouth of a Small Creek on the L. S. about 2½ miles above <name type="place" key="Blue Blanket (Grouse) Island">Grouse Island</name>, (3) passed a willow Island which Divides the Current equilly.    (2) passed the mouth of a River called by the <name type="native_nation" key="Arikara Indians">ricares</name>
+                  <hi rend="italic">
+                     <name type="place"
+                           key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">We tar hoo</name>
+                  </hi> on the L. S.    this river is 120 yards wide, the water of which at this time is Confined within 20 yards, dischargeing but a Small quantity, throwing out mud with Small propotion of Sand, great quantities of the red Berries, ressembling Currents, are on the river in every bend—    77° 33' 0" Lattitude from the Obsevation of to day at the mouth of this river [<hi rend="italic">NB: heads in the <name type="place" key="Black Hills">Black mountn</name>
+                  </hi>] is 45° 39' 5"—North—    proceeded on passed a (3) Small river of 25 yards wide Called (4) 〈<name type="place" key="Rampart (Maropa) Creek">
+                     <hi rend="italic">Rear par</hi>
+                  </name>〉 or <name type="place" key="Rampart (Maropa) Creek">Beaver Dam R</name>    this river [<hi rend="italic">WC: <name type="place" key="Rampart (Maropa) Creek">Maropa</name>
+                  </hi>] is intirely Chocked up with mud, with a Streem of 1 Inch Diamiter passing through, discharging no Sand, at 1 (5) mile passed
+the lower pint of an Island close on the L. S.    2 of our men discovered the <name type="native_nation" key="Arikara Indians">reckerrei</name> village, about the Center of the Island on the L. Side on the main Shore. this Island is<ref target="n07100812" n="12"/> about 3 miles long, Seperated from the L. S. by a Channel of about 60 yards wide verry Deep, The Isld. is covered with fields, where those people raise their Corn Tobacco Beens &amp;c. &amp;c. Great numbers of those People came on the Island to See us pass, we passed above the head of the Island &amp; <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> with 2 interpeters &amp; 2 men went to the Village    I formed a Camp of the french &amp; the guard on Shore, with one Sentinal on board of the boat at anchor, a pleasent evening    all things arranged both for Peace or War, This Village (6) is Situated about the Center of a large Island 〈on〉 near the L. Side 〈at the〉 &amp; near the foot of Some high bald uneaven hills, Several french men Came up with <name type="person" key="Lewis, Meriwether">Capt Lewis</name> in a Perogue, one of which is a Mr. Gravellin a man well versed in the language of this nation and gave us Some information relitive to the Countrey naton &amp;c</p>
+               <p>
+                  <hi rend="right">
+                     <hi rend="italic">8th Octr</hi>
+                  </hi>
+               </p>
+               <p>
+                  <table rows="8" cols="3">
+                     <head>
+                        <hi rend="italic">Courses Distance and reffurences</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 70° W</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles to a tree in the bind to the L. Side, passed a small<lb/>
+Creek L. S. (1)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">miles to the pt. on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 15° E.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">to the Mo: of a River <name type="place"
+                                 key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">We ter hoo</name> in the bend to the L. S.,<lb/>
+(2) passing over a 〈low [Bluff?] of Soft Slate Stone〉 120<lb/>
+yds wide 〈passd〉 a willow Island (3)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40° E.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile on the L. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30 E</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile on the L. S. to the mouth of a Small <name type="place" key="Rampart (Maropa) Creek">river <hi rend="italic">
+                                 <name type="place" key="Rampart (Maropa) Creek">Ma-ro-pa</name>
+                              </hi>
+                           </name>
+                           <lb/>
+(4)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 15° E</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile to the lower pt. of an Isd. (5)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  3 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles to a pt. on the S. S.    passd. the head of the Isd. and<lb/>
+the 1st. reckorrees Village (6) opsd. a Creek we Call after<lb/>
+the 1st. Chief <name type="place" key="Fisher (Kakawissassa) Creek">Kakawissassa Creek</name>. L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">12</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-08.03" n="lc.geo.1804-10-08.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="right">
+                        <hi rend="italic">Orders</hi>
+                        <lb/>
+October the 8th 1804<ref target="n07100813" n="13"/>
+                     </hi>
+                  </date>
+               </ab>
+               <p>
+                  <name type="person" key="Frazer, Robert">Robert Frazer</name> being regularly inlisted and haveing become on of the
+Corps of <hi rend="italic">Vollenteers</hi> for <hi rend="italic">North Western Discovery</hi>, he is therefore to be viewed &amp; respected accordingly; and will be anexed to <name type="person" key="Gass, Patrick">Sergeant Gass's</name> mess.</p>
+               <p>
+                  <hi rend="right">
+                     <name type="person" key="Clark, William">Wm Clark</name> Cpt &amp;.<lb/>
+                     <name type="person" key="Lewis, Meriwether">Meriwether Lewis</name>
+                     <lb/>
+Capt. 1st U' S. Regt. Infty</hi>
+               </p>
+               <p>
+                  <hi rend="italic">
+                     <name type="place" key="Rampart (Maropa) Creek">River Marapa</name>
+                  </hi>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-08.04" n="lc.geo.1804-10-08.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="right">
+                        <hi rend="italic">Point of Observation No. 47.</hi>
+                        <lb/>
+Monday October 8th 1804.<ref target="n07100814" n="14"/>
+                     </hi>
+                  </date>
+               </ab>
+               <p>	
+On the Lard. shore, in the point fromed [formed] by the junction of the <name type="place"
+                        key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Weterhoo</name> river with the <name type="place" key="Missouri River">Missouri</name>.</p>
+               <p>
+Observed meridian Altd. of <seg n="u9737">☉</seg>'s U. L. with Sextant by the fore observation.    77° 35' "</p>
+               <p>
+Latitude deduced from this observation N. 45° 39' 5" 
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-08.05" n="lc.geo.1804-10-08.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 8th Oct. 1804</hi>.    a pleasant morning. We Set off eairly.    proceeded on    passd. high land on S. S.    passd. a run on S. S. named Slate run.<ref target="n07100815" n="15"/>    Some hunters out on Shore N. S. hunting in a bottom covered with Timber on N. S.    passd an Island    we halted at 12 oC.    took dinner at the Mouth of a River which came in on S. S.    a large Timber Bottom at the Mouth of this River.    we named this <name type="place" key="Rampart (Maropa) Creek">River Marappa</name>—.<ref target="n07100816" n="16"/>    the hunters came on board.    they Saw a large flock of goats, wounded an Elk, but killed nothing.    the wind from the North. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> took the Medrian altd. &amp; made the Lat. [<hi rend="italic">blank</hi>]    we proceeded on    passd. a Timbered Bottom land on S. S. Barron hills on N. S.    [movd?] on one mile    passd another creek on S. S.<ref target="n07100817" n="17"/>    proceeded on    passed an Island<ref target="n07100818" n="18"/> on S. S. where we found a large <name type="native_nation" key="Arikara Indians">Rickor Ree</name> village on S. S.    a nomber of the Indians assembled on the Sand bar opposite the village to See us.    a frenchman<ref target="n07100819" n="19"/> with them.    we took the frenchman on board    he Informed us that they were all friendly &amp; Glad to See us.    we Camped about one mile abo. the first <name type="native_nation" key="Arikara Indians">Ricka Ree</name> village. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> went to the village.    carried Some tobacco &amp; Smoaked with the chiefs of thee Nation.    thier is 2 more villages of the <name type="native_nation" key="Arikara Indians">Rickarees</name> a Short Distance abo. this place &amp;.C.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-08.06" n="lc.geo.1804-10-08.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 8th.</hi>    The morning was pleasant and we set out early: passed high land on the south side and bottom on the north. The river here is very shallow and full of sand bars. We passed a run on the south side called <name type="place" key="Deadman Creek (Slate Run) (S. Dak.)">slate run</name>. Two of our hunters went out to some timber land on the north side to look for game. At 12 we came to a river on the south side, 120 yards wide, called the <name type="place" key="Rampart (Maropa) Creek">Marapa</name>,<ref target="n07100820" n="20"/> where we halted for dinner. The hunters came up, but had killed nothing. We passed a long range of hills on the north side; about two miles from the <name type="place" key="Rampart (Maropa) Creek">Marapa</name> we passed a creek 25 yards wide; and about four miles further came to an island, where one band of the <name type="native_nation" key="Arikara Indians">Rickarees</name> live; and encamped at the upper end.
+
+
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-08.07" n="lc.geo.1804-10-08.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>	
+Monday 8th Oct. 1804    we Set off eairly, a pleasant morning.    we passed a run on the S. S. called <name type="place" key="Deadman Creek (Slate Run) (S. Dak.)">Slate run</name>.    proceeded on    about 12 oClock we passed the mouth of <name type="place" key="Rampart (Maropa) Creek">Marroppy River</name>.<ref target="n07100821" n="21"/>    we came to the upper end of an Island where one band of the <name type="native_nation" key="Arikara Indians">Rick a rees</name> live.    we camped<ref target="n07100822" n="22"/> above the Isd on the S. S.</p>
+               <p>
+Monday October 8th    We set off early this morning, having pleasant Weather, we passed a Run of water lying on the south side of the River called <name type="place" key="Deadman Creek (Slate Run) (S. Dak.)">Slatt Run</name>, and proceeded on, about 12 o'Clock A. M we passed the Mouth of the <name type="place" key="Rampart (Maropa) Creek">Marrapy River</name>, and came to the upper end of an Island, where One band of the <name type="native_nation" key="Arikara Indians">Rick a Rees</name> Indians lived, and Encamped above the Island on the South side of the River.—
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n07100801" n="1">
+               <name type="place" key="Deadman Creek (Slate Run) (S. Dak.)">Bellsman</name>, or <name type="place" key="Deadman Creek (Slate Run) (S. Dak.)">Deadmans</name>, Creek, in <name type="place" key="Corson County, S. Dak.">Corson County</name>, <name type="place" key="South Dakota">South Dakota</name>. <hi rend="italic">Atlas</hi> map 25 shows it as "<name type="place" key="Deadman Creek (Slate Run) (S. Dak.)">Slate Run</name>." MRC map 45; MRY map 106.</note>
+            <note xml:id="n07100802" n="2">Present <name type="place"
+                     key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand River</name>, in <name type="place" key="Corson County, S. Dak.">Corson County</name>. Maximilian has penciled in the present name on <hi rend="italic">Atlas</hi> map 25. MRC map 45. The word may actually be the <name type="native_nation" key="Mandan Indians">Mandan</name> term <hi rend="italic">witahu</hi>, "place characterized by oaks."</note>
+            <note xml:id="n07100803" n="3">Buffaloberry.</note>
+            <note xml:id="n07100804" n="4">The sources of the two principal forks of the <name type="place"
+                     key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand</name> are in northwest <name type="place" key="South Dakota">South Dakota</name>, to the north of the <name type="place" key="Black Hills">Black Hills</name> as presently defined.</note>
+            <note xml:id="n07100805" n="5">Later <name type="place" key="Rampart (Maropa) Creek">Rampart, or Oak, Creek</name>, in <name type="place" key="Corson County, S. Dak.">Corson County</name>. Mattison (OR), 88; <hi rend="italic">Altas</hi> map 25; MRC map 45. The word may be <hi rend="italic">mirapa</hi>, which is Hidatsa for "beaver."</note>
+            <note xml:id="n07100806" n="6">Later <name type="place" key="Ashley Island">Ashley Island</name>, with its village, <name type="place" key="Sawa-haini village">Sawa-haini</name>. Maximilian would later note that it was abandoned and it may have been he who scribbled across the site pictured on <hi rend="italic">Atlas</hi> map 25. Ronda (LCAI), 53; Mattison (OR), 93–94; MRC map 45.</note>
+            <note xml:id="n07100807" n="7">The <name type="native_nation" key="Arikara Indians">Arikaras</name> belonged to the Caddoan language family, most closely related to the <name type="native_nation" key="Pawnee Indians, Loup or Skiri">Skiri Pawnees</name>; they called themselves <hi rend="italic">sahnis</hi> (people) or Star-rah-he (as <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> termed it). As indicated by the many abandoned villages seen by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>, they moved a great deal within the <name type="place" key="Missouri River">Missouri</name> valley. The Corps of Discovery found them in four villages, in <name type="place" key="Corson County, S. Dak.">Corson</name> and <name type="place" key="Campbell County, S. Dak.">Campbell</name> counties, <name type="place" key="South Dakota">South Dakota</name>, above the mouth of the <name type="place"
+                     key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand River</name>. Most of the area is now inundated by the <name type="place" key="Oahe Reservoir">Oahe Reservoir</name>.<lb/>
+               <p>
+The <name type="native_nation" key="Arikara Indians">Arikaras</name> were sedentary farmers in earth-lodge villages. Their social and political structure was distinctly hierarchical, with hereditary chiefs. Like the other village tribes of the upper <name type="place" key="Missouri River">Missouri</name>, they were middlemen in intertribal trade. They had by 1804 been in contact with traders for several years, and venereal disease was already a problem.</p>
+               <p>
+The friendly relations between whites and <name type="native_nation" key="Arikara Indians">Arikaras</name> did not continue. The death of their chief who went to <name type="place" key="Washington D.C.">Washington</name> at the captains' invitation apparently antagonized them, and they prevented the return of the <name type="native_nation" key="Mandan Indians">Mandan</name> chief <name type="person" key="Big White (Sheheke)">Sheheke</name> to his people in 1807.</p>
+               <p>
+During the fur-trade days of the 1820s and 1830s they were openly hostile to whites. This hostility must have influenced the unfavorable judgements of many later white traders and travelers, who emphasized the "<name type="native_nation" key="Arikara Indians">Rees</name>'" various deviations from Anglo-American mores. Eventually declining numbers, caused by disease and war with the <name type="native_nation" key="Sioux Indians">Sioux</name>, forced them to move to <name type="place" key="Like-a-Fishhook village">Like-a-Fishhook</name> village in <name type="place" key="North Dakota">North Dakota</name> with the <name type="native_nation" key="Hidatsa Indians">Hidatsas</name> and <name type="native_nation" key="Mandan Indians">Mandans</name>. This event, about 1845, finally brought about an alliance suggested by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>. The tribe now resides at <name type="place" key="Fort Berthold Reservation (N. Dak.)">Fort Berthold Reservation</name>, <name type="place" key="North Dakota">North Dakota</name>. Meyer; Denig; Holder; Parks (BVAP); Ronda (LCAI), 43–53; Thwaites (EWT), 5:127–41, 167–81, 6:111–31, 142–46, 23:386–95; Hodge, 1:83–86; <hi rend="italic">Atlas</hi> map 25.</p>
+            </note>
+            <note xml:id="n07100808" n="8">
+               <name type="person" key="Gravelines, Joseph">Joseph Gravelines</name> was an associate or employee of <name type="person" key="Loisel, Régis">Régis Loisel</name> and <name type="person" key="Tabeau, Pierre-Antoine">Pierre-Antoine Tabeau</name>, reported in 1811 as having lived among the <name type="native_nation" key="Arikara Indians">Arikaras</name> for more than twenty years. The captains found him useful as an <name type="native_nation" key="Arikara Indians">Arikara</name> interpreter, and in 1805 he accompanied the <name type="native_nation" key="Arikara Indians">Arikara</name> chief who journeyed to <name type="place" key="Washington D.C.">Washington</name>. He had to return alone, bearing the news of the chief's death; the <name type="native_nation" key="Arikara Indians">Arikaras</name> gave him an unpleasant reception. The government later employed him as its representative among the <name type="native_nation" key="Arikara Indians">Arikaras</name>, an indication of the captains' high opinion of him. <name type="place" key="Dearborn, Henry">Henry Dearborn</name> to <name type="place" key="Wilkinson, James">James Wilkinson</name>, April 9, 1806; <name type="person" key="Lewis, Meriwether">Lewis</name> to <name type="place" key="Chouteau, Pierre">Pierre Chouteau</name>, June 8, 1809, Jackson (LLC), 1:137 n. 71, 303–5 and n. 1, 2:431 n. 19, 437 n. 1, 455; <name type="person" key="Gravelines, Joseph">Graveline</name>; Thwaites (EWT), 4:127 and n. 84; Abel (TN), 41, 106 n. 28, 133 n. 101, 138 n. 109, 140.</note>
+            <note xml:id="n07100809" n="9">Apparently <name type="person" key="Clark, William">Clark's</name> version of "simlin" or "simnel," a term used in the Southern states for summer squashes. Criswell, 78. Probably cultivated varieties of pumpkins and squashes, including possibly <hi rend="italic">Cucurbita moschata</hi> Duchesne, crookneck squash. Fernald, 1349.</note>
+            <note xml:id="n07100810" n="10">The camp, where they would remain until <ref n="1804-10-11" type="related">October 11</ref>, was in <name type="place" key="Corson County, S. Dak.">Corson County</name>, between <name type="place" key="Rampart (Maropa) Creek">Rampart (Maropa) Creek</name> and <name type="place" key="Fisher (Kakawissassa) Creek">Cathead Creek</name> (<name type="person" key="Clark, William">Clark's</name>
+               <name type="person" key="Fisher (Kakawissassa) Creek">Kakawissassa Creek</name>), above <name type="place" key="Ashley Island">Ashley Island</name>. The area is now inundated by <name type="place" key="Oahe Reservoir">Oahe Reservoir</name>. Mattison (OR), 95; <hi rend="italic">Atlas</hi> map 25; MRC map 45; MRY map 107.</note>
+            <note xml:id="n07100811" n="11">The Spaniard does not appear in the Codex C version. Possibly he was <name type="person" key="Garreau, Joseph">Joseph Garreau</name>, who had lived with the <name type="native_nation" key="Arikara Indians">Arikaras</name> since 1793, and who has been variously described as a Spaniard or a Frenchman. An "old Spaniard" who was living with the <name type="native_nation" key="Arikara Indians">Arikaras</name> in 1807 acted as interpreter for <name type="person" key="Pryor, Nathaniel Hale">Nathaniel Pryor's</name> unsuccessful expedition to return the <name type="native_nation" key="Mandan Indians">Mandan</name> chief <name type="person" key="Big White (Sheheke)">Sheheke</name> to his home. <name type="person" key="Pryor, Nathaniel Hale">Pryor's</name> report to <name type="person" key="Clark, William">Clark</name> on the venture indicates that the latter was already acquainted with the man. See below, <ref n="1805-03-16" type="related">March 16, 1805</ref>. The Frenchman, if he was not <name type="person" key="Gravelines, Joseph">Gravelines</name>, was probably <name type="person" key="Tabeau, Pierre-Antoine">Pierre-Antoine Tabeau</name>. <name type="person" key="Pryor, Nathaniel Hale">Pryor</name> to <name type="person" key="Clark, William">Clark</name>, October 16, 1807, Jackson (LLC), 2:434, 438 n. 4; Loos, 809.</note>
+            <note xml:id="n07100812" n="12">The text of the entry is interrupted here by the courses and distances; the two parts are brought together for ease of reading.</note>
+            <note xml:id="n07100813" n="13">From the Orderly Book in <name type="person" key="Clark, William">Clark's</name> hand, except for <name type="person" key="Lewis, Meriwether">Lewis's</name> own signature.</note>
+            <note xml:id="n07100814" n="14">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> astronomical observation in Codex O.</note>
+            <note xml:id="n07100815" n="15">
+               <name type="place" key="Deadman Creek (Slate Run) (S. Dak.)">Deadman Creek</name>, <name type="place" key="Corson County, S. Dak.">Corson County</name>, <name type="place" key="South Dakota">South Dakota</name>.</note>
+            <note xml:id="n07100816" n="16">
+               <name type="place" key="Oak (Maropa) Creek">Oak Creek</name>, <name type="place" key="Corson County, S. Dak.">Corson County</name>, according to <name type="person" key="Ordway, John">Ordway's</name> name, but perhaps <name type="place"
+                     key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand River</name> according to his position.</note>
+            <note xml:id="n07100817" n="17">Probably the actual <name type="place" key="Oak (Maropa) Creek">Oak Creek</name>.</note>
+            <note xml:id="n07100818" n="18">
+               <name type="place" key="Ashley Island">Ashley Island</name>, with its <name type="native_nation" key="Arikara Indians">Arikara</name> Indian village.</note>
+            <note xml:id="n07100819" n="19">
+               <name type="person" key="Gravelines, Joseph">Joseph Gravelines</name>.</note>
+            <note xml:id="n07100820" n="20">
+               <name type="person" key="Gass, Patrick">Gass</name> is apparently in error here; according to <name type="person" key="Clark, William">Clark</name> the stream 120 yards wide is the "<name type="place"
+                     key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">We tar hoo</name>," the present <name type="place"
+                     key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand River</name>, <name type="place" key="Corson County, S. Dak.">Corson County</name>; the "<name type="place" key="Rampart (Maropa) Creek">Maropa</name>" is the next stream on the same side, <name type="place" key="Rampart (Maropa) Creek">Rampart</name>, or <name type="place" key="Oak (Maropa) Creek">Oak</name>, Creek, also in <name type="place" key="Corson County, S. Dak.">Corson County</name>.</note>
+            <note xml:id="n07100821" n="21">
+               <name type="person" key="Clark, William">Clark's</name>
+               <name type="place" key="Rampart (Maropa) Creek">Maropa River</name> is present <name type="place" key="Oak (Maropa) Creek">Oak Creek</name>, <name type="place" key="Corson County, S. Dak.">Corson County</name>. <name type="person" key="Gass, Patrick">Gass</name> and <name type="person" key="Ordway, John">Ordway</name>, however, seem to confuse it with <name type="person" key="Clark, William">Clark's</name> "<name type="place"
+                     key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">We tar hoo</name>," the <name type="place"
+                     key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Grand River</name>, also in <name type="place" key="Corson County, S. Dak.">Corson County</name>, a little below <name type="place" key="Oak (Maropa) Creek">Oak Creek</name>. <name type="person" key="Whitehouse, Joseph">Whitehouse</name> does not give enough detail for us to be sure whether or not he repeats this confusion.</note>
+            <note xml:id="n07100822" n="22">In <name type="place" key="Corson County, S. Dak.">Corson County</name>, between <name type="place" key="Oak (Maropa) Creek">Oak</name> (or <name type="place" key="Rampart (Maropa) Creek">Rampart</name>) Creek and <name type="place" key="Fisher (Kakawissassa) Creek">Fisher (or Cathead) Creek</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-10-07" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-10-09" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

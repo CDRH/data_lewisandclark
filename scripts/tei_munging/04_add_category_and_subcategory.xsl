@@ -81,20 +81,8 @@
           <xsl:element name="term" namespace="http://www.tei-c.org/ns/1.0">Information</xsl:element>
         </xsl:when>
         <!-- Image -->
-        <xsl:when test="starts-with(/TEI/@xml:id,'lc.img.18')">
-          <xsl:element name="term" namespace="http://www.tei-c.org/ns/1.0">Journal</xsl:element>
-        </xsl:when>
-        <xsl:when test="starts-with(/TEI/@xml:id,'lc.img.18')">
-          <xsl:element name="term" namespace="http://www.tei-c.org/ns/1.0">People and Places</xsl:element>
-        </xsl:when>
-        <xsl:when test="starts-with(/TEI/@xml:id,'lc.img.johnsgard')">
-          <xsl:element name="term" namespace="http://www.tei-c.org/ns/1.0">Plants and Animals</xsl:element>
-        </xsl:when>
-        <xsl:when test="starts-with(/TEI/@xml:id,'lc.img.loc')">
-          <xsl:element name="term" namespace="http://www.tei-c.org/ns/1.0">Plants and Animals</xsl:element>
-        </xsl:when>
-        <xsl:when test="starts-with(/TEI/@xml:id,'lc.img')">
-          <xsl:element name="term" namespace="http://www.tei-c.org/ns/1.0">NO IMAGE SUBCATEGORY</xsl:element>
+        <xsl:when test="starts-with(/TEI/@xml:id,'lc.img.')">
+          <xsl:element name="term" namespace="http://www.tei-c.org/ns/1.0"></xsl:element><!-- handled in subsequent sylesheet -->
         </xsl:when>
         <!-- Multimedia -->
         <xsl:when test="starts-with(/TEI/@xml:id,'lc.mult.multimedia')">

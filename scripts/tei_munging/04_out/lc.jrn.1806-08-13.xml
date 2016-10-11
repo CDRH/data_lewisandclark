@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-08-13">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 13, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">297-298</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">349</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">267</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-08-13.01">
+            <placeName/>
+            <geo>47.4833 -101.3667</geo>
+            <note>Camped in McLean County, northeast of present Riverdale, ND.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-12-10</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-08-13">August 13, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-08-13.01" n="lc.geo.1806-08-13.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>〈<hi rend="italic">Wednesday</hi>〉 <hi rend="italic">Friday 13th August 1806</hi> [<hi rend="italic">EC: Friday correct</hi>]</date>
+               </ab>
+               <p>
+the last night was very Cold with a Stiff breeze from the N. W.    all hands were on board and we Set out at Sunrize and proceeded on very well with a Stiff breeze astern the greater part of the day.    passed the enterance of the <name type="place" key="Little Missouri (E-mâh-tark',-Ah'-zhah) River">Little Missouri river</name> at 8 A. M. and arived at the Enterance of <name type="place"
+                        key="Snake (E-pe,-Âh-zhah, Miry) Creek (McLean County, N. Dak.)">Myry river</name> at Sun Set and encamped on the N E Side<ref target="n37081301" n="1"/> haveing came by the assistance of the wind, the Current and our oars 86 miles. below the <name type="place" key="Little Bason">little bason</name>
+                  <ref target="n37081302" n="2"/> I with <name type="person" key="Drouillard, George">Drewyer</name> walked through the N. E. point. we Saw an Elk and Several deer. <name type="person" key="Drouillard, George">Drewyer</name> wounded the Elk but could not get him. I joined the perogus &amp; party again the bend below and proceeded on. Some indians were Seen in a Skin Canoe below, they were decending from an old Camp of theirs on the S. W. Side, those I suppose to be Some of the <name type="native_nation" key="Hidatsa Indians">Minetaras</name> who had been up on a hunting expedition, one Canoe was left at their Camp.    we had not proceeded far before I discovered two indians on a high hill.    nothing very remarkable took place. the Misquetors are not So troublesom this evening as they have been. the air is cool &amp;c.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-13.02" n="lc.geo.1806-08-13.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 13th August 1806.    a fair morning.    we Set out eairly and procd. on 〈about 9 A. M. we arived at our old neighbours the <name type="native_nation" key="Hidatsa Indians">Grousevauntaus</name> and <name type="native_nation" key="Mandan Indians">Mandans</name>    we Saluted them by fireing our Swivvel our blunderbuss Several times.—〉<ref target="n37081303" n="3"/> verry well    a fair breeze from the N. W.    came a long distance this day and Camped on the N. Side.—
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-13.03" n="lc.geo.1806-08-13.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 13th.</hi>    After a stormy night of wind and rain we set out early in 
+a fine morning; about nine o'clock passed the <name type="place" key="Little Missouri (E-mâh-tark',-Ah'-zhah) River">Little Missouri</name> and went on very well during the whole of the day. In the evening those in some of the small canoes, which were ahead, saw Indians,<ref target="n37081304" n="4"/> who fled before they could speak to them. At night we encamped opposite an old wintering village of the <name type="native_nation" key="Hidatsa Indians">Grossventres</name>, which had been deserted some time ago.
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n37081301" n="1">"<name type="place"
+                     key="Snake (E-pe,-Âh-zhah, Miry) Creek (McLean County, N. Dak.)">Myry Creek</name>," which the party first passed on <ref n="1805-04-09" type="related">April 9, 1805</ref>, is now <name type="place"
+                     key="Snake (E-pe,-Âh-zhah, Miry) Creek (McLean County, N. Dak.)">Snake Creek</name> in <name type="place" key="McLean County, N. Dak.">McLean County</name>, <name type="place" key="North Dakota">North Dakota</name>. The campsite, which must now be under <name type="place" key="Garrison Reservoir">Garrison Reservoir</name>, would be in <name type="place" key="McLean County, N. Dak.">McLean County</name> northeast of present <name type="place" key="Riverdale, N. Dak.">Riverdale</name>. Mattison (GR), 7, 27; <hi rend="italic">Atlas</hi> maps 33, 46, 55; MRC map 52.</note>
+            <note xml:id="n37081302" n="2">The "<name type="place" key="Little Bason">little bason</name>" in <name type="place" key="Mercer County, N. Dak.">Mercer</name> and <name type="place" key="McLean County, N. Dak.">McLean</name> counties, <name type="place" key="North Dakota">North Dakota</name>, first passed on <ref n="1805-04-10" type="related">April 10, 1805</ref>, appears on <hi rend="italic">Atlas</hi> maps 33, 46, 55; MRC map 53.</note>
+            <note xml:id="n37081303" n="3">This crossed-out material was rewritten into the next day's entry.</note>
+            <note xml:id="n37081304" n="4">
+               <name type="native_nation" key="Mandan Indians">Mandans</name> or <name type="native_nation" key="Hidatsa Indians">Hidatsas</name> (<name type="person" key="Gass, Patrick">Gass's</name> "<name type="native_nation" key="Hidatsa Indians">Grossventres</name>").</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-08-12" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-08-14" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

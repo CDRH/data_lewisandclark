@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-04-04">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+April 4, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">191-192</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-01-06</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date>April 4, 1804</date>
+         </head>
+         <div type="entry">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 4th    all day Packing Provision    Setled account with the Contractor for all the Issuses to the first of the month &amp;. what Provisions he had furnished    hard wind and rain last night, <name type="person" key="Crawford, Lewis">Mr Crawford</name>
+                  <ref target="n03040401" n="1"/> sent his Canoo by to a [<hi rend="italic">tear, perhaps word missing</hi>]    speach to the <name type="native_nation" key="Sioux Indians">Sioux</name> &amp; <name type="native_nation" key="Iowa Indians">Iowoy</name> Indians<ref target="n03040402" n="2"/>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n03040401" n="1">
+               <name type="person" key="Crawford, Lewis">Lewis Crawford</name>, later a member of the North West Company in <name type="place" key="Canada">Canada</name>, was a trader at <name type="place" key="Prairie du Chien">Prairie du Chien</name> from about 1790. <name type="person" key="Lewis, Meriwether">Lewis</name> entrusted him with a message to Indians on the <name type="place" key="Des Moines River">Des Moines River</name> about the change of sovereignty in <name type="place" key="Louisiana">Louisiana</name>. He was also to collect vocabularies for the captains. <name type="person" key="Lewis, Meriwether">Lewis</name> to <name type="person" key="Stoddard, Amos">Amos Stoddard</name>, May 16, 1804, <name type="person" key="Stoddard, Amos">Amos Stoddard</name> to <name type="person" key="Dearborn, Henry">Henry Dearborn</name>, June 3, 1804, <name type="person" key="Stoddard, Amos">Amos Stoddard</name> to <name type="person" key="Jefferson, Thomas">Jefferson</name>, October 29, 1804, Jackson (LLC), 1 : 189–91 and n. 1, 196–97, 212–13; Osgood (FN), 30 n. 4.</note>
+            <note xml:id="n03040402" n="2">At this time the <name type="native_nation" key="Iowa Indians">Iowas</name> (<name type="native_nation" key="Iowa Indians">Ioways</name>) lived in present northern <name type="place" key="Missouri">Missouri</name> and <name type="place" key="Iowa">Iowa</name>, and gave their name to the latter state. They spoke a Siouan language of the Chiwere group, closely related to <name type="native_nation" key="Oto Indians">Oto</name> and <name type="native_nation" key="Missouri Indians">Missouri</name>. Their economy was based on hunting and horticulture. For the <name type="native_nation" key="Sioux Indians">Sioux</name>, see <ref n="1804-08-31" type="related">August 31, 1804</ref>. Hodge, 1:612–14; Blaine.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-04-03" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-04-05" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

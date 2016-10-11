@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-10-11">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+October 11, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">261-264</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">237</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">153</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">348-349</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-10-11.01">
+            <placeName/>
+            <geo>46.7 -114.4667</geo>
+            <note>Camped below Almota Creek, near present Almota, Whitman County, WA. In between Lower Granite Dam, Lower Granite Lake and Lake Bryan. </note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-06-30</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-10-11">October 11, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-10-11.01" n="lc.geo.1805-10-11.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">October 11h 〈Thursday〉 1805</hi> Friday<ref target="n23101101" n="1"/>
+                  </date>
+               </ab>
+               <p>
+a cloudy morning wind.    Set out early    course</p>
+               <p>
+                  <table rows="16" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 40° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to pt. of rocks on the Lbd. below a bottom &amp; opsd.<lb/>
+one    psd. an old Lodge in the Ld. bottom</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Stard. bend    passed a rapd at ½ a mile    2 large<lb/>
+Indn. houses in a bottom on the Stard. Side above &amp; below<lb/>
+the rapid, rocky hill Sides</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 40° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles to the mouth of a 〈Creek〉 branch<ref target="n23101102" n="2"/> on the Lard. bend,<lb/>
+Several Lodges at the 〈Creek〉 branch and a house opposit<lb/>
+vacant, we Purchased 7 dogs &amp; fish roots &amp;c to eat</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 75° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">mile in the Lard. bend    passed a rapid Point    Swift water</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40° E</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile to a bend Std. at a rapid    psd. a large Indn. house<lb/>
+Std. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Lard bend at a rapid bad    no timber except a<lb/>
+fiew low Hackburry &amp; a few willows.<ref target="n23101103" n="3"/>    we Purchd. Dried<lb/> Cherries Pashequar root and <hi rend="italic">Pashequár marsh</hi> or bread.<lb/>
+Prise the shells <hi rend="italic">verry much,</hi> also Iron wire—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Stard. bend at a rapid, 2 Ind. Huts on the Std<lb/>
+Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40° W.</cell>
+                        <cell role="data" rows="1" cols="1">  4</cell>
+                        <cell role="data" rows="1" cols="1">mile to a Std. bend    psd. a Std. point to an Indian Camp of<lb/>
+3 Lodges on the Stard. Side, Dined &amp; purchased 3 Dogs<lb/>
+and a fiew dried fish for our voyage down    one Indian ac-<lb/>
+compd. us</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Stard. bend    passed a Stard point and 2 Indian<lb/>
+House    all the houses*<ref target="n23101104" n="4"/> are deserted    the owners out in<lb/>
+the plains killg the antelope, Saw gees &amp; Ducks</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 30° W</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard bend opsd. old Indn. Camp</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 60 W</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles to Clift in a Stard. bend    psd a rapid at ½ mile, an<lb/>
+Indian Cabin on the Lard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">a mile to a Lard bend—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Std. bend    passd. a cabin L. [S.?]</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Lard. bend    passed a rapid opsd. a stoney Island<lb/>
+from Stard opsd which S is an Indian Cabin, a rapid at the<lb/>
+Lower point of Isd</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  3 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles to the mouth of a run in the Stard. Bend at 2 Indian<lb/>
+Lodges, here we <hi rend="italic">Camped,</hi> met an Indian from below, Pur-<lb/>
+chased 3 dogs and a fiew dried fish,<ref target="n23101105" n="5"/> this is a great fishing<lb/>
+Island    a house below, it evacuated    wind a head</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">30</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-11.02" n="lc.geo.1805-10-11.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">October 11th 〈Thursday〉 [X: Friday] 1805</hi>
+                     <ref target="n23101106" n="6"/>
+                  </date>
+               </ab>
+               <p>
+a cloudy morning wind from the East    We Set out early and proceeded on    passed a rapid at <hi rend="italic">two</hi> miles, at 6 miles we came too at Some Indian lodges<ref target="n23101107" n="7"/> and took brackfast, we purchased all the fish we could and Seven dogs of those people for Stores of Provisions down the river.    at this place I saw a curious Swet house under ground, with a Small whole at top to pass in or throw in the hot Stones, which those in threw on as much water as to create the temporature of heat they wished—<ref target="n23101108" n="8"/>    at 9 mile passed a rapid    at 15 miles halted at an Indian Lodge, to purchase provisions of which we precred some of the <hi rend="italic">Pash-he-quar</hi> roots five dogs and a few fish dried, after takeing Some dinner of dog &amp;c we proceeded on. Came to and encamped at 2 Indian Lodges at a great place of fishing<ref target="n23101109" n="9"/> here we met an Indian of a nation near the mouth of this river. [<hi rend="italic">NB: Qu</hi>] we purchased three dogs and a fiew fish of those Indians, we Passed today nine rapids all of them great fishing places, at different places on the river saw Indian houses and Slabs &amp; Spilt timber raised from the ground being the different parts of the houses of the natives when they reside on this river for the purpose of fishing    at this time they are out in the Plain on each side of the river hunting the antilope as we are informed by our Chiefs, 〈at〉 near each of those houses we observe Grave yards picketed, or pieces of wood stuck in permiscuesly over the grave or body which is Covered with earth, [<hi rend="italic">NB: wrap up dead, put them in earth &amp; throw over earth &amp; picket the ground about</hi>]<ref target="n23101110" n="10"/>    The Country on either Side is an open plain leavel &amp; fertile after assending a Steep assent of about 200 feet not a tree of any kind to be Seen on the river    The after part of the day the wind from the S. W. and hard. The day worm.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-11.03" n="lc.geo.1805-10-11.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Friday 11th Oct. 1805.    a clear morning.    we Set out eairly.    two Indians accompy. us in a Small canoe.    we proceeded on.    at 8 oClock we halted at a large fishing Camp of Indians<ref target="n23101111" n="11"/> where we bought Some Sammon and 8 or 10 fat dogs &amp;C.    these Savages have among them pleanty of beeds and copper trinkets, copper kittles &amp;C which must have come from white people    we proceeded on    passed Several more fishing camps, where they have the Stone piled up in roes, So as to gig the Sammon at the Sides of the rocks &amp;C.    the country is barron and broken    Some high plains.    no timber.    we can Scarsely git wood enofe to cook a little victules    a fiew willows in places along the Shores.    passed over Some rapids where the waves roled high.    we roed 30 miles this day and Camped<ref target="n23101112" n="12"/> at a fishing party of Indians, where we bought 3 or 4 more dogs and a little Sammon &amp;C—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-11.04" n="lc.geo.1805-10-11.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 11th.</hi>    We set out early in a fine morning; proceeded on about 6 miles, and halted at some lodges of the natives, where we got fish and several dogs. We continued here about an hour and then went on. No accident happened to day though we passed some bad rapids. In the evening we stopped at some Indian camps and remained all night, having come 30 miles. Here we got more fish and dogs. Most of our people having been accustomed to meat, do not relish the fish, but prefer dog meat; which, when well cooked, tastes very well.<ref target="n23101113" n="13"/> Here we met an Indian of another nation, who informed us we could get to the falls in 4 days: which I presume are not very high as the salmon come above them in abundance.<ref target="n23101114" n="14"/> The country on both sides is high dry prairie plains without a stick of timber. There is no wood of any kind to be seen except a few small willows along the shore; so that it is with difficulty we can get enough to cook with. The hills on the river are not very high, but rocky; the rocks of a dark colour. The bed and shores of the river are very stony; and the stones of a round smooth kind.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-11.05" n="lc.geo.1805-10-11.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+〈<hi rend="italic">Wednesday</hi>〉 Friday <hi rend="italic">11th Oct. 1805</hi>.    a fair morning.    we Set out eairly.    two<ref target="n23101115" n="15"/> more Indians with a Small canoe accompy. us.    we proceeded on    passed over Some rapid water but the current mostly gentle.    about 8 oClock we came to a fishing Camp &amp; party of Indians, where we bought considerable quantity of Sammon, and 8 or 10 fat dogs to eat.    Some dryed haws &amp;c.    Saw among them Some peace of fish net which they must have come from white people.    a tea kittle made of copper Seen also &amp;c.    we proceeded on    passed a great nomber of fishing camps where the natives fish in the Spring.    the Stone piled up in roes So that in high water the Sammon lay along the Side of the line of rocks while they would gig them.    the country is barron a high hills and clifts of rocks on each Side of the River    not even a tree to be Seen no place.    a fiew willows along the Shores Some places.    Some rapids in the River but Some of them roles high waves but a large body of water.    we roed 30 miles this day and Camped at a fishing Camp of Indians on the S. Side where we bought 3 or 4 more dogs and Some Sammon &amp;c.    one Indian from an other nation came among them f. falls</p>
+               <p>
+Friday October 11th    This morning clear &amp; pleasant weather.    We set out early, and were accompanied with 2 More Indians in a small canoe.    We proceeded on down the <name type="place" key="Columbia River">Columbia River</name> &amp; we passed over some Rapids but found the current mostly run gentle.    At 8 o'Clock A. M. we came to a fishing Camp, where there was a party of Indians, where we purchased 10 fat dogs, a Quantity of Salmon &amp; some dried haws, for to eat.    We saw among these Indians some pieces of a fishing Seine, which we supposed must have come from some Civilized nation.    We also saw among them a Copper Teakettle.    We continued on our way, &amp; saw a number of fishing Camps, where the Natives come to fish in the Spring of the Year.    We also saw Stones piled up in Rows, so that when the River is high the Salmon lies along side the Rocks, at which place the Natives kill them with a Gig.—    The Land at this place is a poor Barren, &amp; on each side of the River lies high hills, &amp; Clifts of rocks, and not a tree of any kind is to be seen, &amp; a few willows are only to be seen in places along the Shore.    We crossed over some Rapids, where the waves rolled high, and abundance of Water in the River; We came about 30 Miles this day, &amp; encamped at a fishing Camp, laying on the South side of the River, where we found a number of Indians, who are of the <name type="native_nation" key="Flathead Indians">Flatt head</name> Nation, We purchased from those Indians 4 dogs &amp; some Salmon for provisions.    In the evening an Indian belonging to another Nation of Indians came to the <name type="native_nation" key="Flathead Indians">Flatt head</name> Indian Camp.
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n23101101" n="1">Since the Elkskin-bound Journal once again becomes chiefly courses and distances, most notes are to Codex H, which begins on this date.</note>
+            <note xml:id="n23101102" n="2">Nameless on <hi rend="italic">Atlas</hi> map 73; now <name type="place" key="Alpowa Creek">Alpowa Creek</name> in <name type="place" key="Asotin County, Wash.">Asotin County</name>, <name type="place" key="Washington">Washington</name>.</note>
+            <note xml:id="n23101103" n="3">Netleaf hackberry, <hi rend="italic">Celtis reticulata</hi> Torr. (also called <hi rend="italic">C. douglasii</hi> Planch) which is near its northernmost distributional limit along the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake River</name> at the <name type="place" key="Washington">Washington</name>-<name type="place" key="Idaho">Idaho</name> border. Little (MWH), 33-NW; Hitchcock et al., 2:86–87. The willows are probably the sandbar willow.</note>
+            <note xml:id="n23101104" n="4">Again an asterisk with no apparent reference or meaning.</note>
+            <note xml:id="n23101105" n="5">The remainder of this entry appears to be in <name type="person" key="Lewis, Meriwether">Lewis's</name> hand.</note>
+            <note xml:id="n23101106" n="6">Here begins <name type="person" key="Clark, William">Clark's</name> Codex H, running to November 19, 1805. Before the text are three sketch maps of the <name type="place" key="Columbia River">Columbia River</name> (figs. <ref n="1805-10-22" type="related">22</ref>, <ref n="1805-10-22" type="related">24</ref>, and <ref n="1805-10-24" type="related">28</ref> in volume 5). See <ref n="v02.appendix.c" type="related">Appendix C</ref>. The following notation in <name type="person" key="Biddle, Nicholas">Biddle's</name> hand precedes and annotates the maps: "No. 1 is the great Fall enlarged, which is marked in p. 3 of No 2 where the narrows begin—From No 2 the Narrows continue down to the word <hi rend="italic">camped</hi> &amp; then beginning with the word Creek in No. 3 down to <name type="place" key="Hamilton (Strawberry) Island">Strawberry island</name>." Coues has penciled in some dates and other words on the first two maps. Course material for October 10–16 is found after the codex entry of October 16, 1805.</note>
+            <note xml:id="n23101107" n="7">This locality was occupied by the <name type="place" key="Alpaweyma village">Alpaweyma</name> band of the <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>. Such bands were composed of several villages which took their name from the most prominent village within the territory. Archaeological research in this area has focused on three sites, one of which probably represents the lodges referred to by <name type="person" key="Clark, William">Clark</name>. The area was also inhabited by the Upper <name type="native_nation" key="Palouse Indians">Palouses</name>, who often shared villages with the <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>. The two peoples both spoke Shahaptian languages and had many similar cultural traits. Schwede; Walker (NPA), 9–18; Brauner; Trafzer &amp; Scheuerman, 1.</note>
+            <note xml:id="n23101108" n="8">
+               <name type="person" key="Biddle, Nicholas">Biddle</name> expands at some length on the custom of the sweat bath. Coues (HLC), 2:626–27.</note>
+            <note xml:id="n23101109" n="9">Below <name type="place" key="Almota Creek">Almota Creek</name> ("Brook" on <hi rend="italic">Atlas</hi> map 72) in the vicinity of present <name type="place" key="Almota, Wash.">Almota</name>, <name type="place" key="Whitman County, Wash.">Whitman County</name>, <name type="place" key="Washington">Washington</name>. Just above is <name type="place" key="Lower Granite Dam">Lower Granite Dam</name> with <name type="place" key="Lower Granite Lake">Lower Granite Lake</name> upstream and <name type="place" key="Lake Bryan">Lake Bryan</name> downstream. This area was occupied by the <name type="native_nation" key="Nez Perce Indians, Almotipu">Almotipu</name> band of <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>. Archaeological surveys have apparently failed to locate the site recorded by <name type="person" key="Clark, William">Clark</name>, although several sites have been found on the south side of the river in this area. Trafzer &amp; Scheuerman, 1, give this as the location of the <name type="native_nation" key="Palouse Indians">Palouse</name> village of <name type="place" key="Alamotin village">Alamotin</name> ("the soaring flame"). Spinden, 175; Nelson (LMLG), 11; Cleveland et al., 47.</note>
+            <note xml:id="n23101110" n="10">Burials studied archaeologically in this general area are summarized by Sprague (ABP) and by Rodeffer. <name type="person" key="Biddle, Nicholas">Biddle's</name> writing is not in his customary red ink.</note>
+            <note xml:id="n23101111" n="11">Probably a band of <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>, but perhaps including <name type="native_nation" key="Palouse Indians">Palouse</name> Indians, as well.</note>
+            <note xml:id="n23101112" n="12">Below <name type="place" key="Almota Creek">Almota Creek</name> and <name type="place" key="Lower Granite Dam">Lower Granite Dam</name>, in <name type="place" key="Whitman County, Wash.">Whitman County</name>, <name type="place" key="Washington">Washington</name>, in the 
+vicinity of <name type="place" key="Almota, Wash.">Almota</name>, on the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake River</name>. The camps were those of the <name type="native_nation" key="Nez Perce Indians">Nez Perces</name> and perhaps the <name type="native_nation" key="Palouse Indians">Palouses</name>.</note>
+            <note xml:id="n23101113" n="13">Just two days earlier <name type="person" key="Gass, Patrick">Gass</name> was attributing a preference for dog over fish only to the French members of the party.</note>
+            <note xml:id="n23101114" n="14">A reference to the <name type="place" key="Columbia River, Great Falls of the">Celilo Falls</name>, on the <name type="place" key="Columbia River">Columbia River</name> between <name type="place" key="Klickitat County, Wash.">Klickitat County</name>, <name type="place" key="Washington">Washington</name>, and <name type="place" key="Wasco County, Oreg.">Wasco County</name>, <name type="place" key="Oregon">Oregon</name>.</note>
+            <note xml:id="n23101115" n="15">The word "two" is written over "one."</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-10-10" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-10-12" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

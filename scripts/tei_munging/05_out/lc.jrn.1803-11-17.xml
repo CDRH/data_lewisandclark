@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1803-11-17">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">November 17, 1803</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">93</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2003-12-11</date>
+            <date/>
+            <name>Laura Weakly</name>
+            <name/>Initial creation Transcribed</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1803-11-17">November 17, 1803</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1803-11-17.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>Novr. 17th</date>
+               </ab>
+               <p>
+the [wind] blew very heard last night from N. and continued without intermission throughout the day    it became could about twelve oclock— the canoes were driven by the violence of the waves against the shore and filled with water    I therefore thought myself fortunate in having had them unladen on my arrival,—     measured the hight of the bank in the point and found it 36 F[eet] 8 I[nches] above the level of the water at thime [the time?] which may with much propriety be deemed <hi rend="italic">low water mark</hi> as neither <name type="place" key="Ohio River">the Ohio</name> or <name type="place" key="Mississippi River">Missippi</name> wer ever known to be lower—</p>
+               <p>	I yesterday measured the bank on the W. side of the <name type="place" key="Mississippi River">Mississipi</name> and found it 52 feet 8 Inches and the bank at this hight is sometimes overflown so that allowing the water to be on a level a dike in the point to be on a level with the opposite bank must be raised 16 feet and to render it completely safe a few feet higher—    the bank of the <name type="place" key="Mississippi River">Mississippi</name> side is from two to 4 feet higher than the extreem point and is about the same number of 4 feet higher than the extreem point and is about the same number of feet higher than the bank of the <name type="place" key="Ohio River">Ohio</name>,—
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1803-11-15-19" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-11-18" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-03-12">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+March 12, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 6</title>
+               <title level="m" type="sub">November 2, 1805–March 22, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1990</date>
+               <biblScope type="pages">406-409</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">276</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">427</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-09-01</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-03-12">March 12, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-03-12.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday March 12th 1806</hi>
+                  </date>
+               </ab>
+               <p>
+We sent a party<ref target="n28031201" n="1"/> again in surch of the perogue but they returned unsuccessfull as yesterday. Sent one hunter out on this side of the <name type="place" key="Lewis and Clark (Fort, Netul) River">Netul</name>, he did not return this evening.<ref target="n28031202" n="2"/> I beleive the Callamet Eagle is sometimes found on this side of the <name type="place" key="Rocky Mountains">rocky mountains</name> from the information of the Indians in whose possession I have seen their plumage.    these are the same with those of the <name type="place" key="Missouri River">Missouri</name>, and are the most beautiful of all the family of the Eagles of America.    it's colours are black and white with which it is beautifully variagated.    the feathers of the tail which are so highly prized by the Indians is composed of twelve broad feathers of equal length.    these are white except about 2 inches at the extremity which is of jut black.    there wings have each a large circular white spot in the middle when extended.    the body is variously marked with white and black.    the form is much that of the common bald Eagle, but they are reather smaller and much more fleet.    this eagle is feared by all carnivorous birds, and on his approach all leave the carcase instantly on which they were feeding.    it breads in the inaccessable parts of the mountains where it spends the summer, and decends to the plains and low country in the fall and winter when it is usually sought and taken by the natives.    two tails of this bird is esteemed by the <name type="native_nation" key="Mandan Indians">Mandans</name>
+                  <name type="native_nation" key="Hidatsa Indians">Minetares</name>
+                  <name type="native_nation" key="Arikara Indians">Ricares</name>, &amp;c as the full value of a good horse, or gun and accoutrements. with the Great and little <name type="native_nation" key="Osage Indians">Osages</name> and those nations inhabiting countries where this bird is more rare the price is even double of that mentioned. with these feathers the natives decorate the stems of their sacred pipes or <name type="native_nation" key="Calumet Indians">callamets</name>; whence the name, of Callamet Eagle, which has generally obtained among the Engages.    the <name type="native_nation" key="Arikara Indians">Ricares</name> have domesticated this bird in many instancies for the purpose of obtaining it's plumage.    the natives in every part of the con tinent who can procure these feathers attatch them to their own hair and the mains and tails of their favorite horses by way of ornament.    they also decorate their war caps or bonnets with those feathers.—The leather winged batt<ref target="n28031203" n="3"/> common to the United States is also found on this side of the <name type="place" key="Rocky Mountains">Rocky mountains</name>.—Beside the fish of this coast and river already mentioned we have met with the following speceis<ref target="n28031204" n="4"/> viz. the Whale, Porpus, Skaite, flounder, Salmon, red charr, two speceis of Salmon trout,<ref target="n28031205" n="5"/> mountain or speckled trout,<ref target="n28031206" n="6"/> and a speceis similar to one of those noticed on the <name type="place" key="Missouri River">Missouri</name> within the mountains, called in the Eastern states, bottle-nose.<ref target="n28031207" n="7"/> I have no doubt but there are many other speceis of fish, which also exist in this quarter at different seasons of the year, which we have not had an oportunity of seeing.    the shell fish<ref target="n28031208" n="8"/> are the Clam, perrewinkle, common mussle, cockle, and a speceis with a circular flat shell. The Whale is sometimes pursued harpooned and taken by the Indians of this coast;<ref target="n28031209" n="9"/> tho' I beleive it is much more frequently killed by runing fowl on the rocks of the coast in violent storms and thrown on shore by the wind and tide.    in either case the Indians preseve and eat the blubber and oil as has been before mentioned.<ref target="n28031210" n="10"/>    the whale bone they also carefully preserve for sale.— Our party are now furnished with 358 pair of Mockersons exclusive of a good portion of dressed leather.—<ref target="n28031211" n="11"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-03-12.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday March 12th 1806</hi>
+                  </date>
+               </ab>
+               <p>
+We Sent a party again in Serch of the Canoe but they returned unsucksessfull as yesterday    Sent one hunter out on this Side of the <name type="place" key="Lewis and Clark (Fort, Netul) River">Netul</name> he did not return this evening. Our party are now furnished with 358 par of Mockersons exclusive of a good portion of Dressed leather, they are also previded with Shirts Overalls Capoes of dressed Elk Skins for the homeward journey.</p>
+               <p>
+Besides the fish of this Coast and river already mentioned we have met with the following Species.    viz. the Whale, Porpus, Skaite, flounder, Salmon, red-carr, two Specis of Salmon trout, mountain or Speckled trout, and a Speceis Similar to one of those noticed on the <name type="place" key="Missouri River">Missouri</name> within the mountains, called in the Eastern States, bottle nose. I have no doubt but there are many other Species of fish which also exist in this quarter at different Seasons of the year, which we have not had an oppertunity of seeing.    the Shell fish are the Clam, perriwinkle, common Muscle, cockle, and a Species with a circular flat Shell.</p>
+               <p>
+The Whale is Sometimes pursued harpooned and taken by the Indians of this Coast; thos I believe it is much more frequently killed by running on the rocks of the Coast to S. S. W. in violent Storms, and thrown on different parts of the Coast by the winds and tide—.    in either case the Indians preserve and eat the blubber and Oil as has been before mentioned.    the whale bone they also carefully preserve for Sale.</p>
+               <p>
+The Reptiles of this Country are the rattle snake, garter Snake a common brown Lizzard. The Season was so far advanced on this side of the <name type="place" key="Rocky Mountains">Rocky Mountains</name> that but fiew rattle Snakes were Seen, I did not remark one particularly my Self, nor do I know if they are of either of the four Species found in different parts of the United States, or of that Species before observed only on the upper parts of the <name type="place" key="Missouri River">Missouri</name> &amp; its branches.</p>
+               <p>
+The Garter Snake So Called in the U States is very common in this country, they are found in great numbers on the open and Sometimes marshy grounds in this neighbourhood.    they differ not at all from those of the United States.    the Black or Dark brown Lizzard we Saw at the <name type="place" key="Columbia River, The Dalles of the (Great Narrows)">long narrows</name> or Commencement of the woody country on the <name type="place" key="Columbia River">Columbia</name>; they are also the Same with those of the U, States. The Snail is noumerous in the woodey Country on this Coast, they are in Shape like those of the U, States, but are at least five times their bulk.    there is a Specis of water Lizzard of which I only Saw one just above the <name type="place" key="Columbia River, Cascades (Great Rapids, Great Shute)">grand rapid of the Columbia</name>.    it is about 9 inches long the body is reather flat and about the Size of a mans finger, covered with a Soft Skin of dark brown Colour with an uneaven sufice covered with little pimples, the neck and head are Short, the latter termonateing in an accute angular point and flat.    the fore feet each have four toes, the hinder ones five unconnected with a web and destitute of tallons.    it's tail was reather longer than the body, and in form like that of the muskrat, first riseing in an arch higher than the back, and decending lower than the body at the extremety, and flated perpindicularly.    the belly and under part of the neck and head were of a Brick red every other part of the colour of the upper part of the body are dark brown.    the mouth was Smooth without teeth.</p>
+               <p>
+The horns of Some of the Elk have not yet fallen off and those of others have Grown to the length of Six inches.    the latter are in the best order, from which it would Seem that the pore Elk retain their horns longer.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-03-12.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 12th March 1806.    a white frost.    clear and cold.    one man
+went out a hunting. I went and made Search for the lost canoe but could not find it.    the other canoes corked &amp; pitched.
+
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-03-12.04" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday March 12th    A fair morning.    One of our party went out in Order to hunt, And several of our Men<ref target="n28031212" n="12"/> went in search of the lost Canoe.    they all returned without success.    Two of our party were employed in making of Oars,—    and pitching our Canoes.
+
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n28031201" n="1">Under <name type="person" key="Ordway, John">Sergeant Ordway</name>, according to himself.</note>
+            <note xml:id="n28031202" n="2">A red vertical line runs through much of this passage about the eagle, perhaps drawn by <name type="person" key="Biddle, Nicholas">Biddle</name>.</note>
+            <note xml:id="n28031203" n="3">Thus distinguishing the mammal (here an unknown species) from certain birds referred to as "bats." See above, <ref n="1805-06-30" type="related">June 30, 1805</ref>.</note>
+            <note xml:id="n28031204" n="4">Most of these species are discussed and identified elsewhere in this volume. <name type="person" key="Biddle, Nicholas">Biddle</name> (in later years) adds, "Saw no oysters on the <name type="place" key="Pacific Ocean">Pacific Ocean</name>." <name type="person" key="Biddle, Nicholas">Biddle</name> Notes [ca. April 1810], Jackson (LLC), 2:502.</note>
+            <note xml:id="n28031205" n="5">Probably the coho (or silver) salmon, <hi rend="italic">Oncorhynchus kisutch,</hi> called the "white Salmon Trout" on <ref n="1806-03-16" type="related">March 16, 1806</ref>, and the steelhead trout <hi rend="italic">O. mykiss,</hi> (formerly <hi rend="italic">Salmo gairdneri</hi>) discussed on <ref n="1806-03-13" type="related">March 13</ref> and <ref n="1806-03-14" type="related">14</ref>, 1806. Kendall.</note>
+            <note xml:id="n28031206" n="6">The cutthroat trout bears <name type="person" key="Clark, William">Clark's</name> name, <hi rend="italic">Oncorhynchus clarki</hi> (formerly <hi rend="italic">Salmo clarkii</hi>); it was first described by <name type="person" key="Lewis, Meriwether">Lewis</name> on <ref n="1805-06-13" type="related">June 13, 1805</ref>. Kendall; Burroughs, 264.</note>
+            <note xml:id="n28031207" n="7">Probably the mountain sucker, <hi rend="italic">Catostomus</hi> (formerly <hi rend="italic">Pantosteum</hi>) <hi rend="italic">platyrhynchus,</hi> here compared with the northern sucker <hi rend="italic">C. catostomus.</hi> Burroughs, 264–65; Cutright (LCPN), 426.</note>
+            <note xml:id="n28031208" n="8">The shellfish may be identified as follows: the clams are probably from the family Veneridae, although Coues considers them from the family Mytilidae; the periwinkle is <hi rend="italic">Littorina</hi> sp.; the mussel is <hi rend="italic">Mytilus</hi> sp. if Lewis is referring to the salt water species, but if he means the freshwater variety of the <name type="place" key="Columbia River">Columbia River</name> as <name type="person" key="Biddle, Nicholas">Biddle</name> suggests, then it would be of the family Unionidae, as given by Coues; the cockle is from the family Cardiidae (see <ref n="1805-12-09" type="related">December 9, 1805</ref>); and the final species "with a circular flat shell" is from the family Anomiidae, bivalves. Some of these species are described more fully on <ref n="1806-03-15" type="related">March 15, 1806</ref>, in <name type="person" key="Clark, William">Clark's</name> entry. Coues (HLC), 3:896 and n. 100, 896–97, 896 n. 101, 897 nn. 102, 103.</note>
+            <note xml:id="n28031209" n="9">The suggestion here that local Indians hunted whales offshore is significant, as maritime hunting of this nature is generally thought to have been restricted to native peoples living farther north on the <name type="place" key="Pacific Coast">Pacific Coast</name>. Ray (LCEN), 115. Elsewhere, <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> provide further support for this practice in their observation that representations of hunters in canoes harpooning whales often occurred on hats worn by these people (see entries of <ref n="1806-01-29" type="related">January 29</ref> and <ref n="1806-01-30" type="related">30</ref>, 1806).</note>
+            <note xml:id="n28031210" n="10">See above, <ref n="1806-01-10" type="related">January 10, 1806</ref>.</note>
+            <note xml:id="n28031211" n="11">This last sentence and a portion of the previous one have a dark "x" across them.</note>
+            <note xml:id="n28031212" n="12">Led by <name type="person" key="Ordway, John">Ordway</name>, according to <name type="person" key="Ordway, John">Ordway</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-03-11" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-03-13" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

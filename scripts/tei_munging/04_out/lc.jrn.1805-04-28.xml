@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-04-28">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+April 28, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 4</title>
+               <title level="m" type="sub">April7–July 27, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">81-84</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">139</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">84</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">140</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-04-28.01">
+            <placeName/>
+            <geo>48.0439 -104.2725</geo>
+            <note>Near Otis Creek, Richland County, MT, but on the opposite side of the Missouri in Roosevelt County, MT</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-05-10</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-04-28">April 28, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-04-28.01" n="lc.geo.1805-04-28.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Sunday April 28th 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+Set out this morning at an early hour; the wind was favourable and we employed our sails to advantage. <name type="person" key="Clark, William">Capt Clark</name> walked on shore this morning,<ref target="n12042801" n="1"/> and I proceeded with the party.    the country through which we passed today is open as usual and very broken on both sides near the river hills, the bottoms are level fertile and partially covered with timber.    the hills and bluffs exhibit their usual mineral appearances, some birnt hills but no appearance of Pumicestone; coal is in great abundance and the salts still increase in quantity; the banks of the river and sandbars are incrusted with it in many places and appear perfectly white as if covered with snow or frost.—<ref target="n12042802" n="2"/>    the woods are now green, tho' the plains and meadows appear to abate of the verdure those below exhibited some days past.    we past three small runs today.    two falling in on the Stard. and one on the Lard. side,<ref target="n12042803" n="3"/> they are but small afford but little water and head a few miles back in the hills.  we saw great quantities of game today; consisting of the common and mule deer, Elk, Buffaloe, and Antelopes; also four brown bear, one of which was fired on and wounded by one of the party but we did not get it; the beaver have cut great quantities of timber; saw a tree nearly 3 feet in diameter that had been felled by them. <name type="person" key="Clark, William">Capt. Clark</name> in the course of his walk killed a deer and a goose; &amp; saw three black bear; he thinks the bottoms are not so wide as they have been for some days past.—</p>
+               <p>
+                  <table rows="13" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="desc" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">Courses and distances 28th of April.</hi>
+                              <ref target="n12042804" n="4"/>
+                           </hi>
+                        </cell>
+                        <cell role="desc" rows="1" cols="1">miles</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timber on Lard. side</cell>
+                        <cell role="data" rows="1" cols="1">  2 ¼</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a upper part of the point on Lard. opposite to a high<lb/>
+rugged bluf</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  1</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 56 W.</cell>
+                        <cell role="data" rows="1" cols="1">to a high bluff on the Lard. side just above a timbered<lb/>
+bottom, and opposite a point of woodland on Stard. side</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  2 ¾</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 85 W.</cell>
+                        <cell role="data" rows="1" cols="1">to the center of a bend on Lard. side.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 25 W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timbered land on Lard. passing a point on<lb/>
+Stard. side at 1 ¼ mes.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  3</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 18 W.</cell>
+                        <cell role="data" rows="1" cols="1">to the lower point of the timber in a bend on Stard. side</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 4 W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of woodland on Stard. side.</cell>
+                        <cell role="data" rows="1" cols="1">  4</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 10 W.</cell>
+                        <cell role="data" rows="1" cols="1">to a high bluff point on Lard. side, the river making a<lb/>
+considerable bend to S. E.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  2</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80 W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of woodland on the Lard. side</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45 W.</cell>
+                        <cell role="data" rows="1" cols="1">to a high bluff point on the Stard. side.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80 W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of woodland on Stard. side.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  3</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Miles</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">24</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-28.02" n="lc.geo.1805-04-28.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>28th <hi rend="italic">of April Sunday 1805</hi>
+                  </date>
+               </ab>
+               <p>						   
+a fine day    river falling, wind favourable from the S. E. and moderate, I walked on Shore to view the Countrey, from the top of the high hills, I beheld a broken &amp; open Countrey on both Sides, near the river Some verry handsom low plains, I killd. a Deer &amp; a goose, Saw three black bear great numbers of Elk antelopes &amp; 2 Gangues of Buffalow, the hills &amp; Bluffs Shew the Straturs of Coal, and burnt appearances in many places, in and about them I could find no appearance of Pumice Stone, the wood land have a green appearance, the Plains do not look So green as below, The bottom are not So wide this afternoon as below    Saw four bear this evening, one of the men Shot at one of them. The Antilopes are nearly red, on that part which is Subject to change i' e' the Sides &amp; ⅔ of the back from the head, the other part as white as Snow, 2 Small runs fall in on the S. Side and one this evening on the Lard Side those runs head at a fiew miles in the hills and discharge but little water, the Bluffs in this part as also below Shew different Straturs of Coal or carbonated wood, and Coloured earth, such as dark brown, yellow a lightish brown, &amp; a dark red &amp;c.</p>
+               <p>
+                  <figure rend="mhs">
+                     <p>Aspect of the <name type="place" key="Missouri River">Missouri River</name>, April 18, 1805, Voorhis no. 1
+<bibl>
+                           <orgName>Missouri Historical Society</orgName>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+               <p>
+                  <table rows="13" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="desc" rows="1" cols="1">miles</cell>
+                        <cell role="desc" rows="1" cols="1">
+                           <hi rend="italic">Course &amp; distance the 28th of April</hi>
+                           <ref target="n12042805" n="5"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timber on the Lad Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to the upper part of the point on the L. Side opposit is a<lb/>
+high ruged Bluff on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 56° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ¾</cell>
+                        <cell role="data" rows="1" cols="1">To a high bluff on the Ld Side opposit to a point of woods<lb/>
+&amp; just above a wood</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 85° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">To the center of a bend on the Lad Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 25° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">To a point of timbered land on the Ld. Side passing a point<lb/>
+on the Std. Side at 1¼ miles</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 18° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">To the lower point of a timber in a bend to the Starboard<lb/>
+Side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 4° W.</cell>
+                        <cell role="data" rows="1" cols="1">  4</cell>
+                        <cell role="data" rows="1" cols="1">To a point of wood Land on the Sd Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">to a high bluff point on the L. Side the river makeing a<lb/>
+considerable bend S. E.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">to a point of wood land on the Lard Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to a high Bluff pt. on the Std Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  3</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">To a point of wood land on the Std Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">24</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-28.03" n="lc.geo.1805-04-28.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday 28th April 1805</hi>.    clear and pleasant.    one of the Men caught a large beaver last night.    we Set off eairly.    the wind had Shifted to S. E. and blew gently So that we Sailed Some part of the time.    proceeded on    passed high bluffs on N. S. of a whiteish coulor    rough hills and knobs on each Side. Some Smoth bottoms of cottonwood on each Side of the River. Saw large flocks of Cabberrie or antilope which is a Specie of the Goat kind, on the Sides of the hills on S. S. Saw Some dead on the edge of the river, which I Suppose the wolves had killed. <name type="person" key="Clark, William">Capt. Clark</name> and our Intrepter walked on Shore on the S. S.    we proceeded on untill abt. 3 oClock.    came to where <name type="person" key="Clark, William">Capt. Clark</name> had made a fire.    we then halted to dine in a bottom above high bluffs on S. S. <name type="person" key="Clark, William">Capt Clark</name> had killed one Deer &amp; a goose.    he Saw Several bair    proceeded on    towards evening we Saw a large black bair Swimming the River    we went on Shore to head him in hopes to kill him.    one man Shot &amp; wounded it but it ran in to thick bushes So that we could not find it. Some of the party Saw Several more bair on the hills, on S. S.    the bluffs make neare the river all this day and are verry Steep in some places &amp; other places high &amp; rough Some of which are White Stone and Clay, others are of a redish coulour, nearly like brick.    we Camped<ref target="n12042806" n="6"/> in a handsom bottom of c. w. timber on N. S. high steep bluffs on S. S. Came 24 miles this day.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-28.04" n="lc.geo.1805-04-28.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday 28th.</hi>    We set out early, had a fine day and went on very well. About 9 we halted for breakfast under very high bluffs on the North side. About 15 miles above the <name type="place" key="Yellowstone River">Yellow Stone river</name>, the banks on the <name type="place" key="Missouri River">Missouri</name> are 
+not so high as below it, and the sand bars are more in the middle of the river. We came 24 miles and encamped<ref target="n12042807" n="7"/> on the North side in a handsome bottom. The bottoms here are not so large, and have less timber on them than those 
+below the <name type="place" key="Yellowstone River">Jaune</name>.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-28.05" n="lc.geo.1805-04-28.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>	
+Sunday April 28th    This day we had fine clear weather &amp; pleasant, we set out Early in the morning; and proceeded on till 9 o'Clock A. M. when we stopped to break fast, under a high bluff lying on the South side of the River, about 15 Miles, above the Mouth of the <name type="place" key="Yellowstone River">River Roshjone</name>, We found that the banks of the <name type="place" key="Missouri River">River Mesouri</name>, was not so high, as it was lower down this River; 
+and that the Sand barrs, lay generally in the middle of this River; The land as we passed along, appears to lay more level than what we had passed for several days past, but very Rich &amp; fertile    We encamped in the Evening, in a handsome bottom, on which there was Cotton wood Trees growing.—    The bottoms are not so large in general here, as below, and the Timber not so plenty.—    We came 24 Miles this day &amp; the place we encamp'd on 〈lies〉 lay on the South side of the <name type="place" key="Missouri River">River Mesouri</name>.—</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n12042801" n="1">Accompanied by <name type="person" key="Charbonneau, Toussaint">Charbonneau</name>, according to <name type="person" key="Ordway, John">Ordway</name>.</note>
+            <note xml:id="n12042802" n="2">The party is passing through country underlain by the Paleocene <name type="place" key="Tongue River Member">Tongue River Member</name> of the <name type="place" key="Fort Union Formation">Fort Union Formation</name>; lignite coal is abundant in it. The increased amounts of salts result from increased aridity of climate and increased seasonal discharge of ground water.</note>
+            <note xml:id="n12042803" n="3">One of those on the starboard would be <name type="place" key="Little Muddy (White Earth) River">Little Muddy Creek</name>, in <name type="place" key="Roosevelt County, Mont.">Roosevelt County</name>, <name type="place" key="Montana">Montana</name>. The one from the south in <name type="place" key="Richland County, Mont.">Richland County</name> would be <name type="place" key="Otis Creek">Otis Creek</name>, near which they camped. <hi rend="italic">Atlas</hi> maps 35, 48, 56; MRC map 60.</note>
+            <note xml:id="n12042804" n="4">Also given on <hi rend="italic">Atlas</hi> map 35, in both captains' hands.</note>
+            <note xml:id="n12042805" n="5">At this point in Voorhis No. 1 is a small sketch (fig. 1), presumably representing some aspect of the river.</note>
+            <note xml:id="n12042806" n="6">Near <name type="place" key="Otis Creek">Otis Creek</name> (not mentioned by <name type="person" key="Ordway, John">Ordway</name>), <name type="place" key="Richland County, Mont.">Richland County</name>, <name type="place" key="Montana">Montana</name>, but on the opposite side in <name type="place" key="Roosevelt County, Mont.">Roosevelt County</name>.</note>
+            <note xml:id="n12042807" n="7">In <name type="place" key="Roosevelt County, Mont.">Roosevelt County</name>, <name type="place" key="Montana">Montana</name>, near <name type="place" key="Otis Creek">Otis Creek</name>, opposite in <name type="place" key="Richland County, Mont.">Richland County</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-04-27" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-04-29" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

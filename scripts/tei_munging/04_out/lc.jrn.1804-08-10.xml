@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-08-10">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 10, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">465-467</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">37, 393</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">27</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">53-54</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-08-10.01">
+            <placeName/>
+            <geo>42.0565 -96.2057</geo>
+            <note>East or southeast of Blackbird Hill, NE, significantly east of the Missouri's current course</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-02-17</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-08-10">August 10, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-08-10.01" n="lc.geo.1804-08-10.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">August 10th</hi>
+                     <ref target="n05081001" n="1"/>
+                  </date>
+               </ab>
+               <p>
+                  <table rows="13" cols="3">
+                     <head>
+                        <hi rend="italic">Course Distance and remarks 10th of August 1804 Friday.</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 60°  W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. of Sand makeing from the L. point</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80°  W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">me. on the to a Drift wood. This place is called<lb/>
+                           <name type="place" key="Blue Lake">Coupe a Jarcke</name>
+                           <ref target="n05081002" n="2"/>    a palce where the river cut<lb/>
+through and shortend the River Sevl. mls.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South 18°  E,</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to Som Snags near some Willows on the S. S.<lb/>
+passd. the High 〈land〉 wood on L. S. in this Co's<lb/>
+at 1 me</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 20°  W.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a 〈Black〉 Burnt Stump on the Bank in the<lb/>
+bend to L. S. at which place I was yesterday    at<lb/>
+this place within ¾ of a mile &amp; round the bends<lb/>
+13 ms.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  3 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to two Cotton wood trees at the Mouth of a<lb/>
+Small Creek in a bend to the L. S.    near the high<lb/>
+land a 〈Bluff〉 clift &amp;c 1 me. above.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40°  W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a Clift of yellow Sant Stone<ref target="n05081003" n="3"/> on the L. S.<lb/>
+this is the first high land which touches the river<lb/>
+above <name type="place" key="Council Bluff (Nebr.)">Councel Bluff</name>, (this Clift is one mile only[)]</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 52°  W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to the pt. of a Saand barr from the S. point<lb/>
+passed the Clift. on L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 79°  E</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. of Small willows on the L. S. passing<lb/>
+the high timber on S S. at 1 me    wind hard from<lb/>
+the S. W.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 29 E</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">of a mile on the L. point, the boat run on a log &amp;<lb/>
+detained us 10 minits</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">me. to the Pt. of a Sand bar makeing out from<lb/>
+the L. point.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 68°  W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">mes. on the L. point    a Sand bar makeing out<lb/>
+from this Course.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 85°  W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  2 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">Ms. to the Lower point of a willow island off the<lb/>
+S. point—    <hi rend="italic">
+                              <name type="person" key="Blackbird">Black bird</name>
+                           </hi> the late King of the <hi rend="italic">
+                              <name type="native_nation" key="Omaha Indians">Mahars</name>
+                           </hi>
+                           <lb/>
+Toom or inclosed grave on the top of a high<lb/>
+round Hill of about 300 feet in the Prarie L. S.<lb/>
+bore west about 4 miles.<ref target="n05081004" n="4"/>    (Musquters bad)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">22 ¼</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-10.02" n="lc.geo.1804-08-10.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>10th <hi rend="italic">August Friday</hi> 1804
+</date>
+               </ab>
+               <p>		  	
+Set out early this morning. Course<lb/>
+                  <table rows="13" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 60°  W. about</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Sand makeing out from the Larboard point.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80 W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">me. to a Drift log on the Sand    This place is Called<lb/>
+                           <hi rend="italic">
+                              <name type="place" key="Blue Lake">Coupee as Jacke</name>
+                           </hi>    the river laterly Cut through Saveing<lb/>
+Sevl. mes.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 18°  E</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a burnt Stump in a bend to the L. S.    this place<lb/>
+I was at yesterday.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 20°  W.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms to a 〈Black〉 Burnt Stump on the Bank in the bend<lb/>
+to L. S. at which place I was yesterday   	at this place<lb/>
+within ¾ of a mile &amp; round the bends 13 ms</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  3 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to 2 Cotton wood trees at the mouth of a run on<lb/>
+the L. S. near the high land &amp; below a Bluff.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40°  W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to a clift of yellow Sand Stone the first high land touch-<lb/>
+ing the river above the <name type="place" key="Council Bluff (Nebr.)">Council Bluff</name>.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 52°  W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to the pt. of a Sand bar from the Starboard pt.<lb/>
+passed the Clift L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 79°  E.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. of willows on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 29 E.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">me. on the L. pt.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">  1½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a Sand bar from the L. pt.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 68 W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">mes. on the Sand bar from L. Pt.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 85 W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  2 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">ms. to the lower pt. of a willow island near the S.<lb/>
+point    from this Island the high hill which the Late<lb/>
+King of the <name type="native_nation" key="Omaha Indians">Mahars</name> was buried on is high and bears<lb/>
+West 4 miles—    we camped on this Island.<ref target="n05081005" n="5"/>    Mis-<lb/>
+quitors verry trouble some.    much Elk &amp; Beaver Sign</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">22 ¼</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-10.03" n="lc.geo.1804-08-10.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 10th</hi>    we Set off eairly    a fair day. Some fish &amp; one Beaver caught last night.    we passed a place where the River had cut through &amp; Shortened the river Several miles, we passed high Ridge of prarie land on S. S. Smooth plains back from the river, the Timber Scarse, a Great nomber of Elk Sign on the Sand beaches &amp;.C.    we passed high clifts on S. S. about 60 feet from the Surface of the of Sand Stone.    the ridge on the top is covered with Short Grass Some bushes &amp;.C.    the wind hard from the S. W.    (Sailed Some.)    we came 22½ miles this day &amp; camped<ref target="n05081006" n="6"/> on a Sand bar N. S. of the <name type="place" key="Missouri River">Missouri River</name>.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-10.04" n="lc.geo.1804-08-10.01">
+            <sp who="cf">
+               <speaker>Floyd</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>	
+〈Set out errley ouer this morning〉    Friday augt the 10th    Set out at errley ouer this morning    prosed on    passed a bad Sand bare which is verry Shallow    made 23 miles    Camped. on a sand bare on the N. Side    the Land on the S. S. is High Hilley Land
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-10.05" n="lc.geo.1804-08-10.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 10th.</hi>    We embarked early, passed high yellow banks on the south side, and encamped on the north.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-10.06" n="lc.geo.1804-08-10.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>	
+Friday 10    the morning was Clear    the musquitoes was mighty troublesome Untill The Sun rose to Some hight.    Campd. On the E. S.    Roaed 24 mils</p>
+               <p>
+Friday August 10th    We set out early this morning.    We found the Musketoes very troublesome untill the Sun rose to some heighth, when they quitted us, the wind being fair we Sail'd the greatest part of this day.    We encamped in the Evening on the North<ref target="n05081007" n="7"/> side of the River having rowed &amp; sail'd 24 Miles.—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n05081001" n="1">The courses and distances appear to be the only entry for August 10, 1804, in the Field Notes. The similar brevity of the Codex A entry for this day suggests that <name type="person" key="Clark, William">Clark</name> had little time or energy left at the end of the day. A figure near the course heading appears to be 19¾.</note>
+            <note xml:id="n05081002" n="2">Coupée à Jacques means simply "Jacques's Cut." Part of it apparently forms present <name type="place" key="Blue Lake">Blue Lake</name>, at <name type="place" key="Lewis and Clark State Park (Iowa)">Lewis and Clark State Park</name>, <name type="place" key="Monona County, Iowa">Monona County</name>, <name type="place" key="Iowa">Iowa</name>. <hi rend="italic">Atlas</hi> map 15; McDermott (WCS), 150; Osgood (FN), 103 n. 8; MRC map 26; MRR map 72.</note>
+            <note xml:id="n05081003" n="3">Two quarries along the valley and bluffs near <name type="place" key="Fort Calhoun, Nebr.">Fort Calhoun</name>, <name type="place" key="Nebraska">Nebraska</name>, have been excavated in limestones of Pennsylvania age, but no sandstone is reported in them. The Dakota sandstone (Cretaceous) has not been reported in this area. The hill is immediately north of <name type="place" key="Decatur, Nebr.">Decatur</name>, <name type="place" key="Burt County, Nebr.">Burt County</name>, <name type="place" key="Nebraska">Nebraska</name>, and appears prominently in Nicollet. <hi rend="italic">Atlas</hi> map 15; Nicollet (MMR), 391; MRC map 26; MRR map 72.</note>
+            <note xml:id="n05081004" n="4">See <hi rend="italic">Atlas</hi> map 15. They visited this landmark the next day.</note>
+            <note xml:id="n05081005" n="5">In <name type="place" key="Monona County, Iowa">Monona County</name>, considerably east of the <name type="place" key="Missouri River">Missouri River's</name> present course and, as <name type="person" key="Clark, William">Clark</name> indicates, east or southeast of <name type="place" key="Blackbird Hill">Blackbird Hill</name>. <hi rend="italic">Atlas</hi> map 15; MRC map 26; MRR map 72.</note>
+            <note xml:id="n05081006" n="6">In <name type="place" key="Monona County, Iowa">Monona County</name>, <name type="place" key="Iowa">Iowa</name>, across the river and a few miles above the <name type="place" key="Thurston County, Nebr.">Thurston</name>-<name type="place" key="Burt County, Nebr.">Burt</name>
+county line in <name type="place" key="Nebraska">Nebraska</name>.</note>
+            <note xml:id="n05081007" n="7">Again written over "South."</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-08-09" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-08-11" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

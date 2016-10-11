@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-05-27">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+May 27, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 4</title>
+               <title level="m" type="sub">April7–July 27, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and Lon   Do   n</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">207-210</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and Lon   Do   n</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">156</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and Lon   Do   n</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">94-95</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and Lon   Do   n</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">171-175</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-05-27.01">
+            <placeName/>
+            <geo>47.7312 -109.4061</geo>
+            <note>In Fergus County, MT, near later McGarry Bar</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-01-23</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-05-27">May 27, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-05-27.01" n="lc.geo.1805-05-27.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Monday May 27th 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+The wind blew so hard this morning that we did not sent out untill 10 A. M.    we employed the chord most of the day; the river becomes more rappid and is intercepted by shoals and a greater number of rocky points at the mouths of the little gulies than we experienced yesterday.    the bluffs are very high steep rugged, containing considerable quantities of stone and border the river closely on both sides; once perhaps in the course of several miles there will be a few acres of tolerably level land in which two or thre impoverished cottonwood trees will be seen.<ref target="n14052701" n="1"/>    great quantities of stone also lye in the river and garnish it's borders, which appears to have tumbled from the bluffs where the 〈water〉 rains had washed
+away the sand and clay in which they were imbeded.    the bluffs are composed of irregular tho' horizontal stratas of yellow and brown or black clay, brown and yellowish white sand, of soft yellowish white sand stone and a
+hard dark brown free stone, also of large round kidneyformed and irregular seperate masses of a hard black Iron stone, which is imbeded in the Clay and sand.    some little pine spruce and dwarf cedar on the hills.    some coal or carbonated wood still makes it's appearance in these bluffs, pumicestone and birnt hills it's concommutants also are seen.    the salts and quarts are seen but not in such abundance.<ref target="n14052702" n="2"/>    the country more broken and barren than yesterday if possible.    about midday it was very warm to this the high bluffs and narrow channel of the river no doubt contributed greatly. we passed a small untimbered Island this morning on the Lard. side of the river just above our encampment of last evening.<ref target="n14052703" n="3"/>    saw a few small herds of the Bighorned anamals and two Elk only, of the last we killed one, the river is generally about 200 yds. wide, very rappid and has a perceptable fall or declination through it's whole course.</p>
+               <p>
+This evening we encamped, for the benefit of wood, near two dead toped cottonwood trees on the Lard. side; the dead limbs which had fallen from these trees furnished us with a scanty supply only, and more was not to be obtained in the neighbourhood.—<ref target="n14052704" n="4"/>
+               </p>
+               <p>
+                  <table rows="9" cols="3">
+                     <head>
+                        <hi rend="italic">Courses and Distances May 27th 1805.</hi>
+                        <ref target="n14052705" n="5"/>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¾</cell>
+                        <cell role="data" rows="1" cols="1">Along the Lard. shore to a point on the Lard. side    no<lb/>
+timber a bluff close on both sides.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3 ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a bluff point on the Stard. side, in a Stard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 50° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. point.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 8° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to the point of a bluff Lard. in a Lard. bend, the river<lb/>
+making a considerable bend to the S. E.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a point on the Lard. side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 26° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to a single cottonwood tree on the Lard. point.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 55° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to a bluff point on the Lard. side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45° W.</cell>
+                        <cell rend="underline" role="data" rows="1" cols="1">
+                           <ref target="n14052706" n="6">  3 ½</ref>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">to a bluff on the Lard. side, passing a Lard. point at 1 m.<lb/>
+&amp; a Stard. point at 2½ ms.    we encamped on Lard. side<lb/>
+1½ ms. on this course.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Miles</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">14</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi rend="italic">
+                     <hi rend="right">Point of Observation No. 24.</hi>
+                  </hi>
+               </p>
+               <p>
+On the Lard. shore one mile short of the extremity of the second course of this day, observed Merdn. Altd. of <seg n="u9737">☉</seg>'s L. L. with Octant by the back Observatn. 57° 27'</p>
+               <p>Latitude deduced from this observation [<hi rend="italic">blank</hi>]</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-27.02" n="lc.geo.1805-05-27.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">May 27th Monday 1805.</hi>
+                  </date>
+               </ab>
+               <p>The wind blew hard from the S W. which detained us untill about 10 oClock, at which time we Set out and proceeded on, passed a Small nacked Island on the Lard Side imediately above the timber in which we Camped    The river is verry Shoaley and the bad places are verry numerous, i e at the mouth of every Drean the <ref target="n14052707" n="7">rocks which is a hard dark gritey Stone</ref> is thrown out Some distance in the river which Cause a Considerable riffle on that Side, the hills approach the river verry Close on either Side, river narrow &amp; no timber except Some Scattering pine on the hills &amp; hill Sides, the Salts, Coal, burn hills &amp; Pumice Stone &amp;c. Continue, the hills are Generally <ref target="n14052708" n="8">Bluffs of various Coloured earth 〈Genly〉 most commonly black with different quallities stone intermixed Some Stratums of Soft Sand Stone, Some hard, Some a dark brown &amp; yellow hard grit, those Stones are loosened by the earths washing from them into the river and ultimately role  Down into the river, which appears to be Crowded with them.</ref> This day is verry worm—    we only Saw a fiew Small herds of the big horn animals on the hills, and two Elk one of which We killed, we Camped at 2 dead top trees on the Lard Side. The river is Genly about 200 yards wide and Current very Swift to day and has a verry perceptiable fall in all its Course—    it rises a little.</p>
+               <p>
+                  <table rows="10" cols="3">
+                     <head>
+                        <hi rend="italic">Course &amp; Distance May 27th</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">miles</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¾</cell>
+                        <cell role="data" rows="1" cols="1">allong the Lard Shore to a point on the Lard Sd. (no tim-<lb/>
+ber)    a Bluff opposit on both Sides</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3 ¼</cell>
+                        <cell role="data" rows="1" cols="1">a bluff point on the Stard. Side in a Stard. Bend.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 50° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to a Larboard point.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 8° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to the point of a Bluff on Lard. in a Lard. Bend; the river<lb/>
+makeing a Considerable bend to the S. E.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a open point on the Lard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 26° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Single Cotton tree on Stard. point</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 55° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to a bluff point on the Lard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45° W.</cell>
+                        <cell role="data" rend="underline" rows="1" cols="1">  3 ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Bluff on the Lard. Side, passed a Lard point at 1 miles,<lb/>
+a Stard. point at 2½ miles.    we Camped on Lard Sd.    1½<lb/>
+on this Course</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">miles </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">14</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-27.03" n="lc.geo.1805-05-27.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">May 27th Monday 1805</hi>.    the wind blew hard from the S. W. which detained us untill about 10 oClock at which time we Set out &amp; proceeded on. passed a Small necked Island on the Lard. Side immediately above the timber in which we Camped    the river is verry Shoaley and the bad places are
+verry numerous.—    at the mouth of every dreen the rocks is thrown Some distance in the river which causes the riffles.    this day is verry warm.    we Saw only a fiew herds of Big horned animel on the hills, &amp; 2 Elk, one of which we killed.    we Camped at 2 dead top trees on the Larboard Side.    the river is generally about 200 yards wide &amp; current verry Swift to day, and has a verry prosperous falls in all its course    it rises a little. Came 14 miles
+to day.—
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-27.04" n="lc.geo.1805-05-27.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 27th.</hi>    We have now got into a country which presents little to our view, but scenes of barrenness and desolation; and see no encouraging prospects that it will terminate. Having proceeded (by the course of this river) about two thousand three hundred miles, it may therefore not be improper to make two or three general observations respecting the country we have passed.</p>
+               <p>
+From the mouth of the <name type="place" key="Missouri River">Missouri</name> to that of the <name type="place" key="Platte River (Nebr.)">river Platte</name>, a distance of more than six hundred miles, the land is generally of a good quality, with a sufficient quantity of timber; in many places very rich, and the country pleasant and beautiful.</p>
+               <p>
+From the confluence of the <name type="place" key="Platte River (Nebr.)">river Platte</name> with the <name type="place" key="Missouri River">Missouri</name> to the Sterile desert we lately entered a distance of upwards of fifteen hundred miles the soil is less rich, and except in the bottoms, the land of an inferior quality; but may in general be called good second rate land. The country is rather hilly than level, though not mountainous, rocky or stony. The hills in their unsheltered state are much exposed to be washed by heavy rains. This kind of country and soil which has fallen under our observation in our progress up the <name type="place" key="Missouri River">Missouri</name>, extends it is understood, to a great distance on both sides of the river. Along the <name type="place" key="Missouri River">Missouri</name> and the waters which flow into it, cotton wood and willows are frequent in the bottoms and islands; but the upland is almost entirely without timber, and consists of large prairies or plains the boundaries of which the eye cannot reach. The grass is generally short on these immense natural pastures, which in the proper seasons are decorated with blossoms and flowers of various colours. The views from the hills are interesting and grand. Wide extended plains with their hills and vales, stretching away in lessening wavy ridges, until by their distance they fade from the sight; large rivers and streams in their rapid course, winding in various meanders; groves of cotton wood and willow along the waters intersecting the landscapes in different directions, dividing them into various forms, at length appearing like dark clouds and sinking in the horizon; these enlivened with the buffaloe, elk, deer, and other animals which in vast numbers feed upon the plains or pursue their prey, are the prominent objects, which compose the extensive prospects presented to the view and strike the attention of the beholder.</p>
+               <p>
+The islands in the <name type="place" key="Missouri River">Missouri</name> are of various sizes; in general not large and during high water mostly overflowed.</p>
+               <p>
+There are Indian paths along the <name type="place" key="Missouri River">Missouri</name> and some in other parts of the country. Those along that river do not generally follow its windings but cut off points of land and pursue a direct course. There are also roads and paths made by the buffaloe and other animals; some of the buffaloe roads are at least ten feet wide. We did not embark this morning until 8 o'clock. The day was fine, but the wind ahead. We had difficult water, and passed through the most dismal country I ever beheld; nothing but barren mountains on both sides of the river, as far as our view could extend. The bed of the river is rocky, and also the banks and hills in some places; but these are chiefly of earth. We went thirteen miles and encamped in a bottom, just large enough for the purpose, and made out to get enough of drift wood to cook with.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-27.05" n="lc.geo.1805-05-27.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 27th May 1805</hi>.    pleasant weather.    the wind high from the N. W.    about 10 oC. we Set off and proceeded on with the towing lines.    the current verry Swift.    passed a great nomber of rapid places.    passed verry high Steep mountains and clifts Steep precipices.    these mountains appear to be a desert part of the country.    they wash by rains, but a little rain in this part.    no diews like other parts but barron broken rich Soil but too much of a desert to be inhabited, or cultivated.    Some Spots of pitch &amp; Spruce pine.<ref target="n14052709" n="9"/>    the game is Scarcer than it has been.    no grass nor timber for them to live in, but what Ibex or Mountain Sheep, Elk deer &amp;c live on what little grass their is in the vallies and narrow plains on river, which is covered with wild hysop rose bush &amp; Some grass.    Some different kinds of mint<ref target="n14052710" n="10"/> along the Shore.    Saw mussel<ref target="n14052711" n="11"/> Shells also.    the Shore is Stoney &amp; gravvelly.    no falling in banks but the creeks drive the earth and gravvel in Some distance in the river which causes the most of the hard riffles, which we have had all day and had to Double man our perogues to git them over Safe.    one mountain ram or Ibex killed to day.    we Came 13 mes today, and Camped at an old Indian Camp on the S. Side [of] River    we are 800 &amp; 10 miles from the <name type="native_nation" key="Mandan Indians">Mandans</name>, 2415 [from the mouth of the <name type="place" key="Missouri River">Missouri</name>?]</p>
+               <p>
+                  <hi rend="right">[<hi rend="italic">undated</hi>]<ref target="n14052712" n="12"/>
+                  </hi>
+               </p>
+               <p>
+                  <table rows="7" cols="5">
+                     <head>Remarks of Different places—</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Latd of the <name type="place" key="Gasconade River">Gasnage</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">38</cell>
+                        <cell role="data" rows="1" cols="1">15</cell>
+                        <cell role="data" rows="1" cols="1">57</cell>
+                        <cell role="data" rows="1" cols="1">N</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">    Do    <name type="place" key="Grand Zoe">Gran zoe</name>—</cell>
+                        <cell role="data" rows="1" cols="1">39</cell>
+                        <cell role="data" rows="1" cols="1">16</cell>
+                        <cell role="data" rows="1" cols="1">23</cell>
+                        <cell role="data" rows="1" cols="1">N</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">    Do    rock pole</cell>
+                        <cell role="data" rows="1" cols="1">38</cell>
+                        <cell role="data" rows="1" cols="1">16</cell>
+                        <cell role="data" rows="1" cols="1">00</cell>
+                        <cell role="data" rows="1" cols="1">N</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">    Do    the two <name type="place" key="Chariton (Charliton, Shariton) River">Cherottors</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">38½</cell>
+                        <cell role="data" rows="1" cols="1">19</cell>
+                        <cell role="data" rows="1" cols="1">00</cell>
+                        <cell role="data" rows="1" cols="1">N</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">    Do    <name type="place" key="Kansas (Decaugh, Kaw) River">Decough</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">38</cell>
+                        <cell role="data" rows="1" cols="1">31</cell>
+                        <cell role="data" rows="1" cols="1">13</cell>
+                        <cell role="data" rows="1" cols="1">N</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">            <name type="place" key="Platte River (Nebr.)">River plate</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">41</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">19¾</cell>
+                        <cell role="data" rows="1" cols="1">N</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">    Do    Camp of the Brareow on<lb/>
+     <name type="place" key="Council Bluff (Nebr.)">Council Bluffs</name>—</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>41</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>17</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>00</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="30" cols="4">
+                     <head>From <name type="place" key="Dubois River">River Duboise</name>—</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">To <name type="place" key="Saint Charles, Mo.">St Charles</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">     21</cell>
+                        <cell role="data" rows="1" cols="1">Miles by water</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">" <name type="place" key="Gasconade River">Gasconade</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  104</cell>
+                        <cell role="data" rows="1" cols="1">   "     "    —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Unto the <name type="place" key="Osage (Osarge) River">Osage River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  138</cell>
+                        <cell role="data" rows="1" cols="1">   "     "     "</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">" <name type="place" key="Lamine (Mine) River">Mine River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  201</cell>
+                        <cell role="data" rows="1" cols="1">   "    —    —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">2 <name type="place" key="Chariton (Charliton, Shariton) River">Charottoes</name> Rivers</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  226—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">" Old village of <name type="native_nation" key="Missouri River">Misuries</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  246—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">" <name type="place" key="Grand River (Mo.)">Grand River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  254—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">" <name type="place" key="Kansas (Decaugh, Kaw) River">Kanzies River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  366—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">2nd Old Village of <name type="native_nation" key="Kansa Indians">Kanzies</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  433—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> "  <name type="place" key="Nodaway River">Nodoway River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  481—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> "  <name type="place" key="Big Nemaha River">Grand Na, mahawr</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  511—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> "  <name type="place" key="Bald-pated Prairie">Bald pated prarie</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  570—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Moute of <name type="place" key="Platte River (Nebr.)">plate River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  632—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Council Bluff (Nebr.)">Council Bluffs</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  682—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Little Sioux (Ye-yeau War-da-pon) River">Little Scioux River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  766—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="native_nation" key="Omaha Indians">Mahars</name> Village</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  870—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">The Mouth of the <name type="place" key="Big Sioux River (Rivière des Sioux)">Big Souix River</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  880—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">The Mouth of the <name type="place" key="James (Jacque) River (S. Dak.)">river Jacque</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  970—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Grand <name type="place" key="Calumet Bluff (Nebr.)">Calumet Bluffs</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  980—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">the River of <name type="place" key="Niobrara (Quicurre, Rapid) River">rapid water</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1020—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Dorion Island No. 2 (Cedar Island)">Ceeder Island</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1090—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">River <name type="place" key="White River">White R</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1142—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">To the Island in the <name type="place" key="Missouri River, Big Bend of the">Big bend</name> or Grand</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">1183—</cell>
+                        <cell role="data" rows="2" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">   <name type="place" key="Missouri River, Big Bend of the">detorture of the Missouri River</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">round the Bend 30 miles—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1213—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">To the <name type="place" key="Dorion Island No. 2 (Cedar Island)">Ceeder Island</name> above the <name type="place" key="Missouri River, Big Bend of the">Big Bend</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1235—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">To the Mouth of the <name type="place" key="Bad (Teton) River (S. Dak.)">Teton River</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1275—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">To the 1st Village of <name type="native_nation" key="Arikara Indians">Rickieree</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1480—</cell>
+                        <cell role="data" rows="1" cols="1">1430</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">To Mouth of the <name type="place" key="Cannonball (Bullet) River">River Bullette</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1505—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">River <name type="place" key="Heart (Ches-che-tar and similar spellings) River">Chiss-Che-tar</name> above the old</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">1550—</cell>
+                        <cell role="data" rows="2" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">   village of <name type="native_nation" key="Mandan Indians">Mandans</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandans</name> on the N. Side—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1600½</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="20" cols="6">
+                     <head>
+                        <name type="person" key="Whitehouse, Joseph">Joseph Whitehouse</name>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1600</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1550</cell>
+                        <cell role="data" rows="1" cols="1">  45</cell>
+                        <cell role="data" rows="1" cols="1">Bolet</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">1550</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">1505</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">  25</cell>
+                        <cell role="data" rows="1" cols="1">Rikeres</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">     50</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">     45</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">  50</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">1505</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">120</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1600</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">     55</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">1480</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">  120</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1600</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1480</cell>
+                        <cell role="data" rows="1" cols="1">1183</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">1505</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">1142</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">     25</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">41</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">     00</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1480</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">1275</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">  205</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">1275</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1480</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">1235</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1240</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+     22</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1213</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1183</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">     30</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="23" cols="6">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Latudes of the Different Remarkable Places<lb/>
+   on the <name type="place" key="Missouri River">Missourie River</name> of <name type="place" key="Saint Charles, Mo.">St. Charles</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>38</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>54</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>39</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>N</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Gasconade River">Gasconade</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">38</cell>
+                        <cell role="data" rows="1" cols="1">44</cell>
+                        <cell role="data" rows="1" cols="1">35</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Mo of the <name type="place" key="Osage (Osarge) River">Osage River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">38</cell>
+                        <cell role="data" rows="1" cols="1">31</cell>
+                        <cell role="data" rows="1" cols="1">  6</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">mo of the <name type="place" key="Grand River (Mo.)">Grand River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">38</cell>
+                        <cell role="data" rows="1" cols="1">47</cell>
+                        <cell role="data" rows="1" cols="1">54 9/10</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">mo of the <name type="place" key="Kansas (Decaugh, Kaw) River">Kanzies River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">39</cell>
+                        <cell role="data" rows="1" cols="1">  5</cell>
+                        <cell role="data" rows="1" cols="1">25</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">12 ms. above <name type="place" key="Diamond Island">Dimond Isl.</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">39</cell>
+                        <cell role="data" rows="1" cols="1">  9</cell>
+                        <cell role="data" rows="1" cols="1">38</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">3 ms. below the [<hi rend="italic">crossed out</hi>]</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">   2nd Old Village of <name type="native_nation" key="Kansa Indians">Kanzies</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">39</cell>
+                        <cell role="data" rows="1" cols="1">25</cell>
+                        <cell role="data" rows="1" cols="1">42</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">mo. of the <name type="place" key="Nodaway River">Nordaway</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">39</cell>
+                        <cell role="data" rows="1" cols="1">39</cell>
+                        <cell role="data" rows="1" cols="1">22</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">mo of <name type="place" key="Big Nemaha River">Na mahaw</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">39</cell>
+                        <cell role="data" rows="1" cols="1">55</cell>
+                        <cell role="data" rows="1" cols="1">56</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Sun (Fair Sun, Good Sun) Island">Good Isld.</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">40</cell>
+                        <cell role="data" rows="1" cols="1">20</cell>
+                        <cell role="data" rows="1" cols="1">12</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Bald-pated Prairie">Bald Pated Prarie</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">40</cell>
+                        <cell role="data" rows="1" cols="1">27</cell>
+                        <cell role="data" rows="1" cols="1">  6</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="White Catfish Camp (Iowa)">white Catfish Camp</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">41</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">19</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Council Bluff (Nebr.)">Council Bluff</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">41</cell>
+                        <cell role="data" rows="1" cols="1">17</cell>
+                        <cell role="data" rows="1" cols="1">00</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Mo of <name type="place" key="Little Sioux (Ye-yeau War-da-pon) River">Stone River</name> or the</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">41</cell>
+                        <cell role="data" rows="2" cols="1">42</cell>
+                        <cell role="data" rows="2" cols="1">34</cell>
+                        <cell role="data" rows="2" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Little Sioux (Ye-yeau War-da-pon) River">little Sioux</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">On the South Side whare the<lb/>
+   late King of the <name type="native_nation" key="Omaha Indians">Mahars</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>42</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  1</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  3</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>N</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Fish Camp">Fish Camp</name> Neer the <name type="native_nation" key="Omaha Indians">Mahars</name> Village<lb/>
+August 14th 1804</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>42</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>13</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>41</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+Septmb. 1 <name type="place" key="Calumet Bluff (Nebr.)">Calimet Bluffs</name> opsite</cell>
+                        <cell role="data" rows="4" cols="1">}</cell>
+                        <cell role="data" rows="4" cols="1">42</cell>
+                        <cell role="data" rows="4" cols="1">53</cell>
+                        <cell role="data" rows="4" cols="1">13—</cell>
+                        <cell role="data" rows="4" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">the <name type="native_nation" key="Sioux Indians">Sues</name> 〈Village〉<lb/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Lodges whare we met the</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Nation of the <name type="native_nation" key="Sioux Indians">Sues</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Dorion Island No. 2 (Cedar Island)">Ceeder Island</name>
+                           <name type="place" key="Fort aux Cedres (S. Dak.)">Louesells Fort</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">44</cell>
+                        <cell role="data" rows="1" cols="1">11</cell>
+                        <cell role="data" rows="1" cols="1">33—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">the Mouth of the <name type="place" key="Cheyenne River">Chien River</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">44</cell>
+                        <cell role="data" rows="1" cols="1">19</cell>
+                        <cell role="data" rows="1" cols="1">36—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Mouth of the <name type="place"
+                                 key="Grand (We-tar-hoo and similar spellings) River (S. Dak.)">Water-hoo River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">45</cell>
+                        <cell role="data" rows="1" cols="1">39</cell>
+                        <cell role="data" rows="1" cols="1">  5—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">the Mouth of the <name type="place" key="Cannonball (Bullet) River">River bullette</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">46</cell>
+                        <cell role="data" rows="1" cols="1">29</cell>
+                        <cell role="data" rows="1" cols="1">00—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandans</name> on N. Side—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">47</cell>
+                        <cell role="data" rows="1" cols="1">21</cell>
+                        <cell role="data" rows="1" cols="1">00—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">at the forks of <name type="place" key="Marias River">Mariah</name>—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">47</cell>
+                        <cell role="data" rows="1" cols="1">24</cell>
+                        <cell role="data" rows="1" cols="1">12—</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+Monday May 27th    This morning pleasant weather, but the wind high, from the Northwest, about 10 o'Clock A. M. we set out, and proceeded on our Voyage, towing the Craft, the current of the River running very Swift.    We passed a number of rapid places, Steep mountains, Clifts and precipices.—    This place appear'd to be a desert Country,—    The hills washing by the Rains, No dews fall here, and it seldom Rains, The Soil is rich, but has the appearance of being too much a desert, ever to be Inhabited.    The Game became scarcer here, than they have been for some time past, owing to their being no Grass, or Timber'd land for them to live in.—    no Trees to be seen here, but a few Pitch pine &amp; Spruce.—    The Ibex, Elk &amp; deer, being in the Valleys, &amp; narrow plains below this on the River.—    Those Valleys and plains are covered with wild hysop, Rose bushes, and some Grass.—     some different kinds of wild mint grow along the Shore of the River, and Mussles are to be found in great abundance.—    The land along the Shore is Stoney, &amp; Gravelly; and no falling in banks.—    The water that comes in here from the Creeks, runs so strong that it drives the Stones, and gravel, some distance into the River; which caused most of the hard Riffles, that we passed this day.—    And we had to Man our Crafts doubly in order to get them over Safe.—    One of our party kill'd a Mountain Sheep (Ibex,) this day; We came too and encamp'd where we found an old Indian Camp on the South side of the River, we are now 800 Miles above the <name type="native_nation" key="Mandan Indians">Mandan</name> Nation &amp; 2,415 Miles from the mouth of the <name type="place" key="Missouri River">Mesouri River</name>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n14052701" n="1">The party was traveling through the <name type="place" key="Missouri River, Breaks of the">Missouri River Breaks</name>, a region which today is
+still much as it was in <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark's</name> time. The <name type="place" key="Missouri River">Missouri</name> cuts through another preglacial stream divide here creating a deep, narrow channel. See also the geology note of <ref n="1805-05-25" type="related">May 25, 1805</ref>.</note>
+            <note xml:id="n14052702" n="2">The stone along the river is derived from the fractured sandstones and from the concretions of the <name type="place" key="Judith River Formation">Judith River Formation</name>, which is the only formation exposed along today's route. The Bearpaw Shale, with its salts and selenite, caps some of the river hills. The kidney-form stones are concretions, often up to five feet in diameter; they are dark, reddish brown and cemented with iron compounds. The coal is part of the <name type="place" key="Judith River Formation">Judith River Formation</name> but is present in limited quantities and does not produce the extensive baked and fused rocks of the Paleocene coals downstream.</note>
+            <note xml:id="n14052703" n="3">The island is misplaced in relation to the campsite on <hi rend="italic">Atlas</hi> map 60, but is correct on maps 40 and 52; apparently it no longer exists. MRC map 72.</note>
+            <note xml:id="n14052704" n="4">In <name type="place" key="Fergus County, Mont.">Fergus County</name>, <name type="place" key="Montana">Montana</name>, near later <name type="place" key="McGarry Bar">McGarry Bar</name>. <hi rend="italic">Atlas</hi> maps 40, 52, 60; MRC map 72. The dearth of wood was a problem to later steamboat traffic on the river. Wood hawkers nearly denuded the river banks in the last century.</note>
+            <note xml:id="n14052705" n="5">Also given on <hi rend="italic">Atlas</hi> map 40, in both captains' hands.</note>
+            <note xml:id="n14052706" n="6">Given as "3" on <hi rend="italic">Atlas</hi> map 40, giving a total mileage of 13½.</note>
+            <note xml:id="n14052707" n="7">Blocks of sandstone or concreations derived from the <name type="place" key="Judith River Formation">Judith River Formation</name>.</note>
+            <note xml:id="n14052708" n="8">The <name type="place" key="Judith River Formation">Judith River Formation</name> commonly weathers to a light-brown color but many variations occur because of the several types of rock found in this formation. The darker color may be derived from the overlying Bearpaw Shale which also contains most of the salts.</note>
+            <note xml:id="n14052709" n="9">Douglas fir, <hi rend="italic">Pseudotsuga menziesii</hi> (Mirb.) Franco.</note>
+            <note xml:id="n14052710" n="10">Probably field mint, <hi rend="italic">Mentha arvenis</hi> L.</note>
+            <note xml:id="n14052711" n="11">Mussels could be from either the Margaritanidae or Unionidae family.</note>
+            <note xml:id="n14052712" n="12">At the end of <name type="person" key="Whitehouse, Joseph">Whitehouse's</name> entry of May 27 in the original version and partly running into it comes the following miscellaneous material. It consists of eight pages of mileage figures, latitude tables, and random scribbles, some illegible. The random scribbles, for the most part repetitions of <name type="person" key="Whitehouse, Joseph">Joseph Whitehouse's</name> signature, are not given here. The tables and mileage figures are transcribed as fully as possible and may be compared with similar material in <name type="person" key="Clark, William">Clark's</name> journals as published in <ref n="1804-1805.winter.part1" type="related">
+                  <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name> Miscellany</ref>. <name type="person" key="Whitehouse, Joseph">Whitehouse's</name> notations are written upside down in the notebook and across the page as in a conventional book, rather than from top to bottom of the page as in a stenographer's notebook as is the practice with the narrative portion of the journal. The material is placed here reading from back to front in the notebook, which is the progression of the tables. The date of its composition is unknown, but <name type="person" key="Whitehouse, Joseph">Whitehouse</name> does give the latitude of the <name type="place" key="Marias River">Marias River</name> where the party arrived on June 2. The entry of May 28 begins on a new page and section of the notebook. From here the pages are somewhat larger than the preceding section and are bound separately to the animal skin cover.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-05-26" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-05-28" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

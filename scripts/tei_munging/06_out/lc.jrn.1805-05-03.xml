@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-05-03">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+May 3, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 4</title>
+               <title level="m" type="sub">April7–July 27, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">102-107</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">142</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">85</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">143-145</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-05-03.01">
+            <placeName/>
+            <geo>48.0708 -105.2224</geo>
+            <note>Past Poplar River and Redwater River in Roosevelt County, MT. About 4 mile away from the town of Poplar, MT</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-05-11</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-05-03">May 3, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-05-03.01" n="lc.geo.1805-05-03.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Friday May 3rd 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+The morning being very could we did not set out as early as usual; ice formed on a kettle of water ¼ of an inch thick.    the snow has melted generally in the bottoms, but the hills still remain covered.    on the lard side at the distance of 2 miles we passed a curious collection of bushes which had been tyed up in the form of a faciene<ref target="n12050301" n="1"/> and standing on end in the open bottom    it appeared to be about 30 feet high and ten or twelve feet in diameter, this we supposed to have been placed there by the Indians, as a sacrefice for some purpose. The wind continued to blow hard from the West but not so strong as to compel us to ly by.    <name type="person" key="Clark, William">Capt. Clark</name> walked on shore and killed an Elk which he caused to be butched by the time I arrived with the party, here we halted and dined being about 12 OCk. our usual time of halting for that purpose.    after dinner <name type="person" key="Clark, William">Capt. Clark</name> pursued his walk, while I continued with the party, it being a rule which we had established, never to be absent at the same time from the party.    the plains or high lands are much less elivated than they were, not being more than from 50 to 60 feet above the river bottom, which is also wider than usual being from 5 to 9 ms. in width; traces of the ancient beds of the river are visible in many places through the whole extent of this valley.    since the hills have become lower the appearance of the stratas of coal burnt hills and pumice stone have in a great measure ceased;<ref target="n12050302" n="2"/> I saw none today.    we saw vast quantities of Buffaloe, Elk, deer principally of the long tale kind, Antelope or goats, beaver, geese, ducks, brant and some swan.    near the entrance of the river mentioned in the 10th course of this day, we saw an unusual number of Porcupines from which we determined to call the river after that anamal, and accordingly denominated it <hi rend="italic">
+                     <name type="place" key="Poplar (Porcupine) River">Porcupine river</name>.</hi>
+                  <ref target="n12050303" n="3"/>    this stream discharges itself into the <name type="place" key="Missouri River">Missouri</name> on the Stard. side 2000 miles above the mouth of the latter, it is a beatifull bold runing stream, 40 yards wide at it's entrance; the water is transparent, it being the first of this discription that I have yet seen discharge itself into the <name type="place" key="Missouri River">Missouri</name>; before it enters a large sand bar through which it discharges itself into the <name type="place" key="Missouri River">missouri</name> it's banks and bottom are formed of a stiff blue and black clay;<ref target="n12050304" n="4"/> it appears to be navigable for canoes and perogues at this time and I have no doubt but it might be navigated with boats of a considerable size in high water.    it's banks appear to be from 8 to ten feet high and seldom overflow; from the quantity of water furnished by this river, the appearance of the country, the direction it pursues, and the situation of it's entrance, I have but little doubt but it takes it's source not far from the main body of the <name type="place" key="Saskatchewan River">Suskashawan river</name>,<ref target="n12050305" n="5"/> and that it is probably navigable 150 miles; perhaps not very distant from that river.    should this be the case, it would afford a very favorable communication to the <name type="place" key="Lake Athabaska">Athebaskay country</name>, from whence the British N. W. Company derive so large a portion of their valuable furs.—    <name type="person" key="Clark, William">Capt. Clark</name> who ascended this river several miles and passed it above where it entered the hills<ref target="n12050306" n="6"/> informed me on his return that he found the general width of the bed of the river about one hundred yards, where he passed the river the bed was 112 yards wide, the water was knee deep and 38 yard in width; the river which he could observe from the rising grounds for about 20 miles, bore a little to the East of North.    there was a considerable portion of timber in the bottom lands of this river. <name type="person" key="Clark, William">Capt Clark</name> also met with limestone on the surface of the earth in the course of his walk.<ref target="n12050307" n="7"/>    he also saw a range of low mountains at a distance to the 〈N〉 W of 〈West〉 N, their direction being N. W.    the country in the neighbo[rhood] of this river, and as far as the eye can reach, is level, fertile, open and beatifull beyond discription. ¼ of a mile above the entrance of this river a large creek falls in which we called <hi rend="italic">2000 mile creek.</hi>
+                  <ref target="n12050308" n="8"/>    I sent <name type="person" key="Field, Reubin">Rubin Fields</name> to examine it, he reported it to be a bold running stream, it's bed 30 yards wide.    we proceeded about 3 miles abov this creek and encamped on the Stard. shore.<ref target="n12050309" n="9"/>    I walked out a little distance and met with 2 porcupines which were feeding on the young willow which grow in great abundance on all the sandbars; this anamal is exceedingly clumsy and not very watchfull I approached so near one of them before it percieved me that I touched it with my espontoon.—<ref target="n12050310" n="10"/>    found the nest of a wild goose among some driftwood in the river from which we took three eggs.    this is the only nest we have met with on driftwood, the usual position is the top of a broken tree, sometimes in the forks of a large tree but almost invariably, from 15 to 20 feet or upwards high.—</p>
+               <p>
+                  <table rows="14" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="desc" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">Courses and distances May 3rd 1805</hi>
+                              <ref target="n12050311" n="11"/>
+                           </hi>
+                        </cell>
+                        <cell role="desc" rows="1" cols="1">
+                           <hi rend="italic">miles</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 50° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of high timber in a bend Stard.</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 65° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of high timber in the center of a 〈Lard〉 bend<lb/>
+on Lard side</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  2 ¼</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40 W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of woodland Star. side</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 55° W.</cell>
+                        <cell role="data" rows="1" cols="1">to some dead timber in a stard bend</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">to the upper part of the high timber in a bend on the<lb/>
+Lard. side.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  3</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° W.<ref target="n12050312" n="12"/>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">to a point of woodland Stard. side</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 85° W.</cell>
+                        <cell role="data" rows="1" cols="1">to the commencement of the timber on the Lard. side in<lb/>
+a bend</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  1 ¼</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">to the upper part of the high timber in a bend on the<lb/>
+Stard., passing a sand point at ½ mile on Lard.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  1 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 65° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of woodland on the Lard. side.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 75° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of woodland on the Stard. side, at the entrance<lb/>
+of a large river on the	Stard. side, called <name type="place" key="Poplar (Porcupine) River">Porcupine R.</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  1 ¾</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">to the high timber on the lard. side, passing entrance<lb/>
+of <name type="place" key="Red Water (2,000 Mile) Creek">2000 mile Creek</name> at ¼ of a mile on Lard. side</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40° W.</cell>
+                        <cell role="data" rows="1" cols="1">to some high timber on the Stard. side, just above an old<lb/>
+channel of the river on the Stard. where we encampd.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">     ½</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">miles</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">18 ½</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-03.02" n="lc.geo.1805-05-03.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">May 3rd Friday 1805</hi>
+                  </date>
+               </ab>
+               <p>				  
+we Set out reather later this morning than usial owing to weather being verry cold, a frost last night and the Thermt. Stood this morning at 26 above 0 which is 6 Degrees blow freeseing—    the ice that was on the Kittle left near the fire last night was ¼ of an inch thick. The Snow is all or nearly all off the low bottoms, the Hills are entirely Covered.    three of our party found in the back of a bottom 3 pieces of Scarlet one brace in each, which had been left as a Sacrifice near one of their Swet houses, on the L. S. we passed to day a curious collection of bushes tied up in the shape of <hi rend="italic">fascene</hi> about 10 feet diamuter, which must have been left also by the natives as an offering to their medison which they Convinced protected or gave them relief near the place, the wind Continued to blow hard from the West, altho not Sufficently So to detain us, I walked on Shore and killed an Elk &amp; had him bucchured by the time the Perogus Came up which was the usial time of dineing. The high lands are low and from 8 to 9 miles apart and there is evident marks of the bead of the river having been changed frequently but little appearance of the Coal &amp; burnt hills to day—    Great numbers of Buffalow, Elk, Deer, antilope, beaver, Porcupins, &amp; water fowls Seen to day, Such as, Geese, ducks of dift. kinds, &amp; a fiew Swan—    I continued my walk on Shore after dinner, and arrived at the mouth of a river on the St. Side, which appeared to be large, and I concluded to go up this river a few miles to examine it    accordingly I Set out North 1 mile thro wood or timbered bottom, 2 miles throu a butifull leavel plain, and 1 mile over a high plain about 50 feet higher than the bottom &amp; Came to the little river, which I found to be a butifull clear Stream of about 100 yds. from bank to bank, (I 〈Stoped〉 waded this river at the narrowest part and made it 112 Steps from bank to bank and at this place which was a kind of fording place the water was near Knee deep, and 38 steps wide, the bottom of a hard stiff Black Clay,[)]    I observed a Great perportion of timber in the bottoms of this river as far as I could See which was to the East of N. 18 or 20 miles, it appears to be navagable at this time for Canoes, and from appearances must be navagable a long distance for Perogus &amp; boats in high water. This river we call <name type="place" key="Poplar (Porcupine) River">
+                     <hi rend="italic">Porcupine</hi>
+                  </name> from the great number of those anamals found about it's mouth.—    a Short distance above about ¼ mile and on the Lard Side a large Creek falls in, which <name type="person" key="Field, Reubin">R. Fields</name> went to examine &amp; reports that it is a bold running Stream, 30 yds wide    as this Creek is 2000 miles up the <name type="place" key="Missouri River">Missouri</name> we Call it the <name type="place" key="Red Water (2,000 Mile) Creek">2000 mile Creek</name>, we proceeded on 3 miles &amp; Camped on the S. S.    here I joined <name type="person" key="Lewis, Meriwether">Capt Lewis</name> who had in my absens walkd. on the upper Side of <name type="place" key="Poplar (Porcupine) River">Porcupine River</name> for Some distance—    This river from it Size &amp; quantity of water must head at no great distance from the <name type="place" key="Saskatchewan River">Saskashawan</name>    on this river I Saw emence herds Elk &amp; Buffalow &amp; many deer &amp; <name type="place" key="Poplar (Porcupine) River">Porcupine</name>. I also Saw the top of a mountain which did not appear verry high to the West of N. &amp; bore N W.    I Saw on the high land limestone &amp; pebble—    The Countrey about the mouth of this river and as far as the eye Can reach is butifull 〈beyond〉 open Countrey. The greater part of the Snow is melted.</p>
+               <p>
+                  <table rows="14" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="desc" rows="1" cols="1">mile</cell>
+                        <cell role="desc" rows="1" cols="1">
+                           <hi rend="italic">Course &amp; Distance 3d of May 1805</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 50° W</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">to a point of high timber on the Std. Side in a bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 65° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a point of high timber on the Ld. Sd. about the middle<lb/>
+of a bend L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40° W</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile to a point of wood land Std. Side<ref target="n12050313" n="13"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 55 W</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to Some dead timber in St. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">to the upper part of a timber in a bend to the Lard Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a pt. of wood land Std. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 85° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">to the commencement of a timber on the Lard. Side in<lb/>
+a bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North	</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to the upper part of the high timber in a bend on the<lb/>
+Stard Side passing a Sand point at ½ a mile</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 65° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a point of wood Land on the Ld Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 75° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¾</cell>
+                        <cell role="data" rows="1" cols="1">to a point of wood land on the Std. Side at the mouth of a<lb/>
+large river on the Std Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 45° W</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">m. to a high timber on the Lard Side    passed the mouth<lb/>
+of <name type="place" key="Red Water (2,000 Mile) Creek">2000 mile Creek</name> at ¼ of a mile on the Lard Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">     ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">to Some high timber on the S. Side just above an old<lb/>
+Channel of the river Std Side.    encamped</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">18 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-03.03" n="lc.geo.1805-05-03.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 3rd May 1805</hi>.    clear but verry cold for May.    we Set off about 7 oClock, &amp; proceeded on. Saw the Standing water froze Over    the Ice froze to ore poles as we poled where the sun Shined on us.    a hard white frost last night.    the Ground covered with Snow.    the wind rose high from the 
+W.     about one o.C. <name type="person" key="Clark, William">Capt. Clark</name> Came to us where we halted to dine    had killed an Elk, as he had been by land Since morning.    this place where he killed the Elk is in a bottom covered with c. w. timber.    we found a goose nest a little below this on some drift wood.    we took 3 Eggs out of it.    one man went along the bank of the River a fiew minutes and killed a beaver.    we have Sawn Great Sign of beaver for several days but more this day than usal.    the wind verry high &amp; cold.    we proceeded on. Saw a nomber of buffaloe on the ridges and in the plains.    passed large bottoms of timber, &amp; plains on each Side but no high hills.    passed a creek on the S. S.<ref target="n12050314" n="14"/>    Came 20 miles and Camped in a bottom on the N. S. after dark.    had passed a large creek on the N. S. which is two thousand miles from the mouth of 
+the M.    <name type="place" key="Red Water (2,000 Mile) Creek">2000 ml. creek</name>.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-03.04" n="lc.geo.1805-05-03.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 3rd.</hi>    We proceeded on our voyage this morning, though very cold and disagreeable, and a severe frost. The snow and green grass on the prairies exhibited an appearance somewhat uncommon. The cotton wood leaves are 
+as large as dollars, notwithstanding the snow and such hard frost. We passed a small river on the north side called the <name type="place" key="Red Water (2,000 Mile) Creek">2000 mile river</name>. About a mile above we passed a large creek on the South side, called <name type="place" key="Poplar (Porcupine) River">Porcupine creek</name>.— We came this day about 20 miles and encamped on the North side.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-03.05" n="lc.geo.1805-05-03.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 3rd May 1805</hi>.    clear but verry cold for this month.    we Set off about 7 oC &amp; proceeded on    the Standing water was froze over in places, &amp; froze to our poles as we were working along.    a white frost last night.    the Ground is covered with Snow.    the wind rose high from the west.    we halted about one oC. at a bottom covd. with timber on the N. S.    <name type="person" key="Clark, William">Capt Clark</name> who walked on Shore Since morning came to us had killed an Elk near    Some men went &amp; brought it in.    one man went a Short distance along the bank and Shot a beaver.    we have Saw Great Sign of beaver all day.    the wind cold &amp; high.    we proceeded on    Saw a Great many buffaloe on the ridges &amp; plains.    the Snow is all gone this evening.    passed large bottoms &amp; plains in the course of the day but no high hills.    passed a creek on the S. S.    Came 20 miles and Camped in a bottom on the N. S.    as we were a landing it being after dark Got the Irons broke off the red perogue, which the rudder hung on.    we passed a creek towards evening on the N. S. which came in at a sandbar.    I forgot it.</p>
+               <p>
+Friday May 3rd    This morning we had Clear weather, but very Cold for the Season; We set out about 7 oClock A. M. and proceeded on, the Standing water froze last night, and the Water froze to our Setting poles, as we worked the Pettyaugers along, We had a severe white frost last night, and the ground cover'd with Snow,—    The wind rose &amp; blew hard from the West, We stopped at 1 o'Clock P. M. in a bottom cover'd with Timber which lay on the North side of the River    <name type="person" key="Clark, William">Captain Clark</name> who had walked on Shore since Morning, came to us here; he had killed an Elk, and &amp; party of Men were sent for it, and they brought it to us, one of our party, went a small distance, along the shore of the River; and shot a beaver, we saw great signs of beaver this day, the wind continued Cold, during the whole of this day, We proceeded on at 3 o'Clock P. M. and saw a great number of Buffalo, on the Ridges &amp; in the plains, In the Evening, the Snow had all melted away; we passed some large bottoms &amp; plains during the course of this day; but saw no high hills, we likewise passed a Creek, lying on the South side of the River, We came too, and encamped in a bottom on the North side of the River.    As We were landing it being after dark, we got the Irons broke off the 〈ridge poles〉 rudder, of one of the Pettyaugers.    Just before it was dark, we passed a Creek, lying on the South side of the River, which came into the River at a Sand barr.—    We came 20 Miles this day.—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n12050301" n="1">Fascine is a military term for a cylindrical bundle of sticks used to fill ditches, strengthen ramparts, and other such functions.</note>
+            <note xml:id="n12050302" n="2">The Poplar dome brings late Cretaceous rocks of the <name type="place" key="Hell Creek Formation">Hell Creek Formation</name>, <name type="place" key="Fox Hills Sandstone">Fox Hills Sandstone</name>, and Bearpaw Shale to the surface here. The Bearpaw Shale is easily eroded to form a wide valley. These formations contain no coal near here. The old river channel is marked with dotted lines on <hi rend="italic">Atlas</hi> maps 35, 49.</note>
+            <note xml:id="n12050303" n="3">Present <name type="place" key="Poplar (Porcupine) River">Poplar River</name>, in <name type="place" key="Roosevelt County, Mont.">Roosevelt County</name>, <name type="place" key="Montana">Montana</name>, with the town of <name type="place" key="Poplar (Porcupine) River">Poplar</name> at its mouth. <hi rend="italic">Atlas</hi> maps 36, 49, 57; MRC map 56.</note>
+            <note xml:id="n12050304" n="4">Glacial till and Bearpaw Shale form the banks and beds of <name type="place" key="Poplar (Porcupine) River">Poplar River</name>. Both materials weather to a dark, blue-gray clay.</note>
+            <note xml:id="n12050305" n="5">
+               <name type="place" key="Poplar (Porcupine) River">Poplar River</name> rises near the U.S.-Canadian border. <name type="person" key="Lewis, Meriwether">Lewis</name> expressed the same optimism about the source of the <name type="place" key="Little Muddy (White Earth) River">"&gt;Little Muddy River</name> on <ref n="1805-04-22" type="related">April 22, 1805</ref>; see above.</note>
+            <note xml:id="n12050306" n="6">
+               <name type="person" key="Clark, William">Clark's</name> route is marked by a dotted line on <hi rend="italic">Atlas</hi> map 57.</note>
+            <note xml:id="n12050307" n="7">The limestone was brought to this area by glacial ice from lower Paleozoic formations near <name type="place" key="Lake Winnipeg">Lake Winnipeg</name>, <name type="place" key="Canada">Canada</name>.</note>
+            <note xml:id="n12050308" n="8">Present <name type="place" key="Red Water (2,000 Mile) Creek">Red Water River</name>, in <name type="place" key="McCone County, Mont.">McCone County</name>, <name type="place" key="Montana">Montana</name>, <hi rend="italic">Atlas</hi> maps 36, 49, 57; MRC map 62.</note>
+            <note xml:id="n12050309" n="9">In <name type="place" key="McCone County, Mont.">McCone County</name>, <name type="place" key="Montana">Montana</name>, some three or four miles above the town of <name type="place" key="Poplar, Mont.">Poplar</name>, in <name type="place" key="Roosevelt County, Mont.">Roosevelt County</name>. The mouths of <name type="place" key="Poplar (Porcupine) River">Poplar River</name> (<name type="place" key="Poplar (Porcupine) River">Porcupine Creek</name>) and <name type="place" key="Red Water (2,000 Mile) Creek">Red Water (2,000 Mile) Creek</name>, may have shifted over the years, making it hard to locate this camp. <hi rend="italic">Atlas</hi> map 57 incorrectly shows the site directly opposite the mouth of <name type="place" key="Red Water (2,000 Mile) Creek">2,000 Mile Creek</name>. <hi rend="italic">Atlas</hi> maps 35, 49; MRC map 62.</note>
+            <note xml:id="n12050310" n="10">A spontoon, or espontoon, was a spear, six feet or more in length, with a wooden shaft and metal blade, still in use in the late eighteenth century as a symbol of authority for infantry officers. <name type="person" key="Lewis, Meriwether">Lewis</name> must have considered it a useful implement to have carried it with him on the expedition. At various times it was used as weapon, walking staff, and rifle support. See below, <ref n="1805-06-07" type="related">June 7</ref> and <ref n="1805-06-14" type="related">14</ref>, 1805. Peterson, 98–100. Robert Taylor of <name type="place" key="Washington D.C.">Washington, D.C.</name>, called attention to this material.</note>
+            <note xml:id="n12050311" n="11">Also given on <hi rend="italic">Atlas</hi> map 36, in <name type="person" key="Lewis, Meriwether">Lewis's</name> hand.</note>
+            <note xml:id="n12050312" n="12">The course is "N. 80 W." in <name type="person" key="Clark, William">Clark's</name> entry and on <hi rend="italic">Atlas</hi> map 36.</note>
+            <note xml:id="n12050313" n="13">This course and the next are displaced below the total in <name type="person" key="Clark, William">Clark's</name> entry, proper placement being indicated by an asterisk and pointing hand.</note>
+            <note xml:id="n12050314" n="14">
+               <name type="person" key="Ordway, John">Ordway</name>, <name type="person" key="Gass, Patrick">Gass</name>, and <name type="person" key="Whitehouse, Joseph">Whitehouse</name> appear to have reversed the location of the two 
+streams passed this day. The first, the captains' <name type="place" key="Poplar (Porcupine) River">Porcupine River</name>, present <name type="place" key="Poplar (Porcupine) River">Poplar River</name> in 
+<name type="place" key="Roosevelt County, Mont.">Roosevelt County</name>, <name type="place" key="Montana">Montana</name>, is on the north. Next, on the south, is their <name type="place" key="Red Water (2,000 Mile) Creek">2000 Mile Creek</name>, 
+now <name type="place" key="Red Water (2,000 Mile) Creek">Red Water River</name>, <name type="place" key="McCone County, Mont.">McCone County</name>. The fair copy compounds the error by putting both 
+on the south side.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-05-02" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-05-04" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

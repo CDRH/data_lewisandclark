@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-12-31-1">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+Weather, December 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 6</title>
+               <title level="m" type="sub">November 2, 1805–March 22, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1990</date>
+               <biblScope type="pages">148-151</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-12-31-1.01">
+            <placeName/>
+            <geo> </geo>
+            <note>No location. Daily weather report for the month of December 1805.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-08-04</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-12-31">Weather, December 1805</date>
+         </head>
+         <div type="entry"
+              xml:id="lc.jrn.1805-12-31-1.01"
+              n="lc.geo.1805-12-31-1.01">
+            <sp who="mlwc">
+               <speaker>Lewis and <name type="person" key="Clark, William">Clark</name>
+               </speaker>
+               <ab>
+                  <date>[<hi rend="italic">Weather, December 1805</hi>]<ref target="n261231-101" n="1"/>
+                  </date>
+               </ab>
+               <p>
+                  <table rows="31" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">Day of<lb/>the month</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <lb/>Winds</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">State of<lb/>the Weather</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">1st</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">E</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">c. a. r</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">2nd</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S W.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">c. a. r</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">3rd</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">E</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">f. a r</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">4th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S E</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">r</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">5th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S W</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">r</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">6th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S W.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">r</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">7th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">N E</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">f. a. r</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">8th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">N E</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">C a r<ref target="n261231-102" n="2"/>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">9th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">N E</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">C. r.</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">10th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">N E</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">r</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">11th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S W.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">r</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">12th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S W.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">r</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">13th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S W.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">r</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">14th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S W.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">r.</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">15th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S W.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">C. a. r.</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">16th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S W</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">r.</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">17th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S W.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">f a r. &amp; h</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">18th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S E</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">C. a. r. s h.</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">20th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S. W.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">f. a. r. H.</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">21st</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S W.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">r</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">22nd</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S W.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">r.</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">23rd</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S W.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">r h &amp; L</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">24th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S. W.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">r.</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">25th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S W.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">C. r.</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">26th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S W.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">r. a. t &amp; L</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">27th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S W.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">r</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">28th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S E</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">r</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">29th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S E</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">c. a r</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">30th</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S E.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">f. a. r</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">31st</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S W.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">r.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="31" cols="2">
+                     <head>[<hi rend="italic">Remarks</hi>]<ref target="n261231-103" n="3"/>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1st</cell>
+                        <cell role="data" rows="1" cols="1">rained last night and Some this morning.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">2nd</cell>
+                        <cell role="data" rows="1" cols="1">rained all the last night and untill meridian    cloudy the re-<lb/>
+mainder of the day</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">3rd</cell>
+                        <cell role="data" rows="1" cols="1">rained all the last night &amp; to day untill meridan and became<lb/>
+fair &amp;c.<ref target="n261231-104" n="4"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">4th</cell>
+                        <cell role="data" rows="1" cols="1">rained all day</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">5th</cell>
+                        <cell role="data" rows="1" cols="1">rained all last night and today    I return to <name type="person" key="Clark, William">Capt Clark</name>
+                           <ref target="n261231-105" n="5"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">6th</cell>
+                        <cell role="data" rows="1" cols="1">rained last night and all day to day    wind not violent in the<lb/>
+after part of the day    fair in the eving.<ref target="n261231-106" n="6"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">7th</cell>
+                        <cell role="data" rows="1" cols="1">rained from 10 to 12<ref target="n261231-107" n="7"/> and at 2 P M.    leave <name type="place" key="Tongue Point (Point William)">Pt. William</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">8th</cell>
+                        <cell role="data" rows="1" cols="1">Cloudy after a moderate rain last night.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">9th</cell>
+                        <cell role="data" rows="1" cols="1">cloudy and rained moderately untill 3 P M.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">10th</cell>
+                        <cell role="data" rows="1" cols="1">a violent wind last night 6 to 9 P M.    river fast with rain. rained<lb/>
+all day<ref target="n261231-108" n="8"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">11th</cell>
+                        <cell role="data" rows="1" cols="1">rained moderately all last night and to day</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">12th</cell>
+                        <cell role="data" rows="1" cols="1">  do         do                     do               do</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">13th</cell>
+                        <cell role="data" rows="1" cols="1">  do         do                     do               do</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">14th</cell>
+                        <cell role="data" rows="1" cols="1">  do         do                     do               do</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">15th</cell>
+                        <cell role="data" rows="1" cols="1">rained all last night and untill 8 A. M to day after which it was<lb/>
+Cloudy all day.<ref target="n261231-109" n="9"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">16th</cell>
+                        <cell role="data" rows="1" cols="1">rained all the last night.    air Cold wind violent from the S W.<lb/>
+accompanied with rain.—<ref target="n261231-110" n="10"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">17th</cell>
+                        <cell role="data" rows="1" cols="1">rained all last night and to day untill 9 A M when we had a<lb/>
+Shower of hail for an hour and Cleared off.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">18th</cell>
+                        <cell role="data" rows="1" cols="1">rained Snowed and hailed at intervales all the last night and to<lb/>
+day untill meridian.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">19th</cell>
+                        <cell role="data" rows="1" cols="1">rained 〈and hailed〉 last night and Several Showers of Hail and<lb/>
+rain to day.    the air Cool.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">20th</cell>
+                        <cell role="data" rows="1" cols="1">Some rain and hail last Night    the rain Contd. untill 10 a. m</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">21st</cell>
+                        <cell role="data" rows="1" cols="1">rained last night and to day</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">22nd</cell>
+                        <cell role="data" rows="1" cols="1">  do          do               do</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">23d</cell>
+                        <cell role="data" rows="1" cols="1">rained all last night and moderately to day with Several Show-<lb/>
+ers of Hail accompanied with hard Claps of Thunder and<lb/>
+Sharp Lightning.<ref target="n261231-111" n="11"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">24th</cell>
+                        <cell role="data" rows="1" cols="1">rained at intervales last night and to day.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">25th</cell>
+                        <cell role="data" rows="1" cols="1">  do            do               do         do<ref target="n261231-112" n="12"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">26th</cell>
+                        <cell role="data" rows="1" cols="1">raind with violent wind all last night and to day with Hard<lb/>
+Claps of thunder &amp; Sharp Lightning.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">27th</cell>
+                        <cell role="data" rows="1" cols="1">rained moderately last night and to day</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">28th</cell>
+                        <cell role="data" rows="1" cols="1">  do          do               do             do</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">29th</cell>
+                        <cell role="data" rows="1" cols="1">  do          do               do             do untill 7 a.m. after<lb/>
+Cloudy the remained of the day    wind hard from the S E.<ref target="n261231-113" n="13"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">30th</cell>
+                        <cell role="data" rows="1" cols="1">Hard wind &amp; rain last night.    to day tolerably fair.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">31st</cell>
+                        <cell role="data" rows="1" cols="1">rained last night and moderately all day to day.</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n261231-101" n="1">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> weather table and remarks are in Voorhis No. 4; <name type="person" key="Clark, William">Clark's</name> are in Codex I. This table follows <name type="person" key="Lewis, Meriwether">Lewis</name>.</note>
+            <note xml:id="n261231-102" n="2">
+               <name type="person" key="Clark, William">Clark</name> has "C."</note>
+            <note xml:id="n261231-103" n="3">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> remarks in Voorhis No. 4 are in the margin of his weather table; <name type="person" key="Clark, William">Clark's</name> are separate. <name type="person" key="Lewis, Meriwether">Lewis's</name> remarks are followed here, with significant differences in <name type="person" key="Clark, William">Clark's</name> remarks noted.</note>
+            <note xml:id="n261231-104" n="4">
+               <name type="person" key="Clark, William">Clark</name> writes, "fair from 12 to 2 P M. rained all the last night &amp; this morning. rained the night of the 1st and morning of the 2 and Cloudy the remainder of the day. rained at intervales the night of the 2d instant with constant hard and Sometimes violent winds."</note>
+            <note xml:id="n261231-105" n="5">
+               <name type="person" key="Clark, William">Clark</name> writes, "rained yesterday, last night, and moderately to day; all day wind violent in the after part of the day. <name type="person" key="Lewis, Meriwether">Capt Lewis</name> joined me from below." Some of the punctuation may be a later addition.</note>
+            <note xml:id="n261231-106" n="6">
+               <name type="person" key="Clark, William">Clark</name> writes, "rained all last night and to day untill 6 oClock at which time it Clear'd away and became far. the winds also Seased to blow violent."</note>
+            <note xml:id="n261231-107" n="7">From here <name type="person" key="Clark, William">Clark</name> has, "last night fair day leave <name type="place" key="Tongue Point (Point William)">Point William</name> a hard wind from the N W. and a Shower of rain at 2 P M."</note>
+            <note xml:id="n261231-108" n="8">
+               <name type="person" key="Clark, William">Clark</name> says, "rained all day and the air cool I return from the Ocean a violent wind last night from the S W. rained the greater part of the night of the 8th and all day the 9th int."</note>
+            <note xml:id="n261231-109" n="9">
+               <name type="person" key="Clark, William">Clark</name> says, "rained a[t] Short intervales from the 10th instant untill 8 A. M. to day I with 16 men Set out after meat."</note>
+            <note xml:id="n261231-110" n="10">
+               <name type="person" key="Clark, William">Clark</name> adds, "return with 16 Elk."</note>
+            <note xml:id="n261231-111" n="11">
+               <name type="person" key="Clark, William">Clark</name> adds, "rained 21 &amp; 22 all day &amp; night."</note>
+            <note xml:id="n261231-112" n="12">
+               <name type="person" key="Clark, William">Clark</name> repeats the words from the previous day and has also "〈in our Huts〉."</note>
+            <note xml:id="n261231-113" n="13">
+               <name type="person" key="Clark, William">Clark</name> writes, "rained moderately without much intermittion from the 26th untill 7 a m. this morning hard wind from the S. E."</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-12-31" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-01-01" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

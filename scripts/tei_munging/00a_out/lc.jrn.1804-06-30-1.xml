@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-06-30-1">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+Weather, June 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">335-336</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-01-16</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date>June 30, 1804</date>
+         </head>
+         <div type="entry">
+            <sp who="mlwc">
+               <speaker>Lewis and <name type="person" key="Clark, William">Clark</name>
+               </speaker>
+               <ab>
+                  <date>[<hi rend="italic">Weather, June 1804</hi>]<ref target="n040630-101" n="1"/>
+                  </date>
+               </ab>
+               <p>
+                  <table rows="4" cols="2">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">June</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">10h</cell>
+                        <cell role="data" rows="1" cols="1">rasberreis perple, ripe and abundant,</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">11h</cell>
+                        <cell role="data" rows="1" cols="1">many small bird are now setting    some have young, the whiper-<lb/>
+will <hi rend="italic">setting</hi>
+                           <ref target="n040630-102" n="2"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">16 June</cell>
+                        <cell role="data" rows="1" cols="1">the wood duck now has it's young, this duck is abundant, and<lb/>
+except one Solatary Pelican and a few gees these ducks were<lb/>
+the only aquatic fowls we have yet seen</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n040630-101" n="1">No tables of weather observations for June 1804 have been found, but both captains entered a few remarks, <name type="person" key="Clark, William">Clark</name> in Codex C and <name type="person" key="Lewis, Meriwether">Lewis</name> in his Weather Diary. These are observations of natural phenomena related to seasonal change and climate, such as plant ripening and animal migrations, rather than weather data as such. Those given follow <name type="person" key="Lewis, Meriwether">Lewis</name>, but the comments of both men are virtually identical. They are placed at the end of the appropriate month, as before.</note>
+            <note xml:id="n040630-102" n="2">Whip-poor-will. See <ref n="1804-06-04" type="related">June 4, 1804</ref>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-06-30" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-07-01" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

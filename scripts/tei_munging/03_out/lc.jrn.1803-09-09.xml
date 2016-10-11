@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1803-09-09">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">September 9, 1803</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">76</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1803-09-09.01">
+            <placeName/>
+            <geo>40 -80.74</geo>
+            <note>Three miles south of Bellaire, OH (Seven miles south of Wheeling)</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh" n="category">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2003-12-09</date>
+            <date/>
+            <name>Laura Weakly</name>
+            <name/>Initial creation Transcribed</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1803-09-09">September 9, 1803</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1803-09-09.01" n="lc.geo.1803-09-09.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>9th Sept.</date>
+               </ab>
+               <p>
+The Dr. could not get ready    I waited untill thre this evening and then set out    had some difficulty in geting over a riffle one mile below the town, got on six miles and brought too,<ref target="n02090901" n="1"/> I was now informed that by some mistake in the contract between the Corporal<ref target="n02090902" n="2"/> and the woman who had engaged to bake the bread for the men at <name type="place" key="Wheeling, W. Va.">Wheeling</name> that the woman would not agree to give up the bread being 90 lbs. and that the bread was left    I instantly dispatched the Corpol. and two men for the bread and gave him a dollar to pay the woman for her trouble; about the time we landed it began to rain very heard and continued to rain most powerfully all night with small intervals: had my perogues covered with oil-cloth, but the rain came down in such torrents that I found it necessary to have them bailed out freequently in the course of the night; in attending to the security of my goods I was exposed to the rain and got wet to the skin as I remained until about twelve at night, when I wrung out my saturated clothes, put on a dry shirt turned into my birth; the rain was excessively could for the season of the year—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n02090901" n="1">About three miles below <name type="place" key="Bellaire, Ohio">Bellaire</name>, <name type="place" key="Ohio">Ohio</name>. Since <name type="person" key="Lewis, Meriwether">Lewis</name> does not indicate the side of the river, it may have been in <name type="place" key="Belmont County, Ohio">Belmont County</name>, <name type="place" key="Ohio">Ohio</name>, or <name type="place" key="Marshall County, W. Va.">Marshall County</name>, <name type="place" key="West Virginia">West Virginia</name>. Quaife (MLJO), 40 n. 1.</note>
+            <note xml:id="n02090902" n="2">The only corporals associated with the expedition proper seem to have joined after this date.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1803-09-08" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-09-10" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

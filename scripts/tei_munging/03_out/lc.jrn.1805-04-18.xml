@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-04-18">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+April 18, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 4</title>
+               <title level="m" type="sub">April7–July 27, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">51-53</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">133</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">81</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">136</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-04-18.01">
+            <placeName/>
+            <geo>48.0497 -103.4104</geo>
+            <note>Williams County, ND. They remained here until 1805-04-20</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh" n="category">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-05-06</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-04-18">April 18, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-04-18.01" n="lc.geo.1805-04-18.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Thursday April 18th 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+A fine morning, set out at an early hour.    one Beaver caught this morning by two traps, having a foot in each; the traps belonged to different individuals, between whom, a contest ensued, which would have terminated, most probably, in a serious rencounter had not our timely arrival at the place prevented it.    after breakfast this morning, <name type="person" key="Clark, William">Capt. Clark</name> walked on Stad. shore, while the party were assending by means of their toe lines, I walked with them on the bank; found a species of pea bearing a yellow flower, and now in blume; it seldom rises more than 6 inches high, the leaf &amp; stalk resembles that of the common gardin pea, the root is pirenial.<ref target="n11041801" n="1"/> (See specimen of vegitables No. 3.) I also saw several parsels of buffaloe's hair hanging on the rose bushes,<ref target="n11041802" n="2"/> which had been bleached by exposure to the weather and became perfectly white.    it every appearance of the wool of the sheep, tho' much finer and more silkey and soft. I am confident that an excellent cloth may be made of the wool of the Buffaloe. the Buffaloe I killed yesterday had cast his long hare, and the poil<ref target="n11041803" n="3"/> which remained was very thick, fine, and about 2 inches in length. I think this anamal would have furnished about five pounds of wool.    we were detained today from one to five P. M. in consequence of the wind which blew so violently from N. that it was with difficulty we could keep the canoes from filling with water altho' they were along shore; I had them secured by placing the perogues on the out side of them in such manner as to break the waves off them.    at 5 we proceed, and shortly after met with <name type="person" key="Clark, William">Capt. Clark</name>, who had killed an Elk and a deer and was wating our arrival.    we took the meat on board and continued our march untill nearly dark when we came too on the Stard side under a boald welltimbered bank which sheltered us from the wind which had abated but not yet ceased.    here we encamped,<ref target="n11041804" n="4"/> it being the extremity of the last course of this day.—</p>
+               <p>
+                  <table rows="9" cols="3">
+                     <head>
+                        <hi rend="italic">Courses and distances of the 18th April.</hi>
+                        <ref target="n11041805" n="5"/>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">to a sand point on the Stard. side</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 75° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of Woodland on Lard. side</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 85 W.</cell>
+                        <cell role="data" rows="1" cols="1">along the Lard. point</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 25 E.</cell>
+                        <cell role="data" rows="1" cols="1">to a sand point Stard. side</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 60 W.</cell>
+                        <cell role="data" rows="1" cols="1">to a willow point Stard. side</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 65 W.</cell>
+                        <cell role="data" rows="1" cols="1">along the Stard. shore to a point of timbered land, oppo-<lb/>
+site to a bluff on Lard.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>     ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 25 W.</cell>
+                        <cell role="data" rows="1" cols="1">to a copse of wood on stard side, in a bend</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 50. W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timbered land on Stard side where we en-<lb/>
+camped for the night</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  1 ½</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">miles</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">13</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi rend="right">
+                     <hi rend="italic">Point of Observation No. 5.</hi>
+                  </hi>
+               </p>
+               <p>
+On the Stard. shore at the extremity of the fifty course of this day—</p>
+               <p>
+Observed meridian Altd. of <seg n="u9737">☉</seg>'s L. L. with Octant by the back observation 79° 12' 00"</p>
+               <p>
+Latitude deduced from this observatn. [<hi rend="italic">blank</hi>]</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-18.02" n="lc.geo.1805-04-18.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>18th <hi rend="italic">of April Thursday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+Set out at an early hour    one Beaver &amp; a Musrat<ref target="n11041806" n="6"/> Cought this morning, the beaver cought in two traps, which like to have brought about a missunderstanding between two of the party &amp;c.    after brackfast I assended a hill and observed that the river made a great bend to the South, I concluded to walk thro' the point about 2 miles and take <name type="person" key="Charbonneau, Toussaint">Shabono</name>, with me, he had taken a dost of Salts &amp;c.    <name type="person" key="Sacagawea">his Squar</name> followed on with <name type="person" key="Charbonneau, Jean Baptiste">his child</name>, when I Struck the next bend of the [river] could See nothing of the Party, left <name type="person" key="Charbonneau, Toussaint">this man</name> &amp; <name type="person" key="Sacagawea">his wife</name> &amp; <name type="person" key="Charbonneau, Jean Baptiste">Child</name> on the river bank and went out to hunt, Killed a young Buck Elk, &amp; a Deer, the Elk was tolerable meat, the Deer verry pore, Butcherd the meat and Continued untill near Sunset before <name type="person" key="Lewis, Meriwether">Capt Lewis</name> and the party Came up, they were detained by the wind, which rose Soon after I left the boat from the N W. &amp; blew verry hard untill verry late in the evening.    we Camped on the S. S. in an excellent harbor, Soon after We came too, two men went up the river to Set their beaver traps    they met with a Bear and being without their arms thought prodent to return &amp;c.    the whild Cheries are in bloom,<ref target="n11041807" n="7"/> Great appearance of Burnt hills Pumice Stone &amp;c.    the Coal &amp; Salt appearance Continued,<ref target="n11041808" n="8"/> the water in the Small runs much better than below,—    Saw Several old Indian Camps, the game, Such as Buffalow Elk, antelopes &amp; Deer verry plenty</p>
+               <p>
+                  <table rows="9" cols="3">
+                     <head>
+                        <hi rend="italic">Course distance &amp;c. 18th of April</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles to a point on the Std. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 75° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a wood point on the L. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 85° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">a mile along the Lad Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 25° E</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Sand point on the Sd. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile to a pt. of Willows on the Sd. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 65° W</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">mile along the Sd. pot. to a point of timbered land opsd. a<lb/>
+Bluff on the Lard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 25° W</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Copse of woods on the Sd. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 50° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  1 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles to the upper part of a wood on the Stad. Side &amp;<lb/>
+Camped</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">miles</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">13</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"/>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-18.03" n="lc.geo.1805-04-18.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Thursday 18th April 1805</hi>.    a clear pleasant morning.    we Set off eairly. Some of the men who Set traps for beaver last night they caught only one beaver &amp; that in 2 traps by one hind foot and one fore foot.    they belonged to 2 owners.    they had Some difference which had the best rite to it.    proceeded on a Short distance    one of the men killed a goose in the river.    the wind from the West.    proceeded on    passed high hills on each side of the River. Saw a gang of buffaloe on the hills on S. S. and a gang of Elk in a
+handsom [bottom] covered with c. w. timber on the N. S.    one of the men wounded one of them    another man killed another goose. The wind Shifted in to the N. W. and blew hard against us. Saw a nomber of bald Eagles in Sd. bottom one of them had a nest in a low tree    one of the men clumb up and got 2 Eggs (all there was.)    The wind rose so high that we could not go with the cannoes without filling them with water.    detained us about 3 hours.    one man killed another goose    <name type="person" key="Seaman">Seamon</name> b. out    we then proceeded on. <name type="person" key="Clark, William">Capt. Clark</name> who walked on Shore killed one Elk and one deer which we halted &amp; took them on board.    came about 15 miles to day and camped at a bottom covered with Cottonwood and arsh Elm timber also on
+N. S.    the river has been verry crooked and bearing towards the South the most of the day.    the Game is gitting pleantyier every day.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-18.04" n="lc.geo.1805-04-18.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Thursday 18th.</hi>    The men caught some beaver, and killed a wild goose. The morning was fine and we went on very well until 1 o'clock, when the wind blew so hard down the river, we were obliged to lie to for 3 hours, after which we continued our voyage. This day <name type="person" key="Clark, William">Captain Clarke</name> went by land and met us in the afternoon on the bank with an elk and a deer. We came about 14 miles and encamped in a good harbour on the North side, on account 
+of the wind, which blew very hard all night accompanied with some drops of rain.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-18.05" n="lc.geo.1805-04-18.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Thursday April 18th    This morning Clear pleasant weather, We set off Early, having the wind from the South    the water in the River was at a stand in regard to its depth, In the Evening we encamped on the North side of the River, having come 15 Miles this day.—    In the night the dew fell, which was what we had not seen for a long time.—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n11041801" n="1">
+               <hi rend="italic">Thermopsis rhombifolia</hi> Nutt., golden pea. Barkley, 184. Someone drew a vertical line through this passage, apparently in red.</note>
+            <note xml:id="n11041802" n="2">
+               <hi rend="italic">Rosa woodsii</hi> Lindl., western wild rose. Ibid., 151.</note>
+            <note xml:id="n11041803" n="3">Probably meant for "pile." Criswell, 66.</note>
+            <note xml:id="n11041804" n="4">This camp, where they remained until April 20, was in <name type="place" key="Williams County, N. Dak.">Williams County</name>, <name type="place" key="North Dakota">North Dakota</name>. <hi rend="italic">Atlas</hi> map 56 shows it as the camp of April 19 only. Mattison (GR), 57; <hi rend="italic">Atlas</hi> maps 34, 47; MRC map 58.</note>
+            <note xml:id="n11041805" n="5">Also given on <hi rend="italic">Atlas</hi> map 34, in both captains' hands.</note>
+            <note xml:id="n11041806" n="6">
+               <hi rend="italic">Ondatra zibethicus.</hi> Jones et al., 230–34.</note>
+            <note xml:id="n11041807" n="7">Probably <hi rend="italic">Prunus americana</hi> Marsh., wild plum, one of the earliest flowering shrubs. Barkley, 146.</note>
+            <note xml:id="n11041808" n="8">The party is still passing through country underlain by the <name type="place" key="Sentinel Butte Formation">Sentinel Butte Formation</name> which is capped with glacial till.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-04-17" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-04-19" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

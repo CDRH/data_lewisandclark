@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-05-05">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+May 5, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 7</title>
+               <title level="m" type="sub">March 23–June 9, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1991</date>
+               <biblScope type="pages">209-215</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">305-306</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">222</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-05-05.01">
+            <placeName/>
+            <geo>46.4779 -116.7766</geo>
+            <note>Camped near Arrow, Nez Perce County, ID, below the confluence of the Potlatch River (Colters Creek) with the Clearwater River.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-10-11</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-05-05">May 5, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-05-05.01" n="lc.geo.1806-05-05.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Monday May 5th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+Collected our horses and set out at 7 A. M.    at 4½ miles we arrived at the entrance of the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name>, up the N. Eastern side of which we continued our march 12 ms. to a large lodge of 10 families having passed two other large mat lodges the one at 5 and the other at 8 Ms. from the mouth of the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name>
+                  <ref target="n33050501" n="1"/> but not being able to obtain any provision at either of those lodges continued our march to the third<ref target="n33050502" n="2"/> where we arrived at 1 P. M. &amp; with much difficulty 〈we〉 obtained 2 dogs and a small quanty of root bread and dryed roots.    at the second lodge we passed an indian man gave <name type="person" key="Clark, William">Capt. C.</name> a very eligant grey mare for which he requested a phial of eye-water which was accordingly given him.    while we were encamped last fall at the entrance of the <name type="native_nation" key="North Fork Clearwater (Chopunnish) River">Chopunnish river</name>
+                  <ref target="n33050503" n="3"/>
+                  <name type="person" key="Clark, William">Capt. C.</name> [<hi rend="italic">WC?: with much seremony washed &amp; rubd</hi>] gave an indian man some volitile linniment to rub his kee and thye for a pain of which he complained [<hi rend="italic">WC?: and was well, but had not walked for many months</hi>], the fellow soon after recovered and has never ceased to exol the virtues of our medecines and the skill of my friend <name type="person" key="Clark, William">Capt C.</name> as a phisician.    this occurrence added to the benefit which many of them experienced from the eyewater we gave them about the same time has given them an exalted opinion of our medicine.    my friend <name type="person" key="Clark, William">Capt. C.</name> is their favorite phisician and has already received many applications.    in our present situation I think it pardonable to continue this deseption for they will not give us any provision without compensation in merchandize and our stock is now reduced to a mere handfull.    we take care to give them no article which can possibly oinjure them.    we foud our <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> guide at this lodge with his family.    the indians brought us <name type="person" key="Clark, William">Capt. Clark's</name> horse from the oposite side of the river and delivered him to us while here.    this horse had by some accedent separated from our other horses above and had agreeably to indian information been in this neighbourhood for some weeks.    while at dinner an indian fellow verry impertinently threw a poor half starved puppy nearly into my plait by way of derision for our eating dogs and laughed very heartily at his own impertinence; I was so provoked at his insolence that I caught the puppy and thew it with great violence at him and struk him in the breast and face, siezed my tomahawk and shewed him by signs if he repeated his insolence I would tommahawk him, ther fellow withdrew apparently much mortifyed and I continued my repast <hi rend="italic">on dog</hi> without further molestation.    after dinner we continued our rout 4 miles to the entrance of <name type="place" key="Potlatch River (Colter's Creek)">Colter's Creek</name> about ½ a mile above the rapid where we sunk the 1st canoe as we decended the river last fall.    we encamped on the lower side of this creek<ref target="n33050504" n="4"/> at a little distance from two lodges of the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> nation having traveled <hi rend="italic">20½ ms.</hi> today.    one of these lodges contained eight families, the other was much the largest we have yet seen.    it is 156 feet long and about 15 wide built of mats and straw.    in the form of the roof of a house having a number of small doors on each side, is closed at the ends and without divisions in the intermediate space this lodge contained at least 30 families.    their fires are kindled in a row in the center of the house and about 10 feet assunder.–</p>
+               <p>
+all the lodges of these people are formed in this manner.    we arrived here extreemly hungry and much fatiegued, but no articles of merchandize in our possession would induce them to let us have any article of provision except a small quantity of bread of cows and some of those roots dryed.    we had several applications to assist their sick which we refused unless they would let us have some dogs or horses to eat.    a 〈man〉 [<hi rend="italic">X: Chief</hi>] whose wife had an absess formed on the small of her back promised a horse in the morning provided we would administer to her accordingly <name type="person" key="Clark, William">Capt. C.</name> opened the absess introduced a tent<ref target="n33050505" n="5"/> and dressed it with basilicon;<ref target="n33050506" n="6"/> [<hi rend="italic">WC?: <name type="person" key="Clark, William">Capt C.</name> Soon had more than 50 applications</hi>] I prepared some dozes of the flour of sulpher<ref target="n33050507" n="7"/> and creem of tarter<ref target="n33050508" n="8"/> which were given with directions to be taken on each morning.    a little girl and sundry other patients were offered for cure but we posponed our operations untill morning; they produced us several dogs but they were so poor that they were unfit for use. This is the residence of one of 4 principal Cheifs of the nation whom they call <hi rend="italic">
+                     <name type="person" key="Cut Nose">Neesh-ne,-park-ke-ook</name>
+                  </hi> or <hi rend="italic">the <name type="person" key="Cut Nose">cut nose</name>
+                  </hi>
+                  <ref target="n33050509" n="9"/> from the circumstance of his nose being cut by the <name type="native_nation" key="Shoshone Indians">snake indians</name> with a launce in battle.    to this man we gave a medal of the small size with the likeness of the President.<ref target="n33050510" n="10"/>    he may be a great cheif but his countenance has but little inteligence and his influence among his people seems but inconsiderable.    a number of indians beside the inhabitants of these lodges geathered about us this evening and encamped in the timbered bottom on the creek near us.    we met with a <name type="native_nation" key="Shoshone Indians">snake indian</name> man<ref target="n33050511" n="11"/> at this place through whome we spoke at some length to the natives this evening with rispect to the objects which had induced us to visit their country.    this address was induced at this moment by the suggestions of an old man who observed to the natives that he thought we were bad men and had come most probably in order to kill them.    this impression if really entertained I beleive we effaced; they appeared well satisfyed with what we said to them, and being hungry and tired we retired to rest at 11 oClock.—    <name type="person" key="Apash Wyakaikt">We-ark-koomt</name> rejoined us this evening.    this man has been of infinite service to us on several former occasions and through him we now offered our address to the natives.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-05-05.02" n="lc.geo.1806-05-05.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Monday May 5th 1806</hi>
+                  </date>
+               </ab>
+               <p>
+Collected our horses and Set out at 7 A M.    at 4½ ms. we arived at the enterance of <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name>, up the N E. Side of which we continued our March 12 Miles to a large lodge of 10 families haveing passed two other large mat lodges the one at 5 and the other at 8 Miles from the Mouth of the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name>, but not being able to obtain provisions at either of those Lodges continued our March to the 3rd where we arived at 1 P. M. and with much dificuelty obtained 2 dogs and a Small quantity of bread and dryed roots.    at the Second Lodge of Eight families <name type="person" key="Lewis, Meriwether">Capt L.</name> &amp; my self both entered Smoked with a man who appeared to be a principal man. as we were about to leave his lodge and proceed on our journey he brought foward a very eligant Gray mare and gave her to me, requesting Some eye water. I gave him a phial of Eye water a handkerchief and some Small articles of which he appeared much pleased—. While we were encamped last fall at the enterance of <name type="place" key="North Fork Clearwater (Chopunnish) River">Chopunnish river</name>, I gave an Indian man some volitile leniment to rub his knee and thye for a pain of which he Complained.    the fellow Soon after recovered and have never Seased to extol the virtue of our medicines.    near the enterance of the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name>, as we decended last fall I met with a man, who Could not walk with a tumure on his thye.    this had been very bad and recovering fast. I gave this man a jentle pirge cleaned &amp; dressed his Sore and left him Some Casteel Soap<ref target="n33050512" n="12"/> to wash the Sore which Soon got well.    this man also assigned the restoration of his leg to me.    those two cures has raised my reputation and given those nativs an exolted oppinion of my Skill as a phician. I have already received maney applications.    in our present Situation I think it pardonable to continue this deception for they will not give us any provisions without Compensation in merchendize, and our Stock is now reduced to a mear handfull.    we take Care to give them no article which Can possible injure them.    and in maney Cases can administer &amp; give Such Medicine &amp; Sergical aid as will effectually restore in Simple Cases &amp;c. We found our <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> Guide with his family.    the Indians brought my horse which was left at the place we made Canoes, from the opposit Side and delivered him to me while here.    this horse had by Some accident Seperated from our other horses above, and agreeably to indian information had been in this neighbourhood Some weeks.    while at dinner an indian fellow very impertinently threw a half Starved puppy nearly into the plate of <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> by way of derision for our eating dogs and laughed very heartily at his own impertinence; <name type="person" key="Lewis, Meriwether">Capt L.</name>— was So provoked at the insolence that he cought the puppy and threw it with great violence at him and Struck him in the breast and face, Seazed his tomahawk, and Shewed him by Sign that if he repeeted his insolence that he would tomahawk him, the fellow withdrew apparently much mortified and we continued our Dinner without further Molestation.    after dinner we continued our rout 4 miles to the enterance of <name type="place" key="Potlatch River (Colter's Creek)">Colter's Creek</name> about ½ a mile above the rapid where we Sunk the 1st Canoe as we decended the river last fall. We encamped on the lower Side of this Creek a little distance from two Lodges of the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> nation haveing traviled 20½ miles to day    one of those Lodges Contained 8 families, the other was much the largest we have yet seen.    it is 156 feet long and about 15 feet wide built of mats and Straw, in the form of the roof of a house haveing a number of Small dores on each Side, is closed at the ends and without divisions in the intermediate Space.    this lodge at least 30 families.    their fires are kindled in a row in the Center of the Lodge and about 10 feet assunder.    all the Lodges of these people are formed in this manner.    we arrived here extreemly hungary and much fatigued, but not articles of merchindize in our possession would induce them to let us have any article of Provisions except a Small quantity of bread of <hi rend="italic">Cows</hi> and some of those roots dryed. We had Several applications to assist their Sick which we refused unless they would let us have Some dogs or horses to eat.    a man whose wife had an absess formed on the Small of her back promised a horse in the morning provided we would administer to her, I examined the absess and found it was too far advanced to be cured. I told them her case was desperate.    agreeably to thir request I opened the absess. I then introduced a tent and dressed it with bisilican; and prepared Some dozes of the flour of Sulpher and Creem of tarter which were given with directions to be taken on each morning.    a little girl and Sundery other patients were brought to me for Cure but we posponed our opperations untill the morning; they produced us Several dogs but they were So pore that they were unfit to eat. This is the residence of one of four principal Cheafs of the <hi rend="italic">nation</hi> whome they call <hi rend="italic">
+                     <name type="person" key="Cut Nose">Neesh-ne-park-ke-ook</name>
+                  </hi> or the <hi rend="italic">
+                     <name type="person" key="Cut Nose">Cut nose</name>
+                  </hi> from the circumstance of his nose being Cut by the <name type="native_nation" key="Shoshone Indians">Snake Indians</name> with a launce in battle.    to this man we gave a Medal of the Small Size with a likeness of the President.    he may be a great Chief but his Countinance has but little inteligence and his influence among his people appears very inconsiderable.    a number of Indians besides the inhabitents of these Lodges gathered about us this evening and encamped in the timbered bottom on the Creek near us. We met with a <name type="native_nation" key="Shoshone Indians">Snake indian</name> man at this place through whome we Spoke at Some length to the nativs this evening with respect to the object which had enduced us to visit their Country.    this address was induced at this moment by the Suggestions of an old man who observed to the nativs that he thought we were bad men and had Come most probably in order to kill them.—    this impression if really entertained I believe we efected; they appeared well Satisfied with what we Said to them, and being hungary and tired we retired to rest at 11 oClock.—    <name type="person" key="Apash Wyakaikt">We-ark-koomt</name> rejoined us this evening.    this man has been of infinate Service to us on Several former occasions and through him we now offered our address to the nativs—.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-05-05.03" n="lc.geo.1806-05-05.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Monday 5th of May 1806.    a white frost and verry cold this morning.    we Set out having nothing to eat and proced. on up the river about 3 miles came to the forks at the mouth of the koos<name type="place" key="Clearwater (Flathead, Kooskooskee) River">kooskee river</name>.<ref target="n33050513" n="13"/>    followed up Sd. river    Saw a great number of horses on the high plains    passed 2 small villages where we tryed to purchase Some dogs.    they did not incline to Sell any as they have but fiew.    an Indian gave <name type="person" key="Clark, William">Capt. Clark</name> a good horse    we then proceeded on    about noon we came to another Small village opposite the mouth of cottonwood creek<ref target="n33050514" n="14"/> where we bought 2 dogs and dined &amp; proceed on to <name type="place" key="Potlatch River (Colter's Creek)">Colters Creek</name> &amp; <name type="place" key="Pah-map village">pah-map village</name> where we Camped.    at this village the dogs are verry poor, and these natives have but little to eat except roots which the women are engaged pounding and make it in cakes and put it up over the fire to dry to take with them for provision across the rockey mountains.    this villages is all in one joining for about 100 yards long and have different fires &amp; dores but live much compackd. and agreeable together.    we could not purchase any thing to eat except a few of those roots or bread which they vallue high    in the evening several of the natives which was diseased &amp; Sick came to our officers to be healed who gave &amp; applyed meddicine.    the natives promised to reward us by giving us a good horse tommorrow for us to eat as they wished us to Stay two or 3 days with them.    finding a man of the <name type="native_nation" key="Shoshone Indians">Snake nation</name> a prisoner here our officers told the chiefs by intreptation of thro 6 tongues<ref target="n33050515" n="15"/> what our business was and that our tradors would come about the head of the missourie and trade with them for furs &amp;C.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-05-05.04" n="lc.geo.1806-05-05.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 5th.</hi>    We had a fine morning, and proceeded on early, accompanied by our old chief and a number of the natives. About 10 o'clock we passed the forks,<ref target="n33050516" n="16"/> and kept along the north side of <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Koos-koos-ke</name>; at noon we halted at three lodges of Indians, where we got three dogs and some roots.— We also got one of our horses, which we had left here last fall in the care of the old chief who is now with us; and says that the <name type="native_nation" key="Shoshone Indians">Snake</name> guide,<ref target="n33050517" n="17"/> who deserted us last fall, stole and took two of our horses with him. We remained here about an hour, and then continued our journey; came to a large lodge of the natives, at the mouth of a creek, where we encamped. This lodge is built much after the form of the <name type="place" key="Virginia">Virginia</name> fodder houses; is about fifty yards long, and contains twenty families. We here could get no provisions but shap-a-leel and roots.
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n33050501" n="1">The confluence of the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater (Kooskooskee</name>) and <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake</name> rivers at <name type="place" key="Lewiston, Idaho">Lewiston</name> in <name type="place" key="Nez Perce County, Idaho">Nez Perce County</name>, <name type="place" key="Idaho">Idaho</name>, just east of the <name type="place" key="Washington">Washington</name> state line. <hi rend="italic">Atlas</hi> map 72 indicates a number of <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> sites along the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater River</name>. However, examination of the journals indicates that virtually all of these sites were recorded in October 1805 and that few of the sites observed in May 1806 were recorded on this map. Apparently the <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> settlement pattern consisted of a dispersed population with numerous smaller lodges at fishing locations in the fall, then, in the late spring, the population would concentrate at fewer sites where larger communal mat lodges were constructed. Subsequent ethnographic and archaeological investigations report a number of <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> sites along the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater</name>, some of which coincide with those mentioned here. A <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> village, <hi rend="italic">mul?mi.?m,</hi> "below the rapids," was reported at the first location approximately five miles up the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater</name> on the north side. Schwede, 37. Recent test excavations by archaeologists indicate that the site has been destroyed by modern construction. Sappington (AISC), 7–8. The next location corresponds to the upstream portion of a large terrace where a <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> Indian village, <hi rend="italic">hetweyma,</hi> "old woman," now known as <name type="place" key="Hatwai village">Hatwai</name>, was located. Schwede, 36. Extensive archaeological excavations conducted here indicate that the site has been occupied for approximately 11,000 years. This site is also one of the earliest known pit house villages in the <name type="place" key="Columbia Plateau">Columbia Plateau</name> with the initial house floors radiocarbon dated 4,400 years ago. Unfortunately, the upper portion of the <name type="place" key="Hatwai site">Hatwai site</name> was removed by highway construction so that no evidence of the historic village was recovered.</note>
+            <note xml:id="n33050502" n="2">This village is not indicated on <hi rend="italic">Atlas</hi> map 72 but it was probably located in <name type="place" key="Nez Perce County, Idaho">Nez Perce County</name>, just below <name type="place" key="Coyote Gulch">Coyote Gulch</name>, opposite the mouth of <name type="place" key="Lapwai (Cottonwood) Creek">Lapwai (Cottonwood) Creek</name>. This <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> village was reported as <hi rend="italic">qi.?ti pa,</hi> which refers to coming into a narrows out of a broad flat area. Schwede, 36. This site was destroyed by highway construction prior to 1962. Extensive archaeological excavations indicate that the <name type="place" key="Spalding, Idaho">Spalding</name> area has been occupied for over 8,000 years. The <name type="place" key="Spalding, Idaho">Spalding</name> site is now within the <name type="place" key="Nez Perce National Historical Park (Idaho)">Nez Perce National Historical Park</name>, <name type="place" key="Spalding, Idaho">Spalding</name>.</note>
+            <note xml:id="n33050503" n="3">At the mouth of the <name type="place" key="North Fork Clearwater (Chopunnish) River">North Fork Clearwater</name>, at <name type="place" key="Canoe Camp (Idaho)">Canoe Camp</name> in <name type="place" key="Clearwater County, Idaho">Clearwater County</name>, <name type="place" key="Idaho">Idaho</name>, where they camped <ref n="1805-09-26" type="related">September 26</ref>–<ref n="1805-10-07" type="related">October 7, 1805</ref>. <hi rend="italic">Atlas</hi> map 71.</note>
+            <note xml:id="n33050504" n="4">This camp was in the vicinity of <name type="place" key="Arrow, Idaho">Arrow</name> in <name type="place" key="Nez Perce County, Idaho">Nez Perce County</name>, just below the confluence of the <name type="place" key="Potlatch River (Colter's Creek)">Potlatch River</name> (<name type="place" key="Potlatch River (Colter's Creek)">"Colters Creek"</name> on <hi rend="italic">Atlas</hi> map 72) with the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater River</name>. Although no <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> site is indicated as being here on the map, this same village had been visited the previous year when the inhabitants helped the party retrieve goods and repair a cracked canoe that sank near here on <ref n="1805-10-08" type="related">October 8, 1805</ref>. This village was partially excavated by archaeologists in 1967, but by then it had largely been destroyed by private collectors; see <ref n="1805-10-08" type="related">October 8, 1805</ref>.</note>
+            <note xml:id="n33050505" n="5">A roll of lint or linen used to keep the wound open, promoting drainage and allowing new tissue to form from the inside out. Cutright (LCPN), 285; Chuinard (OOMD), 393.</note>
+            <note xml:id="n33050506" n="6">A salve consisting of such ingredients as resin, yellow wax, and lard. Cutright (LCPN), 285; Chuinard (OOMD), 375–76. See <name type="person" key="Clark, William">Clark's</name> entry of <ref n="1806-06-05" type="related">June 5, 1806</ref>.</note>
+            <note xml:id="n33050507" n="7">Flowers of sulphur—sublimated sulphur in powdered form—could be used as a fungicide and insecticide. Ibid.</note>
+            <note xml:id="n33050508" n="8">Cream of tartar (potassium bitartrate) is both diuretic and cathartic. Ibid.</note>
+            <note xml:id="n33050509" n="9">A <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> chief of this name was known to both American and Hudson's Bay Company traders in the 1820s and 1830s. He was also prominent among the chiefs who greeted <name type="person" key="Lee, Jason">Jason Lee</name>, the first Protestant missionary to visit the tribe, in 1834. Josephy (NP), 10–11, 14, 122–23; Morgan &amp; Harris, 232. The first part of his name comes from <hi rend="italic">nú·snu,</hi>
+               <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> for "nose."</note>
+            <note xml:id="n33050510" n="10">The mouth of <name type="place" key="Potlatch River (Colter's Creek)">Potlatch River</name>, at <name type="place" key="Arrow, Idaho">Arrow</name>, was the location of the discovery of a <name type="person" key="Jefferson, Thomas">Jefferson</name> medal in 1899. This and the <name type="person" key="Jefferson, Thomas">Jefferson</name> medal found at <name type="place" key="Palus (Wash.)">Palus</name> are the only ones known to have been found west of the <name type="place" key="Continental Divide">continental divide</name> in a clear context with Indian burials. The <name type="place" key="Palus (Wash.)">Palus</name> find is no longer at Washington State University but was returned to the <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> tribe in 1968 and is currently on loan for display at <name type="place" key="Nez Perce National Historical Park (Idaho)">Nez Perce National Historical Park</name>. The <name type="place" key="American Museum of Natural History">American Museum of Natural History</name>, <name type="place" key="New York">New York City</name>, once held the burial find from <name type="place" key="Arrow, Idaho">Arrow</name>, however, it appears that the peace medal has been lost for some time. See <ref n="1805-10-08" type="related">October 8</ref> and <ref n="1805-10-13" type="related">13</ref>, 1805.</note>
+            <note xml:id="n33050511" n="11">A <name type="native_nation" key="Shoshone Indians">Shoshone</name>, apparently a prisoner. Ronda (LCAI), 222.</note>
+            <note xml:id="n33050512" n="12">A hard soap made from olive oil and sodium hydroxide.</note>
+            <note xml:id="n33050513" n="13">The confluence of the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater</name> and <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake</name> rivers at <name type="place" key="Lewiston, Idaho">Lewiston</name>, <name type="place" key="Nez Perce County, Idaho">Nez Perce County</name>, <name type="place" key="Idaho">Idaho</name>.</note>
+            <note xml:id="n33050514" n="14">
+               <name type="place" key="Lapwai (Cottonwood) Creek">Lapwai Creek</name>, <name type="place" key="Nez Perce County, Idaho">Nez Perce County</name>.</note>
+            <note xml:id="n33050515" n="15">Actually five languages (Nez Perce, Shoshone, Hidatsa, French, and English) through
+six persons (the <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> chief, the <name type="native_nation" key="Shoshone Indians">Shoshone</name> prisoner, <name type="person" key="Sacagawea">Sacagawea</name>, <name type="person" key="Charbonneau, Toussaint">Charbonneau</name>, one of the French speakers in the party, and <name type="person" key="Lewis, Meriwether">Lewis</name> or <name type="person" key="Clark, William">Clark</name>).</note>
+            <note xml:id="n33050516" n="16">The confluence of the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater (Koos-koos-ke) River</name> with the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake</name> at <name type="place" key="Lewiston, Idaho">Lewiston</name>, <name type="place" key="Nez Perce County, Idaho">Nez
+Perce County</name>, <name type="place" key="Idaho">Idaho</name>; they continued up the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater</name>.</note>
+            <note xml:id="n33050517" n="17">
+               <name type="person" key="Old Toby">Toby</name>, the <name type="native_nation" key="Shoshone Indians">Shoshone</name> who guided them across the mountains; see <name type="person" key="Lewis, Meriwether">Lewis's</name> entry of <ref n="1805-08-20" type="related">August 20, 1805</ref>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-05-04" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-05-06" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

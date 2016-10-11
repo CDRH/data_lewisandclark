@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-09-12">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+September 12, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">357-358</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">361-362</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">278</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-09-12.01">
+            <placeName/>
+            <geo>39.7667 -94.8333</geo>
+            <note>Camped at St. Michael's Prairie, Buchanan County, MO, at present St. Joseph.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-12-22</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-09-12">September 12, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-09-12.01" n="lc.geo.1806-09-12.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Friday 12th of September 1806</hi>
+                  </date>
+               </ab>
+               <p>
+a thick fog a litile before day which blew of[f] at day light.    a heavy Dew this morning.    we Set out at Sunrise the usial hour and proceeded on very well about 7 miles met 2 perogues from <name type="place" key="Saint Louis, Mo.">St. Louis</name> one contained the property of <name type="person" key="Chouteau, René Auguste">Mr. Choteau</name> bound to the <name type="native_nation" key="Pawnee Indians">panias</name> on <name type="place" key="Platte River (Nebr.)">River Platt</name>, the other going up trapping as high as the <name type="native_nation" key="Omaha Indians">Mahars</name>.    here we met one of the french men who had accompanied us as high as the <name type="native_nation" key="Mandan Indians">Mandans</name> he informed us that <name type="person" key="McClellan, Robert">Mr. McClellen</name> was a fiew miles below    the wind blew a head Soon after we pased those perogues, we Saw a man on Shore who informed us that he was one of <name type="person" key="McClellan, Robert">Mr. McClellens</name> party and that he was a Short distance below, we took this man on board and proceeded on and Met <name type="person" key="McClellan, Robert">Mr. McClellin</name>
+                  <ref target="n40091201" n="1"/> at the <name type="place" key="Saint Michael's Prairie">St. Michl. Prarie</name>
+                  <ref target="n40091202" n="2"/> we came too here we found <name type="person" key="Gravelines, Joseph">Mr. Jo Gravelin</name>
+                  <ref target="n40091203" n="3"/> the <name type="native_nation" key="Arikara Indians">Ricaras</name> enterpreter whome we had Sent down with a <name type="native_nation" key="Arikara Indians">Ricaras</name> Chief in the Spring of 1805 and old <name type="person" key="Dorion, Pierre, Sr.">Mr. Durion</name>
+                  <ref target="n40091204" n="4"/> the <name type="native_nation" key="Sioux Indians">Sieux</name> enterpreter, we examined the instructions of those interpreters and found that <name type="person" key="Gravelines, Joseph">Gravelin</name> was ordered to the <name type="native_nation" key="Arikara Indians">Ricaras</name> with a Speach from the president of the U. States to that nation<ref target="n40091205" n="5"/> and some presents which had been given the <name type="native_nation" key="Arikara Indians">Ricara</name> Cheif who had visited the U. States and unfortunately died at the City of <name type="place" key="Washington D.C.">Washington</name>, he was instructed to teach the <name type="native_nation" key="Arikara Indians">Ricaras</name> agriculture &amp; make every enquirey after <name type="person" key="Lewis, Meriwether">Capt Lewis</name> my self and the party— <name type="person" key="Dorion, Pierre, Sr.">Mr. Durion</name> was enstructed to accompany <name type="person" key="Gravelines, Joseph">Gravelin</name> and through his influence pass him with his presents &amp; by the <name type="native_nation" key="Sioux Indians, Teton">tetons bands of Sieux</name>, and to provale on Some of the Principal chiefs of those bands not exceeding six to visit the Seat of the Government next Spring    he was also enstructed to make every enquirey after us.    we made Some Small addition to his instructions by extending the number of Chiefs to 10 or 12 or 3 from each band including the <name type="native_nation" key="Sioux Indians, Yankton">Yanktons</name> &amp;c. <name type="person" key="McClellan, Robert">Mr. McClellin</name> receved us very politely, and gave us all the news and occurrences which had taken place in the <name type="place" key="Illinois">Illinois</name> within his knowledge    the evening proveing to be wet and Cloudy we Concluded to continue all night, we despatched the two Canoes a head to hunt with 5 hunters in them<ref target="n40091206" n="6"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-09-12.02" n="lc.geo.1806-09-12.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Friday 12th Sept. 1806.    a foggy morning.    we Set out as usal and procd. on    about 9 A. M. we met 2 two canoes and 11 frenchman 1 of which was loaded with <name type="place" key="Chouteau, René Auguste">Mr. Shotoes</name> goods from <name type="place" key="Saint Louis, Mo.">St. Louis</name> the others going up trapping    one of the men was along which accompanied us to the <name type="native_nation" key="Mandan Indians">Mandans</name> in 1804.    he informed us that <name type="person" key="McClellan, Robert">Mr. McLanen</name> is but a Short distance a head below    the hunters killed a bear    we then procd on    Soon met one of <name type="person" key="McClellan, Robert">McLanens</name> Hunters who gave us a fat buck    he came on board, and we procd a Short distance and met <name type="person" key="McClellan, Robert">Mr McLanen</name> with a large keel Boat which roed with 12 oars    he was rejoiced to see us    only two Englishmen beside <name type="person" key="McClellan, Robert">Mr. McLanen</name> the rest frenchman. <name type="person" key="Gravelines, Joseph">Mr. Gravveleen</name> &amp; <name type="person" key="Dorion, Pierre, Sr.">Mr Drewyong</name>
+                  <ref target="n40091207" n="7"/> was with him.    this keel Boat was well loaded down with Marchandizes and is going up to the <name type="native_nation" key="Omaha Indians">Marhars</name> and <name type="native_nation" key="Sioux Indians, Yankton">yanktons</name> to winter their.    we mooved across the river and Camped on N. S.    2 Small canoes Sent on a head to hunt. <name type="person" key="McClellan, Robert">Mr. McLanen</name> gave our officers wine and the party as much whiskey as we all could drink. <name type="person" key="McClellan, Robert">Mr. McLanen</name> informed us that the people in general in the united States were concerned about us as they had heard that we were all killed    then again they heard that the Spanyards had us in the mines &amp;C.<ref target="n40091208" n="8"/>    <name type="person" key="Gravelines, Joseph">Mr. Gravveleen</name> &amp; <name type="person" key="Dorion, Pierre, Sr.">Mr Drewyong</name> had orders to make all enquiries for us. <name type="person" key="Gravelines, Joseph">Mr. Gravveleen</name> took a chief of the <name type="native_nation" key="Arikara Indians">Rickarees</name>
+                  <ref target="n40091209" n="9"/> on to the Seat of government &amp; he died their and <name type="person" key="Gravelines, Joseph">Mr. Gravveleen</name> has got the presents for his nation. <name type="person" key="Dorion, Pierre, Sr.">Mr. Drewyong</name> took Several Indians of the <name type="native_nation" key="Sioux Indians, Yankton">yanktons</name> and <name type="native_nation" key="Omaha Indians">Mahars</name> down to <name type="place" key="Saint Louis, Mo.">St. Louis</name> and as <name type="person" key="Stoddard, Amos">Capt. Stoddard</name> was absent who had orders to Send all Indians on they were not Sent on and are now on their return. <name type="person" key="McClellan, Robert">Mr. McLanen</name> informed us that the Spanyards or <name type="place" key="Spain">Spain</name> towards <name type="place" key="Mexico">Mexico</name> had broke out against the u. States and have killed a party of americans who went to See their country, and that all or a great number of troops had gone down to <name type="place" key="New Orleans, La.">New orleans</name> and up <name type="place" key="Red River of the North">red river</name> where a great number of Spaniards have gathred in a body for war. Some of our party exchanged robes &amp;C. for Shirts.    we had Small Showers of rain this evening, and we were treated in the best manner by this party.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-09-12.03" n="lc.geo.1806-09-12.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 12th.</hi>    The morning was fine and we again embarked early. In half 
+an hour we met two periogues going up to trade; staid with them a short time and went on. About an hour after, we met with a <name type="person" key="McClellan, Robert">Mr. M'Clelland</name> in a large boat with twelve men, going up to trade with the <name type="native_nation" key="Omaha Indians">Mahas</name>. Our commanding officers were acquainted with <name type="person" key="McClellan, Robert">Mr. M'Clelland</name>, and we halted and remained with him all day, in order to get some satisfactory information from him, after our long absence from the United States. He, and two Frenchmen<ref target="n40091210" n="10"/> who were with him had severally instructions from the government to make inquiry after our party; as they were beginning to be uneasy about us.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n40091201" n="1">
+               <name type="person" key="McClellan, Robert">Robert McClellan</name> was already known to <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>. He served from 1790 to 1795 as a scout with the U.S. Army in <name type="person" key="Wayne, Anthony">Anthony Wayne's</name> campaigns against the tribes of the Northwest Territory, during which time he had a number of adventures, acquired a considerable reputation, and rose to the rank of lieutenant. For several years he engaged in rather unsuccessful trading ventures on the <name type="place" key="Missouri River">Missouri</name>, becoming a bitter enemy of <name type="person" key="Lisa, Manuel">Manuel Lisa</name>. In 1810 he joined the overland expedition of the Astorians and went with them to the <name type="place" key="Columbia River">Columbia</name>. In 1812 he returned overland with <name type="place" key="Stuart, Robert">Robert Stuart</name>, in the first white party through <name type="place" key="South Pass">South Pass</name> in <name type="place" key="Wyoming">Wyoming</name>. He died in 1815 in <name type="place" key="Saint Louis, Mo.">Saint Louis</name> and was buried on the farm of his old comrade <name type="person" key="Clark, William">William Clark</name>. Carter (RM); Irving (Astor), 114–15, and passim; Lavender (FW), 73–75, 88–90, 146–60, 170–77, 192–93, and passim; Oglesby, 32–33, 53, 80, 99–100, 104, 112–13.</note>
+            <note xml:id="n40091202" n="2">The site of their camp for this day, <name type="place" key="Saint Michael's Prairie">St. Michael's Prairie</name> in <name type="place" key="Buchanan County, Mo.">Buchanan County</name>, <name type="place" key="Missouri">Missouri</name>, at present <name type="place" key="Saint Joseph, Mich.">St. Joseph</name>, was first noted on <ref n="1804-07-07" type="related">July 7, 1804</ref>. MRC map 17.</note>
+            <note xml:id="n40091203" n="3">The captains met <name type="person" key="Gravelines, Joseph">Joseph Gravelines</name> at the <name type="native_nation" key="Arikara Indians">Arikara</name> villages on <ref n="1804-10-08" type="related">October 8, 1804</ref>, employed him during the winter at <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name>, and sent him to <name type="place" key="Washington D.C.">Washington</name> with the unfortunate <name type="native_nation" key="Arikara Indians">Arikara</name> chief in the spring of 1805.</note>
+            <note xml:id="n40091204" n="4">
+               <name type="person" key="Dorion, Pierre, Sr.">Pierre Dorion, Sr.</name>, again.</note>
+            <note xml:id="n40091205" n="5">By this message <name type="person" key="Jefferson, Thomas">Jefferson</name> attempted to reassure the <name type="native_nation" key="Arikara Indians">Arikaras</name> that there was no foul play in the chief's death and retain their friendship for the United States; he was not successful. <name type="person" key="Jefferson, Thomas">Jefferson</name> to the <name type="native_nation" key="Arikara Indians">Arikaras</name>, April 11, 1806, Jackson (LLC), 1:306.</note>
+            <note xml:id="n40091206" n="6">The remaining half-page (p. 62 of Codex N) is blank after this entry. The entry of <ref n="1806-09-13" type="related">September 13</ref>, begins at the top of the next page.</note>
+            <note xml:id="n40091207" n="7">
+               <name type="person" key="Dorion, Pierre, Sr.">Pierre Dorion, Sr.</name>
+            </note>
+            <note xml:id="n40091208" n="8">Only <name type="person" key="Ordway, John">Ordway</name> reports this information on this date. <name type="person" key="Clark, William">Clark</name> has something similar on
+<ref n="1806-09-17" type="related">September 17, 1806</ref>.</note>
+            <note xml:id="n40091209" n="9">There is some confusion about the identity of this individual; see <name type="person" key="Clark, William">Clark's</name> entry of <ref n="1804-10-09" type="related">October 9, 1804</ref>.</note>
+            <note xml:id="n40091210" n="10">
+               <name type="person" key="Gravelines, Joseph">Gravelines</name> and <name type="person" key="Dorion, Pierre, Sr.">Dorion, Sr.</name>, both of whom had met the party previously; see <ref n="1804-06-12" type="related">June 12</ref> and <ref n="1804-10-08" type="related">October 8, 1804</ref>, respectively. <name type="person" key="Clark, William">Clark</name> describes the missions of these men in this day's entry.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-09-11" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-09-13" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

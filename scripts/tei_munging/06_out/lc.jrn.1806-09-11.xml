@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-09-11">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+September 11, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">356-357</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">360-361</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">278</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-09-11.01">
+            <placeName/>
+            <geo>39.9016 -94.9685</geo>
+            <note>Camped either in Andrew or Buchanan County, MO, on Nodaway Island. First noted 1804-07-08.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-12-22</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-09-11">September 11, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-09-11.01" n="lc.geo.1806-09-11.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Thursday 11th Septr. 1806</hi>
+                  </date>
+               </ab>
+               <p>
+a heavy Cloud and wind from the N W. detained us untill after Sunrise at which time we Set out and proceeded on very well, passed the <name type="place" key="Big Nemaha River">nemahar</name>
+                  <ref target="n40091101" n="1"/> which was low and did not appear as wide as when we passed up. <name type="place" key="Wolf (Loup) Creek (Wolf River) (Kans.)">Wolf river</name>
+                  <ref target="n40091102" n="2"/> Scercely runs at all, at 3 P. M we halted a little above the <name type="place" key="Nodaway River">Nadawa river</name>
+                  <ref target="n40091103" n="3"/> on the S. Side of the <name type="place" key="Missouri River">Missouri</name> to kill Some meat that which we killed a fiew days past being all Spoiled. Sent out 6 hunters they killed and brought in two Deer only, we proceeded on a fiew miles below the <name type="place" key="Nodaway Island">Nadawa Island</name> and encamped on a Small Isld. near the N. E. Side,<ref target="n40091104" n="4"/> haveing Came <hi rend="double underline">40</hi> Miles only to day, river rapid and in maney places Crouded with Snag's. I observe on the Shores much deer Sign—    the [mosquitoes?] are no longer troublesome on the river, from what cause they are noumerous above and not So on this part of the river I cannot account. Wolves were howling in different directions this evening after we had encamped, and the barking of the little prarie wolves resembled those of our Common Small Dogs that ¾ of the party believed them to be the dogs of Some boat assending which was yet below us.    the barking of those little wolves I have frequently taken notice of on this as also the other Side of the <name type="place" key="Rocky Mountains">Rocky mountains</name>, and their Bark so much resembles or Sounds to me like our Common Small Cur dogs that I have frequently mistaken them for that Speces of dog—    The papaws nearly ripe—.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-09-11.02" n="lc.geo.1806-09-11.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Thursday 11th Sept 1806. A Showery morning.    we Set out and procd. on verry well untill about 11 A. M.    we then halted to hunt a Short time.    found pappaws<ref target="n40091105" n="5"/> and grapes in this bottom which is covred with cotten Honey Locus Seckamore timber &amp;C.    the rushes thick. <name type="person" key="Drouillard, George">Drewyer</name> killed a large deer.    we then procd. on.    one of the hunters killed a deer from his canoe.    at dusk we Camped on a Sand beach on the N. Side.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-09-11.03" n="lc.geo.1806-09-11.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Thursday 11th.</hi>    We set out early; and had a cloudy morning, and slight showers of rain during the forenoon. At two in the afternoon we stopped to hunt, and soon killed two deer and a turkey: then proceeded on and at sunset encamped on an island.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n40091101" n="1">The <name type="place" key="Big Nemaha River">Big Nemaha River</name>, which the party reached on <ref n="1804-07-11" type="related">July 11, 1804</ref>, joines the <name type="place" key="Missouri River">Missouri</name> in <name type="place" key="Richardson County, Nebr.">Richardson County</name>, <name type="place" key="Nebraska">Nebraska</name>. MRC map 19.</note>
+            <note xml:id="n40091102" n="2">
+               <name type="place" key="Wolf (Loup) Creek (Wolf River) (Kans.)">Wolf Creek</name> in <name type="place" key="Doniphan County, Kans.">Doniphan County</name>, <name type="place" key="Kansas">Kansas</name>, first passed on <ref n="1804-07-09" type="related">July 9, 1804</ref>. MRM map 51.</note>
+            <note xml:id="n40091103" n="3">The party first reached the <name type="place" key="Nodaway River">Nodaway River</name> on <ref n="1804-07-08" type="related">July 8, 1804</ref>; the mouth, which may have shifted since <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark's</name> time, now lies between <name type="place" key="Holt County, Mo.">Holt</name> and <name type="place" key="Andrew County, Mo.">Andrew</name> counties, <name type="place" key="Missouri">Missouri</name>. On this occasion the party apparently halted on the <name type="place" key="Doniphan County, Kans.">Doniphan County</name> side of the <name type="place" key="Missouri">Missouri</name>. MRC map 18.</note>
+            <note xml:id="n40091104" n="4">
+               <name type="place" key="Nodaway Island">Nodaway Island</name> was first noted on <ref n="1804-07-08" type="related">July 8, 1804</ref>; the camp would probably be in either <name type="place" key="Andrew County, Mo.">Andrew</name> or <name type="place" key="Buchanan County, Mo.">Buchanan County</name>, <name type="place" key="Missouri">Missouri</name>, most likely the former. MRC map 18.</note>
+            <note xml:id="n40091105" n="5">Pawpaw, <hi rend="italic">Asimina triloba</hi> (L.) Dun.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-09-10" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-09-12" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

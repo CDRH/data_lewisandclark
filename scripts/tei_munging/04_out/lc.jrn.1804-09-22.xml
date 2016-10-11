@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-09-22">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+September 22, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">99-103</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">63-64</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">42</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">80-82</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-09-22.01">
+            <placeName/>
+            <geo>44.2205 -99.908</geo>
+            <note>Opposite of LaRoche Creek, Hughes County, SD</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-03-12</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-09-22">September 22, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-09-22.01" n="lc.geo.1804-09-22.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">22nd of September Satturday 1804</hi>
+                  </date>
+               </ab>
+               <p>
+a thick fog this morning untill 7 oClock which detained us, Saw Some old tracks of the Indians on the S. S.    proceeded on—    one French man with a <hi rend="italic">abscess</hi> on his thigh which pains him verry much for 10 or 12 Days    a butifull Plain on both Sides    low high land under which there is a number of lage Stone, we See great numbers of Buffalow feeding</p>
+               <p>
+                  <table rows="6" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 72° W.</cell>
+                        <cell role="data" rows="1" cols="1">  5</cell>
+                        <cell role="data" rows="1" cols="1">miles to a pt. on the S. S. opsd. a High Bluff    passed un-<lb/>
+der a Bluff L. S.    altitude at opsd. the Lower pt of 1st of<lb/>
+the Isd. <name type="place" key="Dorion Island No. 1 (Three Sisters Island)">3 Sisters</name> with Sexton 92° 50' 0"    Octt. 89° 47'<lb/>
+0"—(1)    The Lattitude produced from those obseva-<lb/>
+tions is <hi rend="italic">44° 11' 33" 4/10</hi> North.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile on the 〈L〉 S. S. a bottom Commences on the L. at<lb/>
+the end of the course</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 38 W.</cell>
+                        <cell role="data" rows="1" cols="1">  4 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a point of timber on the S. S. opposit Ceeder Is-<lb/>
+land on which <name type="person" key="Loisel, Régis">Louselle</name> Wintered 1803    passed a Small<lb/>
+Island at one &amp; ½ miles, and a large Island 3 miles long<lb/>
+above Called the <name type="place" key="Dorion Island No. 1 (Three Sisters Island)">3 Sisters</name> situated near the L. S.    oppo-<lb/>
+sit this Island a large Creek Coms in on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W.<ref target="n06092201" n="1"/>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">Miles to a pt. on the S. S.    passed <name type="place" key="Dorion Island No. 2 (Cedar Island)">Ceeder Island</name> in the<lb/>
+Middle of the river nearly in the form of a Dimond—<lb/>
+(2)—the main Current on the L. Side    <name type="person" key="Loisel, Régis">Louisells</name> 〈Hous〉<lb/>
+Fort of ceder 70 foot squar on the L. S. of it    on the South<lb/>
+Side of about the middle a number of Indian Camps, all<lb/>
+the Cotton wood Cut down to feed their horses.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 22 E</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  2 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">mes. to the lower point of a timber on the S. S. below<lb/>
+Cabid Islan (or <name type="place" key="Goat Island">Goat Isd</name>). I walked out on the L. Side this<lb/>
+evening &amp; Killed a Deer, Camped late, great number of<lb/>
+large Stone Some distance out from the Shore    Camped<lb/>
+on the S. S. at the end of this Course—    The hunter<lb/>
+Came in, Complain of their mockersons being burnt out<lb/>
+by the Salts on the hills    they killed only 1 Deer—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">16</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+A continuation of notes taken assending the <name type="place" key="Missouri River">Missourie</name> in 1804—by <name type="person" key="Clark, William">W. Clark</name>
+                  <ref target="n06092202" n="2"/>
+               </p>
+               <p>
+                  <hi rend="right">Satturday the 22nd of September 1804—</hi>
+               </p>
+               <p>
+A Thick fog this morning detained us untill 7 oClock, The plains on both Sides of the River is butifull and assends gradually from the river; noumerous herds of Buffalow to be Seen in every derections, (1) Took the altitude of the Sun &amp; found the Lattitude to be 44° 11' 33" N—    (2) passed a Small Island on the L. S. and one on the S. S. imediately above, &amp; about 3 m: long, on the L. S. opposit this Island a Creek of about 15 yds wide mouthes, Called the Creek of the <name type="place" key="Cedar (Three Sisters) Creek (S. Dak.)">3 Sisters</name>
+                  <ref target="n06092203" n="3"/>    (3) passed <name type="place" key="Dorion Island No. 2 (Cedar Island)">Cedar Island</name> 1½ M. long &amp; 1 M. wide Situated a little above the last and nearest the S. S.—near the upper part of this Island on its S. Side a Tradeing fort is Situated built of Cedar—by a <name type="person" key="Loisel, Régis">Mr. Louiselle</name> of <name type="place" key="Saint Louis, Mo.">St Louis</name>, for the purpose of Tradeing with the <name type="native_nation" key="Sioux Indians, Teton">Teton</name> Bands of <name type="native_nation" key="Sioux Indians">Soues</name> (<hi rend="italic">or "<name type="native_nation" key="Sioux Indians">Sieux</name>"</hi>)<ref target="n06092204" n="4"/>    about this Fort I saw numbers of Indians Temporary Lodges, &amp; horse Stables, all of them round and to a point at top,<ref target="n06092205" n="5"/> I observed also numbers of Cotton Trees fallen for the purpose of feeding their horses on the Bark of the limbs of those trees which is Said to be excellent food for the horses—    we came too on the S. S. below a Small Island called <name type="place" key="Goat Island">Goat Island</name>,<ref target="n06092206" n="6"/> passed a no: of large round Stones, Som distance in the river as also in the Sides of the hills,—    I walked on the Shore this evening and Killed a verry large Deer—    our hunters Killed 2 Deer &amp; a Beaver, they Complain of the Mineral quallities of the high land distroying their mockersons—.<ref target="n06092207" n="7"/>
+               </p>
+               <p>
+                  <table rows="6" cols="3">
+                     <head>Course Distance &amp; rufferences 22d Sept</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 72° W.</cell>
+                        <cell role="data" rows="1" cols="1">  5</cell>
+                        <cell role="data" rows="1" cols="1">miles to a pt on the S. S—    passing under a high Bluff<lb/>
+on the L. S (1)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile on the S. S.—    〈to the〉 Commencement of a bottom<lb/>
+on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 38° W.</cell>
+                        <cell role="data" rows="1" cols="1">  4 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a pt. of timber on the S. S. opsd. <name type="place" key="Dorion Island No. 2 (Cedar Island)">Cedar Isd.</name>
+                           <lb/>
+passed 2 Isds &amp; a Creek opsd. L. S. (2)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles to a pt. on the S. S—    passed <name type="place" key="Dorion Island No. 2 (Cedar Island)">Cedar Island</name> &amp; Loui-<lb/>
+sells Fort—    (3)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 22° E.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  2 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles to Some timber on the L. S. opposite a Small Island<lb/>
+call <name type="place" key="Goat Island">Goat Isd.</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">(16)</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-22.02" n="lc.geo.1804-09-22.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>22nd</date>
+               </ab>
+               <p>
+                  <table rows="6" cols="3">
+                     <head>
+                        <hi rend="italic"> Course Distance &amp; reffuriences</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 72° W.</cell>
+                        <cell role="data" rows="1" cols="1">  5</cell>
+                        <cell role="data" rows="1" cols="1">miles to a point on the S. S. Passing under a high bluff on<lb/>
+the L. Side (1)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile on the S. S.    a bottom Commenceing on the L. S. at<lb/>
+the end of this Course</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 38° W.</cell>
+                        <cell role="data" rows="1" cols="1">  4 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a pt. of timber on the S. S. opposit the Lower pt.<lb/>
+of <name type="place" key="Dorion Island No. 2 (Cedar Island)">Ceder Island</name>    passed two Islands on the L. S. one ½ a<lb/>
+mile &amp; the other 3 miles long called the <name type="place" key="Dorion Island No. 1 (Three Sisters Island)">3 Sisters</name>    opsd. a<lb/>
+large Creek com in (2)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles to a pt. on S. S.    passed <name type="place" key="Dorion Island No. 2 (Cedar Island)">Ceeder Island</name> Situated<lb/>
+nearest the S. S. a trading house (3)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 22° E</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  2 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles to a timber opposit the Lower L S pt. of a Small Is-<lb/>
+land Called <name type="place" key="Goat Island">Goat Island</name> (4)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">16</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi rend="right">
+                     <hi rend="italic">22nd of September</hi> Satturday 1804</hi>
+               </p>
+               <p>
+a thick fog this morning detained us untill 7 oClock    passed a butifull inclined Prarie on both Sides in which we See great numbers of Buffalow feeding—    (1) took the Meridean altitude of the Suns upper Leimb. 92° 50' 00" the SexSecnt the Latd. produced from this Obsivation is 44° 11' 33" 3/10 North—</p>
+               <p>
+(2) passed a Small Island on the L. S.    imediately above passed a Island Situated nearest the L. S. abt. 3 miles long, behind this Isd. on the L. S. a Creek Comes in about 15 yards wide, this Creek and Islands are Called the <name type="place" key="Dorion Island No. 1 (Three Sisters Island)">3 Sisters</name>    a butifull Plain on both Sides of the river—</p>
+               <p>
+(3) passed a Island Situated nearest the S. S. imedeately above the last Called <name type="place" key="Dorion Island No. 2 (Cedar Island)">Ceder Island</name>    this Island is about 1½ miles long &amp; nearly as wide Covered with Ceder, on the South Side of this Island <name type="person" key="Loisel, Régis">Mr. Louiselle</name> a trader from <name type="place" key="Saint Louis, Mo.">St. Louis</name> built a fort of Ceder &amp; a good house to trate with the <name type="native_nation" key="Sioux Indians">Seaux</name> &amp; wintered last winter; about this fort I observed a number of Indian Camps in a Conicel form,—    they fed their horses on Cotton limbs as appears.    here our hunters joined us havening killed 2 Deer &amp; a Beaver, they Complain much of the Mineral Substances in the barren hills over which they passed distroying their mockersons.</p>
+               <p>
+(4) we proceeded on and Camped late on the 〈L〉 S. Side below a Small Island in the bend S. S. Called <name type="place" key="Goat Island">Goat Island</name>. The large Stones which lay on the Sides of the banks in Several places lay Some distance in the river, under the water and is dangerous &amp;.</p>
+               <p>
+I walked out this evening and killed a fine Deer, the musquiters is verry troublesom in the bottoms</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-22.03" n="lc.geo.1804-09-22.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="right">
+                        <hi rend="italic">Point of observation No. 44.<lb/>Saturday Septr. 22nd 1804.</hi>
+                        <ref target="n06092208" n="8"/>
+                     </hi>
+                  </date>
+               </ab>
+               <p>
+
+On the Stard. shore, about one mile below the lower <name type="place" key="Dorion Island No. 1 (Three Sisters Island)">Island of the three sisters</name>.</p>
+               <p>
+Observed meridian Altd. of <seg n="u9737">☉</seg>'s U. L. with Sextant by the fore observation 92° 50' "</p>
+               <p>
+Latitude deduced from this observation N 44° 11' 33.4"
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-22.04" n="lc.geo.1804-09-22.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Saturday 22nd Sept. 1804.    a foggy morning.    we Set out at Sun rise.    we passed Some Timber on S. S.    high handsome plains on N. S.    (See large gangs of Buffalow on N. S)    about 3 OClock we passed a handsom <name type="place" key="Dorion Island No. 2 (Cedar Island)">Ceeder Island</name> on N. S. (one of the 3 Sisters) where <name type="person" key="Loisel, Régis">Mr. Louisells</name> built a fort and Tradeing house in the winter 1803.    it was all built of Ceeder and picketed in with ceeder about 65 or 70 feet Square with a Sentery Box in 2 angles corners the pickets is 13½ feet high above Ground.    the Tradeing house is 45½ by 32½ feet.    divided into four equal apartments one for Merchantise one for a common hall.    one for peltery &amp;C.    2 peltery presses.    this Tradeing house is built all of ceeder high and covered with hughn guttered ceeder, in the winter they cover them over with Buffaloe hides which answer a Good purpose.    the chimneys built with Stone Clay &amp; wood—    their is Indian camps for a large distance about this place where the <name type="native_nation" key="Sioux Indians">Souix</name> Indians came to Trade with <name type="person" key="Loisel, Régis">Mr Louisell</name>, opposite to this Island on S. S. <name type="person" key="Drouillard, George">G. Drewyer</name> &amp; <name type="person" key="Shields, John">Shields</name> joined us    had killed 2 Deer &amp; one white woolf—    <name type="person" key="Colter, John">Colter</name> went [out] on with the horse—    we passed a creek &amp; islands of the <name type="place" key="Dorion Island No. 1 (Three Sisters Island)">3 Sisters</name>.    proceded on    passd. an Indian camp on S. S. where we found Some of their ceeder dog poles, they answer us for Setting poles.    we are informed that the Indians tie theirs dogs to these poles and they have to dragg them from one camp to another loaded with their Baggage &amp;.C—<ref target="n06092209" n="9"/>    <name type="person" key="Clark, William">Captain Clark</name> walked a Short time on Shore on S. S. &amp; killed a large Doe Deer.    we Camped on N. S. at the mouth of a Small Creek where he joined us—
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-22.05" n="lc.geo.1804-09-22.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 22nd.</hi>    We embarked early in a foggy morning, saw some timber on the south side and high plains on the north. About 3 o'clock we passed <name type="place" key="Dorion Island No. 2 (Cedar Island)">cedar island</name>, one of the Three-Sisters, where <name type="person" key="Loisel, Régis">Mr. Lucelle</name> had built a fort of cedar. The space picketed in is about 65 or 70 feet square, with centry boxes in two of the angles. The pickets are 13½ feet above ground. In this square he built a house 45½ by 32½ feet, and divided it into four equal parts, one for goods, one to trade in, one to be used as a common hall and the other for a family house. Here the two men<ref target="n06092210" n="10"/> came to us with the horse. They had killed a white wolf and some deer. We proceeded on, passed a creek, and <name type="place" key="Three Sisters">islands of the three sisters</name>;<ref target="n06092211" n="11"/> and an old Indian camp, where we found some of their dog-poles, which answer for setting poles. The reason they are called dog-poles, is because the Indians fasten their dogs to them, and make them draw them from one camp to another loaded with skins and other articles.<ref target="n06092212" n="12"/> We encamped on the north side.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-22.06" n="lc.geo.1804-09-22.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 22nd</hi> Sept.    Set off eairly    a foggy morning.    passed Some timber on S. S. high plains on N. S.    about 3 oC we passed a <name type="place" key="Dorion Island No. 2 (Cedar Island)">ceeder Isld.</name> one of the 3 Sister where <name type="person" key="Loisel, Régis">Mr. Louesell</name> had built a fort of ceeder.    it is pickeded in 65 or 70 feet Square a Sentery box at the 2 angles corners    the pickets are 13½ feet above Ground.    in this Square he built a house 45½ by 32½ feet divided into 4 equal parts, one for a common hall one to trade in and one for a famaly house.    opposite this <name type="person" key="Drouillard, George">Drewyer</name> &amp; <name type="person" key="Shields, John">Shields</name> came to us with the horse.    they had killed Several deer and one white wolf.    passed a creek &amp; Isl. of the <name type="place" key="Dorion Island No. 1 (Three Sisters Island)">3 Sisters</name>    proceeded on    passed an old Indian Camp where we found Some of their dog poles, they answer us for Setting poles.    the reason that they are called dog poles is that they tye them to their dogs &amp; they hall their baggage &amp;c. from one Camp to another.    we Camped on the N. S.</p>
+               <p>
+Saturday Septemr 22nd    This morning we sett out early, having some fog, about 8 oClock A. M. the fog cleared away, and we passed by some Timbered land, lying on the south side, and high plains lying on the North side of the River; about 3 o'Clock P. M. we passed an Island, called <name type="place" key="Dorion Island No. 2 (Cedar Island)">Cedar Island</name>, which is one of the Islands call'd the Sisters    On this Island 〈is〉 stood a Fort, built by a <name type="person" key="Loisel, Régis">Monsieur Louselle</name>, This Fort 〈is〉 was picketted    The pickets being of red Cedar 13½ feet high, and 〈is〉 was built in the form of a square; the length of each side being 70 feet, and had a Centry Box at the two Angles corners, In the Center of this square stood a house, 45½ by 22½ feet, which was divided equally, into four appartments.    The one appartment being occupied as a common Hall, one as a Store for trading with the Indians, one as a lodging Room, and the other for Cooking in &amp;ca. by <name type="person" key="Loisel, Régis">Monsieur Louselle</name> at the time he resided there.—    The situation of this Fort 〈is〉 was a handsome one it commanding a 〈handsome〉 most delightful View of the River &amp; the land lying on both sides of it for a considerable distance and had some beautiful Groves of Cedar, and other Trees on it    The Island is 1½ Miles in length and the soil very rich.—    The two Hunters that were out joined us here, having the horse with them.—    the Horse was loaded with several carcases deer they had killed 〈and the White〉 and a <name type="person" key="White Wolf">White Wolf</name> Skin the wolf 〈skin also which〉 one of them Shot.—    We proceeded on, and passed a Creek, and another of the Sister Islands; and also passed an Indian camp where some, of 〈the〉 Our Men landed, they found some poles, which the Indians call dog poles, These poles the Indians tie to their dogs &amp; they hawl their baggage on them, from one Camp to another as they Remove.—    We brought too, and took the Men &amp; poles on board, (they answering us for setting poles for the boat).—and proceeded on, and in the Evening encamped on the North side of the River on its bank
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n06092201" n="1">To the side of this course <name type="person" key="Clark, William">Clark</name> has written: "<name type="person" key="Loisel, Régis">Louisells</name> Fort is 23 yards squa    each room is 20 feet Square and Sub Divided" and "Thermometer 〈112〉 abv 0."</note>
+            <note xml:id="n06092202" n="2">This September 22 entry is on document 58 of the Field Notes, the previous one being on document 56. <name type="person" key="Clark, William">Clark</name> evidently began a second set of field notes with the intention of sending the previous ones back downriver with dispatches. See below, <ref n="1804-09-23" type="related">September 23, 1804</ref>, n. 3. <name type="person" key="Biddle, Nicholas">Biddle's</name> note "to 26" beside the entry date indicates that the entries on the sheet go to September 26.</note>
+            <note xml:id="n06092203" n="3">
+               <name type="person" key="Clark, William">Clark's</name>
+               <name type="place" key="Cedar (Three Sisters) Creek (S. Dak.)">Three Sisters Creek</name> is later <name type="place" key="Cedar (Three Sisters) Creek (S. Dak.)">Cedar Creek</name>, in <name type="place" key="Lyman County, S. Dak.">Lyman County</name>, <name type="place" key="South Dakota">South Dakota</name>. <name type="person" key="Clark, William">Clark's</name> name may be from <name type="person" key="Evans, John Thomas">Evans's</name> map 2 (<hi rend="italic">Atlas</hi> map 8). The island is the later "<name type="place" key="Dorion Island No. 1 (Three Sisters Island)">Dorion Isl. No. 1</name>," or <name type="place" key="Dorion Island No. 2 (Cedar Island)">Cedar Creek Island</name>. Mattison (BB), 261; <hi rend="italic">Atlas</hi> map 22; MRC map 39; MRY maps 60, 62.</note>
+            <note xml:id="n06092204" n="4">For a sketch of <name type="person" key="Loisel, Régis">Régis Loisel</name>, see above, <ref n="1804-05-25" type="related">May 25, 1804</ref>. He built <name type="place" key="Fort aux Cedres (S. Dak.)">Fort aux Cedres</name> about 1800, or perhaps two years later, to trade with the <name type="native_nation" key="Sioux Indians">Sioux</name>. Sergeants <name type="person" key="Ordway, John">Ordway</name> and <name type="person" key="Gass, Patrick">Gass</name> made a record of its dimensions and layout. According to <name type="person" key="Ordway, John">Ordway</name> it was a cedar stockade, 65 to 70 feet square, with a "Sentery Box" at each of two opposite corners, the wall being 13½ feet high. Inside was a four-room cabin 45½ by 32½ feet. There were two presses for compacting pelts for shipment. <name type="place" key="Dorion Island No. 2 (Cedar Island)">Cedar Island</name> was later known as <name type="place" key="Dorion Island No. 2 (Cedar Island)">Dorion Island No. 2</name>, or <name type="place" key="Dorion Island No. 2 (Cedar Island)">Dores Island</name>. The exact location of <name type="person" key="Loisel, Régis">Loisel's</name> fort was never determined and the island is now submerged by the <name type="place" key="Missouri River, Big Bend of the">Big Bend</name> Reservoir. Mattison (BB), 261–63; Smith (BBHS), 47–54; <hi rend="italic">Atlas</hi> map 22; MRC map 39; MRY map 62.</note>
+            <note xml:id="n06092205" n="5">
+               <name type="person" key="Clark, William">Clark</name> may have seen the frameworks of tipis, "temporary" in the sense that they were portable, although the nomadic <name type="native_nation" key="Sioux Indians">Sioux</name> lived in them all the time. However, he may have been looking at the remains of some sort of brush shelter over which hides or blankets could be thrown.</note>
+            <note xml:id="n06092206" n="6">There has been some confusion about this campsite, but <hi rend="italic">Atlas</hi> map 22 clearly indicates that it was in <name type="place" key="Hughes County, S. Dak.">Hughes County</name>, <name type="place" key="South Dakota">South Dakota</name>, nearly opposite the mouth of <name type="place" key="Loiselle Creek">Loiselle Creek</name> (named for <name type="person" key="Loisel, Régis">Régis Loisel</name>). Mattison (BB), 263. <name type="place" key="Goat Island">Goat Island</name> appears to be a nameless sand bar on MRC map 39. <name type="place" key="Goat Island">Goat Island</name> is "Cabri" (or some other spelling) on <name type="person" key="Evans, John Thomas">Evans's</name> map 2 (<hi rend="italic">Atlas</hi> map 8) and in some of <name type="person" key="Clark, William">Clark's</name> references here. MRY map 63.</note>
+            <note xml:id="n06092207" n="7">Sulphates in the weathered shale would decompose the leather more rapidly than usual. It also makes some of the land too acid to support vegetation.</note>
+            <note xml:id="n06092208" n="8">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> observation from Codex O.</note>
+            <note xml:id="n06092209" n="9">A dog travois, used extensively by Plains Indians before the introduction of the horse.</note>
+            <note xml:id="n06092210" n="10">
+               <name type="person" key="Drouillard, George">Drouillard</name> and <name type="person" key="Shields, John">Shields</name>.</note>
+            <note xml:id="n06092211" n="11">The "<name type="place" key="Three Sisters">Three Sisters</name>" are presumably the two Dorion Islands and a third later joined to the shore, all in <name type="place" key="Lyman County, S. Dak.">Lyman County</name>, and all now inundated by <name type="place" key="Big Bend Reservoir">Big Bend Reservoir</name>.</note>
+            <note xml:id="n06092212" n="12">A dog travois, used by many plains tribes before the introduction of the horse. <name type="person" key="McKeehan, David">McKeehan's</name> note: "<name type="person" key="Mackenzie, Alexander">Mr. Mackenzie</name> speaking of the Knisteneaux, a numerous nation of Indians spread over a vast extent of country extending south westerly from the coast of Labrador, 
+north of <name type="place" key="Saint Lawrence River">the St. Laurence</name> and its Lakes and the <name type="place" key="Lake Winnipeg">Lake Winnipic</name>, east of <name type="place" key="Elk River">Elk river</name>, south of the <name type="place" key="Lake of the Hills">Lake of the Hills</name>, and west, south and east of <name type="place" key="James's Bay">James's Bay</name> and the southern part of <name type="place" key="Hudson's Bay">Hudson's Bay</name>, says, 'In the winter when the waters are frozen, they make their journies, which are never of any great length, with sledges drawn by dogs.' <hi rend="italic">General History of the Fur Trade.</hi>"</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-09-21" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-09-23" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

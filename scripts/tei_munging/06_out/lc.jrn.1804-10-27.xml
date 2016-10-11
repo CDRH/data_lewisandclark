@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-10-27">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+October 27, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">203-207</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">90-91</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">60</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">105</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-10-27.01">
+            <placeName/>
+            <geo>47.3257 -101.3528</geo>
+            <note>Opposite current Stanton, Mercer County, ND. In McLean County. The site has since been washed away by the Missouri. Remained here until 1804-10-30</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-03-23</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-10-27">October 27, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-10-27.01" n="lc.geo.1804-10-27.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">27th of October Satturday 1804</hi>    we Set out early and Came too at the village [<name type="place" key="Mitutanka (Matootonha) village">Matootonha</name>] on the L. S. where we delayed a few minits, I walked to a Chiefs Logg [lodge] &amp; Smoked with them, but Could not eat, which did displease them a little, here I met with a <name type="person" key="Jusseaume, René">Mr: Jessomme</name>,<ref target="n08102701" n="1"/> who lived in this nation 18 [13?] years, I got him to interpet &amp; he proceedd on with us    we proceeded on to a Centeral point opposit the <name type="place" key="Knife River">Knife River</name>, &amp; formed a Camp on the S. S. above the 2d <name type="native_nation" key="Mandan Indians">Mandan</name> village<ref target="n08102702" n="2"/> &amp; opsd. the <name type="place" key="Mahawha (Marharha) village">Mah-har-ha village</name>—<ref target="n08102703" n="3"/>    and raised a flag Staff—<ref target="n08102704" n="4"/>    <name type="person" key="Lewis, Meriwether">Capt Lewis</name> &amp; the Intepeters walked down to the 2d Village of <name type="native_nation" key="Mandan Indians">Mandans</name>, &amp; returned in about an hour, we Sent 3 Carrotes of tobacco to the other villages &amp; enviting them to come down and Council with us tomorrow,—    we endeaver to precure Some Knowledge of the principal Chiefs of the Different nations &amp;.—    well to give my ideas as to the impression thais man [<name type="person" key="Jusseaume, René">Jusseaume</name>] makes on me is a Cunin artfull an insoncear [insincere?]—    he tels me he was once empld. by my brother in the <name type="place" key="Illinois">Illinois</name> &amp; of his description I conceve as a Spye upon the British of <name type="place" key="Michilimackinac Island">Michillinicknac</name> &amp; <name type="place" key="Saint Joseph, Mich.">St Joseph</name>,<ref target="n08102705" n="5"/> we think he may be made use full to us &amp; do employ him as an interpeter—    no. of Indians bring their wives &amp;c. to the campes of our party on Shore &amp;c.</p>
+               <p>
+                  <table rows="2" cols="3">
+                     <head>Course distanc &amp;c</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">m. to a bend on the L. S.    passed a Coal bank on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">m to a wood on the S. S.    passed the 2d <name type="native_nation" key="Mandan Indians">Mandan</name> V. on the<lb/>
+S. S. to the place we counciled &amp; Stayed untill the 1st Nov.—</cell>
+                     </row>
+                  </table>
+                  <table rows="4" cols="3">
+                     <head>Cours &amp; Distance. up the <name type="place" key="Missouri River">Missouri</name> abov the <name type="native_nation" key="Mandan Indians">Mandans</name>
+                        <ref target="n08102706" n="6"/>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 12° W.</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">m. to a Bluff 30 feet high above the wooded bottom S. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 20° W.</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">m. to a tree under a Bluff of about 20 feet high on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">m. to a pt of the Same Bluff 30 feet high in which is Coal</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">m. to the lower point of an Island, the Current on the L. S.</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-27.02" n="lc.geo.1804-10-27.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="right">
+                        <hi rend="italic">
+                           <name type="native_nation" key="Mandan Indians">Mandans</name>
+                           <lb/>
+27th of October Satturday 1804</hi>
+                     </hi>
+                  </date>
+               </ab>
+               <p>	
+we Set out arly    Came too at this Village on the L. S.    this village is Situated on an eminance of about 50 feet above the Water in a handson Plain    it Containes houses in a kind of Picket work.    the houses are round and Verry large Containing Several families, as also their horses which is tied on one Side of the enterance, a Discription of those houses will be given hereafter, I walked up &amp; Smoked a pipe with the Cheifs of this Village    they were anxious that I would Stay and eat with them, my indisposition provented my eating which displeased them, untill a full explination took place, I returned to the boat and Sent 2 Carrots of Tobacco for them to Smoke, and proceeded on, passed the 2d Village and Camped opsd. the Village of the <hi rend="italic">
+                     <name type="native_nation" key="Hidatsa Indians, Awaxawi">Weter Soon</name>
+                  </hi> or <name type="native_nation" key="Hidatsa Indians, Awaxawi">ah wah har ways</name> which is Situated on an eminance in a plain on the L. S.    this Village is Small and Contains but fiew inhabitents.    above this village &amp; also above the <name type="place" key="Knife River">Knife river</name>
+                  <ref target="n08102707" n="7"/> on the Same Side of the <name type="place" key="Missouri River">Missouri</name> the <name type="native_nation" key="Hidatsa Indians">Big bellies</name> Towns are Situated<ref target="n08102708" n="8"/> a further Discription will be given here after as also of the Town of <name type="native_nation" key="Mandan Indians">Mandans</name> on this Side of the river i' e' S. Side—</p>
+               <p>
+a fine worm Day    we met with a french man by the name of <hi rend="italic">
+                     <name type="person" key="Jusseaume, René">Jassamme</name>
+                  </hi> which we imploy as an interpeter    This man has a wife &amp; Children in the Village—    Great numbers on both Sides flocked down to the bank to view us as wee passed.</p>
+               <p>
+                  <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> with the Interpetr. walked down to the village below our Camp    After delaying one hour he returned and informed me the Indians had returned to their village &amp;c., &amp;c., we Sent three 〈twists〉  Carrots of Tobacco by three young men, to the three Villages above inviting them to come Down &amp; Council with us tomorrow.    many Indians Came to view us    Some Stayed all night in the Camp of our party—    we procured Some information of <name type="person" key="Jusseaume, René">Mr. Jessomme</name> of the Chiefs of the Different Nations</p>
+               <p>
+                  <table rows="3" cols="3">
+                     <head>
+                        <hi rend="italic">Course Distance 27th</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">Miles to a bind on the L. S. passing a Cole Bank</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">2</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles to a wood on the S. S.    passd. the 2 Village on S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-27.03" n="lc.geo.1804-10-27.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 27th Oct</hi>.    a clear &amp; pleasant morning.    we Set off eairly.    proceeded on.    at 7 oC. we arived at the 1st village of the <name type="native_nation" key="Mandan Indians">Mandens</name> on S. S.    their is about 40 houses or lodges in this village which are built much in the manner of the <name type="native_nation" key="Arikara Indians">Rekarees</name>.    we found two or 3 frenchmen<ref target="n08102709" n="9"/>    one of them kept a Squaw &amp; had a child by hir which was tollorable white.    we delayed about 2 hours with them.    they were assembled on the bank, especially the children, who are verry numerous.    the men mostly a hunting.    we proceeded on    passed a Bluff on the S. S. with a black Stripe through the center of it resembling Stone coal, a bottom opposite on N. S. on which is the 2d village of the <name type="native_nation" key="Mandan Indians">Mandens</name>.<ref target="n08102710" n="10"/>    we Camped on N. S. little above the 2 village.    the 3rd village nearly opposite on S. S.<ref target="n08102711" n="11"/>    this is the most conveneint place to hold a counsel with the whole nation.    we hoisted a flag pole &amp;.C.    from the mouth of the <name type="place" key="Missouri River">Missouri</name> to this place is 1610 miles.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-27.04" n="lc.geo.1804-10-27.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 27th.</hi>    The morning was clear and pleasant and we set out early. At half past seven we arrived at the first village of the <name type="native_nation" key="Mandan Indians">Mandans</name>,<ref target="n08102712" n="12"/> and halted about two hours. This village contains 40 or 50 lodges built in the manner of those of the <name type="native_nation" key="Arikara Indians">Rickarees</name>. These Indians have better complexions than most other Indians, and some of the children have fair hair.<ref target="n08102713" n="13"/> We passed a bluff on the south side with a stratum of black resembling coal. There is a bottom on the north side, where the second <name type="native_nation" key="Mandan Indians">Mandan</name> village<ref target="n08102714" n="14"/> is situated. We went about a mile above it, and encamped<ref target="n08102715" n="15"/> in the same bottom, for the purpose of holding a council with the natives. This place is 1610 miles from the mouth of the <name type="place" key="Dubois River">river du Bois</name>, where we first embarked to proceed on the expedition. There are about the same number of lodges, and people, in this village as in the first. These people do not bury their dead, but place the body on a scaffold, wrapped in a buffaloe robe, where it lies exposed.<ref target="n08102716" n="16"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-27.05" n="lc.geo.1804-10-27.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>	
+Saturday October 27th    We had pleasant weather, and we set out early, and proceeded on our Voyage.    at 7 o'Clock A. M. we came to the first Village of the <name type="native_nation" key="Mandan Indians">Mandan</name> nation of Indians, This Village contain'd between 50 &amp; 60 lodges, built in the same form that the <name type="native_nation" key="Arikara Indians">Rick A Ree</name> Indian lodges were built, and is situated on a high plain, which 〈is〉 lay on the South side of the <name type="place" key="Missouri River">Mesouri River</name>,—    The <name type="native_nation" key="Mandan Indians">Mandan</name> Indians are in general Stout, well made Men; and they are the lighest coulour'd Indians I ever saw, We stopped at this Village about 2 hours, and then proceeded on, about one Mile above the 2nd Village of the <name type="native_nation" key="Mandan Indians">Mandans</name>, and encamped on a lage Sand beach, near a bottom covered with Timber, The officers had encamped here in Order to hold a Council with the <name type="native_nation" key="Mandan Indians">Mandan</name> nation &amp; the <name type="native_nation" key="Hidatsa Indians">Gross Vaunter</name> &amp; <name type="native_nation" key="Hidatsa Indians, Awaxawi">Water Soix</name>
+                  <ref target="n08102717" n="17"/> nation of Indians who all reside near each other, and are friendly to one another, These Indians do not bury their deceas'd as the other nations living on the <name type="place" key="Missouri River">Mesouri</name> do, The manner in which they treat them, is by placing them on a high Scaffold, wrapped up in Buffalo Robes, we saw Several of their deceased placed on Scaffolds, and was inform'd of it being their custom by the Interpreters among us.—    It was about 11 o'Clock A. M., when we arrived at this place, the distance from where we enter'd the Mouth of the <name type="place" key="Missouri River">Mesouri River</name> being 1,610 Miles.—
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n08102701" n="1">
+               <name type="person" key="Jusseaume, René">Rene Jusseaume</name>, or <name type="person" key="Jusseaume, René">Jessaume</name>, was a free trader who in 1804 had lived with the <name type="native_nation" key="Mandan Indians">Mandans</name> for about fifteen years, drawing his goods on credit from the North West Company. He told <name type="person" key="Clark, William">Clark</name> he had been a spy for <name type="person" key="Clark, George Rogers">George Rogers Clark</name> in the <name type="place" key="Illinois">Illinois</name> country during the Revolutionary War. He acted as <name type="native_nation" key="Mandan Indians">Mandan</name> interpreter for many persons, but apparently was not considered a good one. He seems to have participated fully in the social and ceremonial life of the <name type="native_nation" key="Mandan Indians">Mandans</name>, which may account for some of the low opinions whites expressed of him. <name type="person" key="Evans, John Thomas">Evans</name> thought that <name type="person" key="Jusseaume, René">Jusseaume</name> planned his murder in 1796, when <name type="person" key="Evans, John Thomas">Evans</name> tried to exclude him from the Indian trade. <name type="person" key="Thompson, David">David Thompson</name>, whom he accompanied to the <name type="native_nation" key="Mandan Indians">Mandans</name> in 1797, was not impressed with his character, and <name type="person" key="Henry, Alexander (younger)">Alexander Henry the Younger</name> called him "that old sneaking cheat." <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> also found him "assumeing and discont'd." Nevertheless they hired him to accompany <name type="person" key="Big White (Sheheke)">Sheheke</name> (<name type="person" key="Big White (Sheheke)">Big White</name>), the <name type="native_nation" key="Mandan Indians">Mandan</name> chief, to Washington as interpreter in 1806. During the attempted return of that chief in 1807, which was stopped by the <name type="native_nation" key="Arikara Indians">Arikaras</name>, <name type="person" key="Jusseaume, René">Jusseaume</name> suffered a crippling wound and petitioned <name type="person" key="Jefferson, Thomas">Jefferson</name> for a pension. In 1809 he apprenticed his thirteen-year old son to <name type="person" key="Lewis, Meriwether">Lewis</name>, to provide for the boy's education. He was still alive at the time of <name type="person" key="Maximilian, Alexander Philip">Maximilian's</name> visit to the <name type="native_nation" key="Mandan Indians">Mandans</name> in 1833–34, and was still not considered a really good interpreter. Coues (NLEH), 1:333, 401; Glover, 160, 162, 171–72, 180; Masson, 1:294, 303, 376 and n., 377–78; Nasatir (BLC), 1:102–5, 496–97, passim.; Thwaites (EWT), 5:156–59, 167; Luttig, 74, 77; Williams; Speck, 71–78; <name type="person" key="Pryor, Nathaniel Hale">Nathaniel Pryor</name> to <name type="person" key="Clark, William">Clark</name>, October 16, 1807, Jackson (LLC), 2:436, 438 n. 8.</note>
+            <note xml:id="n08102702" n="2">
+               <name type="place" key="Ruptáre (Rooptahee) village">Rooptahee</name> (Ruptáre, Nuptadi), in <name type="place" key="McLean County, N. Dak.">McLean County</name>, <name type="place" key="North Dakota">North Dakota</name>. It has been destroyed by river changes and no trace of it can be found today. It is called the <name type="place" key="Black Cat site">Black Cat site</name>, after the village chief. The camp was on the same side of the river, north of <name type="place" key="Ruptáre (Rooptahee) village">Ruptare</name> and opposite the present site of <name type="place" key="Stanton, N. Dak.">Stanton</name>, <name type="place" key="Mercer County, N. Dak.">Mercer County</name>, <name type="place" key="North Dakota">North Dakota</name>. See <ref n="1804-10-26" type="related">fig. 4</ref>. Appleman (LC), 342; Wood (OHI), 10–11; Ronda (LCAI), 67–132; <hi rend="italic">North Dakota Guide</hi>, 317; <hi rend="italic">Atlas</hi> map 29; MRC map 52.</note>
+            <note xml:id="n08102703" n="3">
+               <name type="place" key="Mahawha (Marharha) village">Mahawha</name> (apparently a <name type="native_nation" key="Mandan Indians">Mandan</name> name, <hi rend="italic">ma<seg n="u331">ŋ</seg>xáxa</hi>, "spread out place"), on the site of present <name type="place" key="Stanton, N. Dak.">Stanton</name>; see <hi rend="italic">Atlas</hi> map 29. It is called the <name type="place" key="Amahami site">Amahami site</name> but is largely destroyed by buildings in <name type="place" key="Stanton, N. Dak.">Stanton</name>, principally the <name type="place" key="Mercer County, N. Dak.">Mercer County</name> Courthouse. See <ref n="1804-10-26" type="related">fig. 4</ref>. Its inhabitants were the members of one of the three commonly recognized divisions of the <name type="native_nation" key="Hidatsa Indians">Hidatsa</name>, or <name type="native_nation" key="Hidatsa Indians">Minitari</name>, tribe. The captains recognized that the people of this village were somewhat distinct from the <name type="native_nation" key="Hidatsa Indians">Minitaris</name>, though allied with them. This small group had a multitude of names; <name type="person" key="Clark, William">Clark</name> at various times called them <name type="native_nation" key="Hidatsa Indians, Awaxawi">Ahnahaways</name>, <name type="native_nation" key="Hidatsa Indians, Awaxawi">Ahwahaways</name>, <name type="native_nation" key="Hidatsa Indians, Awaxawi">Gens de Soulier</name>, <name type="native_nation" key="Hidatsa Indians, Awaxawi">Mahaha</name>, <name type="native_nation" key="Hidatsa Indians, Awaxawi">Maharhar</name>, <name type="native_nation" key="Hidatsa Indians, Awaxawi">Shoe</name> Indians, <name type="native_nation" key="Hidatsa Indians, Awaxawi">Soulier Noir (Black Shoe)</name>, and <name type="native_nation" key="Hidatsa Indians, Awaxawi">Watersoons</name>, among other names. The last may come from an <name type="native_nation" key="Arikara Indians">Arikara</name> designation, <hi rend="italic">wiitatshaánu'</hi>. The name Amahami ("mountainous country") gained acceptance from Washington Matthews's ethnographic studies; Alfred Bowers calls them the <name type="native_nation" key="Hidatsa Indians, Awaxawi">Awaxawi</name>. The different spellings reflect two orthographic systems; the term may be related to the <name type="native_nation" key="Hidatsa Indians">Hidatsa</name> word <hi rend="italic">awaxáawi</hi>, "mountain." Their dialect was distinct from that of the other two <name type="native_nation" key="Hidatsa Indians">Hidatsa</name> village groups, though all three understood each other readily; all belonged to the Siouan language family. The <name type="native_nation" key="Hidatsa Indians, Awaxawi">Awaxawi</name> said they came to the <name type="place" key="Missouri River">Missouri River</name> from eastern <name type="place" key="North Dakota">North Dakota</name>. Hodge, 1:47, 547–49; Bowers (HSCO); Wood (OHI); Ronda (LCAI), 67–132; Meyer; Matthews.</note>
+            <note xml:id="n08102704" n="4">With this line the Field Notes entry of October 27 continues on document 62. <name type="person" key="Biddle, Nicholas">Biddle's</name> note at the top of the page reads "Octo. part of 27 &amp; 29 Octo. 1804."</note>
+            <note xml:id="n08102705" n="5">
+               <name type="person" key="Clark, William">Clark's</name> "<name type="place" key="Michilimackinac Island">Michillinicknac</name>" is likely  <name type="place" key="Michilimackinac Island">Fort Michilimackinac</name> located at modern <name type="place" key="Saint Ignace, Mich.">St. Ignace</name>, <name type="place" key="Mackinac County, Mich.">Mackinac County</name>, <name type="place" key="Michigan">Michigan</name>, and controlled by the British from 1761 to 1781.</note>
+            <note xml:id="n08102706" n="6">These courses are for <name type="person" key="Clark, William">Clark's</name> trip above the villages on <ref n="1804-10-30" type="related">October 30</ref>, repeated in Codex C (for that date).</note>
+            <note xml:id="n08102707" n="7">
+               <name type="place" key="Knife River">Knife River</name> reaches the <name type="place" key="Missouri River">Missouri</name> in <name type="place" key="Mercer County, N. Dak.">Mercer County</name>. <hi rend="italic">Atlas</hi> map 29; MRC map 52.</note>
+            <note xml:id="n08102708" n="8">"<name type="native_nation" key="Hidatsa Indians">Big Bellies</name>" is a literal translation of the French <hi rend="italic">
+                  <name type="native_nation" key="Hidatsa Indians">gros ventres</name>
+               </hi>, otherwise known as the <name type="native_nation" key="Hidatsa Indians">Minitaris</name>, and now called the <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>. The term <name type="native_nation" key="Hidatsa Indians">Hidatsa</name> may come from <hi rend="italic">hiráaca</hi> with an uncertain etymology. <name type="native_nation" key="Hidatsa Indians">Minitari</name> is from <hi rend="italic">m<hi rend="superscript">i</hi>
+                  <seg n="u331">ŋ</seg>intari</hi> (literally, "water ford"), the <name type="native_nation" key="Mandan Indians">Mandan</name> designation for the <name type="native_nation" key="Hidatsa Indians">Hidatsas</name> based on a loan word borrowed from the <name type="native_nation" key="Hidatsa Indians">Hidatsa</name> language. <name type="person" key="Clark, William">Clark</name> uses all the first three names, in various spellings. The name <name type="native_nation" key="Hidatsa Indians">Gros Ventres</name> apparently derived from the Plains sign language designation for these people, which used both hands to indicate an expanded stomach. Travelers' accounts made the point that the tribe had no larger stomachs than others. The name has been a fruitful source of confusion, since "Gros Ventres" was a name also applied to the <name type="native_nation" key="Atsina Indians">Atsinas</name>, a nomadic tribe of Algonquian language stock who apparently broke away from the <name type="native_nation" key="Arapaho Indians">Arapahoes</name> and lived well to the west of the <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>. Nineteenth-century writers attempted to resolve the confusion by distinguishing between the "Gros Ventres of the <name type="place" key="Missouri River">Missouri</name>" (<name type="native_nation" key="Hidatsa Indians">Hidatsas</name>) and the "Gros Ventres of the Prairie" (<name type="native_nation" key="Atsina Indians">Atsinas</name>). The <name type="native_nation" key="Hidatsa Indians">Hidatsas</name> were of Siouan language family and lived in sedentary farming villages of earth lodges in <name type="place" key="North Dakota">North Dakota</name>. <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> found the <name type="native_nation" key="Hidatsa Indians">Hidatsas</name> in three villages near the mouth of <name type="place" key="Knife River">Knife River</name>, in <name type="place" key="Mercer County, N. Dak.">Mercer County</name>. The first was that of the Amahami, or Awaxawi, described in a separate note above. Second going upstream was <name type="place" key="Sakakawea site">Metaharta</name>, also called the <name type="place" key="Sakakawea site">Sakakawea site</name> from its association with <name type="person" key="Sacagawea">Sacagawea</name>, the captains' <name type="native_nation" key="Shoshone Indians">Shoshone</name> interpreter. The third village was <name type="place" key="Big Hidatsa site">Big Hidatsa site</name>, home of the <name type="native_nation" key="Hidatsa Indians">Hidatsas</name> proper. The captains frequently referred to the <name type="native_nation" key="Mandan Indians">Mandan</name> and <name type="native_nation" key="Hidatsa Indians">Hidatsa</name> villages by numbers from south to north; the <name type="native_nation" key="Mandan Indians">Mandan</name> villages were numbers 1 and 2, so the <name type="native_nation" key="Hidatsa Indians, Awaxawi">Awaxawi</name> village was number 3, Metaharta number 4, and <name type="place" key="Big Hidatsa site">Big Hidatsa</name> number 5. See <hi rend="italic">Atlas</hi> maps 29, 46, 55, and fig. 4. While ethnologists speak of one people called <name type="native_nation" key="Hidatsa Indians">Minitaris</name> or <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>, there were at least three divisions within these people, corresponding roughly to the three villages, each conscious of being somewhat different in language, culture, and antecedents. In the southernmost village were the <name type="native_nation" key="Hidatsa Indians, Awaxawi">Awaxawi</name>. The other two groups, distinct yet more closely allied in culture and language than were the <name type="native_nation" key="Hidatsa Indians, Awaxawi">Awaxawi</name>, were the <name type="native_nation" key="Hidatsa Indians">Hidatsas</name> proper at <name type="place" key="Big Hidatsa site">Big Hidatsa</name>, the northern village, and the <name type="native_nation" key="Hidatsa Indians, Awatixa">Awatixa</name>, at <name type="place" key="Sakakawea site">Metaharta</name>, the middle village. <name type="native_nation" key="Hidatsa Indians, Awatixa">Awatixa</name> is a <name type="native_nation" key="Hidatsa Indians">Hidatsa</name> name, <hi rend="italic">awatìxáa</hi>, "high village," while <name type="place" key="Sakakawea site">Metaharta</name> is a <name type="native_nation" key="Mandan Indians">Mandan</name> term, <hi rend="italic">mi<seg n="u331">ŋ</seg>'tixata</hi>, "village spread out." The <name type="native_nation" key="Hidatsa Indians, Awatixa">Awatixa</name> claimed that they had always lived on the <name type="place" key="Missouri River">Missouri</name>, which suggests residence there beyond traditional memory. The <name type="native_nation" key="Hidatsa Indians">Hidatsas</name> proper, like the <name type="native_nation" key="Hidatsa Indians, Awaxawi">Awaxawi</name>, said they came from eastern <name type="place" key="North Dakota">North Dakota</name>, the former being the last to arrive. Apparently the <name type="native_nation" key="Hidatsa Indians, Awaxawi">Awaxawi</name> and <name type="native_nation" key="Hidatsa Indians">Hidatsas</name> proper lived near the mouth of <name type="place" key="Heart (Ches-che-tar and similar spellings) River">Heart River</name> before moving north to the <name type="place" key="Knife River">Knife River</name>, where all three groups were established by 1787. A further complication is that archaeologists cannot distinguish between prehistoric <name type="native_nation" key="Hidatsa Indians">Hidatsa</name> sites and those of the <name type="native_nation" key="Mandan Indians">Mandans</name> on the basis of artifacts. This suggests long association and close cultural connections between the two peoples, in spite of their own awareness of distinctiveness. All of these groups suffered from the great smallpox epidemic of the 1780s and from <name type="native_nation" key="Sioux Indians">Sioux</name> attacks. Reduction of population and the need for a defensive alliance were no doubt responsible, at least in part, for the five <name type="native_nation" key="Mandan Indians">Mandan</name> and <name type="native_nation" key="Hidatsa Indians">Hidatsa</name> villages drawing closer together in the late eighteenth century. All of these groups were sedentary farmers in permanent earth lodge villages who hunted to supplement their agricultural products. However, the <name type="native_nation" key="Hidatsa Indians">Hidatsas</name> proper are said to have learned corn growing from the <name type="native_nation" key="Mandan Indians">Mandans</name> after they reached the <name type="place" key="Missouri River">Missouri</name>, and even at the time of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> were apparently semi-nomadic. All the <name type="native_nation" key="Hidatsa Indians">Hidatsas</name> seem to have had a stronger military tradition than the <name type="native_nation" key="Mandan Indians">Mandans</name>. <name type="person" key="Bradbury, John">John Bradbury</name> noted in 1809 that the <name type="native_nation" key="Hidatsa Indians, Awaxawi">Awaxawi</name> had only fifty warriors, yet they, like the others, carried out raids against the <name type="native_nation" key="Shoshone Indians">Shoshones</name> and <name type="native_nation" key="Flathead Indians">Flatheads</name> in the <name type="place" key="Rocky Mountains">Rockies</name>. It was in one of these <name type="native_nation" key="Hidatsa Indians">Hidatsa</name> raids that <name type="person" key="Sacagawea">Sacagawea</name> was captured. The smallpox epidemic of 1837 further reduced the <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>; <name type="place" key="Sakakawea village">Metaharta</name> and the <name type="native_nation" key="Hidatsa Indians, Awaxawi">Awaxawi</name> village were destroyed by the <name type="native_nation" key="Sioux Indians">Sioux</name> in 1834. After the epidemic the <name type="native_nation" key="Hidatsa Indians">Hidatsas</name> absorbed the remnants of the <name type="native_nation" key="Mandan Indians">Mandans</name> and moved to <name type="place" key="Like-a-Fishhook village">Like-a-Fishhook village</name>, near the <name type="place" key="Fort Berthold (N. Dak.)">Fort Berthold</name> trading post, in 1845. The <name type="native_nation" key="Arikara Indians">Arikaras</name> joined them there and the defensive alliance of the three tribes, proposed by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>, was finally consummated. The "Three Affiliated Tribes" still live at <name type="place" key="Fort Berthold Reservation (N. Dak.)">Fort Berthold Reservation</name>, <name type="place" key="North Dakota">North Dakota</name>. Hodge, 1:47, 547–49; Bowers (HSCO); Wood (OHI); Ronda (LCAI), 67–132; Smith (LAFV); Meyer; Thwaites (EWT), 5:163; Catlin (NAI), 1:185–202; Matthews; <name type="person" key="Clark, William">Clark</name>, 193–97.</note>
+            <note xml:id="n08102709" n="9">One of them was <name type="person" key="Jusseaume, René">Rene Jusseaume</name>, or <name type="person" key="Jusseaume, René">Jessaume</name>, a free trader. See <name type="person" key="Clark, William">Clark's</name> entry for this day.</note>
+            <note xml:id="n08102710" n="10">The <name type="native_nation" key="Mandan Indians">Mandan</name> village <name type="place" key="Ruptáre (Rooptahee) village">Ruptáre</name>, <name type="place" key="McLean County, N. Dak.">McLean County</name>, <name type="place" key="North Dakota">North Dakota</name>, called the <name type="place" key="Black Cat site">Black Cat site</name> after the village chief. It has been destroyed by river changes.</note>
+            <note xml:id="n08102711" n="11">The <name type="native_nation" key="Hidatsa Indians">Hidatsa</name> village <name type="place" key="Mahawha (Marharha) village">Mahawha</name>, in <name type="place" key="Stanton, N. Dak.">Stanton</name>, <name type="place" key="Mercer County, N. Dak.">Mercer County</name>, called the <name type="place" key="Amahami site">Amahami site</name> after their band designation, a group also designated as the <name type="native_nation" key="Hidatsa Indians, Awaxawi">Awaxawi</name>.</note>
+            <note xml:id="n08102712" n="12">
+               <name type="place" key="Mitutanka (Matootonha) village">Mitutanka village</name>, <name type="person" key="Clark, William">Clark's</name>
+               <name type="place" key="Mitutanka (Matootonha) village">Matootonha</name>, but known to archaeologists as the <name type="place" key="Deapolis site">Deapolis site</name>, <name type="place" key="Mercer County, N. Dak.">Mercer County</name>, <name type="place" key="North Dakota">North Dakota</name>.</note>
+            <note xml:id="n08102713" n="13">This trait led to speculation that the <name type="native_nation" key="Mandan Indians">Mandans</name> were the fabled <name type="native_nation" key="Welsh Indians">Welsh Indians</name>.</note>
+            <note xml:id="n08102714" n="14">
+               <name type="place" key="Ruptáre (Rooptahee) village">Rooptahee</name> to <name type="person" key="Clark, William">Clark</name>, otherwise <name type="place" key="Ruptáre (Rooptahee) village">Ruptáre village</name>, <name type="place" key="McLean County, N. Dak.">McLean County</name>, <name type="place" key="North Dakota">North Dakota</name>. Archaeologists call it the <name type="place" key="Black Cat site">Black Cat site</name> after the village chief.</note>
+            <note xml:id="n08102715" n="15">North of <name type="place" key="Ruptáre (Rooptahee) village">Ruptáre</name>, <name type="place" key="McLean County, N. Dak.">McLean County</name>, opposite <name type="place" key="Stanton, N. Dak.">Stanton</name>, <name type="place" key="Mercer County, N. Dak.">Mercer County</name>.</note>
+            <note xml:id="n08102716" n="16">
+               <name type="person" key="McKeehan, David">McKeehan's</name> note: "See <name type="person" key="Mackenzie, Alexander">Mackenzie's</name> account of the funeral rites of the <name type="place" key="Cree Indians">Knisteneaux</name>, in his General History of the Fur Trade."</note>
+            <note xml:id="n08102717" n="17">Another interesting variation by <name type="person" key="Whitehouse, Joseph">Whitehouse</name> or his scribe. The writer is using the French term <hi rend="italic">
+                  <name type="native_nation" key="Hidatsa Indians">Gros Ventres</name>,</hi> "<name type="native_nation" key="Hidatsa Indians">big bellies</name>," who were also called <name type="native_nation" key="Hidatsa Indians, Awaxawi">Watersoons</name> (spelled variously); they are <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-10-26" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-10-28" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

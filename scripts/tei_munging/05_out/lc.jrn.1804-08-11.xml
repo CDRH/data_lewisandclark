@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-08-11">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 11, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">467-471</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">37, 394</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">27</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">54</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-08-11.01">
+            <placeName/>
+            <geo>42.1437 -96.2288</geo>
+            <note>In the vicinity of Badger Lake, IA, due to the dramatic change in the river</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-02-20</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-08-11">August 11, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-08-11.01" n="lc.geo.1804-08-11.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">August 11th Satturday 1804</hi>    about day this morning a hard wind from the N. W. followed by rain, we landed at the foot of the hill on which <name type="person" key="Blackbird">Black Bird</name>
+                  <ref target="n05081101" n="1"/> The late King of the <name type="native_nation" key="Omaha Indians">mahar</name> who Died 4 years ago &amp; 400 of his nation with the Small pox was buried (1) and went up and fixed a white flag bound with Blue white &amp; read<ref target="n05081102" n="2"/> on the Grave which was about 12 foot Base &amp; circueller, on the top of a Penical about 300 foot above the water of the river, from the top of this hill may be Seen the bends or meanderings of the river for 60 or 70 miles round &amp; all the County around the  base of this high land is a Soft Sand Stone<ref target="n05081103" n="3"/>    Bluff of about 40 or 150 foot, the Crooked, passed a Creek Called <name type="place" key="Blackbird (Wau-Condi peche, Bad Spirit) Creek">
+                     <hi rend="italic">Wau-Con di peche</hi>
+                  </name> C or <name type="place" key="Blackbird (Wau-Condi peche, Bad Spirit) Creek">
+                     <hi rend="italic">Bad God</hi> Creek</name> of bad Spirits on the L. S<ref target="n05081104" n="4"/>    above the Bluff on this Creek the <name type="native_nation" key="Omaha Indians">Mahars</name> had the Small pox 〈&amp; 400 of them Died〉 4 years ago, <hi rend="italic">Lattitude 42° 1' 3" 8/10</hi> taken on the Point above the Creek.    the river is verry Crooked, we are now within ¾ of a mile of the river at a place we Shall not get around to untill tomorrow noon—    We er [are] 3 Legues from the <name type="native_nation" key="Omaha Indians">Mahars</name> by land the great deel of Beaver sign induce a belief that those people do not hunt much.</p>
+               <p>
+                  <table rows="10" cols="3">
+                     <head>
+                        <hi rend="italic">Course &amp; Dis. Augt 11th</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 52°  W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">me. on the Sand point S. S. of the Sand Island     Wind N. W</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 25 W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. of low willows from a L. pt. passing over a<lb/>
+Sand bar from the Sd. pt.    psd. the Isd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 72 W.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ¼</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. on the S. S.    Willows opposit the high pt of<lb/>
+land which the <name type="native_nation" key="Omaha Indians">Maha</name> King was bured <name type="person" key="Lewis, Meriwether">Cap Louis</name> and my<lb/>
+Self went up, &amp; fixed a whit Flag on the grave    a wind &amp;<lb/>
+rain Strike in from S</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 24 W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">Me. on the Side of the willows S. S.    a Sand bar    passed a<lb/>
+Creek on the (1) L. S. called <name type="place" key="Blackbird (Wau-Condi peche, Bad Spirit) Creek">
+                              <hi rend="italic">Wau con di Peeche Great</hi>
+                           </name> Spirrit<lb/>
+is bad</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 81 E</cell>
+                        <cell role="data" rows="1" cols="1">  2 ¾</cell>
+                        <cell role="data" rows="1" cols="1">ms. to the begining of a pt. of willows on the L. S.    at the<lb/>
+comencement of this Course is a Small channel passing<lb/>
+about half way thro a Prarie from a bend to the L. S.<lb/>
+within ¾ a mile and [<hi rend="italic">blank</hi>] miles round the point    <hi rend="italic">The<lb/>
+Flag</hi> bore S. 12° E.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 84° E.</cell>
+                        <cell role="data" rows="1" cols="1">  6</cell>
+                        <cell role="data" rows="1" cols="1">ms. to the high wood above, a Prarie in the bend on S. S<lb/>
+the river wide &amp; Shallow.    the wood is opsd. a pt</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 22° E</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. of willows on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¾</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a Cotton tree in a bind to the S. S. haveing passd. a<lb/>
+Sand pt. from the L. Side &amp; camped on the L. S.<ref target="n05081105" n="5"/>    <name type="person" key="Lewis, Meriwether">Cap<lb/>
+Lewis</name> Killed a Duck.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 45 W</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  1 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">me. to a Sand Pt. on the L. Side.    a number of Blue crains<lb/>
+flying over</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">17 ½</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+I have observed a number of places where the river has Changd its Bead at different times</p>
+               <p>
+                  <table rows="11" cols="7">
+                     <head>Time &amp; Dist. the Moon &amp; Sun</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">H</cell>
+                        <cell role="data" rows="1" cols="1">  m</cell>
+                        <cell role="data" rows="1" cols="1">  s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">13</cell>
+                        <cell role="data" rows="1" cols="1">45</cell>
+                        <cell role="data" rows="1" cols="1">   </cell>
+                        <cell role="data" rows="1" cols="1">73°</cell>
+                        <cell role="data" rows="1" cols="1">  6'</cell>
+                        <cell role="data" rows="1" cols="1">45"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">16</cell>
+                        <cell role="data" rows="1" cols="1">48</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">73</cell>
+                        <cell role="data" rows="1" cols="1">  6</cell>
+                        <cell role="data" rows="1" cols="1">  0</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">18</cell>
+                        <cell role="data" rows="1" cols="1">39</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">73</cell>
+                        <cell role="data" rows="1" cols="1">  6</cell>
+                        <cell role="data" rows="1" cols="1">  0</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">20</cell>
+                        <cell role="data" rows="1" cols="1">55</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">73</cell>
+                        <cell role="data" rows="1" cols="1">  7</cell>
+                        <cell role="data" rows="1" cols="1">45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">22</cell>
+                        <cell role="data" rows="1" cols="1">25</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">73</cell>
+                        <cell role="data" rows="1" cols="1">  8</cell>
+                        <cell role="data" rows="1" cols="1">30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">24</cell>
+                        <cell role="data" rows="1" cols="1">24</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">73</cell>
+                        <cell role="data" rows="1" cols="1">  9</cell>
+                        <cell role="data" rows="1" cols="1">30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">25</cell>
+                        <cell role="data" rows="1" cols="1">45</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">73</cell>
+                        <cell role="data" rows="1" cols="1">  9</cell>
+                        <cell role="data" rows="1" cols="1">30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">27</cell>
+                        <cell role="data" rows="1" cols="1">43</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">73</cell>
+                        <cell role="data" rows="1" cols="1">10</cell>
+                        <cell role="data" rows="1" cols="1">45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">29</cell>
+                        <cell role="data" rows="1" cols="1">33</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">73</cell>
+                        <cell role="data" rows="1" cols="1">11</cell>
+                        <cell role="data" rows="1" cols="1">30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">31</cell>
+                        <cell role="data" rows="1" cols="1">30</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">73</cell>
+                        <cell role="data" rows="1" cols="1">12</cell>
+                        <cell role="data" rows="1" cols="1">  0</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-11.02" n="lc.geo.1804-08-11.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>11th August Satturday 1804.</date>
+               </ab>
+               <p>
+about day light this Morning a hard wind from the N W. with Some rain    proceeded on arround the right of the Isld.</p>
+               <p>
+                  <table rows="3" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 52°  W.</cell>
+                        <cell role="data" rows="1" cols="1">  ½</cell>
+                        <cell role="data" rows="1" cols="1">a mile on the Sand pt.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 25 W.</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">Ms. to a pt. of low willows from the L. S.    passd. the Isd.<lb/>
+&amp; a Sand bar makeing from the S. point</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 72 W.</cell>
+                        <cell role="data" rows="1" cols="1">2 ¼</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. on the S. S.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>	
+a hard wind accompanied with rain from the S. E.    after the rain was over <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> myself &amp; 10 men<ref target="n05081106" n="6"/> assended the Hill on the L. S. under which there was Some fine Springs to the top of a high point where the <hi rend="italic">
+                     <name type="native_nation" key="Omaha Indians">Mahars</name> King </hi>
+                  <name type="person" key="Blackbird">
+                     <hi rend="italic">Black</hi> Bird</name> was burried 4 years ago.    a mound of earth about 12 Diamuter at the base &amp; 6 feet high is raised over him turfed, and a pole 8 feet high in the Center    on this pole we fixed a white flage bound with red Blue &amp; white; this hill about 300 feet above the water forming a 〈Clift〉 Bluff between that &amp; the Water of Various hight from 40 to 150 feet in hight yellow Soft Sand Stone    [<hi rend="italic">WC: Died of Smallpox</hi>]<ref target="n05081107" n="7"/>    〈we return〉 from the tops of this Nole the river may be Seen Meandering for 60 or 70 Miles, we Decended &amp; Set out N. 24 to W. ½ me. passing over a Sand bar on the S. pt. along the Willows.    to the river opposit a Small Beyeau on the L. S. which is the Conveyance of the high water from a bend which appears near in a northerly direction, haveing passed a Creek in a Deep bend to the L. S. Called by the <hi rend="italic">
+                     <name type="native_nation" key="Omaha Indians">Mahars</name>
+                     <name type="place" key="Blackbird (Wau-Condi peche, Bad Spirit) Creek">Wau can di Peeche</name>
+                  </hi>
+                  <name type="place" key="Blackbird (Wau-Condi peche, Bad Spirit) Creek">(Great Spirrit is bad)</name> on this Creek &amp; Hills near it about 400 of the <name type="native_nation" key="Omaha Indians">Mahar</name> Died with the Small Pox—    Took Medn. <hi rend="italic">Altitude</hi> &amp; made the Latd.    <hi rend="italic">42° 1' 3" 8/10 N.    also the Moons Distanc from the Sun</hi>
+               </p>
+               <p>
+                  <table rows="12" cols="4">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">Time</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">   </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">Distance</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">H    m    s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">d.      m.     S</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">P M</cell>
+                        <cell role="data" rows="1" cols="1">1    13    45</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">73      6    45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    16    48</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">73      6      0</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    18    39</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  "      6      0</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    20    55</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  "      7    45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    22    25</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  "      8    30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    24    24</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  "      9    30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    25    45</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  "      9    30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    27    45</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  "    10    45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    29    33</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  "    11    30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    31    30</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  "    12    00</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="5" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 81° E</cell>
+                        <cell role="data" rows="1" cols="1">  2 ¾</cell>
+                        <cell role="data" rows="1" cols="1">Miles to the beginning of willows on the L. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 84° E.</cell>
+                        <cell role="data" rows="1" cols="1">  6</cell>
+                        <cell role="data" rows="1" cols="1">miles to a high wood above a Prarie on the S. S. opposit a<lb/>
+Sand point</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 22° E.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a pt. of willows on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  1 ¾</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">to a Cotton tree in a bend to the Starboard Side    passed a<lb/>
+Sand bar on the L. S. &amp; Camped    the Musqutors Verry<lb/>
+troublesom    Great nos of Herrons this evening<ref target="n05081108" n="8"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">miles</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">17</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+I have observed a number of places where the River has onced run and now filled or filling up &amp; growing with willows &amp; cottonwood</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-11.03" n="lc.geo.1804-08-11.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="right">
+                        <hi rend="italic">(Point of observation No. 30.)<lb/>
+Saterday August 11th</hi>
+                        <ref target="n05081109" n="9"/>
+                     </hi>
+                  </date>
+               </ab>
+               <p>
+On the starboard shore one mile above the mouth of the <hi rend="italic">
+                     <name type="place" key="Blackbird (Wau-Condi peche, Bad Spirit) Creek">Creek of Evil Sperits</name>.</hi>
+               </p>
+               <p>
+Observed Meridian Altd. of <seg n="u9737">☉</seg>'s L. L. with Octant by the back observatn.    58° 31' —"</p>
+               <p>
+Latitude deduced from this observtn.    42° 1' 3.8"</p>
+               <p>
+Observed time and distance of <seg n="u9737">☉</seg>'s and <seg n="u9789">☽</seg>'s nearest limbs; the West.—  with Sextant.</p>
+               <p>
+                  <table rows="10" cols="8">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h</cell>
+                        <cell role="data" rows="1" cols="1">m</cell>
+                        <cell role="data" rows="1" cols="1">s</cell>
+                        <cell role="data" rows="1" cols="1">   </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">P.M.</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">13</cell>
+                        <cell role="data" rows="1" cols="1">45</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">73°</cell>
+                        <cell role="data" rows="1" cols="1">  6'</cell>
+                        <cell role="data" rows="1" cols="1">45"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">16</cell>
+                        <cell role="data" rows="1" cols="1">48</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">  6</cell>
+                        <cell role="data" rows="1" cols="1">—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">18</cell>
+                        <cell role="data" rows="1" cols="1">39</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">  7</cell>
+                        <cell role="data" rows="1" cols="1">15</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">20</cell>
+                        <cell role="data" rows="1" cols="1">55</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">  7</cell>
+                        <cell role="data" rows="1" cols="1">45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">22</cell>
+                        <cell role="data" rows="1" cols="1">25</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">  8</cell>
+                        <cell role="data" rows="1" cols="1">30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">24</cell>
+                        <cell role="data" rows="1" cols="1">24</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">  9</cell>
+                        <cell role="data" rows="1" cols="1">30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">25</cell>
+                        <cell role="data" rows="1" cols="1">45</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">10</cell>
+                        <cell role="data" rows="1" cols="1">45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">27</cell>
+                        <cell role="data" rows="1" cols="1">43</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">11</cell>
+                        <cell role="data" rows="1" cols="1">30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">31</cell>
+                        <cell role="data" rows="1" cols="1">30</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">12</cell>
+                        <cell role="data" rows="1" cols="1">—</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-11.04" n="lc.geo.1804-08-11.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 11th</hi>    hard Showers this morning    comenced at day break &amp; 
+lasted &amp; detained us about an hour, hard wind from S. W. Succeeded it    we passed a Round knob on a high Ridge 300 feet high—    near the River S. S. Where we See a Grave where an Indian chief was buried 4 years ago called the <hi rend="italic">
+                     <name type="person" key="Blackbird">Black bird</name>
+                  </hi> of the <hi rend="italic">
+                     <name type="native_nation" key="Omaha Indians">Mahar</name>
+                  </hi> Nation.<ref target="n05081110" n="10"/>    this <name type="person" key="Blackbird">Black bird</name> was a great king among his people.    they carry him provision at certain times &amp;.C. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> &amp; <name type="person" key="Clark, William">Clark</name> went up to the grave &amp; carried a white flag &amp; put up on the pole which Stood over the grave, which was a round heap, (9 miles by land from below Nation)    we proceeded on    the wind hard    Some Thunder, the river verrey crooked, after we passed this hill we passed a bend of cottonwood Timber on N. S.    we came abot. 18 Miles &amp; camped on the N. S. in a bend of the River,
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-11.05" n="lc.geo.1804-08-11.01">
+            <sp who="cf">
+               <speaker>Floyd</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Satturday august 11th 1804    Set out after a verry hard Storm this morning of wind and Rain continued untill 9 oclock A m. and Cleard up    prosed on    passed <hi rend="italic">a high Bluff</hi>
+                  <ref target="n05081111" n="11"/> whare the Kinge of the <name type="native_nation" key="Omaha Indians">Mahas</name> Died <hi rend="italic">about 4 yeares ago</hi>
+                  <ref target="n05081112" n="12"/>    the Hill on which he is berred is about 300 feet High    the nathion Goes 2 or 3 times a year to Cryes over him    <name type="person" key="Lewis, Meriwether">Capt Lewis</name> and <name type="person" key="Clark, William">Clark</name> went up on the Hill to See 〈him〉 the Grave    thay histed a flage on his Grave as 〈present〉 noner [honor] for him which will pleas the Indianes, passed the mouth of a Creek on the South Side Called <name type="place" key="Blackbird (Wau-Condi peche, Bad Spirit) Creek">Waie Con Di Peeche</name> or the <name type="place" key="Blackbird (Wau-Condi peche, Bad Spirit) Creek">Grait Sperit is Bad</name>
+                  <ref target="n05081113" n="13"/> whare this Chief 〈Didd〉 died and about 300 Hundred of his men with the Small pox    this Chiefs name was <hi rend="italic">the <name type="person" key="Blackbird">Black Bird</name>
+                  </hi>
+                  <ref target="n05081114" n="14"/>    made 15 miles    Camped on the North Side
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-11.06" n="lc.geo.1804-08-11.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 11th.</hi>    A storm came on at three o'clock this morning and continued till nine, notwithstanding which, we kept under way till ten, when we came to a high bluff,<ref target="n05081115" n="15"/> where an Indian chief had been buried, and placed a flag upon a pole, which had been set up at his grave. His name was <name type="person" key="Blackbird">Blackbird</name>, king of the <name type="native_nation" key="Omaha Indians">Mahas</name>; an absolute monarch while living, and the Indians suppose can exercise the power of one though dead. We encamped in latitude 42d 1m 3s 3, as ascertained by observation.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-11.07" n="lc.geo.1804-08-11.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Sateday Augt 11    Rain Came On at the hour of 3 Oclock A. M.    a heavy wind blew after—    the Crafts got under way at 6 Oclock favourd. With a South Wind, Passd. a bluff whare the <name type="person" key="Blackbird">Black bird</name> the late King of the <name type="native_nation" key="Omaha Indians">Mahars</name> was buried 4 years ago    the Officers took a flagg with them and assended the hill which was 300 feet higher than the water    left the white flagg on a pole Stuck on his Grave.    Road 18 Miles on the E. S.</p>
+               <p>
+Saturday August 11th    At 3 o'Clock this morning we had a rain, which was very heavy, which was immediately succeeded with a smart breeze from the South.    at 6 oClock we set sail, and passed a bluff where the <name type="person" key="Blackbird">Black bird</name>, the late king of the <name type="native_nation" key="Omaha Indians">Mahaws</name> was buried about 4 Years before, the officers landed a small distance above the bluff, and took with them a White Flag, and ascended the Hill which was 300 feet higher than the surface of the water, and placed the flag which they had fix'd on a long pole stuck in the grave.    At 10 oClock A. M the officers embarked again    We proceeded on &amp; in the Evening encamped on the North<ref target="n05081116" n="16"/> side of the River.    The distance we sail'd this day being 18 Miles—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n05081101" n="1">
+               <name type="person" key="Blackbird">Blackbird</name> (<hi rend="italic">Wazhi<hi rend="superscript">n'</hi> ga<seg n="u231">ç</seg>abe</hi>) was a notorious character along the <name type="place" key="Missouri River">Missouri</name>, noted for his friendship with white traders and his strong rule over his own people. Under his leadership the <name type="native_nation" key="Omaha Indians">Omahas</name> rose to prominence on the eastern plains. Reports of his war deeds are mixed, but he seems to have had great authority because of his sorcery, especially in the deaths of the enemies who were likely killed by his use of poisons obtained from traders. Legend has it that he was buried seated on the back of his horse, on the hilltop where he used to watch for the coming of his friends the traders. Nasatir (BLC), 1:282–94; Appleman (LC), 334–35; Thwaites (EWT), 14:317–20, 22:277; Fletcher &amp; La Flesche, 1:82–83, 173; <hi rend="italic">Atlas</hi> map 15; MRC map 26; MRR map 72.</note>
+            <note xml:id="n05081102" n="2">
+               <name type="person" key="Clark, William">Clark</name> used an asterisk as a reference to the remainder of the daily narrative, which followed the courses and distances and astronomical observations. The material is brought together for ease of reading.</note>
+            <note xml:id="n05081103" n="3">The Dakota sandstone, basal Cretaceous, is exposed along streams and the <name type="place" key="Missouri River">Missouri River</name> bluffs.</note>
+            <note xml:id="n05081104" n="4">
+               <name type="place" key="Blackbird (Wau-Condi peche, Bad Spirit) Creek">Blackbird Creek</name> in <name type="place" key="Thurston County, Nebr.">Thurston County</name>, <name type="place" key="Nebraska">Nebraska</name>, southeast of present <name type="place" key="Macy, Nebr.">Macy</name>. The <name type="native_nation" key="Omaha Indians">Omaha</name> name may be <hi rend="italic">wako<hi rend="superscript">n'</hi>dagi pezhi te;</hi> Robert L. Rankin (personal communication) gives it as <hi rend="italic">wakk<seg n="u261">ą</seg>́da ppéži</hi> or "bad spirit." Fletcher &amp; La Flesche, 1:91; <hi rend="italic">Atlas</hi> map 15; MRC map 26; MRR map 73.</note>
+            <note xml:id="n05081105" n="5">The extreme bend of the <name type="place" key="Missouri River">Missouri River</name>, at whose eastern extremity they camped, has long since been cut off. Indeed, pencil marks on <hi rend="italic">Atlas</hi> map 15, probably by Prince Maximilian, indicate that it was already cut off when he passed that way in 1833. The campsite, therefore, is some miles east of the present course of the river, in <name type="place" key="Monona County, Iowa">Monona County</name>, <name type="place" key="Iowa">Iowa</name>, in the vicinity of present <name type="place" key="Badger Lake">Badger Lake</name>, apparently the river's old course. MRC map 26; MRR map 73.</note>
+            <note xml:id="n05081106" n="6">None of the enlisted journal-keepers indicate clearly that they were with this party, although <name type="person" key="Gass, Patrick">Gass</name> says that "we" raised the flag on the hill.</note>
+            <note xml:id="n05081107" n="7">These words were squeezed in at the bottom of the page in Codex A.</note>
+            <note xml:id="n05081108" n="8">
+               <name type="person" key="Clark, William">Clark</name> changes the designations from "crains" to "Herrons" between entries. It is the great blue heron, first mentioned in <ref n="1804-02-29" type="related">weather remarks</ref> for February 13, 1804. Swenk, 120. This is probably the correct course for the day. <name type="person" key="Clark, William">Clark's</name> last entry in the Field Notes for August 11 probably belongs with his <ref n="1804-08-12" type="related">August 12</ref> entry (as carried there) and the total should be 17.</note>
+            <note xml:id="n05081109" n="9">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> observation from Codex O.</note>
+            <note xml:id="n05081110" n="10">
+               <name type="person" key="Blackbird">Blackbird</name>, chief of the <name type="native_nation" key="Omaha Indians">Omahas</name>, was buried on <name type="place" key="Blackbird Hill">Blackbird Hill</name>, <name type="place" key="Thurston County, Nebr.">Thurston County</name>, <name type="place" key="Nebraska">Nebraska</name>.</note>
+            <note xml:id="n05081111" n="11">These words are underscored in red ink.</note>
+            <note xml:id="n05081112" n="12">These words are underscored in red ink.</note>
+            <note xml:id="n05081113" n="13">
+               <name type="place" key="Blackbird (Wau-Condi peche, Bad Spirit) Creek">Blackbird Creek</name>, <name type="place" key="Thurston County, Nebr.">Thurston County</name>, southeast of <name type="place" key="Macy, Nebr.">Macy</name>. <name type="person" key="Floyd, Charles">Floyd</name> repeats "the Grait Sperit is Bad" in the left-hand margin.</note>
+            <note xml:id="n05081114" n="14">These words are underscored in red ink.</note>
+            <note xml:id="n05081115" n="15">
+               <name type="place" key="Blackbird Hill">Blackbird Hill</name>, <name type="place" key="Thurston County, Nebr.">Thurston County</name>, <name type="place" key="Nebraska">Nebraska</name>, near <name type="place" key="Macy, Nebr.">Macy</name>. <name type="person" key="Gass, Patrick">Gass</name> says more about the <name type="native_nation" key="Omaha Indians">Omaha</name> Indian Chief <name type="person" key="Blackbird">Blackbird</name> himself than <name type="person" key="Clark, William">Clark</name>, showing that the <name type="person" key="Blackbird">Blackbird</name> legend was already well developed a few years after the chief's death.</note>
+            <note xml:id="n05081116" n="16">Again written over "South."</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-08-10" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-08-12" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

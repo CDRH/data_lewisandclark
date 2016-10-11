@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-07-17">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+July 17, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 4</title>
+               <title level="m" type="sub">April7–July 27, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">391-397</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">185</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">113</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">229-230</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-07-17.01">
+            <placeName/>
+            <geo>47.1006 -111.9508</geo>
+            <note>Near the location that Highway 15 crosses the Missouri, Lewis and Clark County, MT. A few miles past Dearborn River</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-05-19</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-07-17">July 17, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-07-17.01" n="lc.geo.1805-07-17.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday July 17th 1805.</hi>
+                     <ref target="n17071701" n="1"/>
+                  </date>
+               </ab>
+               <p>
+The sunflower is in bloom [<hi rend="italic">NB: Copy for <name type="person" key="Barton, Benjamin Smith">Dr. Barton</name>
+                  </hi>] and abundant in the river bottoms. The Indians of the <name type="place" key="Missouri River">Missouri</name> particularly those who do not cultivate maze make great uce of the seed of this plant for bread, or use it in thickening their soope.    they most commonly first parch the seed and then pound them between two smooth stones untill they reduce it to a fine meal.    to this they sometimes mearly add a portion of water and drink it in that state, or add a sufficient quantity of marrow grease to reduce it to the consistency of common dough and eate it in that manner.    the last composition I think much best and have eat it in that state heartily and think it a pallateable dish.    there is but little of the broad leafed cottonwood above the falls, much the greater portion being of the narrow leafed kind.<ref target="n17071702" n="2"/>    there are a great abundance of red yellow perple &amp; black currants, and service berries now ripe and in great perfection. I find these fruits very pleasent particularly the yellow currant<ref target="n17071703" n="3"/> which I think vastly preferable to those of our gardens.    the shrub which produces this fruit rises to the hight of 6 or 8 feet; the stem simple branching and erect.    they grow closly ascociated in cops either in the oppen or timbered lands near the watercouses.    the leaf is petiolate of a pale green and resembles in it's form that of the red currant common to our gardens.<ref target="n17071704" n="4"/>    the perianth of the fructification is one leaved, five cleft, abreviated and tubular, the corolla is monopetallous funnel-shaped; very long, superior, 〈permanent tho'〉 withering and of a fine orrange colour.    five stamens and one pistillum; of the first, the fillaments are capillare, inserted into the corolla, equal, and converging; the anther ovate, biffid and incumbent.    with rispect to the second the germ is roundish, smoth, inferior pedicelled and small; the style, long, and thicker than the stamens, simple, cylinderical, smooth, and erect, withering and remains with the corolla untill the fruit is ripe.    stigma simple obtuse and withering.—    the fruit is a berry about the size and much the shape of the red currant of our gardins, like them growing in clusters supported by a compound footstalk, but the peduncles which support the several berries are longer in this species and the berries are more scattered.    it is quite as transparent as the red current of our gardens, not so ascid, &amp; more agreeably flavored.    the other species differ not at all in appearance from the yellow except in the colour and flavor of their berries. I am not confident as to the colour of the corolla, but all those which I observed while in blume as we came up the <name type="place" key="Missouri River">Missouri</name> were yellow but they might possibly have been all of the yellow kind and that the perple red and black currants here may have corollas of different tints from that of the yellow currant.—    The survice berry differse somewhat from that of the U' States<ref target="n17071705" n="5"/>    the bushes are small sometimes not more than 2 feet high and scarcely ever exceed 8 and are proportionably small in their stems, growing very thickly ascosiated in clumps.    the fruit is the same form but for the most part larger more lucious and of so deep a perple that on first sight you would think them black.—    there are two species of goosbirris<ref target="n17071706" n="6"/> here allso but neither of them yet ripe.    the choke cherries also abundant and not yet ripe.    there is Box alder, red willow and a species of sumac here also.    there is a large pine tree situated on a small island at the head of these rappids above our cam[p]; it being the first we have seen for a long distance near the river I called the island <hi rend="italic">
+                     <name type="place" key="Half-Breed (Pine) Island">pine island</name>.</hi>
+                  <ref target="n17071707" n="7"/> This range of the <name type="place" key="Rocky Mountains">rocky mountains</name> runs from S E to N. W.—    at 8 A. M. this morning <name type="person" key="Clark, William">Capt. Clark</name> arrived with the party.    we took breakfast here, after which I had the box which contained my instruments taken by land arround <name type="place" key="Eagle Rock (Tower?)">tower rock</name> to the river above the rappid; the canoes ascended with some difficulty but without loss or injury, with their loads.</p>
+               <p>
+                  <hi rend="right">
+                     <hi rend="italic">Point of observation No. 31.</hi>
+                  </hi>
+               </p>
+               <p>
+At my camp on the Stard. side of the <name type="place" key="Missouri River">Missouri</name> below the rappids where the river fist enters the <name type="place" key="Rocky Mountains">Rocky Mountain</name>
+               </p>
+               <p>
+Observed time and distance of <seg n="u9737">☉</seg>'s and <seg n="u9789">☽</seg>'s nearest limbs with Sextant, <seg n="u9737">☉</seg> East.—</p>
+               <p>
+                  <table rows="20" cols="4">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">Time</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">Distance</hi>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">h     '      "</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">A. M.</cell>
+                        <cell role="data" rows="1" cols="1">8   14    43</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">115°     0'     0"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"    17    32</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">115      0      0</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"    19    14</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">114    57    45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"    21    29</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">   "      57      0</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"    22    39</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">   "      57      0</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"    23    38</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">   "      56    45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"    26    18</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">   "      55    15</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"    27    35</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">   "      54    45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">Time</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">Distance</hi>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">h    m     s</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">A. M.</cell>
+                        <cell role="data" rows="1" cols="1">8   34    51</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">114°   52'   00"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"    35    43</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">   "      51    15</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"    38    10</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">   "      50    30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"    39    47</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">   "      49    45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"    41    30</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">   "      48    45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"    42    34</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">   "      48    30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"    43    52</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">   "      48    30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"    44    16</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">   "      48    00</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi rend="right">
+                     <hi rend="italic">Point of Observation No. 33.</hi>
+                     <ref target="n17071708" n="8"/>
+                  </hi>
+               </p>
+               <p>
+On the Stard. side of the <name type="place" key="Missouri River">Missouri</name> one mile above the point of observation of this morning.</p>
+               <p>
+Observed Meridian Altitude of <seg n="u9737">☉</seg>'s L. L. with Octant by the back observation    56° 50'</p>
+               <p>
+Latitude deduced from this observation    46° 42' 14.7"</p>
+               <p>
+After making those observations we proceed, and as the canoes were still heavy loaded all persons not employed in navigating the canoes walled on shore.    the river clifts were so steep and frequently projecting into the river with their perpendicular points in such manner that we could not pass them by land, we wer therefore compelled to pass and repass the river very frequently in the couse of the evening.    the bottoms are narrow the river also narrow deep and but little current.    river from 70 to 100 yds. wide.    but little timber on the river    aspin constitutes a part of that little.    see more pine than usual on the mountains tho' still but thinly scattered.    we saw some mountain rams or bighorned anamals this evening, and no other game whatever and indeed there is but little appearance of any.    in some places both banks of the river are formed for a short distance of nearly perpendicular rocks of a dark black grannite of great hight;<ref target="n17071709" n="9"/> the river has the appearance of having cut it's passage in the course of time through this solid rock.    we ascended about 6 miles this evening from the entrance of the mountain and encamped on the Stard. side where we found as much wood as made our fires.<ref target="n17071710" n="10"/>    musquetoes still troublesome knats not as much so.—    <name type="person" key="Clark, William">Capt. C.</name> now informed me that after I left him yesterday, he saw the poles of a large lodge in praire on the Stard. side of the river which was 60 feet in diameter and appeared to have been built last fall; there were the remains of about 80 leather lodges near the place of the same apparent date. This large lodge was of the same construction of that mentioned above the <name type="place" key="White Bear Islands">white bear Islands</name>.    the party came on very well and encamped on the lower point of an island near the Stard. shore on that evening.    this morning they had set out early and proceeded without obstruction untill they reached the rappid where I was encamped.</p>
+               <p>
+                  <table rows="19" cols="3">
+                     <head>
+                        <hi rend="italic">Courses and Distances of the 16th July 1805.</hi>
+                        <ref target="n17071711" n="11"/>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 30° E.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to some trees in a Lard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. bend passing over a Stard. point.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 10° E.</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">to the mouth of a run in a Lard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to the bend on Stard. side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 15° E.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a bend on the Lard. side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">to the mouth of a run on Stard. side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45° E.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to a bend on Lard. side opposite a large lodge</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South </cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">along the Lard. side in a bend opposite an island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 70° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">in a Lard. bend.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">in a bend on the Lard. side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">in the Lard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a bend on Stard. passing a small island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">  4</cell>
+                        <cell role="data" rows="1" cols="1">to the lower point of some timber on Stard. side passing 6<lb/>
+islands.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 60° E.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a bend on Lard. side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 50° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to the upper point of an island.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 18° E.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to the lower point of an island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">to a bayou on Stard. passing an island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">     ¼</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">to a lard. bend, encamped on the upper point of the Island<lb/>
+near Stard. shore</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Miles</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">23</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="15" cols="3">
+                     <head>
+                        <hi rend="italic">Couses and distances July 17th 1805</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West </cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to a spur of the <name type="place" key="Rocky Mountains">rocky Mountains</name> in a bend Std.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 10° E.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a spur of    do.    do.    on the Lard. side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">to a small Island in a bend on Stard. side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a large pine tree on the lower point of <name type="place" key="Half-Breed (Pine) Island">pine Island</name> above<lb/>
+the rappids where the river enters the <name type="place" key="Rocky Mountains">rocky Mountains</name>.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 20° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">to a high clift of the mountain on Lard. side passing pine<lb/>
+island at ¼ m.    a small run on Lard. just above the island,<lb/>
+and a Lard. &amp; stard. point.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a bend on the Stard. side, high clifts on either side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a bend on Lard. side    Do.    do.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 60° E.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a bend on the Stard. side    do.    do.    passd. an Isld.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 20° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a bend on the Lard. side    do.    do.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West </cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a bend on the Stard. side    do.    do.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 30° E.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to a bend on the Lard. side    do.    do. passing an Isd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a bend on the Stard. side—bottoms reather wider</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 5° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a point of rocks in a Lard. bend.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 75° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">     ¾</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">to a bend on the Stard. side, opposite a very high clift<lb/>
+where we encamped for the evening.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Miles</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">11 ¼</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"/>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-07-17.02" n="lc.geo.1805-07-17.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">July 17th Wednesday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+Set out early this morning and Crossed the rapid at the Island Cald <name type="place" key="Half-Breed (Pine Island) Rapids">pine rapid</name> with Some dificuelty, at this rapid I came up with <name type="person" key="Lewis, Meriwether">Capt Lewis</name> &amp; party    took a Medn. altitude &amp; we took Some Luner Observations &amp;c. and proceeded on, the emence high Precipies oblige all the party to pass &amp; repass the river from one point to another    the river confined in maney places in a verry narrow Chanel from 70 to 120 yards wide bottoms narrow without timber and maney places the mountain approach on both Sides, we observe great deel of Scattering pine on the mountains, Some aspin, Spruce<ref target="n17071712" n="12"/> &amp; <hi rend="italic">fur</hi> trees    took a meridian altd. which gave for Lattitude <hi rend="italic">46° 42' 14" 7/10 N</hi>    we proceeded on verry well about 8 miles &amp; Camped on the Stard Side    The river crooked bottoms narrow, Clifts high and Steep, I assended a Spur of the Mountain which I found to be highe &amp; dificuelt of axcess, Containig Pitch Pine &amp; Covered with grass    Scercely any game to be Seen    The yellow Current now ripe also the fussey red Choke Cheries<ref target="n17071713" n="13"/> getting ripe    Purple Current are also ripe. Saw Several Ibex or mountain rams to day
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-07-17.03" n="lc.geo.1805-07-17.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">July 17th Wednesday 1805</hi>. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> and the two men Stayed out all last night.    a clear morning    we Set out at Sunrise &amp; proceeded on about 4
+miles. Came to a verry bad rapid<ref target="n17071714" n="14"/> where we found <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> &amp; the 2 men.    the Mountains make close to the River on each Side.    we left Some articles and doubled maned the canoes and them all over Safe which was about half a mile long, &amp; roled white over the rocks, but by the assistance of the towing lines we got up all the canoes without Injury    Sent back for the other articles.    passed a large Spring jest above the rapids which heads about half a mile above or back under the mountain on Lard. Side.    proceeded on.    the mountains make close to the River &amp; verry steep high pricipicies about 700 feet from the Surface of the water perpinticular &amp; a Solid rock. Some Spots of pine and balsam fir<ref target="n17071715" n="15"/> timbers &amp; narrow bottoms on the points and high grass &amp;C. Some willow &amp; currents<ref target="n17071716" n="16"/> of different kinds.    the current Swift.    the River about 100 yards wide.    we Came 11 miles this day and Camped on the Starbord Side in a narrow bottom.    a little cotton timber—
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-07-17.04" n="lc.geo.1805-07-17.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 17th.</hi>    We set out early, and the morning was fine and pleasant. At 8 o'clock we came to <name type="person" key="Lewis, Meriwether">Captain Lewis's</name> camp, at a very rapid place of the river, and took breakfast. We had here to join the crews of two canoes together, to go up the rapids which were about half a mile long. The <name type="place" key="Missouri River">Missouri</name> at this place is very narrow. At the head of these rapids a fine spring comes in on the south side,<ref target="n17071717" n="17"/> which rises about a quarter of a mile from the river; and has a good deal of small cotton-wood and willows on its banks. There is also another spring below the rapids, but it sinks before it reaches the river. We proceeded on through the mountains, a very desert looking part of the country. Some of the knobs or peaks of these mountains, are 700 (perhaps some nearly 1200) feet high, all rock; and though they are almost perpendicular, we saw mountain sheep on the very tops of them. We saw few other animals to day. The general breadth of the river is 100 yards. We went 11 miles and encamped in a small bottom on the north side.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-07-17.05" n="lc.geo.1805-07-17.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">July 17th Wednesday 1805</hi>.    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> &amp; 2 men Stayed out all night who went up the river yesty.    a clear morning.    we Set out at Sunrise and proceeded on.    about 4 miles came to a hard rapid, ½ a mile where the mountains make close to the river on each Side.    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> joined us    by the assistance of the towing line and double manning the canoes we took them all up Safe.    passed a large Spring which run from under the Mountain on S. S.    proceeded on    passed verry high Steep rocks &amp; pricipices.    these <name type="place" key="Rocky Mountains">rocky Mountains</name> are broken &amp; verry uneven &amp; appear to be nearly a Solid rock.    Some parts of them thinly covered with P. pine and balsom fer timber &amp;c.    Some of these knobs we allow to be 700 feet high and a Solid rock.    Mountain Sheep on the top of them though they are allmost perpenticular.    fine Springs in these mountains, but a desert part of the Country.    narrow bottoms on the points.    Some willow and high grass with a wide leaf.    the current verry rapid, and river Crooked, and only about 100 yards wide.    we Came 11 miles this day and Camped on the N. Side in a bottom a little cotton timber on it.    the Musquetoes troublesome.    we got pleanty of yallow currents<ref target="n17071718" n="18"/> this day.—</p>
+               <p>
+Wednesday July 17th    <name type="person" key="Lewis, Meriwether">Captain Lewis</name>, and two of our party that went up 
+the River Yesterday; staid out all last night; We set off at sunrise, and proceeded on about 4 Miles, when we came to a hard Rapid, where the mountains made close into the River on both sides of it.    <name type="person" key="Lewis, Meriwether">Captain Lewis</name> &amp; the Men with him met us here, we double manned the Canoes, and towing lines, and with much difficulty got them all over safe.—    We continued on our way, &amp; passed a large spring which run from under the Mountains on the South side of the River, and some very high Steep rocks &amp; precipeces lying on both sides of the River.    The <name type="place" key="Rocky Mountains">rocky mountains</name> at this place, are very broken and uneven, and appear to be nearly a solid Rock.    Some part of them are thinly covered with Pine &amp; balsam for timber.</p>
+               <p>
+Some of the knobs on these mountains appear to be from the nearest calculation that we can make 〈to be〉 700 feet high, and it appear'd to be a solid rock, We saw on the very top of those Nobs, Mountain sheep although they appear to be almost perpendicular, In these mountains we saw fine Springs.    The Country appears to be a mere desart, and some narrow bottoms are at the points toward the River, Willow and Grass grow in them, The grass grows high and has a broad leaf.—    The River at this place runs very Crooked &amp; runs very Rapid, and is only about 100 Yards wide, We came 11 Miles this day &amp; encamped on the North side of the River, in a bottom having, a few Cotton wood Trees growing on it.    We found a great plenty of Yellow currants this day, In the Evening the Musketoes was very trouble-some.—
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n17071701" n="1">Here begins <name type="person" key="Lewis, Meriwether">Lewis's</name> notebook journal Codex F, running to August 22, 1805. It was probably <name type="person" key="Biddle, Nicholas">Biddle</name> who drew a red vertical line through almost this entire entry, stopping at "<hi rend="italic">
+                  <name type="place" key="Half-Breed (Pine) Island">pine island</name>.</hi>"</note>
+            <note xml:id="n17071702" n="2">As they approach the <name type="place" key="Rocky Mountains">Rocky Mountains</name> beyond the <name type="place" key="Missouri River, Great Falls of the">Great Falls</name>, the expedition is reaching the western limit of the eastern cottonwood species <hi rend="italic">Populus deltoides,</hi> which is being replaced by the western, montane, narrowlead cottonwood, <hi rend="italic">P. angustifolia,</hi> as accurately noted. Little, 149-W.</note>
+            <note xml:id="n17071703" n="3">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> yellow currant is the golden currant. The fruit color of this currant is highly variable between plants and varies from black to sometimes red or yellow. See also <ref n="1805-04-30" type="related">April 30, 1805</ref>. Booth &amp; Wright, 107; Pursh, 104; Cutright (LCPN), 172 n. 1.</note>
+            <note xml:id="n17071704" n="4">The common red currant is <hi rend="italic">Ribes sativum</hi> Syme, garden, or red, currant. Fernald, 751.</note>
+            <note xml:id="n17071705" n="5">The eastern serviceberry with which <name type="person" key="Lewis, Meriwether">Lewis</name> was probably familiar is <hi rend="italic">Amelanchier arborea</hi> (Michx. f.) Fern., juneberry, a larger shrub or small tree occurring on the <name type="place" key="Missouri River">Missouri River</name> to eastern <name type="place" key="Nebraska">Nebraska</name>. The western serviceberry which occurs along the <name type="place" key="Missouri River">Missouri River</name> from <name type="place" key="Montana">Montana</name> to <name type="place" key="South Dakota">South Dakota</name> is noted on <ref n="1805-04-20" type="related">April 20, 1805</ref>. Booth &amp; Wright, 110; Barkley, 137–38.</note>
+            <note xml:id="n17071706" n="6">The two gooseberry species here are probably bristly, or redshoot, gooseberry and swamp currant, <hi rend="italic">Ribes lacustre</hi> (Pers.) Poir, based on ecology and distribution. <name type="person" key="Lewis, Meriwether">Lewis</name> seems occasionally to have used the term gooseberry to describe currants. See <ref n="1805-06-18" type="related">June 18</ref> and <ref n="1805-07-25" type="related">July 25, 1805</ref>. However, on <ref n="1805-07-20" type="related">July 20</ref> he distinguished between the two. Booth &amp; Wright, 107.</note>
+            <note xml:id="n17071707" n="7">Probably later <name type="place" key="Half-Breed (Pine) Island">Half-Breed Island</name>. <hi rend="italic">Atlas</hi> map 62; MRC map 79.</note>
+            <note xml:id="n17071708" n="8">Should be numbered 32; observation no. 33 comes under <ref n="1805-07-18" type="related">July 18, 1805</ref>.</note>
+            <note xml:id="n17071709" n="9">The rocks are composed of the <name type="place" key="Adel Mountains">Adel Mountains</name> volcanics. Near here they are primarily laval breccias and ashfall tuffs but contain no granite. Their colors are dark red, purplish-red, dark grayish-green, and dark gray.</note>
+            <note xml:id="n17071710" n="10">In <name type="place" key="Lewis and Clark County, Mont.">Lewis and Clark County</name>, <name type="place" key="Montana">Montana</name>, a few miles downstream from the <name type="place" key="Dearborn River">Dearborn River</name>, near where <name type="place" key="Interstate Highway 15">Interstate Highway 15</name> crosses the <name type="place" key="Missouri River">Missouri</name>. <hi rend="italic">Atlas</hi> map 62; MRC map 79.</note>
+            <note xml:id="n17071711" n="11">Evidently <name type="person" key="Lewis, Meriwether">Lewis</name> copied <name type="person" key="Clark, William">Clark's</name> courses for July 16 and 17 after their reunion on the latter date—a possible indication that he was keeping Codex F day by day at this time.</note>
+            <note xml:id="n17071712" n="12">
+               <name type="person" key="Clark, William">Clark</name> notices <hi rend="italic">Picea engelmannii</hi> (Parry) Engelm., Engelmann spruce. Little, 37-W.</note>
+            <note xml:id="n17071713" n="13">The use of "fuzzy" and "red" to desecribe choke cherries is problematic, since the fruits of choke cherry, even when young, are neither. This may be the buffaloberry which was noted earlier in the area and which has silver scurfy or "fuzzy" leaves, and may have ripening red fruits at this time. Booth &amp; Wright, 160.</note>
+            <note xml:id="n17071714" n="14">Probably the later <name type="place" key="Half-Breed (Pine Island) Rapids">Half-Breed, or Lone Pine, Rapids</name>, <name type="place" key="Cascade County, Mont.">Cascade County</name>, <name type="place" key="Montana">Montana</name>.</note>
+            <note xml:id="n17071715" n="15">The pine is ponderosa pine, and the balsam fir for this region is Douglas fir, <hi rend="italic">Pseudotsuga menziesii</hi> (Mirb.) Franco.</note>
+            <note xml:id="n17071716" n="16">Any of a number of species of willow, <hi rend="italic">Salix</hi>. <name type="person" key="Lewis, Meriwether">Lewis</name> discusses the currants and berries of the region in his entry for this day.</note>
+            <note xml:id="n17071717" n="17">Perhaps the "small run" noted in passing by <name type="person" key="Clark, William">Clark</name>.</note>
+            <note xml:id="n17071718" n="18">See <name type="person" key="Lewis, Meriwether">Lewis's</name> entry for a discussion of the area's currants; this one is golden currant.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-07-16" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-07-18" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

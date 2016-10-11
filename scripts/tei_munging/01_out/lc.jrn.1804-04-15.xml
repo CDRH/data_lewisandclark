@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-04-15">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+April 15, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">202</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-01-06</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-04-15">April 15, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-04-15.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday</hi> 15th of April, a fair morning    Sent out <name type="person" key="Shields, John">Shields</name> with <name type="person" key="McClain">McLain</name> to the head of <name type="place" key="Dubois River">Wood River</name>. Settled with <name type="person" key="Cane, Mrs.">Mrs. Cane</name> for all to this day &amp; paid 12/c. Clouded up at 12 oClock    the wind from the S. W blew verey hard    a Boat pass up the 〈Missouris〉 <name type="place" key="Mississippi River">Mississippi</name> under Sail at 1 oClock— Several men out to day Hunting &amp; visiting. <name type="person" key="Woolford (Wolpard), Adam">Mr. Wolpards</name>
+                  <ref target="n03041501" n="1"/> Boat came up to day at 2 oClock under Sail, left <name type="place" key="Saint Louis, Mo.">St Louis</name> at 8 oClock a. m. Some Shooting at a mark
+
+	
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n03041501" n="1">Probably <name type="person" key="Woolford (Wolpard), Adam">Adam Woolford</name>, or <name type="person" key="Woolford (Wolpard), Adam">Woodford</name>, who operated a boat between <name type="place" key="Saint Louis, Mo.">St. Louis</name> and <name type="place" key="Louisville, Ky.">Louisville</name>, <name type="place" key="Kentucky">Kentucky</name>. Jackson (LLC), 1:176 n. 5; Osgood (FN), 34 n. 1.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-04-14" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-04-16" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

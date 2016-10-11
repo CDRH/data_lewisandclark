@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1803-11-20">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">November 20, 1803</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">95-97</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1803-11-20.01">
+            <placeName/>
+            <geo>37.068 -89.256</geo>
+            <note>10.5 miles from the river junction</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2003-12-12</date>
+            <date/>
+            <name>Laura Weakly</name>
+            <name/>Initial creation Transcribed</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1803-11-20">November 20, 1803</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1803-11-20.01" n="lc.geo.1803-11-20.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>Novr. 20th</date>
+               </ab>
+               <p>
+Left our mouring on the <name type="place" key="Ohio River">Ohio</name> side of the point at 10 OC. and after geting out well into the stream our course, time, and estimated distances were as follow</p>
+               <p>
+                  <table rows="5" cols="4">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Course</cell>
+                        <cell role="data" rows="1" cols="1">Time</cell>
+                        <cell role="data" rows="1" cols="1">Estd. dist</cell>
+                        <cell role="data" rows="1" cols="1">Remark or refferences</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h</cell>
+                        <cell role="data" rows="1" cols="1">mils</cell>
+                        <cell role="data" rows="1" cols="1">miles</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 70° W</cell>
+                        <cell role="data" rows="1" cols="1">1 50</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Isld.</hi> Star. 1 ¼ long (1)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 20 W.</cell>
+                        <cell role="data" rows="1" cols="1">3 50</cell>
+                        <cell role="data" rows="1" cols="1">4 ½</cell>
+                        <cell role="data" rows="1" cols="1">2 <hi rend="italic">Isd.</hi> 3 m long (2)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 53 W					
+</cell>
+                        <cell role="data" rows="1" cols="1">2 00</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">to point Starbd (3)</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi rend="italic">21st</hi>
+                  <ref target="n02112001" n="1"/>
+               </p>
+               <p>
+                  <hi rend="italic">Remarks—</hi>Novr. 20th</p>
+               <p>
+(1) There is a sand bar that extends about ¾ of a mile from the lower extremity of this Island, and reaches below the junction of the <name type="place" key="Ohio River">Ohio</name> &amp; <name type="place" key="Mississippi River">Mississippi</name>.    the Island lys in this form—[<hi rend="italic">here a sketch of the island, see fig.</hi> 2]    it's greater diameter with the course of the stream; and from the present appeance of the land on the Starbord wif [will?] soon form a part of the main land of that shore tho' at this moment it is devided from it more than a quarter of a mile by a sand beach which has a small chanel of about 30 yards wide at the lower point of Isld. passing through it—</p>
+               <p>
+                  <figure rend="aps">
+                     <p>
+                        <hi rend="italic">Sand Bar, November 20, 1803,</hi> Eastern Journal
+<bibl>
+                           <orgName>(American Philosophical Society library, </orgName>
+                           <note place="inline"> used with permission.)</note>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+               <p>
+the couse last marked was that of the lower extremity of the Island the uper point bearing a little to the N. of W.—    Came too at 11.45 A. M. on a small sand barr 300 paces from the uper point of this Island, where I made the men take some refreshment and observed the Meridian Altd. of the <seg n="u9737">☉</seg>'s Upper 〈lower〉 Limb to be 67° 29' 53" with my sextant; the Error of which had been previously asscertained to be 8' 45"—. <hi rend="italic">Latd    pr. this</hi> obs—    36° 50' 14.9"—    (2) This Island lys close to the main land, and is devided from it by a small channel, the lower point distant 1½ miles from the upper point of the last Island; it is in this form [<hi rend="italic">here a sketch of the island, see fig. 3</hi>] with a small island as laid down above it the whole extending 3 miles—    a small distance above the second Iisland there is another lying as above laid down; above which a small distance and two hundred yards from the (3) point which formed the termination of the last course    we came too on the Starbd side and stayed all night: oposite our landing is the lower pt. of an Island on the Larbd.    we came by my estimate 10 ½ miles today.<ref target="n02112002" n="2"/>
+               </p>
+               <p>
+                  <figure rend="aps">
+                     <p>
+                        <hi rend="italic">Island, November 20, 1803,</hi> Eastern Journal
+<bibl>
+                           <orgName>(American Philosophical Society library</orgName>
+                           <note place="inline"> used with permission.)</note>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n02112001" n="1">Only the date with no additional writing. The remaining one-half of this page is blank, as if <name type="person" key="Lewis, Meriwether">Lewis</name> intended to fill it in later but instead entered "remarks" for the twentieth. With these entires <name type="person" key="Lewis, Meriwether">Lewis</name> began shifting course and distance writing from preceding to following the remarks for the day. This edition follows the changing pattern.</note>
+            <note xml:id="n02112002" n="2">Camped in <name type="place" key="Alexander County, Ill.">Alexander County</name>, <name type="place" key="Illinois">Illinois</name>, now started up the <name type="place" key="Mississippi River">Mississippi</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1803-11-19" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-11-21" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

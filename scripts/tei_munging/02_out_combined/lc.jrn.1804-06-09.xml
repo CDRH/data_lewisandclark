@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-06-09">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+June 9, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">288-291</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">12, 379</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">13</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">21</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-06-09.01">
+            <placeName/>
+            <geo>39.141 -92.912</geo>
+            <note>An island in the middle of the Missouri, close to Richland Creek</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-01-14</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-06-09">June 9, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-06-09.01" n="lc.geo.1804-06-09.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">9th</hi> of <hi rend="italic">June 〈Friday〉 Satterday</hi>    Set out early, water verry Swift    got fast on a log, detained us ¼ hour    Hard rain last night.    N 39° W 3½ Ms. to a pt. on the S. S. opposit the Commencement of the 1st Prarie, Called <name type="place" key="Arrow Prairie">Prarie of the Arrows</name>,<ref target="n04060901" n="1"/> the river at this place about 300 yds. Wide    passed a Small Creek, <name type="place" key="Pierre Fresne (Arrow) Creek">Arrow Creek</name> 8 yds. wide L. Sd.    the Current exceedingly Strong N. 34° E 2 ms. to the Belg of a Small Island Situated on the L. Sd. Passed the mo: of <name type="place" key="Pierre Fresne (Arrow) Creek">Arrow Creek</name> N 83° W 1½ ms. to a pt 〈of High Land〉 on L. S. opposit <name type="place" key="Richland (Blackbird) Creek">Black bird C Small</name>
+                  <ref target="n04060902" n="2"/>    passed the head of the Isd. &amp; a small Willow one to the L. S. (<seg n="u9737">☉</seg>s merdn. altd. back obsvn. 37 00' 00[)]    N. 39° W 2 Ms. to a pt. 〈on S. S.〉 of High Land on the L. Side opst. a pt. on St. S. River about 350 yds. wide at this pt.    a Wind from the S at 4 oClock    (Handson Sutn[)] [situation?]    on the High pt. a prarie &amp; <name type="place" key="Small Lake">Small Lake</name> below    N 32° E 3½ Ms. to a pt. on L. S.    passed an Isld. in the mid R—    in passing up on the S. S. opsd. the Isd. the Sturn of the boat Struck a log which was not proceiveable    the Curt. Struck her bow and turn the boat against Some drift &amp; Snags which [were] below with great force; This was a disagreeable and Dangerous Situation, particularly as immense large trees were Drifting down and we lay imediately in their Course,—    Some of our <hi rend="italic">men</hi> being prepared for all Situations leaped into the water Swam ashore with a roap, and fixed themselves in Such Situations, that the boat was off in a fiew minits, I can Say with Confidence that our party is not inferior to any that was ever on the waters of the <name type="place" key="Mississippi River">Missoppie</name>    we Crossed to the Island and Camped,<ref target="n04060903" n="3"/> our hunters lay on the S. S.    〈<hi rend="italic">
+                     <name type="person" key="Gibson, George">Gibson</name> verry nearly</hi>〉    the wind from the S. W.    the river continue to rise Slowly    Current excessive rapid—    The Countrey on the S. S. high bottom &amp; Delghtfull land    that on the L. S. is up land or hills of from 50 to 100 foot higher than the bottom &amp; a thinly wooded, Countrey, Lands tolerably Good; Comminced raining at 5 oClock and continued by intervales the greater part of the night. We discovered that one of our French hands had a Conpt. [complaint]—    We Commsd Doctering, I hope the Success in this case, usial to an [<hi rend="italic">sentence incomplete</hi>]
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-09.02" n="lc.geo.1804-06-09.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">9th of June 1804 Satturday</hi>
+                  </date>
+               </ab>
+               <p>
+a fair morning, the River rise a little    we got fast on a Snag Soon after we Set out which detained us a Short time    passed the upper Point of the Island    Several Small Chanels running out of the River below a 〈Bluff〉 [<hi rend="italic">NB: cliff of rocks called the <name type="place" key="Pierre à Flèche Bluff">arrow rock</name>
+                  </hi>]<ref target="n04060904" n="4"/> &amp; Prarie (Called the <name type="place" key="Arrow Prairie">Prariee of Arrows</name>) where the river is confined within the width of 〈300〉 [<hi rend="italic">NB: 200</hi>] yds.    Passed a Creek of 8 yds. wide Called <name type="place" key="Pierre Fresne (Arrow) Creek">Creek of Arrows</name>, this Creek is Short and heads in the Praries on the L. S.    passed a Small Creek Called <name type="place" key="Richland (Blackbird) Creek">Blackbird Creek</name> S. S. and One Islands below &amp; a Prarie above on the L. S.    a <name type="place" key="Small Lake">Small Lake</name> above the Prarie—    opposit the Lower point of the 2d. Island on the S. S. we had like to have Stove our boat, in going round a Snag her Stern Struck a log under Water &amp; She Swung round on the Snag, with her broad Side to the Current expd. to the Drifting timber, by the active exertions of our party we got her off in a fiew Mints. without engerey and Crossed to the Island where we Campd.    our hunters lay on the S. S.    the Perogue Crossed without Seeing them &amp; the banks too uncertain to Send her over—    Some wind from the S accompanied with rain this evening—    The Lands on the S. S. is a high rich bottom    the L. S. appears oven [open?] and of a good quallity runing gradually to from fifty to 100 foot.</p>
+               <p>
+                  <table rows="6" cols="3">
+                     <head>
+                        <hi rend="italic">Course &amp; Destance June 9th</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 39° W,</cell>
+                        <cell role="data" rows="1" cols="1">  4</cell>
+                        <cell role="data" rows="1" cols="1">Ms. to a pt. on S. S. opsd. a Prarie</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 34° E.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">ms. to pt. of an Isd. L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 83° W</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. on L. S. opsd. B. Bs Cr.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 39 W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. of High Ld. on L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 32 E </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  3 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. on L. S.    psd. an Isld</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">13</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-09.03" n="lc.geo.1804-06-09.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">(Point of Observation No. 5.)<lb/>
+Saturday June 9th</hi>
+                     <ref target="n04060905" n="5"/>
+                  </date>
+               </ab>
+               <p>
+On the N. W. side of a small island, two miles above the <name type="place" key="Arrow Prairie">
+                     <hi rend="italic">prarie</hi> of <hi rend="italic">the Arrows.</hi>
+                  </name>
+               </p>
+               <p>
+Observed meridian Altd. of <seg n="u9737">☉</seg>'s L. L. with Octant by the back observatn.    37° —' —"
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-09.04" n="lc.geo.1804-06-09.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Saturday June 9th 1804.    we Set out eairly    we got fast on a log    Detained us half an hour, Rain last night    〈oppisite〉 we passed prarie &amp; <name type="place" key="Pierre Fresne (Arrow) Creek">arrow Creek</name> on South Side of the River.    the land is high &amp; verry good    towards evening we passed a prarie &amp; a <name type="place" key="Small Lake">Small Lake</name> below.    we Camped on an Island at left Side.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-09.05" n="lc.geo.1804-06-09.01">
+            <sp who="cf">
+               <speaker>Floyd</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+
+Saturday June 9th 1804    Set out 〈of〉 after a verry hard Rain Last night    the morning Clear    wind from the Est    Came 5 miles    past the <name type="place" key="Arrow Prairie">Prarice of arrows</name> on the South Side half m. past the mouth of <name type="place" key="Pierre Fresne (Arrow) Creek">arrow Creek</name> on the South Side    this Creek is 8 yads wide    this is a butifull Contry of Land    the River at this place is 300 yads. wide the current Strong    3 mls past  <name type="place" key="Richland (Blackbird) Creek">Black Bird Creek</name> on the N Side    high Hills on the loer Side    the Latter part of the day Couday with Rain    maid 10 miles    encampt on an Isd. in the middel of the River
+	
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-09.06" n="lc.geo.1804-06-09.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 9th.</hi>    We passed the <name type="place" key="Arrow Prairie">Prairie of Arrows</name>, and <name type="place" key="Pierre Fresne (Arrow) Creek">Arrow creek</name> on the 
+south side.<ref target="n04060906" n="6"/> This is a beautiful country, and the land excellent. The <name type="place" key="Missouri River">Missouri</name> 
+here is only 300 yards wide, and the current very strong. Three miles farther, we passed <name type="place" key="Richland (Blackbird) Creek">Blackbird creek</name> on the north side, and encamped. This day going round some drift wood, the stern of the boat became fast, when she immediately swung round, and was in great danger; but we got her off without much injury.
+
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-09.07" n="lc.geo.1804-06-09.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Satery 9    Got on our way at the usal hour    roed. 7 miles    Stopd to take 
+dinner at the End of a large Island above the <name type="place" key="Arrow Prairie">arrow prarie</name>    the distance from the latter to the River <name type="place" key="Chariton (Charliton, Shariton) River">Charrotte River</name>
+                  <ref target="n04060907" n="7"/> is 14 miles    the hunters did Not Come 〈in〉 as the Storm was Great [<hi rend="italic">illegible, crossed out</hi>]    the peirouge Could not Cross for them    Roed 15 Miles—</p>
+               <p>
+Saturday June 9th    This morning we got under way at the usual hour, and rowed 7 Miles, when we took up in order to dine; which we did at the point of a large Island,<ref target="n04060908" n="8"/> above a place called the <name type="place" key="Arrow Prairie">Arrow Priari</name>, This Island lies distant from <name type="place" key="Chariton (Charliton, Shariton) River">Charotto River</name> 14 Miles.</p>
+               <p>
+The day proving stormy, we were obliged to waite for our hunters who were on the opposite side of the River, and it being unsafe to venture across in the Pettiauger for them.    we encamped on this Island, the distance come this day being 15 Miles
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n04060901" n="1">In the vicinity of the present town of <name type="place" key="Arrow Rock, Mo.">Arrow Rock</name> and <name type="place" key="Arrow Rock State Park (Mo.)">Arrow Rock State Park</name> in <name type="place" key="Saline County, Mo.">Saline County</name>, <name type="place" key="Missouri">Missouri</name>. <name type="place" key="Pierre Fresne (Arrow) Creek">Arrow Creek</name> is probably <name type="place" key="Pierre Fresne (Arrow) Creek">Pierre Fresne Creek</name>, in <name type="place" key="Saline County, Mo.">Saline County</name>. MRC map 9; MRM map 24.</note>
+            <note xml:id="n04060902" n="2">Evidently later <name type="place" key="Richland (Blackbird) Creek">Richland Creek</name>, in <name type="place" key="Howard County, Mo.">Howard County</name>, <name type="place" key="Missouri">Missouri</name>. Coues (HLC), 1:18; MRM map 24.</note>
+            <note xml:id="n04060903" n="3">Somewhat above <name type="place" key="Richland (Blackbird) Creek">Richland Creek</name> and probably below the later village of <name type="place" key="Bluff Port, Mo.">Bluff Port</name>, <name type="place" key="Howard County, Mo.">Howard County</name>. MRC map 9; MRM map 25.</note>
+            <note xml:id="n04060904" n="4">The name of the bluff, called <name type="place" key="Pierre à Flèche Bluff">Pierre à Flèche</name> as early as 1723, supposedly derives from an Indian tradition. The present town of <name type="place" key="Arrow Rock, Mo.">Arrow Rock</name> and <name type="place" key="Arrow Rock State Park (Mo.)">Arrow Rock State Park</name>, both in <name type="place" key="Saline County, Mo.">Saline County</name>, commemorate the name. After <name type="place" key="Fort Osage (Mo.)">Fort Osage</name> (see below, <ref n="1804-06-23" type="related">June 23, 1804</ref>) was abandoned in 1813, the post was moved to <name type="place" key="Arrow Rock, Mo.">Arrow Rock</name>. Coues (HLC), 1:18 n. 40; <hi rend="italic">Missouri Guide,</hi> 357; MRC No. 9. <name type="person" key="Biddle, Nicholas">Biddle</name> apparently crossed out "Bluff" when he substituted "cliff of rocks."</note>
+            <note xml:id="n04060905" n="5">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> observation from Codex O.</note>
+            <note xml:id="n04060906" n="6">The prairie is in the vicinity of the town of <name type="place" key="Arrow Rock, Mo.">Arrow Rock</name>, <name type="place" key="Saline County, Mo.">Saline County</name>, <name type="place" key="Missouri">Missouri</name>. "<name type="place" key="Pierre Fresne (Arrow) Creek">Arrow
+Creek</name>" is probably <name type="place" key="Pierre Fresne (Arrow) Creek">Pierre Fresne Creek</name>, <name type="place" key="Saline County, Mo.">Saline County</name>. McKeehan's note: "Prairies are natural meadows, or pastures, without trees and covered with grass."</note>
+            <note xml:id="n04060907" n="7">
+               <name type="place" key="Chariton (Charliton, Shariton) River">Chariton River</name>, <name type="place" key="Chariton County, Mo.">Chariton County</name>, <name type="place" key="Missouri">Missouri</name>.</note>
+            <note xml:id="n04060908" n="8">There may be some confusion here with the campsite of the previous day. The camp today was on an island somewhat above <name type="place" key="Richland (Blackbird) Creek">Richland Creek</name> and probably below later <name type="place" key="Bluff Port, Mo.">Bluff Port</name>, <name type="place" key="Howard County, Mo.">Howard County</name>, <name type="place" key="Missouri">Missouri</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-06-08" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-06-10" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-04-02">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+April 2, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 7</title>
+               <title level="m" type="sub">March 23–June 9, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1991</date>
+               <biblScope type="pages">53-62</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">284-285</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">204-205</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">438-440</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-04-02.01">
+            <placeName/>
+            <geo>45.5167 -122.6667</geo>
+            <note>Clark took a few men and camped near an old Indian lodge, located in the northwest part of Portland, Multnomah County, OR. The rest of the party remained at the 03-31 camp.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-09-29</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-04-02">April 2, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-04-02.01" n="lc.geo.1806-04-02.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday April 2ed 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+This morning we came to a resolution to remain at our present encampment or some where in this neighbourhood untill we had obtained as much dryed meat as would be necessary for our voyage as far as the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name>.    to exchange our perogues for canoes with the natives on our way to the <name type="place" key="Columbia River, Great Falls of the">great falls of the columbia</name> or purchase such canoes from them for Elkskins and Merchandize as would answer our purposes.    these canoes we intend exchanging with the natives of the plains for horses as we proceed untill we obtained as many as will enable us to travel altogether by land.    at some convenient point, perhaps at the entrence of the <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">S. E. branch of the Columbia</name>,<ref target="n31040201" n="1"/> we purpose sending a party of four or five men a head to collect our horses that they may be in readiness for us by our arrival at the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name>; calculating by thus acquiring a large stock of horses we shall not only sucure the means of transporting our baggage over the mountains but that we will also have provided the means of subsisting; for we now view the horses as our only certain resource for food, nor do we look forward to it with any detestation or horrow, so soon is the mind which is occupyed with any interesting object reconciled to it's situation. The men who were sent in quest of the Elk and deer that were killed yesterday returned at 8 A. M. this morning.    we now enformed the party of our intention of laying in a store of meat at this place, and immediately dispatched two parteis consisting of nine men to the opposite side of the river.    five of those we sent below the <name type="place" key="Sandy (Quicksand) River">Quicksand river</name> and 4 above.<ref target="n31040202" n="2"/>    we also sent out three others on this side, and those who remained in camp were employed in collecting wood making a scaffoald and cuting up the meat in order to dry it.    about this time several canoes of the natives arrived at our camp and among others one from below which had on board eight men of the <name type="native_nation" key="Watlala Indians">Shah-ha-la</name> nation    these men informed us that 2 young men whom they pointed out were <name type="native_nation" key="Cushook Indians">Cash-hooks</name>
+                  <ref target="n31040203" n="3"/> and resided at the falls of a large river which discharges itself into the <name type="place" key="Columbia River">Columbia</name> on it's South side some miles below us.    we readily prevailed on them to give us a sketch of this river which they drew on a mat with a coal.    it appeared that this river which they called <name type="place" key="Willamette (Multnomah) River">Mult-no-mâh</name> discharged itself behind the Island which we called the <name type="place" key="Hayden (Image Canoe) Island">image canoe Island</name> and as we had left this island to the S. both in ascending and decending the river we had never seen it.    they informed us that it was a large river and run a considerable distance to the South between the mountains. <name type="person" key="Clark, William">Capt. Clark</name> determined to return and examine this river    accordingly he took a party of seven men<ref target="n31040204" n="4"/> and one of the perogues and set out ½ after 11 A. M., he hired one of the <name type="native_nation" key="Cushook Indians">Cashhooks</name>, for a birning glass,<ref target="n31040205" n="5"/> to pilot him to the entrance of the <name type="place" key="Willamette (Multnomah) River">Multnomah river</name> and took him on board with him.    in their manners dress language and stature these people are the same with the <name type="native_nation" key="Cathlapotle Indians">quathlahpohtle</name> nation and others residing in the neighbourhood of <name type="place" key="Sauvie (Wapato) Island">wappetoe Island</name>.    near the entrance of <name type="place" key="Willamette (Multnomah) River">multnomah river</name> a considerable nation resides on the lower side of that stream by the same name.    as many as ten canoes with natives arrived at our camp in the course of the day; most of them were families of men women and children decencing the river.    they all gave the same account of the scarcity of provision above. I shot my air gun, with which they were much astonished.    one family consisting of ten or twelve persons remained near us all night.    they conducted themselves in a very orderly manner.    the three hunters on this side of the river returned in the evening    they had killed two deer, tho' they were so poor and at such a distance from the camp that they brought in their skins only.    the night and morning being cloudy I was again disappointed in making the observations I wished.</p>
+               <p>
+                  <table rows="3" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">at Noon I observed the Meridian Altitude of the</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">99° 20' 45"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">     <seg n="u9737">☉</seg>'s U.L. with sextant by the direct obsn.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Latitude deduced from this observations.— [<hi rend="italic">blank</hi>]</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+This observation may be depended on to 15" of a degree.—</p>
+               <p>
+Fir is the common growth of the uplands, as is the cottonwood, ash; large leafed ash and sweet willow that of the bottom lands.    the huckleburry, shallon,<ref target="n31040206" n="6"/> and the several evergreen shrubs of that speceis which bear burries have seased to appear except that speceis which has the leaf with a prickly margin.<ref target="n31040207" n="7"/>    among the plants of this prarie in which we are encamped I observe the passhequo, Shannetahque,<ref target="n31040208" n="8"/> and compound firn the roots of which the natives eat;<ref target="n31040209" n="9"/> also the water cress,<ref target="n31040210" n="10"/> strawburry,<ref target="n31040211" n="11"/> flowering pea<ref target="n31040212" n="12"/> not yet in blume, the sinquefoil,<ref target="n31040213" n="13"/> narrow dock,<ref target="n31040214" n="14"/> sand rush<ref target="n31040215" n="15"/> which are luxuriant and abundant in the river bottoms; a speceis of the bearsclaw<ref target="n31040216" n="16"/> of which I preserved a specemine it is in blume.    the large leafed thorn has also disappeared.    the red flowering currant is found here in considerable quantities of the uplands.    the hunters inform me that there are extensive praries on the highlands a few miles back from the river on this side.    the land is very fertile.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-02.02" n="lc.geo.1806-04-02.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday April 2nd 1806</hi>
+                  </date>
+               </ab>
+               <p>
+This morning we came to a resolution to remain at our present encampment or Some where in this neighbourhood untill we had obtained as much dried meat as would be necessary for our voyage as far as the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name>.    to exchange our large Canoes for Small ones with the nativs on our way to the <name type="place" key="Columbia River, Great Falls of the">great Falls of the Columbia</name> or purchase Such canoes from them for Elk skins and Merchindize as would answer our purposes.    these canoes we intend exchangeing with the nativs of the Plains for horses as we proceed untill we obtain as maney as will enable us to travel altogether by land.    at Some convenient point, perhaps at the enterance of <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Lewis's River</name> we intend Sending a party of 4 or 5 men ahead to Collect our horses that they may be in readiness for us by our arrival at the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name>; Calculating by thus acquireing a large Stock of horses we shall not only Secure the means of transporting our baggage over the Mountains, but that we also have provided the means of Substiting; for we now view the horses as our only Certain resource for food, nor do we look foward to it with any detestation or horrow, So Soon is the Mind which is occupied with any interesting object, reconsiled to it's Situation. The men who went in question of the Elk and Deer which were killed yesterday returned at 8 A. M. this morning.    we now informed the party of our intention of laying in a Store of meat at this place, and imediately dispatched two parties Consisting of nine men to the opposit Side of the river.    5 of them below and 4 above <name type="place" key="Sandy (Quicksand) River">quick Sand river</name>.    we also Sent out 3 others on this Side, and those who remained in Camp were employd in Collecting wood makeing a Scaffold and Cutting up the meat in order to dry it.    about this time Several Canoes of the nativs arived at our Camp among others two from below with Eight men of the <name type="native_nation" key="Watlala Indians">
+                     <hi rend="italic">Shah-ha-la</hi>
+                  </name> Nation    those men informed us that they reside on the opposit Side of the <name type="place" key="Columbia River">Columbia</name> near Some pine trees which they pointed to in the bottom South of the <name type="place" key="Government (Diamond, White Goose, Swan) Island">Dimond Island</name>, they Singled out two young men whome they informed us lited at the Falls of a large river which discharges itself into the <name type="place" key="Columbia River">Columbia</name> on it's South Side Some Miles below us.    we readily provailed on them to give us a Sketch of this river which they drew on a Mat with a coal, it appeared that this river which they Call <hi rend="italic">
+                     <name type="place" key="Willamette (Multnomah) River">Mult-no'-mah</name>
+                  </hi> discharged itself behind the Island we call the <name type="place" key="Hayden (Image Canoe) Island">image Canoe island</name>, and as we had left this Island to the South both in decending &amp; assending the river we had never Seen it.    they informed us that it was a large river and runs a Considerable distance to the South between the Mountains. I deturmined to take a Small party and return to this river and examine its Size and Collect as much information of the nativs on it or near its enterance into the <name type="place" key="Columbia River">Columbia</name> of its extent, the Country which it waters and the nativs who inhabit its banks &amp;c. I took with me Six Men. <name type="person" key="Thompson, John B.">Thompson</name>
+                  <name type="person" key="Potts, John">J. Potts</name>, <name type="person" key="Cruzatte, Pierre">Peter Crusat</name>, <name type="person" key="Weiser, Peter">P. Wiser</name>, <name type="person" key="Howard, Thomas P.">T. P. Howard</name>, <name type="person" key="Whitehouse, Joseph">Jos. Whitehouse</name> &amp; my man <name type="person" key="York">York</name> in a large Canoe, with an Indian whome I hired for a Sun glass to accompany me as a pilot.    at half past 11 A. M. I Set out, and had not proceeded far eer I saw 4 large Canoes at Some distance above decending and bending their Course towards our Camp which at this time is very weak <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> haveing only 10 men with him. I hisitated for a moment whether it would not be advisable for me to return and delay untill a part of our hunters Should return to add more Strength to our Camp.    but on a Second reflection and reverting to the precautions always taken by my friend <name type="person" key="Lewis, Meriwether">Capt Lewis</name> on those occasions banished all apprehensions and I proceeded on down.    at 8 miles passed a village on the South side    at this place my Pilot informed me he resided and that the name of his tribe is <hi rend="italic">
+                     <name type="place" key="Ne-cha-co-lee village">Ne-cha-co-lee</name>,</hi>
+                  <ref target="n31040217" n="17"/> this village is back or to the South of <name type="place" key="Government (Diamond, White Goose, Swan) Island">Dimond island</name>, and as we passed on the North Side of the island both decending &amp; assending did not See or know of this Village. I proceeded on without landing at this village.    at 3 P. M. I landed at a large double house of the <hi rend="italic">
+                     <name type="place" key="Ne-cha-co-lee village">Ne-er-cho-ki-oo</name>
+                  </hi> tribe of the <hi rend="italic">
+                     <name type="native_nation" key="Watlala Indians">Shah-ha-la</name>
+                  </hi> Nation.<ref target="n31040218" n="18"/>    at this place we had Seen 24 aditional Straw Huts as we passed down last fall and whome as I have before mentioned reside at the <name type="place" key="Columbia River, Cascades (Great Rapids, Great Shute)">Great rapids of the Columbia</name>.    on the bank at different places I observed Small Canoes which the women make use of to gather Wappato &amp; roots in the Slashes.    those Canoes are from 10 to 14 feet long and from 18 to 23 inches wide in the widest part tapering from the center to both ends in this form<ref target="n31040219" n="19"/> and about 9 inches deep and So light that a woman may with one hand haul them with ease, and they are Sufficient to Carry a woman on Some loading. I think 100 of those canoes were piled up and Scattered in different directions about in the Woods in the vecinity of this house, the pilot informed me that those Canoes were the property of the inhabitents of the <name type="place" key="Columbia River, Cascades (Great Rapids, Great Shute)">Grand rapids</name> who used them ocasionally to gather roots. I entered one of the rooms of this house and offered Several articles to the nativs in exchange for Wappato.<ref target="n31040220" n="20"/> they were Sulkey and they positively refused to Sell any. I had a Small pece of port fire match in my pocket, off of which I cut 〈of〉 a pece one inch in length &amp; put it into the fire and took out my pocket Compas and Set myself doun on a mat on one Side of the fire, and a magnet which was in the top of my ink Stand    the port fire cought and burned vehemently, which changed the Colour of the fire; with the Magnit I turned the Needle of the Compas about very briskly; which astonished and alarmed these nativs and they laid Several parsels of Wappato at my feet, &amp; begged of 〈that〉 me to take out the bad fire; to this I consented; at this moment the match being exhausted was of course extinguished and I put up the magnet &amp;c.    this measure alarmed them So much that the womin and children took Shelter in their beads and behind the men, all this time a very old blind man<ref target="n31040221" n="21"/> was Speaking with great vehemunce, appearently imploreing his gode. I lit my pipe and gave them Smoke &amp; gave the womin the full amount of the roots which they had put at my feet.    they appeared Somewhat passified and I left them and proceeded on on the South Side of <name type="place" key="Hayden (Image Canoe) Island">Image Canoe Island</name> which I found to be two Islands hid from the opposit Side by one near the Center of the river.    the lower point of the upper and the upper point of the lower cannot be Seen from the North Side of the <name type="place" key="Columbia River">Columbia</name> on which we had passed both decending and ascending and had not observed the apperture between<ref target="n31040222" n="22"/> those islands.    at the distance of 13 Miles below the last village and at the place I had Supposed was the lower point of the <name type="place" key="Hayden (Image Canoe) Island">image Canoe island</name>, I entered this river which the nativs had informed us of, Called <name type="place" key="Willamette (Multnomah) River">
+                     <hi rend="italic">Mult no mah</hi> River</name> so called by the nativs from a Nation who reside on <name type="place" key="Sauvie (Wapato) Island">Wappato Island</name> a little below the enterance of this river. <name type="place" key="Willamette (Multnomah) River">Multnomah</name> discharges itself in the <name type="place" key="Columbia River">Columbia</name> on the S. E. and may be justly Said to be ¼ the Size of that noble river. <name type="place" key="Willamette (Multnomah) River">Multnomah</name> had fallen 18 inches from it's greatest annual height.    three Small Islands are situated in it's mouth which hides the river from view from the <name type="place" key="Columbia River">Columbia</name>.<ref target="n31040223" n="23"/>    from the enterance of this river, I can plainly See <name type="person" key="Mount Jefferson">Mt. Jefferson</name> which is high and Covered with snow S. E. <name type="place" key="Mount Hood (Timm, Falls Mountain)">Mt. Hood</name> East, <name type="place" key="Mount St. Helens">Mt St. Helians</name> a high humped Mountain to the East of <name type="place" key="Mount St. Helens">Mt St. Helians</name>.<ref target="n31040224" n="24"/> I also Saw the <name type="place" key="Mount Rainier">Mt. Raneer</name> Nearly North. Soon after I arived at this river an old man passed down of the <hi rend="italic">
+                     <name type="native_nation" key="Clackamas (Clarkamos) Indians">Clark a'mos</name>
+                  </hi> Nation<ref target="n31040225" n="25"/> who are noumerous and reside on a branch of this river which receives it's waters from <name type="person" key="Mount Jefferson">Mt. Jefferson</name> which is emensely high and discharges itself into this river one day and a half up, this distance I State at 40 Miles. This nation inhabits 11 Villages    their Dress and language is very Similar to the <hi rend="italic">
+                     <name type="native_nation" key="Cathlapotle Indians">Quath-lah-poh-tle</name>
+                  </hi> and other tribes on <name type="place" key="Sauvie (Wapato) Island">Wappato Island</name>.
+</p>
+               <p>
+                  <figure rend="mhs">
+                     <p>Two Views of a Canoe, April 2, 1806, Voorhis No. 2
+<bibl>
+                           <orgName>Missouri Historical Society</orgName>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <p/>
+                  </figure>
+               </p>
+               <p>
+The Current of the <name type="place" key="Willamette (Multnomah) River">Multnomar</name> is as jentle as that of the <name type="place" key="Columbia River">Columbia</name> glides Smoothly<ref target="n31040226" n="26"/> with an eavin surface, and appears to be Sufficiently deep for the largest Ship. I attempted fathom it with a Cord of 5 fathom which was the only Cord I had, could not find bottom ⅓ of the distance across. I proceeded up this river 10 miles from it's enterance into the <name type="place" key="Columbia River">Columbia</name> to a large house on the N E. Side and Encamped near the house,<ref target="n31040227" n="27"/> the flees being So noumerous in the house that we could not Sleep in it.    this is the house of the <name type="native_nation" key="Cushook Indians">Cush-hooks Nation</name> who reside at the falls of this river<ref target="n31040228" n="28"/> which the pilot informs me they make use of when they Come down to the Vally to gather Wappato.    he also informs me that a number of other Smaller houses are Situated on two Bayous which make out on the S. E. Side a little below the house.    this house appears to have been laterly abandoned by its inhabitants in which they had left Sundery articles Such as Small Canoes mats, bladdles of Oil and baskits bowls &amp; trenchers.    and as my pilot informed me was gorn up this to the falls to fish which is 2 days or 60 miles up.  this house is 30 feet wide &amp; presisely 40 feet long.    built in the usial form of broad boads Covered with bark. The course and distance assending the <name type="place" key="Willamette (Multnomah) River">
+                     <hi rend="italic">Molt no mar</hi> R</name> from it's enterance into the <name type="place" key="Columbia River">Columbia</name> at the lower point of the 3rd <name type="place" key="Hayden (Image Canoe) Island">Image Canoe island</name>.    viz.</p>
+               <p>
+                  <table rows="5" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">Miles to the upper point of a Small Island in the Middle of<lb/>
+                           <name type="place" key="Willamette (Multnomah) River">Moltnomar river</name>.    thence</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Sluce 80 yards wide which devides <name type="place" key="Sauvie (Wapato) Island">Wappato Island</name>
+                           <lb/>
+from the Main Stard. Side Shore passing a Willow point on<lb/>
+the Lard. Side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 60° E.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles to a large Indian house on the Lard Side below Some<lb/>
+high pine land.    high bold Shore on the Starboard Side.<lb/>
+thence</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 30° E</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  2</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles to a bend under the high lands on the Stard Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">miles</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">10</cell>
+                        <cell role="data" rows="1" cols="1">passing a Larborad point.</cell>
+                     </row>
+                  </table>
+                  <lb/>
+thence the river bends to the East of S East as far as I could See.    at this place I think the wedth of the river may be Stated at 500 yards and Sufficiently deep for a Man of War or Ship of any burthern.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-02.03" n="lc.geo.1806-04-02.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 2nd April 1806.    9 of our men who went out last evening for meat of the 4 Elk Stayed out all night.    our officers determined to delay at this place untill the hunters kill 9 or 10 Elk and jurk the meat to take along with us. So all the best of our hunters<ref target="n31040229" n="29"/> turned out    the most of them went over to the South Shore &amp; in different directions a hunting.    the natives
+informed our officers that their is a large River<ref target="n31040230" n="30"/> comes in on the South Side
+Some distance below <name type="place" key="Sandy (Quicksand) River">quick Sand River</name> which we had not Seen So <name type="person" key="Clark, William">Capt. Clark</name> &amp; 6 men<ref target="n31040231" n="31"/> Set out with a canoe to go and examine the <name type="place" key="Sandy (Quicksand) River">Sd. River</name>.    took an Indian along for a guide.    the after part of the [day?] clear &amp; pleasant    in the evening 3 of the hunters came in    had killed two Deer.    30 odd Savages Camped with us men women &amp; children.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-02.04" n="lc.geo.1806-04-02.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 2nd.</hi>    We returned in the morning to camp; and it was agreed to stay here some time longer to hunt and dry meat. Therefore 3 parties<ref target="n31040232" n="32"/> went out to hunt. Myself and 4 men<ref target="n31040233" n="33"/> went below the mouth of <name type="place" key="Sandy (Quicksand) River">Sandy river</name>, and killed an elk, some deer and a black bear.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-02.05" n="lc.geo.1806-04-02.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday April 2nd<ref target="n31040234" n="34"/>    We sent some of our party out last evening to 
+bring in the Meat of the Elk &amp; deer; that our hunters had killed, and they staid out all night.    Our officers agreed to stay at this place, untill our hunters<ref target="n31040235" n="35"/> kill 9 or 10 Elk &amp; Jerk the meat to take with us, The best of our hunters<ref target="n31040236" n="36"/> crossed over to the South side of the River <name type="place" key="Columbia River">Columbia</name> to hunt; on their arrival there, they went out in different directions, in hopes of succeeding.—    The natives that were still with us, informed our Officers, that there was a large River, which emptied itself into the <name type="place" key="Columbia River">Columbia River</name>, on the South side, below <name type="place" key="Sandy (Quicksand) River">Sandy River</name>,—    <name type="person" key="Clark, William">Captain Clark</name> took me &amp; Six more of our party,<ref target="n31040237" n="37"/> and one Indian as a guide, in Order to go down the <name type="place" key="Columbia River">Columbia River</name> to take a view of that River, We proceeded on in a Canoe down the South side of the River, about 10 Miles.—    &amp; passed an Indian Village<ref target="n31040238" n="38"/> of 21 houses lying on the same side of the River.    This Village lay behind an Island, called <name type="place" key="Government (Diamond, White Goose, Swan) Island">Swans Island</name>,<ref target="n31040239" n="39"/> &amp; altho we had been on this Island, on our way in descending the River, none of our party had ever seen 〈it〉 this Village before.    We proceeded on 9 Miles further down the River, &amp; halted at a Village of Indians.    These Indians belonged to a band called the <name type="native_nation" key="Watlala Indians">Wyahoots</name>,<ref target="n31040240" n="40"/> which are a part of the <name type="native_nation" key="Flathead Indians">flatt had Nation</name>.—    We found in this Village, a few old Indians of that tribe; who gave us a few dried Salmon to eat, which were not very good.    We proceeded on, on to the Mouth of this great River, which the Indians had given our Officers an account of.—    The Mouth of this River came in behind an Island<ref target="n31040241" n="41"/> lying on the So. side of <name type="place" key="Columbia River">Columbia River</name>; We arrived at the mouth of this river, about Sunset, &amp; went up it, about 7 Miles, when we encamped at an old Indian lodge.    The party 〈under <name type="person" key="Clark, William">Captain Clark</name>,〉 resolved upon sleeping in this lodge, but on our entering it, we found the fleas in such great plenty, that we were forced to quit it.    The great River is called by the natives the <name type="place" key="Willamette (Multnomah) River">Mult-no-mack River</name>; it is 500 yards wide at its mouth; &amp; continues that width, as high up, as where we ascended it to.    The Indian guide that was with us, told us that it heads Near the head <name type="place" key="Pacific Ocean">Waters of the California</name>, &amp; that there is a large Nation of Indians who reside some distance up that River 〈&amp; 〉 who live on a So. fork of this River &amp; that Nation is called the <name type="native_nation" key="Clackamas (Clarkamos) Indians">Clark-a-mus</name> Nation<ref target="n31040242" n="42"/> 〈&amp; also another Nation〉 and that 30 Towns belong to them.    Our guide also informed us, that there is another nation of Indians who reside a further distance up that River, by the name of the <name type="native_nation" key="Kalapuya Indians">Cal-lap-no-wah</name> nation;<ref target="n31040243" n="43"/> who he said were also very numerous; &amp; that they reside up this River, where it is quite small.—    The guide also mentioned that it is 20 days travel to the falls of this River,<ref target="n31040244" n="44"/> which falls is 40 feet 〈fall〉 perpendicular into that River &amp; that the Tide water runs up to it,—    &amp; that the Natives have a very large Salmon fishery at that place.    Our guide also mentioned that he had seen one of the Indians of the <name type="person" key="Clackamas (Clarkamos) Indians">Clark-a-mus</name> Nation, &amp; that this Indian was 〈almost〉 white, &amp; that he mentioned they had fire Arms among them.    From the above information received from our guide, I am of opinion, that if any Welch<ref target="n31040245" n="45"/> nation of Indians are in existence, it must be 〈the〉 those Indians, &amp; not the <name type="native_nation" key="Flathead Indians">flatt head</name> Nation, as before mentioned; this I believe, from their Colour, numbers of Towns, &amp; fire arms among them, which I flatter myself will be confirmed, whenever the <name type="place" key="Willamette (Multnomah) River">River Mult-no-mack</name> is fully explored.—
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n31040201" n="1">
+               <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake (Lewis's) River</name>.</note>
+            <note xml:id="n31040202" n="2">Among those sent below were <name type="person" key="Gass, Patrick">Gass</name>, <name type="person" key="Windsor, Richard">Windsor</name>, and <name type="person" key="Collins, John">Collins</name>; among those above, <name type="person" key="Drouillard, George">Drouillard</name> and <name type="place" key="Field, Reubin">Joseph</name> and <name type="person" key="Field, Reubin">Reubin Field</name>.</note>
+            <note xml:id="n31040203" n="3">Otherwise <name type="native_nation" key="Cushook Indians">Cushooks</name>, probably a branch of the <name type="native_nation" key="Clowwewalla Indians">Clowewallas</name>, an Upper Chinookan-speaking tribe, living up the <name type="place" key="Willamette (Multnomah) River">Willamette River</name> to the south. See figs. 4, 6. Berreman, 17; Hajda (SOLC), 117. The term is Chinookan <hi rend="italic">qá<seg n="u353">š</seg>t<seg n="uxu803">x̣</seg>u-k<seg n="u353">š</seg>,</hi> "the <hi rend="italic">q́a<seg n="u353">š</seg>t<seg n="uxu803">x̣</seg>u</hi> ones," referring to a linguistic difference among <name type="native_nation" key="Chinook Indians">Chinookans</name>. Silverstein, 545. The prehistory of the <name type="place" key="Willamette Falls">Willamette Falls</name> area and nearby <name type="place" key="Clackamas (Clarkamos) River">Clackamas River</name> Valley is known primarily from the work of Woodward (CIC).</note>
+            <note xml:id="n31040204" n="4">
+               <name type="person" key="Thompson, John B.">Thompson</name>, <name type="person" key="Potts, John">Potts</name>, <name type="person" key="Cruzatte, Pierre">Cruzatte</name>, <name type="person" key="Weiser, Peter">Weiser</name>, <name type="person" key="Howard, Thomas P.">Howard</name>, <name type="person" key="Whitehouse, Joseph">Whitehouse</name>, and <name type="person" key="York">York</name>.</note>
+            <note xml:id="n31040205" n="5">A lens for focusing the sun's rays to start a fire; see <ref n="1804-08-19" type="related">August 19, 1804</ref>.</note>
+            <note xml:id="n31040206" n="6">Salal, <hi rend="italic">Gaultheria shallon</hi> Pursh, from the Chinookan <hi rend="italic">sálal,</hi> giving the plant its present common name. Hitchcock et al., 4:12. See <ref n="1805-12-09" type="related">December 9, 1805</ref>, and <ref n="1806-02-08" type="related">February 8, 1806</ref>. Two vertical lines run through nearly all of this paragraph, perhaps <name type="person" key="Biddle, Nicholas">Biddle's</name> marks.</note>
+            <note xml:id="n31040207" n="7">This ecological note on the vegetation change above the mouth of the <name type="place" key="Willamette (Multnomah) River">Willamette River</name> describes the transition between the moisture-loving vegetation of the western hemlock zone and the drier interior valley of western <name type="place" key="Oregon">Oregon</name>. As noted, the evergreen huckleberry, salal, and other shrubs typical of the maritime zone have disappeared, leaving the dull Oregon grape, <hi rend="italic">Berberis nervosa</hi> Pursh, and the Oregon grape, <hi rend="italic">B. aquifolium</hi> Pursh, the latter being the species with a prickly margin. Franklin &amp; Dyrness, 45, 110–13.</note>
+            <note xml:id="n31040208" n="8">Edible thistle, <hi rend="italic">Cirsium edule</hi> Nutt. Hitchcock et al., 5:137–38. The term may be Lower Chinookan <hi rend="italic">[i/a]<seg n="u353">š</seg>anáta(n)qi,</hi> "thistle." See <ref n="1805-11-21" type="related">November 21, 1805</ref>, and <ref n="1806-01-21" type="related">January 21, 1806</ref>.</note>
+            <note xml:id="n31040209" n="9">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> term "compound" refers to the ternately compound frond of the western bracken fern.</note>
+            <note xml:id="n31040210" n="10">The watercress, <hi rend="italic">Rorippa nasturtium-aquaticum</hi> (L.) Schinz &amp; Thell., is generally assumed to have been introduced to the United States from Europe. If this is true, the watercress referred to here is possibly <hi rend="italic">R. islandica</hi> (Oed.) Borbás. It is unlikely that <name type="person" key="Lewis, Meriwether">Lewis</name> would have confused the two since they are quite different and he would have been acquainted with the native species. Perhaps he used the term loosely to refer to any cress growing in water. Hitchcock et al., 2:536–37.</note>
+            <note xml:id="n31040211" n="11">Probably wild strawberry, <hi rend="italic">Fragaria virginiana</hi> Dushesne, but possibly woodland strawberry, <hi rend="italic">F. vesca</hi> L. Hitchcock et al., 3:108–9.</note>
+            <note xml:id="n31040212" n="12">Possibly a species of the sweet pea, <hi rend="italic">Lathyrus.</hi> Hitchcock et al., 3:278 ff.</note>
+            <note xml:id="n31040213" n="13">A species of <hi rend="italic">Potentilla</hi> (cinquefoil), possibly the silver-weed, <hi rend="italic">P. anserina</hi> L., which was collected at <name type="place" key="Fort Clatsop (Oreg.)">Fort Clatsop</name>. Hitchcok et al., 3:131; Cutright (LCPN), 274.</note>
+            <note xml:id="n31040214" n="14">The Mexican, or willow, dock, <hi rend="italic">Rumex salicifolius</hi> Weinm. Booth &amp; Wright, 41.</note>
+            <note xml:id="n31040215" n="15">Giant horsetail.</note>
+            <note xml:id="n31040216" n="16">The identity of this species is not known. There is no record of any specimen being collected this day. Menzie's larkspur, <hi rend="italic">Delphinium menziesii</hi> DC., was collected <ref n="1806-04-14" type="related">April 14, 1806</ref>, and it may be this plant, one new to science. Cutright (LCPN), 288, 407.</note>
+            <note xml:id="n31040217" n="17">"<name type="place" key="Ne-cha-co-lee village">Nech-e-co kee N.</name>" on <hi rend="italic">Atlas</hi> map 79, where the village appears in <name type="place" key="Multnomah County, Oreg.">Multnomah County</name>, <name type="place" key="Oregon">Oregon</name>, in northeast <name type="place" key="Portland, Oreg.">Portland</name>; see also figs. 4, 6. The term is Chinookan <hi rend="italic">ni-<seg n="u269">č</seg>áq<hi rend="superscript">w</hi>li,</hi> "stand of pines." Silverstein, 534. The village is almost certainly an archaeological site in <name type="place" key="Blue Lake Park">Blue Lake Park</name>. Archaeological testing indicates that occupation of this site occurred within the last 1,500 years. Archibald. They were an Upper Chinookan-language people.</note>
+            <note xml:id="n31040218" n="18">Apparently a branch of the <name type="native_nation" key="Watlala Indians">Watlala Chinookans</name> (<name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark's</name>
+               <name type="native_nation" key="Watlala Indians">Shahalas</name>). See <ref n="1805-11-02" type="related">November 2</ref> and <ref n="1805-11-04" type="related">4</ref>, 1805, <ref n="1806-03-31" type="related">March 31, 1806</ref>; figs. 4, 6. The Chinookan term may be <hi rend="italic">ni<seg n="uxu803">x̣</seg>
+                  <seg n="u269">č</seg>aqiu.</hi>
+            </note>
+            <note xml:id="n31040219" n="19">Sketches of this type of canoe in <name type="person" key="Clark, William">Clark's</name> Voorhis No. 2 (fig. 3).</note>
+            <note xml:id="n31040220" n="20">A portion of this sentence, from "Several articles" to the end, appears to have been substituted for some erasures.</note>
+            <note xml:id="n31040221" n="21">Perhaps the "Friendly old chief" of this village who assisted <name type="person" key="Broughton, William Robert">William Broughton</name> of <name type="person" key="Vancouver, George">Vancouver's</name> British expedition in 1792. In 1811, in this general area, <name type="person" key="Franchère, Gabriel">Gabriel Franchère</name> met an old blind man whose name was <name type="person" key="Soto">Soto</name> and who said that his father was a ship-wrecked Spanish sailor. <name type="person" key="Thompson, David">David Thompson</name> met a blind chief being rowed by two slaves in a canoe in the same vicinity the same year. Barry (BOC), 404–5; Franchère (JV), 83 and n. 1; Glover, 366.</note>
+            <note xml:id="n31040222" n="22">"Apperture between" seem to be sustituted words.</note>
+            <note xml:id="n31040223" n="23">From "<hi rend="italic">Mult no mah</hi>" to here are many erasures, substitutions, and interlineations.</note>
+            <note xml:id="n31040224" n="24">Probably <name type="place" key="Mount Adams">Mt. Adams</name> in <name type="place" key="Yakima County, Wash.">Yakima County</name>, <name type="place" key="Washington">Washington</name>.</note>
+            <note xml:id="n31040225" n="25">The <name type="native_nation" key="Clackamas (Clarkamos) Indians">Clackamas</name>, a Upper Chinookan-language people living on the <name type="place" key="Clackamas (Clarkamos) River">Clackamas River</name> in <name type="place" key="Clackamas County, Oreg.">Clackamas County</name>, <name type="place" key="Oregon">Oregon</name>. In the mid-nineteenth century, reduced to a handful, they were removed to the <name type="place" key="Grand Ronde Reservation">Grand Ronde reservation</name> in <name type="place" key="Oregon">Oregon</name>. Berreman, 17–18; Hodge, 1:302; Hajda (SOLC), 117–18; figs. 4, 6. The name <name type="native_nation" key="Clackamas (Clarkamos) Indians">Clackamas</name> is from <hi rend="italic">gi<seg n="uluslash">l\</seg>á-<seg n="uqu787">q̓</seg>ima<seg n="u353">š</seg>,</hi> "those of the <name type="place" key="Clackamas (Clarkamos) River">Clackamas River</name>." Silverstein, 544.</note>
+            <note xml:id="n31040226" n="26">The word appears to be substituted for an erasure.</note>
+            <note xml:id="n31040227" n="27">In the northwest part of <name type="place" key="Portland, Oreg.">Portland</name>, in <name type="place" key="Multnomah County, Oreg.">Multnomah County</name>. <hi rend="italic">Atlas</hi> map 79.</note>
+            <note xml:id="n31040228" n="28">In the vicinity of <name type="place" key="Oregon City, Oreg.">Oregon City</name>, <name type="place" key="Clackamas County, Oreg.">Clackamas County</name>.</note>
+            <note xml:id="n31040229" n="29">Including <name type="person" key="Gass, Patrick">Gass</name>, <name type="person" key="Windsor, Richard">Windsor</name>, <name type="person" key="Collins, John">Collins</name>, <name type="person" key="Drouillard, George">Drouillard</name>, and the <name type="person" key="Field, Joseph and Reubin">Field brothers</name>, according to <name type="person" key="Lewis, Meriwether">Lewis's</name> entries for the next few days.</note>
+            <note xml:id="n31040230" n="30">The <name type="place" key="Willamette (Multnomah) River">Willamette River</name> enters the <name type="place" key="Columbia River">Columbia</name> at <name type="place" key="Portland, Oreg.">Portland</name>, <name type="place" key="Multnomah County, Oreg.">Multnomah County</name>, <name type="place" key="Oregon">Oregon</name>.</note>
+            <note xml:id="n31040231" n="31">Actually seven—neither <name type="person" key="Clark, William">Clark</name> nor <name type="person" key="Ordway, John">Ordway</name> seems to have counted <name type="person" key="York">York</name>, but <name type="person" key="Lewis, Meriwether">Lewis</name> had
+the number right. They were <name type="person" key="Thompson, John B.">Thompson</name>, <name type="person" key="Potts, John">Potts</name>, <name type="person" key="Cruzatte, Pierre">Cruzatte</name>, <name type="person" key="Weiser, Peter">Weiser</name>, <name type="person" key="Howard, Thomas P.">Howard</name>, <name type="person" key="Whitehouse, Joseph">Whitehouse</name>, and <name type="person" key="York">York</name>.</note>
+            <note xml:id="n31040232" n="32">Included in one party were <name type="person" key="Drouillard, George">Drouillard</name> and the <name type="person" key="Field, Joseph and Reubin">Field brothers</name>.</note>
+            <note xml:id="n31040233" n="33">Among those with <name type="person" key="Gass, Patrick">Gass</name> were <name type="person" key="Windsor, Richard">Windsor</name> and <name type="person" key="Collins, John">Collins</name>. They remained in the area below <name type="place" key="Sandy (Quicksand) River">Sandy River</name>, <name type="place" key="Multnomah County, Oreg.">Multnomah County</name>, <name type="place" key="Oregon">Oregon</name>, until April 4, when they returned to the main party's camp.</note>
+            <note xml:id="n31040234" n="34">
+               <name type="person" key="Whitehouse, Joseph">Whitehouse's</name> final entry in the fair copy and the end of his known journal writing.</note>
+            <note xml:id="n31040235" n="35">One party included <name type="person" key="Drouillard, George">Drouillard</name> and the <name type="person" key="Field, Joseph and Reubin">Field brothers</name>.</note>
+            <note xml:id="n31040236" n="36">
+               <name type="person" key="Gass, Patrick">Gass</name> led this party, which included <name type="person" key="Windsor, Richard">Windsor</name> and <name type="person" key="Collins, John">Collins</name>. They remained in the area 
+until April 4, then returned to the main party camp.</note>
+            <note xml:id="n31040237" n="37">Including <name type="person" key="Thompson, John B.">Thompson</name>, <name type="person" key="Potts, John">Potts</name>, <name type="person" key="Cruzatte, Pierre">Cruzatte</name>, <name type="person" key="Weiser, Peter">Weiser</name>, <name type="person" key="Howard, Thomas P.">Howard</name>, and <name type="person" key="York">York</name>.</note>
+            <note xml:id="n31040238" n="38">Probably the archaeological site in <name type="place" key="Blue Lake Park">Blue Lake Park</name>, in northeast <name type="place" key="Portland, Oreg.">Portland</name>. See <name type="person" key="Clark, William">Clark's</name> 
+entry for this day.</note>
+            <note xml:id="n31040239" n="39">Actually behind the party's <name type="place" key="Government (Diamond, White Goose, Swan) Island">Diamond Island</name>, now <name type="place" key="Government (Diamond, White Goose, Swan) Island">Government Island</name>. <name type="person" key="Whitehouse, Joseph">Whitehouse's</name> 
+"<name type="place" key="McGuire (Diamond, Swan, White Goose) Island">Swans Island</name>" may be the party's <name type="place" key="McGuire (Diamond, Swan, White Goose) Island">White Goose Island</name>, now <name type="place" key="McGuire (Diamond, Swan, White Goose) Island">McGuire Island</name>.</note>
+            <note xml:id="n31040240" n="40">Apparently a branch of <name type="native_nation" key="Watlala Indians">Watlala Chinookans</name>. <name type="person" key="Whitehouse, Joseph">Whitehouse</name> again uses the term <name type="native_nation" key="Flathead Indians">Flathead</name> 
+very generally and not correctly in a tribal sense. See <name type="person" key="Clark, William">Clark's</name> entry for this day.</note>
+            <note xml:id="n31040241" n="41">The party's <name type="place" key="Hayden (Image Canoe) Island">Image Canoe Island</name>, now <name type="place" key="Hayden (Image Canoe) Island">Hayden</name> and <name type="place" key="Tomahawk (Image Canoe) Island">Tomahawk</name> islands.</note>
+            <note xml:id="n31040242" n="42">
+               <name type="native_nation" key="Clackamas (Clarkamos) Indians">Clackamas Indians</name>.</note>
+            <note xml:id="n31040243" n="43">Perhaps <name type="native_nation" key="Kalapuya Indians">Kalapuya Indians</name>.</note>
+            <note xml:id="n31040244" n="44">
+               <name type="place" key="Willamette Falls">Willamette Falls</name>, <name type="place" key="Oregon City, Oreg.">Oregon City</name>, <name type="place" key="Clackamas County, Oreg.">Clackamas County</name>, <name type="place" key="Oregon">Oregon</name>.</note>
+            <note xml:id="n31040245" n="45">
+               <name type="person" key="Whitehouse, Joseph">Whitehouse</name> revives the myth of <name type="native_nation" key="Welsh Indians">Welsh Indians</name> one last time.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-04-01" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-04-03" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

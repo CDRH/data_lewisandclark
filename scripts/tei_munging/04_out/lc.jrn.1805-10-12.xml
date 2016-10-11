@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-10-12">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+October 12, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">264-266</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">237</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">154</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">349-350</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-10-12.01">
+            <placeName/>
+            <geo>46.5667 -118.0833</geo>
+            <note>Camped near present Riparia, Whitman County, WA, below the mouth of Alkali Flat Creek.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-06-30</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-10-12">October 12, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-10-12.01" n="lc.geo.1805-10-12.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">October 12th 〈Friday〉 1805</hi> Saturday</date>
+               </ab>
+               <p>
+a fair cool morning wind from E    after purchasing all the drid fish those people would Spear from their hole in which they wer buried we Set out at 7 oClock and proceeded on</p>
+               <p>
+                  <table rows="13" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles    passed 4 Islands at 1½ miles 〈three〉 3 nearly op-<lb/>
+post    a bad rapid on the Lard Side of those Islands, and<lb/>
+Swift water around them to a Lard. point    passed a Stard<lb/>
+point</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Lard Bend    passed a Small rapid &amp; Island on<lb/>
+the Lard. also an Indian Cabin.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Stard. Bend    the bottoms are narrow from the<lb/>
+points, the bends &amp; high lands have Clifts of ruged rock to<lb/>
+the river, &amp; bottoms</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 70° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles to a bend on the Stard. at a rapid Isd opsd.    passed a<lb/>
+rapid on the Std. Side of a Stoney Island, opsd. to which on<lb/>
+the Std. Side below the rapid a Small Creek<ref target="n23101201" n="1"/> falls in   	Saw<lb/>
+an Indian on the high land at a distance.    no timber in<lb/>
+view</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles to a pt. in Lard. bend    here the Plains become low on<lb/>
+both Sides    river about 400 yards wide</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to the mouth of a Creek Ente in a Lard. bend opsd. a<lb/>
+Small Island on the Lard Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 85° W</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">to the Stard. bend at a Swift place    about half the distance<lb/>
+of this course Cp L took Meridian altitd. on Ld. Side 72°<lb/>
+30' 0"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard Bend, (low open country)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 88° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3 ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. Bend    wind S W. and hard.    plain country rise<lb/>
+gradually on each side    passed Island and rapid an Indian<lb/>
+house on the Stard.<ref target="n23101202" n="2"/> Some Indians at it &amp;c.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">  6</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Stard. bend    passed an Isld. at 4 miles &amp; one at<lb/>
+5 miles, Swift water, and Sholey</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile to a Lard bend    passd. a rapid at the upper pt. of a<lb/>
+Small Stoney Isd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  1</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">mile to a Stard. bend opsd. a Small Island Close under the<lb/>
+Lard Shore    passed a run on the Std. side.    here we Came<lb/>
+too to view a falls or very bad rapid imediately below<lb/>
+(Camped) which the Inds. informed us was very bad, we<lb/>
+found it bad. Sent our Small canoe over—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">30</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-12.02" n="lc.geo.1805-10-12.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">October 12th 〈Friday〉 Saturday 1805</hi>
+                  </date>
+               </ab>
+               <p>		
+A fair Cool morning wind from the East.    after purchaseing every Speces of the provisions those Indians could Spare we Set out and proceeded on    at three miles passed four Islands Swift water and a bad rapid opposit to those Islands on the Lard. Side.    at 14½ miles passed the mouth of a large Creek on the Lard Side<ref target="n23101203" n="3"/> opposit a Small Island here the Countrey assends with a gentle assent to the high plains, and the River is 400 yards wide    about 1 mile below the Creek on the Same Side took meridian altitude which gave <hi rend="italic">72° 30' 00"</hi> Latitude produced [<hi rend="italic">blank</hi>] North    in the afternoon the wind Shifted to the S. W. and blew hard    we passed to day [<hi rend="italic">blank</hi>] rapids Several of them very bad and came to at the head of one (at 30 miles) on the Stard. Side to view it before we attemptd. to dsend through it. The Indians had told us was verry bad—    we found long and dangerous about 2 miles in length, and maney turns necessary to Stear Clare of the rocks, which appeared to be in every direction. The Indians went through &amp; our Small Canoe followed them, as it was late we deturmined to camp above untill the morning.<ref target="n23101204" n="4"/>    we passed Several Stoney Islands today    Country as yesterday open plains, no timber of any kind a fiew Hack berry bushes &amp; willows excepted, and but few drift trees to be found So that fire wood is verry Scerce—<ref target="n23101205" n="5"/>    The hills or assents from the water is faced with a dark ruged Stone.<ref target="n23101206" n="6"/> The wind blew hard this evening.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-12.03" n="lc.geo.1805-10-12.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Saturday 12th Oct. 1805.    a fair morning.    we Set out eairly, and proceeded on as usal.    passed a number of old fishing camps along the Shores.    high plains    no timber.    we came 35 miles this day and Camped on the Stard Side little above a bad rockey rapid.    our Small pilot canoe and the 
+Indian canoe went over [the rapids?] this evening
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-12.04" n="lc.geo.1805-10-12.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 12th.</hi>    We had a fine morning and proceeded on early. Two of the <name type="native_nation" key="Flathead Indians">Flathead</name> chiefs remained on board with us, and two of their men went with the stranger<ref target="n23101207" n="7"/> in a small canoe, and acted as pilots or guides. We saw some ducks and a few geese, but did not kill any of them. There is no four-footed game of any kind near this part of the river, that we could discover; 
+and we saw no birds of any kind, but a few hawks, eagles and crows. At noon we halted, cooked and eat some fish and then proceeded on. The country and river this day is much the same in appearance as what we passed yesterday. A little before sunset we came to a bad rapid, which we did not wish to pass at night, so we encamped above on the north side, having made 30 miles.</p>
+               <p>
+Some of the <name type="native_nation" key="Flathead Indians">Flathead</name> nation<ref target="n23101208" n="8"/> of Indians live all along the river this far down. There are not more than 4 lodges in a place or village, and these small 
+camps or villages are 8 or 10 miles apart: at each camp there are 5 or 6 small canoes. Their summer lodges are made of willows and flags, and their winter lodges of split pine, almost like rails, which they bring down on rafts to this part of the river where there is no timber.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-12.05" n="lc.geo.1805-10-12.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+〈Thursday〉 Saturday 12th Oct. 1805.    a clear pleasant morning.    we Set out eairly and proceeded on as usal.    the country continues the Same as yesterday    Saw a nomber of old fishing Camps along the Shores.    the current Swift in Some places, but gentle in general.    about 12 oClock we halted 
+to dine on the Lard. Shore.    could Scarsely find wood enofe to cook our victules.    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> took an Meridian observation.    we then proceeded on verry well    passed Several more fishing Camps.    the wind rose hard from the west    our general course west.    high clifts of rocks &amp; high prarie on each Side.    this River is verry handsom and country pleasant but no timber at all.    we Came 35 miles this day and Camped on the Starbord Side at the head of a bad rockey rapid which we expect is difficult to pass.    the Indians canoe and our Small pilot canoe went over this evening.    we expect that we have got past the numerous <name type="native_nation" key="Flathead Indians">flat head</name> nation.    only the guides who are with us they tell us that in 2 days more we will come to another nation at a fork which comes in on the St. Side of the <name type="place" key="Columbia River">Columbian River</name>.—</p>
+               <p>
+Saturday October 12th    We had a clear pleasant morning, &amp; we set out early &amp; proceeded on our Voyage down the River.    The Country has the same appearance as it had Yesterday.    we passed a number of old fishing 
+Camps, lying along the Shores on both sides of the River, and found the current of the River run very swift in many places.    About 12 o'Clock A. M. we halted to dine on the South side of the River where we could scarcely find wood enough to Cook our provisions.    <name type="person" key="Lewis, Meriwether">Captain Lewis</name> took at this place a 
+Meridian Observation and found this place to lay in Latitude 46° 29' 21 7/10S. North.    We continued our Voyage at 2 o'Clock P. M. &amp; passed several more fishing Camps, lying on both sides of the River.    The wind rose &amp; blew hard from the West.    We also passed high clifts of Rocks &amp; high Priaries, both lying on each side of the River, &amp; they had a handsome appearance.    The Country has a pleasant appearance this day, but no kind of timber is to be seen.    We came about 35 Miles this day, &amp; encamped on the North side of the River, at the head of a bad Rockey rapid, where we expect to meet with difficulty in passing it.—    We got the Indians Canoe &amp; our smallest Canoe over this rapid this evening.    We expect that we have passed the <name type="native_nation" key="Flathead Indians">flatt head Nation</name>, which were very numerous.    Our Guides who are Indians inform us, that in 2 days more sailing, that we shall come to another Nation of Indians, who reside near a fork of the River <name type="place" key="Columbia River">Columbia</name> &amp; that this fork lies on the South side of the said River.—
+
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n23101201" n="1">
+               <name type="place" key="Penawawa Creek">Penawawa Creek</name> ("Brook" on <hi rend="italic">Atlas</hi> map 73), near <name type="place" key="Penawawa, Wash.">Penawawa</name>, <name type="place" key="Whitman County, Wash.">Whitman County</name>, <name type="place" key="Washington">Washington</name>.</note>
+            <note xml:id="n23101202" n="2">Shown as "Cabin" on <hi rend="italic">Atlas</hi> map 73, near present <name type="place" key="Little Goose Dam">Little Goose Dam</name>.</note>
+            <note xml:id="n23101203" n="3">
+               <name type="place" key="Deadman Creek (Wash.)">Deadman Creek</name> ("Creek Small" on <hi rend="italic">Atlas</hi> map 73), meeting the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake</name> at <name type="place" key="Central Ferry State Park">Central Ferry State Park</name>, <name type="place" key="Garfield County, Wash.">Garfield County</name>, <name type="place" key="Washington">Washington</name>.</note>
+            <note xml:id="n23101204" n="4">In the vicinity of present <name type="place" key="Riparia, Wash.">Riparia</name>, <name type="place" key="Whitman County, Wash.">Whitman County</name>, below the mouth of <name type="place" key="Alkali Flat Creek">Alkali Flat Creek</name>  (shown as "Brook" on <hi rend="italic">Atlas</hi> map 73).</note>
+            <note xml:id="n23101205" n="5">They had entered the arid <name type="place" key="Great Columbian Plain">Great Columbian Plain</name>, whose barren landscape offered a great contrast to the wooded mountains to the east. Allen (PG), 307–9; Meinig.</note>
+            <note xml:id="n23101206" n="6">The dark rugged stone is Miocene-age basalt of the Columbia River Basalt Group. These rocks occupy much of the <name type="place" key="Columbia Plateau">Columbia Plateau</name> and were formed by the cooling of sheets of molten lava that extended for hundreds of miles and were up to several hundred feet thick.</note>
+            <note xml:id="n23101207" n="7">Presumably the Indian of "another nation" mentioned by <name type="person" key="Gass, Patrick">Gass</name> the previous day. <name type="person" key="Clark, William">Clark</name> does not note his presence with the party.</note>
+            <note xml:id="n23101208" n="8">
+               <name type="person" key="Gass, Patrick">Gass</name>, <name type="person" key="Whitehouse, Joseph">Whitehouse</name>, and the captains use the term "<name type="native_nation" key="Flathead Indians">Flathead</name>" in a very general way to refer to various peoples west of the <name type="place" key="Continental Divide">Continental Divide</name>. The people along the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake River</name> in this area were <name type="native_nation" key="Nez Perce Indians">Nez Perces</name> and <name type="native_nation" key="Palouse Indians">Palouses</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-10-11" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-10-13" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

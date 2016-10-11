@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-01-09">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+January 9, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 6</title>
+               <title level="m" type="sub">November 2, 1805–March 22, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1990</date>
+               <biblScope type="pages">186-192</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">265</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages"/>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">411</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-01-09.01">
+            <placeName/>
+            <geo>45.9833 -123.9167</geo>
+            <note>Clark and his party return to the Fort Clatsop camp, Clatsop County, OR. Remained here until 03-23-1806.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-08-06</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-01-09">January 9, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-01-09.01" n="lc.geo.1806-01-09.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Friday</hi> [<hi rend="italic">NB: Thursday</hi>] <hi rend="italic">January 9th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+Our men are now very much engaged in dressing Elk and Deer skins for mockersons and cloathing.    the deer are extreemly scarce in this neighbourhood, some are to be found near the praries and open grounds along the coast.    this evening we heard seven guns in quick succession after each other, they appeared to be on the Creek to the South of us and several miles distant; I expect that the hunters <name type="person" key="Drouillard, George">Drewyer</name> and <name type="person" key="Collins, John">Collins</name> have fallen in with a gang of Elk.    some marrow bones and a little fresh meat would be exceptable; I have been living for two days past on poor dryed Elk, or <hi rend="italic">jurk</hi> as the hunters term it.</p>
+               <p>
+The <name type="native_nation" key="Clatsop Indians">Clatsops</name>
+                  <name type="native_nation" key="Chinook Indians">Chinnooks</name> &amp;c. bury their dead in their canoes.    for this purpose four pieces of split timber are set erect on end, and sunk a few feet in the grown, each brace having their flat sides opposite to each other and sufficiently far assunder to admit the width of the canoes in which the dead are to be deposited; through each of these perpendicular posts, at the hight of six feet a mortice is cut, through which two bars of wood are incerted; on these cross bars a small canoe is placed in which the body is laid after being carefully roled in a robe of some dressed skins; a paddle is also deposited with them; a larger canoe is now reversed, overlaying and imbracing the small one, and resting with it's gunwals on the cross bars; one or more large mats of rushes or flags are then roled around the canoes and the whole securely lashed with a long cord, usually made of the bark of the <hi rend="italic">Arbor vita</hi> or white cedar.    on the cross bars which support the canoes is frequently hung or laid various articles of cloathing culinary eutensels &amp;c.    I cannot understand them sufficiently to make any enquiries relitive to their religious opinions, but presume from their depositing various articles with their dead, that they believe in a state of future existence.</p>
+               <p>
+The persons who usually visit the entrance of this river for the purpose or traffic or hunting I believe are either English or Americans; the Indians inform us that they speak the same language with ourselves, and give us proofs of their varacity by repeating many words of English, as musquit, powder, shot, nife, file, damned rascal, sun of a bitch &amp;c.    whether these traders are from <name type="place" key="Nootka Sound">Nootka sound</name>, from some other late establishment on this coast, or immediately from the U' States or <name type="place" key="England">Great Britain</name>, I am at a loss to determine, nor can the Indians inform us.    the Indians whom I have asked in what direction the traders go when they depart from hence, or arrive here, always point to the S. W. from which it is presumeable that Nootka cannot be their destination; and as from Indian information a majority of these traders annually visit them about the beginning of April and remain with them six or seven Months, they cannot come immediately from <name type="place" key="England">Great Britain</name> or the U' States, the distance being too great for them to go and return in the ballance of the year.    from this circumstance I am sometimes induced to believe that there is some other establishment on the coast of America south West of this place of which little is but yet known to the world, or it may be perhaps on some Island in the pacific ocean between the Continents of Asia and America to the South West of us.<ref target="n27010901" n="1"/> This traffic on the part of the whites consists in vending, guns, (principally old british or American musquits) powder, balls and Shot, Copper and brass kettles, brass teakettles and coffee pots, blankets from two to three point,<ref target="n27010902" n="2"/> scarlet and blue Cloth (coarse), plates and strips of sheet copper and brass, large brass wire, knives, beads and tobacco with fishinghooks buttons and some other small articles; also a considerable quantity of Sailor's cloaths, as hats coasts, trowsers and shirts.    for these they receive in return from the natives, dressed and undressed Elkskins, skins of the sea Otter, common Otter, beaver, common fox,<ref target="n27010903" n="3"/> spuck,<ref target="n27010904" n="4"/> and tiger cat;<ref target="n27010905" n="5"/> also dryed and pounded sammon in baskets, and a kind of buisquit, which the natives make of roots called by them shappelell.<ref target="n27010906" n="6"/>    The natives are extravegantly fond of the most common cheap blue and white beads, of moderate size, or such that from 50 to 70 will weigh one penneyweight.<ref target="n27010907" n="7"/>    the blue is usually pefered to the white; these beads constitute the principal circulating medium with all the indian tribes on the river; for these beads they will dispose any article they possess.—    the beads are strung on strans of a fathom in length and in that manner sold by the bredth or yard.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-09.02" n="lc.geo.1806-01-09.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>January 9th Thursday 180[5?]</date>
+               </ab>
+               <p>
+a fine morning wind N E    Set out at day lighte every man Some meat of the whale and a little oile    proceded on the track    we Came out to a house at a branch where we halted ½ an hour to rest  this house is at at place an old village has formerly been, on the Coast at the Comencment [<hi rend="italic">blank</hi>] 27 foot wide 35 feet long Sunk in the ground 5 feet 2 Dores &amp; 2 fire places dores 29 Ins. high &amp; 14¼ wide handsom Steps to decend down a post in the middle Coverede with boards Split thin an 2 feet wide, old grave in Canoes of 3 feet 8 Inches wide &amp; 5 feet long neetly made high at bow    proceded on to the top of the hill Passing 3 bad points rockey &amp;.    from the <name type="place" key="Tillamook Head (Clark's Point of View)">Point Clarks Point of view</name>
+                  <name type="place" key="Cape Disappointment">Cape Disapt.</name> bears S. 12° E passing a Great point at 15 miles one at 40 miles rocks out to the 1st large point from the Creek 4 points, between the 1st large Point and 2d a point of many large rocks, Day Clouded up, I can See a point Bearing N 5° East a long way just in Sight.    from <name type="place" key="Tillamook Head (Clark's Point of View)">Clarks 〈lookout〉 View Point</name> to <name type="place" key="Cape Disappointment">Cape Disapointment</name> is N 20° W.    To <name type="place" key="Point Adams">point <hi rend="italic">adams</hi>
+                  </name> &amp; the open Slope point is North and a Sharp point, met a party of <name type="native_nation" key="Chinook Indians">Chinnooks</name> going to get whale blubber to eate &amp; oile each of which they eate together, we also over took Several parties of the <name type="native_nation" key="Clatsop Indians">Clot Sops</name> loaded with imence laods of the blubber and <hi rend="italic">oile</hi>    maney of those loads I with difficuelty raised, Estonishing what custom will [do?]    at 2 oClock we arrived at the Camp of our Salt makers verry much fatigued, more So than I ever was before, the Indians all proceeded on, I concluded to Stay all night,<ref target="n27010908" n="8"/> as the party was much fatigued, and Send out 2 men which I had left here to hunt Ducks up the little river, <name type="person" key="Field, Joseph">Jo. Fields</name> had killed an Elk and brought in a quarter on which we Dined    he also had killed &amp; brought in a <hi rend="italic">Deer.</hi> The Indians with the oile &amp; bluber tole me they had to purchase of the <hi rend="italic">
+                     <name type="native_nation" key="Tillamook Indians">Ca-le nixx</name>
+                  </hi>
+                  <ref target="n27010909" n="9"/> and would Come to the <hi rend="italic">fort</hi> &amp; Sell to us in 3 Days time, this I incouraged, as I expect to purchase at the fort as cheep as at the village at which I was, day proved fine.    rained the greater part of the night    I went into an Indian Lodge they were pore Durty and the house full of flees.    he offered me roots which they geather on the Sea Cost a kind of rush, of which they offered me to eate,
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-09.03" n="lc.geo.1806-01-09.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Thursday 9th of January 1805</hi> [1806]</date>
+               </ab>
+               <p>
+a fine morning wind from the N. E.    last night about 10 oClock while Smokeing with the nativ's I was alarmed by a loud Srile voice from the Cabins on the opposite Side, the Indians all run immediately across to the village, my guide who Continued with me made Signs that Some one's throat was Cut, by enquiry I found that one man <name type="person" key="McNeal, Hugh">mcNeal</name> was absent, I imediately Sent off <name type="person" key="Pryor, Nathaniel Hale">Sergt. N. Pryor</name> &amp; 4 men in quest of <name type="person" key="McNeal, Hugh">McNeal</name> who' they met comeing across the Creak in great hast, and informed me that the people were alarmed on the opposit Side at Something but what he could not tell, a man had verry friendly envited him to go and eate in his lodge, that the Indian had locked armes with him and went to a lodge in which a woman gave him Some blubber, that the man envited him to another lodge to get Something better, and the woman [<hi rend="italic">NB: knowing his design</hi>] held him [<hi rend="italic">NB: <name type="person" key="McNeal, Hugh">McNeal</name>
+                  </hi>] by the blanket which he had around him    [<hi rend="italic">NB: He not knowing her object freed himself &amp; was going off, when this woman a <name type="native_nation" key="Chinook Indians">Chinnook</name> an old friend of <name type="person" key="McNeal, Hugh">McNeals</name>
+                  </hi>] 〈and〉 another ran out and hollow'd and his pretended friend disapeared—    I emediately ordered every man to hold themselves in a State of rediness and Sent <name type="person" key="Pryor, Nathaniel Hale">Sergt. Pryor</name> &amp; 4 men to know the cause of the alarm which was found to be a premeditated plan of the pretended friend of <name type="person" key="McNeal, Hugh">McNeal</name> to assanate for his Blanket and what fiew articles he had about him, which was found out by a <name type="native_nation" key="Chinook Indians">Chin nook</name> woman who allarmed the men of the village who were with me in time to prevent the horred act.    this man was of another band at Some distance and ran off as Soon as he was discovered.    we have now to look back and Shudder at the dreadfull road on which we have to return of 45 miles S E of <name type="place" key="Point Adams">Point adams</name> &amp; 35 miles from <name type="place" key="Fort Clatsop (Oreg.)">Fort <hi rend="italic">Clatsop.</hi>
+                  </name>    I had the blubber &amp; oil divided among' the party and Set out about Sunrise and returned by the Same rout we had went out, met Several parties of men &amp; womin of the <name type="native_nation" key="Chinook Indians">Chinnook</name> and <name type="native_nation" key="Clatsop Indians">Clatsops</name> nations, on their way to trade with the <hi rend="italic">
+                     <name type="native_nation" key="Tillamook Indians">Kil a mox</name>
+                  </hi> for blubber and oil; on the Steep decent of the Mountain I overtook five men and Six womin with emence loads of the Oil and blubber of the Whale, those Indians had passed by Some rout by which we missed them as we went out yesterday; one of the women in the act of getting down a Steep part of the mountain her load by Some means had Sliped off her back, and She was holding the load by a Strap which was fastened to the mat bag in which it was in, in one hand and holding a bush by the other, as I was in front of my party, I endeavored to relieve this woman by takeing her load untill She Could get to a better place a little below, &amp; to my estonishment found the load as much as I Could lift and must exceed 100 wt.    the husband of this woman who was below Soon came to her releif, those people proceeded on with us to the Salt works, at which place we arrived late in the evening, found them without meat, and 3 of the Party <name type="person" key="Field, Joseph">J. Field</name>
+                  <name type="person" key="Gibson, George">Gibson</name> &amp; <name type="person" key="Shannon, George">Shannon</name> out hunting.    as I was excessively fatigued and my party appeared verry much so, I deturmined to Stay untill the morning and rest our Selves a little. The <name type="native_nation" key="Clatsop Indians">Clatsops</name> proceeded on with their lodes—    The <name type="native_nation" key="Clatsop Indians">Clatsops</name>, <name type="native_nation" key="Chinook Indians">Chin nooks</name>
+                  <name type="native_nation" key="Tillamook Indians">Kil á mox</name> &amp;c. are verry loquacious and inquisitive; they possess good memories and have repeeted to us the names capasities of the Vessels &amp;c of many traders and others who have visited the mouth of this river; they are generally low in Statue, proportionably Small, reather lighter complected and much more illy formed than the Indians of the <name type="place" key="Missouri River">Missouri</name> and those of our fronteers; they are generally Chearfull but never gay.    with us their Conversation generally turns upon the subject of trade, Smokeing, eating or their womin; about the latter, they Speak without reserve in their presence, of their every part, and of the most farmiliar Connection.    they do not hold the virtue of their womin in high estimation, and will even prostitute their wives and daughters for a fishing hook or a Stran of beeds.    in Common with other Savage nations they make their womin perform ever Species of domestic drugery; but in almost every Species of this drugery the men also participate.  their woman are compelled to gather roots, and assist them in takeing fish; which articles form much the greater prat of their Subsistance; notwithstanding the Survile manner in which they treat their womin they pay much more respect to their judgement and opinion in maney respects than most indian nations; their womin are permited to Speak freely before them, and Sometime appear to command with a tone of authority; they generally consult them in their traffic and act conformably to their opinions.</p>
+               <p>
+I think it may be established as a general maxim that those nations treat their old people and women with most defference and respect where they Subsist principally on Such articles that these can participate with the men in obtaining them; and that, that part of the Community are treated with least attention, when the act of precureing subsistance devolves intirely on the men in the vigor of life. It appears to me that nature has been much more deficient in her filial ties than in any others of the Strong effections of the humane heart, and therefore think our old men equally with our woman indebted to Sivilization for their ease and Comfort. I am told among the <name type="native_nation" key="Sioux Indians">Sioux's</name>, <name type="native_nation" key="Assiniboine Indians">Assinniboins</name> and others on the <name type="place" key="Missouri River">Missouri</name> who Subsist by hunting it is a Custom when a person of either Sex becoms So old and infirm that they are unable to travel on foot, from Camp to Camp as they rove in serch of Subsistance, for the Children or near relations of Such person to leave them with Compunction or remorse; on those occasions they usially place within their reach a Small piece of meat and a platter of water, telling the poor old Superannuated retch for their Consolation, that he or She had lived long enough, and that it was time they Should die and go to their relations who Can afford to take Care of them, much better than they Could. I am informed that the <name type="native_nation" key="Hidatsa Indians">Me ne tar es</name>
+                  <name type="native_nation" key="Hidatsa Indians, Awaxawi">Ar war har mays</name> and <name type="native_nation" key="Arikara Indians">Ricares</name> when attended by their old people on their hunting expedition prosued the Same Custom; but in justice to those people I must observe that it appeared to me at their villages, that they provided tolerably well for their aged persons, and Several of their <hi rend="italic">feasts</hi> appear to have principally for their object a contribution for their aged and infirm persons. In one of the <name type="native_nation" key="Mandan Indians">Mandan</name> villages I Saw an old man to whome I gave a knife and enquired his age, he Said he had Seen more than 100 winters, and that he Should Soon go down the river to their old village—    he requested I would give him Something to prevent the pain in his back    his grand Son a Young man rebuked the old man and Said it was not worth while, that it was time for the old man to die.    the old man occupied one Side of the fire and was furnished with plenty of Covouring and food, and every attention appeared to be paid him &amp;c. <name type="person" key="Field, Joseph">Jo. Field</name> in my absence had killed an Elk and a Deer, brought in the Deer and half of the Elk on a part of which we Suped, Some rain a little after dark. I visited a house near the Salt boilers found it inhabited by 2 families, they were pore dirty and their house Sworming with flees.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-09.04" n="lc.geo.1806-01-09.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Thursday 9th Jany. 1806.    rained the greater part of last night but cleared off pleasant this morning, and continues warm
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-09.05" n="lc.geo.1806-01-09.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Thursday Janry 9th    It rained the greater part of last night, &amp; the two hunters that went out Yesterday did not return.    the Weather cleared off this morning &amp; became warm &amp; pleasant.    the Men in the fort were employed mending their Clothes, airing the baggage, making moccasins dressing Skins &amp;ca.—
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n27010901" n="1">In 1788 the British sea captain <name type="person" key="Meares, John">John Meares</name> established a trading base on <name type="place" key="Nootka Sound">Nootka Sound</name>, <name type="place" key="Vancouver Island">Vancouver Island</name>. A few years later American traders were using <name type="place" key="Clayoquot Sound">Clayoquot Sound</name> on the same island as a base. Neither of these was a permanent settlement. The conjecture about a Pacific island was also correct, for most of these traders were operating out of the <name type="place" key="Hawaii">Hawaiian Islands</name>. Thwaites (LC), 3:327 n. 1; Gibson (BMNC); Gough; Ruby &amp; Brown (CITC), 40–90.</note>
+            <note xml:id="n27010902" n="2">Referring to a system for measuring trade blankets by size and weight. See above, <ref n="1805-08-20" type="related">August 20, 1805</ref>.</note>
+            <note xml:id="n27010903" n="3">Probably the red fox, <hi rend="italic">Vulpes vulpes.</hi>
+            </note>
+            <note xml:id="n27010904" n="4">See below, <ref n="1806-02-23" type="related">February 23, 1806</ref>.</note>
+            <note xml:id="n27010905" n="5">The men's term for the Oregon bobcat. Burroughs, 92–93.</note>
+            <note xml:id="n27010906" n="6">Cous, <hi rend="italic">Lomatium cous</hi> (Wats.) Coult. &amp; Rose. Hitchcock et al., 3 :548–49. See above, <ref n="1805-11-01" type="related">November 1, 1805</ref>.</note>
+            <note xml:id="n27010907" n="7">A troy weight of twenty-four grains, one-twentieth of a troy ounce.</note>
+            <note xml:id="n27010908" n="8">At the <name type="place" key="Saltmaking Camp (Oreg.)">salt works</name> camp at <name type="place" key="Seaside, Oreg.">Seaside</name>, <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>, <name type="place" key="Oregon">Oregon</name>. <hi rend="italic">Atlas</hi> map 84; fig. 13.</note>
+            <note xml:id="n27010909" n="9">Presumably the <name type="native_nation" key="Tillamook Indians">Tillamooks</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-01-08" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-01-10" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-06-02">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+June 2, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 4</title>
+               <title level="m" type="sub">April7–July 27, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">241-245</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">161</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">97</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">182-183</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-06-02.01">
+            <placeName/>
+            <geo>47.9274 -110.4734</geo>
+            <note>About a mile or so below the mouth of the Marias River in Chouteau County, MT. They remained here until 1805-06-12</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-02-03</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-06-02">June 2, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-06-02.01" n="lc.geo.1805-06-02.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Sunday June 2ed 1805</hi>
+                  </date>
+               </ab>
+               <p>
+The wind blew violently last night and was attended by a slight shower of rain; the morning was fair and we set out at an early hour.    imployed the chord as usual the greater part of the day.    the courant was strong tho' regular, and the banks afforded us good toeing.    the wind was hard and against us yet we proceded with infinitely more ease than the two precedeing days. The river bluffs still continue to get lower and the plains leveler and more extensive; the timber on the river increases in quantity; the country in all other rispects much as discribed yesterday. I think we are now completely above the <name type="place" key="Black Hills">black hills</name>
+                  <ref target="n14060201" n="1">[<hi rend="italic">NB: see note of May 29</hi>]</ref>    we had a small shower of rain today but it lasted only a few minutes and was very moderate. Game becomeing more abundant this morning and I thought it best now to loose no time or suffer an opportunity to escape in providing the necessary quantity of Elk's skins to cover my leather boat which I now expect I shall be obliged to use shortly. Accordingly I walked on shore most of the day with some of the hunters for that purpose and killed 6 Elk 2 buffale 2 Mule deer and a bear.    these anamals were all in good order we therefore took as much of the meat as our canoes and perogues could conveniently carry.    the bear was very near catching <name type="person" key="Drouillard, George">Drewyer</name>; it also pursued <name type="person" key="Charbonneau, Toussaint">Charbono</name> who fired his gun in the air as he ran but fortunately eluded the vigilence of the bear by secreting himself very securely in the bushes untill <name type="person" key="Drouillard, George">Drewyer</name> finally killed it by a shot in the head; the [<hi rend="italic">NB: only</hi>] shot indeed that will conquer the farocity of those tremendious anamals.—    in the course of the day we passed 9 Islands all of them small and most of them containing some timber.—</p>
+               <p>we came too on the Lard. side in a handsome bottom of small cottonwood timber opposite to the entrance of a <ref target="n14060202" n="2">very considerable river;</ref> but it being too late to examine these rivers minutely to night we determined to remain here untill the morning, and as the evening was favourable to make some obsevations.—</p>
+               <p>
+                  <table rows="20" cols="3">
+                     <head>
+                        <hi rend="italic">Courses and distances June 2cd 1805.</hi>
+                        <ref target="n14060203" n="3"/>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 85° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">to a few trees on a Lard. point.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">Along the Lard. point opposite to a bluff.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 40° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to some trees in a Stard bend.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 20° E.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to some willows on the Lard. side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 30° E.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to a bush on a Stard. point opposite to a low bluff</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">Along the Stard. point.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a tree in a Lard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">   2</cell>
+                        <cell role="data" rows="1" cols="1">to a point on Lard. side opposite to a bluff</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 68° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">Along the Lard. shore oppst. an Island.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 35° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">Along the Lard. shore</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 25° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to the point of a timbered bottom on Lard.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">  2 ¾</cell>
+                        <cell role="data" rows="1" cols="1">to a point on Stard. oppst. a dark bluff, passing three<lb/>
+Islands; small.—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">Along the Stad. side passing two small Islands on Lard.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¾</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. point opposite to a bluff.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to the Lower point of an Island near a Stard. point.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 65° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timber on the Lard. side opposite a bluff the<lb/>
+Island and also another small one near the Stard. side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 20° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to the head of an island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timber on the Stard. side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 72° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <ref target="n14060204" n="4">
+                              <hi rend="underline">     ¼</hi>
+                           </ref>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">to a point between two large rivers one of which is 362<lb/>
+Yds. and the 2cd or right hand fork [<hi rend="italic">EC: <name type="place" key="Marias River">Maria's</name>
+                           </hi>] is 200<lb/>
+Yd. wide.    encamped on the Lard. shore opposite the<lb/>
+junction of those rivers.—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Miles </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">18</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi rend="right">
+                     <hi rend="italic">June 2cd<lb/>Point of observation No. 25.</hi>
+                  </hi>
+               </p>
+               <p>On the Lard. side, one mile from the commencement of the 12th course of this day, observed Meridian altd. of <seg n="u9737">☉</seg>'s L. L. with Octant by the back observation    57° 52'</p>
+               <p>
+Latitude deduced from this observation [<hi rend="italic">blank</hi>]</p>
+               <p>
+                  <hi rend="right">
+                     <hi rend="italic">Point of Observation No. 26.</hi>
+                  </hi>
+               </p>
+               <p>
+At our encampment of this evening on the Lard. side of the <name type="place" key="Missouri River">Missouri</name>.
+Observed time and distance of <seg n="u9789">☽</seg>'s Western limb from Spica <seg n="u9805">♍</seg>, <seg n="u9733">★</seg>, East, with Sextant.</p>
+               <p>
+                  <table rows="10" cols="4">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">
+                              <hi rend="center">Time</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">     </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">
+                              <hi rend="center">Distance</hi>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h      m      s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">P.M.</cell>
+                        <cell role="data" rows="1" cols="1">10    58    53</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">53°   56'   45"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">11      3    33</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       55    30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"         5    52</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       54    30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"         8    15</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       52    30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       10    52</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       52    30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       13    16</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       50    45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       15      6</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       49    15</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       18    22</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       48</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="10" cols="4">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">
+                              <hi rend="center">Time</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">     </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">
+                              <hi rend="center">Distance</hi>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h      m      s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">P.M.</cell>
+                        <cell role="data" rows="1" cols="1">11    30    43</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">53°   42'   45"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       33    46</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       41    15</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       36      2</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       40    15</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       38    35</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       38    45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       41    28</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       36    30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       43    16</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       36    15</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       45    12</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       34    45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       47</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       33</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-06-02.02" n="lc.geo.1805-06-02.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">June 2nd Sunday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+we had a hard wind and a little rain last night, this morning fair    we Set out at an early hour, wind from the S W.    Some little rain to day wind hard a head, the Countrey much like that of yesterday as discribed    <name type="person" key="Lewis, Meriwether">Capt Lewis</name> walked on Shore, himself &amp; the hunters killed 6 Elk &amp; a Bear and 2 mule deer, and 2 buffalow which was all in good order    a beaver also killed to day, passed 9 Islands to day    the Current Swift but regular, we Camped on the Lard Side at the forks of the river    the Currents &amp; Sizes of them we Could not examine this evening    a fair night    we took Some
+Luner observations of moon &amp; Stears</p>
+               <p>
+                  <table rows="21" cols="3">
+                     <head>
+                        <hi rend="italic">Course Distance 2nd of June 1805</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">miles</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 85° W</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">to a fiew trees on the Lard point</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 60° W</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">on the Lard. point opposit a bluff</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 40° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to Some trees in the Stard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 20° E.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to some willows on the Lard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 30° E</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to a bush on the Stard. point opsd. a low bluff.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">on the Stard. point.—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a tree in a bend on Lard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">to a point on the Lard. Side opposd. to a bluff</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 68° W</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">on the Lard. Side opsd. an Island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 35° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">on the Lard Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 25° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to a point of a timbered bottom on the Lard Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">  2 ¾</cell>
+                        <cell role="data" rows="1" cols="1">to a point on Stard. Side opsd. a dark bluff    passed 3 Small<lb/>
+Islands</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">m. on the Stard. Side    passed 2 Isds. on Lard Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¾</cell>
+                        <cell role="data" rows="1" cols="1">to the Lard. point opsd. a bluff</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to the lower point of an Island near the Stard point.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 65° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timber on the Lard Side opsd. a bluff    passed<lb/>
+the Isd. and one near Stard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 20° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to the head of an Island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timber on the Stard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 72° W</cell>
+                        <cell role="data" rend="underline" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a point between two large rivers one 362 yards &amp; the<lb/>
+other 〈half the width〉 200</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">miles </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">18</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-06-02.03" n="lc.geo.1805-06-02.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">June 2nd Sunday 1805</hi>. we had a hard wind &amp; a little rain last night. this morning fair.    we Set out at an eairly hour.    wind from S. W. Some little rain to day    wind hard a head.    the Country much like that of yesterday, as described. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> walked on Shore, himself and the hunters killed 6 Elk a bear and 2 mule Deer, and 2 buffalow, which was all in good order    a beaver also killed this evening.    passed 9 Islands to day.    the current Swift but regular.    we Camped<ref target="n14060205" n="5"/> on the Larboard Side at the mouth or at the forks of the river.    the current &amp; Sizes of them we could not examine this evening.    a fair night.    the Captains took Some Lunr. observations, of moon &amp; Stars—. Came 18 miles to day.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-06-02.04" n="lc.geo.1805-06-02.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday 2nd.</hi>    We embarked early in a fine morning. The hills come close on the river, but are not so high nor so broken, as we found them a short distance lower down. This forenoon we passed two creeks,<ref target="n14060206" n="6"/> one on each side, and several islands covered with cotton wood; but there is not a stick of timber to be seen any where upon the hills. Some of the hunters killed a brown bear in a small botton on the South side, and having come 18 miles, we encamped just above the bottom on the same side, at the mouth of a large river.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-06-02.05" n="lc.geo.1805-06-02.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday 2nd June 1805</hi>.    a clear pleasant morning.    we Set off as usal &amp; proceeded on.    about 9 oC. Some of the hunters killed a buffalow and an Elk.    passed high bluffs on each Side, high plains, narrow bottoms and Islands.    passed a creek<ref target="n14060207" n="7"/> on the N. S. and one on the S. Side<ref target="n14060208" n="8"/>    about 12 oC. killed another Elk.    about 1 oC. we halted to dine at a bottom of timber on the N. S.    Some of the men killed another buffaloe.    the wind high from the N. W.    clouded up.    the current is not So Swift yesterday &amp; to day as it has been Some time past.    we git along verry well with the towing lines.    a Small Sprinkling of rain.    about 2 oC. we proceeded on    passed Several Islands of cotton wood bluffs &amp; high land    towards evening the hunters killed a yallow bear in a bottom of cotton wood on S. S.    we Came 18 miles &amp; Camped at a fork of the river.    we could not determine which was the <name type="place" key="Missouri River">Missourie</name>.    the hunters killed 6 Elk in all to day.    we Saw a high mountain<ref target="n14060209" n="9"/> to the west of us.    one hunter man Shot a large beaver this evening.</p>
+               <p>
+Sunday June 2nd    A Clear pleasant morning, we set off early; and proceeded on our Voyage.    About 9 o'Clock A. M. some of our hunters killed a buffalo, and an Elk, we proceeded on, and passed high bluffs lying on each side of the River, also high plains, narrow bottoms of land, &amp; Islands, on both sides; and two Creeks, One on the North, and the other on the South side of the River, about 11 o'Clock A. M. one of our hunters killed another Elk, at 12 o'Clock A. M. we halted to dine on a bottom, lying on the North side of the River, Where one of our party killed a Buffalo, The wind blew hard from the North west at this place, and the Sky became Cloudy.—</p>
+               <p>
+The current of the <name type="place" key="Missouri River">Mesouris</name> not running so swift, these two days past; as it had done for some time before; so that we made good head way, with towing the Crafts along,—    about One o'Clock P M, we had some small
+sprinkling of rain—    about 2 oClock P. M. we proceeded on, and passed several Islands, lying on both sides of the River; having Cotton wood on them.—    and bluffs and high land.—    towards evening, our hunters killed a Yellow Bear in a bottom, on the South side of the River, We encamped at a
+place where the <name type="place" key="Missouri River">Mesouri River</name> forked, the officers being at a loss which fork was the <name type="place" key="Missouri River">Mesouri River</name>, The Hunters that were out this day, returned to us, having killed 4 more Elk, and in the Evening one beaver,—    We saw a high Mountain lying to our West.    We came 18 Miles this day.—
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n14060201" n="1">It was probably <name type="person" key="Biddle, Nicholas">Biddle</name> who also added parentheses in red around the preceding
+sentence.</note>
+            <note xml:id="n14060202" n="2">They camped on the larboard side in <name type="place" key="Chouteau County, Mont.">Chouteau County</name>, <name type="place" key="Montana">Montana</name>, opposite the mouth of <name type="place" key="Marias River">Marias River</name>, then perhaps a mile or so below the present mouth. Appleman (LC), 306; <hi rend="italic">Atlas</hi> maps 41, 53, 61; MRC map 75.</note>
+            <note xml:id="n14060203" n="3">Also given on <hi rend="italic">Atlas</hi> map 41, in both captains' hands.</note>
+            <note xml:id="n14060204" n="4">This course is "S. 60° W. ¼" on <hi rend="italic">Atlas</hi> map 41. <name type="person" key="Clark, William">Clark's</name> course appears to be overwritten to match <name type="person" key="Lewis, Meriwether">Lewis's</name>.</note>
+            <note xml:id="n14060205" n="5">In <name type="place" key="Chouteau County, Mont.">Chouteau County</name>, <name type="place" key="Montana">Montana</name>, opposite the mouth of the <name type="place" key="Marias River">Marias River</name>, named by <name type="person" key="Lewis, Meriwether">Lewis</name> in honor of his cousin, <name type="person" key="Wood, Maria">Maria Wood</name>.</note>
+            <note xml:id="n14060206" n="6">Again <name type="person" key="Gass, Patrick">Gass</name> notices streams the captains did not think worthy of mention. <name type="place" key="Spring Coulee">Spring</name> and <name type="place" key="Sixmile Coulee">Sixmile coulees</name> are found on the north side, and <name type="place" key="Crow Coulee">Crow Coulee</name> on the south, all in <name type="place" key="Chouteau County, Mont.">Chouteau County</name>, <name type="place" key="Montana">Montana</name>. <name type="place" key="Spring Coulee">Spring</name> and <name type="place" key="Crow Coulee">Crow</name> coulees are probably the ones appearing nameless on expedition maps.</note>
+            <note xml:id="n14060207" n="7">
+               <name type="person" key="Gass, Patrick">Gass</name> says there were two streams on the north, neither noticed by the captains; they are <name type="place" key="Spring Coulee">Spring</name> and <name type="place" key="Sixmile Coulee">Sixmile coulees</name>, in <name type="place" key="Chouteau County, Mont.">Chouteau County</name>, <name type="place" key="Montana">Montana</name>.</note>
+            <note xml:id="n14060208" n="8">Also unmentioned by the captains, it is <name type="place" key="Crow Coulee">Crow Coulee</name>, <name type="place" key="Chouteau County, Mont.">Chouteau County</name>.</note>
+            <note xml:id="n14060209" n="9">Probably the <name type="place" key="Highwood (South) Mountains">Highwood Mountains</name>, again.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-06-01" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-06-03" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

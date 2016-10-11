@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-04-09">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+April 9, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 4</title>
+               <title level="m" type="sub">April7–July 27, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">14-19</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">128</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">78</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">134</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-04-09.01">
+            <placeName/>
+            <geo>47.5813 -101.5152</geo>
+            <note>In an area inundated by the Garrison Reservoir, a few mile southwest of Garrison, ND. In McLean County</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-05-03</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-04-09">April 9, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-04-09.01" n="lc.geo.1805-04-09.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Tuesday April 9th</hi>
+                     <ref target="n11040901" n="1"/>
+                  </date>
+               </ab>
+               <p>
+Set out as early as it was possible to see this morning and proceed about five miles where we halted and took beakfas—    the Indian man who had promised us to accompany us as far as the <name type="native_nation" key="Shoshone Indians">Snake</name> Indians, now informed us of his intention to relinquish the journey, and accordingly returned to his village.    we saw a great number of brant passing up the river, some of them were white, except the large feathers in the first and second joint of the wing which are black.    there is no other difference between them and the common gray brant but that of their colour—   their note and habits are the same, and they are freequently seen to associate together. I have not yet positively determined whether they are the same, or a different species.—<ref target="n11040902" n="2"/>    <name type="person" key="Clark, William">Capt Clark</name> walked on shore to-day and informed me on his return, that passing through the prarie he had seen an anamal that precisely resembled the burrowing squrril, accept in point of size, it being only about one third as large as the squirrel, and that it also burrows.<ref target="n11040903" n="3"/> I have observed in many parts of the plains and praries the work of an anamal of which I could never obtain a view.<ref target="n11040904" n="4"/>    their work resembles that of the salamander common to the sand hills of the States of <name type="place" key="South Carolina">South Carolina</name> and <name type="place" key="Georgia">Georgia</name>; and like that anamal also it never appears above the ground.    the little hillocks which are thrown up by these anamals have much the appearance of ten or twelve pounds of loose earth poared out of a vessel on the surface of the plain.    in the state they leave them you can discover no whole through which they throw out this earth; but by removing the loose earth gently you may discover that the soil has been broken in a circle manner for about an inch and a half in diameter, where it appears looser than the adjacent surface, and is certainly the place through which the earth has been thrown out, tho' the operation is performed without leaving any visible aperture.—    the Bluffs of the river which we passed today were upwards of a hundred feet high, formed of a mixture of yellow clay and sand—    many horizontal stratas of carbonated wood, having every appearance of pitcoal at a distance; were seen in the face of these bluffs.    these stratas are of unequal thicknesses from 1 to 5 feet, and appear at different elivations above the water some of them as much as eighty feet.    the hills of the river are very broken and many of them have the apearance of having been on fire at some former period.    considerable quantities of pumice stone and lava appear in many parts of these hills where they are broken and washed down by the rain and melting snow.<ref target="n11040905" n="5"/>    when we halted for dinner the squaw busied herself in serching for the wild artichokes<ref target="n11040906" n="6"/> which the mice collect and deposit in larger hoards.    this operation she performed by penetrating the earth with a sharp stick about some small collections of drift wood.    her labour soon proved successful, and she procurrd a good quantity of these roots.    the flavor of this root resembles that of the Jerusalem Artichoke, and the stalk of the weed which produces it is also similar, tho' both the root and stalk are much smaller than the Jarusalem Artichoke.    the root is white and of an ovate form, from one to three inches in length and usually about the size of a man's finger.    one stalk produces from two to four, and somitimes six of these roots.—</p>
+               <p>
+at the distance of 6 miles passed a large wintering or hunting camp of the <name type="native_nation" key="Hidatsa Indians">Minetares</name> on the Stard. side.    these lodges about thirty in number are built of earth and timber in their usual stile. 2¼ miles higher we passed the entrance of <name type="place"
+                        key="Snake (E-pe,-Âh-zhah, Miry) Creek (McLean County, N. Dak.)">Miry Creek</name>,<ref target="n11040907" n="7"/> which discharges itself on the Stard. side.    this creek is but small, takes it's rise in some small lakes near the <name type="place" key="Souris (Mouse) River">Mouse river</name> and passed in it's course to the <name type="place" key="Missouri River">Misouri</name>, through beatifull, level, and fertile plains, intirely destitute of timber.—    Three miles above the mouth of this creek we passed a hunting camp of <name type="native_nation" key="Hidatsa Indians">Minetares</name>
+                  <ref target="n11040908" n="8"/> who had prepared a park and were weting the return of the Antelope; which usually pass the <name type="place" key="Missouri River">Missouri</name> at this season of the year from the <name type="place" key="Black Hills">Black hills</name> on the South side, to the open plains on the north side of the river; in like manner the Antelope repasses the <name type="place" key="Missouri River">Missouri</name> from N. to South in the latter end of Autumn, and winter in the <name type="place" key="Black Hills">black hills</name>, where there is considerable bodies of woodland.    we proceed on 11½ miles further and encamped on the N. side<ref target="n11040909" n="9"/> in a most beatifull high extensive open bottom</p>
+               <p>
+                  <table rows="15" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="desc" rows="1" cols="1">The courses and distances of this day are as follow<ref target="n11040910" n="10"/>
+                        </cell>
+                        <cell role="desc" rows="1" cols="1">miles</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 20° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. point opposte to a bluff</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N.</cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. point    do.    do.    do.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80 E.</cell>
+                        <cell role="data" rows="1" cols="1">to a sand point on Lard. side	</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N.</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. point<ref target="n11040911" n="11"/>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 18 W</cell>
+                        <cell role="data" rows="1" cols="1">to a handsome elivated plain on Lard. Sd.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 22 E.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of willows on Lard. side opposite to a wintering<lb/>
+camp of the <name type="place" key="Hidatsa Indians">Minetares</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  1 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 20 W.</cell>
+                        <cell role="data" rows="1" cols="1">to the mouth of <name type="place"
+                                 key="Snake (E-pe,-Âh-zhah, Miry) Creek (McLean County, N. Dak.)">Miry creek</name> Stard. side, passing	a small<lb/>
+run<ref target="n11040912" n="12"/> and a hill called snake den</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  2 ¼</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point on Lard side</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 75 W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point on Stard opposite to a camp of	<name type="native_nation" key="Hidatsa Indians">Minetares</name>, and<lb/>
+lower pot. of a high bluff</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  4</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 65 W.</cell>
+                        <cell role="data" rows="1" cols="1">to the upper point point of woo[d]land on Std. Sd.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45 W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timber on the Lard. side</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 30 W.</cell>
+                        <cell role="data" rows="1" cols="1">to a sand point on the Stard side</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¼</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 78 W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of woodland on the Lard side</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  4</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">23 ½</hi>
+                           <ref target="n11040913" n="13"/>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-09.02" n="lc.geo.1805-04-09.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>9th <hi rend="italic">of April Tuesday 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+Set out this morning verry early under a gentle breeze from the S. E.    at Brackfast the Indian deturmined to return to his nation. I saw a Musquetor to day<ref target="n11040914" n="14"/>    great numbers of Brant flying up the river, the Maple, &amp; Elm has buded &amp; Cotton and arrow wood beginning to bud.<ref target="n11040915" n="15"/> I saw in the prarie an animal resembling the Prarie dog or Barking Squirel &amp; burrow in the Same way, this animal was about ⅓ as large as the barking Squirel. But fiew resident birds or water fowls which I have Seen as yet    at 6 miles passed an old hunting camp of <hi rend="italic">
+                     <name type="native_nation" key="Hidatsa Indians">Menitarrees</name>
+                  </hi> on the S. S.    2½ miles higher passed the mouth of <name type="place"
+                        key="Snake (E-pe,-Âh-zhah, Miry) Creek (McLean County, N. Dak.)">Miry Creek</name> on the S. S.    passed a hunting Camp of <name type="native_nation" key="Hidatsa Indians">Minetarees</name> on the S. S. waiting the return of the Antilope, Saw Great numbers of Gees feedin in the Praries on the young grass, I saw flowers in the praries to day, juniper grows on the Sides of the hills, &amp; runs on the ground<ref target="n11040916" n="16"/>    all the hills have more or Less indefferent Coal in Stratias at different hites from the waters edge to 80 feet.    those Stratias from 1 inch to 5 feet thick.    we Campd. on the S. S. above some rocks makeing out in the river in a butifull ellivated plain.</p>
+               <p>
+                  <table rows="14" cols="3">
+                     <head>Course distance &amp; refferences for the 9th</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 20° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile on the S. pt opsd. a Bluff</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">mile on the S. pt.  do.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° E</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a sand pt. on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">a mile to the L. pt.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 18° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile to a handsom elivated plain on L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 22° E.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a pt. of willows on the L. S. opposit a Wintering<lb/>
+camp of the <name type="native_nation" key="Hidatsa Indians">Menetarras</name>.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 20° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ¼</cell>
+                        <cell role="data" rows="1" cols="1">miles to the mouth of <name type="place"
+                                 key="Snake (E-pe,-Âh-zhah, Miry) Creek (McLean County, N. Dak.)">Miry Creek</name>; passd. a hill call Snake<lb/>
+house &amp; Small run S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile to a pt. on the Larboard Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 75° W.</cell>
+                        <cell role="data" rows="1" cols="1">  4</cell>
+                        <cell role="data" rows="1" cols="1">miles to a pt. on the S. S. opsd. a Bluff and a camp of<lb/>
+                           <name type="native_nation" key="Hidatsa Indians">Miniterras</name>.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 65° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles to the upper part of the timber S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles to a pt. of timber on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 30 W</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Sand pt. on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 78° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  4</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles to a pt. of wood on the L. S</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">23 ½</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-09.03" n="lc.geo.1805-04-09.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 9th April 1805</hi>.    clear and pleasant.    a gentle breese from the South    we set off at day light. Sailed on    Shortly took in a large Beaver which one of our men had caught in a Trap which he Set last evening.    we passed a bottom on the South Side coveered with handsome groves of Sizeable cotton wood timber.    came about 5 mls. &amp; halted took breakfast.    then proceeded on    passed a Small creek<ref target="n11040917" n="17"/> on the N. S. &amp; Ruged Bluffs on each Side of the River &amp;.c.    proceeded on    about 1 oClock we passed a Bottom covered with c. w. timber on the S. S. where we Saw a hunting party of the <name type="native_nation" key="Hidatsa Indians">Grossvauntares</name>    they assembled on the bank of the River    our officers halted and Smoaked a Short time with them.    went a Short distance further and halted for to take dinner at a bottom covered with Small cotton wood on N. S.    the wind Shifted in to the West and blew Steady.    proceeded on    passed handsome bottoms on each Side of the River. Saw Gravelly bars<ref target="n11040918" n="18"/> which was the first we Saw on this River.    they were round and large. Saw Some on Shore also    we Saw a nomber of wild Geese on the River &amp; brants flying over<ref target="n11040919" n="19"/>    Some ducks.    the Musquetoes begin to Suck our blood this afternoon.    we camped at the upper end of a bottom on the N. S. after working our crafts 22 miles to day.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-09.04" n="lc.geo.1805-04-09.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 9th.</hi>    We set out early, and had a fine day; about 1 o'clock we passed a party of <name type="native_nation" key="Hidatsa Indians">Grossventers</name> hunting: made about twenty-two miles and encamped on the North side.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-09.05" n="lc.geo.1805-04-09.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday April 9th    This day Clear &amp; pleasant weather, We set out early this morning, and proceeded on; at 10 o'Clock A. M we passed a small River<ref target="n11040920" n="20"/> the Name unknown, lying on the North Side of the <name type="place" key="Missouri River">Mesouri</name>.    The banks of the River not being so high gave us an opportunity of seeing the Country which appear'd to be a mixture of Priaries &amp; Wood land, in the Evening we encamped on the North side of the <name type="place" key="Missouri River">Mesouri</name>, distance this day come being 22 Miles.—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n11040901" n="1">Someone drew vertical lines through the natural history material in this entry, apparently in red.</note>
+            <note xml:id="n11040902" n="2">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> here makes a distinction between the blue phase and white phase of the snow goose, <hi rend="italic">Chen caerulescens</hi> [AOU, 169], a distinction recognized by ornithologists only recently when the blue became a subspecies of the white. Holmgren, 28; AOU, 67. The majority of the brant were probably <hi rend="italic">Branta bernicla</hi> [AOU, 173].</note>
+            <note xml:id="n11040903" n="3">Probably Richardson's ground squirrel, <hi rend="italic">Spermophilus richardsonii.</hi> Burroughs, 102; Jones et al., 137–41.</note>
+            <note xml:id="n11040904" n="4">It is not completely clear if this animal was considered by <name type="person" key="Lewis, Meriwether">Lewis</name> to be the same as the one <name type="person" key="Clark, William">Clark</name> saw, mentioned just above. Its workings, as described, seem to be those of the northern pocket gopher, <hi rend="italic">Thomomys talpoides;</hi> they never did obtain a specimen. The "salamander" mentioned for comparison is a rodent, not an amphibian, probably <hi rend="italic">Geomys pinetis,</hi> the southeastern pocket gopher. Cutright (LCPN), 130; Burroughs, 107; Jones et al., 166–69.</note>
+            <note xml:id="n11040905" n="5">The <name type="place" key="Sentinel Butte Formation">Sentinel Butte Formation</name> extends for more than 100 miles along the <name type="place" key="Missouri River">Missouri River</name> between <name type="place" key="Knife River">Knife</name> and <name type="place" key="Little Knife River (Goat Pen Creek)">Little Knife</name>Rivers. Lignite coal (<name type="person" key="Lewis, Meriwether">Lewis's</name> carbonated wood) is common in this formation and occasionally catches fire, baking and fusing the overlying clay or shale into rocks that superficially resemble rocks of volcanic origin. The burnt hills are probably hills that exhibit these products, but the term may also refer to the burnt sienna or umber colors of some of the sandstones because it is used on <ref n="1804-10-05" type="related">October 5, 1804</ref>, and <ref n="1805-05-26" type="related">May 26, 1805</ref>, in places where there is insufficient coal to have produced this appearance.</note>
+            <note xml:id="n11040906" n="6">
+               <hi rend="italic">Helianthus tuberosus</hi> L., Jerusalem artichoke. The species is near its northwestern distributional limit in <name type="place" key="McLean County, N. Dak.">McLean County</name>, <name type="place" key="North Dakota">North Dakota</name>. Barkley, 380; Heiser, 171. Artichokes were not apparently gathered in the way <name type="person" key="Lewis, Meriwether">Lewis</name> described. He may be confusing the method Indians used to gather the hog peanut, <hi rend="italic">Amphicarpa bracteata</hi> (L.) Fern. Gilmore (UPI), 43–44. See also <ref n="1804-10-11" type="related">October 11, 1804</ref>, and <ref n="1805-05-12" type="related">May 12, 1805</ref>. The collection mice are probably the meadow mouse or vole, <hi rend="italic">Microtus pennsylvanicus.</hi> Burroughs, 118, 322 n. 26; Jones et al., 221–25.</note>
+            <note xml:id="n11040907" n="7">Now <name type="place"
+                     key="Snake (E-pe,-Âh-zhah, Miry) Creek (McLean County, N. Dak.)">Snake Creek</name>, in <name type="place" key="McLean County, N. Dak.">McLean County</name>; much of it is now under <name type="place" key="Snake Creek Reservoir">Snake Creek Reservoir</name>, a branch of the <name type="place" key="Garrison Reservoir">Garrison Reservoir</name> (<name type="place" key="Lake Sakakawea">Lake Sakakawea</name>). It is "<name type="place"
+                     key="Snake (E-pe,-Âh-zhah, Miry) Creek (McLean County, N. Dak.)">Bourbeaux</name>" or "<name type="place"
+                     key="Snake (E-pe,-Âh-zhah, Miry) Creek (McLean County, N. Dak.)">Muddy Creek</name>" on <hi rend="italic">Atlas</hi> map 29. <hi rend="italic">Atlas</hi> maps 33, 46, 55; MRC map 52.</note>
+            <note xml:id="n11040908" n="8">Both these camps are clearly marked on <hi rend="italic">Atlas</hi> maps 46 and 55.</note>
+            <note xml:id="n11040909" n="9">Now inundated by <name type="place" key="Garrison Reservoir">Garrison Reservoir</name>, the site was in <name type="place" key="McLean County, N. Dak.">McLean County</name> above <name type="place" key="Douglas Creek">Douglas Creek</name> and a few miles southwest of <name type="place" key="Garrison, N. Dak.">Garrison</name>. Mattison (GR), 31–32; <hi rend="italic">Atlas</hi> maps 33, 46, 55; MRC map 53.</note>
+            <note xml:id="n11040910" n="10">These courses are also on <hi rend="italic">Atlas</hi> map 33, in both captains' hands.</note>
+            <note xml:id="n11040911" n="11">
+               <hi rend="italic">Atlas</hi> map 33 says "Stard."</note>
+            <note xml:id="n11040912" n="12">Later <name type="place" key="Wolf Creek (N. Dak.)">Wolf Creek</name>, in <name type="place" key="McLean County, N. Dak.">McLean County</name>. It appears, nameless, just below <name type="place"
+                     key="Snake (E-pe,-Âh-zhah, Miry) Creek (McLean County, N. Dak.)">Snake (Miry) Creek</name> on <hi rend="italic">Atlas</hi> maps 29, 33, 46, 55. On the first map apparently Maximilian has labeled it "<name type="place"
+                     key="Snake (E-pe,-Âh-zhah, Miry) Creek (McLean County, N. Dak.)">Snake R Creek</name>." MRC map 52.</note>
+            <note xml:id="n11040913" n="13">
+               <hi rend="italic">Atlas</hi> map 33 has an incorrect total of 23 ¾.</note>
+            <note xml:id="n11040914" n="14">Probably <hi rend="italic">Aedes vexans.</hi>
+            </note>
+            <note xml:id="n11040915" n="15">Other than the boxelder there are no maple species native to this area of <name type="place" key="North Dakota">North Dakota</name>; <name type="person" key="Clark, William">Clark</name> probably meant <hi rend="italic">Acer negundo</hi> L., boxelder, which is of the maple genus and flowers in early spring as described. The elm is <hi rend="italic">Ulmus americana</hi> L., American elm; the cottonwood is <hi rend="italic">Populus deltoides</hi> Bartr. ex Marsh, ssp. <hi rend="italic">monilifera</hi> (Ait.) Eckenwalder, plains cottonwood; arrow wood is probably nannyberry, <hi rend="italic">Viburnum lentago</hi> L. Little, 96-E, 196-N, 149-W; Barkley, 101, 205; Kartesz &amp; Kartesz, 169.</note>
+            <note xml:id="n11040916" n="16">Probably in reference to the two species of juniper in the area, <hi rend="italic">Juniperus scopulorum</hi> Sarg., <name type="place" key="Rocky Mountains">Rocky Mountain</name> red cedar, an upright tree found on hillsides, and <hi rend="italic">J. horizontalis</hi> Moench, creeping juniper, a low, dwarf species. Barkley, 13, 12.</note>
+            <note xml:id="n11040917" n="17">
+               <name type="place"
+                     key="Snake (E-pe,-Âh-zhah, Miry) Creek (McLean County, N. Dak.)">Snake Creek</name>, <name type="place" key="McLean County, N. Dak.">McLean County</name>, <name type="place" key="North Dakota">North Dakota</name>.</note>
+            <note xml:id="n11040918" n="18">It was apparently <name type="person" key="Biddle, Nicholas">Nicholas Biddle</name> who wrote "Qu" (for "question" or "query") across the entry at this point when he was working with <name type="person" key="Ordway, John">Ordway's</name> journal in 1810. It is not clear what <name type="person" key="Biddle, Nicholas">Biddle</name> meant to query.</note>
+            <note xml:id="n11040919" n="19">The geese are probably the Canada goose, <hi rend="italic">Branta canadensis,</hi> and the brant is probably the familiar brant, <hi rend="italic">Branta bernicla</hi>.</note>
+            <note xml:id="n11040920" n="20">The party's <name type="place"
+                     key="Snake (E-pe,-Âh-zhah, Miry) Creek (McLean County, N. Dak.)">Miry Creek</name>, now <name type="place"
+                     key="Snake (E-pe,-Âh-zhah, Miry) Creek (McLean County, N. Dak.)">Snake Creek</name>, <name type="place" key="McLean County, N. Dak.">McLean County</name>, <name type="place" key="North Dakota">North Dakota</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-04-08" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-04-10" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

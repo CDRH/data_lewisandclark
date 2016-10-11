@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1804-02-05">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+February 5, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">173</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-01-05</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date>February 5, 1804</date>
+         </head>
+         <div type="entry">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Sonday 5th Feby    Still Sick, The french man Wife &amp;c Came to See us to day    Mes. <name type="person" key="Cann, E.">Cane</name> als[o]. <name type="person" key="Hanley, Samuel">Hanley</name>
+                  <ref target="n03020501" n="1"/> Sent us Some Butter &amp; milk, river riseing &amp; Covered with Small Ice. <name type="person" key="Lewis, Meriwether">Cp L</name> send out <name type="person" key="Shields, John">Shields</name> to get walnut Bark for pills,<ref target="n03020502" n="2"/> fowl pass
+
+	
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n03020501" n="1">
+               <name type="person" key="Hanley, Samuel">Samuel Hanley</name> lived in <name type="place" key="Randolph County, Ind.">Randolph County</name>, <name type="place" key="Kaskaskia Land District, Indiana Territory">Kaskaskia Land District</name>, <name type="place" key="Indiana Territory">Indiana Territory</name>, having settled there before 1788. Osgood (FN), 27 n. 3.</note>
+            <note xml:id="n03020502" n="2">Walnut bark is strongly emetic and was probably used as a mild purgative. <name type="person" key="Lewis, Meriwether">Lewis</name>, whose mother was an herb doctor, was fond of such remedies. Ibid., 27 n. 4; Chuinard, 189–90 and n. 18.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-02-04" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-02-06" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

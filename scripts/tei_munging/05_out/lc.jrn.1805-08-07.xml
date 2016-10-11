@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-08-07">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 7, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">55-58</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">197-198</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">122</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">258-259</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-08-07.01">
+            <placeName/>
+            <geo>45.5333 -112.3167</geo>
+            <note>Headed up Jefferson's River. Camped 7 miles from last location, north side, Madison County, MT. </note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-06-01</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-08-07">August 7, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-08-07.01" n="lc.geo.1805-08-07.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday August 7th 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+The morning being fair we spread our stores to dry at an early hour. Dispatched <name type="person" key="Field, Reubin">Reubin Fields</name> in surch of <name type="person" key="Shannon, George">Shannon</name>.    our stores were now so much exhausted that we found we could proceed with one canoe less. we therefore drew out one of them into a thicket of brush and secured her in such manner that the water could not take her off should the river rise to the hight where she is. The creek which falls in above us we called <name type="place" key="Indian (Turf) Creek (Mont.)">turf creek</name> from the cercustance of it's bottoms being composed of excellent turf.<ref target="n18080701" n="1"/>    my air gun was out of order and her sights had been removed by some accedent I put her in order and regulated her.    she shot again as well as she ever did. The clouds last night prevented my taking any lunar observations    this day I took Equal Altitudes of the <seg n="u9737">☉</seg> with Sextant.</p>
+               <p>
+                  <table rows="4" cols="11">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h</cell>
+                        <cell role="data" rows="1" cols="1">m</cell>
+                        <cell role="data" rows="1" cols="1">s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h</cell>
+                        <cell role="data" rows="1" cols="1">m</cell>
+                        <cell role="data" rows="1" cols="1">s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">A. M.</cell>
+                        <cell role="data" rows="1" cols="1">8</cell>
+                        <cell role="data" rows="1" cols="1">20</cell>
+                        <cell role="data" rows="1" cols="1">25.5</cell>
+                        <cell role="data" rows="1" cols="1">     </cell>
+                        <cell role="data" rows="1" cols="1">P.M.</cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">38</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="3" cols="1">}</cell>
+                        <cell role="data" rows="3" cols="1">Altitude by Sext at the<lb/>time of observation.<lb/> 62° 9' 45 "</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">21</cell>
+                        <cell role="data" rows="1" cols="1">54</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">39</cell>
+                        <cell role="data" rows="1" cols="1">40</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">23</cell>
+                        <cell role="data" rows="1" cols="1">30</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">41</cell>
+                        <cell role="data" rows="1" cols="1">8</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="2" cols="2">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h m s</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Chronometer too [<hi rend="italic">blank</hi>] on Mean time</cell>
+                        <cell role="data" rows="1" cols="1">[<hi rend="italic">blank</hi>]</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+Observed Meridian Altd. of <seg n="u9737">☉</seg>'s L.L. with Octant by the back observation 63° 5' —"</p>
+               <p>
+Latitude deduced from this observation N 45° 2' 43.8"</p>
+               <p>
+At one oclock all our baggage was dry    we therefore packed it up reloaded the canoes and the party proceeded with <name type="person" key="Clark, William">Capt. Clark</name> up <name type="place" key="Beaverhead (Jefferson) River">Jefferson's river</name>. I remained with <name type="person" key="Gass, Patrick">Sergt. Gass</name> to complete the observation of equal altitudes and joined them in the evening at their camp on the Lard. side just above the entrance of <name type="place" key="Indian (Turf) Creek (Mont.)">turf creek</name>.<ref target="n18080702" n="2"/>    we had a shower of rain wich continued about 40 minutes attended with thunder and lightning.    this shower wet me perfectly before I reached the camp.    the clouds continued during the night in such manner that I was unable to obtain any lunar observations. This evening <name type="person" key="Drouillard, George">Drewyer</name> brought in a deer which he had killed.    we have not heard any thing from <name type="person" key="Shannon, George">Shannon</name> yet, we expect that he has pursued <name type="place" key="Big Hole (Sensable, Wisdom) River">Wisdom river</name> upwards for som distance probably killed some heavy animal and is waiting our arrival.    the large biteing fly or hare fly as they sometimes called are very troublesome to us. I observe two kinds of them a large black species and a small brown species with a green head.    the musquetoes are not as troublesome as they were below, but are still in considerable quantities.    the eye knats have disappeared. the green or blowing flies are still in swarms.<ref target="n18080703" n="3"/>
+               </p>
+               <p>
+                  <table rows="2" cols="3">
+                     <head>
+                        <hi rend="italic">Courses and distances August 7th 1805</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45° E.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">7</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">to the entrance of turf Creek 12 yds. wide which discharges<lb/>
+itself on Lard. side passing several bends both on Stard. and<lb/>
+Lard. and several small bayous on either side.    on the course<lb/>
+of the R. about 7 M.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Miles</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">7</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <seg n="u9758">☞</seg> the courses from the entrance of Wisdom river to the forks of <name type="place" key="Beaverhead (Jefferson) River">Jefferson's river</name> are taken directly to the objects mentioned and the distance set down is that by land on a direct line between the points; the estimated distances by water is also added in the body of the remarks on each course.—</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-07.02" n="lc.geo.1805-08-07.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">August 7th Wednesday 1805</hi>
+                     <ref target="n18080704" n="4"/>
+                  </date>
+               </ab>
+               <p>
+a fine morning    put out our Stores &amp;c. to dry &amp; took equal altitudes with the Sextant,—    as our Store were a little exorsted and one Canoe became unnecessary deturmind to leave one.    we Hauled her up in the bushes on the lower Side of the main fork &amp; fastened her So that the water could not flote her off. The Countrey in this quarter is as follows i, e a Vallie of 5 or 6 miles wide Inclosed between two high Mountains, the bottom rich Some Small timber on the Islands &amp; bushes on the edges of the river Some <hi rend="italic">Bogs</hi> &amp; verry good <hi rend="italic">turf</hi> in different places in the vallie, Some scattering Pine &amp; ceder on the mountains in places, other Parts nacked except grass and Stone    The <hi rend="italic">Lattitude</hi> of the Mouth of <hi rend="italic">
+                     <name type="place" key="Big Hole (Sensable, Wisdom) River">Wisdom River</name>
+                  </hi> is <hi rend="italic">45° 2' 21.6"</hi> North, we proceeded up the Main Middle or S. E. fork, passed a Camped on the Lard. Side above the mouth of a bold running Stream 12 yards wide, which we call <name type="place" key="Indian (Turf) Creek (Mont.)">
+                     <hi rend="italic">turf</hi> Creek</name> from the number of bogs &amp; quanty of turf in its waters.    this Creek runs thro a open Plain for Several miles, takeing its rise in a high mountain to the N E. The <name type="place" key="Beaverhead (Jefferson) River">river Jefferson</name> above <name type="place" key="Big Hole (Sensable, Wisdom) River">Wisdom</name> is gentle Crooked and about 40 yards wide, Containing but little timber, Some few Cotton willow Willow &amp; Birch,<ref target="n18080705" n="5"/> and the Srubs common to the countrey and before mentioned    at 5 oClock a thunder Storm from the N. W. accompanied with rain which lasted about 40 minits.—    despatched <name type="person" key="Field, Reubin">R Fields</name> to hunt <name type="person" key="Shannon, George">Shannon</name>, who was out huntg. on <name type="place" key="Big Hole (Sensable, Wisdom) River">Wisdom river</name> at the time I returned down that Stream, and has made o[n] up the river expecting us to follow him up that river one Deer killed this evening.    all those Streams Contain emence number of Beaver orter Muskrats &amp;c.<ref target="n18080706" n="6"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-07.03" n="lc.geo.1805-08-07.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday</hi> 7th <hi rend="italic">August 1805</hi>.    a clear morning.    we unloaded one of the Small canoes and halled it out in the bushes in a grove of cotton timber on L. Side of the forks and left their.    we put the goods &amp;.C. not dry out in the Sun    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> took an observation &amp; Shoot the air gun.    the man <name type="person" key="Shannon, George">G. Shannon</name> not returned yet.    the morning cool, but the day warm.    the large flys troublesome &amp;C.    about one oClock we packed up all the baggage &amp;c. and Set out and proceeded on up the <name type="place" key="Madison River (Middle Fork)">middle fork</name>    we find the current not so rapid nor the rapids So bad as the N. Fork.    we had Thunder Showers
+this afternoon, attended with high winds.    passed Smooth prarie on each side    the River verry crooked, &amp;C. Came 7 miles and Camped at a bottom on L. S. this bottom is covered with bushes &amp; a little timber bryry &amp;C.    our hunter <name type="person" key="Drouillard, George">G. Drewyer</name> joined us    had killed one deer which we Stood in great
+need off.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-07.04" n="lc.geo.1805-08-07.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 7th.</hi>    We remained here during the forenoon,<ref target="n18080707" n="7"/> which was fair and clear, and where <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> took a meridian altitude, which made the latitude of this place 45° 2 53 north. At 3 o'clock in the afternoon, we were ready to continue our voyage. In the evening a heavy cloud came up, and we had hard thunder with lightening and rain. We went on 7 miles and encamped on the north side, when the weather cleared, and we had fine night. The canoes came 62 miles and three quarters while we were out.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-07.05" n="lc.geo.1805-08-07.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 7th August 1805</hi>.    a clear cool morning.    one man out to hunt.    we unloaded one of the Small canoes and halled it out in a grove of cotton trees and leave hir here.    we put the Indian goods &amp;c. to git throully dry.    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> took an observation &amp; Shot the air gun.    the lost man not returned.    the day warm, the large horse flyes<ref target="n18080708" n="8"/> troublesome &amp;c.    about one oClock we packed up all the baggage and Set off &amp; proceeded on up the <name type="place" key="Madison River (Middle Fork)">middle fork</name>.    we find the current not So rapid as the right fork.<ref target="n18080709" n="9"/>    the rapids not So bad.    we had Thunder Showers &amp; high wind this afternoon.    passed Smooth plains on each Side &amp;c—    Camped after coming 7 miles on a bottom of wood &amp; bushes L. Side.    our hunter <name type="person" key="Drouillard, George">G. Drewyer</name> joined us    had killed a deer.</p>
+               <p>
+Wednesday August 7th    A Clear cool morning, We sent one of our party out to hunt &amp; unloaded one of our small Canoes, &amp; hawled it out in a Grove of Cotton trees, as we intend leaving her here.    The Indian Goods &amp;ca—    were all put out, in order to get thoroughly dry.—    <name type="person" key="Lewis, Meriwether">Captain Lewis</name> took an observation at this place &amp; found it to lay in Latitude 45° 22' 34S North, he 
+also fired off his air gun several times in order that the Man that went out a hunting from the party that was with <name type="person" key="Clark, William">Captain Clarke</name> up the North fork Yesterday &amp; who we suppose is lost might hear the report, he having as yet not returned.    This day was very warm &amp; the party was much troubled with large horse flies.—    About 1 o'Clock    P. M. we packed up all the Goods, Cloathing &amp;ca and set off—    We proceeded on up the <name type="place" key="Madison River (Middle Fork)">Middle fork</name>, and found that the current did not run so rapid, as it was in the North fork, nor the Rapids so bad.—    We had Thunder Showers &amp; high Wind in the afternoon, &amp; passed smooth plains lying on both sides of the River, We encamped in the Evening in a bottom of Woodland having a large quantity of bushes, 
+lying on the South side of the River where we were joined by <name type="person" key="Drouillard, George">George Drewyer</name> 
+our hunter who had killed a Deer which he brought to our camp.
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n18080701" n="1">The portion of this creek seen by <name type="person" key="Lewis, Meriwether">Lewis</name> then occupied a former channel of the <name type="place" key="Ruby (Philanthropy) River">Ruby River</name>, and the area adjacent to it, therefore, was very swampy or waterlogged. Vegetation grew profusely, died, and was covered by subsequent vegetation remains before it could decay completely. By this process, a peat or turf bog of several acres extent could easily develop.</note>
+            <note xml:id="n18080702" n="2">In <name type="place" key="Madison County, Mont.">Madison County</name>, <name type="place" key="Montana">Montana</name>, just above <name type="place" key="Twin Bridges, Mont.">Twin Bridges</name>. <hi rend="italic">Atlas</hi> map 65.</note>
+            <note xml:id="n18080703" n="3">The flies of the two kinds are the horse fly (large black), <hi rend="italic">Tabanus</hi> sp., and the deer fly (small brown), <hi rend="italic">Chrysops</hi> sp. Borror, Delong, &amp; Triplehorn, 581–82. The mosquitoes are still <hi rend="italic">Aedes vexans,</hi> and the disappearance of the gnats confirms them as buffalo gnats. The blow fly is from either the family Calliphoridae or Sacrophagidae.</note>
+            <note xml:id="n18080704" n="4">
+               <name type="person" key="Clark, William">Clark's</name> courses for August 7–14 are found with his entry of <ref n="1805-08-15" type="related">August 15, 1805</ref>.</note>
+            <note xml:id="n18080705" n="5">"Cotton willow" refers to narrowleaf cottonwood; see <ref n="1805-06-03" type="related">June 3, 1805</ref>. Willow is the sandbar willow, and birch is probably the water, or river, birch, <hi rend="italic">Betula occidentalis</hi> Hook., which is more common than the scrub birch cited on <ref n="1805-08-03" type="related">August 3</ref>. Booth &amp; Wright, 30.</note>
+            <note xml:id="n18080706" n="6">Muskrat, <hi rend="italic">Ondatra zibethicus.</hi>
+            </note>
+            <note xml:id="n18080707" n="7">
+               <name type="person" key="Gass, Patrick">Gass</name> remained with <name type="person" key="Lewis, Meriwether">Lewis</name> at the previous night's camp to take an observation, while <name type="person" key="Clark, William">Clark</name> took the rest of the party up the <name type="place" key="Beaverhead (Jefferson) River">Jefferson River</name>.</note>
+            <note xml:id="n18080708" n="8">Horse fly, <hi rend="italic">Tabanus</hi> sp.</note>
+            <note xml:id="n18080709" n="9">
+               <name type="place" key="Beaverhead (Jefferson) River">Jefferson River</name> (<name type="place" key="Madison River (Middle Fork)">middle fork</name>) and <name type="place" key="Big Hole (Sensable, Wisdom) River">Big Hole River</name> (right fork).</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-08-06" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-08-08" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

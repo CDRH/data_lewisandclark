@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-08-14">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 14, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">298-300</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">350</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">267</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-08-14.01">
+            <placeName/>
+            <geo>47.5009 -101.9429</geo>
+            <note>Camped on the west side in Mercer County, ND, below the first Mandan village, Matootonha. Remained here until 08-17.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-12-10</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-08-14">August 14, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-08-14.01" n="lc.geo.1806-08-14.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Thursday</hi> [<hi rend="italic">X: Saturday</hi>] <hi rend="italic">14th August 1806</hi>
+                     <ref target="n39081401" n="1"/>
+                  </date>
+               </ab>
+               <p>
+Set out at Sunrise and proceeded on.    when we were opposit the <name type="native_nation" key="Hidatsa Indians">Minetares</name> Grand Village<ref target="n39081402" n="2"/> we Saw a number of the Nativs viewing of    we derected the Blunderbuses fired Several times, Soon after we Came too at a Croud of the nativs on the bank opposit the Village of the <name type="native_nation" key="Hidatsa Indians, Awaxawi">Shoe Indians</name> or <hi rend="italic">
+                     <name type="native_nation" key="Hidatsa Indians, Awaxawi">Mah-har-ha's</name>
+                  </hi> at which place I saw the principal Chief of the Little Village of the <name type="native_nation" key="Hidatsa Indians">Menitarre</name>
+                  <ref target="n39081403" n="3"/> &amp; the principal Chief of the <hi rend="italic">
+                     <name type="native_nation" key="Hidatsa Indians, Awaxawi">Mah-har-has</name>.</hi>
+                  <ref target="n39081404" n="4"/>    those people were extreamly pleased to See us.    the Chief of the little Village of the <name type="native_nation" key="Hidatsa Indians">Menetarias</name> cried most imoderately, I enquired the Cause and was informed it was for the loss of his Son who had been killed latterly by the <name type="native_nation" key="Blackfeet Indians">Blackfoot Indians</name>.    after a delay of a fiew minits I proceeded on to the <hi rend="italic">
+                     <name type="native_nation" key="Mandan Indians">black Cats</name>
+                  </hi> [<hi rend="italic">NB: <name type="native_nation" key="Mandan Indians">Mandan</name>
+                  </hi>] Village<ref target="n39081405" n="5"/> on the N. E. Side of the <name type="place" key="Missouri River">Missouri</name> where I intended to Encamp but the Sand blew in Such a manner that we deturmined not to continu on that Side but return to the Side we had left. here we were visited by all the inhabitants of this village<ref target="n39081406" n="6"/> who appeared equally as well pleased to See us as those above. I walked up to the <name type="native_nation" key="Mandan Indians">Black Cats</name> village &amp; eate some Simnins<ref target="n39081407" n="7"/> with him, and Smoked a pipe    this Village I discovered had been rebuilt Since I left it and much Smaller than it was; on enquirey into the Cause was informed that a quarrel had taken place and [<hi rend="italic">NB: a number of</hi>]<ref target="n39081408" n="8"/> Lodges had removed to the opposd Side. I had Soon as I landed despatched <name type="person" key="Charbonneau, Toussaint">Shabono</name> to the <name type="native_nation" key="Hidatsa Indians">Minetarras</name> inviting the Chiefs to visit us, &amp; <name type="person" key="Drouillard, George">Drewyer</name> down to the lower Village of the <name type="native_nation" key="Mandan Indians">Mandans</name>
+                  <ref target="n39081409" n="9"/> to ask <name type="person" key="Jusseaume, René">Mr. Jessomme</name>
+                  <ref target="n39081410" n="10"/> to Come and enterpret for us. <name type="person" key="Jusseaume, René">Mr. Jessomme</name> arived and I spoke to the chiefs of the Village<ref target="n39081411" n="11"/> informing them that we Spoke to them as we had done when we were with them last and we now repeeted our envitation to the principal Chiefs of all the Villages to accompany us and to the U States &amp;c. &amp;c.    the <name type="place" key="Black Cat (Posecopsahe)">Black Cat</name> Chief of the <name type="native_nation" key="Mandan Indians">Mandans</name>, Spoke and informed me that he wished to Visit the United States and his Great Father but was afraid of the <hi rend="italic">
+                     <name type="native_nation" key="Sioux Indians">Scioux</name>
+                  </hi> who were yet at war with them and had killed Several of their men Since we had left them, and were on the river below and would Certainly kill 〈this〉 him if he attempted to go down. I indeavered to do away with his objections by informig him that we would not Suffer those indians to hurt any of our red Children who Should think proper to accompany us, and on their return they would be equally protected, and their presents which would be very liberal, with themselves, Conveyed to their own Country at the expence of the U. States &amp;c. &amp;c. The chief promised us Some corn tomorrow. after the Council I directed the Canoes to cross the river to a brook opposit where we Should be under the wind and in a plain where we would be Clear of musquetors &amp;<ref target="n39081412" n="12"/>    after Crossing the Chief of the <hi rend="italic">
+                     <name type="native_nation" key="Hidatsa Indians, Awaxawi">Mah har has</name>
+                  </hi> told me if I would Send with him he would let me have some corn. I directed Sergt <name type="person" key="Gass, Patrick">Gass</name> &amp; 2 men to accompany him to his Village, they Soon returned loaded with Corn.    the Chief and his wife also came down. I gave his wife a fiew Needles &amp;c.— The great Chif of all the <name type="native_nation" key="Hidatsa Indians">Menitarres</name>
+                  <name type="person" key="Le Borgne (One Eye)">the one eye</name>
+                  <ref target="n39081413" n="13"/> Came to Camp also Several other Chiefs of the different Villages. I assembled all the Chiefs on a leavel Spot on the band and Spoke to them &amp;    see next book.<ref target="n39081414" n="14"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-14.02" n="lc.geo.1806-08-14.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Thursday 14th August 1806.    a fair morning    we Set out eairly and procd. on    about 9 A. M. we arived at our old neighbours the <name type="native_nation" key="Hidatsa Indians">Grousevauntaus</name>
+                  <ref target="n39081415" n="15"/> and <name type="native_nation" key="Mandan Indians">Mandans</name>.    we Saluted them by firing our Swivvel and blunderbusses a number of times    they answered us with a blunderbuss and Small arms and were verry glad to See us    we halted a Short time at the <name type="native_nation" key="Hidatsa Indians">Grousevauntaus</name> village then mooved down convenient to boath the <name type="native_nation" key="Hidatsa Indians">Grousevauntaus</name> and <name type="native_nation" key="Mandan Indians">Mandans</name> and Campd. in order to Stay 2 or 3 days to try to git Some of these chiefs to do down with us to Show them the power of the united States &amp;C.    they gave us corn &amp; beans &amp;C. &amp;C. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> fainted as <name type="person" key="Clark, William">Capt. Clark</name> was dressing his wound, but Soon came too again.—<ref target="n39081416" n="16"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-14.03" n="lc.geo.1806-08-14.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Thursday 14th.</hi>    The morning of this day was pleasant, and we embarked early. In a short time we arrived near to our old friends the <name type="native_nation" key="Hidatsa Indians">Grossventres</name> and <name type="native_nation" key="Mandan Indians">Mandans</name>; and fixed our encampment in a central position, so as to be most convenient to the different villages. The inhabitants of all the villages appeared very glad to see us, and sent us presents of corn, beans and squashes.
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n39081401" n="1">This entry ends the daily entries in Codex M. There follows (reading backwards) <name type="person" key="Clark, William">Clark's</name> weather diaries for June, July, and August 1806, and then some miscellaneous notes on the back flyleaf. One of the items is a weather observation from <ref n="1806-08-01" type="related">August 1, 1806</ref>, and is placed at that date. Another item reads: "From the head of <name type="place" key="Jefferson River (North, Southwest Fork)">Jeffersons River</name> through <name type="place" key="Rattlesnake Cliffs">Snake Mountain</name> is North 12 miles thence to <name type="place" key="Big Hole (Sensable, Wisdom) River">Wisdom river</name> is N. 20° E." Assuming the "head of <name type="place" key="Jefferson River (North, Southwest Fork)">Jefferson river</name>" to be the forks of the <name type="place" key="Beaverhead (Jefferson) River">Beaverhead</name> in <name type="place" key="Beaverhead County, Mont.">Beaverhead County</name>, <name type="place" key="Montana">Montana</name>, "<name type="place" key="Rattlesnake Cliffs">Snake Mountain</name>" is probably the <name type="place" key="Rattlesnake Cliffs">Rattlesnake Cliffs</name>. <name type="place" key="Big Hole (Sensable, Wisdom) River">Wisdom River</name> is the <name type="place" key="Big Hole (Sensable, Wisdom) River">Big Hole River</name>. See <ref n="1805-08-03" type="related">August 3</ref> and <ref n="1805-08-10" type="related">10</ref>, 1805. <hi rend="italic">Atlas</hi> maps 65, 66. A final miscellaneous item reads:<lb/>
+               <table rows="4" cols="1">
+                  <head>Memorandom</head>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1st. Complete the maps</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">2. copy of Sketch of the <name type="place" key="Yellowstone River">rochejhone</name>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">3. a Copy of Courses &amp; distances</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">4. to fill up vacinces in my book</cell>
+                  </row>
+               </table>
+               <lb/>
+               <name type="person" key="Clark, William">Clark</name> obviously intended to remind himself of tasks needed to complete the record of the expedition. "Complete the maps" may refer to maps begun at <name type="place" key="Fort Clatsop (Oreg.)">Fort Clatsop</name>; see <hi rend="italic">Atlas,</hi> 12, 19 n. 129. "Copy a Sketch of the <name type="place" key="Yellowstone River">rochejhone</name>" obviously refers to maps of the <name type="place" key="Yellowstone River">Yellowstone River</name>, which helps to date the memorandum after the completion of that stage of the journey, though which maps are meant is not clear; see <hi rend="italic">Atlas,</hi> 11, 19 n. 119. "A copy of the Courses &amp; distances" may be a reminder to copy the draft material giving courses and distances for <ref n="1806-07-13" type="related">July 13</ref>–<ref n="1806-07-19" type="related">19</ref> and <ref n="1806-07-24" type="related">July 24</ref>–<ref n="1806-08-03" type="related">August 3</ref>, 1806. "To fill up vacinces in my book" may refer to some sort of blanks in <name type="person" key="Clark, William">Clark's</name> journals; see <ref n="introduction.general" type="related">Introduction to the Journals</ref>.</note>
+            <note xml:id="n39081402" n="2">For these <name type="native_nation" key="Hidatsa Indians">Hidatsa</name> and <name type="native_nation" key="Mandan Indians">Mandan</name> villages in <name type="place" key="Mercer County, N. Dak.">Mercer</name> and <name type="place" key="McLean County, N. Dak.">McLean</name> counties, <name type="place" key="North Dakota">North Dakota</name>, see <ref n="1804-10-26" type="related">October 26</ref> and <ref n="1804-10-27" type="related">27</ref>, 1804. <hi rend="italic">Atlas</hi> maps 29, 33, 46, 55; MRC map 52.</note>
+            <note xml:id="n39081403" n="3">
+               <name type="person" key="Black Moccasin (Omp-se-ha-ra)">Black Moccasin</name>; see <ref n="1804-10-29" type="related">October 29, 1804</ref>. <name type="person" key="Biddle, Nicholas">Biddle</name>, in later conversations with <name type="person" key="Clark, William">Clark</name>, expands on <name type="person" key="Black Moccasin (Omp-se-ha-ra)">Black Moccasin's</name> recollection of his son's death. <name type="person" key="Biddle, Nicholas">Biddle</name> Notes [ca. April 1810], Jackson (LLC), 2:522.</note>
+            <note xml:id="n39081404" n="4">White Buffalo Robe Unfolded; see <ref n="1804-10-29" type="related">October 29, 1804</ref>.</note>
+            <note xml:id="n39081405" n="5">For <name type="person" key="Black Cat (Posecopsahe)">Black Cat</name>, see <ref n="1804-10-29" type="related">October 29, 1804</ref>. It was probably <name type="person" key="Biddle, Nicholas">Biddle</name> who underlined his name with red ink.</note>
+            <note xml:id="n39081406" n="6">Evidently <name type="place" key="Ruptáre (Rooptahee) village">Rooptahee, or Ruptare, village</name> in <name type="place" key="McLean County, N. Dak.">McLean County</name>. <hi rend="italic">Atlas</hi> map 29.</note>
+            <note xml:id="n39081407" n="7">Summer squashes; see <ref n="1804-10-08" type="related">October 8, 1804</ref>.</note>
+            <note xml:id="n39081408" n="8">
+               <name type="person" key="Biddle, Nicholas">Biddle</name> placed the words at a blank space.</note>
+            <note xml:id="n39081409" n="9">
+               <name type="place" key="Mitutanka village">Matootonha, or Mitutanka, village</name> in <name type="place" key="Mercer County, N. Dak.">Mercer County</name>. <hi rend="italic">Atlas</hi> map 29.</note>
+            <note xml:id="n39081410" n="10">For <name type="person" key="Jusseaume, René">Rene Jusseaume</name>, see <ref n="1804-10-27" type="related">October 27, 1804</ref>.</note>
+            <note xml:id="n39081411" n="11">
+               <name type="person" key="Black Cat (Posecopsahe)">Black Cat</name>. What seems to be the number "63," perhaps in <name type="person" key="Clark, William">Clark's</name> hand, appears above the word "spoke," but its purpose is unclear.</note>
+            <note xml:id="n39081412" n="12">This would seem to place the camp on the west side in <name type="place" key="Mercer County, N. Dak.">Mercer County</name>, <name type="place" key="North Dakota">North Dakota</name>,  and considerably below the first (or lower) <name type="native_nation" key="Mandan Indians">Mandan</name> village, <name type="place" key="Mitutanka village">Matootonha</name>. <hi rend="italic">Atlas</hi> map 29; MRC maps 51, 52.</note>
+            <note xml:id="n39081413" n="13">For <name type="person" key="Le Borgne (One Eye)">Le Borgne, or One Eye</name>, see <ref n="1805-03-09" type="related">March 9, 1805</ref>.</note>
+            <note xml:id="n39081414" n="14">The next book, Codex N, begins with the date August 15, 1806, but continues with the same conference with the chiefs, and is clearly about events of the same day as the end of Codex M. It is impossible to say where August 14 actually ends and the fifteenth begins. Presumably the material covering these days was written later and the heading for August 15 was misplaced. Coues (HLC), 3:1182 n. 10, believes most of the events given under August 14 belong to the fifteenth. <name type="person" key="Ordway, John">Ordway</name> notes on this date that "<name type="person" key="Lewis, Meriwether">Capt Lewis</name> fainted as <name type="person" key="Clark, William">Capt Clark</name> was dressing his wound, but Soon came too again."</note>
+            <note xml:id="n39081415" n="15">Here meaning the <name type="native_nation" key="Hidatsa Indians">Hidatsa Indians</name>.</note>
+            <note xml:id="n39081416" n="16">Only <name type="person" key="Ordway, John">Ordway</name> records Lewis fainting.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-08-13" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-08-15" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

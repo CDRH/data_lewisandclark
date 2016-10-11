@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-03-26">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+March 26, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 7</title>
+               <title level="m" type="sub">March 23–June 9, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1991</date>
+               <biblScope type="pages">15-17</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">281</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">202</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">434</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-03-26.01">
+            <placeName/>
+            <geo>46.1333 -123.0333</geo>
+            <note>Camped on a small island below present Longview, Cowlitz County, WA. Camp was in Columbia County, OR. Possibly Walker or Dibblee island.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-09-24</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-03-26">March 26, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-03-26.01" n="lc.geo.1806-03-26.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday March 26th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+The wind blew so hard this morning that we delayed untill 8 A. M. we gave a medal of small size to a man by the name of <name type="person" key="Waláli">Wal-lal'-le</name>,<ref target="n31032601" n="1"/> a principal man among the <name type="native_nation" key="Cathlamet Indians">Cathlahmahs</name>, he appeared very thankfull for the honour conferred on him and presented us a large sturgeon.    we continued our rout up the river to an old village on the Stard. side where we halted for dinner.<ref target="n31032602" n="2"/>    we met on the way the principal Cheif of the <name type="native_nation" key="Cathlamet Indians">Cathlahmahs</name>, <name type="person" key="Sax̣awaq̓ap">Sâh-hâh-wôh-cap</name>,<ref target="n31032603" n="3"/> who had been up the river on a trading voyage.    he gave us some Wappetoe and fish; we also purchased some of the latter.    soon after we halted for dinner the two <name type="native_nation" key="Wahkiakum Indians">Wackiacums</name> who have been pursuing us since yesterday morning with two dogs for sale, arrived.    they wish tobacco in exchange for their dogs which we are not disposed to give as our stock is now reduced to a very few carrots.<ref target="n31032604" n="4"/>    our men who have been accustomed to the use of this article Tobaco and to whom we are now obliged to deny the uce of this article appear to suffer much for the want of it.    they substitute the bark of the wild crab which they chew; it is very bitter, and they assure me they find it a good substitute for tobacco. the smokers substitute the inner bark of the red willow and the sacacommis.<ref target="n31032605" n="5"/>    here our hunters joined us having killed three Eagles and a large goose. I had now an oportunity of comparing the bald with the grey Eagle;<ref target="n31032606" n="6"/> I found that the greay Eagle was about ¼ larger, it's legs and feet were dark while those of the bald Eagle wer of a fine orrange yellow; the iris of the eye is also of a dark yellowish brown while that of the other is of a bright silvery colour with a slight admixture of yellow.    after dinner we proceeded on and passed an Elegant and extensive bottom on the South side and an island near it's upper point which we call <name type="place" key="Crims (Fanny's) Island">Fanny's Island</name> and bottom.<ref target="n31032607" n="7"/>    the greater part of the bottom is a high dry prarie.    near the river towards the upper point we saw a fine grove of whiteoak trees;<ref target="n31032608" n="8"/> we saw some deer and Elk at a distance in the prarie, but did not delay for the purpose of hunting them.    we continued our rout after dinner untill late in the evening and encamped on the next island above <name type="place" key="Crims (Fanny's) Island">fanny's Island</name>.<ref target="n31032609" n="9"/>    we found it difficult to obtain as much wood as answered our purposes.    the hunters<ref target="n31032610" n="10"/> who had proceeded on before us after dinner did not join us this evening.    some indians visited us after dark, but did not remain long.    agreeably to our estimate as we decended the river, we came 16 m. 23rd, 16 m. the 24th, 15 the 25th, and 18 m. the 26th, tho' I now think that our estimate in decending the river was too short.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-03-26.02" n="lc.geo.1806-03-26.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday March 26th 1806</hi>
+                  </date>
+               </ab>
+               <p>
+The wind blew So hard untill 8 A M. that we detained, we gave a Medal to a Man by the name of <name type="person" key="Waláli">Wal-lal-le</name> a principal man among the <name type="native_nation" key="Cathlamet Indians">Cath lah mahs</name>, he appeared very thankfull for the honor Confured on him and presented us with a large Sturgion.    we Continued our rout up the river to an old Village on the South Side where we halted for dinner.    we met on the way the principal Chief of the <name type="native_nation" key="Cathlamet Indians">Cathlahmahs</name>, <hi rend="italic">
+                     <name type="person" key="Sax̣awaq̓ap">Sâh-hâh-wâh-cop</name>,</hi> who had been up the river on a trading voyage, he gave us some Wappato and fish, we also purchased Some Wappato Soon after halted for dinner at an Old Village 〈at〉 on the South point opposit the lower pt. of <name type="place" key="Crims (Fanny's) Island">Fannys Island</name>. The two <name type="native_nation" key="Wahkiakum Indians">Warkiacums</name> who had been pursueing us Since yester day morning with two dogs for Sale, arrived.    they wish Tobacco in exchange for their dogs which we are not disposed to give, as our Stock is now reduced to 3 carrots.    our men who have been acustomed to the use of this article, and to Whome we are now obliged to deny the use of this article appear to Suffer Much for the want of it.    they Substitute the bark of the wild Crab which they Chew; it is very bitter and they assure me they find it a good Substitute for tobacco.    the Smokers Substitute the iner bark of the redwillow and the saccommis.</p>
+               <p>
+here our hunters joined us haveing killed 3 Eagles and a large Wild goose. I had now an oppertunity of Comparing the bald 〈and〉 with the grey Eagle; I found the grey Eagle about ¼ largest, its legs and feet were dark which those of the bald eagle were of a fine orrange yellow; the iris of the eye is also of a dark yellowish brown, while that of the Grey is of a light Silvery colour with a Slight admixture of yellow.    after dinner I walked on Shore through an eligant bottom on the South Side opposit to <name type="place" key="Crims (Fanny's) Island">Fannys Island</name>.</p>
+               <p>
+This bottom we also Call <name type="place" key="Crims (Fanny's) Island">fannys bottom</name>    it is extensive and an open leavel plain except near the river bank which is high dry rich oak land. I saw Some deer &amp; Elk at a distance in the Prarie.    we continued untill late in the evening and encamped on a Small Island near the Middle of the river haveing made 18 Miles.    2 Indians Visited us this evining
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-03-26.03" n="lc.geo.1806-03-26.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 26th March 1806.    the wind ran high last night and the tide rose higher than common and came in under my blankets before I awoke and obledged me to move twise    Several more of the party camps were
+routed also.—    our officers gave one of the <name type="native_nation" key="Cathlamet Indians">Cath lih mahs</name> a meddel.    he gave them in return a large Sturgeon.    we proceeded on our way and halted on <name type="place" key="Crims (Fanny's) Island">fanneys Island</name> to dine then proceed. on as usal    Camped on an Island in thick brush &amp;C.—
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-03-26.04" n="lc.geo.1806-03-26.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 26th.</hi>    After a disagreeable night's rain, and wind, we continued our voyage. As we passed along, I saw a great many flowers full blown of different colours; and grass and other herbage growing fast: I saw nettles<ref target="n31032611" n="11"/> two feet high of this spring's growth.<ref target="n31032612" n="12"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-03-26.05" n="lc.geo.1806-03-26.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday March 26th    The wind &amp; tide rose very high during last night.    the water raised so much that it obliged several of our party to move their Camps.    Our Officers gave one of the Indians, who belonged to the fishing Camp near us, A. Medal, &amp; the Indian in return, gave them a large Sturgeon.    At 8 o'Clock A. M. we proceeded on ascending the <name type="place" key="Columbia River">Columbia River</name>, &amp; halted at an Island called by our Officers <name type="place" key="Crims (Fanny's) Island">Fannys Island</name> to dine.    We continued on our way at 2 o'Clock P. M. and towards evening we halted at an Island &amp; encamped for the night in a Thicket of Woods on the same.
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n31032601" n="1">A <name type="person" key="Jefferson, Thomas">Jefferson</name> medal, probably of 55mm. <name type="person" key="Waláli">Wal-lal'-le</name>, a <name type="native_nation" key="Cathlamet Indians">Cathlamet</name> personal name, is <hi rend="italic">
+                  <name type="person" key="Waláli">Waláli</name>.</hi>
+            </note>
+            <note xml:id="n31032602" n="2">Noted as "old V" on <hi rend="italic">Atlas</hi> map 81, near the west end of <name type="place" key="Crims (Fanny's) Island">"Fannys Isd.,"</name> present <name type="place" key="Crims (Fanny's) Island">Crims Island</name>, <name type="place" key="Columbia County, Oreg.">Columbia County</name>, <name type="place" key="Oregon">Oregon</name>. It is opposite <name type="place" key="Oak Point, Wash.">Oak Point</name>, with the dividing line of <name type="place" key="Cowlitz County, Wash.">Cowlitz</name> and <name type="place" key="Wahkiakum County, Wash.">Wahkiakum</name> counties, <name type="place" key="Washington">Washington</name>, just to the west. The village was mentioned by many later travelers, including <name type="person" key="Ross, Alexander">Alexander Ross</name>, <name type="person" key="Stuart, Robert">Robert Stuart</name>, and <name type="person" key="Franchère, Gabriel">Gabriel Franchère</name>. Ross, 113; Spaulding, 44; Franchère (JV), 78.</note>
+            <note xml:id="n31032603" n="3">
+               <name type="person" key="Sax̣awaq̓ap">Sâh-hâh-wôh-cap</name>, another <name type="native_nation" key="Cathlamet Indians">Cathlamet</name> name, is <hi rend="italic">Sa<seg n="uxu803">x̣</seg>awa<seg n="uqu787">q̓</seg>ap.</hi>
+            </note>
+            <note xml:id="n31032604" n="4">Tobacco was stored and transported in long twists called "carrots" for their shape; see <ref n="1804-08-19" type="related">August 19, 1804</ref>. Beginning here, a vertical line runs nearly to the end of the entry, perhaps <name type="person" key="Biddle, Nicholas">Biddle's</name> work.</note>
+            <note xml:id="n31032605" n="5">The wild crab is Oregon crabapple, <hi rend="italic">Malus diversifolia</hi> (Bong.) Roem., also given as <hi rend="italic">Pyrus fusca</hi> Raf. and more recently as <hi rend="italic">M. fusca</hi> (Raf.) Schneid. See <name type="person" key="Lewis, Meriwether">Lewis's</name> description at <ref n="1806-01-28" type="related">January 28, 1806</ref>. Saccacommis was the traditional smoking mixture of the plains Indians and the French <hi rend="italic">engagés,</hi> consisting of the dried leaves of bearberry or kinnikinnick, <hi rend="italic">Arctostaphylos uva-ursi</hi> (L.) Spreng, and of the dried inner bark or phloem tissue of red osier dogwood (Lewis's red willow).</note>
+            <note xml:id="n31032606" n="6">The bald eagle is <hi rend="italic">Haliaeetus leucocephalus</hi> [AOU, 352]; the "grey" eagle is the golden eagle, <hi rend="italic">Aquila chrysaetos</hi> [AOU, 349]. The bald is actually larger than the golden. <name type="person" key="Lewis, Meriwether">Lewis</name> may have compared a female bald eagle to a male golden. Burroughs, 204–8, 325 n. 7.</note>
+            <note xml:id="n31032607" n="7">Supposedly named for <name type="person" key="Clark, William">Clark's</name> youngest sister, <name type="person" key="Clark, Frances">Frances</name>; later <name type="place" key="Crims (Fanny's) Island">Crims Island</name>. "<name type="person" key="Crims (Fanny's) Island">Fanny's bottom</name>" became "<name type="place" key="Fanny's bottom (valley)">Fanny's Valley</name>" on <hi rend="italic">Atlas</hi> map 81, perhaps because <name type="person" key="Clark, William">Clark</name> had second thoughts. Coues (HLC), 3:909 n. 11.</note>
+            <note xml:id="n31032608" n="8">Oregon white, or Garry, oak, <hi rend="italic">Quercus garryana</hi> Dougl. ex Hook. <name type="person" key="Lewis, Meriwether">Lewis</name> also collected a specimen of the plant this day. Hitchcock et al., 2:85; Little (CIH), 166-W; Cutright (LCPN), 290.</note>
+            <note xml:id="n31032609" n="9">On one of the small islands below present <name type="place" key="Longview, Wash.">Longview</name>, <name type="place" key="Cowlitz County, Wash.">Cowlitz Country</name>, <name type="place" key="Washington">Washington</name>, in <name type="place" key="Columbia County, Oreg.">Columbia County</name>, <name type="place" key="Oregon">Oregon</name>. The possibilities include <name type="place" key="Walker Island">Walker</name> and <name type="place" key="Dibblee Island">Dibblee (formerly Lord)</name> islands; see <ref n="1805-11-06" type="related">November 6, 1805.</ref>
+               <hi rend="italic">Atlas</hi> map 81; cf. Thwaites (LC), 4:204 n. 1.</note>
+            <note xml:id="n31032610" n="10">
+               <name type="person" key="Drouillard, George">Drouillard</name> and the <name type="person" key="Field, Joseph and Reubin">Field brothers</name>.</note>
+            <note xml:id="n31032611" n="11">Stinging nettle, <hi rend="italic">Urtica dioica</hi> L. ssp. <hi rend="italic">gracilis</hi> (Ait.) Seland.</note>
+            <note xml:id="n31032612" n="12">They camped on one of the small islands, including <name type="place" key="Walker Island">Walker</name> and <name type="place" key="Dibblee Island">Dibblee</name> islands, below 
+<name type="place" key="Longview, Wash.">Longview</name>, <name type="place" key="Cowlitz County, Wash.">Cowlitz County</name>, <name type="place" key="Washington">Washington</name>, in <name type="place" key="Columbia County, Oreg.">Columbia County</name>, <name type="place" key="Oregon">Oregon</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-03-25" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-03-27" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

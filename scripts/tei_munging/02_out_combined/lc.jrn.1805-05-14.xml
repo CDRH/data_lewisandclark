@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-05-14">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+May 14, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 4</title>
+               <title level="m" type="sub">April7–July 27, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">150-156</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">147-148</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">88-89</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">155-158</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-05-14.01">
+            <placeName/>
+            <geo>47.6533 -107.0131</geo>
+            <note>A few miles above present Snow Creek in Valley County, MT. The location has been inundated by the reservoir. They remained here until 1805-05-16</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-05-14</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-05-14">May 14, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-05-14.01" n="lc.geo.1805-05-14.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Tuesday May 14th 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+Some fog on the river this morning, which is a very rare occurrence; the country much as it was yesterday with this difference that the bottoms are somewhat wider; passed some high black bluffs.    saw immence herds of buffaloe today also Elk deer wolves and Antelopes.    passed three large creeks one on the Stard. and two others on the Lard. side,<ref target="n13051401" n="1"/> neither of which had any runing water. <name type="person" key="Clark, William">Capt Clark</name> walked on shore and killed a very fine buffaloe cow. I felt an inclination to eat some veal and walked on shore and killed a very fine buffaloe calf and a large woolf, much the whitest I had seen, it was quite as white as the wool of the common sheep.    one of the party wounded a brown bear very badly, but being alone did not think proper to pursue him. In the evening the men in two of the rear canoes discovered a large brown bear lying in the open grounds about 300 paces from the river, and six of them went out to attack him, all good hunters; they took the advantage of a small eminence which concealed them and got within 40 paces of him unperceived, two of them reserved their fires as had been previously conscerted, the four others fired nearly at the same time and put each his bullet through him, two of the balls passed through the bulk of both lobes of his lungs, in an instant this monster ran at them with open mouth, the two who had reserved their fires discharged their pieces at him as he came towards them, boath of them struck him, one only slightly and the other fortunately broke his shoulder, this however only retarded his motion for a moment only, the men unable to reload their guns took to flight, the bear pursued and had very nearly overtaken them before they reached the river; two of the party betook themselves to a canoe and the others seperated an concealed themselves among the willows, reloaded their pieces, each discharged his piece at him as they had an opportunity they struck him several times again but the guns served only to direct the bear to them, in this manner he pursued two of them seperately so close that they were obliged to throw aside their guns and pouches and throw themselves into the river altho' the bank was nearly twenty feet perpendicular; so enraged was this anamal that he plunged into the river only a few feet behind the second man he had compelled take refuge in the water, when one of those who still remained on shore shot him through the head and finally killed him; they then took him on shore and butched him when they found eight balls had passed through him in different directions; the bear being old the flesh was indifferent, they therefore only took the skin and fleece,<ref target="n13051402" n="2"/> the latter made us several gallons of oil; it was after the sun had set before these men come up with us, where we had been halted by an occurrence, which I have now to recappitulate, and which altho' happily passed without ruinous injury, I cannot recollect but with the utmost trepidation and horror; this is the upseting and narrow escape of the white perogue    It happened unfortunately for us this evening that <name type="person" key="Charbonneau, Toussaint">Charbono</name> was at the helm of this Perogue, in stead of <name type="person" key="Drouillard, George">Drewyer</name>, who had previously steered her; <name type="person" key="Charbonneau, Toussaint">Charbono</name> cannot swim and is perhaps the most timid waterman in the world; perhaps it was equally unluckey that <name type="person" key="Clark, William">Capt. C.</name> and myself were both on shore at that moment, a circumstance which rarely happened; and tho' we were on the shore opposite to the perogue, were too far distant to be heard or to do more than remain spectators of her fate; in this perogue [<hi rend="italic">blank with apparent erasures</hi>] were embarked, our papers, Instruments, books medicine, a great part of our merchandize and in short almost every article indispensibly necessary to further the views, or insure the success of the enterprize<ref target="n13051403" n="3"/> 〈of the expedition〉 in which we are now launched to the distance of 2200 miles.    surfice it to say, that the Perogue was under sail when a sudon squawl of wind struck her obliquely, and turned her considerably, the steersman allarmed, in stead of puting her before the wind, lufted her up into it, the wind was so violent that it drew the brace of the squarsail out of the hand of the man who was attending it, and instantly upset the perogue and would have turned her completely topsaturva, had it not have been from the resistance mad by the oarning against the water; in this situation <name type="person" key="Clark, William">Capt. C</name> and myself both fired our guns to attract the attention if possible of the crew and ordered the halyards to be cut and the sail hawled in, but they did not hear us; such was their confusion and consternation at this moment, that they suffered the perogue to lye on her side for half a minute before they took the sail in, the perogue then wrighted but had filled within an inch of the gunwals; <name type="person" key="Charbonneau, Toussaint">Charbono</name> still crying to his god for mercy, had not yet recollected the rudder, nor could the repeated orders of the Bowsman, <name type="person" key="Cruzatte, Pierre">Cruzat</name>, bring him to his recollection untill he threatend to shoot him instantly if he did not take hold of the rudder and do his duty, the waves by this time were runing very high, but the fortitude resolution and good conduct of <name type="person" key="Cruzatte, Pierre">Cruzat</name> saved her; he ordered 2 of the men to throw out the water with some kettles that fortunately were convenient, while himself and two others rowed her as[h]ore, where she arrived scarcely above the water; we now took every article out of her and lay them to drane as well as we could for the evening, baled out the canoe and secured her; there were two other men beside <name type="person" key="Charbonneau, Toussaint">Charbono</name> on board who could not swim, and who of course must also have perished had the perogue gone to the bottom.    while the perogue lay on her side, finding I could not be heard, I for a moment forgot my own situation, and involluntarily droped my gun, threw aside my shot pouch and was in the act of unbuttoning my coat, before I recollected the folly of the attempt I was about to make, which was to throw myself into the river and indevour to swim to the perogue; the perogue was three hundred yard distant the waves so high that a perogue could scarcely live in any situation, the water excessively could, and the stream rappid; had I undertaken this project therefore, there was a hundred to one but what I should have paid the forfit of my life for the madness of my project, but this had the perogue been lost, I should have valued but little.—<ref target="n13051404" n="4"/> After having all matters arranged for the evening as well as the nature of circumstances would permit, we thought it a proper occasion to console ourselves and cheer the sperits of our men and accordingly took a drink of grog and gave each man a gill of sperits.</p>
+               <p>
+                  <table rows="9" cols="3">
+                     <head>
+                        <hi rend="italic">Courses and distances of May 14th 1805</hi>
+                        <ref target="n13051405" n="5"/>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 55° W.</cell>
+                        <cell role="data" rows="1" cols="1">Along the Stard.<ref target="n13051406" n="6"/> side, water swift</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 35 W.</cell>
+                        <cell role="data" rows="1" cols="1">Along the Lard. side, opposite the lower point of an island<lb/>
+in a bend on Stard.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>     ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 20° W.</cell>
+                        <cell role="data" rows="1" cols="1">Along the Lard. side passing the head of an Island op-<lb/>
+posite to which a large creek falls in on the Stard. side, or<lb/>
+                           <hi rend="italic">
+                              <name type="place" key="Sutherland (Gibson's) Creek">Gibson's Creek</name>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+                           <lb/>     ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 12° E.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timber on the Stard. side opposite to a high<lb/>
+hill on Lard.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  3</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 20° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timbered land on the Stard. side, a bluff<lb/>
+point of rocks on Lard. passing a creek on Lard. called<lb/>
+                           <name type="place" key="Hell (Stick Lodge) Creek">Stick Lodge C.</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+                           <lb/>  2 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timbered land on the Lard passing a point of<lb/>
+woodland Stard at 1 m</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  3</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 85° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timbered land on the Lard passing	a Large<lb/>
+dry creek Lard. the <name type="place" key="Snow (Brown Bear Defeated) Creek">Brown bear defeat</name>.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  2 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 62° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of woodland on the Stard. side at which place<lb/>
+our perogue had very nearly been lost</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  <hi rend="underline">3 ½</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Miles—</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">16 ½<ref target="n13051407" n="7"/>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-14.02" n="lc.geo.1805-05-14.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">14th of May Tuesday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+A verry Clear Cold morning a white frost &amp; some fog on the river    the Thermomtr Stood at 32 above 0, wind from the S. W.    we proceeded on verry well untill about 6 oClock a Squawl of wind Struck our Sale broad Side and turned the perogue nearly over, and in this Situation the Perogue remained untill the Sale was Cut down in which time She nearly filed with water—    the articles which floated out was nearly all caught by the Squar who was in the rear. This accident had like to have cost us deerly;<ref target="n13051408" n="8"/> for in this perogue were embarked our papers, Instruments, books, medicine, a great proportion of our merchandize, and in short almost every article indispensibly necessary to further the views, or insure the success of the enterprize in which, we are now launched to the distance of 2,200 miles.    it happened unfortunately that <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> and myself were both on shore at the time of this occurrence, a circumstance which seldom took place; and tho' we were on the shore opposit to the perogue were too far distant to be heard or do more than remain spectators of her fate; we discharged our guns with the hope of attracting the attention of the crew and ordered the sail to be taken in but such was their consternation and confusion at the instant that they did not hear us.    when however they at length took in the sail and the perogue wrighted; the bowsman <name type="person" key="Cruzatte, Pierre">Cruzatte</name> by repeated threats so far brought <name type="person" key="Charbonneau, Toussaint">Charbono</name> the Sternman to his recollection that he did his duty while two hands bailed the perogue and <name type="person" key="Cruzatte, Pierre">Cruzatte</name> and two others rowed her on shore were she arrived scarcely above the water.    we owe the preservation of the perogue to the resolution and fortitude of Cruzatte</p>
+               <p>
+The Countrey like that of yesterday, passed a Small Island and the enterence of 〈two〉 3 large Creeks, one on the Stard. &amp; the other 2 on the Lard Side, neither of them had any running water at this time—    Six good hunters of the party fired at a Brown or Yellow <hi rend="italic">Bear</hi> Several times before they killed him, &amp; indeed he had like to have defeated the whole party, he pursued them Seperately as they fired on him, and was near Catching Several of them    one he pursued into the river, this bear was large &amp; fat would way about 500 wt; I killed a Buffalow, &amp; <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> a Calf &amp; a wolf this evening.</p>
+               <p>
+                  <table rows="10" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="desc" rows="1" cols="1">miles</cell>
+                        <cell role="desc" rows="1" cols="1">  <hi rend="italic">Course &amp; Distance May 14th 1805</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 55° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">on the Lard Side Swift water</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 35° W</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">allong the Lard Side opsd. the lower point of an Isd. in a<lb/>
+bind to Std. Side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 20° W</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">allong the Lard. Side passed the hd. of the Isd. opsd. to<lb/>
+which a large creek falls in on the Std. Side    <name type="place" key="Sutherland (Gibson's) Creek">Gibson's<lb/>
+Creek</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 12° E,</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timber on the Std. Side high hills on the Lard<lb/>
+Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 20° W</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timbered land on the Std Side, a bluff on<lb/>
+Lard Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° W</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timbered land on the Lard. Side, passd. a<lb/>
+point of wood land on the Std. Side at 1 mile</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 85° W</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timbered land on Lard. Sd.    Passt. <name type="place" key="Snow (Brown Bear Defeated) Creek">Yellow<lb/>
+Bear Defeat creek</name> 40 yds. wide</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 62°W</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  3 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">to a point of wood land on the Stard Side, at which place<lb/>
+one perogue like to have been lost &amp; we camped<ref target="n13051409" n="9"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">16 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-14.03" n="lc.geo.1805-05-14.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday 14th May 1805.<ref target="n13051410" n="10"/>    a hard white frost last night.    our mocassons froze near the fire.    a clear and pleasant morning.    we Set off at Sun rise.    proceeded on    passed the mouth of a creek on N. S.<ref target="n13051411" n="11"/>    passed black bluffs which make near the River on each Side.    high hills back from the river    Some pitch pine on them. Saw verry large gangs of buffaloe    about 11 oClock we passed the Mouth of a large Creek on the S. S. called [<hi rend="italic">blank</hi>]<ref target="n13051412" n="12"/>    we proceeded on about 12 oC.    it was verry war[m] or much warmer than
+it has been before this Spring.    we Saw Some banks of Snow laying in the vallies at the N. S. of the hills.    about one oClock we halted to dine at a bottom on the S. S. <name type="person" key="Clark, William">Capt. Clark</name> killed a buffaloe.    about 3 oC. we proceeded on. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> and <name type="person" key="Clark, William">Capt. Clark</name> crossed the River where we Saw a large gang of buffaloe &amp; went on Shore    abt. 4 oClock the men in the canoes Saw a large brown bear on the hills on S. S.    6 men went out to kill it.    they fired at it and wounded it.    it chased 2 of them into a canoe, and anoth[er] [into?] the River and they Steady fireing at him.    after Shooting eight balls in his body Some of them through the lites,<ref target="n13051413" n="13"/> he took the River and was near catching the Man he chased in, but he went up against the Stream and the bear being wounded could not git to him.    one of the hunters Shot him in the head which killed him dead.    we got him to Shore with a canoe and butchred him.    we found him to be nearly the Same discription of the first we killed only much larger.    about 5 oClock the white perogue of the Captains was Sailing a long, there came a violent gust of wind from the N. W. which was to the contrary to the course they were Sailing.    it took the Sail and before they had time to douse it it turned the perogue down on one Side So that she filled with water, and would have turned over had it not been for the earning [awning] which prevented it.    with much a diew they got the Sail in and got the [pirogue] to Shore and unloaded hir at a bottom where we camped on N. S.    came 18½ miles this day    one man wounded another b. bear.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-14.04" n="lc.geo.1805-05-14.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 14th.</hi>    There was some white frost in the morning, we proceeded on early; passed <name type="place" key="Black Hills">black hills</name> close to the river on the South side and some covered with pine timber at a distance. About 12 the day became warm. 
+Banks of snow were seen lying on the hills on the North side. This forenoon we passed a large creek on the North side and a small river on the South.<ref target="n13051414" n="14"/> About 4 in the afternoon we passed another small river on the South side<ref target="n13051415" n="15"/> near the mouth of which some of the men discovered a large brown bear, and six of them went out to kill it. They fired at it; but having only wounded it, it made battle and was near seizing some of them, but they all fortunately 
+escaped, and at length succeeded in dispataching it. These bears are very bold and ferocious; and very large and powerful. The natives say they have killed a number of their brave men. The periogues having gone ahead, while the people belonging to the canoes were dressing the bear, a sudden gust of wind arose, which overset one of the periogues before the sail could be got down. The men who had been on board, turned it again and got it to shore, full of water. It was immediately unloaded and the cargo opened, when we 
+found a great part of the medicine, and other articles spoiled. Here we encamped, having come to day 18½ miles.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-14.05" n="lc.geo.1805-05-14.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 14th May 1805</hi>.    a hard white frost last night.    our mocasons froze near the fire.    a clear and pleasant morning.    we Set off at Sun rise and proceeded on    passed the mouth of a large creek<ref target="n13051416" n="16"/> on N. S. named [<hi rend="italic">blank</hi>] and a Small willow Island abo. the mouth of Sd creek.    we Saw verry large gangs of buffaloe, on N. S.    high rough <name type="place" key="Black Hills">black hills</name> on each Side of the River.    Some Spots of pitch pine on the hills on each Side of the River.    about 1 oC. we halted to dine at timbred bottom on the S. S.    <name type="person" key="Clark, William">Capt. Clark</name> killed a buffaloe    about 2 oC. we proceeded.    (we had passed the mouth of a large creek this fore noon on S. S.    Sergt. <name type="person" key="Gass, Patrick">Gass</name> Saw Some banks of Snow on the N. Side of Some hills.)    about 4 oClock P. M. we passed the mouth of a large creek on S. S. 100 yards wide at high water mark.    we proceeded on    at 5 oC. we Saw a verry large brown bear on the hills on S. S.    Six men went from the cannoes to kill him    they fired at him and only wounded him    he took after them and chased 2 men in to a cannoe.    they Shoved off in 
+the River and fired at him    Some of the men on Shore wounded him worse    he then chased one man down a Steep bank in to the River and was near gitting hold of him, but he kept up Stream So that the bear could not git up to him.    one of the men on Shore Shot the bear in the head, which killed him dead after having nine balls Shot in him.    we got him to Shore and butchered him.    his feet was nine Inches across the ball, and 13 in length, nearly of the Same description of the first we killed only much larger    his nales was Seven Inches long &amp;c.    the two captains ware out on Shore after a verry large gang of buffaloe.    the white perogue of the captains hoisted Sail as the wind blew fair.    a violent Storm of wind arose from a black cloud in the N. W.    the wind shifted in N. W. and took the Sail of a Sudden and had it not been for the eairning [awning] and mast She would have turned up Side down.    She filled ful of water    with much trouble they got her to Shore and unloaded hir.    found that the most of the loading was wet    the Medicine Spoiled or damaged very much    Some of the paper and nearly all the books got wet, but not altogether Spoiled.    we opened all the loading, on the bank and Camped at a bottom covred with timber on the N. S.    our officers gave each man a draghm of ardent Spirits, Came 18½ miles this day.—    (1 man wounded another bear).</p>
+               <p>
+Tuesday May 14th    We had last night hard white frost, so that our Moccasins froze near the fire, the morning was clear and pleasant, We set off at sunrise, and proceeded on our Voyage; and passed a large Creek lying on the North side of the River which our Officers named Whitehouses Creek, opposite to this Creek, we passed a small Island covered with Willows, we saw this day very large gangs of buffalo,—    On the North side of the River, as we 
+passed along; we saw high rough <name type="place" key="Black Hills">black hills</name>, lying on both sides of the river, About one o'Clock we halted to dine in a bottom, lying on the South side of the River, <name type="person" key="Clark, William">Captain Clark</name> went out at this place to hunt, and killed a Buffalo, which was brought to us, about 2 o'Clock P. M. we set out; (We passed this forenoon, the Mouth of a large Creek lying on the South side of the <name type="place" key="Missouri River">Mesouri</name>, 100 Yards wide at high water mark) and <name type="person" key="Gass, Patrick">Serjeant Gass</name> who was out hunting, saw some Banks of snow, on hills, lying on the North side of the River.—    at 
+4 oClock P. M. we passed another large Creek on the South side of the River also about 100 Yards wide, and saw a very large Brown bear on the hills, Six of our Men went from one of the Canoes in order to kill him, They came near and fired at him, and only wounded the Animal.—    The bear on being wounded, took after the party and followed 2 of the Men so close that they 
+took into one of our Canoes, and shoved her off from the Shore.    The Men in the Canoe discharged their Guns, as well as those Men on Shore at this bear, &amp; wounded him again, and he then took after one of those Men who was on the Shore, and chased him down a steep bank, into the River, and was near getting hold of him.    The Man who was chased by the Bear, kept 
+going up the Stream of the River, so that the bear could not overtake him.—    One of the Men on the Shore, shot the bear through the head, which killed him—    We had shot nine balls into this bear, before we killed him, The Men 
+then got him to the Shore where they butcher'd him—    The feet of this bear was Nine Inches across the balls, and thirteen Inches in length,—    differing only from the first large bear that we killed, in having 〈toe〉 larger 
+Nails; these being 7 Inches long.—    Our two Captains had gone ashore, after a very large Gang of buffalo that they had seen; when the Men on board of the Pettyauger that the Captains went in, hoisted Sail, (the Wind being fair) and set off; shortly after a Violent Storm came from a black Cloud, which lay in the Northwest, and the Wind shifting suddenly to that point; took the Pettyauger aback and had it not have been for the Awning &amp; Mast, she must have turned upside down, The Pettyauger filled full of Water, and with much trouble they got her to the shore—and unloaded her, We found that the most part of her loading was wet, the Medicine damaj'd, &amp; part of it Spoiled—</p>
+               <p>
+We also found some of the papers, and books had got wet, but not so much as to be spoiled.—    The Men that was with the Craft were all employed in unloading the Pettyauger, and opening the loading, in Order to dry it.—    We encamped in a bottom of timber lying on the North side of the River.    Our officers came to us, and the Men that were out, One of 
+which had wounded a brown bear, We came 18½ Miles this day.—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n13051401" n="1">On <hi rend="italic">Atlas</hi> maps 38, 50, 58, the three are <name type="place" key="Sutherland (Gibson's) Creek">Gibson's</name>, <name type="place" key="Hell (Stick Lodge) Creek">Stick Lodge</name>, and <name type="place" key="Snow (Brown Bear Defeated) Creek">Brown Bear Defeated</name> creeks. Presently they are <name type="place" key="Sutherland (Gibson's) Creek">Sutherland Creek</name>, in <name type="place" key="Valley County, Mont.">Valley County</name>, <name type="place" key="Montana">Montana</name>, <name type="place" key="Hell (Stick Lodge) Creek">Hell Creek</name>, and <name type="place" key="Snow (Brown Bear Defeated) Creek">Snow Creek</name>, in <name type="place" key="Garfield County, Mont.">Garfield County</name>. MRC map 67 shows a "<name type="place" key="Sutherland (Gibson's) Creek">Gibson Creek</name>" and a "<name type="place" key="Hell (Stick Lodge) Creek">Stick Lodge Creek</name>," but these appear to be upstream from the creeks the captains gave those names. Since <name type="person" key="Clark, William">Clark's</name> route maps were not available until the twentieth century, nineteenth-century mapmakers probably guessed from <name type="person" key="Clark, William">Clark's</name> 1814 map (<hi rend="italic">Atlas</hi> map 126) and <name type="person" key="Biddle, Nicholas">Biddle's</name>
+               <hi rend="italic">History.</hi> Coues (HLC), 1:309; MRC maps 66, 67; USGS map <name type="place" key="Fort Peck Lake East">Fort Peck Lake East</name>; USGS map <name type="place" key="Fort Peck Lake West">Fort Peck Lake West</name>.</note>
+            <note xml:id="n13051402" n="2">"Fleece" can refer to the fat on the sides of a buffalo's hump; here it evidently means a layer of fat under the skin that could be boiled down for oil. Criswell, 39.</note>
+            <note xml:id="n13051403" n="3">Someone has drawn a dark, bold, vertical line through this passage, beginning with, "in this perogue."</note>
+            <note xml:id="n13051404" n="4">Someone has scratched lightly through these words, apparently in red ink, beginning with, "but this had."</note>
+            <note xml:id="n13051405" n="5">Also given on <hi rend="italic">Atlas</hi> map 38, in both captains' hands.</note>
+            <note xml:id="n13051406" n="6">"Lard." in <name type="person" key="Clark, William">Clark's</name> entry and apparently on <hi rend="italic">Atlas</hi> map 38.</note>
+            <note xml:id="n13051407" n="7">At this point in Codex D, p. 129, <name type="person" key="Lewis, Meriwether">Lewis</name> has a pointing hand and has written, "Turn back 15 leaves, read from the 15th to the 19 of May inclusive and return to this place." The entry for May 15 is on p. 99 of Codex D and the entries continue in sequence, as he says, to May 19, on p. 106.</note>
+            <note xml:id="n13051408" n="8">From here to the end of the paragraph the words are in <name type="person" key="Lewis, Meriwether">Lewis's</name> hand.</note>
+            <note xml:id="n13051409" n="9">The campsite, now under <name type="place" key="Fort Peck Reservoir">Fort Peck Reservoir</name>, is in <name type="place" key="Valley County, Mont.">Valley County</name>, a few miles above present <name type="place" key="Snow (Brown Bear Defeated) Creek">Snow Creek</name>, <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark's</name>
+               <name type="place" key="Snow (Brown Bear Defeated) Creek">Brown Bear Defeat Creek</name>. They remained there until May 16. <hi rend="italic">Atlas</hi> maps 38, 50, 58; MRC map 67.</note>
+            <note xml:id="n13051410" n="10">The latter part of this entry and the entries of the next few days are very faint and
+difficult to read.</note>
+            <note xml:id="n13051411" n="11">Probably the party's <name type="place" key="Sutherland (Gibson's) Creek">Gibson's Creek</name> (after expedition member <name type="person" key="Gibson, George">George Gibson</name>), now <name type="place" key="Sutherland (Gibson's) Creek">Sutherland Creek</name>, <name type="place" key="Valley County, Mont.">Valley County</name>, <name type="place" key="Montana">Montana</name>.</note>
+            <note xml:id="n13051412" n="12">Either the party's <name type="place" key="Hell (Stick Lodge) Creek">Stick Lodge Creek</name> or <name type="place" key="Snow (Brown Bear Defeated) Creek">Brown Bear Defeated Creek</name>, now <name type="place" key="Hell (Stick Lodge) Creek">Hell Creek</name> and <name type="place" key="Snow (Brown Bear Defeated) Creek">Snow Creek</name>, <name type="place" key="Garfield County, Mont.">Garfield County</name>.</note>
+            <note xml:id="n13051413" n="13">The lungs.</note>
+            <note xml:id="n13051414" n="14">Probably their <name type="place" key="Hell (Stick Lodge) Creek">Stick Lodge Creek</name>, now <name type="place" key="Hell (Stick Lodge) Creek">Hell Creek</name>, <name type="place" key="Garfield County, Mont.">Garfield County</name>.</note>
+            <note xml:id="n13051415" n="15">The party's <name type="place" key="Snow (Brown Bear Defeated) Creek">Brown Bear Defeated Creek</name>, present <name type="place" key="Snow (Brown Bear Defeated) Creek">Snow Creek</name>, <name type="place" key="Garfield County, Mont.">Garfield County</name>.</note>
+            <note xml:id="n13051416" n="16">Probably the party's <name type="place" key="Sutherland (Gibson's) Creek">Gibson's Creek</name> (after expedition member <name type="person" key="Gibson, George">George Gibson</name>), now <name type="place" key="Sutherland (Gibson's) Creek">Sutherland Creek</name>, <name type="place" key="Valley County, Mont.">Valley County</name>, <name type="place" key="Montana">Montana</name>. Unaccountably, the copyist calls it "<name type="place" key="Sutherland (Gibson's) Creek">Whitehouses Creek</name>."</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-05-13" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-05-15" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

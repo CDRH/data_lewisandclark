@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-07-02">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+July 2, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">340-343</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">19, 384-385</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">18</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">33-34</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-07-02.01">
+            <placeName/>
+            <geo>39.395 -94.895</geo>
+            <note>Near Weston, MO, on north shore of the Missouri</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-01-20</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-07-02">July 2, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-07-02.01" n="lc.geo.1804-07-02.01">
+            <sp who="wc">
+               <speaker>
+                  <name type="person" key="Clark, William">Clark</name>
+                  <ref target="n04070201" n="1"/>
+               </speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+July the 2nd 1804    Set out verry early this morning    passd on the Left of the <name type="place"
+                        key="Leavenworth Island (Field Islands, Green, Isles des Parques)">Isles des parques</name>    High butifull Situation—    on the L S. the land indifferent lands    a Creek coms in on the S. S. Called <hi rend="italic">
+                     <name type="place" key="Bee (Parques) Creek">parques</name>,</hi>
+                  <ref target="n04070202" n="2"/> all at once the river became Crowded with drift that it was dangerous to cross    this I Suppose was from the caveing in of the banks at [t]he head of Some Island above, (3) passed a Creek on the L. S. called <name type="place" key="Corral (Turkey) Creek">
+                     <hi rend="italic">Turquie</hi>
+                  </name> or <name type="place" key="Corral (Turkey) Creek">Turkey Creek</name>
+                  <ref target="n04070203" n="3"/>    passed a verry bad Sand bar on the L. S.    the 20 Oars &amp; Poals could with much dificuelty Stem the Current, passed a large Island on the S. S. Called by the Inds. <name type="place" key="Kickapoo Island">
+                     <hi rend="italic">Wau-car-ba war-con-da</hi> or the <hi rend="italic">Bear Medison</hi> Island</name>,<ref target="n04070204" n="4"/> at 12 oClock came to on the Island and put in a mast, detained four hours, exceedingly hot, wind in forepart of the day from the S. E, <name type="person" key="Drouillard, George">George Drewyer</name> informs that the Lands he pass through yesterday &amp; to day on the S. S. was generally Verry fine    he Saw two Springs of fresh water near the Island, Deer Sign has become So Common it is hardly necessary to mention them, we Camped after dark on the S. S. opposit the 1st old Village of the <name type="native_nation" key="Kansa Indians">Kanzas</name> which was Situated in a Valley between two points of high land,<ref target="n04070205" n="5"/> on the river back of their village commenced an extensive Prarie 〈the French〉 a large Island in front which appears to have made on that Side and thrown the Current of the river against the place the Village formerly Stood, and washes away the bank in that part. The french formerly had a Fort at this place,<ref target="n04070206" n="6"/> to protect the trade of this nation, the Situation appears to be a verry elligable one for a Town, the valley rich &amp; extensive, with a Small Brook Meanding [meandering] through it and one part of the bank affording yet a good Landing for Boats    The High Lands above the <name type="place" key="Fishing (Fire Prairie River) River">Fere [Fire] river</name> on each Side of the <name type="place" key="Missouri River">Missouries</name> appear to approach each other much nearer than below that plaice, being from 3 to 6 miles between them, to the <name type="place" key="Kansas (Decaugh, Kaw) River">Kansas</name>, above that place from 3 to 5 Ms. apart and higher Some places being 160 or 180 feet    the river not So wide    We made a Mast of Cotton wood, 〈yesterday〉 to day in the Course of the evening &amp; night it turned of a butifull red Colour</p>
+               <p>
+                  <table rows="13" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 22° E W</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">ms to a pt on the L S. in a bend (1)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W</cell>
+                        <cell role="data" rows="1" cols="1">  2 ¼</cell>
+                        <cell role="data" rows="1" cols="1">Ms. to a pt. of a little Isd on the S. S.    passed the head<lb/>
+of the Isd.    (2) a Creek L. S</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 34° E</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to a pt on L. S.    psd. passed <name type="place" key="Corral (Turkey) Creek">Turkey Creek</name> L. S. (3)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">me. on the L. S.    high land on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 46 W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">me. on Lbd. S. 〈opsd. Lower pt.〉 of an Isd. (4) on S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 50 W.—<ref target="n04070207" n="7"/>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">  </cell>
+                        <cell role="data" rows="1" cols="1">To the old village of the <name type="native_nation" key="Kansa Indians">Kansas</name> on L. S. pass a Bulge<lb/>
+of Isd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 78 W</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">of a me. to a Pt. on S. S.    psd. 2 runs on S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 81° W</cell>
+                        <cell role="data" rows="1" cols="1">  2 ¼</cell>
+                        <cell role="data" rows="1" cols="1">mes. to a pt. on the S. S.    passed the head of the Island near opsd. pt.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 82° W</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  2</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">mes. to a pt. on the S. S.    passed verry Swift water, &amp; Camped</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">10 ¼</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 53 W<ref target="n04070208" n="8"/>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">me. alg. S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 50 W</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">me. alg. S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 18 E</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">me. to pt. on L. S opsd. an Isd. N. 40° E to Low pt. of<lb/>
+Island 1 ¼ ml.</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-07-02.02" n="lc.geo.1804-07-02.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">July 2nd, 1804</hi>    Set out early and proceed on the left of the Islands, two of which are large    a high bottom Situated on the L. S.    passed the mouth of a Creek on the S. S. Called 〈<name type="place" key="Corral (Turkey) Creek">Turquie</name>〉 [<hi rend="italic">NB: <name type="place" key="Bee (Parques) Creek">Parques</name>
+                  </hi>]<ref target="n04070209" n="9"/> Creike, at this place I observed that the river was Crouded with Drift wood, and dangerous to pass    as this dead timber Continued only about half an our, I concluded that Some Island of Drift had given way    (3) passed a Creek on the L. S. called <name type="place" key="Corral (Turkey) Creek">Turky Creek</name>, a bad Sand bar on the L. S.    we could with dificuelty Stem the Current with our 20 oars &amp; and all the poles we had, passed a large Island on the S. S. Called by the Indians <name type="place" key="Kickapoo Island">
+                     <hi rend="italic">Wau-car-ba war-cand-da</hi> or the <hi rend="italic">Bear Medesin</hi> Island</name>, at 12 oClock landed on the Island &amp; put up a mast which detained us four hours—    a verry hot day    winds from the S. E.—    <name type="person" key="Drouillard, George">George Drewyer</name> inform's that the Lands he passed through yesterday and to day on the S. S. was verry fine, few Springs, we Camped after dark on the S. S. above the Island &amp; opposit the 1st old village of the <name type="native_nation" key="Kansa Indians">Kanzes</name> which was Situated in a valley, between two points of high Land, and imediatly on the river bank, back of the village and on a riseing ground at about one mile    The French had a garrison for Some time and made use of water out of a Spring running into <name type="place" key="Corral (Turkey) Creek">Turkey Creek</name>. an extensive Prarie, as the Current of the river Sets against the banke and washes it away the landing place for Boats is indifferent—    The high lands above the <name type="place" key="Fishing (Fire Prairie River) River">Fire river</name>, approaches nearer each than below, being from 3 to 6 miles distant and above <name type="place" key="Kansas (Decaugh, Kaw) River">Kansas</name> from 3 to 5 miles distant and the Hills at Some places are from 160 to 180 feet above the bottom</p>
+               <p>
+                  <table rows="9" cols="3">
+                     <head>
+                        <hi rend="italic">Course and distance &amp; reffersns.</hi> July 2d</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 22° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. on L. S. in a bend (1)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W</cell>
+                        <cell role="data" rows="1" cols="1">  2 ¼</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. of a Lit: Isd. on S. S.    passd. Isd. (2)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 34° E</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. on L. S.    psd. <name type="place" key="Corral (Turkey) Creek">Turkey Cr</name>: (3)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">on the L. S. High Lds. on S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 46 W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">ms. on S. S. of an Isd. on S. S. (4)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 87 W,</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">Me. on S. S. a point    psd. a run</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 81° W</cell>
+                        <cell role="data" rows="1" cols="1">  2 ¼</cell>
+                        <cell role="data" rows="1" cols="1">mes. on S. S.    psd. head of Island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 82 W</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  2</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">ms. on the L. S.    psd. Swift water</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">11 ½</cell>
+                        <cell role="data" rows="1" cols="1">1st old village <name type="native_nation" key="Kansa Indians">Kansas</name>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-07-02.03" n="lc.geo.1804-07-02.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Monday July 2nd 1804.    we Set out verry early this morning    passed a High beautiful Situation on the South Side of the river, a Creek Comes in on the North Side called parques or fence Creek or River, we passed a Creek on the South Side called <hi rend="italic">
+                     <name type="place" key="Corral (Turkey) Creek">Turquie</name>
+                  </hi> or <name type="place" key="Corral (Turkey) Creek">Turkey Creek</name>, we Delayed at 12 o.C. for to put up a Temperary mast as the wind was fair, we passed a prarie on the South Side of the River called the old Village of the <name type="native_nation" key="Kansa Indians">Kansars</name> &amp;C.<ref target="n04070210" n="10"/>    we passed Several Islands. Several Deer killed this day, we camped<ref target="n04070211" n="11"/> on the North Side of the River    Our flanking party did not Join us at night
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-07-02.04" n="lc.geo.1804-07-02.01">
+            <sp who="cf">
+               <speaker>Floyd</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+
+Monday July 2d    Set out verry early this morning    passed on the Left of the <name type="place" key="Bee (Parques) Creek">Isd. parque &amp;c</name>    High butifule Situation on the South Side the Land    indifferent Lands    a Creek Comes in on the 〈So〉 N Side called <name type="place" key="Bee (Parques) Creek">parkques Creek</name>    passed a creek on the N—Side called <name type="place" key="Corral (Turkey) Creek">Turkey Creek</name>    High Landes    came 10 miles    campt on the N Side, 〈on the South Side was a old French fort in former times the old <name type="native_nation" key="Kansa Indians">Kansas</name> village on the Back of this village in High Hills of Prarae Land T〉 on the South Side was a old French fort who had Setled hear to protect the Trade of this nation in the valley    the <name type="native_nation" key="Kansa Indians">Kansas</name> Had a village between tow pints of High 〈Lands〉 Praria Land    a Handsom Situation for a town
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-07-02.05" n="lc.geo.1804-07-02.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 2nd.</hi>    At sunrise we continued our voyage, and met a quantity of drift wood which was carried down the stream; this morning we passed a creek on the south side and encamped on the north opposite an old French village and fort, but all vacant.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-07-02.06" n="lc.geo.1804-07-02.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Monday 2nd    Got on Our way at <name type="place"
+                        key="Leavenworth Island (Field Islands, Green, Isles des Parques)">Green Island</name> at 4 Oclock P. M., the water was Strong    passd a prarie on the west S. at Sd place Crossing the [river] at Sd. place the Boat Swong the [<hi rend="italic">page torn</hi>]    Exerted them selves mighty well [<hi rend="italic">page torn</hi>]    off halted and got a mast [<hi rend="italic">page torn</hi>]    the Barge    Roed. 10½ Miles [<hi rend="italic">page torn</hi>]    the head of <name type="place" key="Kickapoo Island">Ordaways</name>
+                  <ref target="n04070212" n="12"/> [<hi rend="italic">page torn</hi>]</p>
+               <p>
+Monday July 2nd    This morning we left <name type="place"
+                        key="Leavenworth Island (Field Islands, Green, Isles des Parques)">Green Island</name>, at 4 oClock A. M.<ref target="n04070213" n="13"/>    Found the water to run very strong against us    we passed a Priari lying on the So West side of the River, we crossed the River at this Priari, and in so doing the boat swung and got aground, but by the exertion of the Men she got off.    we halted and got a Mast for our boat &amp; We encamped in the Evening at the head of <name type="place" key="Kickapoo Island">Ordaways Island</name>, having rowed this day 10½ Miles.
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n04070201" n="1">
+               <name type="person" key="Biddle, Nicholas">Biddle's</name> notation at the top of this sheet of the Field Notes (document 26) reads "July 2 to 5."</note>
+            <note xml:id="n04070202" n="2">Probably <name type="place" key="Bee (Parques) Creek">Bee Creek</name>, in <name type="place" key="Platte County, Mo.">Platte County</name>, <name type="place" key="Missouri">Missouri</name>, whose mouth has perhaps shifted upstream over the years. Nicollet labels it both "<name type="place" key="Bee (Parques) Creek">Bee Creek</name>" and "<name type="place" key="Bee (Parques) Creek">Parc Creek</name>? (L. &amp; C.)"; he was probably using <name type="person" key="Biddle, Nicholas">Biddle's</name> text as a reference. Nicollet (MMR), 371; MRC map 15.</note>
+            <note xml:id="n04070203" n="3">Perhaps <name type="place" key="Corral (Turkey) Creek">Corral Creek</name>, in <name type="place" key="Leavenworth County, Kans.">Leavenworth County</name>, <name type="place" key="Kansas">Kansas</name>. MRC map 15.</note>
+            <note xml:id="n04070204" n="4">Nicollet gives it as "<name type="place" key="Kickapoo Island">Wasabe Wakandege Island</name>," evidently later <name type="place" key="Kickapoo Island">Kickapoo Island</name>, north of <name type="place" key="Fort Leavenworth (Kans.)">Fort Leavenworth</name>, <name type="place" key="Leavenworth County, Kans.">Leavenworth County</name>. Robert L. Rankin gives the <name type="native_nation" key="Omaha Indians">Omaha</name> name as <hi rend="italic">wasábe wakká <seg n="u261">ą</seg>́daki,</hi> "the spirit black bear." Nicollet (MMR), 372; MRC map 15.</note>
+            <note xml:id="n04070205" n="5">The "Village" in Nicollet is in the right location, in extreme northeast <name type="place" key="Leavenworth County, Kans.">Leavenworth County</name>, to be the old <name type="native_nation" key="Kansa Indians">Kansa</name> village. It is apparently where the <name type="native_nation" key="Kansa Indians">Kansa</name> Indians were living in the <name type="place" key="Salt Creek">Salt Creek</name> locale in the 1740s and 1750s. From here they moved west into the lower reaches of the <name type="place" key="Kansas (Decaugh, Kaw) River">Kansas River</name>. Nicollet (MMR), 372; Wedel (KA), 51. The camp was near present <name type="place" key="Weston, Mo.">Weston</name>, <name type="place" key="Platte County, Mo.">Platte County</name>, <name type="place" key="Missouri">Missouri</name>. MRC map 16.</note>
+            <note xml:id="n04070206" n="6">
+               <name type="place" key="Fort de Cavagnial (Kans.)">Fort de Cavagnial</name>, or <name type="place" key="Fort de Cavagnial (Kans.)">Cavagnolle</name>, named after the French governor of <name type="place" key="Louisiana">Louisiana</name>, was founded in 1744 and abandoned in 1764, when <name type="place" key="Louisiana">Louisiana</name> was transferred from <name type="place" key="France">France</name> to <name type="place" key="Spain">Spain</name>. It is the "fort &amp; trading establishment" mentioned by <name type="person" key="Clark, William">Clark</name> in his notebook journal on <ref n="1804-07-01" type="related">July 1</ref>. It was in <name type="place" key="Leavenworth County, Kans.">Leavenworth County</name>, perhaps three miles north of present <name type="place" key="Fort Leavenworth (Kans.)">Fort Leavenworth</name>, and was built to control the trade with the <name type="native_nation" key="Kansa Indians">Kansa</name> and <name type="native_nation" key="Osage Indians">Osage Indians</name> and perhaps to promote trade with the Spanish in <name type="place" key="New Mexico">New Mexico</name>. Hoffhaus; Barry, 22–23; Mathews, 218–19.</note>
+            <note xml:id="n04070207" n="7">This course does not appear in Codex A, and there are other discrepancies, including the final mileage total for the day.</note>
+            <note xml:id="n04070208" n="8">These three courses and distances, immediately under those for July 2, were evidently the first ones for <ref n="1804-07-03" type="related">July 3</ref>. <name type="person" key="Clark, William">Clark</name> repeats them in full in the appropriate place under that date, but there are discrepancies.</note>
+            <note xml:id="n04070209" n="9">
+               <name type="person" key="Clark, William">Clark</name> made a mistake here and <name type="person" key="Biddle, Nicholas">Biddle</name> later interlined the correction. <name type="place" key="Bee (Parques) Creek">"Parques" Creek</name> came first, then <name type="place" key="Corral (Turkey) Creek">Turkey Creek</name>. See nn. 2 and 3, above.</note>
+            <note xml:id="n04070210" n="10">The <name type="native_nation" key="Kansa Indians">Kansa</name>, or <name type="native_nation" key="Kansa Indians">Kaw</name>, Indians lived in this locale in the 1740s and 1750s.</note>
+            <note xml:id="n04070211" n="11">Near <name type="place" key="Weston, Mo.">Weston</name>, <name type="place" key="Platte County, Mo.">Platte County</name>,.</note>
+            <note xml:id="n04070212" n="12">
+               <name type="place" key="Kickapoo Island">Ordway's Island</name>, as the fair copy makes clear, but no one else, including <name type="person" key="Ordway, John">Ordway</name>, uses the name. Evidently this is <name type="person" key="Clark, William">Clark's</name> "<name type="place" key="Kickapoo Island">Wau-car-ba</name> war-con-da" Island, probably later <name type="place" key="Kickapoo Island">Kickapoo Island</name>, north of <name type="place" key="Fort Leavenworth (Kans.)">Fort Leavenworth</name>, <name type="place" key="Leavenworth County, Kans.">Leavenworth County</name>, <name type="place" key="Kansas">Kansas</name>. The camp was near <name type="place" key="Weston, Mo.">Weston</name>, <name type="place" key="Platte County, Mo.">Platte County</name>, <name type="place" key="Missouri">Missouri</name>.</note>
+            <note xml:id="n04070213" n="13">There is an erasure on the "A," but it is clearly that letter.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-07-01" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-07-03" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

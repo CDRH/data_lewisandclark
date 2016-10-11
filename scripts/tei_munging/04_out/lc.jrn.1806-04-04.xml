@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-04-04">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+April 4, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 7</title>
+               <title level="m" type="sub">March 23–June 9, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1991</date>
+               <biblScope type="pages">71-74</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">286</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">205-206</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-04-04.01">
+            <placeName/>
+            <geo>45.4952 -122.3351</geo>
+            <note>Camped in Multnomah County, below Sandy River, OR. Remained at this camp until 04-06.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-09-30</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-04-04">April 4, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-04-04.01" n="lc.geo.1806-04-04.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Friday April 4th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+This morning early we sent <name type="person" key="Ordway, John">Sergt. Ordway</name> in Surch of Sergt. <name type="person" key="Gass, Patrick">Gass</name> and party below the entrance of the <name type="place" key="Sandy (Quicksand) River">Quicksand river</name> from whom we have yet had no report.    in the course of a few hours both parties returned. Sergt. <name type="person" key="Gass, Patrick">Gass</name> and party brought the flesh of a bear and some venison.    they informed us that they had killed an Elk and six deer tho' the flesh of the greater part of those animals was so meagre that it was unfit for uce and they had therefore left in the woods. <name type="person" key="Collins, John">Collins</name> who had killed the bear, found the bed of another in which there were three young ones; and requested to be permitted to return in order to waylay the bed and kill the female bear; we permitted him to do so; Sergt. <name type="person" key="Gass, Patrick">Gass</name> and <name type="person" key="Windsor, Richard">Windsor</name> returned with him. Several parties of the natives visit us today as usual both from above and below; those who came from above were moving with their families, and those from below appeared to be empeled mearly by curiossity to see us. About noon we dispatched <name type="person" key="Gibson, George">Gibson</name>
+                  <name type="person" key="Shannon, George">Shannon</name>
+                  <name type="person" key="Howard, Thomas P.">Howard</name> and <name type="person" key="Weiser, Peter">Wiser</name> in one of the light canoes, with orders to proceed up the <name type="place" key="Columbia River">Columbia</name> to a large bottom on the South side about six miles above us<ref target="n31040401" n="1"/> and to hunt untill our arrival.    late in the evening <name type="person" key="Field, Joseph">Joseph Fields</name> and <name type="person" key="Drouillard, George">Drewyer</name> returned.    they had killed two deer yesterday, and informed us that the meat would be dryed by midday tomorrow.    we directed <name type="person" key="Drouillard, George">Drewyer</name> and the <name type="person" key="Field, Joseph and Reubin">two Feildses</name> to ascend the river tomorrow to join <name type="person" key="Gibson, George">Gibson</name> and party, and hunt untill our arrival.    this evening being fair I observed time and distance of <seg n="u9789">☽</seg>'s Eastern Limb from regulus with Sextant. <seg n="u9733">★</seg> West.</p>
+               <p>
+                  <table rows="7" cols="6">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">Time</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">Distance</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">Time</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">Distance</hi>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">h    m      s</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">h    m      s</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">P.M.</cell>
+                        <cell role="data" rows="1" cols="1">8    50    41</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">73°   15'    0"</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">P.M.</cell>
+                        <cell role="data" rows="1" cols="1">9    10      9</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">73°   27'   —"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"     53    44</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">  "     16    45</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"     15    57</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">  "     30    —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"     57    58</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">  "     19    15</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"     18    25</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">  "     32    15</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">9      3    20</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">  "     23    15</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"     20    12</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">  "     32    45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"       6    49</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">  "     26    45</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"     22    —</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">  "     33    15</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <figure rend="mhs">
+                     <p>
+                        <name type="place" key="Columbia River">Columbia</name>, <name type="place" key="Missouri River">Missouri</name>, and <name type="place" key="Yellowstone River">Yellowstone River</name>s and their Connections, ca. April 4, 1806,<lb/>
+Voorhis No. 3
+<bibl>
+                           <orgName>Missouri Historical Society</orgName>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+               <p>
+                  <figure rend="mhs">
+                     <p>[No caption]
+<bibl>
+                           <orgName>Missouri Historical Society</orgName>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-04.02" n="lc.geo.1806-04-04.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="right">
+                        <hi rend="italic">Friday April 4th 1806.</hi>
+                        <lb/>
+Mouth of <name type="place" key="Sandy (Quicksand) River">
+                           <hi rend="italic">quick Sand</hi> River</name>
+                        <ref target="n31040402" n="2"/>
+                     </hi>
+                  </date>
+               </ab>
+               <p>
+This morning early we Sent <name type="person" key="Ordway, John">Sergt. Ordway</name> in Serch of Sergt. <name type="person" key="Gass, Patrick">Gass</name> and party below the enterance of <name type="place" key="Sandy (Quicksand) River">quick Sand river</name> from whome we have yet had no report.    in the Course of a fiew hours both parties returned. Sergt. <name type="person" key="Gass, Patrick">Gass</name> and party brought the Flesh of a Bear, and Some venison.    they informed us they had killed an Elk and Six Deer tho' the flesh of the greater part of those Animals were So Meagre that it was unfit for uce, and they had therefore left it in the woods. <name type="person" key="Collins, John">Collins</name> who had killed the bear, found the bead of another in which there was three young ones; and requested to be permited to return in order to waylay the bed and kill the female bear; we permited him to do So; Sergt. <name type="person" key="Gass, Patrick">Gass</name> and <name type="person" key="Windsor, Richard">Windser</name> returned with him. Several parties of the nativs visit us to day as usial both from above and below; those who came from above were moveing with their families, and those from below appeared to be impeled mearly by curiosity to See us. About noon we dispatched <name type="person" key="Gibson, George">Gibson</name>, <name type="person" key="Shannon, George">Shannon</name>, <name type="person" key="Howard, Thomas P.">Howard</name> &amp; <name type="person" key="Weiser, Peter">Wiser</name> in one of the light Canoes, with orders to proceed up the <name type="place" key="Columbia River">Columbia</name> to a large bottom on the South Side about Six Miles above us and there to hunt untill our arrival.    late in the evening <name type="person" key="Field, Joseph">Jos Fields</name> and <name type="person" key="Drouillard, George">Drewyer</name> returned with a load of dried meat.    they had killed two deer yesterday and informed us that the meat would be dryed by Mid-day tomorrow. We directed <name type="person" key="Drouillard, George">Drewyer</name> and <name type="person" key="Field, Joseph">Field's</name> to assend the river tomorrow and join <name type="person" key="Gibson, George">Gibson</name> &amp; party, and hunt untill our arrival.    this evening being fair observed time and distance of <seg n="u9789">☽</seg>'s Eastern Limb from regulus with Sextant <seg n="u9733">★</seg> West<ref target="n31040403" n="3"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-04.03" n="lc.geo.1806-04-04.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Friday 4th of April 1806. I and 2 men went over the River to see what success the hunters had    met the hunters &amp; returned with 5 of them    they had killd. one Elk Six Deer and a handsome black bear &amp; 2 Geese    the hunters Soon went out again    4<ref target="n31040404" n="4"/> was Sent on with a Small Canoe a head 5 or 6 miles to a bottom on S. Side to hunt untill we come up.    the after part
+of the day pleasant.    one of the men killd. 2 deer.    in the evening 2 of our hunters<ref target="n31040405" n="5"/> came in had killd. 2 deer and caught a beaver
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-04.04" n="lc.geo.1806-04-04.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 4th.</hi>    After a cloudy morning, we turned out and killed a deer and some geese, and then went to the camp.<ref target="n31040406" n="6"/> A party that went out on the upper side of <name type="place" key="Sandy (Quicksand) River">Sandy river</name>, killed 4 elk, and some of the men were out drying the meat.</p>
+               <p>
+While I was out hunting, Captain <name type="person" key="Clark, William">Clarke</name> got information that a large river<ref target="n31040407" n="7"/> came in on the south side of the <name type="place" key="Columbia River">Columbia</name>, about 40 miles below this place, opposite a large island,<ref target="n31040408" n="8"/> which had concealed it from our view; and went down with six men<ref target="n31040409" n="9"/> to view it. He found it to be a very large river, 500 yards wide, with several nations of Indians<ref target="n31040410" n="10"/> living on it; and its source supposed to be near the head waters of some of the rivers, which fall into the <name type="place" key="Gulf of California">gulph of California</name>.<ref target="n31040411" n="11"/> On their return, they bought some dogs at an Indian village; and last night arrived at camp. Four men were sent on ahead this forenoon in a canoe to hunt; and I went out with two more<ref target="n31040412" n="12"/> to the den where we saw the cubs, to watch for the old bear; we stayed there until dark and then encamped about a quarter of a mile off,<ref target="n31040413" n="13"/> and went back early in the morning; but the old one was not returned: so we took the cubs and returned to camp.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n31040401" n="1">In <name type="place" key="Multnomah County, Oreg.">Multnomah County</name>, <name type="place" key="Oregon">Oregon</name>; see <ref n="1806-04-06" type="related">April 6, 1806</ref>. <hi rend="italic">Atlas</hi> map 79.</note>
+            <note xml:id="n31040402" n="2">Here begins <name type="person" key="Clark, William">Clark's</name> Voorhis No. 3 journal, running to June 6, 1806. See <ref n="v02.appendix.c" type="related">Appendix C</ref>. On the front flyleaf and first page appears a map of the connections of the <name type="place" key="Columbia River">Columbia</name>, <name type="place" key="Missouri River">Missouri</name>, and <name type="place" key="Yellowstone River">Yellowstone</name> rivers (fig. 7). It appears that <name type="person" key="Clark, William">Clark</name> has placed small symbols on the map to represent his and <name type="person" key="Lewis, Meriwether">Lewis's</name> camps on their separate trips from <name type="place" key="Lolo (Travelers' Rest) Creek (Mont.)">Traveler's Rest</name>. <name type="person" key="Clark, William">Clark</name> probably got this information from <name type="person" key="Lewis, Meriwether">Lewis</name> after their reuniting in August 1806. The actual date of the map's execution is unknown.</note>
+            <note xml:id="n31040403" n="3">Here follows <name type="person" key="Clark, William">Clark's</name> copy of <name type="person" key="Lewis, Meriwether">Lewis's</name> astronomical observation for this day.</note>
+            <note xml:id="n31040404" n="4">
+               <name type="person" key="Gibson, George">Gibson</name>, <name type="person" key="Shannon, George">Shannon</name>, <name type="person" key="Howard, Thomas P.">Howard</name>, and <name type="person" key="Weiser, Peter">Weiser</name>, according to <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>.</note>
+            <note xml:id="n31040405" n="5">
+               <name type="person" key="Field, Joseph">Joseph Field</name> and <name type="person" key="Drouillard, George">Drouillard</name>, say the captains.</note>
+            <note xml:id="n31040406" n="6">They returned to the main party's camp in <name type="place" key="Clark County, Wash.">Clark County</name>, <name type="place" key="Washington">Washington</name>, above the <name type="place" key="Washougal (Seal) River">Washougal River</name>.</note>
+            <note xml:id="n31040407" n="7">The <name type="place" key="Willamette (Multnomah) River">Willamette River</name>, which enters the <name type="place" key="Columbia River">Columbia</name> at <name type="place" key="Portland, Oreg.">Portland</name>, <name type="place" key="Multnomah County, Oreg.">Multnomah County</name>, <name type="place" key="Oregon">Oregon</name>. The captains called it the <name type="place" key="Multnomah, Oreg.">Multnomah</name>, and assumed that it drained a large area in the interior of the continent.</note>
+            <note xml:id="n31040408" n="8">Their <name type="place" key="Government (Diamond, White Goose, Swan) Island">Diamond Island</name>, now divided into <name type="place" key="Government (Diamond, White Goose, Swan) Island">Government</name> and <name type="place" key="McGuire (Diamond, Swan, White Goose) Island">McGuire</name> islands.</note>
+            <note xml:id="n31040409" n="9">
+               <name type="person" key="Clark, William">Clark</name> set out on April 2 with a party including <name type="person" key="Thompson, John B.">Thompson</name>, <name type="person" key="Potts, John">Potts</name>, <name type="person" key="Cruzatte, Pierre">Cruzatte</name>, <name type="person" key="Weiser, Peter">Weiser</name>, <name type="person" key="Howard, Thomas P.">Howard</name>, <name type="person" key="Whitehouse, Joseph">Whitehouse</name>, and <name type="person" key="York">York</name>.</note>
+            <note xml:id="n31040410" n="10">Those <name type="person" key="Clark, William">Clark</name> actually met were apparently <name type="native_nation" key="Watlala Indians">Watlalas</name>. See his entry for <ref n="1806-04-03" type="related">April 3</ref> for information on other tribes.</note>
+            <note xml:id="n31040411" n="11">The captains, like other geographers of the time, assumed that all of the region west of 
+the <name type="place" key="Continental Divide">Continental Divide</name> drained into <name type="place" key="Pacific Ocean">the Pacific</name> through some stream, and that the major western rivers had their sources in the same general area. Therefore they assumed that the <name type="place" key="Willamette (Multnomah) River">Willamette</name> originated somewhere near the sources of the <name type="place" key="Colorado River">Colorado River</name>. They had no way of knowing of the existence of the <name type="place" key="Great Basin">Great Basin</name>, which has no exterior drainage, and which lies between the <name type="place" key="Colorado River">Colorado</name> and the rivers of the Northwest.</note>
+            <note xml:id="n31040412" n="12">
+               <name type="person" key="Collins, John">Collins</name> and <name type="person" key="Windsor, Richard">Windsor</name>.</note>
+            <note xml:id="n31040413" n="13">In <name type="place" key="Multnomah County, Oreg.">Multnomah County</name>, below <name type="place" key="Sandy (Quicksand) River">Sandy River</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-04-03" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-04-05" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

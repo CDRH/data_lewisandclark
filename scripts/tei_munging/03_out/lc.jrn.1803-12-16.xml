@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1803-12-16">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">December 16, 1803</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">134</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh" n="category">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2003-12-18</date>
+            <date/>
+            <name>Laura Weakly</name>
+            <name/>Initial creation Transcribed</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1803-12-16">December 16, 1803</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1803-12-16.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Friday—16th    Continu to raise Cabins, Sent off <name type="person" key="Floyd, Charles">C Floyd</name> to Koho [<name type="place" key="Cahokia, Ill.">Cahokia</name>] with Letters for <name type="person" key="Lewis, Meriwether">Capt Lewis</name> to put in the post office &amp;.    Several boats pass down to day    a Pierogue Came to, a <name type="person" key="Griffith, Samuel">Mr Saml Griffeth</name>
+                  <ref target="n03121601" n="1"/> good farmer who Lives 9 miles up the <name type="place" key="Missouri River">Misouris</name> &amp; a <name type="person" key="Gilbert">Mr. [Martin? Charles?] Gilbert</name>
+                  <ref target="n03121602" n="2"/> a Trader in Salt    the winds high to day—    Cloudy—    rais one Cabin at night    I write a Speech &amp;c &amp;c.
+
+	
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n03121601" n="1">
+               <name type="person" key="Griffith, Samuel">Samuel Griffith</name> came from <name type="place" key="New York">New York</name> and settled in <name type="place" key="Missouri">Missouri</name> by 1795. His farm, situated in the neck of land separating the <name type="place" key="Mississippi River">Mississippi</name> and the <name type="place" key="Missouri River">Missouri</name> rivers, is shown on a map by <name type="person" key="Clark, William">Clark</name> in the Field Notes (see fig. 6). Osgood (FN), 4 n. 3.</note>
+            <note xml:id="n03121602" n="2">This man's given name is difficult to read both here and at another place on this sheet, where it could be "Warle" or "Warler."</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1803-12-15" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-12-17" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-01-06">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+January 6, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 6</title>
+               <title level="m" type="sub">November 2, 1805–March 22, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1990</date>
+               <biblScope type="pages">168-173</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">265</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">187</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">410-411</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-01-06.01">
+            <placeName/>
+            <geo>46.0667 -123.9167</geo>
+            <note>Clark camped at the forks of the Neacoxie Creek, Clatsop County, OR. The rest of the group remained at the Fort Clatsop camp. There is a typo in the footnotes on the website: note 6 spells it as "Neacoxic Creek" where it should really be "Neacoxie Creek."</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-08-06</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-01-06">January 6, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-01-06.01" n="lc.geo.1806-01-06.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Monday January 6th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+                  <name type="person" key="Clark, William">Capt Clark</name> set out after an early breakfast with the party in two canoes as had been concerted the last evening; <name type="person" key="Charbonneau, Toussaint">Charbono</name> and <name type="person" key="Sacagawea">his Indian woman</name> were also of the party; <name type="person" key="Sacagawea">the Indian woman</name> was very impotunate to be permited to go, and was therefore indulged; she observed that she had traveled a long way with us to see the great waters, and that now that monstrous fish was also to be seen, she thought it very hard she could not be permitted to see either (she had never yet been to the <name type="place" key="Pacific Ocean">Ocean</name>).</p>
+               <p>
+The <name type="native_nation" key="Clatsop Indians">Clatsops</name>, <name type="native_nation" key="Chinook Indians">Chinnooks</name>, <name type="native_nation" key="Tillamook Indians">Killamucks</name> &amp;c. are very loquacious and inquisitive; they possess good memories and have repeated to us the names capasities of the vessels &amp;c of many traders and others who have visited the mouth of this river; they are generally low in stature, proportionably small, reather lighter complected and much more illy formed than the Indians of the <name type="place" key="Missouri River">Missouri</name> and those of our frontier; they are generally cheerfull but never gay.    with us their conversation generally turns upon the subjects of trade, smoking, eating or their women; about the latter they speak without reserve in their presents, of their every part, and of the most formiliar connection.    they do not hold the virtue of their women in high estimation, and will even prostitute their wives and daughters for a fishinghook or a stran of beads.    in common with other savage nations they make their women perform every species of domestic drudgery.    but in almost every species of this drudgery the men also participate.    their women are also compelled to geather roots, and assist them in taking fish, which articles form much the greatest part of their subsistance; notwithstanding the survile manner in which they treat their women they pay much more rispect to their judgment and oppinions in many rispects than most indian nations; their women are permitted to speak freely before them, and sometimes appear to command with a tone of authority; they generally consult them in their traffic and act in conformity to their opinions. I think it may be established as a general maxim that those nations treat their old people and women with most diference [deference] and rispect where they subsist principally on such articles that these can participate with the men in obtaining them; and that, that part of the community are treated with least attention, when the act of procuring subsistence devolves intirely on the men in the vigor of life. It appears to me that nature has been much more deficient in her filial tie than in any other of the strong affections of the human heart, and therefore think, our old men equally with our women indebted to civilization for their ease and comfort. Among the <name type="native_nation" key="Sioux Indians">Siouxs</name>, <name type="place" key="Assiniboine Indians">Assinniboins</name> and others on the <name type="place" key="Missouri River">Missouri</name> who subsist by hunting it is a custom when a person of either sex becomes so old and infurm that they are unable to travel on foot from camp to camp as they rome in surch of subsistance, for the children or near relations of such person to leave them without compunction or remose; on those occasions they usually place within their reach a small peace of meat and a platter of water, telling the poor old superannuated wretch for his consolation, that he or she had lived long enough, that it was time they should dye and go to their relations who can afford to take care of them much better than they could. I am informed that this custom prevails even among the <name type="native_nation" key="Hidatsa Indians">Minetares</name>
+                  <name type="native_nation" key="Hidatsa Indians, Awaxawi">Arwerharmays</name> and <name type="native_nation" key="Arikara Indians">Recares</name>
+                  <ref target="n26010601" n="1"/> when attended by their old people on their hunting excurtions; but in justice to these people I must observe that it appeared to me at their villages, that they provided tolerably well for their ages persons, and several of their feasts appear to have principally for their object a contribution for their aged and infirm persons.<ref target="n26010602" n="2"/>
+               </p>
+               <p>
+This day I overhalled our merchandize and dryed it by the fire, found it all damp; we have not been able to keep anything dry for many days together since we arrived in this neighbourhood, the humidity of the air has been so excessively great.    our merchandize is reduced to a mear handfull, and our comfort during our return the next year much depends on it, it is therefore almost unnecessary to add that we much regret the reduced state of this fund.—<ref target="n26010603" n="3"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-06.02" n="lc.geo.1806-01-06.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>2 3 4 5 &amp; all Day<ref target="n26010604" n="4"/>
+                  </date>
+               </ab>
+               <p>
+6t of January 1805    all last night rained without intermition, &amp; the morning.    I sat out with 12 men<ref target="n26010605" n="5"/> in 2 Canoes to around thro: the bay and up a Creek to an old landing at which place the Indians have a roade aross thro Shashes West    I landed made the Canoes fast and Set put up the Cree on a road    passed thro 3 Stashes to a pond, then up &amp; around th bend along a bad thick way, took an Indian path which took us to a Creek which runs into the Sand bay at which place we found a Canoe which took over 3 men at a time    crossed and on the top of a rise Saw Elk    prosued &amp; Killed one and encamped at the forks of a Creek<ref target="n26010606" n="6"/>    the <hi rend="italic">West</hi>    Eate th Elk all up.    a fine Butifull moon Shining night unto [<hi rend="italic">one word illegible</hi>], Swan Geese, Brand [Duck?] &amp;c.</p>
+               <p>
+                  <figure rend="aps">
+                     <p>Route to the Whale Site,<lb/>
+ca. January 6–10, 1806, <name type="person" key="Clark, William">Clark's</name> First Draft
+<bibl>
+                           <orgName>(American Philosophical Society library, </orgName>
+                           <note place="inline"> used with permission.)</note>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-06.03" n="lc.geo.1806-01-06.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Monday 6th of January 1806</hi>
+                  </date>
+               </ab>
+               <p>
+The last evening <name type="person" key="Charbonneau, Toussaint">Shabono</name> and <name type="person" key="Sacagawea">his Indian woman</name> was very impatient to be permitted to go with me, and was therefore indulged; She observed that She had traveled a long way with us to See the great waters, and that now that monstrous fish was also to be Seen, She thought it verry hard that She Could not be permitted to See either (She had never yet been to the Ocian).    after an early brackfast I Set out with two Canoes down the <name type="place" key="Lewis and Clark (Fort, Netul) River">
+                     <hi rend="italic">Ne tel</hi> R</name> into <name type="place" key="Youngs (Meriwether's) Bay">Meriwether Bay</name> with a view to proced on to the <name type="native_nation" key="Clatsop Indians">Clatsop</name> town, and hire a guide to conduct me through the Creeks which I had every reason to beleeve Comunicated both with the Bay and a Small river near to which our men were making Salt.    Soon after I arrived in the Bay the wind Sprung up from the N. W and blew So hard and raised the waves so high that we were obliged to put into a Small Creek Short of the Village.    finding I could not proceed on to the Village in Safty, I determined to assend this Creek as high as the Canoes would go; which from its directions must be near the open lands in which I had been on the 10th ulto., and leave the canoes and proceed on by land.    at the distance of about 3 miles up this Creek I observed Some high open land, at which place a road Set out and had every appearance of a portage, here I landed drew up the Canoes and Set out by land, proceeded on through 3 deep Slashes to a pond about a mile in length and 200 yards wide, kept up this pond leaving it to the right, and passing the head to a Creek which we Could not Cross, this Creek is the one which I rafted on the 8th &amp; 9 ultimo: and at no great distance from where I crossed in <hi rend="italic">
+                     <name type="person" key="Cus-ka-lah">Cus ca lars</name>
+                  </hi> Canoe on the 10th ulto. to which place I expected a find a canoe, we proceeded on and found a Small canoe at the place I expected, calculated to Carry 3 men, we crossed and from the top of a ridge in the Prarie we Saw a large gange of Elk feeding about 2 miles below on our direction. I divided the party So as to be Certain of an elk, Several Shot were fired only one Elk fell, I had this Elk butchered and carried to a Creak in advance at which place I intended to encamp, two other Elk were badly Shot, but as it was nearly dark we Could not pursue them, we proceeded on to the forks of the Creek which we had just Crossed turning around to the S W. and meeting one of equal Size from the South, the two makeing a little river 70 yards wide which falls into the Ocian near the 3 <name type="native_nation" key="Clatsop Indians">Clat Sop</name> houses whcih I visited on the 9th ulto.    in the forks of this Creek we found Some drift pine which had been left on the Shore by the tide of which we made fires.    the evening a butifull Clear moon Shiney night, and he 1st fair night which we have had for 2 months
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-06.04" n="lc.geo.1806-01-06.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Monday 6th Jany. 1806. <name type="person" key="Clark, William">Capt. Clark</name> and 12 men<ref target="n26010607" n="7"/> Set out with one large canoe and the Small one in order to go after Some of the whail on the coast.    about 9 oClock A M. cleared off pleasant and warm.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-06.05" n="lc.geo.1806-01-06.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 6th.</hi>    We had a fair morning and the weather cleared up, after two months of rain, except 4 days. We therefore set out from these lodges; passed the mouth of a considerable river;<ref target="n26010608" n="8"/> went about two miles up the shore, and found our salt makers at work.<ref target="n26010609" n="9"/> Two of their detachment had set out for the fort on the 4th and the man that had come with me and two more went to hunt.<ref target="n26010610" n="10"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-06.06" n="lc.geo.1806-01-06.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Monday Janry 6th    <name type="person" key="Clark, William">Captain Clark</name> &amp; 12 of our Men<ref target="n26010611" n="11"/> set out this morning with 2 Canoes in order to go &amp; get some of the whale, which lay on the Sea Coast.—    About 7 o'Clock the Weather cleared off, &amp; became warm &amp; pleasant which continued during the whole of this day.—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n26010601" n="1">The <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>, <name type="native_nation" key="Hidatsa Indians, Awaxawi">Awaxawi Hidatsas</name>, and the <name type="native_nation" key="Arikara Indians">Arikaras</name>.</note>
+            <note xml:id="n26010602" n="2">
+               <name type="person" key="Biddle, Nicholas">Biddle</name> elaborates some on the Indians' treatment of women and the elderly, perhaps from conversations with <name type="person" key="Clark, William">Clark</name> in 1810. <name type="person" key="Biddle, Nicholas">Biddle</name> Notes [ca. April 1810], Jackson (LLC), 2:504–6.</note>
+            <note xml:id="n26010603" n="3">The middle portion of this paragraph has a vertical line through it, drawn in dark ink.</note>
+            <note xml:id="n26010604" n="4">Here begins a journal fragment (First Draft) found in the American Philosophical Society, containing <name type="person" key="Clark, William">Clark's</name> entries for January 6–10, 1806 (misdated 1805), covering his trip to see the whale. Each page of daily entry material has a large "x" across it. <name type="person" key="Clark, William">Clark's</name> entries for those days in Codex I were presumably composed later, perhaps from these notes. Additional material from this journal is found elsewhere in the edition. See <ref n="introduction.general" type="related">Introduction</ref> and <ref n="v02.appendix.c" type="related">Appendix C</ref>; Moulton (SJ), 198–99. Opposite and partially under this entry is a sketch map showing <name type="person" key="Clark, William">Clark's</name> route to the site and the location of <name type="place" key="Fort Clatsop (Oreg.)">Fort Clatsop</name>. The relative positions of the two are somewhat distorted.</note>
+            <note xml:id="n26010605" n="5">From references in <name type="person" key="Clark, William">Clark's</name> entries we know that the following members of the party were with him: <name type="person" key="Charbonneau, Toussaint">Charbonneau</name>, <name type="person" key="Sacagawea">Sacagawea</name>, <name type="person" key="Pryor, Nathaniel Hale">Pryor</name>, <name type="person" key="Frazer, Robert">Frazer</name>, <name type="person" key="McNeal, Hugh">McNeal</name>, and <name type="person" key="Werner, William">Werner</name>. He met <name type="person" key="Field, Joseph">Joseph Field</name>, <name type="person" key="Bratton, William E.">Bratton</name>, <name type="person" key="Gibson, George">Gibson</name>, <name type="person" key="Gass, Patrick">Gass</name>, and <name type="person" key="Shannon, George">Shannon</name> at the <name type="place" key="Saltmaking Camp (Oreg.)">salt works</name>. And <name type="person" key="Lewis, Meriwether">Lewis</name> mentions that <name type="person" key="Drouillard, George">Drouillard</name> and <name type="person" key="Collins, John">Collins</name> were hunting away from <name type="place" key="Fort Clatsop (Oreg.)">Fort Clatsop</name>. On the front cover of this draft is a list of men's names in <name type="person" key="Clark, William">Clark's</name> hand. Since <name type="person" key="Charbonneau, Toussaint">Charbonneau's</name> and the four soldiers' names are included, we may suppose that this is a list of the persons who made the trip, excluding <name type="person" key="Sacagawea">Sacagawea's</name> name and that of her child, <name type="person" key="Charbonneau, Jean Baptiste">Jean Baptiste</name>, who surely went along. The list names thirteen rather than twelve persons, but <name type="person" key="Charbonneau, Toussaint">Charbonneau</name> may have been thought of as a supernumerary when <name type="person" key="Clark, William">Clark</name> wrote twelve in the text. The column of names reads: "<name type="person" key="Pryor, Nathaniel Hale">Serjt Pryor</name>, Peter [<hi rend="italic">either <name type="person" key="Cruzatte, Pierre">Cruzatte</name> or <name type="person" key="Weiser, Peter">Weiser</name>
+               </hi>], <name type="person" key="Frazer, Robert">Frasure</name>, <name type="person" key="Colter, John">Colter</name>, <name type="person" key="Werner, William">Werner</name>, <name type="person" key="Lepage, Jean Baptiste">Battiest</name> [<hi rend="italic">i.e., <name type="person" key="Lepage, Jean Baptiste">Lepage</name>
+               </hi>], <name type="person" key="Field, Reubin">R. Fields</name>, <name type="person" key="Potts, John">Potts</name>, <name type="person" key="McNeal, Hugh">McNeal</name>, <name type="person" key="Labiche, François">Labiech</name>, <name type="person" key="Windsor, Richard">Windsor</name>, <name type="person" key="Charbonneau, Toussaint">Shabono</name>, and <name type="person" key="Shields, John">Shield</name>." Another column of words is opposite the names but apparently unrelated to them. The reason for the plus marks is not known, but may have been a further inventory check: "Meadle +, Dollar +, Bags, Beeds +, Wampom +, Knives +, F. Hooks +, Paint +, Ribin +, Wire +, arm bands, red flag +, 3 files +, needles +, Thread, Paper &amp; Ink pen &amp;c." Except for the last, these may have been items taken along as Indian presents or for trade. Finally two columns of figures and these random jottings appear on the cover: "Boate, Beautiful, Elegant, neat, 15–4."
+
+<table rows="5" cols="2">
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">3560</cell>
+                     <cell role="data" rows="1" cols="1">  154</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <hi rend="underline">  428</hi>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">
+                        <hi rend="underline">  165</hi>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">3988</cell>
+                     <cell role="data" rows="1" cols="1">  319</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <hi rend="underline">  144</hi>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">
+                        <hi rend="underline">3560</hi>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">4132</cell>
+                     <cell role="data" rows="1" cols="1">  889</cell>
+                  </row>
+               </table>
+            </note>
+            <note xml:id="n26010606" n="6">
+               <name type="person" key="Clark, William">Clark</name> camped at the forks of his "<name type="place" key="Neacoxie (Neercawanaca) Creek">Ne-er ca wen a ca" River</name>, probably today's <name type="place" key="Neacoxie (Neercawanaca) Creek">Neacoxic Creek</name>, but not quite like <name type="person" key="Clark, William">Clark's</name> geographic description. <hi rend="italic">Atlas</hi> map 84; fig. 13.</note>
+            <note xml:id="n26010607" n="7">Including <name type="person" key="Charbonneau, Toussaint">Charbonneau</name>, <name type="person" key="Sacagawea">Sacagawea</name>, <name type="person" key="Pryor, Nathaniel Hale">Pryor</name>, <name type="person" key="Frazer, Robert">Frazer</name>, <name type="person" key="McNeal, Hugh">McNeal</name>, and <name type="person" key="Werner, William">Werner</name>. Others who may have been in the party were <name type="person" key="Charbonneau, Jean Baptiste">Jean Baptiste Charbonneau</name>, <name type="person" key="Colter, John">Colter</name>, <name type="person" key="Lepage, Jean Baptiste">Lepage</name>, <name type="person" key="Field, Reubin">Reubin Field</name>, <name type="person" key="Potts, John">Potts</name>, <name type="person" key="Labiche, François">Labiche</name>, <name type="person" key="Windsor, Richard">Windsor</name>, <name type="person" key="Shields, John">Shields</name>, and either <name type="person" key="Cruzatte, Pierre">Cruzatte</name> or <name type="person" key="Weiser, Peter">Weiser</name>. See <name type="person" key="Clark, William">Clark's</name> entry of this day.</note>
+            <note xml:id="n26010608" n="8">
+               <name type="place" key="Necanicum (Clatsop) River">Necanicum River</name> flowing into <name type="place" key="Pacific Ocean">the Pacific</name> in <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>, <name type="place" key="Oregon">Oregon</name>, at <name type="place" key="Seaside, Oreg.">Seaside</name>. <name type="person" key="Clark, William">Clark</name> calls it both <name type="place" key="Necanicum (Clatsop) River">Colimex River</name> and <name type="place" key="Necanicum (Clatsop) River">Clatsop River</name> in entries for <ref n="1806-01-07" type="related">January 7</ref>.</note>
+            <note xml:id="n26010609" n="9">The <name type="place" key="Saltmaking Camp (Oreg.)">saltmaking camp</name> was in the southern part of <name type="place" key="Seaside, Oreg.">Seaside</name>, <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>.</note>
+            <note xml:id="n26010610" n="10">
+               <name type="person" key="Shannon, George">Shannon</name>, who had come with <name type="person" key="Gass, Patrick">Gass</name>, went out with <name type="person" key="Field, Joseph">Joseph Field</name> and <name type="person" key="Gibson, George">Gibson</name>, according to <name type="person" key="Clark, William">Clark's</name> entry of <ref n="1806-01-07" type="related">January 7</ref>.</note>
+            <note xml:id="n26010611" n="11">
+               <name type="person" key="Clark, William">Clark's</name> party apparently included <name type="person" key="Pryor, Nathaniel Hale">Pryor</name>, <name type="person" key="Cruzatte, Pierre">Cruzatte</name> or <name type="person" key="Weiser, Peter">Weiser</name> (probably the former), <name type="person" key="Frazer, Robert">Frazer</name>, <name type="person" key="Colter, John">Colter</name>, <name type="person" key="Werner, William">Werner</name>, <name type="person" key="Lepage, Jean Baptiste">Lepage</name>, <name type="person" key="Field, Reubin">Reubin Field</name>, <name type="person" key="Potts, John">Potts</name>, <name type="person" key="McNeal, Hugh">McNeal</name>, <name type="person" key="Labiche, François">Labiche</name>, <name type="person" key="Windsor, Richard">Windsor</name>, <name type="person" key="Shields, John">Shields</name>, <name type="person" key="Charbonneau, Toussaint">Charbonneau</name>, <name type="person" key="Sacagawea">Sacagawea</name>, and <name type="person" key="Charbonneau, Jean Baptiste">Jean Baptiste Charbonneau</name>. See <name type="person" key="Clark, William">Clark's</name> entries for January 6.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-01-05" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-01-07" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

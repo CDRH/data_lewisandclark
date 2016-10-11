@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-04-06">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+April 6, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">332</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">125</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">76</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-04-12</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-04-06">April 6, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-04-06.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">April the 6th Friday</hi> Saturday <hi rend="italic">1805</hi>
+                  </date>
+               </ab>
+               <p>
+a fine day    visited by a number of <name type="native_nation" key="Mandan Indians">mandans</name>, we are informed of the arrival of the whole of the <hi rend="italic">
+                     <name type="native_nation" key="Arikara Indians">ricarra</name>
+                  </hi> nation on the other Side of the river near their old village.    we Sent an interpreter to See with orders to return imediately and let us know if their Chiefs ment to go down to See their great father.<ref target="n09040601" n="1"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-06.02" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 6th April 1805</hi>.    clear and pleasant.    we took all our Baggage on board the perogues in order to Set off. Some of the <name type="native_nation" key="Mandan Indians">Mandans</name> Indians informed us that the <name type="native_nation" key="Arikara Indians">Rick a Ree</name> nation was all comming up to their villages, as they Supposed to Stay and live with them.    our officers wished to wait and know their business, as the indians sayed that they were near this on the opposite Side of the River. So our Intrepeter<ref target="n09040602" n="2"/> one of the party and two frenchmen was Sent across the River in order to go &amp; See if the report was true.    the wind Gentle from the South.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-04-06.03" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 6th.</hi> The day was clear and pleasant. This morning we heard that some of the <name type="native_nation" key="Arikara Indians">Rickarees</name> had come up to the mandan villages. Our interpreter<ref target="n09040603" n="3"/> and some of the men were sent over to ascertain the truth of the report; and we were detained all day waiting their return.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n09040601" n="1">Probably they were near the sites of the old Arikara villages shown on <hi rend="italic">Atlas</hi> map 29, in <name type="place" key="Oliver County, N. Dak.">Oliver County</name>, <name type="place" key="North Dakota">North Dakota</name>, roughly opposite present <name type="place" key="Washburn, N. Dak.">Washburn</name>. <name type="person" key="Gravelines, Joseph">Gravelines</name> was probably the interpreter sent across the river. MRC map 51.</note>
+            <note xml:id="n09040602" n="2">Probably <name type="person" key="Gravelines, Joseph">Gravelines</name>.</note>
+            <note xml:id="n09040603" n="3">Probably <name type="person" key="Gravelines, Joseph">Gravelines</name>. The captains wanted to know if any <name type="native_nation" key="Arikara Indians">Arikara</name> chiefs were ready to go to <name type="place" key="Washington D.C.">Washington</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-04-05" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-1805.winter.introduction" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

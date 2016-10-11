@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-05-03">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+May 3, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 7</title>
+               <title level="m" type="sub">March 23–June 9, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1991</date>
+               <biblScope type="pages">202-205</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">303-304</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">220-221</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-05-03.01">
+            <placeName/>
+            <geo>46.4667 -117.5333</geo>
+            <note>Camped in Garfield County, WA, on Pataha Creek, east of Pataha City, near U.S. Highway 12.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-10-11</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-05-03">May 3, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-05-03.01" n="lc.geo.1806-05-03.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Saturday May 3rd 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+This morning we set out at 7 A. M. steered N. 25 E 12 ms. to <name type="place" key="Tucannon River (Ki-moo-e-nim Creek)">Kimooenem Creek</name>
+                  <ref target="n33050301" n="1"/> through a high level plain.    this creek is about 12 yds. wide pebbly bottom low banks and discharges a considerable body of water    it heads in the S. W. mountains and discharges itself into <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Lewis's river</name> a few miles above the narrows.    the bottoms of this creek are narrow with some timber principally Cottonwood and willow.    the under brush such as mentioned on N. East Creek.<ref target="n33050302" n="2"/>    the hills are high and abrupt.    the land of the plains is much more fertile than below, less sand and covered with taller grass; very little of the aromatic shrubs appear in this part of the plain.<ref target="n33050303" n="3"/>    we halted and dined at this creek; after which we again proceeded N. 45 E. 3 M. through the high plain to a small creek<ref target="n33050304" n="4"/> 5 yds. wide branch of the <name type="place" key="Tucannon River (Ki-moo-e-nim Creek)">Kimooenem C.</name>    this stream falls into the creek some miles below.    the hills of this creek like those of the <name type="place" key="Tucannon River (Ki-moo-e-nim Creek)">Kimooenem</name> are high it's bottoms narrow and possess but little timber, lands of a good quality, a dark rich loam.<ref target="n33050305" n="5"/>    we continued our rout up this creek, on it's N. side. N. 75 E. 7 Ms.    the timber increases in quantity the hills continue high. East 4 Ms. up the creek.    here we met with <name type="person" key="Apash Wyakaikt">We-ark-koomt</name>
+                  <ref target="n33050306" n="6"/> whom we have usually distinguished by the name of the bighorn Cheif from the circumstance of his always wearing a horn of that animal suspended by a cord to he left arm.    he is the 1st Cheif of a large band of the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> nation.    he had 10 of his young men with him.    this man went down <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Lewis's river</name> by land as we decended it by water last fall quite to the <name type="place" key="Columbia River">Columbia</name> and I beleive was very instrumental in procuring us a hospitable and friendly reception among the natives.    he had now come a considerable distance to meet us.    after meeting this cheif we continued still up the creek bottoms N. 75. E. 2 m to the place at which the road leaves the creek and ascends the hills to the plain    here we encamped<ref target="n33050307" n="7"/> in small grove of cottonwood tree which in some measure broke the violence of the wind.    we came <hi rend="italic">28 ms. today.</hi>    it rained hailed snowed and blowed with great violence the greater portion of the day.    it was fortunate for us that this storm was from the S. W. and of course on our backs.    the air was very cold.    we divided the last of our dryed meat at dinner when it was consumed as well as the ballance of our dogs nearly    we made but a scant supper and had not anything for tomorrow; however <name type="person" key="Apash Wyakaikt">We-ark-koomt</name> consoled us with the information that there was an indian lodge on the river at no great distance where we might supply ourselves with provision tomorrow.    our guide and the three young <name type="native_nation" key="Walula Indians">Wallahwollahs</name> left us this morning reather abruptly and we have seen nothing of them since.<ref target="n33050308" n="8"/>    the S. W. mountains<ref target="n33050309" n="9"/> appear to become lower as they proceede to the N. E.    this creek<ref target="n33050310" n="10"/> reaches the mountains.    we are nearer to them than we were last evening
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-05-03.02" n="lc.geo.1806-05-03.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Saturday 3rd May 1806</hi>
+                  </date>
+               </ab>
+               <p>
+This morning we Set out at 7 A. M. Steared N. 25° E. 12 m. to <name type="place" key="Tucannon River (Ki-moo-e-nim Creek)">Kimoo e nimm Creek</name> through a high leavel plain    this Creek is 12 yds. wide pebbly bottom low banks and discharges a Considerable quanty of water    it head in the <name type="place" key="Blue (Southwest, Southeast) Mountains">S W. Mountains</name> and discharges it Self into <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Lewis's river</name> a fiew miles Above the narrows.    the bottoms of this Creek is narrow with Some timber principally Cotton wood &amp; Willow.    the under brush Such as mentioned in the N. E. Creek. The hills are high and abrupt.    the lands of the plains is much more furtile than below, less Sand and Covered with taller grass; very little of the aramatic Shrubs appear in this part of the plain.    we halted and dined at this Creek.    after which we again proceeded N. 45° E. 3 mes. through a high plain to a Small Creek 5 yds. wide, a branch of the <name type="place" key="Tucannon River (Ki-moo-e-nim Creek)">Kimoenimm Creek</name>.    the hills of this Stream like those of the <name type="place" key="Tucannon River (Ki-moo-e-nim Creek)">Ki moo enimm</name> are high its bottoms narrow and possess but little timber.    the land of a good quallity dark rich loam.    we Continued our rout up this Creek on it's N. Side N. 75° E 7 mes.    the timber increas in quantity    the hills continue high.    we met with the <hi rend="italic">
+                     <name type="place" key="Apash Wyakaikt">We arh koont</name>
+                  </hi> whome we have usially distinguished by the name of the big horn Chief from the circumstance of his always wareing a horn of that animal Suspended by a Cord to his left arm.    he is a 1st Chief of a large band of the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> Nation.    he had ten of his young men with him.    this man Went down <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Lewis's river</name> by Land as we decended it by water last fall quite to the <name type="place" key="Columbia River">Columbia</name>, and I believe was very instremental in precureing us a hospital and friendly reception among the nativs.    he had now come a Considerable distance to meet us.    after meeting this Cheif we Continued Still up the Creek bottoms N. 75° E. 2 m. to the place at which the roade leaves the Creek and assends the hill to the high plains:    here we Encamped in a Small grove of Cotton trees which in some measure broke the violence of the wind.    we Came <hi rend="italic">28 miles today.</hi>    it rained, hailed, Snowed &amp; blowed with Great Violence the greater portion of the day.    it was fortunate for us that this Storm was from the S. W. and of Course on our backs.    the air was very cold.    we devided the last of our dried meat at dinner when it was Consumed as well as the ballance of our Dogs nearly    we made but a Scant Supper, and had not anything for tomorrow; however <name type="person" key="Apash Wyakaikt">We-ark-koomt</name> Consoled us with the information that there was an Indian Lodge on the river at no great distnace where we might Supply our Selves with provisions tomorrow.    our Guide and the three young <name type="native_nation" key="Walula Indians">Wallah wallah's</name> left us this morning reather abruptly and we have Seen nothing of them Sence.    the <name type="place" key="Blue (Southwest, Southeast) Mountains">S W. Mountains</name> appear to become lower as 〈we〉 they receed to the N E. This Creek reaches the mountains.    we are much nearer to them than we were last evening.    they are Covered with timber and at this time Snow.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-05-03.03" n="lc.geo.1806-05-03.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Saturday 3rd May 1806.    a little rain the later part of last night, and continues Showery and cold    a little hail &amp; Snow intermixed.    one of the hunters horses broke his hobbles and got away.    about 7 we Set out    proceeded on over high plains and hills.    road bearing to the left from the branch.    the wind blew verry high and cold    Showers of hail &amp; rain    about noon we descended a hill.    came on an other large creek<ref target="n33050311" n="11"/> where we halted to dine on the last of our meat.    our hunters Came up    had found the lost horse a long distance back the road.    our Indians went on this morning intending to git to the forks to day    considerable of Snow fell on the high hills Since yesterday.    we delayed about 1 hour &amp; left the creek named <name type="place" key="Tucannon River (Ki-moo-e-nim Creek)">ke-moo-e-nim Creek</name>    ascended a high hill and procd. on over high plains.    crossed 2 creeks, and followed up the third creek<ref target="n33050312" n="12"/>    the big horn chief who we Saw at the big forks last fall met us    Several other Indians with him    he appeared verry glad to See us and turned back with us    we had considerable of hail &amp; verry high winds.    in the evening we Camped having made 28 miles this day, having nothing to eat bought the only dog the Indians had with them.    the air is very cold.—
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-05-03.04" n="lc.geo.1806-05-03.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 3rd.</hi>    We had a wet uncomfortable morning, and when the horses were collected one was found missing, and one of our hunters went back after him, while the rest of us continued our journey. This morning our guide and the three other Indians went on ahead. We continued our route about 10 miles, when we struck a creek, having left the other entirely to our right; and halted. Our hunter came up with the horse. The wind was very high this forenoon, and rather cold for the season; with some rain. We continued about two hours and eat the last of our dried meat; and are altogether without other provisions, as our stock of dogs is exhausted, and we can kill no game in these plains. In the evening we met a chief and nine of his men, who appeared glad to see us. We encamped on a small branch or spring, as it was too far to go over the hills. The Indians say we can get over to-morrow by noon. The wind continued to blow hard and some snow showers fell in the afternoon.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n33050301" n="1">
+               <name type="place" key="Tucannon River (Ki-moo-e-nim Creek)">Tucannon River</name>, reached near the <name type="place" key="Columbia County, Wash.">Columbia</name>-<name type="place" key="Garfield County, Wash.">Garfield</name> county line, in <name type="place" key="Washington">Washington</name>. See <hi rend="italic">Atlas</hi> map 73, where the route appears as a dotted line. The <name type="place" key="Tucannon River (Ki-moo-e-nim Creek)">Tucannon</name> reaches the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake</name> in northwest <name type="place" key="Columbia County, Wash.">Columbia County</name>. <name type="place" key="Tucannon River (Ki-moo-e-nim Creek)">Kimooenem</name> may represent <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
+               <hi rend="italic">qemúynem,</hi> etymology and meaning unclear. See <ref n="1805-10-13" type="related">October 13, 1805</ref>.</note>
+            <note xml:id="n33050302" n="2">Either <name type="place" key="Touchet River">Touchet River</name> or <name type="place" key="Patit Creek">Patit Creek</name>.</note>
+            <note xml:id="n33050303" n="3">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> ecological observation describes the party's passage from the drier, shrub-steppe region of south-central <name type="place" key="Washington">Washington</name>, characterized by the presence of sagebrush and rabbitbrush to a new vegetation zone, the steppe region. It is characterized by perennial bunchgrasses, such as bluebunch wheatgrass, <hi rend="italic">Agropyron spicatum</hi> (Pursh) Scribn. &amp; Smith, Idaho fescue, <hi rend="italic">Festuca idahoensis</hi> Elmer, and Sandberg bluegrass. Franklin &amp; Dyrness, 219–20.</note>
+            <note xml:id="n33050304" n="4">
+               <name type="place" key="Pataha Creek">Pataha Creek</name>, in <name type="place" key="Garfield County, Wash.">Garfield County</name>, nameless on <hi rend="italic">Atlas</hi> map 73.</note>
+            <note xml:id="n33050305" n="5">The soils on the uplands adjacent to the stream are residual soils developed on <name type="place" key="Columbia River">Columbia River</name> Basalt and volcanic ash from <name type="place" key="Cascade Range">Cascade</name> volcanoes. Weathered volcanic rocks typically form rich soils.</note>
+            <note xml:id="n33050306" n="6">His real name was <name type="person" key="Apash Wyakaikt">Apash Wyakaikt</name>, '<hi rend="italic">apáswahayqt,</hi> "flint necklace." Men of the same name, very likely his son and grandson, were later among the most prominent <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> leaders, known to whites as Looking Glass, senior and junior. The last was a leading figure in the 1877 war, in which he was killed. Josephy (NP), 11; Ronda (LCAI), 221; Aoki (NPT), 123 ff.</note>
+            <note xml:id="n33050307" n="7">In <name type="place" key="Garfield County, Wash.">Garfield County</name>, on <name type="place" key="Pataha Creek">Pataha Creek</name> east of <name type="place" key="Pataha City, Wash.">Pataha City</name>, near U.S. Highway 12 at about the point where the creek turns from a northerly to a westerly course. <hi rend="italic">Atlas</hi> map 73.</note>
+            <note xml:id="n33050308" n="8">It was probably <name type="person" key="Biddle, Nicholas">Biddle</name> who placed a vertical line through this sentence.</note>
+            <note xml:id="n33050309" n="9">The <name type="place" key="Blue (Southwest, Southeast) Mountains">Blue Mountains</name>.</note>
+            <note xml:id="n33050310" n="10">
+               <name type="place" key="Pataha Creek">Pataha Creek</name>.</note>
+            <note xml:id="n33050311" n="11">
+               <name type="place" key="Tucannon River (Ki-moo-e-nim Creek)">Tucannon River</name>, reached near the <name type="place" key="Columbia County, Wash.">Columbia</name>-<name type="place" key="Garfield County, Wash.">Garfield</name> county line, <name type="place" key="Washington">Washington</name>. It is the
+party's <name type="place" key="Tucannon River (Ki-moo-e-nim Creek)">Kimooenem</name>, variously spelled.</note>
+            <note xml:id="n33050312" n="12">The last is <name type="place" key="Pataha Creek">Pataha Creek</name>, in <name type="place" key="Garfield County, Wash.">Garfield County</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-05-02" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-05-04" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

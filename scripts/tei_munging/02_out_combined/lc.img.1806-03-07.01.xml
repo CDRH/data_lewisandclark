@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.img.1806-03-07.01">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">American Philosophical Society Images</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2005</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>American Philosophical Society</title>
+               <note>http://www.amphilsoc.org/library/digcoll/landc</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term/>
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2005-04-13</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <list type="simple">
+            <item>
+               <figure n="n1806-03-07.01.jpg">
+                  <p>
+                     <label>White Gull</label>
+                     <caption>Head of a White Gull<lb/>
+(northern fulmar, <hi rend="italic">Fulmarus glacialis</hi>),<lb/>
+March 7, 1806, Codex J, p. 115
+</caption>
+                     <bibl>
+                        <respStmt>
+                           <resp>Journalist:</resp>
+                           <name>Meriwether Lewis</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Source:</resp>
+                           <name>Codex J</name>
+                        </respStmt>
+                        <date>1806</date>
+                        <orgName>American Philosophical Society library</orgName>
+                        <note>Permission to reproduce image required.</note>
+                        <note>
+                           <ref target="http://www.amphilsoc.org/library/rights">http://www.amphilsoc.org/library/rights</ref>
+                        </note>
+                     </bibl>
+                  </p>
+               </figure>
+            </item>
+         </list>
+      </body>
+   </text>
+</TEI>

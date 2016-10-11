@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="lc.img.1804-1805.winter.part5.01">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">Images from Missouri Historical Society, Eleanor Glasgow Voorhis Memorial Collection</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2005</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Missouri Historical Society</title>
+               <note/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh">
+               <term/>
+               <term/>
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09-13</date>
+            <date>2007-01-23</date>
+            <name>Corrected to Missouri Historical Society</name>
+            <name>Matthew Pearson</name>Laura Weakly Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <list type="simple">
+            <item>
+               <figure n="n1804-1805.winter.part5.01.jpg">
+                  <p>
+                     <label/>
+                     <caption>Area about Fort Mandan and North to the<lb/>Assinboine River, undated (winter 1804–05),<lb/> Voorhis Collection, Missouri Historical Society</caption>
+                     <bibl>
+                        <title>Journals</title>
+                        <biblScope type="volume">3</biblScope>
+                        <date>1987</date>
+                        <orgName>Missouri Historical Society</orgName>
+                        <note>Permission to reproduce image required.</note>
+                        <note>
+                           <ref target="http://www.mohistory.org/content/HomePage/HomePage.aspx">http://www.mohistory.org/content/HomePage/HomePage.aspx</ref>
+                        </note>
+                     </bibl>
+                  </p>
+               </figure>
+            </item>
+         </list>
+      </body>
+   </text>
+</TEI>

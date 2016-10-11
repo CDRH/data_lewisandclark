@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1803-09-03">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">September 3, 1803</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">70</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1803-09-03.01">
+            <placeName/>
+            <geo>40.669 -80.3517</geo>
+            <note>Three miles down the Ohio, and three miles from Riffle below Mackintosh</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2003-12-09</date>
+            <date/>
+            <name>Laura Weakly</name>
+            <name/>Initial creation Transcribed</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1803-09-03">September 3, 1803</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1803-09-03.01" n="lc.geo.1803-09-03.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>Sept. 3rd</date>
+               </ab>
+               <p>
+Verry foggy this morning. Thermometer 63° Ferrenheit, immersed the Thermometer in the river, and the murcury arose immediately to 75° or summer heat so that there is 12° difference is sufficient to shew the vapor which arrises from the water; the fogg this prodused is impenetrably thick at this moment; we were in consequence obliged to ly by untill 9 this morning    <name type="person" key="Bryan, Guy">Mr. Gui Briant</name>
+                  <ref target="n02090301" n="1"/> arrived with two boats loaded with firrs, he informs me that if I can reach, and get over the <name type="place" key="Georgetown, Pa.">George-town</name> barr 24 miles I can get on; this is some consolation.    we set out at 9 this morning and passed a riffle just below us called <name type="place" key="Atkins's Riffle">Atkins's</name>    got over with tolerable ease passed the mouth of <name type="place" key="Beaver River">big bever creek</name>
+                  <ref target="n02090302" n="2"/> and came to ancor off <name type="place" key="McIntosh, Pa.">Mackintosh</name>
+                  <ref target="n02090303" n="3"/> being 2½ miles—   discharge one of my hands.—    passed the riffle below <name type="place" key="McIntosh, Pa.">Mackintosh</name>.—    about three miles from this we stuck on another riffle the worst I think we have yet passed  were obliged to unload and drag over with horses.—    staid all night having made only <ref target="n02090304" n="4">six miles.—</ref>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n02090301" n="1">
+               <name type="person" key="Bryan, Guy">Guy Bryan</name>, a wealthy merchant of <name type="place" key="Philadelphia, Pa.">Philadelphia</name>, supplied goods to fur traders at <name type="place" key="Kaskaskia, Ill.">Kaskaskia, Illinois</name>. Jackson (LLC), 1:44 n. 4, 157 n. 9, 189, 2:680.</note>
+            <note xml:id="n02090302" n="2">Now <name type="place" key="Beaver River">Beaver River</name>, formed by the confluence of the <name type="place" key="Shenango River">Shenango</name> and <name type="place" key="Mahoning River">Mahoning</name> rivers, and meeting the <name type="place" key="Ohio River">Ohio</name> in central <name type="place" key="Beaver County, Pa.">Beaver County, Pennsylvania</name>. Espenshade, 142–143.</note>
+            <note xml:id="n02090303" n="3">Named for <name type="person" key="McIntosh, Lachlan">General Lachlan McIntosh</name>, who built it in 1778. The modern town of <name type="place" key="Beaver, Pa.">Beaver</name>, <name type="place" key="Beaver County, Pa.">Beaver County</name>, is on the approximate site. Swetnam &amp; Smith, 42–43.</note>
+            <note xml:id="n02090304" n="4">About three miles down the <name type="place" key="Ohio River">Ohio</name> from modern <name type="place" key="Beaver, Pa.">Beaver, Pennsylvania</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1803-09-02" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-09-04" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

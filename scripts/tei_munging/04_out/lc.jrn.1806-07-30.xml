@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-07-30">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+July 30, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">141, 251-257</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">260</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">343-344</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-07-30.01">
+            <placeName/>
+            <geo>47.7345 -108.9079</geo>
+            <note>Lewis camped on Goodrich's Island, MT, extremely close to the campsite of 1805-05-25. At this camp the rest of the party joined him, minus Clark.</note>
+         </geoDecl>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-07-30.02">
+            <placeName/>
+            <geo>46.7431 -105.4345</geo>
+            <note>Clark camped in Prairie County, MT, a little below and opposite the mouth of Powder River; the mouth of Crooked Creek.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-12-03</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-07-30">July 30, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-07-30.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday July 30th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+The rain still continued this morning it was therefore unnecessary to remain as we could not dry our baggage    I Consequently set out early as usual and pursued my rout downwards.    the currant being strong and the men anxious to get on they plyed their oars faithfully and we went at the rate of about seven miles an hour.    we halted several times in the course of the day to kill some bighorns being anxious to procure a few more skins and skeletons of this animal; I was fortunate enough to procure one other malle and female for this purpose which I had prepared accordingly.    seven others were killed by the party also 2 buffaloe one Elk 2 beaver with &amp; a female brown bear with tallons 6¼ inches in length. I preserved the skin of this bear also with the tallons; it was not large and in but low order.    we arrived this evening at an island about 2 ms. above <name type="person" key="Dry (Goodrich's) Island (Mont.)">Goodriches Island</name> and encamped on it's N. E. side.<ref target="n37073001" n="1"/>    the rain continued with but little intermission all day; the air is cold and extreemly disagreeable.    nothing extraordinary happened today
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-07-30.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>(30th July) 30th</date>
+               </ab>
+               <p>
+                  <table rows="22" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 14° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Lard Bluff    passed an Island and 2 gravelly bars</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40° E</cell>
+                        <cell role="data" rows="1" cols="1">  6</cell>
+                        <cell role="data" rows="1" cols="1">miles to the enteranc of a dry Brook with Stard. Bend<lb/>
+Passed the enteranc of a river 100 yds wide below the<lb/>
+Lard. Bluff at 5 miles. Som wood on this River.    (rained)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¾</cell>
+                        <cell role="data" rows="1" cols="1">miles to a tree in Lard bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 60° E.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Bluff in a Stard. bend    passed a Shoal ⅔ across<lb/>
+th river from the Lard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North	</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">mile to 3 trees in a Lard. bend    passed a large dry Creek<lb/>
+on the Stard. at ½ a mile 80 yds</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 70° E</cell>
+                        <cell role="data" rows="1" cols="1">  4</cell>
+                        <cell role="data" rows="1" cols="1">miles to the point of a Clift on the Stard. Side    opposit to<lb/>
+the great Shoal quite across the riv    rock dark brown<lb/>
+Sand.    this may be run with ease and Safty in a large Canoe</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N E.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">mils to a bush in a naked point on the Lard Side    passed a<lb/>
+large dry brook on each Side    low Bluff on the Stard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 20° E</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile to the head of an Island    low bluff on Std.    no wood<lb/>
+on either side    Passed a Brook on Stard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to the enterance of a large dry Creek on the Lard<lb/>
+Side above a bluff    passed 1 on the Stard.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 70° E</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile to Brook on the Stard Bend    passed a high bluff on<lb/>
+the Lard. for ½ ml.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to the enteranc of a 〈large〉 <name type="place" key="Cabin Creek (Custer County, Mont.)">small dry Creek</name> in the<lb/>
+Lard. Bend near a high Bluff</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 20° E.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile to a large dry Brook in Std. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 5° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles the Center Lard Bend    rocks on both Sides in the<lb/>
+bottom but little wood</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° E.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Stard. point</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Stard Bend    passd. a Brook on each Side but<lb/>
+little wood</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 20° E.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles on the Stard. Bend    passed a Brook on Stard Side<lb/>
+low bluff Lard.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">  1 〈2〉 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a few bushes in a Lard Bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. E</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile to a Brook which discharges itself on the Stard. Side<lb/>
+in the Center of a rapid I call <name type="place" key="Yellow Bear Rapids">Bear rapid</name>    not bad    a god<lb/>
+Chanel on the Lard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. W</cell>
+                        <cell role="data" rows="1" cols="1">  ¾</cell>
+                        <cell role="data" rows="1" cols="1">of a m. to a bluff in the Lard Bend    passed a dry river 88<lb/>
+yds chanel and nearly ¼ of a mile when high—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. E.</cell>
+                        <cell role="data" rows="1" cols="1">  2〈3〉¼</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Bluff in a Stard. Bend    passed a bar on Stard.<lb/>
+point</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">
+                              <hi rend="underline">  4〈5〉½</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles    passed a low bluff on each Side a 〈large Brook〉 at<lb/>
+3 River 100 yards wide Shallow &amp; very muddy    I take this<lb/>
+to be the [<hi rend="italic">blank</hi>] River, it discharges a great deel of mud<lb/>
+and red stones    has latterly been high—    at 4 ms. passed<lb/>
+large dry Brook a Lard. low bluff on each side.<ref target="n37073002" n="2"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">45</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-07-30.03" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Friday 30th July 1806</hi>
+                  </date>
+               </ab>
+               <p>
+Set out early this morning    at 12 miles arived at the Commencement of Shoals the Chanel on the Stard Side near a high bluff.    passed a Succession of those Shoals for 6 miles the lower of which was quit across the river and appeared to have a decent of about 3 feet.    here we were Compeled to let the Canoes down by hand for fear of their Strikeing a rock under water and Splitting. This is by far the wost place which I have Seen on this river from the <name type="place" key="Rocky Mountains">Rocky mountains</name> to this place    a distance of 694 miles by water.    a Perogu or large Canoe would with Safty pass through the worst of those Shoals, which I call the <name type="place" key="Buffalo Shoals">Buffalow Sholes</name>
+                  <ref target="n37073003" n="3"/> from the Circumstance of one of those animals being in them.    the rock which passes the river at those Sholes appear hard and gritty of a dark brown Colour.<ref target="n37073004" n="4"/>    the Clifts on the Stard. Side is about 100 feet in hight, on the Lard Side the Country is low and the bottom rises gradually back.    here is the first appearance of <name type="place" key="Tongue River Member">Birnt hills</name>
+                  <ref target="n37073005" n="5"/> which I have Seen on this river they are at a distance from the river on the Lard Side. I landed at the enterance of a dry Creek<ref target="n37073006" n="6"/> on the Lard side below the Shoals and took brackfast. Those Dry Rivers, Creeks &amp;c are like those of the <name type="place" key="Missouri River">Missouri</name> which take their rise in and are the Conveyance of the water from those plains.    they have the appearanc of dischargeing emence torrents of water.    the late rains which has fallen in the plains raised Sudenly those Brooks which receive the water of those plains on which those Suden &amp; heavy Showers of rain must have fallen, Several of which I have Seen dischargeing those waters, whiles those below heading or takeing their rise in the Same neighbourhood, as I passed them appears to have latterly been high.    those Broods discharge emencely of mud also, which Contributes much to the muddiness of the river.    after Brackfast proceeded on    the river much narrower than above    from 3 to 400 yards wide only and only a fiew scattering trees to be Seen on the banks.    at 20 miles below the <name type="place" key="Buffalo Shoals">Buffalow Shoals</name> passed a rapid which is by no means dangerous, it has a number of large rocks in different parts of the river which Causes high waves    a very good Chanel on the Lard. Side.    this rapid I call <name type="place" key="Yellow Bear Rapids">Bear rapid</name>
+                  <ref target="n37073007" n="7"/> from the Circumstance of a bears being on a rock in the Middle of this rapid when I arived at it.    a violent Storm from the N. W. obliged us to land imediately below this rapid, draw up the Canoes and take Shelter in an old Indian Lodge above the enterance of a river which is nearly dry    it has laterly been very high and Spread over nearly ¼ a mile in width. its Chanel is 88 yards and in this there is not more water than could pass through an inch auger hole. I call it <name type="place" key="Custer Creek (York's Dry River)">Yorks dry R.</name>
+                  <ref target="n37073008" n="8"/>    after the rain and wind passed over I proceeded on at 7 Miles    passed the enterance of a river<ref target="n37073009" n="9"/> the water of which is 100 yds wide, the bead of this river nearly ¼ of a mile    this river is Shallow and the water very muddy and of the Colour of the banks a darkish brown.<ref target="n37073010" n="10"/> I observe great quantities of red Stone<ref target="n37073011" n="11"/> thrown out of this river that from the appearance of the hills at a distance on its lower Side induced me to call this <name type="place" key="Powder (Wah-har-sah, Redstone) River">red Stone river</name>.    [<hi rend="italic">NB: By a coincidence I found the Indian name <name type="place" key="Powder (Wah-har-sah, Redstone) River">Wa ha Sah</name>
+                  </hi>]<ref target="n37073012" n="12"/>    as the water was disagreeably muddy I could not Camp on that Side below its mouth.    however I landed at its enteranc and Sent out and killed two fat Cows, and took as much of the flesh as the Canoes would conveniently Carry and Crossed the river and encamped at the enterance of a Brook on the Lard. Side under a large Spredding Cotton tree.<ref target="n37073013" n="13"/> The river on which we passed to day is not So wide as above    containing but fiew islands with a Small quantity of Cotton timber.    no timber of any kind to be Seen on the high lands on either Side.</p>
+               <p>
+                  <table rows="54" cols="4">
+                     <head>
+                        <hi rend="italic">Course distance and Remarks 30th July</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">M</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 32° E.</cell>
+                        <cell role="data" rows="1" cols="1">to the lower part of a wood in the Stard.	Bend</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">2 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">opposit the head of an island near the Lard Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 14° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. Bluff    passed an island and 2 bars</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40° E.</cell>
+                        <cell role="data" rows="1" cols="1">to the enterance of a dry brook<ref target="n37073014" n="14"/> in the Stard</cell>
+                        <cell role="data" rows="5" cols="1">}</cell>
+                        <cell role="data" rows="5" cols="1">6</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Bend passed the enterance of a [<hi rend="italic">EC: Dry</hi>]<ref target="n37073015" n="15"/> river</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">below the Lard Bluff 100 yards wide nearly dry</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">at 5 miles on this River    there appears to be</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Some Cotton wood</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a tree in the Lard. Bend</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">1 ¾</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 60° E.</cell>
+                        <cell role="data" rows="1" cols="1">to a Bluff in the Stard. Bend    pass a rocky Shoal</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">1 ¼</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">⅔ of the river from the Lard Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North	</cell>
+                        <cell role="data" rows="1" cols="1">to 3 trees in the Lard Bend    passed a large dry</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">1 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Creek 60 yards wide on the Stard. side<ref target="n37073016" n="16"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 70° E.</cell>
+                        <cell role="data" rows="1" cols="1">to the point of a clift on the Stard. Side opposit</cell>
+                        <cell role="data" rows="3" cols="1">}</cell>
+                        <cell role="data" rows="3" cols="1">4</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">to the great Shoal.    a dark brow rock quit</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">across<ref target="n37073017" n="17"/> passeable</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° E.</cell>
+                        <cell role="data" rows="1" cols="1">to a bush on the Lard point    passed a dry brook</cell>
+                        <cell role="data" rows="3" cols="1">}</cell>
+                        <cell role="data" rows="3" cols="1">3</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">[<hi rend="italic">EC: <name type="place" key="Muster (Dry) Creek">Sand Cr.</name>
+                           </hi>] on each side.<ref target="n37073018" n="18"/>    a low bluff on the</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Stard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 20° E.</cell>
+                        <cell role="data" rows="1" cols="1">to the head of an island.    passed a brook <ref target="n37073019" n="19"/> on</cell>
+                        <cell role="data" rows="3" cols="1">}</cell>
+                        <cell role="data" rows="3" cols="1">1</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">the Stard. Side and a low bluff, no wood on ei-</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">ther Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">to the enterance of a large dry Creek [<hi rend="italic">EC: <name type="place" key="Muster (Dry) Creek">Muster</name>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="3" cols="1">}</cell>
+                        <cell role="data" rows="3" cols="1">2 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">
+                              <name type="place" key="Muster (Dry) Creek">Cr.</name>
+                           </hi>]<ref target="n37073020" n="20"/> on the Lard. Side above a bluff.    passed</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">one on the Stard. Side<ref target="n37073021" n="21"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 70° E.</cell>
+                        <cell role="data" rows="1" cols="1">to a Brook<ref target="n37073022" n="22"/> in the Stard. Bend    passed a high</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">1</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">bluff on the Lard. Side for ½ a mile</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">to the enterance of a <name type="place" key="Cabin Creek (Custer County, Mont.)">Small dry Creek</name>
+                           <ref target="n37073023" n="23"/> in the</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">1 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Lard Bend near a high bluff</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 20° E.</cell>
+                        <cell role="data" rows="1" cols="1">to a large dry brook [<hi rend="italic">EC: <name type="place"
+                                    key="Cottonwood Creek (Custer County, Mont., July 30, 1806)">Cottonwood</name>
+                           </hi>]<ref target="n37073024" n="24"/> in a Stard.</cell>
+                        <cell role="data" rows="2" cols="1"/>
+                        <cell role="data" rows="2" cols="1">1 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 5° W.</cell>
+                        <cell role="data" rows="1" cols="1">to the Center of a Lard. Bend rocks on both Sides</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° E.</cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. point</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. Bend passed a dry brook [<hi rend="italic">EC: Wolf Cr</hi>
+                        </cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">2</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">(<hi rend="italic">N.</hi>)] <ref target="n37073025" n="25"/> on each Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 20° E.</cell>
+                        <cell role="data" rows="1" cols="1">to a hollow in the Stard. Bend    passed a Brook<ref target="n37073026" n="26"/>
+                        </cell>
+                        <cell role="data" rows="3" cols="1">}</cell>
+                        <cell role="data" rows="3" cols="1">1 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">on the Stard. Side.    low bluffs [<hi rend="italic">EC: Devil's Back-</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">bone</hi>] on the Lard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">to a fiew bushes in a lard. Bend</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° E.</cell>
+                        <cell role="data" rows="1" cols="1">to a Brook<ref target="n37073027" n="27"/> which discharges itself on the Stard.</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">1</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Side at <name type="place" key="Yellow Bear Rapids">white Bear island rapids</name>.    not bad</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a Bluff in the Lard. Bend, below the enterance</cell>
+                        <cell role="data" rows="4" cols="1">}</cell>
+                        <cell role="data" rows="4" cols="1">     ¾</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">of a dry river [<hi rend="italic">EC: <name type="person" key="Custer Creek (York's Dry River)">York's</name>
+                           </hi>] 88	yard Chanel, and</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">when it is high spreads over nearly ¼ of a mile in</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">width    <name type="person" key="York">York</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° E.</cell>
+                        <cell role="data" rows="1" cols="1">to a Bluff in the Stard. Bend    passed a bar Std. pt.</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">2 ¼</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North	</cell>
+                        <cell role="data" rows="1" cols="1">to the Center of a Lard. bend  low bluffs on</cell>
+                        <cell role="data" rows="6" cols="1">}</cell>
+                        <cell role="data" rows="6" cols="1">
+                           <hi rend="underline">4 ½</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">each Side at 3 miles    passed <name type="place" key="Powder (Wah-har-sah, Redstone) River">
+                              <hi rend="italic">redstone</hi> river</name> [<hi rend="italic">EC:</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Powder (Wah-har-sah, Redstone) River">
+                              <hi rend="italic">Powder R.</hi>
+                           </name>] on the Stard. Side 100 yards water &amp;</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">near ¼ of a mile Chanel very muddy; at 4 Miles</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">encamped at the enterance of a large dry brook</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">on the Lard.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">
+                              <hi rend="italic">Miles</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">48</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+In the evening below the enterance of <name type="place" key="Powder (Wah-har-sah, Redstone) River">redstone river</name> I observed great numbers of Buffalow feeing on the plains, elk on the points and antilopes. I also Saw Some of the Bighorn animals at a distance on the hills. <name type="person" key="Gibson, George">Gibson</name> is now able to walk, he walked out this evening and killed an antilope.
+
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-07-30.04" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 30th July 1806.    cloudy and wet.    we Set out eairly and proceeded on verry well    our hunters killed 2 buffaloe    I and <name type="person" key="Willard, Alexander">Willard</name> killed a white bear. Some of the hunters killed 4 Ibex and 2 beavers.    rained all day. Camped on an Island.—
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-07-30.05" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 30th.</hi>    We embarked early in a cloudy morning with some rain. In our way through this high range of mountains, we killed four more of the large horned animals, two buffaloe, two beaver and a bear.</p>
+               <p>
+The water of the river is thick and muddy, on account of the late falls of rain, which wash those clay hills very much. We went down the river upwards of 70 miles to day, and encamped on a prairie island. Heavy rain fell at intervals during the day.
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n37073001" n="1">
+               <hi rend="italic">Atlas</hi> map 40 seems to place <name type="person" key="Lewis, Meriwether">Lewis's</name> campsite on <name type="place" key="Dry (Goodrich's) Island (Mont.)">Goodrich's Island</name>, just below the campsite of <ref n="1805-05-25" type="related">May 25, 1805</ref>. However, <name type="person" key="Lewis, Meriwether">Lewis's</name> journal entry places the camp on the upriver side of the sharp bend above <name type="place" key="Dry (Goodrich's) Island (Mont.)">Goodrich's Island</name>. His wording leaves it unclear whether he actually camped on the nameless island or on the bank northeast of it in <name type="place" key="Blaine County, Mont.">Blaine County</name>, <name type="place" key="Montana">Montana</name>. <name type="person" key="Ordway, John">Ordway</name> and <name type="person" key="Gass, Patrick">Gass</name> make clear that the camp was on the island. This area is a few miles below <name type="place" key="Cow (Windsor's) Creek">Cow Creek</name> and <name type="place" key="Cow Island">Cow Island</name> Crossing. MRC map 71.</note>
+            <note xml:id="n37073002" n="2">The following figures appear in a column in the right margin beside the last course of this day: 191, 189, 380, 80, 73, 44; the third figure is a sub-total. For the first two figures see the draft courses for <ref n="1806-07-27" type="related">July 27, 1806</ref>. The last three appear to be the mileages for July 27, 28, and 29, with discrepancies.</note>
+            <note xml:id="n37073003" n="3">
+               <name type="place" key="Buffalo Shoals">Buffalo Shoals</name> are in <name type="place" key="Custer County, Mont.">Custer County</name>, <name type="place" key="Montana">Montana</name>, just below the mouth of <name type="place" key="Sand Creek (Little Dry River) (Custer County, Mont.)">Sand Creek, "Little dry River</name>" on <hi rend="italic">Atlas</hi> map 120.</note>
+            <note xml:id="n37073004" n="4">The shoals are formed of more indurated sandstone or, possibly, concretions in the <name type="place" key="Tullock Member">Tullock Member</name> of the <name type="place" key="Fort Union Formation">Fort Union Formation</name>.</note>
+            <note xml:id="n37073005" n="5">The <name type="place" key="Tongue (Le-ze-ka) River">Tongue River</name> Member of the <name type="place" key="Fort Union Formation">Fort Union Formation</name> approaches the river near here, but caps the higher hills only. It contains thicker and more continuous coal beds than the <name type="place" key="Tullock Member">Tullock Member</name>, and many of these beds have been burned extensively forming red clinker.</note>
+            <note xml:id="n37073006" n="6">
+               <name type="place" key="Muster (Dry) Creek">Muster Creek</name> in <name type="place" key="Custer County, Mont.">Custer County</name>, meeting the <name type="place" key="Yellowstone River">Yellowstone River</name> near <name type="place" key="Kinsey, Mont.">Kinsey</name>; on <hi rend="italic">Atlas</hi> map 120 it appears as "<name type="place" key="Muster (Dry) Creek">Dry creek</name>."</note>
+            <note xml:id="n37073007" n="7">
+               <name type="place" key="Yellow Bear Rapids">Bear Rapid</name> is in <name type="place" key="Prairie County, Mont.">Prairie County</name>, <name type="place" key="Montana">Montana</name>, a little above the mouth of <name type="place" key="Custer Creek (York's Dry River)">Custer Creek</name>. <hi rend="italic">Atlas</hi> map 121.</note>
+            <note xml:id="n37073008" n="8">The name, of course, derived from <name type="person" key="Clark, William">Clark's</name> servant <name type="person" key="York">York</name>; the stream is present <name type="place" key="Custer Creek (York's Dry River)">Custer Creek</name> in <name type="place" key="Prairie County, Mont.">Prairie County</name>. <hi rend="italic">Atlas</hi> map 121. The words appear to be a later addition, interlined by <name type="person" key="Clark, William">Clark</name> in a different shaded ink.</note>
+            <note xml:id="n37073009" n="9">
+               <name type="place" key="Powder (Wah-har-sah, Redstone) River">Powder River</name> meets the <name type="place" key="Yellowstone River">Yellowstone</name> in <name type="place" key="Prairie County, Mont.">Prairie County</name>; on <hi rend="italic">Atlas</hi> map 121 it is "War har sah River    red stone R." See an additional note below.</note>
+            <note xml:id="n37073010" n="10">The color of the material in the banks is derived largely from coal detritus.</note>
+            <note xml:id="n37073011" n="11">The red stone is clinker. Much of the clinker comes from the area along the <name type="place" key="Powder (Wah-har-sah, Redstone) River">Powder River</name> nearly due east of <name type="place" key="Miles City, Mont.">Miles City</name>.</note>
+            <note xml:id="n37073012" n="12">The Indian name, presumably learned from the <name type="native_nation" key="Mandan Indians">Mandans</name> or <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>, is "<name type="place" key="Powder (Wah-har-sah, Redstone) River">War-rah-sash</name>" in <ref n="1804-1805.winter.part1" type="related">
+                  <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name> Miscellany</ref>. <name type="person" key="Biddle, Nicholas">Biddle</name> seems to imply here in this interjected sentence that the translation is "<name type="place" key="Powder (Wah-har-sah, Redstone) River">red stone river</name>," but in the <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name> document the implied meaning is <name type="place" key="Powder (Wah-har-sah, Redstone) River">Powder River</name>, the source of the modern name. It is a <name type="native_nation" key="Mandan Indians">Mandan</name> term, <hi rend="italic">w<hi rend="superscript">á</hi>rašuŋte,</hi> "powder."</note>
+            <note xml:id="n37073013" n="13">
+               <name type="person" key="Clark, William">Clark's</name> camp was in <name type="place" key="Prairie County, Mont.">Prairie County</name>, a little below and opposite the mouth of <name type="place" key="Powder (Wah-har-sah, Redstone) River">Powder River ("War har sah")</name>, at the mouth of <name type="place" key="Crooked Creek (Prairie County, Mont.)">Crooked Creek</name>, a nameless stream on <hi rend="italic">Atlas</hi> map 121. The site is not marked on the <hi rend="italic">Atlas</hi> map.</note>
+            <note xml:id="n37073014" n="14">
+               <name type="place" key="Jones Creek">Jones Creek</name> meets the <name type="place" key="Yellowstone River">Yellowstone</name> in <name type="place" key="Custer County, Mont.">Custer County</name>, just above <name type="place" key="Tusler, Mont.">Tusler</name>; on <hi rend="italic">Atlas</hi> map 120 it is a nameless stream nearly opposite the mouth of <name type="place" key="Sunday Creek (Dry River)">Sunday Creek ("Big dry River")</name>.</note>
+            <note xml:id="n37073015" n="15">In addition to his penciled interlineations, Coues has underscored some words in pencil, but the underlinings are not shown here. The stream is <name type="place" key="Sunday Creek (Dry River)">Sunday Creek ("Big dry River")</name> and given as one hundred and twenty yards wide on <hi rend="italic">Atlas</hi> map 120.</note>
+            <note xml:id="n37073016" n="16">This is difficult to identify with any known stream, unless <name type="person" key="Clark, William">Clark</name> meant "larboard," in which case it could be <name type="place" key="Sand Creek (Little Dry River) (Custer County, Mont.)">Sand Creek</name> in <name type="place" key="Custer County, Mont.">Custer County</name>, just above <name type="place" key="Buffalo Shoals">Buffalo Shoals</name>, evidently the "<name type="place" key="Sand Creek (Little Dry River) (Custer County, Mont.)">Little dry River</name>" of <hi rend="italic">Atlas</hi> map 120.</note>
+            <note xml:id="n37073017" n="17">The shoals are formed of more indurated sandstone or, possibly, concretions in the <name type="place" key="Tullock Member">Tullock Member</name> of the <name type="place" key="Fort Union Formation">Fort Union Formation</name>.</note>
+            <note xml:id="n37073018" n="18">
+               <name type="place" key="Muster (Dry) Creek">Muster Creek</name> on the larboard and <name type="place" key="Dixon Creek">Dixon Creek</name> on the starboard, both in <name type="place" key="Custer County, Mont.">Custer County</name>; they are "<name type="place" key="Muster (Dry) Creek">Dry creek 40 yards wide</name>" and "<name type="place" key="Dixon Creek">dry brook</name>," respectively, on <hi rend="italic">Atlas</hi> map 120. The interlined "<name type="place" key="Muster (Dry) Creek">Sand Cr.</name>" is Coues's guess as to the larboard creek's identity.</note>
+            <note xml:id="n37073019" n="19">
+               <name type="place" key="Deep Creek">Deep Creek</name> in <name type="place" key="Custer County, Mont.">Custer County</name>; a nameless stream meeting the <name type="place" key="Yellowstone River">Yellowstone</name> from the south on <hi rend="italic">Atlas</hi> map 120.</note>
+            <note xml:id="n37073020" n="20">
+               <name type="place" key="Harris Creek">Harris Creek</name> meets the <name type="place" key="Yellowstone River">Yellowstone</name> in <name type="place" key="Custer County, Mont.">Custer County</name> west of present <name type="place" key="Shirley, Mont.">Shirley</name>; on <hi rend="italic">Atlas</hi> map 120 it is a nameless stream just below an island in the river. The interlined "<name type="place" key="Muster (Dry) Creek">Muster Cr.</name>" is Coues's guess as to its identity.</note>
+            <note xml:id="n37073021" n="21">
+               <name type="place" key="Hay Creek (Custer County, Mont.)">Hay Creek</name> in <name type="place" key="Custer County, Mont.">Custer County</name>, opposite and a little above <name type="place" key="Harris Creek">Harris Creek</name>; it is nameless on <hi rend="italic">Atlas</hi> map 120.</note>
+            <note xml:id="n37073022" n="22">
+               <name type="place" key="Dead Horse Creek">Dead Horse Creek</name> in <name type="place" key="Custer County, Mont.">Custer County</name> now empties into <name type="place" key="Buffalo Rapids Ditch">Buffalo Rapids Ditch</name> which runs parallel to the <name type="place" key="Yellowstone River">Yellowstone</name>; another small, nameless stream on the south side of the river on <hi rend="italic">Atlas</hi> map 120.</note>
+            <note xml:id="n37073023" n="23">
+               <name type="place" key="Cabin Creek (Custer County, Mont.)">Cabin Creek</name> in <name type="place" key="Custer County, Mont.">Custer County</name>, on the north side of the <name type="place" key="Yellowstone River">Yellowstone</name>, nameless on <hi rend="italic">Atlas</hi> map 120.</note>
+            <note xml:id="n37073024" n="24">
+               <name type="place"
+                     key="Cottonwood Creek (Custer County, Mont., July 30, 1806)">Cottonwood Creek</name>, as Coues interlined, in <name type="place" key="Custer County, Mont.">Custer County</name>, meeting the <name type="place" key="Yellowstone River">Yellowstone</name> south of <name type="place" key="Bonfield, Mont.">Bonfield</name>, a nameless stream on <hi rend="italic">Atlas</hi> map 120.</note>
+            <note xml:id="n37073025" n="25">
+               <name type="place" key="Mack Creek">Mack Creek</name> on the starboard and an unnamed creek on the larboard, both in <name type="place" key="Custer County, Mont.">Custer County</name>, both nameless on <hi rend="italic">Atlas</hi> map 120. "Wolf Cr (N.)" would be Coues's name for the larboard stream.</note>
+            <note xml:id="n37073026" n="26">
+               <name type="place" key="Williams Creek">Williams Creek</name> in <name type="place" key="Custer County, Mont.">Custer</name> and <name type="place" key="Prairie County, Mont.">Prairie</name> counties, nameless on <hi rend="italic">Atlas</hi> map 121. "Devils Backbone," interlined by Coues, is a name in use in his time for the larboard bluffs. Coues (HLC), 3:1162 n. 23. That name may have referred to an irregular hill about a mile west of the river across from the mouth of <name type="place" key="Williams Creek">Williams Creek</name> rather than to the bluffs.</note>
+            <note xml:id="n37073027" n="27">
+               <name type="place" key="Camp Creek (Prairie County, Mont.)">Camp Creek</name> in <name type="place" key="Prairie County, Mont.">Prairie County</name>, reaching the <name type="place" key="Yellowstone River">Yellowstone</name> at "<name type="place" key="Yellow Bear Rapids">Bear Rapid</name>," nearly opposite the mouth of <name type="place" key="Custer Creek (York's Dry River)">Custer Creek</name> ("<name type="place" key="Custer Creek (York's Dry River)">Yorks dry River</name>" on <hi rend="italic">Atlas</hi> map 121).</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-07-29" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-07-31" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

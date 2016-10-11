@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1803-12-19-20">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">December 19-20, 1803</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">138</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1803-12-19-20.01">
+            <placeName/>
+            <geo> </geo>
+            <note>No location. A rough draft for a letter in response to a request from Andrew MacFarlane.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh" n="category">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2003-12-22</date>
+            <date/>
+            <name>Laura Weakly</name>
+            <name/>Initial creation Transcribed</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date notBefore="1803-12-19" notAfter="1803-12-20">December 19-20, 1803</date>
+         </head>
+         <div type="entry"
+              xml:id="lc.jrn.1803-12-19-20.01"
+              n="lc.geo.1803-12-19-20.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>[<hi rend="italic">undated</hi>]<ref target="n031219-2001" n="1"/>
+                  </date>
+               </ab>
+               <p>
+                  <hi rend="italic">
+                     <name type="person" key="Cenas, Blaze">Blaize Cenas</name>.</hi>    <name type="person" key="Baker, H.">H. Baker</name>    95—[12th ?]    <name type="person" key="Wharton">Mr Wharton</name>, <name type="person" key="Lawler">Lawler</name>.</p>
+               <p>
+                  <name type="person" key="McFarlane, Andrew">[Mr] Andrew McFarlane</name> [hav]ing informed me that he was about to make application to the general government 〈for〉 to be remunerated for certain losses he sustained on his farm by the troops which were 〈stationed〉 cantoned on it under the comd of <name type="person" key="Morgan, Daniel">Genl Mor[gan]</name> during the fall and winter 1794 and spring 1795 and being myself present during the whole of that period—    I am induced to give the following statment 〈of facts which fell within the perview of my own observation〉 to be used by him as he may think most expedient<ref target="n031219-2002" n="2"/>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n031219-2001" n="1">Undated material in <name type="person" key="Lewis, Meriwether">Lewis's</name> hand at a right angle to the material directly above, placed here by location.</note>
+            <note xml:id="n031219-2002" n="2">Apparently a rough draft for a letter in response to <name type="person" key="McFarlane, Andrew">MacFarlane's</name> request. <name type="person" key="Lewis, Meriwether">Lewis</name> served with the army under <name type="person" key="Morgan, Daniel">General Daniel Morgan</name> that was engaged in putting down the Whiskey Rebellion of 1794 in western <name type="place" key="Pennsylvania">Pennsylvania</name>. This letter was presumably to help <name type="person" key="McFarlane, Andrew">MacFarlane</name> recover his losses from the government. Baldwin (WR).</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1803-12-19" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-12-20" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

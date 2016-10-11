@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-01-28">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+January 28, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 6</title>
+               <title level="m" type="sub">November 2, 1805–March 22, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1990</date>
+               <biblScope type="pages">242-244</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">269</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">190</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">416</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-08-16</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-01-28">January 28, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-01-28.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday</hi> [<hi rend="italic">NB: Tuesday</hi>]
+<hi rend="italic">January 28th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+                  <name type="person" key="Drouillard, George">Drewyer</name> and <name type="person" key="Lepage, Jean Baptiste">Baptiest La Page</name> set out this morning on a hunting excurtion.    about noon <name type="person" key="Howard, Thomas P.">Howard</name> and <name type="person" key="Werner, William">Werner</name> returned with a supply of salt; the badness of the weather and the difficulty of the road had caused their delay.    they inform us that the salt makers are still much straitened for provision, having killed two deer only in the last six days; and that there are no Elk in their neighourhood. The party<ref target="n28012801" n="1"/> that were sent this morning up <name type="place" key="Lewis and Clark (Fort, Netul) River">Netul<ref target="n28012802" n="2"/> river</name> for the Elk returned in the even ing with three of them only; the Elk had been killed just before the snow fell which had covered them and so altered the apparent face of the country that the hunters could not find the Elk which they had killed.    the river on which <name type="place" key="Fort Clatsop (Oreg.)">Fort Clatsop</name> stands we now call <name type="place" key="Lewis and Clark (Fort, Netul) River">Ne-tul</name>, this being the name by which the <name type="native_nation" key="Clatsop Indians">Clatsops</name> call it.</p>
+               <p>
+The Cranbury of this neighbourhood is precisely the same common to the U' States, and is the production of marshey or boggy grounds. The light brown berry,<ref target="n28012803" n="3"/> is the fruit of a tree about the size shape and appearance in every rispect with that in the U. States called the wild crab apple; the leaf is also precisely the same as is also the bark in texture and colour. the berrys grow in clumps at the end of the small branches; each berry supported by a seperate stem, and as many as from 3 to 18 or 20 in a clump.    the berry is ovate with one of it's extremities attatched to the peduncle, where it is in a small degre concave like the insertion of the stem of the crab apple. I know not whether this fruit can properly be denominated a berry, it is a pulpy pericarp, the outer coat of which is in a thin smoth, tho' firm tough pillecle; the pericarp containing a membranous capsule with from three to four cells, each containing a seperate single seed in form and colour like that of the wild crab. The wood of this tree is excessively hard when seasoned.    the natives make great uce of it to form their wedges with which they split their boards of pine for the purpose of building houses.    these wedges they also employ in spliting their fire-wood and in hollowing out their canoes. I have seen the natives drive the wedges of this wood into solid dry pine which it cleft without fracturing or injuring the wedge in the smallest degree.    we have also found this wood usefull to us for ax handles as well as glutts<ref target="n28012804" n="4"/> or wedges. the native also have wedges made of the beams of the Elk's horns which appear to answer extremely well.    this fruit is exceedingly assid, and resembles the flavor of the wild crab.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-28.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Thursday</hi> [<hi rend="italic">EC: Tue</hi>] <hi rend="italic">28th January 1806</hi>
+                  </date>
+               </ab>
+               <p>
+                  <name type="person" key="Drouillard, George">Drewyer</name> and <name type="person" key="Lepage, Jean Baptiste">Baptiest Lapage</name> Set out this morning on a hunting excurtion.    about noon <name type="person" key="Howard, Thomas P.">Howard</name> &amp; <name type="person" key="Werner, William">Werner</name> returned with a Supply of Salt; the badness of the weather and the dificuelty of the road had detained them.    they informed us that the Salt makers are Still much Stragened for provisions 〈that〉 haveing killed two deer only in the last Six days; and that there are no Elk in their neighbourhood.</p>
+               <p>
+The party that was Sent up the <name type="place" key="Lewis and Clark (Fort, Netul) River">Netul river</name> for the Elk returned this evening with three of them only; The Elk had been killed just before the Snow fell which had Covered them and So altered the apparant face of the Countrey that the hunters Could not find them. The River on which <name type="place" key="Fort Clatsop (Oreg.)">Fort <hi rend="italic">Clat Sop</hi>
+                  </name> Stands we now call <name type="place" key="Lewis and Clark (Fort, Netul) River">Netul</name>, this being the name by which the <name type="native_nation" key="Clatsop Indians">Clatsops</name> Call it.</p>
+               <p>
+The Cranberry of this neighbourhood is precisely the Same Common to the united States, and is the production of boggy or mashey grounds.—.<ref target="n28012805" n="5"/>
+               </p>
+               <p>
+The <hi rend="italic">light-brown berry,</hi> is the fruit of a tree, about the Size Shape and appearance in every respect with that in the united States called the <hi rend="italic">wild Crab apple;</hi> the leaf is also presisely the Same as is also the bark in textue and colour.    the berry grows in Clumps at the ends of the Smaller branches; each berry Supported by a Stem, and as maney as from 3 to 18 or 20 in a Clump.    the berry is oval with one of its extremitis attatched to the peduncle, where it is in a Small degree Concave like the insersion of the Stem of the Crab apple. I know not whether this fruit Can properly be denomonated a berry, it is a pulpy pericarp, the outer coat of which is a thin Smothe, capsule with from three to four Cells, each containing a Seperate Single Seed in form and Colour like that of the wild Crap apple    The wood of this tree is excessively hard when Seasoned. The nativs make great use of it to form their wedges of which they Split their boards of Pine for the purpose of building houses.    those wedges they employ in common with those formed of the Elks horn, in Splitting their fire wood and in hollowing out their Canoes. I have Seen the nativs drive the wedges of this wood into a solid dry pine which it cleft without fractureing injuring the wedge in the Smallest degree.    we have also found this wood usefull to us for ax handles, as well as glutt or wedges. The bark of this tree is chewed by our party in place of tobacco.</p>
+               <p>
+The fruit is exceedingly ascid and resembles the flavor of the wild Crab.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-28.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday 28th Jany. 1806.    a clear cold morning, and freezeing hard.    14 of the party<ref target="n28012806" n="6"/> Set out eairly to go after the meat.    the hunters could not find but 3 Elk in the thickets So we took them and returnd to the fort.    2 men<ref target="n28012807" n="7"/> came from the <name type="place" key="Saltmaking Camp (Oreg.)">Salt Camps</name>    had killed a large otter—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-28.04" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 28th.</hi>    A clear cold morning, and the weather continued cold all day. About half of our men<ref target="n28012808" n="8"/> were employed in bringing home meat; and it was found a very cold uncomfortable business. The two men<ref target="n28012809" n="9"/> who lately went to the <name type="place" key="Saltmaking Camp (Oreg.)">salt works</name> returned with a small supply.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-28.05" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday Janry 28th    A Clear cold morning, &amp; freezing weather.    I was sent with 13 Men<ref target="n28012810" n="10"/> of our party in Order to go after the Meat of the Elk killed Yesterday.    We set out from the fort early, and arrived where they had left those Elk.    The hunters that had killed these Elk were with me.    We could find only three of them, the Snow having covered them.    We returned with the Meat of these 3 Elks in the Evening to the fort.    The 2 Men<ref target="n28012811" n="11"/> that had went, to where the Men were making Salt, &amp; had been gone for several days, returned also to the fort &amp; brought some Salt with them.    I got during this day my feet severely frost bit.—
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n28012801" n="1">According to <name type="person" key="Ordway, John">Ordway</name>, <name type="person" key="Shannon, George">Shannon</name> was one of the hunters and presumably went with the party to locate the animals.</note>
+            <note xml:id="n28012802" n="2">This word was added in place of an erased word.</note>
+            <note xml:id="n28012803" n="3">Oregon crabapple, first noted on <ref n="1805-11-04" type="related">November 4, 1805</ref>.</note>
+            <note xml:id="n28012804" n="4">A glut is a block of metal or wood used as a wedge.</note>
+            <note xml:id="n28012805" n="5">A red vertical line runs through this paragraph and the first few lines of the next, perhaps penned by Biddle.</note>
+            <note xml:id="n28012806" n="6">Including <name type="person" key="Whitehouse, Joseph">Whitehouse</name>, according to his own journal.</note>
+            <note xml:id="n28012807" n="7">
+               <name type="person" key="Howard, Thomas P.">Howard</name> and <name type="person" key="Werner, William">Werner</name>, report <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>.</note>
+            <note xml:id="n28012808" n="8">Fourteen persons, including <name type="person" key="Whitehouse, Joseph">Whitehouse</name> and apparently <name type="person" key="Ordway, John">Ordway</name>.</note>
+            <note xml:id="n28012809" n="9">Howard and <name type="person" key="Werner, William">Werner</name>, who left on <ref n="1806-01-23" type="related">January 23</ref>.</note>
+            <note xml:id="n28012810" n="10">Apparently <name type="person" key="Ordway, John">Ordway</name> was also along.</note>
+            <note xml:id="n28012811" n="11">
+               <name type="person" key="Howard, Thomas P.">Howard</name> and <name type="person" key="Werner, William">Werner</name>, who left on <ref n="1806-01-23" type="related">January 23</ref>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-01-27" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-01-29" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

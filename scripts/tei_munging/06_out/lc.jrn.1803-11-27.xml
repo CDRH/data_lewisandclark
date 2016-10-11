@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1803-11-27">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">November 27, 1803</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">116-117</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1803-11-27.01">
+            <placeName/>
+            <geo>37.898 -89.838</geo>
+            <note>Present day Horse Island, Perry County, MO</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2003-12-16</date>
+            <date/>
+            <name>Laura Weakly</name>
+            <name/>Initial creation Transcribed</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1803-11-27">November 27, 1803</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1803-11-27.01" n="lc.geo.1803-11-27.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Novr. 27th</hi>
+                  </date>
+               </ab>
+               <p>
+Set out this morning before sunrise—    (1) ¾ of a mile to the mouth of this river<ref target="n02112701" n="1"/>    it is about 18 yards wide at it's mouth and affords but little water at this moment, tho' I am informed that there is a handsome settlement on it &amp; that in high water it navigable many miles, it heads with the waters of <name type="place" key="Salt River">the Saline</name> of <name type="place" key="Mississippi River">Mississippi</name> &amp; the <name type="place" key="Saint Francis (Tanslagrass) River">St. Francis rivers</name>—</p>
+               <p>	(2) This is a bold point of rocks forming the extremity of a range of hills which have continued on our Lard quarter for a considerable distance    the <name type="place" key="Cinque Hommes Creek">Creek</name> of the same name<ref target="n02112702" n="2"/> which puts in just above it is 20 miles in length and has a considerable number of inhabitants on it, and as many as three gristmills.—</p>
+               <p>	(3) at the lower point of this Ild.<ref target="n02112703" n="3"/> I came too and took Meridian Altitudes of <seg n="u9737">☉</seg>'s L. L.; found it 62° 54' 30"    Error of Sextant 8' 45"—</p>
+               <p>
+                  <table rows="11" cols="4">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Course					
+</cell>
+                        <cell role="data" rows="1" cols="1">Time</cell>
+                        <cell role="data" rows="1" cols="1">dist.</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 70 W.</cell>
+                        <cell role="data" rows="1" cols="1">  1—</cell>
+                        <cell role="data" rows="1" cols="1">  —¾</cell>
+                        <cell role="data" rows="1" cols="1">To <name type="place" key="Omete Creek">river Ameat</name> Lard. qtr (1)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">"    "    "</cell>
+                        <cell role="data" rows="1" cols="1">  1—</cell>
+                        <cell role="data" rows="1" cols="1">  —¾</cell>
+                        <cell role="data" rows="1" cols="1">To <name type="place" key="Cape Cinque Hommes, Mo.">Cape St. Comes</name> Lard. (2)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 21 E.</cell>
+                        <cell role="data" rows="1" cols="1">  —10</cell>
+                        <cell role="data" rows="1" cols="1">  —¼</cell>
+                        <cell role="data" rows="1" cols="1">To mouth of creek Lard. of the same name—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">"    "    "</cell>
+                        <cell role="data" rows="1" cols="1">  1 15</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">To large Isld. Lard</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 50 W.</cell>
+                        <cell role="data" rows="1" cols="1">  2 20</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">To Isld. Lard. (3)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">"    "    "</cell>
+                        <cell role="data" rows="1" cols="1">  2—</cell>
+                        <cell role="data" rows="1" cols="1">  3—</cell>
+                        <cell role="data" rows="1" cols="1">wind served us here—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 44 W.</cell>
+                        <cell role="data" rows="1" cols="1">  —10</cell>
+                        <cell role="data" rows="1" cols="1">  —¼</cell>
+                        <cell role="data" rows="1" cols="1">Isld. Stard qtr.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">"    "    "</cell>
+                        <cell role="data" rows="1" cols="1">  1 40</cell>
+                        <cell role="data" rows="1" cols="1">  3—</cell>
+                        <cell role="data" rows="1" cols="1">To upper pt. of parrarie Lard.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 50 W.</cell>
+                        <cell role="data" rows="1" cols="1">  <hi rend="underline">—45</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">  <hi rend="underline">1 ¼</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">Come too for the night at Lower pt. of Isld.<lb/> Lard. qutr<ref target="n02112704" n="4"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">10 20</cell>
+                        <cell role="data" rows="1" cols="1">13</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n02112701" n="1">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> "<name type="place" key="Omete Creek">river Ameat</name>" (see course and distance table of this entry); presumably it is <name type="place" key="Omete Creek">Omete Creek</name> (also "amite"), but that stream enters <name type="place" key="Cinque Hommes Creek">Cinque Hommes Creek</name> just before the latter falls into the <name type="place" key="Mississippi River">Mississippi</name>. Perhaps <name type="person" key="Lewis, Meriwether">Lewis</name> refers to <name type="place" key="Brazeau Creek">Brazeau Creek</name>.</note>
+            <note xml:id="n02112702" n="2">See above, <ref n="1803-11-26" type="related">November 26</ref>, n. 2. <name type="place" key="Cinque Hommes Creek">Cinque Hommes Creek</name> is just above the cape.</note>
+            <note xml:id="n02112703" n="3">Shown as <name type="place" key="Island a la Merde">"I. a la Merde"</name> on Collot's 1796 map of the <name type="place" key="Mississippi River">Mississippi</name>. Collot's map, Tucker, 522–23.</note>
+            <note xml:id="n02112704" n="4">Probably <name type="place" key="Horse Island">Horse Island</name>, in <name type="place" key="Perry County, Mo.">Perry County</name>, <name type="place" key="Missouri">Missouri</name>, opposite present <name type="place" key="Chester, Mo.">Chester</name>, <name type="place" key="Randolph County, Mo.">Randolph County</name>, <name type="place" key="Illinois">Illinois</name>; the state line crosses the river in various places in this area.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1803-11-26" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-11-28" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

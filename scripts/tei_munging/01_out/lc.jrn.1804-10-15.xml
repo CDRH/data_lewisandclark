@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-10-15">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+October 15, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">173-175</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">84-85</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">55-56</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">100-101</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-10-15.01">
+            <placeName/>
+            <geo>46.0739 -100.5916</geo>
+            <note>Near Fort Yates, ND, on the opposite shore and a little south. In Emmons County, ND</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-03-19</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-10-15">October 15, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-10-15.01" n="lc.geo.1804-10-15.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">15th of October</hi>    Rained all last night, passed a <name type="native_nation" key="Arikara Indians">Ricara</name> hunting camp on the S. S. &amp; halted at another on the L. S, Several from the 1t Camp visited us and gave meat as also those of the Camp we halted at, we gave them fish hooks Some beeds &amp;c.    as we proceeded on we Saw a number of indians on both Sides all day, Saw L. S some Curious Nnobs high and much the resemblance of a hiped [hipped] rough [roof] house, we halted at a Camp of 10 Lodges of <name type="native_nation" key="Arikara Indians">Ricaras</name> on the S. S.,<ref target="n07101501" n="1"/> we visited thier Lodges &amp; were friendly recved by all—    their women fond of our men—    &amp;c.</p>
+               <p>
+                  <table rows="3" cols="3">
+                     <head>Course Distance</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                        <cell role="data" rows="1" cols="1">m to a Creek on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">m. to a wood point on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 34° W.</cell>
+                        <cell role="data" rows="1" cols="1">3 ½</cell>
+                        <cell role="data" rows="1" cols="1">m. to a pt S. S.    〈passed an Old <name type="native_nation" key="Cheyenne Indians">Chyenne</name> Village on the<lb/>
+L. S. below a Creek on〉 the L. S.<ref target="n07101502" n="2"/>    a Camp of <name type="native_nation" key="Arikara Indians">Ricaras</name> on<lb/>
+the S. S.</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-15.02" n="lc.geo.1804-10-15.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>15th of <hi rend="italic">October Monday</hi> 1804</date>
+               </ab>
+               <p>		
+rained all last night, we Set out early and proceeded on    at 3 Miles passed an Ind. Camp [<hi rend="italic">NB: of hunters <name type="native_nation" key="Arikara Indians">Ricaras</name>
+                  </hi>] on the S. S.    we halted above and about 30 of the Indians came over in their Canoos of Skins, we eate with them, they give us meat, in return we gave fishhooks &amp; Some beeds, about a mile higher we came too on the L. S. at a Camp of <hi rend="italic">
+                     <name type="native_nation" key="Arikara Indians">Ricres</name>
+                  </hi> [<hi rend="italic">NB: <name type="native_nation" key="Arikara Indians">ricaras</name>
+                  </hi>] of about 8 Lodges, we also eate &amp; they gave Some meat, 〈here we found the relation of〉    we proceded on    Saw numbers of Indians on both Sides passing a Creek,<ref target="n07101503" n="3"/> Saw many Curious hills, high and much the resemblance of a house [<hi rend="italic">NB: like ours</hi>] with a hiped roof, at 12 oClock it Cleared away and the evening was pleasent, wind from the N. E.—    at Sunset we arrived at a Camp of <name type="native_nation" key="Arikara Indians">Ricares</name> of 10 Lodges on the S. S.    we Came too and Camped near them    〈I〉 <name type="person" key="Lewis, Meriwether">Capt Lewis</name> &amp; my Self went with the Chief who accompanis us, to the Huts of Several of the men all of whome Smoked &amp; gave us Something to eate also Some meat to take away, those people were kind and appeared to be much plsd. at the attentioned paid them.</p>
+               <p>
+Those people are much pleased with <name type="person" key="York">my black Servent</name>—    Their womin verry fond of carressing our men. &amp;.</p>
+               <p>
+                  <hi rend="right">
+                     <hi rend="italic">15th Octr</hi>
+                  </hi>
+               </p>
+               <p>
+                  <table rows="4" cols="3">
+                     <head>
+                        <hi rend="italic">Course Distance &amp; Reffurencs</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Creek on the L. S. passing over a Sand bar make-<lb/>
+ing from the S. pt.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">  4</cell>
+                        <cell role="data" rows="1" cols="1">miles to a point of wood on the L. S.    passing over a Sand<lb/>
+point on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 34° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a point of wood on the S. S.    passing old Village<lb/>
+of the <hi rend="italic">Shár há</hi> or <name type="native_nation" key="Cheyenne Indians">Chien</name> Indians on the L. S below a Creek<lb/>
+on the Same Side.<ref target="n07101504" n="4"/>    passed a Camp of <name type="native_nation" key="Arikara Indians">Ricares</name> on S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">10</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-15.03" n="lc.geo.1804-10-15.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 15th Oct</hi>. Some rain last night. Cloudy morning    we Set off eairly.    passd. a Timbred bottom where we Saw Some Indians.    at 7 oC. we met a hunting party of the <name type="native_nation" key="Arikara Indians">Rickarees</name> comming down the river returning to their village, they had 12 Cannoes made of Bufflow hides loaded with excelent fat meat.    we halted with them about 2 hours.    they Gave us Some of their fat
+meat to carry with us &amp; Gave us Some that they cooked to eat.    we Smoaked with them.    their party consisted of men women &amp; children.    our officers Gave them in return Some fish hooks Beeds &amp;.C.    we proceeded on    passed Barron hills on the South Side of the River.    at 10 oC. we passed another hunting party who were Encamped in a timbred bottom on S. S.    passed a handsome Bottom prarie &amp; the Mouth of a creek where their was an old village Some years ago of the <name type="native_nation" key="Cheyenne Indians">Chien</name> Nation<ref target="n07101505" n="5"/> on S. S.    we proceeded on.    passed timbred bottoms on each Side of the River we Saw a nomber of Indians on the Shore on N. S.    passd. a creek on S. S.<ref target="n07101506" n="6"/>    at Sunset we Camped on N. S. at a hunting Camp of the <name type="native_nation" key="Arikara Indians">R. Ree</name> nation.    their was abt.30 men &amp; a nomber of women &amp; children at this Camp.    they treated us in the Same manner as the rest of their nation did.    the Greatest Curiousity to them was <name type="person" key="York">York</name>
+                  <name type="person" key="Clark, William">Capt. Clarks</name> Black Man.    all the nation made a Great deal of him.    the children would follow after him, &amp; if he turned towards them they would run from him &amp; hollow as if they were terreyfied, &amp; afraid of him.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-15.04" n="lc.geo.1804-10-15.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 15th.</hi>    It rained all last night, and we set out early in a cloudy morning. At 7 we saw a hunting party of the <name type="native_nation" key="Arikara Indians">Rickarees</name>, on their way down to the villages. They had 12 buffaloe-skin canoes or boats laden with meat and skins; besides some horses that were going down the bank by land. They gave us a part of their meat. The party consisted of men, women and children. At 8 we went on again; passed a fine bottom covered with cotton wood on the north side, and naked hills on the south. About 10, we saw another party of hunters, who asked us to eat and gave us some meat. One of these requested to speak with our young squaw,<ref target="n07101507" n="7"/> who for some time hid herself, but at last came out and spoke with him. She then went on shore and talked with him, and gave him a pair of ear-rings and drops for leave to come with us; and when the horn blew for all hands to come on board, she left them and came to the boat. We passed a creek on the south side, and encamped at dusk on the north; where there was a party of Indians about 30 in number. Our squaw remained with this party: they gave us some meat and appeared very glad to see us.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-15.05" n="lc.geo.1804-10-15.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 15th</hi> Oct. <hi rend="italic">1804</hi>.<ref target="n07101508" n="8"/>    rained all last night.    we Set off eairly.</p>
+               <p>
+Monday October 15th<ref target="n07101509" n="9"/>    We set off early this morning, it having rained the whole of last night; and proceeded on, and passed along about two Miles, where we met a party of the <name type="native_nation" key="Arikara Indians">Rick a Ree</name> Indians returning to their Villages, We put to the Shore, and they gave us some deer &amp; buffalo Meat, We proceeded on, and passed a Creek lying on the South side of the River, where there was a Camp of <name type="native_nation" key="Arikara Indians">Rick a Ree</name> Indians.—</p>
+               <p>
+This is the last Camp of <name type="native_nation" key="Arikara Indians">Rick a Ree</name> Indians we expect to see, they were a hunting party—    There was in this Camp, about 30 Indians; as we put too to them, they behaved very friendly, they gave us plenty of Meat &amp; we encamp'd near them this Night.—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n07101501" n="1">The party's camp was above the last <name type="native_nation" key="Arikara Indians">Arikara</name> camp in <name type="place" key="Emmons County, N. Dak.">Emmons County</name>, <name type="place" key="North Dakota">North Dakota</name>, below present <name type="place" key="Fort Yates (N. Dak.)">Fort Yates</name>, on the opposite shore. The three <name type="native_nation" key="Arikara Indians">Arikara</name> camps are shown on <hi rend="italic">Atlas</hi> map 26. The site is now inundated by <name type="place" key="Oahe Reservoir">Oahe Reservoir</name>. MRC map 47.</note>
+            <note xml:id="n07101502" n="2">The passage about the <name type="native_nation" key="Cheyenne Indians">Cheyenne</name> village also appears in the Codex C courses and distances for October 15, but there it does not appear to be crossed out. Entries for <ref n="1804-10-16" type="related">October 16</ref>, below, clearly indicate that they passed the village on that date. <hi rend="italic">Atlas</hi> map 26 shows the village site almost exactly opposite the October 15 camp, and this may explain why <name type="person" key="Clark, William">Clark</name> had some confusion about which day he should give as the one when they "passed" the spot.</note>
+            <note xml:id="n07101503" n="3">Later <name type="place" key="Four Mile Creek">Four Mile Creek</name>, nameless on <hi rend="italic">Atlas</hi> map 26, in <name type="place" key="Sioux County, N. Dak.">Sioux County</name>, <name type="place" key="North Dakota">North Dakota</name>. MRC map 47.</note>
+            <note xml:id="n07101504" n="4">
+               <name type="place" key="Porcupine (Sharhá, So-harch, Girl) Creek (S. Dak.)">Sharhá Creek</name> on <hi rend="italic">Atlas</hi> map 26. This is a very difficult stretch of the river to locate with any precision. It has been identified as modern <name type="place" key="Porcupine (Sharhá, So-harch, Girl) Creek (S. Dak.)">Porcupine Creek</name> by some authorities but could just as easily be <name type="place" key="Long Soldier (Shará) Creek">Long Soldier Creek</name> (now <name type="place" key="Long Soldier (Shará) Creek">Onemile Creek</name>), both in <name type="place" key="Sioux County, N. Dak.">Sioux County</name>. Wood (BS), 63–64; MRC map 47; MRY map 122.</note>
+            <note xml:id="n07101505" n="5">Meaning the <name type="native_nation" key="Cheyenne Indians">Cheyenne Indians</name>, which <name type="person" key="Ordway, John">Ordway</name> gave as "<name type="native_nation" key="Cheyenne Indians">Shian</name>" in his next entry. See <name type="person" key="Clark, William">Clark's</name> entries for this day and the <ref n="1804-10-15" type="related">next</ref>.</note>
+            <note xml:id="n07101506" n="6">Perhaps <name type="person" key="Clark, William">Clark's</name>
+               <name type="place" key="Porcupine (Sharhá, So-harch, Girl) Creek (S. Dak.)">Sharhá Creek</name>, either <name type="place" key="Long Soldier (Shará) Creek">Long Soldier</name> or <name type="place" key="Porcupine (Sharhá, So-harch, Girl) Creek (S. Dak.)">Porcupine Creek</name>, <name type="place" key="Sioux County, N. Dak.">Sioux County</name>.</note>
+            <note xml:id="n07101507" n="7">
+               <name type="person" key="Clark, William">Clark</name> says nothing about this young woman on this day, although he notes, "their women fond of our men— &amp;c." <name type="person" key="Ordway, John">Ordway</name> is also silent on the matter. She may be one of the "2 Handsom squars" who followed the party and "persisted in their Civilities" on <ref n="1804-10-12" type="related">October 12</ref>, when <name type="person" key="Gass, Patrick">Gass</name> notes their spending the night. See <name type="person" key="Clark, William">Clark's</name> entry and note for <ref n="1804-10-12" type="related">October 12</ref>.</note>
+            <note xml:id="n07101508" n="8">Following this entry in the original version there is a gap in the writing until November 1 where a new writer begins, the person designated No. 2. There are no missing pages; in fact, this entry ends on one side of a sheet and the entry of November 1 begins on the back of the same sheet.</note>
+            <note xml:id="n07101509" n="9">Above this entry in the fair copy is a pointing hand; its significance is unknown.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-10-14" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-10-16" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

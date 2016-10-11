@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-07-04">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+July 4, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">87-90, 163-164</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">330-331</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">248-249</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-07-04.01">
+            <placeName/>
+            <geo>45.45 -114.3333</geo>
+            <note>Clark went off and camped on the north side of the West Fork Bitterroot River, near its junction with the Bitterroot, Ravalli County, MT.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-11-08</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-07-04">July 4, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-07-04.01" n="lc.geo.1806-07-04.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">July 4th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+An Indian arrived alone from the West side of the mountains.<ref target="n37070401" n="1"/>    〈it〉 he had pursued and overtook us here.    sent out the hunters early to kill some meat to give the indians as they would not go with us further and I was unwilling after they service they had rendered to send them away without a good store of provision.    they are going down <name type="place"
+                        key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark's River</name> in surch of the <name type="native_nation" key="Flathead Indians">Shalees</name> their 〈relations〉 friends, and from thence intend returning by this rout home again, they fleesed their meat informed us that they should dry it and leave it for their homeward journey.—    Set out at 12.    had killed no deer.</p>
+               <p>
+                  <table rows="6" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 75 E</cell>
+                        <cell role="data" rows="1" cols="1">  5</cell>
+                        <cell role="data" rows="1" cols="1">M.    passed a large creek 15 yds at four miles<ref target="n37070402" n="2"/> and en-<lb/>
+tered the mountain    passed this creek at one mile on which<lb/>
+we were encamped.    open plain    〈narrow〉 wide bottom to<lb/>
+the river</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 75 E.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">M. along the north side of the river    bottom widens a prai-<lb/>
+rie    〈passed a small rapids〉</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 45 E</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">m. passing a small branch at the extremity of this cors<ref target="n37070403" n="3"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45 E</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">M. to the forks of the <name type="place" key="Blackfoot (East Fork Clark's) River">east branch of Clark's River</name>
+                           <ref target="n37070404" n="4"/>    a hand-<lb/>
+som wide plain below on the S. side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S East</cell>
+                        <cell role="data" rows="1" cols="1">  8</cell>
+                        <cell role="data" rows="1" cols="1">M. up the <name type="place"
+                                 key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">buffaloe road river or Co-kâh-lah-,'ishkit river</name>
+                           <ref target="n37070405" n="5"/>
+                           <lb/>
+through a timbered country, mountains high rocky and but<lb/>
+little bottoms.    land poor—    encamped<ref target="n37070406" n="6"/> in a handsom high<lb/>
+timbered bottom near the river where there was fine grass<lb/>
+killed grown squirrel of speceis different from any I had seen</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Ms.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">18</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-07-04.02" n="lc.geo.1806-07-04.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Friday July 4th 1806.</hi>
+                  </date>
+               </ab>
+               <p>	   	
+I arrose early this morning and sent out <name type="person" key="Drouillard, George">Drewyer</name> and the <name type="person" key="Field, Joseph and Reubin">Fieldses</name> to hunt.    at 6. A. M. a man of the <name type="native_nation" key="Palouse Indians">Pallote pellows [<hi rend="italic">NB?: Pelloat pallahs</hi>]</name>
+                  <ref target="n37070407" n="7"/> arrived from the West side of the <name type="place" key="Rocky Mountains">Rocky mountains</name>; he had pursued us a few days after our departure and overtook us at this place; he proved to be the same young man who had first attempted to pass the <name type="place" key="Rocky Mountains">rocky mountains</name> early in June last when we lay on the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name> and was obliged to relinquish the enterprize in consequence of the debth and softness of the snow. I gave a shirt a handkercheif and a small quantity of ammunition to the indians.    at half after eleven the hunters returned from the chase unsuccessfull. I now ordered the horses saddled smoked a pipe with these friendly people and at noon bid them adieu.    they had cut the meat which I gave them last evening thin and exposed it in the sun to dry informing me that they should leave it in this neighbourhood untill they returned as a store for their homeward journey.    it is worthy of remark that these people were about to return  by the same pass by which they had conducted us through the difficult part of the <name type="place" key="Rocky Mountains">Rocky Mountains</name>, altho they were about to decend <name type="place"
+                        key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark's river</name> several days journey in surch of the <name type="native_nation" key="Flathead Indians">Shale's</name> their relations,<ref target="n37070408" n="8"/> a circumstance which to my mind furnishes sufficient evidence that there is not so near or so good a rout to the <name type="place" key="Great Columbian Plain">plains of Columbia</name> by land along that river as that which we came.    the several war routs of the <name type="native_nation" key="Blackfeet Indians">Minetarees</name> which fall into this vally of <name type="place"
+                        key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark's river</name> concenter at <name type="place" key="Lolo (Travelers' Rest) Creek (Mont.)">traveller's rest</name> beyond which point they have never yet dared to venture in pursuit of the nations beyond the mountains.    all the nations also on the west side of the mountain with whom we are acquainted inhabiting the waters of <name type="place"
+                        key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Lewis's river</name> &amp; who visit the plains of the <name type="place" key="Missouri River">Missouri</name> pass by this rout.    these affectionate people our guides betrayed every emmotion of unfeigned regret at seperating from us; they said that they were confidint that the <name type="native_nation" key="Blackfeet Indians">Pahkees</name>,<ref target="n37070409" n="9"/> (the appellation they give the <name type="native_nation" key="Blackfeet Indians">Minnetares</name>) would cut us off.    the first 5 miles of our rout was through a part of the extensive plain in which we were encamped, we then entered the mountains with the <name type="place"
+                        key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">East fork of Clark's river</name> through a narrow confined pass on it's N. side continuing up that river five ms. further to the entrance of the <name type="place" key="Blackfoot (East Fork Clark's) River">Cokahlahishkit R</name> which falls in on the N. E. side, is 60 yds. wide deep and rapid.    the banks bold not very high but never overflow.    the East fork below its junction with this stream is 100 yds. wide and above it about 90.    the water of boath are terbid but the East branch much the most so; their beds are composed of sand and gravel; the East fork possesses a large portion of the former.    neither of those streams are navigable in consequence of the rapids and shoals which obstruct their currents.    thus far a plain or untimbered country bordered the river which near the junction of these streams spread into a handsome level plain of no great extent; the hills were covered with long leafed pine and fir. I now continued my rout up the N. side of the <name type="place" key="Blackfoot (East Fork Clark's) River">Cokahlahishkit river</name> through a timbered country for 8 miles and encamped in a handsom bottom on the river where there was an abundance of excelence grass for our horses.    the evening was fine, air pleasent and no musquetoes.    a few miles before we encamped I killed a squirrel of the speceis common to the <name type="place" key="Rocky Mountains">Rocky Mountains</name> and a ground squirrel of a speceis which I had never before seen,<ref target="n37070410" n="10"/> I preserved the skins of both of these animals.</p>
+               <p>
+                  <table rows="5" cols="3">
+                     <head>
+                        <hi rend="italic">Courses and distances July 4th 1806.</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 75° E.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">M. a long the N. side of the river, at 2 Ms. the bottom widens<lb/>
+into a handsome prarie.    river 110 yds. wide.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45 E.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">M. through a high plain, passed a small branch at the ex-<lb/>
+tremity of this course.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45 E.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">M. through a low leavel prarie to the entrance of the <name type="place" key="Blackfoot (East Fork Clark's) River">Cokahlah-<lb/>
+ishkit river</name> falling in on the N. side 60 yds. wide deep and<lb/>
+rapid not navigable in consequence of the obstruction of<lb/>
+rocks rapids &amp;c.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">  8</cell>
+                        <cell role="data" rows="1" cols="1">M. up the north side of the <name type="place" key="Blackfoot (East Fork Clark's) River">Cokahlah-ishkit R.</name> through a tim-<lb/>
+bered country, mountains high and rocky.    river bottoms<lb/>
+narrow and land poor.    encamped at the extremity of this<lb/>
+course on the bank of the river in a handsom timbered<lb/>
+bottom.<ref target="n37070411" n="11"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">ms.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">13</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-07-04.03" n="lc.geo.1806-07-04.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+I order three hunters to Set out early this morning to hunt &amp; kill Some meat and by 7 A. M. we Collected our horses took braekfast and Set out    proceeded on up the Vally on the West Side of <name type="place"
+                        key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clarks river</name> crossing three large deep and rapid Creeks, and two of a Smaller Size to a Small branch in the Spurs of the mountain and dined.<ref target="n37070412" n="12"/>    the last Creek or river which we pass'd was So deep and the water So rapid that Several of the horses were Sweped down Some distance and the Water run over Several others which wet Several articles.    after Crossing this little river, I observed in the road the tracks of two men whome I prosume is of the <name type="native_nation" key="Shoshone Indians">Shoshone</name> nation.    our hunters joined us with 2 deer in tolerable order. on the Side of the Hill near the place we dined Saw a gange of Ibex or big horn Animals I Shot at them running and missed. This being the day of the decleration of Independence of the United States and a Day commonly Scelebrated by my Country I had every disposition to Selebrate this day and therefore halted early and partook of a Sumptious Dinner of a fat Saddle of Venison and Mush of Cows (roots)    after Dinner we proceeded on about one mile to a very large Creek<ref target="n37070413" n="13"/> which we assended Some distance to find a foard to cross    in crossing this creek Several articles got wet, the water was So Strong, alto' the debth was not much above the horses belly, the water passed over the backs and loads of the horses.    those Creeks are emensely rapid has great decnt [<hi rend="italic">NB: descent</hi>]    the bottoms of the Creek as well as the low lands on each Side is thickly covered with large Stone.<ref target="n37070414" n="14"/> after passing this Creek I inclined to the left and fell into the road on which we had passed down last fall near the place we had dined on the 7th of Sept. and continued on the road passing up on the W. Side of <name type="place"
+                        key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clarks river</name> 13 miles to the West fork of Sd. river and Encamped on an arm of the same<ref target="n37070415" n="15"/>    I Sent out 2 men to hunt, and 3 in Serch of a foard to pass the river.    at dark they all returned and reported that they had found a place that the river might be passed but with Some risque of the loads getting wet    I order them to get up their horses and accompany me to those places &amp;c.    our hunters killed 4 deer to day.    we made 30 ms. to day on a course nearly South    Vally from 8 to 10 mes. wide.    contains a good portion of Pitch pine.    we passed three large deep rapid Creeks this after noon<ref target="n37070416" n="16"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-07-04.04" n="lc.geo.1806-07-04.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Friday 4th July 1806.    a fair morning.    2 of our hunters went on eairly a head.    we took an eairly breakfast, and proceed. on through a large plain &amp; groves of pitch pine where the hunters had killed 2 deer    we took the meat and proceed on    crossed Several creeks one so large it Swam Some of our horses.<ref target="n37070417" n="17"/>    about 12 we Saw a large flock of Mountn. Sheep or big horn animels.    they run so near us that Some of the men fired at them. Shortly after we halted at a branch to dine.    dined and proceeded on without finding the road.    as we cannot ford the river yet.    towards evening one of the hunters killed a deer. Soon after we Camped<ref target="n37070418" n="18"/> near the forks of the creek.    one of the hunters killed a fat buck this evening.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-07-04.05" n="lc.geo.1806-07-04.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 4th.</hi>    We had a beautiful morning and waited here for some time, in order to have a morning hunt, as our guides intend to return,<ref target="n37070419" n="19"/> and we wish to give them a plentiful supply of provisions to carry them back over the mountains. While our hunters<ref target="n37070420" n="20"/> went out a young Indian came to our camp, who had crossed the mountains after us. At 10 o'clock our hunters came in, but had not killed any thing. We were, however, able to furnish them with two deer and a half, from those that were killed yesterday. We then gave them some presents, and took a friendly leave of them: and it is but justice to say, that the whole nation to which they belong, are the most friendly, honest and ingenuous people that we have seen in the course of our voyage and travels. After taking our farewell of these good hearted, hospitable and obliging sons of the west, we proceeded on up <name type="place" key="Blackfoot (East Fork Clark's) River">Isquet-co-qual-la</name> through a handsome prairie of about 10 miles, after which the hills come close on the river, on both sides, and we had a rough road to pass.<ref target="n37070421" n="21"/> Having made 18 miles we encamped<ref target="n37070422" n="22"/> for the night; where the country is very mountainous on both sides of the river, which runs nearly east and west, and is a deep rapid stream about 80 yards wide.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n37070401" n="1">A "<name type="native_nation" key="Palouse Indians">Pallote pellow</name>," according to the Codex L entry, next. They may be <name type="native_nation" key="Palouse Indians">Palouse Indians</name>, or more likely <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>. The complicated linguistic matter is discussed at <ref n="1806-06-08" type="related">June 8, 1806</ref>.</note>
+            <note xml:id="n37070402" n="2">
+               <name type="place" key="Rattlesnake Creek (Missoula County, Mont.)">Rattlesnake Creek</name>, <name type="place" key="Missoula County, Mont.">Missoula County</name>, <name type="place" key="Montana">Montana</name>; shown as "15 yds. wide" on fig. 4.</note>
+            <note xml:id="n37070403" n="3">
+               <name type="place" key="Marshall Creek">Marshall Creek</name>, in <name type="place" key="Missoula County, Mont.">Missoula County</name>. They were passing through the northern part of present <name type="place" key="Missoula, Mont.">Missoula</name>, on the north side of the <name type="place"
+                     key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark Fork</name>. The last part of the route was along what later became <name type="place" key="Mullan Road (Missoula, Mont.)">Mullan Road</name> and eventually <name type="place" key="Broadway Street (Missoula, Mont.)">Broadway Street</name> through <name type="place" key="Missoula, Mont.">Missoula</name>.</note>
+            <note xml:id="n37070404" n="4">The junction of <name type="place" key="Blackfoot (East Fork Clark's) River">Blackfoot River</name> and the <name type="place"
+                     key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark Fork</name>, in <name type="place" key="Missoula County, Mont.">Missoula County</name>, east of <name type="place" key="Missoula, Mont.">Missoula</name>.</note>
+            <note xml:id="n37070405" n="5">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> went northeasterly up <name type="place" key="Blackfoot (East Fork Clark's) River">Blackfoot River</name>.</note>
+            <note xml:id="n37070406" n="6">In <name type="place" key="Missoula County, Mont.">Missoula County</name>, by <name type="person" key="Lewis, Meriwether">Lewis's</name> estimate some eight miles up the <name type="place" key="Blackfoot (East Fork Clark's) River">Blackfoot River</name> from its junction with the <name type="place"
+                     key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark Fork</name>, on the north side (see fig. 4).</note>
+            <note xml:id="n37070407" n="7">This appears to be <name type="person" key="Biddle, Nicholas">Biddle's</name> writing, but in dark rather than his customary red ink.</note>
+            <note xml:id="n37070408" n="8">The <name type="native_nation" key="Flathead Indians">Salish ("Shale's")</name>, or <name type="native_nation" key="Flathead Indians">Flatheads</name>, were not linguistically or culturally related to the <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>. However, they were close allies, camped together for extended periods, and undoubtedly intermarried.</note>
+            <note xml:id="n37070409" n="9">The <name type="native_nation" key="Shoshone Indians">Shoshone</name> term probably refers to the tribe's enemies, including <name type="native_nation" key="Blackfeet Indians">Blackfeet</name>, <name type="native_nation" key="Arapaho Indians">Arapahoes</name>, <name type="native_nation" key="Atsina Indians">Atsinas</name>, and <name type="native_nation" key="Assiniboine Indians">Assinniboines</name>. Linguistic determinations are discussed at <ref n="1805-08-13" type="related">August 13, 1805</ref>.</note>
+            <note xml:id="n37070410" n="10">Probably Richardson's red squirrel; see <ref n="1806-02-24" type="related">February 24</ref> and <ref n="1806-02-25" type="related">25</ref>, 1806. The other squirrel can not be identified.</note>
+            <note xml:id="n37070411" n="11">At this point in Codex L (p. 81) is the phrase "a Suplement to Come in here enclosed," apparently in <name type="person" key="Clark, William">Clark's</name> hand. Following are several blank pages (82–98, with two pages unnumbered), into which <name type="person" key="Lewis, Meriwether">Lewis</name> apparently intended to fill the events of July 5–14, 1806, perhaps from the notes in Codex La.</note>
+            <note xml:id="n37070412" n="12">
+               <name type="person" key="Clark, William">Clark</name> is still moving south on the west side of the <name type="place" key="Bitterroot (Clark's, Flathead) River">Bitterroot River</name> in <name type="place" key="Ravalli County, Mont.">Ravalli County</name>, <name type="place" key="Montana">Montana</name>. Among the streams crossed would be <name type="place" key="Blodgett Creek">Blodgett</name>, <name type="place" key="Canyon Creek (Mont.)">Canyon</name>, <name type="place" key="Sawtooth Creek">Sawtooth</name>, <name type="place" key="Roaring Lion Creek">Roaring Lion</name>, and <name type="place" key="Lost Horse Creek">Lost Horse</name> creeks, none of them named on <hi rend="italic">Atlas</hi> map 68. See also <hi rend="italic">Atlas</hi> map 103.</note>
+            <note xml:id="n37070413" n="13">Perhaps <name type="place" key="Rock Creek (Ravalli County, Mont.)">Rock Creek</name>, in <name type="place" key="Ravalli County, Mont.">Ravalli County</name>.</note>
+            <note xml:id="n37070414" n="14">During the Pleistocene, numerous small glaciers advanced eastward into the <name type="place" key="Bitterroot Valley">Bitterroot Valley</name> from the <name type="place" key="Bitterroot (Snow) Mountains">Bitterroot Mountains</name> and left behind extensive deposits of boulder till in the stream valleys they occupied. Subsequent erosion removed much of the finer-grained material, leaving the boulders. The streams also carried large boulders downstream beyond the glaciers during flood flows.</note>
+            <note xml:id="n37070415" n="15">
+               <name type="person" key="Clark, William">Clark</name> camped on the north side of the <name type="place" key="West Fork Bitterroot River (West Fork Clark's River)">West Fork Bitterroot River</name>, near its junction with the <name type="place" key="Bitterroot (Clark's, Flathead) River">Bitterroot</name> in <name type="place" key="Ravalli County, Mont.">Ravalli County</name>. The site is not marked on <hi rend="italic">Atlas</hi> map 68, but it on <hi rend="italic">Atlas</hi> map 103; it is some five miles northwest of the camp of <ref n="1805-09-06" type="related">September 6, 1805</ref>.</note>
+            <note xml:id="n37070416" n="16">Probably including <name type="place" key="Rock Creek (Ravalli County, Mont.)">Rock</name>, <name type="place" key="Tin Cup Creek">Tin Cup</name>, and <name type="place" key="Chaffin Creek">Chaffin creeks</name>, in <name type="place" key="Ravalli County, Mont.">Ravalli County</name>, none of them named on <hi rend="italic">Atlas</hi> maps 68 or 103.</note>
+            <note xml:id="n37070417" n="17">The party continued south on the west side of the <name type="place" key="Bitterroot (Clark's, Flathead) River">Bitterroot River</name> in <name type="place" key="Ravalli County, Mont.">Ravalli County</name>,
+<name type="place" key="Montana">Montana</name>.</note>
+            <note xml:id="n37070418" n="18">On the north side of <name type="place" key="West Fork Bitterroot River (West Fork Clark's River)">West Fork Bitterroot River</name>, near its junction with the <name type="place" key="Bitterroot (Clark's, Flathead) River">Bitterroot</name> in <name type="place" key="Ravalli County, Mont.">Ravalli County</name>.</note>
+            <note xml:id="n37070419" n="19">Their <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> guides were going to visit the <name type="native_nation" key="Flathead Indians">Flatheads</name> and then return home.</note>
+            <note xml:id="n37070420" n="20">
+               <name type="person" key="Drouillard, George">Drouillard</name> and the <name type="person" key="Field, Joseph and Reubin">Field brothers</name>, as <name type="person" key="Lewis, Meriwether">Lewis</name> says.</note>
+            <note xml:id="n37070421" n="21">They went up <name type="place"
+                     key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark Fork River</name> in <name type="place" key="Missoula County, Mont.">Missoula County</name>, <name type="place" key="Montana">Montana</name>, through the northern 
+part of present <name type="place" key="Missoula, Mont.">Missoula</name>, to where the <name type="place" key="Blackfoot (East Fork Clark's) River">Blackfoot River</name> enters the <name type="place"
+                     key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark Fork</name>, then up <name type="place" key="Blackfoot (East Fork Clark's) River">Blackfoot River</name> going northeasterly.</note>
+            <note xml:id="n37070422" n="22">In <name type="place" key="Missoula County, Mont.">Missoula County</name>, on the north side of <name type="place" key="Blackfoot (East Fork Clark's) River">Blackfoot River</name>, some eight miles up from the 
+<name type="place"
+                     key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark Fork</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-07-03" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-07-05" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

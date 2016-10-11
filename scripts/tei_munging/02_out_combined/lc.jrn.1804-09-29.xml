@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-09-29">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+September 29, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">125-128</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">72-73</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">48</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">91-92</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-09-29.01">
+            <placeName/>
+            <geo>44.5697 -100.5093</geo>
+            <note>While this precise location is hard to find, it could have been located on Okobojo Island, near the mouth of Okobojo Creek between Sully and Stanley Counties, SD</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-03-15</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-09-29">September 29, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-09-29.01" n="lc.geo.1804-09-29.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <name type="person" key="Clark, William">Capt. W. Clarks</name> Notes Continued as first taken —<ref target="n07092901" n="1"/>
+                  </date>
+               </ab>
+               <p>
+29th of <hi rend="italic">September Satturday 1804</hi> —    Set out early    Some bad Sand bars, at 9 oClock we observed the 2d Chief with 2 men and Squars on Shore, they wished to go up with us as far as the other part of their band, which would meet us on the river above not far Distant    we refused to let one more Come on board Stateing Suffient reasons, observd they would walk on Shore to the place we intended to Camp, offered us women    we objected and told them we Should not Speake to another <name type="native_nation" key="Sioux Indians, Teton">teton</name> except the one on board with us, who might go on Shore when ever he pleased, those Indians proceeded on untill later in the evening when the Chief requested that the Perogue might put him across the river which we agreed to—    Saw numbers of Elk on the Sand bars today, passed an old <name type="native_nation" key="Arikara Indians">Ricara</name> Village at the mouth of a Creek without timber<ref target="n07092902" n="2"/>    we Stayed all night on the Side of a sand bar ½ a Mile from the Shore.<ref target="n07092903" n="3"/>
+               </p>
+               <p>
+                  <table rows="6" cols="3">
+                     <head>Course &amp; Distance &amp;c.</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">miles to a point on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">m. to a tree on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 16° E.</cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                        <cell role="data" rows="1" cols="1">m. to a point on the. S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">1 ¾</cell>
+                        <cell role="data" rows="1" cols="1">m. to the mouth of a Creek L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° E.</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">M. to a point on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 25° E.</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">m. to a Willow Island.</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-29.02" n="lc.geo.1804-09-29.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>29th <hi rend="italic">of Septr. Satturday 18[0]4</hi>
+                  </date>
+               </ab>
+               <p>	
+Set out early    Some bad Sand bars, proceeded on    at 9 oClock we observed the 2d Chief &amp; 2 principal men one man &amp; a Squar on Shore, they wished to go up with us as far as the other part of their band, which they Said was on the river a head not far Distant    〈<name type="person" key="Lewis, Meriwether">Cpt. Lewis</name>〉 we refused Stateing verry Sufficint reasons and was plain with them on the Subject, they were not pleased observed that they would walk on Shore to the place we intended to Camp to night, we observed it was not our wish that they Should for if they did we Could not take them or any other <name type="native_nation" key="Sioux Indians, Teton">Tetons</name> on board except the one we had now with us who might go on Shore when ever he pleased—    they proceeded on, the Chief on board askd. for a twist of Tobacco for those men    we gave him ½ a twist, and Sent one by them for that part of their band which we did not See, &amp; Continued on    Saw great numbers of Elk at the mouth of a Small 〈river〉 Creek Called 〈the〉 <name type="place" key="Cantier (No Timber) Creek">No timber</name> (—as no timber appeared to be on it.[)]    above the mouth of this Creek [<hi rend="italic">NB: a <name type="native_nation" key="Arikara Indians">Ricara</name> band of</hi>] the <name type="native_nation" key="Pawnee Indians">Panies</name>
+                  <ref target="n07092904" n="4"/> had a Village 5 years ago,—    [<hi rend="italic">NB: no remains but the mound which surrounded the town</hi>]    The 2d Chief Came on the Sand bar &amp; requested we would put him across the river, I Sent a Perogue &amp; Crossed him &amp; one man to the S. S. and proceeded on &amp; Came too on a Sand bar on about ½ mile from the main Shore &amp; put on it 2 Sentinals    Continud all night at anchor (we Substitute large Stones for anchors in place of the one we lost[)]    all in high Spirits &amp;c</p>
+               <p>
+                  <hi rend="right">29 Septr.</hi>
+               </p>
+               <p>
+                  <table rows="7" cols="3">
+                     <head>
+                        <hi rend="italic">Course Distance &amp; reffens.</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">mes. to pt. on L. S. Passing Several Sand bars</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a tree on L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 16° E.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">to a pt. on S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 8° W</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¾</cell>
+                        <cell role="data" rows="1" cols="1">to the mouth of a Creek on the L. S. where the <name type="native_nation" key="Pawnee Indians">Panias</name>
+                           <lb/>
+had a Town</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° E.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">mes. to a pt. on the L. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 25° E</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  1 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles to the Lower pt. of a willow Island in the middle<lb/>
+of the river.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">11</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-29.03" n="lc.geo.1804-09-29.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 29th Sept. 1804</hi>.    we Set off eairly.    the weather fair.    proceeded on    passed a handsome Bottom covered with Timber on N. S.    bluffs on S. S. We Saw Several Indians on S. S. walking up the Shore    we Spoke to them, found they were Some of those we left yesterday    1 or 2 of them chiefs.    they Sayed that they would be Glad if we would give one carrit of tobacco for the chiefs of the other band to Smoak.    we sent them 2 carrits to a Sand bar but told them we Should not land any more untill we got to the <name type="native_nation" key="Arikara Indians">Rick Rea</name> Nation<ref target="n07092905" n="5"/> of Indians.    the <name type="place" key="Missouri River">Missouri</name> is verry Shallow.    a great nomber of Sand bars. We passed an old village on S. S. where the <name type="native_nation" key="Arikara Indians">Rick Rias</name> lived 5 years ago &amp; Raised corn on the Bottom Round the village.    we Saw a verry large flock of Elk on the Bottom S. Side. Some Indians Shot at them.—    we crossed 2 Indians in the pearogue to N S of the River. Came 15 Miles today and Camped at a large Sand beach S. S.    the Guard only on Shore.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-29.04" n="lc.geo.1804-09-29.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 29th.</hi>    We set sail early and had fair weather; passed a handsome 
+bottom covered with timber on the north side, and bluffs on the south. We saw several Indians on the south side walking up the shore; spoke to them and found they were some of those we left yesterday. There were one or two 
+of the chiefs with them. They requested us to give them a carrot of tobacco for the chiefs of the other band to smoke. We sent them two carrots to a sand bar, where they could get it; but told them we should not go on shore again, until we came to the nation of the <name type="native_nation" key="Arikara Indians">Aricaris</name>, commonly called <name type="native_nation" key="Arikara Indians">Rickarees</name>, <name type="native_nation" key="Arikara Indians">Rickrees</name>, or <name type="native_nation" key="Arikara Indians">Rees</name>. The <name type="place" key="Missouri River">Missouri</name> is very shallow at this time and full of sand bars. We passed an old village on the south side, where the <name type="native_nation" key="Arikara Indians">Rickarees</name> lived five years ago, and raised corn in the bottom, around the village. We encamped on a sand beach on the south side of the river.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-29.05" n="lc.geo.1804-09-29.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 29th</hi> Sept. <hi rend="italic">1804</hi>.    we Set off eairly.    proceeded on    passed bluffs on S. S.    Saw Several Indians on Shore 1 or 2 of the brave men as they called themselves, wanted Some tobacco.    the Officers gave them 2 carrits of tobacco but told them that we Should not Stop untill we Got to the <name type="native_nation" key="Arikara Indians">RickRee</name> I. Nations.    passed an old village on S. S. where the <name type="native_nation" key="Arikara Indians">RickaRees</name> had lived 5 years ago, had raised corn beans [peas and Simblins?]<ref target="n07092906" n="6"/>    Camped on a Sand beach on the S. Side.—</p>
+               <p>
+Saturday Septemr. 29th    We set off early this morning, having fine clear Weather, and passed by several Bluffs lying on the South side of the River, we saw several Indians on the shore as we passed along, One or two of them, (brave Men as they called themselves,) told the Officers that they wanted some Tobacco, The officers gave them two Carrots of Tobacco, and told them, that we should not stop 'till we got to the <name type="native_nation" key="Arikara Indians">Rickoree</name> nation, We proceeded on, and passed an old Indian Village, lying on the South side of the River; where the <name type="native_nation" key="Arikara Indians">Rickorees</name> had lived five Years before; and we were inform'd by one of the frenchmen, that was with us, that they had raised Corn, Beans, pease &amp; Simblins at that place, We proceeded on, and encamped in the Evening, on a Sand Beach lying on the South side of the River.—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n07092901" n="1">Document 60 of the Field Notes, unlike any of the other documents in that journal, is made up of several sheets pasted together. Osgood argues that the notes on this large sheet could not have been made in the field, but were copied from earlier notes now lost, which he believes true of the Field Notes after <ref n="1804-09-23" type="related">September 23, 1804</ref>. The notation at the top of the page, given here, appears to be in <name type="person" key="Clark, William">Clark's</name> hand, and he could have added it at any time. The words "as first taken" could be interpreted as meaning that this document constitutes the original notes or that the sheet is an exact copy of the originals. Another notation, "to 24 Octo." (probably by <name type="person" key="Biddle, Nicholas">Biddle</name>) is just above the words "Set out" in the first entry. The entries on document 60 cover the last month of travel up the <name type="place" key="Missouri River">Missouri</name> to the <name type="native_nation" key="Mandan Indians">Mandan</name> villages, from September 29 to <ref n="1804-10-24" type="related">October 24, 1804</ref>. Osgood (FN), xviii–xix, 152 n. 1.</note>
+            <note xml:id="n07092902" n="2">Present <name type="place" key="Cantier (No Timber) Creek">Chantier Creek</name>, in <name type="place" key="Stanley County, S. Dak.">Stanley County</name>, <name type="place" key="South Dakota">South Dakota</name>. The <name type="native_nation" key="Arikara Indians">Arikara</name> village is believed to have been abandoned by 1794. Mattison (OR), 39–40; Robinson, 571; <hi rend="italic">Atlas</hi> map 23; MRC map 41.</note>
+            <note xml:id="n07092903" n="3">Not shown on <hi rend="italic">Atlas</hi> map 23, the September 29 camp having been misplaced by the copyist (see above, <ref n="1804-09-28" type="related">September 28, 1804</ref>). The site was between <name type="place" key="Sully County, S. Dak.">Sully</name> and <name type="place" key="Stanley County, S. Dak.">Stanley</name> counties, <name type="place" key="South Dakota">South Dakota</name>, about 3½ miles above <name type="place" key="Cantier (No Timber) Creek">Chantier (No Timber) Creek</name>; perhaps it was on the small island, in the location of later <name type="place" key="Okobojo Island">Okobojo Island</name>, shown on <hi rend="italic">Atlas</hi> map 23 near the mouth of <name type="place" key="Okobojo Creek">Okobojo Creek</name> (nameless on the map), the creek being on the starboard side in <name type="place" key="Sully County, S. Dak.">Sully County</name>. Mattison (OR), 40; MRC map 41; MRY map 74.</note>
+            <note xml:id="n07092904" n="4">
+               <name type="person" key="Clark, William">Clark</name> frequently refers to the <name type="native_nation" key="Arikara Indians">Arikaras</name> as "<name type="native_nation" key="Pawnee Indians">Panies</name>" (<name type="native_nation" key="Pawnee Indians">Pawnees</name>). Both peoples belong to the Caddoan language family; the <name type="native_nation" key="Arikara Indians">Arikaras</name> are believed to have separated from the <name type="native_nation" key="Pawnee Indians, Loup or Skiri">Skiri Pawnees</name>. Archaeologists have not discovered any village remains at this location. Information of W. Raymond Wood.</note>
+            <note xml:id="n07092905" n="5">
+               <name type="native_nation" key="Arikara Indians">Arikara</name> Indians.</note>
+            <note xml:id="n07092906" n="6">The peas could be Indian potato, or hog peanut, <hi rend="italic">Amphicarpa bracteata</hi> (L.) Fern. Simlins are summer squashes.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-09-28" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-09-30" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

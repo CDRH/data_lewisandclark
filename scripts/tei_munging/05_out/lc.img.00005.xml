@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.img.00005">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">Images from the Gallery of the Open Frontier</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2005</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Gallery of the Open Frontier</title>
+               <note>http://gallery.unl.edu</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Images</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>People and Place Images</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term n="image">people_and_places</term>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term>Tipis</term>
+               <term>Native Americans</term>
+               <term>Families</term>
+               <term>Assinniboine</term>
+               <term>Portraits</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2005-01-20</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <list type="simple">
+            <item>
+               <figure n="Assinniboine_111-sc-82394.jpg">
+                  <p>
+                     <label>Assinniboine Family</label>
+                     <caption>Assinniboine Indian family and teepee, MT.</caption>
+                     <term>
+                        <persName/>
+                     </term>
+                     <term>
+                        <name/>
+                     </term>
+                     <term>
+                        <geogName type="state" key="MT">MT</geogName>
+                     </term>
+                     <term>
+                        <geogName type="country" key="USA">USA</geogName>
+                     </term>
+                     <bibl>
+                        <idno type="NARAID">111-sc-82394</idno>
+                        <respStmt>
+                           <resp>Collection:</resp>
+                           <name>Records of the Office of the Chief Signal Officer—Signal Corps Photographs of American Military Activity</name>
+                        </respStmt>
+                        <date>1890–1891</date>
+                        <orgName>NARA-NWDNS</orgName>
+                     </bibl>
+                  </p>
+               </figure>
+            </item>
+         </list>
+      </body>
+   </text>
+</TEI>

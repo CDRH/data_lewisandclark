@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-10-17">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+October 17, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">179-181</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">85-86</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">56</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">101</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-10-17.01">
+            <placeName/>
+            <geo>46.3555 -100.5719</geo>
+            <note>A mile or two below present day Cannon Ball, ND. In Sioux County, ND</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-03-22</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-10-17">October 17, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-10-17.01" n="lc.geo.1804-10-17.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">17th of October 1804</hi>     Wind S. W.    I walked on Shore with the <name type="native_nation" key="Arikara Indians">Ricara</name> Chief and an Inteprieter,<ref target="n07101701" n="1"/> the[y] told me maney extroadenary Stories, I Killed 3 Dear &amp; a Elk, the Chief Killed a Deer and our hunters Killed 4 Deer, in my absenc the wind rose So high that the Boat lay too all Day; Latd 46° 23' 57" N, I caught a Small uncommon whiperwill<ref target="n07101702" n="2"/>    we observe emence herds of Goats, or Antelopes flocking down from the N E Side &amp; Swiming the River, the Chief tels me those animals winter in <name type="place" key="Black Hills">the Black Mountain</name>, and in the fall return to those mounts from every quarter, and in the Spring disperse in the planes, those emence herds we See all of which is on the N E Side of the River is on their way to the mountain, and in the Spring they will be as noumeroes on their return (some ganges winter on the <name type="place" key="Missouri River">Missouri</name>)—    camped on the L. S.<ref target="n07101703" n="3"/>
+               </p>
+               <p>
+                  <table rows="4" cols="3">
+                     <head>Course Distance &amp;c.</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° E.</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">m to a pt. on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N.</cell>
+                        <cell role="data" rows="1" cols="1">   ½</cell>
+                        <cell role="data" rows="1" cols="1">a m on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">   ½</cell>
+                        <cell role="data" rows="1" cols="1">a m. on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 33° W.</cell>
+                        <cell role="data" rows="1" cols="1">3 ½</cell>
+                        <cell role="data" rows="1" cols="1">m. to Some wood on the L. S.</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-17.02" n="lc.geo.1804-10-17.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>17th Octr.</date>
+               </ab>
+               <p>
+                  <table rows="5" cols="3">
+                     <head>
+                        <hi rend="italic">Course Distance &amp; reffurenc.</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° E.</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a pt. on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">   ½</cell>
+                        <cell role="data" rows="1" cols="1">me. on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">   ½</cell>
+                        <cell role="data" rows="1" cols="1">me. on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 33° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">3 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">mes. to the Commencement of Some woods on the 〈L〉 S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">6</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <seg n="u9758">☞</seg> note from the <hi rend="italic">
+                     <name type="native_nation" key="Arikara Indians">Ricares</name>
+                  </hi> to the <name type="place" key="James (Jacque) River (S. Dak.)">River Jacque</name> near N. E. is about 40 mes. to the 〈Souex 20〉 Chien a fork of R <name type="place" key="Red River of the North">Rogue</name> 20 [<hi rend="italic">NB: further</hi>] passing the <name type="place" key="Sioux River">Souix River</name> near the Chien    this from information of <name type="person" key="Gravelines, Joseph">Mr. Graveline</name> who passed through this Countrey<ref target="n07101704" n="4"/>
+               </p>
+               <p>
+                  <hi rend="right">17th <hi rend="italic">October</hi> 〈<hi rend="italic">Friday</hi>〉 Wednesday 1804.</hi>
+               </p>
+               <p>
+Set out early    a fine morning the wind from the N W.    after brackfast I walked on Shore with the Indian Chief &amp; Interpeters,<ref target="n07101705" n="5"/> Saw Buffalow Elk and Great numbers of Goats in large gangues    (I am told by <name type="person" key="Gravelines, Joseph">Mr. G.</name> that those Animals winter in the <name type="place" key="Black Hills">Black mountains</name> [<hi rend="italic">NB: to feed on timber &amp;c</hi>] and this is about the Season they Cross from the East of the <name type="place" key="Missouri River">Missouris</name> to go to that Mountain, they return in the Spring and pass the <name type="place" key="Missouri River">Missourie</name> in Great numbers[)] [<hi rend="italic">NB: to the plains</hi>]. This Chief tells me of a number of their Treditions about Turtles, Snakes, &amp;. and the power of a perticiler rock or Cave on the next river which informs of everr thing<ref target="n07101706" n="6"/>    none of those I think worth while mentioning—    The wind So hard a head the boats Could not move aftr 10 oClock, <name type="person" key="Lewis, Meriwether">Capt Louis</name> Took the altitude of the Sun Latd. <hi rend="italic">46° 23' 57"</hi>    I Killed 3 Deer and the hunters with me killed 3 also    the Indian Shot one but Could not get it—    I Scaffeled up the Deer<ref target="n07101707" n="7"/> &amp; returned &amp; met the boat after night on the L. S. about 6 miles above the place we Camped last night—    one of the men Saw a number of Snakes, <name type="person" key="Lewis, Meriwether">Capt Lewis</name> Saw a large Beaver house S. S.    I Cought a Whipprwill Small &amp; not Common—.    the leaves are falling fast—.    the river wide and full of Sand bars,—.    Great numbers of verry large Stone on the Sides of the hills &amp; Some rock of a brownish Colour in the Ld. Bend below this—.<ref target="n07101708" n="8"/>
+               </p>
+               <p>
+Great numbers of Goats are flocking down to the S. Side of the river on their way to <name type="place" key="Black Hills">the Black Mountain</name>s where they winter    those animals return in the Spring in the Same way &amp; Scatter in different directions.</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-17.03" n="lc.geo.1804-10-17.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="right">
+                        <hi rend="italic">Point of Observation No. 49.<lb/>
+Wednesday October 17th 1804.</hi>
+                        <ref target="n07101709" n="9"/>
+                     </hi>
+                  </date>
+               </ab>
+               <p>
+On the Stard. shore, opposite to a high projecting Bluff; which from the great number of rattlesnakes found near it, we called the <name type="place" key="Rattlesnake Cliffs">
+                     <hi rend="italic">rattlesnake Bluff</hi>
+                  </name>.</p>
+               <p>
+Observed meridian altd. of <seg n="u9737">☉</seg>'s U. L. with Sextant by the fore observation 69° 17'</p>
+               <p>
+Latitude deduced from this observation    N. 46 23 57.1
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-17.04" n="lc.geo.1804-10-17.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 17th Oct. Eight Indians came on from their Camp last night &amp; brought us Some meat.    they remained with us all night &amp; Sang the most of the night    in the morning our officers gave them Some fancy goods in return for the meat.    the weather clear.    the wind from N. W.    we Set off eairly.    proceeded on.    passed a Bottom covered with Small timber on S. S. Barron hill on N. S. which make in close to the River,—    abt. 10 oC. <name type="person" key="Clark, William">Capt. Clark</name> our Indian &amp; one hunter went out hunting on S. S. &amp; at 11 oC. the [wind?] arose &amp; blew So hard a head that we were obledged to lay by.    we halted on N. S.    2 men went out hunting.    towards evening the wind abated So that we proceeded on untill some time after dark before we found a good place to camp    the moon Shined pleasant.    we Camped on South Side in a timbred bottom.<ref target="n07101710" n="10"/>    <name type="person" key="Clark, William">Capt. Clark</name> &amp; all the hunters except one who camped on the opposite Shore, joined us    they had killed Six Deer.    Some of them verry fat.    we took care of all the meat &amp; Skins &amp;.C.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-17.05" n="lc.geo.1804-10-17.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 17th.</hi>    We renewed our voyage early, and had a clear morning. Last night eight of the Indians came over to see us, brought us some meat and remained all night. <name type="person" key="Lewis, Meriwether">Captain Lewis</name>, gave them some presents this morning. At half past ten the wind blew so hard down the river that we were obliged to halt. At four we proceeded on with the assistance of the tow line, though the wind still continued against us, and having made about two miles, encamped on the south side. Several hunters went out this day and killed six deer: one of them did not join us at night.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-17.06" n="lc.geo.1804-10-17.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday October 17th    This morning Early we set out, (having sent some of our Men out a hunting) the Wind blowing hard against us at West, so that it occasion'd our getting on slowly, part of the day, The River running strong against us.    We came too, &amp; Encamped on the South side of the River in the Evening; part of the Men return'd to us, having killed 6 deer, which they brought to us, One of the hunting party did come to us this Night.—
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n07101701" n="1">The interpreter was probably <name type="person" key="Gravelines, Joseph">Joseph Gravelines</name>, but see below, n. 5.</note>
+            <note xml:id="n07101702" n="2">The common poorwill. See <name type="person" key="Lewis, Meriwether">Lewis's</name> natural history note, <ref n="1804-10-16" type="related">October 16, 1804.</ref>
+            </note>
+            <note xml:id="n07101703" n="3">In <name type="place" key="Sioux County, N. Dak.">Sioux County</name>, <name type="place" key="North Dakota">North Dakota</name>, a mile or two south of the present village of <name type="place" key="Cannonball, N. Dak.">Cannon Ball</name>. On <hi rend="italic">Atlas</hi> map 27 it is erroneously labeled "7th of October." MRC map 48.</note>
+            <note xml:id="n07101704" n="4">See above, <ref n="1804-10-13" type="related">October 13, 1804</ref>, n. 6.</note>
+            <note xml:id="n07101705" n="5">The word appears to be plural in Codex C, but in the Field Notes entry it is apparently singular. Later entries refer to "interpreters." <name type="person" key="Gravelines, Joseph">Gravelines</name> was certainly with them as interpreter for the <name type="native_nation" key="Arikara Indians">Arikara</name> chief. <name type="person" key="Tabeau, Pierre-Antoine">Pierre-Antoine Tabeau</name> could have served in that capacity, but there is no evidence that he accompanied them upriver. <name type="person" key="Ordway, John">Sergeant Ordway's</name> entry of October 10, 1804, says, "we left one of our frenchman with <name type="person" key="Tabeau, Pierre-Antoine">Mr Tabbow</name> &amp; took his Soon in his place." Obviously this person could be either the son of <name type="person" key="Tabeau, Pierre-Antoine">Tabeau</name>, or the son of the unnamed French <hi rend="italic">engagé</hi>. If he had been living at the <name type="native_nation" key="Arikara Indians">Arikara</name> villages he could have served as a supplementary interpreter, but it is not clear that he actually accompanied the party upriver rather than simply attending the council held October 10.</note>
+            <note xml:id="n07101706" n="6">See below, <ref n="1805-02-21" type="related">February 21, 1805.</ref>
+            </note>
+            <note xml:id="n07101707" n="7">He placed the carcass on a improvised scaffold to keep wolves and coyotes from getting it.</note>
+            <note xml:id="n07101708" n="8">Upper Cretaceous <name type="place" key="Fox Hills Formation">Fox Hills Formation</name>, mostly sandstones, crops out in this region, which is just within the glacial boundary. The very large stones are probably glacial erratics.</note>
+            <note xml:id="n07101709" n="9">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> astronomical observation from Codex O.</note>
+            <note xml:id="n07101710" n="10">A mile or two south of the entrance of <name type="place" key="Cannonball (Bullet) River">Cannonball River</name>, <name type="place" key="Sioux County, N. Dak.">Sioux County</name>, <name type="place" key="North Dakota">North Dakota</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-10-16" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-10-18" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

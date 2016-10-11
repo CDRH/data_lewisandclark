@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-08-02">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 2, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">30-35</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">194</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">120-121</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">251-252</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-08-02.01">
+            <placeName/>
+            <geo>45.7295 -112.2119</geo>
+            <note>In the vicinity of Waterloo, Madison County, MT</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh" n="category">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-05-28</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-08-02">August 2, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-08-02.01" n="lc.geo.1805-08-02.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">August 2nd 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+We resumed our march this morning at sunrise    the weather was fair and wind from N. W.    finding that the river still boar to the south I determined to pass it if possible to shorten our rout    this we effected about five miles above our camp of last evening by wading it.<ref target="n18080201" n="1"/>    found the current very rappid about 90 yards wide and waist deep    this is the first time that I ever dared to make the attempt to wade the river, tho' there are many places between this and the <name type="place" key="Missouri River, Three Forks of the">three forks</name> where I presume it migh be attempted with equal success.    the valley though which our rout of this [day] lay and through which the river winds it's meandering course is a beatifull level plain with but little timber and that on the verge of the river.    the land is tolerably fertile, consisting of a black or dark yellow loam,<ref target="n18080202" n="2"/> and covered with grass from 9 Inches to 2 feet high.    the plain ascends gradually on either side of the river to the bases of two ranges of mountains which ly parrallel to the river and which terminate 〈it's〉 the width of the vally.    the tops of these mountains were yet partially covered with snow while we in the valley.    were suffocated nearly with the intense heat of the midday sun.    the nights are so could that two blankets are not more than sufficient covering.    we found a great courants, two kinds of which were red, others yellow deep purple and black, also black goosburies and service buries now ripe and in full perfection, we feasted suptuously on our wild fruit particularly the yellow courant and the deep purple servicebury which I found to be excellent    the courrant grows very much like the red currant common to the gardens in the atlantic states tho' the leaf is somewhat different and the growth taller.    the service burry grows on a smaller bush and differs from ours only in colour and the superior excellence of it's flavor and size, it is of a deep purple.<ref target="n18080203" n="3"/> this day we saw an abundance of deer and goats or antelopes and a great number of the tracks of Elk; of the former we killed two.    we continued our rout along this valley which is from six to eight Miles wide untill sun set when we encamped for the night on the river bank having traveled about 24 miles.<ref target="n18080204" n="4"/> I feel myself perfectly recovered of my indisposition and 〈have〉 do not 〈but little〉 doubt 〈but I〉 being able to pursue my march with equal comfort in the morning.</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-02.02" n="lc.geo.1805-08-02.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Friday August 2cd 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+We resumed our march this morning at sunrise; the [day] was fair and wind from N. W.    finding that the river still boar to the South I determined to pass it if possible in order to shorten our rout; this we effected by wading the river about 5 miles above our encampment of the last evening.    we found the current very rapid waist deep and about 90 yd. wide bottom smooth pebble with a small mixture of coarse gravel.    this is the first time that I ever dared to wade the river, tho' there are many places between this and the forks where I presume it might be attempted with equal success. The vally allong which we passed today, and through which the river winds it's meandering course is from 6 to 8 miles wide and consists of a beatifull level plain with but little timber and that confined to the verge of the river; the land is tolerably fertile, and is either black or a dark yellow loam, covered with grass from 9 inches to 2 feet high.    the plain ascends gradually on either side of the river to the bases of two ranges of high mountains, which lye parallel to the river and prescribe the limits of the plains.    the tops of these mountains are yet covered partially with snow, while we in the valley are nearly suffocated with the intense heat of the midday sun; the nights are so cold that two blankets are not more than sufficient covering.    soon after passing the river this morning <name type="person" key="Gass, Patrick">Sergt. Gass</name> lost my tommahawk in the thick brush and we were unable to find it, I regret the loss of this usefull implement, however accedents will happen in the best families, and I consoled myself with the recollection that it was not the only one we had with us.    the bones of the buffaloe and their excrement of an old date are to be met with in every part of this valley but we have long since lost all hope of meeting with that animal in these mountains.    we met with great quantities of currants today, two species of which were red, others yellow, deep perple and black; also black goosberries and serviceberries now ripe and in great perfection.    we feasted sumptuously on our wild fruits, particularly the yellow currant and the deep perple serviceberries, which I found to be excellent.    the serviceberry grows on a small bush and differs from ours only in colour size and superior excellence of it's flavour.    it is somewhat larger than ours.<ref target="n18080205" n="5"/>    on our way we saw an abundance of deer Antelopes, of the former we killed 2.    we also saw many tracks of the Elk and bear. no recent appearance of Indians.    the Indians in this part of the country appear to construct their lodges with the willow boughs and brush; they are small of a conic figure and have a small aperture on one side through which they enter.    we continue our rout up this valley on the Lard. side of the river untill sunset, at which time we encamped on the Lard. bank of the river having traveled 24 miles.    we had brought wih us a good stock of venison of which we eat a hearty supper.    I feel myself perfectly recovered of my indisposition, and do not doubt being able to pursue my rout tomorrow with the same comfort I have done today.—    we saw some very large beaver dams today in the bottoms of the river several of which wer five feet high and overflowed several acres of land; these dams are formed of willow brush mud and gravel and are so closely interwoven that they resist the water perfectly.    the base of this work is thick and rises nearly perpendicularly on the lower side while the upper side or that within the dam is gently sloped.    the brush appear to be laid in no regular order yet acquires a strength by the irregularity with which they are placed by the beaver that it would puzzle the engenuity of man to give them.</p>
+               <p>
+                  <name type="person" key="Clark, William">Capt. Clark</name> continued his rout early this morning.    the rapidity of the current was such that his progress was slow, in short it required the utmost exertion of the men to get on, nor could they resist this current by any other means than that of the cord and pole.    in the course of the day they passed some villages of burrowing squirrels,<ref target="n18080206" n="6"/> saw a number of beaver dams and the inhabitants of them, many young ducks both of the Duckanmallard and the redheaded fishing duck, gees, several rattle snakes, black woodpeckers, and a large gang of Elk;<ref target="n18080207" n="7"/> they found the river much crouded with island both large and small and passed a small creek on Stard. side which we called <name type="place" key="Whitetail Deer (Birth) Creek">
+                     <hi rend="italic">birth</hi> Creek</name>.<ref target="n18080208" n="8"/>
+                  <name type="person" key="Clark, William">Capt. Clark</name> discovers a tumor rising on the inner side of his ankle this evening which was painfull to him [<hi rend="italic">NB?: Rec: boils</hi>].    they incamped in a level bottom on the Lard. side.—<ref target="n18080209" n="9"/>
+               </p>
+               <p>
+                  <table rows="36" cols="3">
+                     <head>Courses and distances travelled by <name type="person" key="Clark, William">Capt. Clark</name>
+                        <lb/>
+                        <hi rend="italic">August 2cd 1805.</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West—</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a bayou in the Lard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North—</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. bend passing a riffle and 2 small Islds.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. bend passing an Island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Stad. bend passing a Bayou Lard. side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West—</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">to an Island, passing two points on the Lad. side    2<lb/>
+Islands and several bayous on Lard.    the valley from 6 to<lb/>
+10 mls. wide</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South—</cell>
+                        <cell role="data" rows="1" cols="1">  1 ⅛</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. bend being the Lard. side of an Isld.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 40° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ⅛</cell>
+                        <cell role="data" rows="1" cols="1">along the Stard. bend of the Island.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 60° E.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. bend passing the upper point of the Island on<lb/>
+the Stard. side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">in the Lard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">in the Stard. bend passing a bayou</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. bend, being the Lard. side of an Island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. bend passing the Island.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North—</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. bend.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to the mouths of three bayous in a Stard bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 30° E.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 50 W.</cell>
+                        <cell role="data" rows="1" cols="1">     ⅛</cell>
+                        <cell role="data" rows="1" cols="1">in the Lard. bend.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 20° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a bayou in a Stard. bend.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 20° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a low bluff in a Stard. bend.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45° W</cell>
+                        <cell role="data" rows="1" cols="1">     ⅛</cell>
+                        <cell role="data" rows="1" cols="1">along the Lard. bend passing a bayou on Stard. side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 20° E.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 50° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to the lower point of an Island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West—</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. bend at a bayou, passing a bayou on the Stard.<lb/>
+side and the Island. 〈to a bayou〉</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 60° E.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. bend passing an Island.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a bayou on the Stard. side in a bend.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a lard. bend.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. bend, at the entrance of a bayou, [<hi rend="italic">EC: <name type="place" key="Whitetail Deer (Birth) Creek">Birth</name>
+                              <lb/>
+Cr.</hi>] which is rapid and 30 yds. wide</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45° E.</cell>
+                        <cell role="data" rows="1" cols="1">     ⅛</cell>
+                        <cell role="data" rows="1" cols="1">along the Stard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">     ⅛</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South	</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to the mouth of a bayou in a Stard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 70° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a high bottom in a Stard. bend.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 70° E.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">     ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. bend, where they encamped for the night in a<lb/>
+smooth plain.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Miles</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">17</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-02.03" n="lc.geo.1805-08-02.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">August 2dnd Friday 1805</hi>
+                  </date>
+               </ab>
+               <p>	
+a fine day    Set out early    the river has much the Same kind of banks Chanel Current &amp;c. as it had in the last vallie, I walked out this morning on Shore &amp; Saw Several rattle Snakes in the plain, the wind from the S W    we proceeded on with great dificuelty from the rapidity of the current &amp; rapids, abt. 15 miles and Encamped on the Lard Side, saw a large Gangue of Elk at Sunset to the S W.    passed a Small Creek on the Stard Side [<hi rend="italic">ML?: called <name type="place" key="Whitetail Deer (Birth) Creek">birth Creek</name>
+                  </hi>] and maney large and Small Islands. Saw a number of young Ducks as we have also Seen everry Day, Some geese— I saw Black woodpeckers—    I have either got my foot bitten by Some poisonous insect or a tumer is riseing on the inner bone of my ankle which is painfull
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-02.04" n="lc.geo.1805-08-02.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 2nd August 1805</hi>.    a fine pleasant morning.    we Set out eairly and proceeded on. The River is now Small crooked Shallow and rapid.    passed bottoms covered with cotton Timber. Saw abundance of beaver lodges &amp; sign    Some trees newly cut down by them. Saw ponds where they damed up the water one dam above another which is curious to behold.    passed a high bank in which was villages of bank Swallows    passed large beautiful bottom praries on each Side and bottoms of timber &amp;C. Saw Several old Indian Camps on S. Side. Some of the high hills look black with pine timber and Solid rocks &amp;C.    the day warm.    we proceeded on.    passed a nomber of Islands, and bottoms covd. with cotton &amp; birch<ref target="n18080210" n="10"/> timber.    passed Smooth prarie. Saw Several grey Eagles &amp;C<ref target="n18080211" n="11"/>    we Came 14¾ miles to day and Camped on the edge of a Smooth plain on L. Side. Saw a gang of Elk back under the hills.    the country in general back from the river is broken and mountaineous.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-02.05" n="lc.geo.1805-08-02.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 2nd.</hi>    The morning was fine and we went on at sunrise, proceeded 4 or 5 miles and crossed the river. In the middle of the day it was very warm in the valley, and at night very cold; so much so that two blankets were scarce a sufficient covering. On each side of the valley there is a high range of mountains,<ref target="n18080212" n="12"/> which run nearly parallel, with some spots of snow on their tops. We killed a deer; went about 24 miles and encamped<ref target="n18080213" n="13"/> on the south side.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-02.06" n="lc.geo.1805-08-02.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 2nd August 1805</hi>.    a fine pleasant morning.    we Set out eairly and proceeded on.    the River is now Small crooked Shallow and rapid.    passed bottoms of cotton timber &amp;c.    Saw abundance of beaver Sign, trees a foot over which had newly been cut down.    Saw a pond which was made by the beaver damming up the water as in may places.    passed a high bank in which was a village of what is called bank Swallows.    high hills a little back from the River on each Side of the River.    considerable of pine on them, &amp; covered with Short grass.    I have a pain in my Shoulder.    we proceeded on    passed large beautiful bottom prarie on each Side, &amp; bottoms of timber.    Saw a nomber of old Indian Camps.    the beaver houses are verry pleanty &amp; ponds where they resort.    the day warm.    we proceeded on    passed a nomber of Islands and bottoms.    the River Shallow and rapid.    passed Smoth praries &amp;c.    Saw 2 grey Eagles which had nests on the top of dry trees.    Came 14¾ miles this day &amp; Camped on a Smoth plain on L. Side.    Saw a gang of Elk back under the hills.    the country back from the River is broken &amp; Mountainous.</p>
+               <p>
+Friday August 2nd    This morning we had fine &amp; pleasant weather, we set out early &amp; proceeded on our Voyage.    We found the River getting very narrow, crooked, shallow &amp; rapid, We passed some rich bottoms of Cotton 
+Timber, where we saw abundance of signs of Beaver, &amp; trees that had been cut down by these animals lately, many of which measur'd a foot over, &amp; a pond which was made by the beaver daming up the Water, We also passed a bank which was very high, and had a vast number of Swallows nests in them.    This bank lay a small distance back from the River, on each side of it, &amp; had a considerable quantity of Pine trees growing on them &amp; short grass.—    We proceeded on and passed a large beautiful bottom, and Priaries lying on both sides of the River, and some large bottoms of timbered land.    We saw in those bottoms, a number of Indian Camps which appear'd to have been built some time, &amp; plenty of Houses built by the beaver, &amp; a large pond where those animals resort to, We continued on, &amp; saw a number of small 
+Islands &amp; bottoms, The River getting more shallow; Some level Priaries lying on both sides of the River.—    In the afternoon we saw 2 large Grey Eagles, whose nests we saw on the tops of high Trees which were dead.—    We came 14¾ miles this day, &amp; encamped on a smooth plain lying on the South side of the River, where we saw a Gang of Elk, back of our Camp under some hills.—    The Country this day lying back from the River, is broken, and Mountaneous.—
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n18080201" n="1">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> crossed the <name type="place" key="Jefferson River (North, Southwest Fork)">Jefferson River</name> from <name type="place" key="Jefferson County, Mont.">Jefferson</name> to <name type="place" key="Madison County, Mont.">Madison</name> County, <name type="place" key="Montana">Montana</name>, somewhere between the present towns of <name type="place" key="Cardwell, Mont.">Cardwell</name> and <name type="place" key="Whitehall, Mont.">Whitehall</name>. The dotted line on <hi rend="italic">Atlas</hi> map 65 shows his route.</note>
+            <note xml:id="n18080202" n="2">The bottomlands, being well watered, produce a soil with a fairly well-developed humus horizon here. The uplands, being drier, develop a thin soil having a yellow or buff color.</note>
+            <note xml:id="n18080203" n="3">The two kinds of red currants are problematic since there is only one species of red-fruited, unarmed, currant which grows in the area, squaw, or western red, currant, <hi rend="italic">Ribes cereum</hi> Dougl. var. <hi rend="italic">inebrians</hi> (Lindl.)  C. L. Hitchc. See above, <ref n="1805-07-25" type="related">July 25, 1805</ref>. The yellow, deep purple currant refers to golden currant, <hi rend="italic">R. aureum</hi> Pursh, with its yellow and purple fruits in the same population as desecribed earlier. The black currant is possibly <hi rend="italic">R. americanum</hi> Mill., which is also known from the same area. The red currant of Eastern gardens is <hi rend="italic">R. rubrum.</hi> The serviceberry is <hi rend="italic">Amelanchier alnifolia</hi> Nutt. Booth &amp; Wright, 107, 110; Hitchcock et al., 3:67–70; Little (MWH), 16-NW.</note>
+            <note xml:id="n18080204" n="4">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> camped somewhere in the vicinity of present <name type="place" key="Waterloo, Mont.">Waterloo</name>, in <name type="place" key="Madison County, Mont.">Madison County</name>. <hi rend="italic">Atlas</hi> map 65.</note>
+            <note xml:id="n18080205" n="5">Perhaps it was <name type="person" key="Biddle, Nicholas">Biddle</name> who drew a red vertical line from "we met with" to this point.</note>
+            <note xml:id="n18080206" n="6">Prairie dogs, <hi rend="italic">Cynomys ludovicianus.</hi>
+            </note>
+            <note xml:id="n18080207" n="7">The fishing duck is either the female red-breasted merganser, <hi rend="italic">Mergus serrator</hi> [AOU, 130], or the female common merganser, <hi rend="italic">Mergus merganser</hi> [AOU, 129]. Burroughs, 189; Holmgren, 29. The black woodpecker is <name type="person" key="Lewis, Meriwether">Lewis's</name> woodpecker, <hi rend="italic">Melanerpes lewis</hi> [AOU, 408]. See descriptions at <ref n="1805-07-20" type="related">July 20, 1805</ref>, and <ref n="1806-05-27" type="related">May 27, 1806</ref>.</note>
+            <note xml:id="n18080208" n="8">After <name type="person" key="Clark, William">Clark's</name> thirty-fifth birthday, on August 1; it is later <name type="place" key="Whitetail Deer (Birth) Creek">Whitetail Creek</name>, in <name type="place" key="Jefferson County, Mont.">Jefferson County</name>, which passes the town of <name type="place" key="Whitehall, Mont.">Whitehall</name>. <hi rend="italic">Atlas</hi> map 65.</note>
+            <note xml:id="n18080209" n="9">In <name type="place" key="Madison County, Mont.">Madison County</name>, a little below <name type="place" key="Big Pipestone (Panther) Creek">Big Pipestone Creek</name>, the party's <name type="place" key="Big Pipestone (Panther) Creek">Panther Creek</name>. <hi rend="italic">Atlas</hi> map 65.</note>
+            <note xml:id="n18080210" n="10">Perhaps scrub birch, <hi rend="italic">Betula glandulosa</hi> Michx., which <name type="person" key="Lewis, Meriwether">Lewis</name> notes the next day as dwarf birch, or perhaps the more common water birch, <hi rend="italic">B. occidentalis</hi> Hook.</note>
+            <note xml:id="n18080211" n="11">Golden eagle, <hi rend="italic">Aquila chrysaetos</hi>.</note>
+            <note xml:id="n18080212" n="12">The <name type="place" key="Bull Mountains">Bull</name> and then the <name type="place" key="Highland Mountains">Highland Mountains</name> to their right going up the <name type="place" key="Jefferson River (North, Southwest Fork)">Jefferson</name>, and 
+the <name type="place" key="Tobacco Root Mountains">Tobacco Root Mountains</name> to their left.</note>
+            <note xml:id="n18080213" n="13">In the vicinity of <name type="place" key="Waterloo, Mont.">Waterloo</name>, <name type="place" key="Madison County, Mont.">Madison County</name>, <name type="place" key="Montana">Montana</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-08-01" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-08-03" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

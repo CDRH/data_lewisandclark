@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-12-28">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+December 28, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 6</title>
+               <title level="m" type="sub">November 2, 1805–March 22, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1990</date>
+               <biblScope type="pages">140</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">262-263</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">407-408</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-08-03</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-12-28">December 28, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-12-28.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">December 28th Saturday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+rained as usial, a great part of the last night, and this morning rained and the wind blew hard from the S. E. Sent out the hunters and Salt makers,<ref target="n26122801" n="1"/> &amp; employed the baleanc of the men Carrying the Pickets &amp;c. &amp;c. 〈The 2〉 hunters Sent out yesterday returned, haveing killed one deer near the Sea cost, my boy <name type="person" key="York">york</name> verry unwell from violent Colds &amp; Strains Carrying in meet and lifting logs on the huts to build them, This day is worm, and rained all day moderately without intermition.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-12-28.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Saturday the 28th December 1805</hi>
+                  </date>
+               </ab>
+               <p>
+rained as usial the greater part of the last night and a continuation this morning accompanied with wind from the S East    Derected <name type="person" key="Drouillard, George">Drewyer</name>, <name type="person" key="Shannon, George">Shannon</name>, <name type="person" key="Labiche, François">Labeash</name>, <name type="person" key="Field, Reubin">Reuben Field</name>, and <name type="person" key="Collins, John">Collins</name> to hunt; <name type="person" key="Field, Joseph">Jos. Fields</name>, <name type="person" key="Bratton, William E.">Bratten</name>, <name type="person" key="Gibson, George">Gibson</name> to proceed to the Ocean at Some convenient place form a Camp and Commence makeing Salt with 5 of the largest Kittles, and <name type="person" key="Willard, Alexander">Willard</name> and <name type="person" key="Weiser, Peter">Wiser</name> to assist them in Carrying the Kittles to the Sea Coast— all the other men to be employed about putting up picketes &amp; makeing the gates of the <hi rend="italic">fort.</hi>    <name type="person" key="York">Y.</name> [<name type="person" key="York">York</name>] verry unwell from a violent Coald and Strain by Carrying meet from the woods and lifting the heavy logs on the works &amp;c.    rained all Day without intermition.    the Weather verry worm.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-12-28.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Saturday 28th Decr. 1805.—    the Savages Stayed at the fort all last night and informed us that a verry large fish was drove to Shore on the coast and that their women wer packing the oil and meat.    our offi    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> and three men got ready to go with a canoe to See the whail as we expect it is, but the wind and Storm arose So high that they could not go    five men Set out by land with kittles to go over to the Sea coast to form a Camp and make Some Salt.<ref target="n26122802" n="2"/>    three men<ref target="n26122803" n="3"/> went across the River a hunting    in the evening 2 hunters returned    had killd. one Deer.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-12-28.04" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Saturday decemr. 28th    This morning it rained &amp; the wind was so high, that it prevented us from going to see the Whale.    Five of our Men<ref target="n26122804" n="4"/> went out &amp; took kettles with them in Order to go over to the Sea coast to build a Camp &amp; make Salt.    Three of our hunters were sent across the River to hunt.    In the Evening two hunters that were out returned with One deer 
+which they had killed.—<ref target="n26122805" n="5"/>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n26122801" n="1">The saltmaking camp was established at present <name type="place" key="Seaside, Oreg.">Seaside</name>, <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>, <name type="place" key="Oregon">Oregon</name>. It operated until <ref n="1806-02-21" type="related">February 21, 1806</ref>, and produced about three or four bushels of salt. The personnel varied at the site, but usually about three men were present. Appleman (LC), 196–97, 349, 351; <hi rend="italic">Atlas</hi> map 84. <name type="native_nation" key="Clatsop Indians">Clatsop</name> Indians inhabited winter villages at <name type="place" key="Seaside, Oreg.">Seaside</name>, moving from their summer villages around <name type="place" key="Point Adams">Point Adams</name> to this area in the fall. Archaeological investigations in the <name type="place" key="Seaside, Oreg.">Seaside</name> area have mainly been conducted at two villages. The Palmrose site was inhabited from approximately 2,700 to 1,700 years ago; occupation apparently then shifted to the nearby Par-tee site which was inhabited from approximately 1,700 to 1,000 years ago. Both sites contained abundant artifacts and faunal remains reflecting the littoral adaptation of the prehistoric inhabitants of the northern <name type="place" key="Oregon">Oregon</name> coast. Minor (ASCR), 59; Phebus &amp; Drucker.</note>
+            <note xml:id="n26122802" n="2">
+               <name type="person" key="Field, Joseph">Joseph Field</name>, <name type="person" key="Bratton, William E.">Bratton</name>, and <name type="person" key="Gibson, George">Gibson</name> were accompanied by temporary hands <name type="person" key="Willard, Alexander">Willard</name> and <name type="person" key="Weiser, Peter">Weiser</name> to set up a saltmaking camp at <name type="place" key="Seaside, Oreg.">Seaside</name>, <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>, <name type="place" key="Oregon">Oregon</name>. It operated until <ref n="1806-02-21" type="related">February 21, 1806</ref>, under varying personnel.</note>
+            <note xml:id="n26122803" n="3">
+               <name type="person" key="Clark, William">Clark</name> names five men hunting this day: <name type="person" key="Drouillard, George">Drouillard</name>, <name type="person" key="Shannon, George">Shannon</name>, <name type="person" key="Labiche, François">Labiche</name>, <name type="person" key="Field, Reubin">Reubin Field</name>, 
+and <name type="person" key="Collins, John">Collins</name>.</note>
+            <note xml:id="n26122804" n="4">
+               <name type="person" key="Clark, William">Clark</name> names <name type="person" key="Field, Joseph">Joseph Field</name>, <name type="person" key="Bratton, William E.">Bratton</name>, <name type="person" key="Gibson, George">Gibson</name>, <name type="person" key="Willard, Alexander">Willard</name>, and <name type="person" key="Weiser, Peter">Weiser</name> as going to the <name type="place" key="Saltmaking Camp (Oreg.)">saltmaking camp</name> at <name type="place" key="Seaside, Oreg.">Seaside</name>, <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>, <name type="place" key="Oregon">Oregon</name>.</note>
+            <note xml:id="n26122805" n="5">
+               <name type="person" key="Clark, William">Clark</name> gives the names of the day's hunters as <name type="person" key="Drouillard, George">Drouillard</name>, <name type="person" key="Shannon, George">Shannon</name>, <name type="person" key="Labiche, François">Labiche</name>, Reubin Field, and <name type="person" key="Collins, John">Collins</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-12-27" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-12-29" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

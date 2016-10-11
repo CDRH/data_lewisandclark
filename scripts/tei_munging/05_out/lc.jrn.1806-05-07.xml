@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-05-07">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+May 7, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 7</title>
+               <title level="m" type="sub">March 23–June 9, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1991</date>
+               <biblScope type="pages">220-225</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">306-307</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">223</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-05-07.01">
+            <placeName/>
+            <geo>46.4667 -116.4167</geo>
+            <note>Camped south of Peck on the east side of Big Canyon Creek in Nez Perce County, ID.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-10-11</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-05-07">May 7, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-05-07.01" n="lc.geo.1806-05-07.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday May 7th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+This morning we collected our horses and set out early accompanyed by the brother of the <name type="person" key="Twisted Hair (Walamotinin)">twisted hair</name> as a guide; <name type="person" key="Apash Wyakaikt">Wearkkoomt</name> and his party left us.    we proceeded up the river 4 miles to a lodge of 6 families just below the entrance of a small creek, here our guide recommended our passing the river.<ref target="n33050701" n="1"/>  he informed us that the road was better on the South side and that game was more abundant also on that side near the entrance of the <name type="place" key="North Fork Clearwater (Chopunnish) River">Chopunnish river</name>.    we determined to pursue the rout recommended by the guide and accordingly unloaded our horses and prepared to pass the river which we effected by means of one canoe in the course of 4 hours.    a man of this lodge produced us two canisters of powder which he informed us he had found by means of his dog where they had been buried in a bottom near the river some miles above, they were the same which we had buryed as we decended the river last fall.<ref target="n33050702" n="2"/>    as he had kept them safe and had honesty enough to return them to us we gave him a fire steel<ref target="n33050703" n="3"/> by way of compensation.    during our detention at the river we took dinner, after which or at 3 P. M. we renewed our march along the river about 2 ms. over a difficult stony road, when we left the river and asscended the hills to the wright which are here mountains high.<ref target="n33050704" n="4"/>    the face of the country when you have once ascended the river hills is perfectly level and partially covered with the longleafed pine.    the soil is a dark rich loam<ref target="n33050705" n="5"/> thickly covered with grass and herbatious plants which afford a delightfull pasture for horses.    in short it is a beautifull fertile and picteresque country. <name type="person" key="Cut Nose">Neeshneparkeeook</name> overtook us and after riding with us a few miles turned off to the wright to visit some lodges of his people who he informed me were geathering roots in the plain at a little distance from the road.    our guide conducted us through the plain and down a steep and lengthey hill to a creek which we called <name type="place" key="Big Canyon (Mosquito) Creek">Musquetoe Creek</name>
+                  <ref target="n33050706" n="6"/> in consequence of being infested with swarms of those insects on our arrival at it.    this is but an inconsiderable stream about 6 yds. wide heads in the plains at a small distance and discharges itself into the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooke</name> 9 miles by water below the entrance of the <name type="place" key="North Fork Clearwater (Chopunnish) River">Chopunnish river</name>.    we struck this creek at the distance of 5 ms. from the point at which we left the river our cours being a little to the S. of East. ascending the creek one mile on the S. E. side we arrived at an indian incampment of six lodges which appeared to have been recently evacuated.    here we remained all night having traveled 12 miles only<ref target="n33050707" n="7"/>    the timbered country on this side of the river at a little distance from it the timber reaches as low as <name type="place" key="Potlatch River (Colter's Creek)">Colter's Creek</name>.    the earth in many parts of these plains is thrown up in little mounds by some animal whose habits are similar to the Sallemander,<ref target="n33050708" n="8"/> like that animal it is also invisible; notwithstanding I have observed the work of this animal throughout the whole course of my long tract from <name type="place" key="Saint Louis, Mo.">St. Louis</name> to the <name type="place" key="Pacific Ocean">Pacific ocean</name> I have never obtained a view of this animal.    the <name type="native_nation" key="Shoshone Indians">Shoshone</name> man of whom I have before made mention evertook us this evening with <name type="person" key="Cut Nose">Neeshneparkeeook</name> and remained with us this evening.—    we suped this evening as we had dined on horse-beef.    we saw several deer this evening and a great number of the tracks of these animals we determined to remain here untill noon tomorrow in order to obtain some venison and accordingly gave orders to the hunters to turn out early in the morning. The Spurs of the <name type="place" key="Rocky Mountains">rocky Mountains</name> which were in view from the high plain today were perfectly covered with snow.    the Indians inform us that the snow is yet so deep on the mountains that we shall not be able to pass them untill the next full moon or about the first of June; others set the time at still a more distant period.    this unwelcom inteligence to men confined to a diet of horsebeef and roots, and who are as anxious as we are to return to the fat plains of the <name type="place" key="Missouri River">Missouri</name> and thence to our native homes.<ref target="n33050709" n="9"/> The <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> bury their dead in Sepulchres formed of boards like the roofs of houses. the corps is rolled in skins and laid on boards above the surface of the earth.<ref target="n33050710" n="10"/>    they are laid in several teer one over another being seperated by a board only above and below from other corps. I did observe some instances where the body was laid in an indifferent woden box which was placed among other carcased rolled in skin in the order just mentioned.    they sacrifice horses canoes and every other speceis of property to their ded.    the bones of many horses are seen laying about those sepulchres.    this evening was cold as usual.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-05-07.02" n="lc.geo.1806-05-07.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday May 7th 1806</hi>
+                  </date>
+               </ab>
+               <p>
+This morning we collected our horses and Set out early accompanied by the brother of the <name type="person" key="Twisted Hair (Walamotinin)">twisted hair</name> as a guide; <name type="person" key="Apash Wyakaikt">Wearkkoomt</name> and his party left us.    we proceeded up the river 4 miles to a lodge of 6 families just below the enterance of a Small Creek, here our guide recommended our passing the river, he informed us that the road was better on the South Side, and that game was more abundant also on that Side near the enterance of <name type="place" key="North Fork Clearwater (Chopunnish) River">Chopunnish river</name>.    we deturmined to pursue the rout recommened by the guide, and accordingly unloaded our horses and prepared to pass the river which we effected by means of one Canoe in the Course of 4 hours.    a man of this lodge produced us two Canisters of Powder which he informed us he had found by means of his dog where they had been berried in the bottom near the river a fiew miles above.    they were the Same which we had burried as we decended the river last fall.    as he had kept them Safe and had honisty enough to return them to us, we gave him a fire Steel by way of Compensation. dureing our detention at the river we took dinner.    after which we renewed our march along the S. E. Side of the river about 2 miles over a dificuelt Stoney road, when we left the river and assended the hills to the right which are here mountains high.    the face of the Country when you have once assended the river hills, is perfectly level and partially Covered with the long leafed pine.    the Soil is a dark rich loam, thickly Covered with grass and herbatious plants which afford a delightfull pasture for horses.    in Short it is a butifull fertile picteresque Country. <name type="person" key="Cut Nose">Neeshneparkeeook</name> over took us and after rideing with us a fiew miles turned off to the right to visit some lodges of his people who he informed us were gathering roots in the plains at a little distance from the road.    our guide Conducted us through the plain and down a Steep and lengthy hill to a Creek which we Call <name type="place" key="Big Canyon (Mosquito) Creek">Musquetoe Creek</name> in consequence of being infested with Sworms of those insects on our arival at it.    this is but an inconsiderable Stream about 6 yards wide heads in the plains at a Short distance and discharges itself into the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name> 9 ms. by water below the forks.    we Struck this Creek at the distance of 5 miles from the point at which we left the river our course being a little to the S. of East.    we proceeded up the Creek one Mile and on the S. E. Side we arived at an old Indian incampment of Six Lodges which appeared to have been recently evacuated.    here we remained all night haveing traveled 12 ms. only. the timbered Country on this Side of the river may be Said to Commence a Short distance below this Creek, and on the other Side of the river at a little distance from it the timber reaches as low as <name type="place" key="Potlatch River (Colter's Creek)">Colter's Creek</name>.    the earth in maney parts of those plains is thown up in little mounds by Some animal whose habits are Similar to the Sallemander, like that animal it is also invisible; notwithstanding I have observed the work of this animal throughout the whole course of my trail from <name type="place" key="Saint Louis, Mo.">St. Louis</name> to the <name type="place" key="Pacific Ocean">Pacific Ocian</name>, I have never obtained a View of this animal. The <name type="native_nation" key="Shoshone Indians">Shoshone</name> man of whome I have before mentioned over took us this evening with <name type="person" key="Cut Nose">Neesh neparkeeook</name> or <hi rend="italic">
+                     <name type="person" key="Cut Nose">Cut nose</name>
+                  </hi> and remained with us this evening.    we Suped this evening as we had done on horse beef.    we Saw Several deer this evening, and a great number of the tracks of these animals    we deturmined to remain here untill noon tomorrow in order to obtain some venison, and accordingly gave orders to the hunters to turn out early in the morning. The Spurs of the <name type="place" key="Rocky Mountains">rocky mountains</name> which were in view from the high plain to day were perfectly Covered with Snow. The Indians inform us that the Snow is yet So deep on the Mountains that we Shall not be able to pass them untill after the next full moon or about the first of June.    others Set the time at a more distant period.    this unwelcom intiligence to men confined to a diet of horsebeef and roots, and who are as anxious as we are to return to the fat plains of the <name type="place" key="Missouri River">Missouri</name>, and thence to our native homes. The <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> bury their dead in different ways as I have obseved, besides that already discribed they scaffold Some and deposit others in Sepulchers, those are rearly to be Seen in this upper part of the <name type="place" key="Columbia River">Columbian</name> Waters.    the one already discribed is the most Common.    they all Sacrifice horses, Canoes and every Species of property to the dead.    the bones of maney horses are Seen lyeing about those repositaries of the dead &amp;c.—.</p>
+               <p>
+I observed in all the Lodges which we have passed Since we Crossed <name type="place" key="Lewis (Cahwahnakiooks) River">Lewis's river</name> decoys, or Stocking<ref target="n33050711" n="11"/> heads as they are Sometimes called.    these decoys are for the deer and is formed of the Skin of the head and upper portion of the neck of that animale extended in the nateral Shape by means of a fiew little Sticks placed within.    the hunter when he Sees a deer conseals himself and with his hand givs to the decoy the action of a deer at feed, and this induces the deer within arrowshot; in this mode the Indians near the woody country hunt on foot in Such places where they cannot pursue the deer with horses which is their favourite method when the grounds will permit—.—. The orniments worn by the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> are, in their nose a Single Shell of wampom, the pirl &amp; beeds are Suspended from the ears.    bears are worn arround their wrists, neck and over their Sholders crosswise in the form of a double Sash—.    the hair of the men is Cewed in two rolls which hang on each side in front of the body. Collars of bears Claws are also Common; but the article of dress on which they appear to bestow most pains and orniments is a kind of collar or brestplate; this is most Commonly a Strip of otter skins of about Six inches Wide taken out of the Center of the Skin it's whole length including the head.    this is dressed with the hair on, this is tied around the neck &amp; hangs in front of the body the tail frequently reaching below their knees; on this Skin in front is attatched pieces of pirl, beeds, wampom, pices of red Cloth and in Short whatever they conceive most valuable or ornamental—.—.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-05-07.03" n="lc.geo.1806-05-07.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 7th of May 1806.    a fair morning.    we Set out Soon after Sunrise and proceeded on to a creek and lodge where we got our two canisters of powder which we hid about 7 miles above this as we passd. down.    they told us that the dogs Scratched open the hole and they finding the powder took care of it for us.    we gave them Small articles for being so honest    we crossed the river to the South Side.    dined and proceed on up the river    ascended a high hill. Saw the <name type="place" key="Rocky Mountains">rockey mountains</name> covred with Snow.    the country on these hills is verry rich, thinly covred with pitch pine, thick grass plants wild onions, &amp;C.    descended a hill down on a creek.    followed up the creek a short distance and Camped at an old In[dian] Camp    fishery or were [weir] has lately been made in this Creek.    considerable of Cotton wood &amp; pine on this creek. Some of the men killed a duck &amp; a pheasant<ref target="n33050712" n="12"/>
+only.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-05-07.04" n="lc.geo.1806-05-07.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 7th.</hi>    This was a fine morning, and we continued here till after breakfast, when we proceeded on about four miles to another Indian lodge, at the mouth of a small creek, where we had to cross the river again, in order to get to a better road. At this lodge the natives found two cannisters of ammunition, which we had buried last fall on our way down, and which they 
+took care of and returned to us safe. All the Indians from the <name type="place" key="Rocky Mountains">Rocky mountains</name> to the <name type="place" key="Columbia River, Great Falls of the">falls of Columbia</name>, are an honest, ingenuous and well disposed people; but from the falls to the sea-coast, and along it, they are a rascally, 
+thieving set. We were here detained about three hours in crossing, as we had but one canoe to transport ourselves and baggage. We then proceeded over a large hill, and struck a small creek, about five miles below the place, where we made our canoes in October last. Here we encamped for the night, accompanied by two Indians, one of whom can speak the <name type="native_nation" key="Shoshone Indians">Sho-sho-ne or Snake</name> language. We shall therefore be able to hold some conversation with the natives in this part of the country, as <name type="person" key="Sacagawea">our squaw</name> is of the <name type="native_nation" key="Shoshone Indians">Snake nation</name>.
+
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n33050701" n="1">If the party camped the previous night just below the mouth of <name type="place" key="Pine Creek">Pine Creek</name>, a trip of four miles would place them in the vicinity of <name type="place" key="Bedrock Creek">Bedrock Creek</name> (not shown on <hi rend="italic">Atlas</hi> map 72) in <name type="place" key="Nez Perce County, Idaho">Nez Perce County</name>, <name type="place" key="Idaho">Idaho</name>. The location of this crossing at <name type="place" key="Bedrock Creek">Bedrock Creek</name> is supported by both Space and Peebles who base their conclusions on the journal descriptions, rather than on the <hi rend="italic">Atlas</hi> map which indicates, by means of a dotted line, that the crossing was at <name type="place" key="Fir Bluff">Fir Bluff</name>. Space, 25; Peebles (RLC), 17–18. A historic <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> village site, <hi rend="italic">texsehepu,</hi> which refers to a long v-shaped canyon, was located at the mouth of <name type="place" key="Bedrock Creek">Bedrock Creek</name>. Schwede, 34. This location has also been reported as an archaeological site which dates approximately 250–2,500 years ago; no publications have resulted from preliminary investigations.</note>
+            <note xml:id="n33050702" n="2">The cache was made <ref n="1805-10-07" type="related">October 7, 1805</ref>, in <name type="place" key="Nez Perce County, Idaho">Nez Perce County</name>, near <name type="place" key="Lenore, Idaho">Lenore</name>. <hi rend="italic">Atlas</hi> map 72.</note>
+            <note xml:id="n33050703" n="3">A piece of steel used with flint to strike a spark and make fire.</note>
+            <note xml:id="n33050704" n="4">The route, through <name type="place" key="Nez Perce County, Idaho">Nez Perce County</name> south of the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater</name>, is shown by the dotted line on <hi rend="italic">Atlas</hi> map 72. "<name type="place" key="Jacks Creek (Canister Run)">Canister run</name>," which they crossed near its mouth, would be present <name type="place" key="Jacks Creek (Canister Run)">Jack Creek</name>.</note>
+            <note xml:id="n33050705" n="5">The soils on the uplands above the stream bottoms are residual soils developed from the weathering of volcanic ash and Columbia River Basalt. The flat-lying surface of the area reflects the horizontally layered attitude of the basalt flows of Miocene age.</note>
+            <note xml:id="n33050706" n="6">
+               <name type="place" key="Big Canyon (Mosquito) Creek">Big Canyon (or Canyon) Creek</name>, in <name type="place" key="Nez Perce County, Idaho">Nez Perce County</name>; it is "<name type="place" key="Big Canyon (Mosquito) Creek">Creek Small</name>" and "<name type="place" key="Big Canyon (Mosquito) Creek">Hunting C</name>" on <hi rend="italic">Atlas</hi> map 72. Space, 25; Peebles (RLC), 18.</note>
+            <note xml:id="n33050707" n="7">Although there is uncertainy regarding the route of the party on this day, this camp was probably located south of <name type="place" key="Peck, Idaho">Peck</name> on the east side of <name type="place" key="Big Canyon (Mosquito) Creek">Big Canyon Creek</name> in <name type="place" key="Nez Perce County, Idaho">Nez Perce County</name>. Space, 25; Peebles (RLC), 18. Both the camp and the creek are indicated on <hi rend="italic">Atlas</hi> map 72. If the party followed the historic <name type="place" key="Nez Perce Trail">Nez Perce trail</name> in this area, they would have arrived at <name type="place" key="Big Canyon (Mosquito) Creek">Big Canyon Creek</name> just north of <name type="place" key="Peck, Idaho">Peck</name>. Shawley, 61. From there, they ascended the creek one mile and camped at an abandoned village on the southeast side of <name type="place" key="Big Canyon (Mosquito) Creek">Big Canyon Creek</name>, as <name type="person" key="Lewis, Meriwether">Lewis</name> indicates. This location corresponds closely with the <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> site of <hi rend="italic">pipuynima,</hi> which refers to a fringe-like hillside with many cuts in it. Schwede, 33. A major but undated archaeological village site has also been recorded in this vicinity, just southeast of <name type="place" key="Peck, Idaho">Peck</name> below the mouth of <name type="place" key="Little Canyon Creek">Little Canyon Creek</name>. Stapp, Bryan, &amp; Rigg, 51, 69.</note>
+            <note xml:id="n33050708" n="8">Probably the northern pocket gopher, <hi rend="italic">Thomomys talpoides.</hi> See <ref n="1805-04-09" type="related">April 9, 1805</ref>.</note>
+            <note xml:id="n33050709" n="9">After this sentence a light red line runs through nearly the remainder of the entry, perhaps penned by <name type="person" key="Biddle, Nicholas">Biddle</name>.</note>
+            <note xml:id="n33050710" n="10">The <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> burials are described somewhat differently by <name type="person" key="Biddle, Nicholas">Biddle</name> in notes he apparently made from conversations with <name type="person" key="Clark, William">Clark</name> in 1810. <name type="person" key="Biddle, Nicholas">Biddle</name> Notes [ca. April 1810], Jackson (LLC), 2:501.</note>
+            <note xml:id="n33050711" n="11">"Stalking" is meant. Criswell, 81–82.</note>
+            <note xml:id="n33050712" n="12">Some species of grouse, most likely the blue grouse, <hi rend="italic">Dendragapus obscurus</hi>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-05-06" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-05-08" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

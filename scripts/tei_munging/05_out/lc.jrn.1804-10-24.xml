@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-10-24">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+October 24, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">194-195</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">89</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">58-59</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">104</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-10-24.01">
+            <placeName/>
+            <geo>47.268 -101.0124</geo>
+            <note>Probably a couple of miles below Washburn, ND, in Oliver County.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-03-22</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-10-24">October 24, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-10-24.01" n="lc.geo.1804-10-24.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+24th of October    Cloudy    Some little Snow    (my Rhumetism Continue, not So bad as the 2 last days,) a butufull Countrey on both Sides, bottoms covered with wood, we See no game to day, passed an old [village] of a Band of <name type="native_nation" key="Hidatsa Indians">Me ne tarres</name> Called <hi rend="italic">
+                     <name type="native_nation" key="Hidatsa Indians">Mah har ha</name>
+                  </hi> where they lived 40 year ago on the L. S.<ref target="n07102401" n="1"/>    Came too on an Island Caused by the river cutting through a narrow point 7 years ago,<ref target="n07102402" n="2"/> on this Island we wer visited by the grand Chief of the <name type="native_nation" key="Mandan Indians">mandans</name> a 2d Chief and Some other, who wer Camped on the Island, those Chief met our <name type="native_nation" key="Arikara Indians">Ricarra</name> Chief with great Corduallity, &amp; Smoked together    <name type="person" key="Lewis, Meriwether">Cap Lewis</name> Visited the Camps 5 Lodges, and pro-ceeded on &amp; Camped near a 2d Camp of <name type="native_nation" key="Mandan Indians">Mandans</name> on the S. S. nearly opposit the old <hi rend="italic">
+                     <name type="native_nation" key="Arikara Indians">Ricara</name>
+                  </hi> &amp; <name type="native_nation" key="Mandan Indians">Manden</name> Village which the <name type="native_nation" key="Arikara Indians">Ricarras</name> abandaned in the year 1789<ref target="n07102403" n="3"/>
+               </p>
+               <p>
+                  <table rows="4" cols="3">
+                     <head>Course &amp; Distanc &amp;c.</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 20° W</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">m to a pt. on the S. S. <ref target="n07102404" n="4"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">m. to a pt. on the L. S. opsd. to new <name type="place" key="Mandan Island">mandan Island</name>—    Cut<lb/>
+point—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 34°<ref target="n07102405" n="5"/> W.</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">m to S S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 64° W</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">m to a point of high land on which the <name type="native_nation" key="Mandan Indians">Mandans</name> &amp; after<lb/>
+them the <name type="native_nation" key="Arikara Indians">Ricaras</name> formrley lived.</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-24.02" n="lc.geo.1804-10-24.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>24th Octr</date>
+               </ab>
+               <p>
+                  <table rows="5" cols="3">
+                     <head>
+                        <hi rend="italic">Course Distance and reffurencs</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 20° W.</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">mile to a pt. on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10 W.</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">miles to a pt. on the L. S.    at this place the river has laterly<lb/>
+Cut thro forming a large Island to the S. S. (1)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 35° W.</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">miles to an Object on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 64° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">2</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles to a point of high land on which the <name type="native_nation" key="Mandan Indians">Mandins</name> formerly<lb/>
+lived (2)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">7</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"/>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi rend="right">24th <hi rend="italic">October Wednesday 1804</hi>
+                  </hi>
+               </p>
+               <p>
+Set out early    a Cloudy day    Some little Snow in the morning    I am Something better of the Rhumutim in my neck—    a butifull Countrey on both Sides of the river. The bottoms Covd. with wood, we have Seen no game on the river to day a prof of the Indians hunting in the neighbourhod    (1) passed a Island on the S. S. made by the river Cutting through a point, by which the river is Shortened Several miles—    on this Isld. we Saw one of the Grand Chiefs of the <name type="native_nation" key="Mandan Indians">Mandins</name>, with five Lodges hunting, this Cheif met the Chief of the <hi rend="italic">
+                     <name type="native_nation" key="Arikara Indians">Ricares</name>
+                  </hi> who accompanied us with great Cordiallity &amp; Sermony    Smoked the pipe &amp; <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> with the Interpeter went with the Chiefs to his Lodges at 1 mile distant, after his return we admited the Grand Chief &amp; his brother for a few minits on our boat.    proceeded on a Short distance and Camped on the S. S. below the old Village of the <name type="native_nation" key="Mandan Indians">Mandins</name> &amp; ricares.—    Soon after our landg. 4 <name type="native_nation" key="Mandan Indians">Mandins</name> Came from a Camp above, the <name type="native_nation" key="Arikara Indians">Ricares</name> Chief went with them to their Camp, 
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-24.03" n="lc.geo.1804-10-24.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 24th Oct</hi>. Cloudy.    we Set off eairly.    proceeded on    passed a Bottom on N. S. covered with fine Timber Such as oak &amp; large cottonwood &amp;.C.    at 12 o.C. we halted at an Isl. on N. S. where we found a hunting camp of the <name type="native_nation" key="Mandan Indians">Mandan</name> Nation of Indians.    the chief we had on board Spoke to the chief of this party told them our business &amp;.C.    they had Some handsome women with them.    at 2 oC. we proceeded on    passed the Isl where the River cut th[rough?] [<hi rend="italic">paper worn, several words illegible</hi>]<ref target="n07102406" n="6"/> which formerly used to be 10 miles Round by its cutting across forms the Isl. Camped on the N. S.    4 of the natives came to our Camp but did not remain with us but a
+Short time.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-24.04" n="lc.geo.1804-10-24.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 24th.</hi>    We set out early in a cloudy morning. At 9 it began to rain and continued to rain for an hour. At 12 we came to a hunting party of the <name type="native_nation" key="Mandan Indians">Mandan</name> nation of Indians, and remained with them untill 2 and then continued our voyage. There were three lodges of these Indians on an island, which has been cut off the <name type="place" key="Missouri River, Great Bend of the">Grand Bend</name>, a short distance below the <name type="native_nation" key="Mandan Indians">Mandan</name> village. We encamped on the north side. Five of the Indians came to us, and our Indian<ref target="n07102407" n="7"/> went over with them and returned in the 
+morning.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-24.05" n="lc.geo.1804-10-24.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday October 24th    This morning was Cloudy, we set off early as usual.    at 9 o'Clock A. M. it began to rain, we stopped the Boat and Pettyaugers for about one hour, and then proceeded on, at 12 oClock A. M., we came too, were a party of Indians belonging to the <name type="native_nation" key="Mandan Indians">Mandan</name> Nation were hunting, we halted about two hours with them, and then proceeded on our Voyage, 'till the Evening and Encamped on the North side of the River, where five Indians of the <name type="native_nation" key="Mandan Indians">Mandan</name> Natlon came to us.—
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n07102401" n="1">The only old village of this group of Indians on <hi rend="italic">Atlas</hi> map 29 is the one mentioned in Codex C on October 23; the map clearly indicates that the twenty-third was the day they passed the site. The reference in Codex C, however, was clearly inserted later, placed by what <name type="person" key="Clark, William">Clark</name> knew to be the correct date. MRC map 51.</note>
+            <note xml:id="n07102402" n="2">Indicated clearly on <hi rend="italic">Atlas</hi> map 29, this cutoff left an "oxbow" lake, later called <name type="place" key="Painted Woods Lake">Painted Woods Lake</name>, on the <name type="place" key="McLean County, N. Dak.">McLean County</name>, <name type="place" key="North Dakota">North Dakota</name>, side of the <name type="place" key="Missouri River">Missouri</name>, just above present <name type="place" key="Sanger, N. Dak.">Sanger</name>. MRC map 51; MRY 151.</note>
+            <note xml:id="n07102403" n="3">Perhaps two miles below present <name type="place" key="Washburn, N. Dak.">Washburn</name>, <name type="place" key="McLean County, N. Dak.">McLean County</name>. <hi rend="italic">Atlas</hi> map 29 shows some six old villages in present <name type="place" key="Oliver County, N. Dak.">Oliver County</name>, below <name type="place" key="Hensler, N. Dak.">Hensler</name>, some of them indicated as having been abandoned nine years, that is, since 1795.</note>
+            <note xml:id="n07102404" n="4">The distance is one mile in Codex C.</note>
+            <note xml:id="n07102405" n="5">This bearing is 35° in Codex C.</note>
+            <note xml:id="n07102406" n="6">The bottom of this page, and several pages following, are so badly curled and worn that
+some of the text is lost or illegible.</note>
+            <note xml:id="n07102407" n="7">The <name type="native_nation" key="Arikara Indians">Arikara</name> chief, <name type="person" key="Toone">Toone</name> or <name type="person" key="Toone">Arketarnashar</name>, who had accompanied them in hopes of making peace with the <name type="native_nation" key="Mandan Indians">Mandans</name>. See note to <name type="person" key="Clark, William">Clark's</name> entry of <ref n="1804-10-09" type="related">October 9, 1804.</ref>
+            </note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-10-23" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-10-25" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

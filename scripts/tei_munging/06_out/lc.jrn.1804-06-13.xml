@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-06-13">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+June 13, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">295-299</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">13, 380</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">14</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">23-24</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-06-13.01">
+            <placeName/>
+            <geo>39.439 -93.131</geo>
+            <note>Stopped at the mouth of the Grand River, which was likely farther north than where it is today.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-01-14</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-06-13">June 13, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-06-13.01" n="lc.geo.1804-06-13.01">
+            <sp who="wc">
+               <speaker>
+                  <name type="person" key="Clark, William">Clark</name>
+                  <ref target="n04061301" n="1"/>
+               </speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+13th <hi rend="italic">June Wednesday</hi>    〈Papers for the Secretary <hi rend="italic">at War</hi>〉<ref target="n04061302" n="2"/>    we Set out early    passed a verry round bend to L. S.<ref target="n04061303" n="3"/>    passed two Creeks 1 me. apt. Called <name type="place" key="Palmer Creek">Creeks of the round Bend</name>,<ref target="n04061304" n="4"/> between those Creeks Stbd S. is a butifull Prarie, in which the antient <name type="place" key="Missouri River">Missourie</name> Indians had a Village,<ref target="n04061305" n="5"/>    at this place 300 of them were killed by the <name type="native_nation" key="Sauk Indians">Saukees</name>, a fair Day.    Passed the antient <name type="native_nation" key="Missouri Indians">Missouries</name> villages on right    Course N 40° W 2½ pt. L S., S 29° W 3 ms. pt. S. S., this nation once the Most Noumerous is now almost extinct, about 30 of them, liveing with <name type="native_nation" key="Oto Indians">Otteaus</name> on the <name type="place" key="Platte River (Nebr.)">R. Platt</name>, the remainder all distroyed, took altd. of S. U L with qdt. which gave N 28 W. 1½ ms to a pt. S. S.    Passed some Charming land, I have not Seen any high hils above <name type="place" key="Chariton (Charliton, Shariton) River">Charliton</name> [<name type="place" key="Chariton (Charliton, Shariton) River">Chariton River</name>] and the hils below for Several days Cannot to turmed hills but high Land, not exceeding 100 abov the high water mark    N 30° W, to a pt. L. S. 2 ms.    passed a verry bad Sand bar, where the boat was nearly turning &amp; fastening in the quick Sand and came too in the mouth of <name type="place" key="Grand River (Mo.)">Grand R.</name> S. S.<ref target="n04061306" n="6"/>  this River is about 120 yards wide and navagable for Purogues a great distance, it heads with the <name type="place" key="Des Moines River">River Dumoine</name> [<name type="place" key="Des Moines River">Des Moines</name>]<ref target="n04061307" n="7"/> 〈<name type="place" key="Minnesota River (St. Peters)">St. Peters</name>〉, passing the river 〈Dumn.〉 Carlton. [<name type="place" key="Chariton (Charliton, Shariton) River">Chariton</name>]    a Butifull open Prarie Coms to the river below its mouth, we landed and walked to the hills which is abt. ½ a mile.    the Lower prarie over flows.    the hunters Killd. a Bare &amp; Dere, this is a butifull place    the Prarie rich &amp; extinsive, Took Some Looner Observations which Kept <name type="person" key="Lewis, Meriwether">Cap L.</name> &amp; my Self up untill half past 11 oClock.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-13.02" n="lc.geo.1804-06-13.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>13th <hi rend="italic">June Wednesday</hi>, 1804</date>
+               </ab>
+               <p>
+We Set out early    passed a round bend to the S. S. and two Creeks Called the <name type="place" key="Palmer Creek">round bend Creeks</name>    between those two Creeks and behind a Small willow Island in the bend is a Prarie in which the <name type="native_nation" key="Missouri Indians">Missouries Indians</name> once lived and the Spot where 300 [<hi rend="italic">NB: 200</hi>] of them fell a Sacrifise to the fury of the <hi rend="italic">
+                     <name type="native_nation" key="Sauk Indians">Saukees</name>
+                  </hi>    This nation <name type="native_nation" key="Missouri Indians">(Missouries)</name> once the most noumerous nation in this part of the Continent now reduced to about 80 fes.<ref target="n04061308" n="8"/> and that fiew under the protection of the <hi rend="italic">
+                     <name type="native_nation" key="Oto Indians">Otteaus</name>
+                  </hi> [<hi rend="italic">NB: <name type="native_nation" key="Oto Indians">Ottoes</name>
+                  </hi>] on <name type="place" key="Platte River (Nebr.)">R Platt</name> who themselves are declineing    passed Som willow Isds. and bad Sand bars, Twook Medn. altitude with Octent back observation    it gave for altd. on its Low L 36° 58' 0" the E [error] Enstrement 2° 00' 00" +.    the Hills or high land for Several days past or above the 2 <name type="place" key="Chariton (Charliton, Shariton) River">Charletons</name> does not exceed 100 foot    passed a Batteau<ref target="n04061309" n="9"/> or Sand roleing where the Boat was nearly turning over by her Strikeing &amp; turning on the Sand. We came too in the Mouth of <name type="place" key="Grand River (Mo.)">Grand River</name> on S. S. and Camped for the night, this River is 〈about〉 from 80 to 100 yards wide at its Mouth and navagable for Perogues a great distance    This river heads with the <name type="place" key="Des Moines River">R. Dumoine</name>    below its mouth is a butifull Plain of bottom land    the hills rise at ½ a mile back    The lands about this place is either Plain or over flown bottom    <name type="person" key="Lewis, Meriwether">Capt Lewis</name> and my Self walked to the hill from the top of which we had a butifull prospect of Serounding Countrey    in the open Prarie we Caught a racoon, our hunters brought in a Bear &amp; Deer    we took Some Luner observation this evening.</p>
+               <p>
+                  <figure rend="yale">
+                     <p>
+                        <name type="place" key="Missouri River">Missouri River</name> near Mouth of <name type="place" key="Osage (Osarge) River">Osage River</name> and West,<lb/>
+ca. June 13, 1804, Field Notes, reverse of document 18
+<bibl>
+                           <orgName>Beinecke Library, Yale University</orgName>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+               <p>
+                  <table rows="5" cols="3">
+                     <head>
+                        <hi rend="italic">Course &amp; Distance</hi> 13 June 1804</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40° W</cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                        <cell role="data" rows="1" cols="1">Ms. to a pt. L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 39° W.</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. S. S.    psd. 2 Creeks</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 28 W</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">Ms. to a pt. Stbd. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30 W</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">2</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. L. S. opsd. Gd. R</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">9 ms.</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-13.03" n="lc.geo.1804-06-13.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">(Point of observation No. 7.)<lb/>
+June 13th</hi>
+                     <ref target="n04061310" n="10"/>
+                  </date>
+               </ab>
+               <p>
+On the S. side of an Island near it's upper point two miles below the mouth of the <hi rend="italic">
+                     <name type="place" key="Grand River (Mo.)">Grand river</name>.—</hi>
+               </p>
+               <p>
+Observed meridian Altd. of <seg n="u9737">☉</seg>'s L. L. with Octant by the back observatn.    35° 58' 00"</p>
+               <p>
+                  <hi rend="right">(<hi rend="italic">Point of observation No. 8.)</hi>
+                     <lb/>
+                     <hi rend="italic">Wednesday June 13th</hi>
+                  </hi>
+               </p>
+               <p>
+At the mouth of the <hi rend="italic">
+                     <name type="place" key="Grand River (Mo.)">Grand River</name>.</hi>
+               </p>
+               <p>
+Observed time and distance of <seg n="u9789">☽</seg> from Spica <seg n="u9805">♍</seg>
+                  <seg n="u9733">★</seg> East.</p>
+               <p>
+                  <table rows="22" cols="7">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">
+                              <hi rend="italic">Time</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">
+                              <hi rend="italic">Distance</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">h</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">m</cell>
+                        <cell role="data" rows="1" cols="1">s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">P. M.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">9</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">17</cell>
+                        <cell role="data" rows="1" cols="1">49.5</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">39°</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">36'</cell>
+                        <cell role="data" rows="1" cols="1">—"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">22</cell>
+                        <cell role="data" rows="1" cols="1">38</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">28</cell>
+                        <cell role="data" rows="1" cols="1">—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">32</cell>
+                        <cell role="data" rows="1" cols="1">40</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">24</cell>
+                        <cell role="data" rows="1" cols="1">—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">41</cell>
+                        <cell role="data" rows="1" cols="1">39</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">20</cell>
+                        <cell role="data" rows="1" cols="1">45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">47</cell>
+                        <cell role="data" rows="1" cols="1">8</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">17</cell>
+                        <cell role="data" rows="1" cols="1">32</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">59</cell>
+                        <cell role="data" rows="1" cols="1">48.5</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">11</cell>
+                        <cell role="data" rows="1" cols="1">45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">h</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">m</cell>
+                        <cell role="data" rows="1" cols="1">s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">P. M.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">10</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">14</cell>
+                        <cell role="data" rows="1" cols="1">19</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">39°</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">1'</cell>
+                        <cell role="data" rows="1" cols="1">30"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">18</cell>
+                        <cell role="data" rows="1" cols="1">47</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">—</cell>
+                        <cell role="data" rows="1" cols="1">30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">21</cell>
+                        <cell role="data" rows="1" cols="1">51</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">38</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">58</cell>
+                        <cell role="data" rows="1" cols="1">15</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">27</cell>
+                        <cell role="data" rows="1" cols="1">12</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">56</cell>
+                        <cell role="data" rows="1" cols="1">30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">39</cell>
+                        <cell role="data" rows="1" cols="1">34</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">53</cell>
+                        <cell role="data" rows="1" cols="1">00</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">45</cell>
+                        <cell role="data" rows="1" cols="1">41</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">48</cell>
+                        <cell role="data" rows="1" cols="1">—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">h</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">m</cell>
+                        <cell role="data" rows="1" cols="1">s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">P. M.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">10</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">54</cell>
+                        <cell role="data" rows="1" cols="1">38</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">38°</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">41'</cell>
+                        <cell role="data" rows="1" cols="1">45"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">59</cell>
+                        <cell role="data" rows="1" cols="1">49</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">39</cell>
+                        <cell role="data" rows="1" cols="1">—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">11</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">8</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">37</cell>
+                        <cell role="data" rows="1" cols="1">30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">6</cell>
+                        <cell role="data" rows="1" cols="1">44</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">36</cell>
+                        <cell role="data" rows="1" cols="1">45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">10</cell>
+                        <cell role="data" rows="1" cols="1">40</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">34</cell>
+                        <cell role="data" rows="1" cols="1">00</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">16</cell>
+                        <cell role="data" rows="1" cols="1">—</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">"</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">31</cell>
+                        <cell role="data" rows="1" cols="1">45</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-13.04" n="lc.geo.1804-06-13.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday June 13th 1804.    fair morning    we set out eairly.    passed
+the Creek of the praries,<ref target="n04061311" n="11"/> large praries above the Creek.    verry excellent land    we passed a Creek Called <name type="place" key="Palmer Creek">Round bend Creek</name> on N. Side    passd.
+prarie on the South Side of the River.    we arrived at <name type="place" key="Grand River (Mo.)">Grand River</name> in good Season to encamp. Beautiful prarie across 〈from〉 in the point Between the <name type="place" key="Missouri River">Missouri</name> &amp; Grand River    high Land Back from the River, it being on the N. Side of River
+
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-13.05" n="lc.geo.1804-06-13.01">
+            <sp who="cf">
+               <speaker>Floyd</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+
+wensday June 13th 1804    Set out at 6 oclock and Came 1 ½ miles    past a Creek on the N. Side Calleded <name type="place" key="Palmer Creek">River missorea</name>
+                  <ref target="n04061312" n="12"/>    Just above the Creek a Large Praria of Good Land on the N Side    at this Praria antient <name type="native_nation" key="Missouri Indians">Missourie Indianes</name> had a village    at this place 300 of them were Killed by the <name type="native_nation" key="Sauk Indians">Saukees</name>
+                  <ref target="n04061313" n="13"/> in former times<ref target="n04061314" n="14"/>    a fair day    past the <name type="place" key="Grand River (Mo.)">Grand River</name> on the N. Side    〈the〉 Land is level on Both Sides    a handsom Prarie on the Loer Side of it    water Strong    past Several Isd. Came 10 miles    the <name type="place" key="Grand River (Mo.)">Grand River</name> is about 300 and 50 yads wide and Boates Can Go for Som hundreds of miles up it    ouer hunters Killed yesterday and to day 1 Bar, 2 Deer    encampted at the mouth of the <name type="place" key="Grand River (Mo.)">Grand River</name> on the N. Side of the River
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-13.06" n="lc.geo.1804-06-13.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 13th.</hi>    We proceeded early on our voyage; passed a small creek on the north side in a long bend of the river; and encamped at the mouth of <name type="place" key="Grand River (Mo.)">Grand river</name> on the North side. This is as handsome a place as I ever saw in an uncultivated state.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-13.07" n="lc.geo.1804-06-13.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wendy 13th    Got On Our way at the three point Island Or the falling 〈Do〉 Banks whare all hands Breakfasted belonging to the three Crafts—    On the Oppisite Shore S. W. Side neer two or about 2 Oclock the Barge Struck a Sandbar    She Keeld On her labord    the Sand being Quick Vanquishd Suddently from 〈her〉 Under her    the Currant Being Rappid Neerly Swept the men of their legs while Bearing her up from Sinquing.    Got to the <name type="place" key="Grand River (Mo.)">Grand River</name> at three Oclock    our hunters met us there with a bear and Some Venison    Incampd. there    Roed 14 Miles    this venison is [nice?]<ref target="n04061315" n="15"/>
+               </p>
+               <p>
+Wednesday June 13th    This Morning we set out early from the three point Island, we proceeded on till about 2 oClock P. M. on the South west side of the River, our Boat struck on a sand barr; she grounded on her larbourd side, the place being a quicksand and the current running strong.    The sand vanquish'd quick from under her, &amp; so suddenly; that the Men on the deck were nearly swept off their legs, whilst they were bearing the boat up from sinking, At 3 o'Clock P. M. we arrived at the Mouth of the <name type="place" key="Grand River (Mo.)">grand River</name>, where we was met by the hunters we had sent out; who brought with them a Bear and some Venison which they had killed.    The <name type="place" key="Missouri River">Mesouri</name> River running from the North<ref target="n04061316" n="16"/> West.    We encamp'd at this place, having rowed 14 Miles this day.—</p>
+               <p>
+                  <name type="place" key="Grand River (Mo.)">Grand River</name> lays in Latitude 38° 47' 54 North—
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n04061301" n="1">Some figures are written to the side of this entry: 2½, 3, 1½, 2, and a total of 9.</note>
+            <note xml:id="n04061302" n="2">The words crossed out are immediately under the date. Possibly <name type="person" key="Clark, William">Clark</name> intended to write here a list of papers to be sent back to <name type="person" key="Dearborn, Henry">Secretary Henry Dearborn</name> with the intended return party.</note>
+            <note xml:id="n04061303" n="3">It would appear that this bend in <name type="place" key="Chariton County, Mo.">Chariton County</name>, <name type="place" key="Missouri">Missouri</name>, was cut off by a change in the course of the <name type="place" key="Missouri River">Missouri River</name> later in the nineteenth century. The curve and a remaining lake are quite evident on MRC map 10. It was later known as <name type="place" key="Bowling Green Bend">Bowling Green Bend</name>. Coues (HLC), 1:22 n. 48.</note>
+            <note xml:id="n04061304" n="4">One of those was probably later <name type="place" key="Palmer Creek">Palmer Creek</name>. Ibid.; MRC map 10.</note>
+            <note xml:id="n04061305" n="5">The <name type="native_nation" key="Missouri Indians">Missouris</name>, or <name type="native_nation" key="Missouri Indians">Missourias</name>, called after the river, when first noticed in 1673 were situated at the mouth of the <name type="place" key="Grand River (Mo.)">Grand River</name> (see below, n. 6) in <name type="place" key="Missouri">Missouri</name>, about where <name type="person" key="Clark, William">Clark</name> places the village here. They are said to have been a large and important tribe before they were almost annihilated during the latter half of the eighteenth century by <name type="place" key="Mississippi River">Mississippi River</name> tribes, particularly the <name type="native_nation" key="Sauk Indians">Sauks</name> and the <name type="native_nation" key="Fox Indians">Fox</name>. Their earliest known village was near <name type="place" key="Utz site">Miami Landing</name>, now called the <name type="place" key="Utz site">Utz site</name>. Eventually they moved to the southwestern tip of <name type="place" key="Saline County, Mo.">Saline County</name>, to a spot known as the <name type="place" key="Gumbo Point site">Gumbo Point site</name>. See also notes for <ref n="1804-06-15" type="related">June 15</ref>. By about 1798 they were forced to move up the <name type="place" key="Missouri River">Missouri River</name> into <name type="place" key="Nebraska">Nebraska</name>, to join the culturally related <name type="native_nation" key="Oto Indians">Otos</name>; both tribes spoke the Siouan language of the Chiwere group and had economies based on hunting and horticulture. Henceforward the two tribes acted together and were treated by the United States as one. The last full-blooded <name type="native_nation" key="Missouri Indians">Missouri</name> is said to have died in <name type="place" key="">Oklahoma</name> in 1907. Chapman (OM); Hodge 1:911–12; Irving (IS); Bray (MIT).</note>
+            <note xml:id="n04061306" n="6">
+               <name type="place" key="Grand River (Mo.)">Grand River</name>, one of the principal streams of northern <name type="place" key="Missouri">Missouri</name>, forms the boundary between Carroll and <name type="place" key="Chariton County, Mo.">Chariton counties</name> where it meets the <name type="place" key="Missouri River">Missouri River</name>. It appears likely that the mouth of the <name type="place" key="Grand River (Mo.)">Grand</name> in 1804 was farther north above present <name type="place" key="Brunswick, Mo.">Brunswick</name>. It is not clear on which side of the <name type="place" key="Grand River (Mo.)">Grand</name> they camped. Nicollet (MMR), 361 ; MRC map 10.</note>
+            <note xml:id="n04061307" n="7">The headwaters of the <name type="place" key="Grand River (Mo.)">Grand</name> and its principal tributary, the <name type="place" key="Thompson River">Thompson River</name>, are near the heads of the South and Middle <name type="place" key="Des Moines River">Des Moines</name> in southern <name type="place" key="Iowa">Iowa</name>. Petersen, 301–5.</note>
+            <note xml:id="n04061308" n="8">This may be an abbreviation for "fires," that is, families. Thwaites (LC), 1:47.</note>
+            <note xml:id="n04061309" n="9">
+               <name type="person" key="Clark, William">Clark</name> probably refers again to a <hi rend="italic">bature,</hi> a sandy beach on the inside curve in a river. See <ref n="1804-06-04" type="related">June 4, 1804</ref>.</note>
+            <note xml:id="n04061310" n="10">This entry and the next are <name type="person" key="Lewis, Meriwether">Lewis's</name> observations from Codex O. Proceeding this date is the symbol for the planet Mercury.</note>
+            <note xml:id="n04061311" n="11">This may be the first of the "round bend Creeks." See <name type="person" key="Clark, William">Clark's</name> and <name type="person" key="Floyd, Charles">Floyd's</name> entries of this day.</note>
+            <note xml:id="n04061312" n="12">Perhaps <name type="place" key="Palmer Creek">Palmer Creek</name>, <name type="place" key="Chariton County, Mo.">Chariton County</name>, <name type="place" key="Missouri">Missouri</name>. <name type="person" key="Floyd, Charles">Floyd's</name> name, somewhat strange, is not used by others; <name type="person" key="Clark, William">Clark</name> called it (with other streams at this point), "<name type="place" key="Palmer Creek">round bend Creeks.</name>"</note>
+            <note xml:id="n04061313" n="13">
+               <name type="native_nation" key="Sauk Indians">Sauk</name> Indians.</note>
+            <note xml:id="n04061314" n="14">"<name type="native_nation" key="Missouri Indians">Missourie</name> Indianes" and the passage of "village    at this place . . . in former times" was underlined in red by an unknown hand.</note>
+            <note xml:id="n04061315" n="15">This last sentence appears to be in the hand of No. 3.</note>
+            <note xml:id="n04061316" n="16">"North" is written over "South."</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-06-12" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-06-14" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-08-10">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 10, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">153-154, 287-288</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">347</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">264</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-08-10.01">
+            <placeName/>
+            <geo>48.1116 -103.63</geo>
+            <note>The party camped in McKenzie County, ND, nearly opposite present Williston and a little above Little Muddy River. Just above the camp of 1805-04-21.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-12-09</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-08-10">August 10, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-08-10.01" n="lc.geo.1806-08-10.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Sunday August 10th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+The morning was somewhat cloudy I therefore apprehended rain however it shortly after became fair. I hastened the repairs which were necessary to the perogue and canoe which were compleated by 2 P. M. those not engaged about this business employed themselves as yesterday.    at 4 in the evening it clouded up and began to rain which puting a stop to the opperation of skindressing we had nothing further to detain us, I therefore directed the vessels to be loaded and at 5 P. M. got under way    the wind has blown very hard all day but did not prove so much so this evening as absolutely to detain us.    we decended this evening as low nearly as the entrance of <name type="place" key="Little Muddy (White Earth) River">white Earth river</name> and encamped on the S. W. side.<ref target="n37081001" n="1"/>    the musquetoes more than usually troublesome this evening.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-10.02" n="lc.geo.1806-08-10.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Tuesday 10th August 1806</hi>
+                     <ref target="n37081002" n="2"/>
+                  </date>
+               </ab>
+               <p>
+had the flesh of the elk hung on poles to dry, and Sent out the hunters.    wind blew hard from the East all day.    in the after part of the day it was [<hi rend="italic">NB: Cloudy</hi>] &amp; a fiew drops of rain. I finished a Copy of my Sketches of the <name type="place" key="Yellowstone River">River Rochejhone</name>.<ref target="n37081003" n="3"/>
+                  <name type="person" key="Shields, John">Shields</name> killed a black tail deer &amp; an antilope.    the other hunters killed nothing.    deer are very Scerce on this part of the river. I found a Species of Cherry<ref target="n37081004" n="4"/> in the bottom the Srub or bush which are differant from any which I have ever Seen and not very abundant even in this Small tract of country to which it Seems to be confined.    the Stem is compound erect and subdivided or branching without any regular order.    it rises to the hight of 8 or 10 feet Seldom putting out more than one Stem from the Same root not growing in cops as the Choke Cherry does.    the bark is Smooth and of a dark brown colour.    the leaf is petialate, oval accutely pointed at it's apex, from 1 and a ¼ to one and a ½ inch in length and from a half to ¾ of an inch in wedth, finely or manutely Serrate, pale green and free from bubessance. The fruit is a globular berry about the Size of a buck Shot of a fine Scarlet red; like the cherries cultivated in the U. States each is supported by a Seperate Celindric flexable branch peduncle which issues from the extremities of the boughs.    the peduncle of this cherry Swells as it approaches the fruit being largest at the point of insertion.    the pulp of this fruit is of an agreeable ascid flavour and is now ripe.    the Style and Stigma are permanent. I have never Seen it in blume.    it is found on the high Stiff<ref target="n37081005" n="5"/> lands or hill Sides—.    the men dug great parcel of the root which the Nativs call Hankee<ref target="n37081006" n="6"/> and the engagees the white apple which they boiled and made use of with their meat. This is a large insipid root and very tasteless.    the nativs use this root after it is dry and pounded in their Seup.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-10.03" n="lc.geo.1806-08-10.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Sunday 10th August, 1806.    a cool windy morning    we went at reppairing the white perogue and continued dressing our deer Skins and Smoaking them.    about three P. M. we put the canoes in the river, and loaded up and about 4 we Set out and procd. on down untill dark and Camped on St. Side and the musquetoes verry troublesome indeed.    we could not all this night git a moment quiet rest for them.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-10.04" n="lc.geo.1806-08-10.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday 10th.</hi>    We had a fine morning and were employed in repairing the periogue and dressing skins, until 3 o'clock in the afternoon, when we got the periogue completed, loaded our craft, and at four o'clock proceeded on to the mouth of <name type="place" key="Little Muddy (White Earth) River">White-earth river</name>, and encamped opposite it on the same bottom, where we encamped on the 21st April 1805. In the afternoon some drops of rain fell; and the musquitoes here were very bad indeed.
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n37081001" n="1">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> camp was in <name type="place" key="McKenzie County, N. Dak.">McKenzie County</name>, <name type="place" key="North Dakota">North Dakota</name>, nearly opposite present <name type="place" key="Williston, N. Dak.">Williston</name> and a little above <name type="place" key="Little Muddy (White Earth) River">Little Muddy River</name>. The site is probably inundated by <name type="place" key="Garrison Reservoir">Garrison Reservoir</name> (<name type="place" key="Lake Sakakawea">Lake Sakakawea</name>); it would be just above the camp of <ref n="1805-04-21" type="related">April 21, 1805</ref>. <hi rend="italic">Atlas</hi> map 34; MRC map 59.</note>
+            <note xml:id="n37081002" n="2">Next to this dateline are <name type="person" key="Biddle, Nicholas">Biddle's</name> words in red ink, "1800 miles up <name type="place" key="Missouri River">Missouri</name>."</note>
+            <note xml:id="n37081003" n="3">Probably the following maps plus others now lost: <hi rend="italic">Atlas</hi> maps 105–12. See also <hi rend="italic">Atlas,</hi> 11; Wood &amp; Moulton, 379, 383–84.</note>
+            <note xml:id="n37081004" n="4">This description of the pin cherry is largely copied from <name type="person" key="Lewis, Meriwether">Lewis's</name> desecription of <ref n="1806-08-12" type="related">August 12, 1806</ref>; see a note at <ref n="1806-08-03" type="related">August 3</ref> on <name type="person" key="Clark, William">Clark's</name> journal-keeping during this period. It was apparently <name type="person" key="Biddle, Nicholas">Biddle</name> who drew a red vertical line through the passage.</note>
+            <note xml:id="n37081005" n="5">An adjective applied to soil which is not friable but heavy, dense, and hard to work.</note>
+            <note xml:id="n37081006" n="6">Breadroot; see <ref n="1806-08-06" type="related">August 6, 1806</ref>. <name type="person" key="Clark, William">Clark's</name> term "white apple" is a translation of the French <hi rend="italic">engagés</hi>' word for the plant, pomme blanche, and now a common name for it.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-08-09" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-08-11" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

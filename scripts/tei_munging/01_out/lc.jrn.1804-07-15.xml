@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-07-15">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+July 15, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">379-382</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">25-26, 387-388</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">20-21</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">40</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-07-15.01">
+            <placeName/>
+            <geo>40.362 -95.641</geo>
+            <note>Somewhat above the present town of Nemaha, NE, in Nemaha County, NE</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-01-22</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-07-15">July 15, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-07-15.01" n="lc.geo.1804-07-15.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p/>
+               <p>
+                  <table rows="9" cols="3">
+                     <head>
+                        <hi rend="italic">Course Distance and refferrnnces</hi> July 15th 1804<ref target="n04071501" n="1"/>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">3 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. of a willow Isld. on the L. S.    psd. the Isld. on<lb/>
+S. S. (1)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 75 W.</cell>
+                        <cell role="data" rows="1" cols="1">  ¼</cell>
+                        <cell role="data" rows="1" cols="1">mile to a Lard point of the same Island—    the boat passed<lb/>
+to Lard of Isld.    the hill here projects to the river—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 89 W. </cell>
+                        <cell role="data" rows="1" cols="1">  ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a lard pt. on the same island—    the hills here leave the<lb/>
+river—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 88 W. </cell>
+                        <cell role="data" rows="1" cols="1">  ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a point on Lard main shore opposite a sand bar, took<lb/>
+merd. Altd. <seg n="u9737">☉</seg>s L L.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Due W.</cell>
+                        <cell role="data" rows="1" cols="1">1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">mile to a pt. 〈Lard〉 Stard. oposite which the hills again touch<lb/>
+the river.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45 W.</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">mile to the mouth of <name type="place" key="Little Nemaha River">Little <hi rend="italic">Ni ma-haw</hi>
+                           </name> on the Lard. in a bend<lb/>
+oposite the lower point of a large sand bar—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30 E</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to a point on Lard. a deep bend to the right below this point</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30 W.</cell>
+                        <cell role="data" rows="1" cols="1">  ½</cell>
+                        <cell role="data" rows="1" cols="1">to pt. Lard.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 15</cell>
+                        <cell role="data" rows="1" cols="1">  ¾</cell>
+                        <cell role="data" rows="1" cols="1">to a pt. of an Island. due E. from this about three miles is a large Pond</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi rend="italic">July 15th Sunday</hi> 1804.    a heavy fog this morning which Detained us untill 7 oClock, put <name type="person" key="Drouillard, George">Drewyer</name>
+                  <name type="person" key="Floyd, Charles">Sgt. Floyd</name> on Shore, at 9 I took two Men<ref target="n04071502" n="2"/> and went on Shore, with a view to Kill Some elk, passed thro open plains, and barroney lands [barrens]    Crossed three butifull Small Streams of water,<ref target="n04071503" n="3"/> Saw great quantity of Cherres Plums, Grapes &amp; Berries of Difft. Kinds, the lands Generally of a good quallity, on the Streams the wood 〈Grases〉 escapes the fire, at about 7 miles I Struck the river at the mouth <name type="place" key="Little Nemaha River">
+                     <hi rend="italic">Ne ma har</hi>
+                  </name> Creek about 40 yds wide,<ref target="n04071504" n="4"/> near this Creek on a high part of the Prarie I had a extensive View of the river &amp; Countrey on both Sides.    on S. a contnuation of the plain as far as I could See, on the N. a bottom Prarie of about 5 ms. wide &amp; 18 or 20 long, hills back of this Plain. I Swam across the Creek and waited for the Boat about three miles above, we camped opsd. an Island.<ref target="n04071505" n="5"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-07-15.02" n="lc.geo.1804-07-15.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">July 15th, Sunday</hi>    a heavy Fog this morning prevented our Setting out before 7 oClock, at nine I took two men and walked on the L. S.    I crossed 〈two〉 three butifull Streems of runnig water heading in the Praries    on those Streem the lands verry fine covered with pea Vine &amp; rich weed<ref target="n04071506" n="6"/>    the high Praries are also good land Covered with Grass entirely void of timber except what grows on the water,<ref target="n04071507" n="7"/> I proceeded on thro those praries Several miles to the mouth of a large Creek on the L. S. called (2) [<hi rend="italic">NB: Little</hi>] <name type="place" key="Little Nemaha River">
+                     <hi rend="italic">Ne ma har</hi>
+                  </name>    this is a Small river, about 100 yds. above the mouth it is 40 yards wide, at the mouth (as all other Creeks &amp; rivers falling into the <name type="place" key="Missouri River">Missourie</name> are) much narrower than a little distance up.    after continueing at the mouth of this Creek about an hour, I Swam across and proceeded on about 3 miles and halted to wate for the boat, which was Some distance below—    In all this days march thro woods &amp; Praries, I only Saw three Deer &amp; 3 fawns—    I had at one part of the Prarie a verry extensive view of all the Countrey around up and down the river a Considerable distance, on the Larbd. Sd. one Continul Plain, on the S. S. Some timber on the bank of the river, for a Short distance back of this timber is a bottom Plain of four or five miles back to the hills and under the hills between them &amp; the river    this plain appeared to extend 20 or 30 miles, those Hills have but little timber, and the Plain appears to Continu back of them—    I Saw Great quantities of Grapes, Plums, or 2 Kinds wild Cherries of 2 Kinds, Hazelnuts, and Goosberries.</p>
+               <p>
+we Camped in a point of woods on the Larboard S. opsd. a large Island.</p>
+               <p>
+                  <table rows="9" cols="3">
+                     <head>
+                        <hi rend="italic">Course Dists. and refrs. July 15th 1804</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 30° W</cell>
+                        <cell role="data" rows="1" cols="1">3 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. on a willow Isd. on the L. S.    passed the head of<lb/>
+the large Isd. on S. S. (1)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 70° W</cell>
+                        <cell role="data" rows="1" cols="1">  ¼</cell>
+                        <cell role="data" rows="1" cols="1">of a Me. to L pt. on Sd. Isd. the boat passed to the L. S. Hills<lb/>
+projects to river</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 89 W.</cell>
+                        <cell role="data" rows="1" cols="1">  ¼</cell>
+                        <cell role="data" rows="1" cols="1">of a Me. to a pt. of Sd. Isld. the Hills here leave the river.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 88° W.</cell>
+                        <cell role="data" rows="1" cols="1">  ¼</cell>
+                        <cell role="data" rows="1" cols="1">of a mile to a pt. on main Shore L. S. opposit a Sand bar<lb/>
+took Medn. altd. <seg n="u9737">☉</seg> L L</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. on S. S. opposit to which the hills again touch<lb/>
+the river.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to the mouth of <hi rend="italic">
+                              <name type="place" key="Little Nemaha River">Ne-ma-haw</name>
+                           </hi> Creek in a bend to L. S. (2)<lb/>
+opsd. Low pt. of Sd. bar</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° E</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. on L. S. a Deep bend to the right below the pt.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 15 E.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  ¾</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">me. to the lower pt. of a Isd.    east of this Isd. is Said to be<lb/>
+a Pond.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">9 ¾</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-07-15.03" n="lc.geo.1804-07-15.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="right">
+                        <hi rend="italic">(Point of observation No. 20.)<lb/>
+Sunday July 15th</hi>
+                        <ref target="n04071508" n="8"/>
+                     </hi>
+                  </date>
+               </ab>
+               <p>
+On the upper point of an Island<ref target="n04071509" n="9"/> mentioned in the 2ed &amp; 3rd course of this day.</p>
+               <p>
+Observed meridian Altd. of <seg n="u9737">☉</seg> L. L. with Octant by back observatn.    42' 11' —"</p>
+               <p>
+Latitude deduced from this observatn.    40° 8' 31.8"</p>
+               <p>
+This evening I discovered that my Chronometer had stoped, nor can I assign any cause for this accedent; she had been wound up the preceding noon as usual. This is the third instance in which the instrument has stopt in a similar manner since she has been in my possession, tho' the fi[r]st only since our departure from the <name type="place" key="Dubois River">River Dubois</name>.     in the two preceding cases when she was again set in motion, and her rate of going determined by a series of equal altitudes of the <seg n="u9737">☉</seg> taken for that purpose, it was found to be the same precisely as that mentioned in the preliminary remarks [<hi rend="italic">i.e., July 22, 1804, below</hi>] to these observations, or 15 s &amp; 5 tenths too slow in 24 h—as her <hi rend="italic">rate of going</hi> after stoping, and begin again set in motion has in two instances proved to be the same, I have concluded, that whatever this impediment may procede from, it is not caused by any material injury which her works have sustained, and that when she is in motion, her error on <hi rend="italic">mean time</hi> above stated, may be depended on as accurate. In consequence of the chronometer's having thus accedentally stoped, I determined to come too at the first convenient place and make such observations as were necessary to ascertain her error, establish the Latitude &amp; Longitude, and determine the variation of the nedle, in order to fix a <hi rend="italic">second point of departure.</hi>    accordingly on [<hi rend="italic">see <name type="person" key="Lewis, Meriwether">Lewis's</name> observation for July 16 below, where this note continues</hi>]
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-07-15.04" n="lc.geo.1804-07-15.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Sunday July 15th 1804.    a foggy morning which Detained us untill 7 oClock, <name type="person" key="Drouillard, George">Drewyer</name> &amp; <name type="person" key="Floyd, Charles">Sgt. Floyd</name> went on Shore.    we proceded on till Breakfast    af[ter] I went on Shore with <name type="person" key="Clark, William">Capt. Clark</name> on the South Side    we Saw fresh Sign on bank of Elk.    crossed a creek named <name type="place" key="Beadow Creek">faun Creek</name>
+                  <ref target="n04071510" n="10"/> which came in on the South Side of <name type="place" key="Missouri River">Missouris</name>.    we walked on over a Ridge    came to high large praries &amp; hills.    we walked on    found Some cherries near a handsome Spring River named cherry Run, at which we drank at    the forks
+then followed it or one branch to the head which came out of a ridige which joined the praries, and went up on a high R. Ridge of prarie where we could See all around for a long distance in the open praries or as far as our eyes
+could behold, and on the opposite Side of the <name type="place" key="Missouri River">Missouris</name> we Saw a large &amp; extensive prarie which looked verry handsome, we walked along the hill prarie    came to a large Creek called <name type="place" key="Little Nemaha River">ne-ma-haw Creek</name> whic is about 30 yds. wide    we delayed their till the boat came in Site then crosed &amp; went on to a point where the Boat came &amp; Camped, the flanking party who were with the horses did not join us this night, <name type="person" key="Field, Joseph">Jo. Fields</name> went out on the North Side &amp; killed a Deer.—    we found plenty of ripe grapes along the Bottoms.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-07-15.05" n="lc.geo.1804-07-15.01">
+            <sp who="cf">
+               <speaker>Floyd</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Sunday July 15th 1804    Set out at Six oclock A. m    pased a Creek on the South〈e〉 Side Called <name type="place" key="Beadow Creek">Plumb Run</name>    water verry Strong    passed a Creek on the South Side Called <name type="place" key="Little Nemaha River">Nemahaw Creek</name>    it is about 30 yards wide    the Land is High and Good.    encamt on the South〈e〉 Side
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-07-15.06" n="lc.geo.1804-07-15.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday 15th.</hi>    We got under way at six o'clock; passed a creek<ref target="n04071511" n="11"/> on the south side; and gathered some ripe grapes. There is high land and prairies on this side. <name type="person" key="Clark, William">Captain Clarke</name> and two men went by land. At the head of an island, called <name type="place" key="Elk (Kid) Island">Elk island</name>, we found some pummice stone among the drift wood. We passed a creek on the south side, called <name type="place" key="Little Nemaha River">Na-ma-ha</name>, and encamped on the same.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-07-15.07" n="lc.geo.1804-07-15.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Sundy 15    the Morning was foggy    had to wait Untill it went off    Passd. the River namd. <name type="place"
+                        key="Nishnabotna (Neesh-nah-ba-to-na and similar spellings) River">Nishnay Baton</name>
+                  <ref target="n04071512" n="12"/>    at 3 Oclock passd. the <name type="place" key="Little Nemaha River">little Mohaugh</name>    Got to Camp<ref target="n04071513" n="13"/> on the Mohaugh prarie.    Roed. 11 Miles</p>
+               <p>
+Sunday July 15th    The morning being foggy, we had to waite 'till it cleared away, at 9 o'Clock A. M. we set off, and passed a River called <name type="place"
+                        key="Nishnabotna (Neesh-nah-ba-to-na and similar spellings) River">Nishna Balon</name>, at 3 oClock P. M. passed the  <name type="place" key="Little Nemaha River">little Mahaw River</name>; and encamped at the Mahaw Priari, having rowed 11 Miles this day—    The <name type="place" key="Little Nemaha River">little Mahaw River</name> lies on the South side of the <name type="place" key="Missouri River">Mesouri</name>.—
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n04071501" n="1">The first course is in <name type="person" key="Clark, William">Clark's</name> hand; the remainder of these July 15 courses and distances are by <name type="person" key="Lewis, Meriwether">Lewis</name>. This is probably because <name type="person" key="Clark, William">Clark</name> was ashore much of the day. The second entry, S. 75 W., disagrees with the Codex A course, given as N 70° W. There are also other variations.</note>
+            <note xml:id="n04071502" n="2">One of them was <name type="person" key="Ordway, John">Ordway</name>.</note>
+            <note xml:id="n04071503" n="3">In southeastern <name type="place" key="Nemaha County, Nebr.">Nemaha County</name>, <name type="place" key="Nebraska">Nebraska</name>. Two of the streams were probably later <name type="place" key="Beadow Creek">Beadow Creek</name> and <name type="place" key="Deroin Creek">Deroin creeks</name>. MRC map 20; MRR map 56.</note>
+            <note xml:id="n04071504" n="4">The <name type="place" key="Little Nemaha River">Little Nemaha</name> reaches the <name type="place" key="Missouri River">Missouri River</name> in <name type="place" key="Nemaha County, Nebr.">Nemaha County</name>, a little below the present town of <name type="place" key="Nemaha, Nebr.">Nemaha</name>. MRC map 20; MRR map 56.</note>
+            <note xml:id="n04071505" n="5">This last sentence is written at right angles to the rest of the entry, over the rest, but appears to be part of the entry. <name type="person" key="Clark, William">Clark</name> ran out of space at the bottom of the page. The camp, according to the present course of the <name type="place" key="Missouri River">Missouri</name>, would be in <name type="place" key="Nemaha County, Nebr.">Nehama County</name>, somewhat above the present town of <name type="place" key="Nemaha, Nebr.">Nemaha</name>. Opposite is <name type="place" key="Atchison County, Mo.">Atchison County</name>, <name type="place" key="Missouri">Missouri</name>. MRC map 20; MRR map 56.</note>
+            <note xml:id="n04071506" n="6">The "pea Vine" may refer to <hi rend="italic">Amphicarpa bracteata</hi> (L.) Fern., hog peanut, which is a common species with a vining habit typically found in the area described. "Rich weed" is observed correctly in its appropriate moist, shaded streamside habitat. Steyermark, 953.</note>
+            <note xml:id="n04071507" n="7">They were now seeing the eastern margin of the <name type="place" key="Great Plains">Great Plains</name>; the characteristic treelessness was new to them and worthy of comment. The area along the <name type="place" key="Missouri River">Missouri</name> is more wooded today because prarie fires have been controlled.</note>
+            <note xml:id="n04071508" n="8">Lewis's observation from Codex O.</note>
+            <note xml:id="n04071509" n="9">Probably later <name type="place" key="Morgan Island">Morgan Island</name>. MRC map 20; MRR map 56.</note>
+            <note xml:id="n04071510" n="10">
+               <name type="person" key="Clark, William">Clark</name> mentions but does not name <name type="person" key="Ordway, John">Ordway's</name> two creeks; <name type="person" key="Floyd, Charles">Floyd</name> calls one (perhaps <name type="person" key="Ordway, John">Ordway's</name> second) "Plumb Run," which may be either <name type="place" key="Beadow Creek">Beadow</name> or <name type="place" key="Deroin Creek">Deroin creeks</name>, in southeastern
+<name type="place" key="Nemaha County, Nebr.">Nemaha County</name>, <name type="place" key="Nebraska">Nebraska</name>.</note>
+            <note xml:id="n04071511" n="11">Perhaps either <name type="place" key="Beadow Creek">Beadow</name> or <name type="place" key="Deroin Creek">Deroin creeks</name>, southeastern <name type="place" key="Nemaha County, Nebr.">Nemaha County</name>, <name type="place" key="Nebraska">Nebraska</name>, noticed but not named by <name type="person" key="Clark, William">Clark</name>.</note>
+            <note xml:id="n04071512" n="12">The <name type="place"
+                     key="Nishnabotna (Neesh-nah-ba-to-na and similar spellings) River">Nishnabotna River</name>, which everyone else says they passed the previous day.</note>
+            <note xml:id="n04071513" n="13">In <name type="place" key="Nemaha County, Nebr.">Nemaha County</name>, somewhat above present <name type="place" key="Nemaha, Nebr.">Nemaha</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-07-14" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-07-16" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

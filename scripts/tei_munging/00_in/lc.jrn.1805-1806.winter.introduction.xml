@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1805-1806.winter.introduction">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+               <name type="place" key="Fort Clatsop (Oreg.)">Fort Clatsop</name> Introduction</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 6</title>
+               <title level="m" type="sub">November 2, 1805–March 22, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1990</date>
+               <biblScope type="pages">445</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-09-03</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="main">
+            <name type="place" key="Fort Clatsop (Oreg.)">Fort Clatsop</name> Miscellany</head>
+         <head type="sub"/>
+         <div type="introduction">
+            <p>
+               <hi rend="center">
+                  <hi rend="italic">Introduction</hi>
+               </hi>
+            </p>
+            <p>
+The following items represent another collection of miscellaneous documents comparable to the miscellany gathered at <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name> (see <ref n="1804-1805.winter.introduction" type="related">Chapter 10</ref>). Here at <name type="place" key="Fort Clatsop (Oreg.)">Fort Clatsop</name>, however, there was not the urgency to collect a mass of data to be shipped to <name type="person" key="Jefferson, Thomas">Jefferson</name> as an interim report of their work, as was the case from <name type="native_nation" key="Fort Mandan (N. Dak.)">Fort Mandan</name>. Instead, the captains themselves would be the messengers of these compiled documents, mainly tabular lists of geographic features and native peoples on their route from the eastern foothills of the <name type="place" key="Rocky Mountains">Rocky Mountains</name> to the <name type="place" key="Pacific Coast">Pacific Coast</name>. Since they would carry these lists back with them, it was not necessary to have an additional narrative of events such as was sent from <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name>. The journals they brought back would serve that purpose. However, tables would be valuable as additional, brief copies and security against loss. They would also provide quick reference to distances, latitudes, names, and numbers. Finally, the captains probably realized that <name type="place" key="Fort Clatsop (Oreg.)">Fort Clatsop</name> provided the last opportunity to assemble such lists as leisure before reaching <name type="place" key="Saint Louis, Mo.">St. Louis</name>. Time for developing tables, lists, and compilations would be difficult to find after the return.
+
+</p>
+         </div>
+      </body>
+      <back>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-03-22" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-1806.winter.part1" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

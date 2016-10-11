@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-04-01">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+April 1, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 7</title>
+               <title level="m" type="sub">March 23–June 9, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1991</date>
+               <biblScope type="pages">48-53</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">284</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">204</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">437-438</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh" n="category">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-09-28</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-04-01">April 1, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-04-01.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Tuesday April 1st 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+This morning early we dispatched <name type="person" key="Pryor, Nathaniel Hale">Sergt. Pryar</name> with two men in a small canoe up <name type="place" key="Sandy (Quicksand) River">quicksand river</name> with orders to proceed as far as he could and return this evening.    we also sent a party of three hunters<ref target="n31040101" n="1"/> over the river to hunt a large bottom of woodland and prarie above the entrance of the <name type="place" key="Sandy (Quicksand) River">Quicksand river</name>; the ballance of the hunters we sent out in different directions on this side of the <name type="place" key="Columbia River">Columbia</name> and employed those about camp in making a rope of Elkskin.    the Indians who encamped near us last evening continued with us untill about midday.    they informed us that the <name type="place" key="Sandy (Quicksand) River">quicksand river</name> which we have heretofore deemed so considerable, only extendes through the Western mountains as far as the S. Western side of mount hood where it takes it's source.<ref target="n31040102" n="2"/>    this mountain bears E from this place and is distant about 40 miles.    this information was corroborated by that of sundry other indians who visited us in the course of the day.    we were now convinced that there must be some other considerable river which flowed into the <name type="place" key="Columbia River">columbia</name> on it's south side below us which we have not yet seen, as the extensive valley on that side of the river lying between the mountainous country of the Coast and the Western mountains<ref target="n31040103" n="3"/> must be watered by some stream which we had heretofore supposed was the <name type="place" key="Sandy (Quicksand) River">quicksand river</name>.    but if it be a fact that the <name type="place" key="Sandy (Quicksand) River">quicksand river</name> heads in <name type="place" key="Mount Hood (Timm, Falls Mountain)">Mount Hood</name> it must leave the valley within a few miles of it's entrance and runs nearly parallel with the <name type="place" key="Columbia River">Columbia river</name> upwards.    we indeavoured to ascertain by what steam the southern portion of the <name type="place" key="Columbia River">Columbia</name> valley was watered but could obtain no satisfactory information of the natives on this head.    they informed us that the <name type="place" key="Sandy (Quicksand) River">quicksand river</name> is navigable a short distance only in consequence of falls and rapids; and that no nation inhabits it.—    <name type="person" key="Pryor, Nathaniel Hale">Sergt. Pryar</name> returned in the evening and reported that he had ascended the river six miles; that above the point at which it divides itself into two channels it is about 300 yds wide tho' the channel is not more than 50 yds and only 6 ft deep.    this is a large vollume of water to collect in so short a distance; I therefore think it probable that there are some large creeks falling into it from the S. W. the bed of this stream is formed entirely of quicksand; it's banks are low and at preasent overflows.    the water is turbid and current rapid.— the following are the courses taken by <name type="person" key="Pryor, Nathaniel Hale">Sergt. Pryor</name>. S. 10° W. 1 M. to a point on the Lard. side passing a large Island on Stard. S. 24° E. 2 m. to the head of an Island near the Lard. shore S 33° E. 4 m. to a stard. point passing several islands on the Lard. side and a creek 50 yds. wide on Stard at 1 ½ miles.    the river from hence appeared to bend to the East.    he heard falls of water.    several different tribes informed us that it heads at <name type="place" key="Mount Hood (Timm, Falls Mountain)">Mount Hood</name>. We were visited by several canoes of natives in the course of the day; most of whom were decending the river with their women and children.    they informed us that they resided at the <name type="place" key="Columbia River, Cascades (Great Rapids, Great Shute)">great rapids</name> and that their relations at that place were much streightened at that place for the want of food; that they had consumed their winter store of dryed fish and that those of the present season had not yet arrived. I could not learn wheather they took the Sturgeon but presume if they do it is in but small quantities as they complained much of the scarcity of food among them.    they informed us that the nations above them were in the same situation &amp; that they did not expect the Salmon to arrive untill the full of the next moon which happens on the 2d of May.<ref target="n31040104" n="4"/>    we did not doubt the varacity of these people who seemed to be on their way with their families and effects in surch of subsistence which they find it easy to procure in this fertile valley.—    This information gave us much uneasiness with rispect to our future means of subsistence.    above falls or through plains from thence to the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> there are no deer Antelope<ref target="n31040105" n="5"/> nor Elk on which we can depend for subsistence; their horses are very poor most probably at this season, and if they have no fish their dogs must be in the same situation.    under these circumstances there seems to be but a gloomy prospect for subsistence on any terms; we therefore took it into serious consideration what measures we were to pursue on this occasion; it was at once deemed inexpedient to wait the arrival of the salmon as that would detain us so large a portion of the season that it is probable we should not reach the United States before the ice would close the <name type="place" key="Missouri River">Missouri</name>; or at all events would hazard our horses which we lelft in charge of the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name>
+                  <ref target="n31040106" n="6"/> who informed us that they intended passing the <name type="place" key="Rocky Mountains">rocky mountains</name> to the <name type="place" key="Missouri River">Missouri</name> as early as the season would permit them wich is as we believe about the begining of May.    should these people leave their situation near <name type="place" key="Clearwater (Flathead, Kooskooskee) River">kooskooske</name>
+                  <ref target="n31040107" n="7"/> before our arrival we may probably find much difficulty in recovering our horses; without which there will be but little possibility of repassing the mountains; we are therefore determined to loose as little time as possible in geting to the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> Village.    at 3 P. M. the hunters who were sent over the river returned having killed 4 Elk and two deer; the Elk were in good order but the deer extreemly poor.    they informed us that game is very plenty in that quarter.    the hunters on this side of the river also returned but had killed nothing; they saw a few Elk and deer.    there was also much sign of the black bear<ref target="n31040108" n="8"/> seen on the other side of the river.    we sent a party to bring in the flesh of the Elk and deer that were killed.    they did not return this evening. I purchased a canoe from an Indian today for which I gave him six fathoms of wampum beads;<ref target="n31040109" n="9"/> he seemed satisfyed with his bargain and departed in another canoe but shortly after returned and canceled the bargain; took his canoe and returned the beads.    this is frequently the case in their method of traiding and is deemed fair by them. The last evening and this morning were so cloudy that I could neither obtain any Lunar observations nor equal altitudes.—</p>
+               <p>
+                  <hi rend="right">
+                     <hi rend="italic">Point of observation No. 55.</hi>
+                  </hi>
+               </p>
+               <p>
+At our encampment on the N. side of the <name type="place" key="Columbia River">Columbia</name> opposite the upper entrance of the <name type="place" key="Sandy (Quicksand) River">Quicksand river</name>
+               </p>
+               <p>
+                  <table rows="3" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Observed Meridian Altitude of <seg n="u9737">☉</seg>'s U. L.</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">98° 34' —"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">     with sextant by the direct observation</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Latitude deduced from this observation</cell>
+                        <cell role="data" rows="1" cols="1">—</cell>
+                        <cell role="data" rows="1" cols="1">[<hi rend="italic">blank</hi>]</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+it was so cloudy at the time of this observation that cannot vouch for any great accuracy.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-01.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Tuesday April 1st 1806</hi>
+                  </date>
+               </ab>
+               <p>
+This morning early we dispatched <name type="person" key="Pryor, Nathaniel Hale">Sergt. Pryor</name>, with two men in a Small canoe up <name type="place" key="Sandy (Quicksand) River">quick sand river</name> with orders to proceed as far as he Could and return this evening.    we also Sent a party of three hunters over the river to hunt a large bottom of woodland and prarie above the enterance of <name type="place" key="Sandy (Quicksand) River">Q. Sand River</name>; the ballance of the hunters we Sent out in different directions on this Side of the <name type="place" key="Columbia River">Columbia</name>, and employed those about Camp in makeing a rope of Elk Skin.</p>
+               <p>
+The information given by the indians to us last night respecting <name type="place" key="Sandy (Quicksand) River">quick Sand river</name> was corrobarated by Sundery other indians who visited us in the Course of this day.    we were now convinced that if there information 〈must〉 be just; that Some Considerable river which flowed into the <name type="place" key="Columbia River">Columbia</name> on it's South Side below us which we have not yet Seen, as the extensive vally on that Side of the river lying between the mountanious Country of the Coast, and the western mountains must be watered by Some Stream, which we had heretofore Supposed was the <name type="place" key="Sandy (Quicksand) River">quick Sand river</name>.    but if it be a fact that <name type="place" key="Sandy (Quicksand) River">Quick Sand river</name> heads in <name type="place" key="Mount Hood (Timm, Falls Mountain)">Mount Hood</name> it must leave the vally within a fiew miles of it's enterance, and runs nearly parrilal with the <name type="place" key="Columbia River">Columbia River</name> upwards.    we indeavered to assertained by what Stream the South portion of the <name type="place" key="Columbia River">Columbia</name> Vally was watered, but could obtain no Satisfactory information of the waters on this head.    they inform us that the <name type="place" key="Sandy (Quicksand) River">quick Sand river</name> is not naviagable any distance in consequence of falls and rapids; and that no nation inhabit it. <name type="person" key="Pryor, Nathaniel Hale">Sergt. Pryor</name> returned in the evening and reported that he had assended the river Six Miles; that above the point which it divides itself into two Chanels, it is about 300 yards wide tho' the Chanel is not more than 50 yards, and only 6 feet deep.    the other part of the river from 2 to 4 inches water, the bead of this river is formed entirely of quick Sand; its banks are low and at present overflown.    the water is turbed and current rapid.— The following are the Courses taken by <name type="person" key="Pryor, Nathaniel Hale">Sergt. Pryor</name>.— "S. 10° W. 1 mile to a point on the Lard. Side passing a large island on Stard Side. S 24° E. 2 m. to the head of the island near the Lard Shore. S 33° E 4 m. to a Stard. point passing several islands on the Lard Side and a Creek 50 yards wide on the Stard. Side at 1 ½ miles.    the river from hence upwards bend to the East.    a fall of water heard at no great distance up this river." Several diffirent tribes of indians inform us that it heads at <name type="place" key="Mount Hood (Timm, Falls Mountain)">Mount Hood</name> which is in view.</p>
+               <p>
+We were visited by Several Canoes of the nativs in the Course of this day; most of whome were decending the river with their womin and children.    they inform us that they reside at the <name type="place" key="Columbia River, Cascades (Great Rapids, Great Shute)">great rapids</name> and that their relations at that place were much Streightened for the want of food; that they had consumed their winter Store of dryed fish and those of the present Season had not yet arived. I could not lern whether they took Sturgion but prosume if they do it is in but Small quantities as they complain much of the Scercity of food among them, they informed us that the nativs above them were in the Same Situation, and that they did not expect the Salmon to arrive untill the full of the next moon which happens on the 2nd of May.    we did not doubt the veracity of those people who Seamed to be on their way with their families and effects in serch of Subsistence which they find it easy to precure in this fertile Vally—. This information givs us much uneasiness with respect to our future means of Subsistence, above the falls, on through the Plains from thence to the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> there are no Deer Antilopes or Elk on which we could depend for Subsistence; their horses are very poor most probably at this Season, and if they have no fish their dogs must be in the Same Situation.    under these circumstances there Seams to be a gloomey prospect for Subsistence on any terms; we therefore took it into Serious Consideration what measure we were to pursue on this Occasion; it was at once deemed inexpedient to waite the arival of the Salmon as that would detain us So long a portion of the Season that it is probable we Should not reach the U States before the ice would close the <name type="place" key="Missouri River">Missouri</name>; or at all events would hazard our horses which we left in charge of the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> who informed us that they intended passing the <name type="place" key="Rocky Mountains">Rocky Mountains</name> to the <name type="place" key="Missouri River">Missouri</name> as early as the Season would permit them which is about the first of May. Should these people leave their Situation near <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name> before our arival we may probably find much dificulty in recovering our horses; without which there will be but little possibility of repassing the Mountains; we are therefore determined to lose as little as possible to getting to the <name type="native_nation" key="Nez Perce Indians">Cho punnish</name> Village.</p>
+               <p>
+at 3 P. M. the hunters who were Sent over the river returned, having Killed 4 Elk and 2 Deer; the Elk were in good order but the deer extreemly poor.    they informed us that game is very plenty in that quarter.    the hunters on this Side of the river also returned but had killed nothing; they Saw a fiew Elk and Deer.    there were also much Sign of the black bear Seen on the other Side of the river.    we Sent a party to bring in the flesh of the Elk and Deer that were killed.    they did not return this evening. We purchased a Canoe from an Indian today for Six fathoms of white wampom; he Seemed Satisfied with his bargin and departed in another Canoe but Shortly after returned and canseled the bargain, took his canoe and returned the beeds.    this is frequently the case in their method of tradeing and is deemed fair by them. The last evening and this morning were So cloudy that we could neither obtain any Lunar observation nor equal altitudes.—.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-01.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday 1st of April 1806. <name type="person" key="Pryor, Nathaniel Hale">Sergt. Pryor</name> &amp; three men was Sent 5 or 6 miles up <name type="place" key="Sandy (Quicksand) River">Quick Sand River</name> to make discovries &amp; Several hunters went up the <name type="place" key="Washougal (Seal) River">Seal<ref target="n31040110" n="10"/>—River</name> a hunting &amp; others went out in different directions a hunting.    a number of the natives visited us as they were passing down the River    late in the afternoon <name type="person" key="Pryor, Nathaniel Hale">Sergt. Pryor</name> returned    had been about 4 miles up <name type="place" key="Sandy (Quicksand) River">quick Sand River</name> found the current rapid &amp; only about 4 feet deep.    he killed one
+deer.    the other hunter returned    had killed 4 Elk and 2 deer and an otter    the hunters tells us that the country back from the River is rich land    Some praries and rich plains &amp;C.    a number of Savages passing down the River in their canoes.    we discovred yesterday the top of a high white Mountain Some distance to the Southward    our officers name it <name type="place" key="Mount Jefferson">Mount Jefferson</name>.<ref target="n31040111" n="11"/>    2 canoe loads of Savages Camped near us.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-01.04" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 1st April,</hi> 1806.    We had a cloudy morning; and we agreed to stay 
+here all day, for the purpose of hunting. So 9 hunters<ref target="n31040112" n="12"/> set out early; 3 of whom<ref target="n31040113" n="13"/> went up <name type="place" key="Sandy (Quicksand) River">Quicksand river</name>, and killed a deer; the other six killed 4 elk and a deer. In the evening nine of us went to bring in the meat of the elk; but it being late we were obliged to encamp out all night.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-01.05" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday April 1st    This morning our Officers sent <name type="person" key="Pryor, Nathaniel Hale">Serjeant Pryor</name> &amp; 2 of our party in a Canoe in order to go 5 or Six Miles up 〈<name type="place" key="Sandy (Quicksand) River">Quick Sand</name> or〉 <name type="place" key="Sandy (Quicksand) River">Quicksand</name> or <name type="place" key="Sandy (Quicksand) River">Sandy River</name>, (the River we passed last Evening) &amp; Several of our Men were sent out a hunting.    A number of the Natives visited us in their Canoes, as they were passing down the River.    these Canoes were loaded with fish Roots &amp;ca—    I went up <name type="place" key="Sandy (Quicksand) River">Quick Sand River</name> about 4 Miles.    The backwater from the <name type="place" key="Columbia River">Columbia River</name> went only a quarter of a mile up that River, &amp; then it is a continual rapid as far as I went, &amp; full of Islands, and Sands barrs.    <name type="person" key="Pryor, Nathaniel Hale">Serjeant Pryor</name> killed on his route 1 Deer which he &amp; his party brought to our Camp.    Our hunters also returned, &amp; had killed 4 Elk 2 Deer &amp; an Otter.    On my route up <name type="place" key="Sandy (Quicksand) River">Quicksand River</name> I saw a Creek<ref target="n31040114" n="14"/> which lay on the East side of that River which was about 50 yards wide.    The <name type="place" key="Sandy (Quicksand) River">Quick Sand River</name> is 350 Yards wide &amp; only 50 Yards of Water the remainder being entirely a Quick Sand.—    I found this river part of the way up it, 6 feet deep, &amp; the remainder as far up it as I went, only 6 inches deep of water &amp; 4 inches quick sand.    we saw a high mountain laying a great distance off to the Southward of us, which appeared to be covered with snow.    Our Officers named this Mountain <name type="place" key="Mount Jefferson">Jefferson Mountain</name>.    We had a number of Indians encamped near us for the Night.    they came in 2 Canoes
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n31040101" n="1">Including <name type="person" key="Gibson, George">Gibson</name>.</note>
+            <note xml:id="n31040102" n="2">In <name type="place" key="Hood River County, Oreg.">Hood River County</name>, <name type="place" key="Oregon">Oregon</name>.</note>
+            <note xml:id="n31040103" n="3">The <name type="place" key="Willamette Valley">Willamette Valley</name>, between the <name type="place" key="Coast Ranges">Coast</name> and <name type="place" key="Cascade Range">Cascade</name> ranges.</note>
+            <note xml:id="n31040104" n="4">
+               <name type="person" key="Pryor, Nathaniel Hale">Prior</name> to the building of the <name type="place" key="Columbia River">Columbia River</name> dams, salmon runs peaked about May 1 in this region.</note>
+            <note xml:id="n31040105" n="5">Antelope are more correctly pronghorn, <hi rend="italic">Antilocapra americana.</hi>
+            </note>
+            <note xml:id="n31040106" n="6">The term <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> may be from <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
+               <hi rend="italic">tsoopnit,</hi> "(the act of) punching a hole with a pointed object," and by extension <hi rend="italic">tsoopnitpeloo</hi> meaning "piercing people." It was the captains' name for the tribe; see <ref n="1805-09-20" type="related">September 20, 1805</ref>.</note>
+            <note xml:id="n31040107" n="7">
+               <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater River</name>. The term <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooskee</name> may represent <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
+               <hi rend="italic">qu·sqú·s,</hi> "blue gray"; see <ref n="1805-10-06" type="related">October 6, 1805</ref>.</note>
+            <note xml:id="n31040108" n="8">
+               <hi rend="italic">Ursus americana.</hi>
+            </note>
+            <note xml:id="n31040109" n="9">Apparently strung beads about thirty-six feet in length.</note>
+            <note xml:id="n31040110" n="10">"Seal" may have been added later to a blank space.</note>
+            <note xml:id="n31040111" n="11">The captains named <name type="place" key="Mount Jefferson">Mt. Jefferson</name>, <name type="place" key="Linn County, Oreg.">Linn County</name>, <name type="place" key="Oregon">Oregon</name>, on <ref n="1806-03-30" type="related">March 30</ref>.</note>
+            <note xml:id="n31040112" n="12">
+               <name type="place" key="Gibson, George">Gibson</name> was one of the hunters.</note>
+            <note xml:id="n31040113" n="13">It is not entirely clear if <name type="person" key="Gass, Patrick">Gass</name> is referring to <name type="person" key="Pryor, Nathaniel Hale">Pryor's</name> exploring party which was sent up <name type="place" key="Sandy (Quicksand) River">Sandy River</name>, or to a party of three hunters sent to the area above <name type="place" key="Sandy (Quicksand) River">Sandy River</name>.</note>
+            <note xml:id="n31040114" n="14">Probably either <name type="place" key="Smith Creek (Oreg.)">Smith Creek</name> or <name type="place" key="Big Creek (Oreg.)">Big Creek</name>, <name type="place" key="Multnomah County, Oreg.">Multnomah County</name>, <name type="place" key="Oregon">Oregon</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-03-31-1" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-04-02" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

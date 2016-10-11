@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-04-05">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+April 5, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 7</title>
+               <title level="m" type="sub">March 23–June 9, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1991</date>
+               <biblScope type="pages">75-78</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">286-287</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">206</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-09-30</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-04-05">April 5, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-04-05.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Saturday April 5th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+This morning was so cloudy that I could not obtain any lunar observations with <seg n="u945">α</seg> Aquila as I wished. <name type="person" key="Field, Joseph">Joseph Fields</name> and <name type="person" key="Drouillard, George">Drewyer</name> departed this morning agreeably to their orders of last evening.    at 9 A. M. we Sent <name type="person" key="Ordway, John">Sergt. Ordway</name> and a party to assist <name type="person" key="Pryor, Nathaniel Hale">Sergt. Pryor</name> in bringing in the meat of four Elk which he had dryed.    at 1 P. M the party returned with the meat.    it had been so illy dryed that we feared it would not keep.    we therefore directed it to be cut thinner and redryed over a fire this evening, as we purpose setting out early in the morning.    the deerskins which we have had cased for the purpose of containing our dryed meat are not themselves sufficiently dryed for that purpose, we directed them to be dryed by the fire also.    the weather has been so damp that there was no possibility of pounding the meat as I wished.—    we were visited today by several parties of the natives as usual; they behaved themselves in a very orderly manner. Observed Magnetic Azimuth and altitude of the <seg n="u9737">☉</seg> with Circumferenter and Sextant.</p>
+               <p>
+                  <table rows="4" cols="5">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <lb/>Time By<lb/>Chronometer</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">     </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">Altitude of<lb/>
+                              <seg n="u9737">☉</seg>'s U L.<lb/>with Sextant</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">     </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">Azimuth<lb/>of <seg n="u9737">☉</seg> by<lb/>Circumferenter</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">h    m    s</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">A.M.    6    58    3</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">51    33    30</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S.    89°    E.</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">7    2    43</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">53      7     —</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">S.    88°    E.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+immediately after this observation the sun was suddenly obscured by a cloud and prevented my taking Equal Alitudes. I therefore had recourse to two altitudes in the evening which I obtained as the sun happened to shine a few minutes together through the passing clouds.</p>
+               <p>
+                  <table rows="4" cols="4">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <lb/>Time</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">Altitude of <seg n="u9737">☉</seg>'s L. L.<lb/>
+with Sextant.—</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h    m      s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">P.M.</cell>
+                        <cell role="data" rows="1" cols="1">0    35    21</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">89    29    15</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">3    13    24</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">43    43    30</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+Saw the Log cock,<ref target="n31040501" n="1"/> the hummingbird, gees ducks &amp;c today.    the tick<ref target="n31040502" n="2"/> has made it's appearance    it is the same with those of the Atlantic States.    the Musquetoes have also appeared but are not yet troublesome.—    this morning at 10 OClock Sergt. <name type="person" key="Gass, Patrick">Gass</name> returned with <name type="person" key="Collins, John">Collins</name> and <name type="person" key="Windsor, Richard">Windsor</name>    they had not succeeded in killing the female bear tho' they brought the three cubs with them.    the Indians who visited us today fancyed these petts and gave us wappetoe in exchange for them. <name type="person" key="Drouillard, George">Drewyer</name> informed me that he never knew a female bear return to her young when they had been allarmed by a person and once compelled to leave them. The dogwood<ref target="n31040503" n="3"/> grows abundantly on the uplands in this neighbourhood. it differs from that of the United States in the appearance of it's bark which is much smoother, it also arrives here to much greater size than I ever observed it elsewhere    sometimes the stem is nearly 2 feet in diameter.    we measured a fallen tree of fir No. 1<ref target="n31040504" n="4"/> which was 318 feet including the stump which was about 6 feet high.    this tree was only about 3 ½ feet in diameter.    we saw the martin,<ref target="n31040505" n="5"/> small gees, the small speckled woodpecker with a white back,<ref target="n31040506" n="6"/> the Blue crested Corvus,<ref target="n31040507" n="7"/> ravens,<ref target="n31040508" n="8"/> crows,<ref target="n31040509" n="9"/> eagles Vultures and hawks.    the mellow bug<ref target="n31040510" n="10"/> and long leged spider have appeared, as have also the butterfly blowing fly<ref target="n31040511" n="11"/> and many other insects. I observe not any among them which appear to differ from those of our country or which deserve particular notice.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-05.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Saturday April 5th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+This morning was So Cloudy that we could not obtain any lunar observations with <seg n="u945">α</seg> Aquila as we wished.</p>
+               <p>
+                  <name type="person" key="Field, Joseph">Joseph Field</name> &amp; <name type="person" key="Drouillard, George">Drewrey</name> left us this morning agreeably to their orders of last evening.    at the Same time we Sent <name type="person" key="Ordway, John">Sergt. Ordway</name> and five men to assist <name type="person" key="Pryor, Nathaniel Hale">Sergt. Pryor</name> in bringing in the meat of four Elk which he had dried in the woods.    at 1 p. m. the party returned with the meat.    it was not Sufficiently dryed to keep.    we had it cut thiner and redryed over a fire this evening, as we purpose Setting out early in the morning.    the dear skins which we had cased for the purpose of holding our dried meat is not Sufficently dry for that purpose, we derected them to be dried by the fire also.    the weather being So damp that there was no possibullity of pounding the meat as I wished.—    We were visited by Several parties of the nativs to day; they behaved themselves in a very orderly manner.<ref target="n31040512" n="12"/>
+               </p>
+               <p>
+Saw the Log cock, the humming bird, Geese, Ducks &amp;c. to day.    the tick has made it's appearance it is the Same with those of the Atlantic States.    the Musquetors have also appeared, but are not yet much troublesom.—    this morning at 10 A M Sergt. <name type="person" key="Gass, Patrick">Gass</name> returned with <name type="person" key="Collins, John">Collins</name> and <name type="person" key="Windsor, Richard">Windser</name>    they had not Suceeded in killing the female bear, tho' they brought the three cub's with them.    the Indians who visited us to day fancied those Petts and gave us wappato in exchange for them. Fir and White Cedar is the common growth of the up lands, as is the Cotton wood, ash, large leafed Ash and Sweet Willow that of the bottom lands. The Huckleberry, shallon, and the Several evergreen Shrubs, of that Speces that bears berries have Seased to appear, except that Species which has the leaf with a prickley Margin.    among the plants of this prarie in which we are encamped I observe the pashequo, Shannetahque, and Compound firn, the root of which the nativs eate; also the water cress, Straw berry flowering pea not yet in blume, narrow dock, and <hi rend="italic">rush</hi> which are luxuriant and abundent in the river bottoms.    the large leafed thorn has also disappeard. The red flowering Current is found here in considerable quantities on the upland, and the Common Dog wood is found on either Side of the river in this neighbourhood and above <name type="place" key="Willamette (Multnomah) River">Multnomah river</name>. The Country on either Side is fertile, the bottom on the South Side is wide and inter sperced with Small ponds in which the nativs gather their Wappato.    back of this bottom the Country rises to about 200 feet and the Soil is very rich as that also above q <name type="place" key="Sandy (Quicksand) River">Sandy river</name> quite to the Mountains.    the Country on the N. Side from a fiew Miles above this place as low down as the enterance of <hi rend="italic">
+                     <name type="place" key="Lewis (Cahwahnakiooks) River">Cah-wah-na-ki-ooks</name>
+                  </hi> River rises to the hight generally of 150 or 200 feet is tolerably leavel, thickly timbered with Fir and White Cedar.    the Soil of the richest quallity.<ref target="n31040513" n="13"/> Some Small Praries on the bank of the river. That portion of Country below as low down as the enterance of <name type="place" key="Lewis (Cahwahnakiooks) River">
+                     <hi rend="italic">Cah-wah na ki ooks</hi>
+                     <ref target="n31040514" n="14"/> River</name> is a broken rich Country.    the hills are high, the bottom lands as before mentioned and fertile &amp;c.—The Country a fiew miles up the <name type="place" key="Willamette (Multnomah) River">Multnomah River</name> rises from the river bottoms to the hight of from 2 to 300 feet and is rich &amp; fertile. Some Plains can be Seen to the N. E. of our Camp of 10 or 12 miles in Secumference The Hunters &amp; Serjt <name type="person" key="Pryor, Nathaniel Hale">Pryor</name> informed us that they had Measured a tree on the upper Side of <name type="place" key="Sandy (Quicksand) River">quick Sand River</name> 312 feet long and about 3 feet through at the Stump.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-05.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Saturday 5th of April 1806. Sergt. <name type="person" key="Gass, Patrick">Gass</name> &amp; 2 other of the hunters returnd. with 3 Small black cubs which was sold to the Savages    I and 5 more men went over to the S. Side and climbed a high River hill on which is excelent rich land.    went to the Camp of our hunters and brought in the jurked meat.    three more hunters Sent on a head with their Small canoe a hunting    great numbers of Savages visited the Camp continually Since we have lay [in?] at this Camp, who were passing down with their famillys from the country above into the vally of <name type="place" key="Columbia River">Columbia</name> in Search of food.    they inform us that the natives above the great falls have no provisions and many are dieing with hunger.    this information has been so repeatedly given by different parties of Indians that it does not admit of any doubt and is the cause of our delay in this neighbourhood for the purpose of procureing as much dryed Elk meat as will last us through the <name type="place" key="Great Columbian Plain">Columbia plains</name> in which we do not expect to find any thing to kill &amp;C.    the River hills are high above <name type="place" key="Sandy (Quicksand) River">Quick Sand River</name>    Some of the clifts is 200 feet high.    on the tops of those hills the land is excessively rich and thickly timbred with different Species of Fir intermixed with white cedder. I Saw one of the Fir trees which is 100 and 4 feet in length. Some dog wood<ref target="n31040515" n="15"/> and Small Shrubs, in the River bottoms of the fertile valley of <name type="place" key="Columbia River">Columbia</name> which we are now leaveing, and which extends for about 70 miles on the River below, the growth is ash cottonwood, large leaffed ash &amp; Sweet willow<ref target="n31040516" n="16"/> principally with sundry other Shrubs and bushes many of which bear a fruit which the natives make use of for food.    those bottoms also produce various Species of plants.    the roots of many of which the natives make use of prepared in different ways for food. Such as the root of the anual rush pasnaque wa pa toe which is the common arrow head &amp; a Species of Fern<ref target="n31040517" n="17"/>    the wapatoes they geather in the ponds but all other grow spontaineously in every part of the <name type="place" key="Columbia River">Columbian</name> valley—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-05.04" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 5th.</hi>    The weather was plesant. There is a beautiful prairie and a 
+number of ponds below the mouth of <name type="place" key="Sandy (Quicksand) River">Sandy river</name>; and about two miles from the <name type="place" key="Columbia River">Columbia</name> the soil is rich with white cedar timber,<ref target="n31040518" n="18"/> which is very much stripped of its bark, the natives making use of it both for food and clothing.<ref target="n31040519" n="19"/> A number of the Indians visit us daily; and the females in general have that leather covering round their loins, which is somewhat in the form of a truss.
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n31040501" n="1">The pileated woodpecker, <hi rend="italic">Dryocopus pileatus</hi> [AOU, 405]; see <ref n="1806-03-04" type="related">March 4, 1806</ref>.</note>
+            <note xml:id="n31040502" n="2">Either <name type="place" key="Rocky Mountains">Rocky Mountain</name> wood tick, <hi rend="italic">Dermacentor andersoni,</hi> or <hi rend="italic">Ixodes pacificus.</hi>
+            </note>
+            <note xml:id="n31040503" n="3">Nuttall's dogwood, <hi rend="italic">Cornus nuttallii</hi> Aud. ex T. &amp; G., a new species. Hitchcock et al., 3:588; Cutright (LCPN), 288, 407. <name type="person" key="Lewis, Meriwether">Lewis</name> compares it to the flowering dogwood, <hi rend="italic">Cornus florida</hi> L. Bailey, 757. A vertical line runs through this passage and nearly to the end of the entry, perhaps <name type="person" key="Biddle, Nicholas">Biddle's</name> work.</note>
+            <note xml:id="n31040504" n="4">Sitka spruce, <hi rend="italic">Picea sitchensis</hi> (Bong.) Carr.; see <ref n="1806-02-04" type="related">February 4, 1806</ref>.</note>
+            <note xml:id="n31040505" n="5">Perhaps the purple martin, <hi rend="italic">Progne subis</hi> [AOU, 611]. Holmgren, 32.</note>
+            <note xml:id="n31040506" n="6">Either the hairy woodpecker, <hi rend="italic">Picoides villosus</hi> [AOU, 393], or downy woodpecker, <hi rend="italic">P. pubescens</hi> [AOU, 394]. Holmgren, 34; Burroughs, 240–41.</note>
+            <note xml:id="n31040507" n="7">Steller's jay, <hi rend="italic">Cyanocitta stelleri</hi> [AOU, 478]. See <name type="person" key="Lewis, Meriwether">Lewis's</name> description at an undated entry, <ref n="1805-12-05" type="related">December 18, 1805</ref>.</note>
+            <note xml:id="n31040508" n="8">Common raven, <hi rend="italic">Corvus corax</hi> [AOU, 486].</note>
+            <note xml:id="n31040509" n="9">
+               <hi rend="italic">Corvus brachyrhynchos</hi> [AOU, 488].</note>
+            <note xml:id="n31040510" n="10">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> probably meant "melon bug," actually a beetle of the family Chrysomelidea.</note>
+            <note xml:id="n31040511" n="11">From the family Calliphoridae.</note>
+            <note xml:id="n31040512" n="12">Here follows <name type="person" key="Clark, William">Clark's</name> copy of <name type="person" key="Lewis, Meriwether">Lewis's</name> astronomical observation.</note>
+            <note xml:id="n31040513" n="13">The soils that have developed on the terraces above the <name type="place" key="Columbia River">Columbia River</name> here belong to the Multnomah-Latourell soil association. These soils are dominantly a dark brown loam or silt loam.</note>
+            <note xml:id="n31040514" n="14">Both this and the previous reference to the river appear to be additions to blank spaces.</note>
+            <note xml:id="n31040515" n="15">Nuttall's dogwood, <hi rend="italic">Cornus nuttallii</hi> Aud. ex T. &amp; G.; see Lewis's entry of this day.</note>
+            <note xml:id="n31040516" n="16">The ash is Oregon ash, <hi rend="italic">Fraxinus latifolia</hi> Benth.; cottonwood is black cottonwood; large leafed ash is bigleaf maple, <hi rend="italic">Acer macrophyllum</hi> Pursh; and sweet willow is probably <name type="place" key="Pacific Ocean">the Pacific</name> willow, <hi rend="italic">Salix lasiandra</hi> Benth. See Lewis's entries of <ref n="1806-03-25" type="related">March 25</ref> and <ref n="1806-03-27" type="related">27</ref>.</note>
+            <note xml:id="n31040517" n="17">The rush is probably giant horsetail, <hi rend="italic">Equisetum telmateia</hi> Ehrh.; "pasnaque" may be <name type="person" key="Ordway, John">Ordway's</name> rendering of the <name type="native_nation" key="Shoshone Indians">Shoshone</name> term <hi rend="italic">pasigoo,</hi> designating camas (see <name type="person" key="Clark, William">Clark's</name> entry of <ref n="1805-09-20" type="related">September 20, 1805</ref>); arrowhead is another name for wapato; and the fern is western bracken fern, <hi rend="italic">Pteridium aquilinium</hi> L. This material largely follows <name type="person" key="Clark, William">Clark's</name> entry of this day.</note>
+            <note xml:id="n31040518" n="18">
+               <name type="person" key="Gass, Patrick">Gass</name> here refers probably to western redcedar, which the captains' usually called white 
+cedar, but <name type="person" key="McKeehan, David">McKeehan's</name> note, next, relates perhaps to western hemlock, <hi rend="italic">Tsuga heterophylla</hi> 
+(Raf.) Sarg.</note>
+            <note xml:id="n31040519" n="19">
+               <name type="person" key="McKeehan, David">McKeehan's</name> note: "<name type="person" key="Mackenzie, Alexander">Mr. M'Kenzie</name> also mentions that the western Indians make use of 
+the inner tegument of the bark of trees for food; and that it is generally considered by the more interior Indians as a delicacy, rather than an article of common food: that on this and herbs they are used to sustain themselves on their journies. He likewise states that of the inner rind of the hemlock, taken off early in the spring they make a kind of cakes, which they eat with salmon oil, and of which they appear very fond."</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-04-04" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-04-06" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

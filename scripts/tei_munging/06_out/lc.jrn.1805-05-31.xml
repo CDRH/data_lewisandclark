@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-05-31">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+May 31, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 4</title>
+               <title level="m" type="sub">April7–July 27, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">224-234</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">159-160</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">96</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">180-181</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-05-31.01">
+            <placeName/>
+            <geo>47.9154 -110.0579</geo>
+            <note>Above Eagle Creek in Chouteau County, MT.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-01-23</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-05-31">May 31, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-05-31.01" n="lc.geo.1805-05-31.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Friday May 31st 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+This morning we proceeded at an early hour with the two perogues leaving the canoes and crews to bring on the meat of the two buffaloe that were killed last evening and which had not been brought in as it was late and a little off the river.    soon after we got under way it began to rain and continued untill meridian when it ceased but still remained cloudy through the ballance of the day. The obstructions of rocky points and riffles still continue as yesterday; at those places the men are compelled to be 〈much〉 in the water even to their armpits, and the water is yet very could, and so frequent are those point that they are one fourth of their time in the water, added to this the banks and bluffs along which they are obliged to pass are so slippery and the mud so tenacious that they are unable to wear their mockersons, and in that situation draging the heavy burthen of a canoe and walking ocasionally for several hundred yards over the sharp fragments of rocks which tumble from the clifts and garish the borders of the river; in short their labour is incredibly painfull and great, yet those faithfull fellows bear it without a murmur. The toe rope of the white perogue, the only one indeed of hemp, and that on which we most depended, gave way today at a bad point, the perogue swung and but slightly touched a rock, yet was very near overseting; I fear her evil gennii will play so many pranks with her that she will go to the bottomm some of those days.—    <name type="person" key="Clark, William">Capt. C.</name> walked on shore this morning but found it so excessively bad that he shortly returned.    at 12 OCk. we came too for refreshment and gave the men a dram which they received with much cheerfullness, and well deserved.—</p>
+               <p>
+                  <ref target="n14053101" n="1">The hills and river Clifts which we passed today exhibit a most romantic appearance.</ref> The bluffs of the river rise to the hight of from 2 to 300 feet and in most places nearly perpendicular; they are formed of remarkable white sandstone which is sufficiently soft to give way readily to the impression of water; two or thre thin horizontal stratas of white free-stone, on which the rains or water make no impression, lie imbeded in these clifts of soft stone near the upper part of them; the earth on the top of these Clifts is a dark rich loam, which forming a graduly ascending plain extends back from ½ a mile to a mile where the hills commence and rise abruptly to a hight of about 300 feet more. The water in the course of time in decending from those hills and plains on either side of the river has trickled down the soft sand clifts and woarn it into a thousand grotesque figures, which with the help of a little immagination and an oblique view at a disance, are made to represent eligant ranges of lofty freestone buildings, having their parapets well stocked with statuary; collumns of various sculpture both grooved and plain, are also seen supporting long galleries in front of those buildings; in other places on a much nearer approach and with the help of less immagination we see the remains or ruins of eligant buildings; some collumns standing and almost entire with their pedestals and capitals; others retaining their pedestals but deprived by time or accident of their capitals, some lying prostrate an broken othes in the form of vast pyramids of connic structure bearing a sereis of other pyramids on their tops becoming less as they ascend and finally terminating in a sharp point.    nitches and alcoves of various forms and sizes are seen at different hights as we pass.    a number of the <ref target="n14053102" n="2">small martin</ref> which build their nests with clay in a globular form attatched to the wall within those nitches, and which were seen hovering about the tops of the 〈broken〉 collumns did not the less remind us of some of those large stone buildings in the U' States.    the thin stratas of hard freestone intermixed with the soft sandstone seems to have aided the water in forming this curious scenery. As we passed on it seemed as if those seens of visionary inchantment would never have and end; for here it is too that nature presents to the view of the traveler <ref target="n14053103" n="3">vast ranges of walls of tolerable workmanship,</ref> so perfect indeed are those walls that I should have thought that nature had attempted here to rival the human art of masonry had I not recollected that she had first began her work. These walls rise to the hight in many places of 100 feet, are perpendicular, with two regular faces and are from one to 12 feet thick, each wall retains the same thickess at top which it possesses at bottom. The stone of which these walls are formed is black, dence and dureable, and appears to be composed of a large portion of earth intermixed or cemented with a small quantity of sand and a considerable portion of talk or quarts.    these stones are almost invariably regular parallelepipeds, of unequal sizes in the walls, but equal in their horizontal ranges, at least as to debth.    these are laid regularly in ranges on each other like bricks, each breaking or covering the interstice of the two on which it rests.    thus the purpendicular interstices are broken, and the horizontal ones extend entire throughout the whole exent of the walls. These stones seem to bear some proportion to the thickess of the walls in which they are employed, being larger in the thicker walls; the greatest length of the parallelepiped appears to form the thickess of the thiner walls, while two or more are employed to form that of the thicker walls. These walls pass the river in several places, rising from the water's edge much above the sandstone bluffs, which they seem to penetrate; thence continuing their course on a streight line on either side of the river through the gradually ascending plains, over which they tower to the hight of from ten to seventy feet untill they reach the hills, which they finally enter and conceal themselves.    these walls sometimes run parallel to each other, with several ranges near each other, and at other times interscecting each other at right angles, having the appearance of the walls of ancient houses or gardens. I walked on shore this evening and examined these walls minutely and preserved a specimine of the stone. I found the face of many of the river hills formed of Clifts of very excellent <ref target="n14053104" n="4">free stone of a light yellowish brown colour;</ref> on these clifts I met with a <ref target="n14053105" n="5">species of pine which I had never seen, it differs from the pitchpine in the particular of it's leaf and cone, the first being vastly shorter, and the latter considerably longer and more pointed.</ref> I saw near those bluffs the most beautifull fox that I ever beheld, the colours appeared to me to be a fine orrange yellow, white and black, I endevoured to kill this anamal but it discovered me at a considerable distance, and finding that I could get no nearer, I fired on him as he ran, and missed him; he concealed himself under the rocks of the clift; it appeared to me to be about the size of the common red fox of the Atlantic states, or reather smaller than the large fox common to this country; <ref target="n14053106" n="6">convinced I am that it is a distinct species.</ref>
+                  <ref target="n14053107" n="7">The appearance of coal continu[e]s but in small quanities, but litt[l]e appearance of birnt hills or pumice stones    the mineral salts have in some measure abated and no quarts.</ref>    we saw a great number of the Bighorn some mule deer and a few buffaloe and Elk, no antelopes or common deer. <name type="person" key="Drouillard, George">Drewyer</name> who was with me and myself killed two bighorned anamals; the sides of the Clifts where these anamals resort much to lodg, have the peculiar smell of the sheepfolds.    the party killed in addition to our hunt 2 buffaloe and an Elk.    the river today has been from 150 to 250 yds. wide    but little timber today on the river.</p>
+               <p>
+                  <table rows="15" cols="3">
+                     <head>
+                        <hi rend="italic">Courses and distances of May 31st 1805.</hi>
+                        <ref target="n14053108" n="8"/>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">to a few trees in a bend on Stard. side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a few trees on a Stard. point</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">On the Stard. point</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¾</cell>
+                        <cell role="data" rows="1" cols="1">to the lower part of the timber in a Stard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a few trees on the Stard. side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 78° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">to some trees on the Stard. side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">to a point on the Stard. side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">Along the Stard. point.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">Along the Stard. point passing a <ref target="n14053109" n="9">high wall of black rock</ref>
+                           <lb/>
+on Lard. rising from the water's edge above the river clifts</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to a tree in a bend on Stard. opposite to a high open<lb/>
+bottom.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 42 W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to a point on the Stard. side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10 E.</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">to a point on the Lard. side opposite to a wall of black<lb/>
+rock 200 feet high penetrating the bluff</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 20 W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">to four trees in a bend on Lard. side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">  3 ½</cell>
+                        <cell role="data" rows="1" cols="1">to the upper part of a timbered bottom on the Stard. side<lb/>
+above the entrance of <ref target="n14053110" n="10">
+                              <name type="place" key="Eagle (Stonewall) Creek">stone wall [<hi rend="italic">EC: Stonewall</hi>] creek</name>
+                              <lb/> affording water and 28 yds. wide just above the mouth<lb/>
+of which we encamped.</ref>    at 1 m on this course passed a<lb/>
+                           <ref target="n14053111" n="11">high stone wall</ref> on Std. 12 feet thick and rising 200 feet.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Miles </hi>
+                        </cell>
+                        <cell role="sum" rows="1" cols="1">18</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-31.02" n="lc.geo.1805-05-31.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">May 31st Friday 1805.</hi>
+                     <ref target="n14053112" n="12"/>
+                  </date>
+               </ab>
+               <p>
+A cloudy morning    we dispatched all the Canoes to Collect the meat of 2 Buffalow killed last night a head and a little off the river, and proceeded on with the perogues at an early hour. I attempted to walk on Shore    Soon found it verry laborious as the mud Stuck to my mockersons &amp; was verry Slippery. I return'd on board.    it continued to rain moderately untill about 12 oClock when it ceased, &amp; Continued Cloudy.    the Stone on the edge of the river continue to form verry Considerable rapids, we [which] are troublesom &amp; dificuelt to pass, our toe rope which we are obliged to make use of altogether broke &amp; we were in Some danger of turning over in the perogue in which I was, we landed at 12 and refreshed the men with a dram, our men are obliged to under go great labour and fatigue in assending this part of the <name type="place" key="Missouri River">Missouri</name>, as they are compelled from the rapidity of the Current in many places to walk in the water &amp; on Slippery hill Sides or the Sides of rocks, on Gravel &amp; thro' a Stiff mud bear footed, as they Cannot keep on Mockersons from the Stiffness of the mud &amp; decline of the Slipy. hills Sides—    The Hills and river Clifts of this day exhibit a most romantick appearance    on each Side of the river is a white Soft Sand Stone bluff which rises to about half the hight of the hills, on the top of this Clift is a black earth on points, in maney places this Sand Stone appears like antient ruins some like elegant buildings at a disance, Some like Towers &amp;c. &amp;c.    in maney places of this days march we observe on either Side of the river extraodanary walls of a black Semented Stone which appear to be regularly placed one Stone on the other, Some of those walls run to the hite of 100 feet, they are from about 1 foot to 12 feet thick and are perpendicular, those walls Commence at the waters edge &amp; in Some places meet at right angles—    those walls appear to Continue their Course into the Sand Clifts, the Stones which form those walls are of different Sizes all Squar edged, Great numbers has fallen off from the walls near the river which cause the walls to be of uneaquil hite, in the evening the Countrey becomes lower and the bottoms wider, no timber on the uplands, except a few Cedar &amp; pine on the Clifts a few Scattering Cotton trees on the points in the river bottoms, The apparance of Coal Continus    <name type="person" key="Lewis, Meriwether">Capt Lewis</name> walked on Shore &amp; observed a Species of Pine we had never before Seen, with a Shorter leaf than Common &amp; the bur different, he also Collected Some of the Stone off one of the walls which appears to be a Sement of Isin glass black earth    we Camped on the Stard Side in a Small timbered bottom above the mouth of a Creek on the Stard Side our hunters killed, 2 animals with big horns, 2 Buffalow &amp; an Elk, we Saw Great numbers of those big horned animals on the Clifts, but fiew Buffalow or Elk, no antelope, a fiew mule deer, Saw a fox to day. The river rises a little    it is from 150 to 250 yds. wide</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-31.03" n="lc.geo.1805-05-31.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">May 31st Friday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+Cloudy morning, we proceeded on at an early hour with the two Perogues leaving the Canoes and crews to bring on the meat of two Buffalow that were killed last evening and which had not been brought in as it was late and a little off the river. Soon after we got under way it began to rain and Continued untill 12 oClock when it Seased but Still remained cloudy through the ballance of the day.    the obstructions of rocky points and riffles Still continue as yesterday; at those places the men are compelled to be in the water even to their armpits, and the water is yet very cold, and So frequent are those points that they are one fourth of their time in the water.    added to this the bank and bluff along which they are obliged to pass are So Slippery and the mud So tenatious that they are unable to bare their mockersons, and in that Situation dragging the heavy burthen of a Canoe and Walking occasionally for Several hundred yards over the Sharp fragments of rocks which tumble from the Clifts; and in Short their labour is incredibly painfull and great, yet those faithfull fellows bear it without a murmer.</p>
+               <p>The toe rope of the white perogue, the only one indeed of hemp, and that on which we most depended, gave way to day at a bad point, the perogue Swong and but slightly touched a rock, yet was very near oversetting; I fear her evil Ginnie will play So many pranks with her that She will go to the bottom Some of those days.</p>
+               <p>I attempted to walk on Shore this morning but found it so excessivily bad that I Soon returned on board.    at 12 oClock we came too for refreshment and gave the men a dram which they received with much Chearfulness, and well deserved all wet and disagreeable. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> walked on Shore, he informed one that he Saw "the most butifull fox in the world" the Colour appeared to him to be of a fine Orrange yellow, white and black, he fired at this fox running and missed him, he appeared to be about the size of the common red fox of the united States, or rather smaller.</p>
+               <p>The hills and river clifts which we pass to day exhibit a most romantic appearance. The Bluffs of the river rise to the hight of from 2 to 300 feet and in most places nearly perpendicular; they are formed of remarkable white Sandstone which is Sufficiently Soft to give way readily to the impression of water; two or three thin horizontal Stratas of white free Stone, on which the rains or water make no impression, lie imbeded in those clifts of Soft Stone near the upper part of them; the earth on the top of these clifts is a dark rich loam, which forming a gradual ascending plain extend back from ½ a mile to a mile where the hills commence and rise abruptly to the hight of about 300 feet more. The water in the Course of time acecending from those hills and plains on either Side of the river has trickled down the Soft Sand Clifts and woarn it into a thousand grotesque figures; which with the help of a little imagination and an oblique view at a distance are made to represent elegant ranges of lofty freestone buildings, haveing their parapets well Stocked with Statuary; Colloms of various Sculptures both Grooved and plain, are also Seen Supporting long galleries in part of those buildings; in other places on a much nearer approach and with the with the help of less immagination we See the remains of ruins of eligant buildings; Some Collumns Standing and almost entire with their pedestals and Capitals, others retaining their pedestals but deprived by time or accedint of their capitals, Some lying prostrate and broken, others in the form of vast Pyramids of connic Structure bearing a Serious of other pyramids on their tops becomeing less as they ascend and finally termonateing in a Sharp point.    nitches and alcoves of various forms and Sizes are Seen at different hights as we pass.    a number of the Small martin which build their nests with Clay of a globular form attached to the wall within those nitches, and which were Seen hovering about the top of the collumns did not the less remind us of Some of those large Stone buildings in the United States. The thin Stratas of hard free Stone intermixed with the Soft Sand Stone Seems to have aided the water in forming this Curious Scenery.</p>
+               <p>
+as we passed on it Seemed as if those Seens of Visionary enchantment would never have an end; for here it is too that nature presents to the view of the traveler vast ranges of walls of tolerable workmanship, So perfect indeed are those falls [walls] that I Should have thought that nature had attempted here to rival the human art of Masonry had I not recollected that She had first began her work. These walls rise to the hight in many places of 100 feet, are perpindicular, with two regular faces, and are from one to 12 feet thick, each wall retains the Same thickess to the top which it possesses at bottom. The Stone of which these walls are formed is black, dense and dureable, and appears to be Composed of a large portion of earth intermixed or Cemented with a Small quantity of Sand and a Considerable portion of quarts.    these Stones are almost invariably regular parallelepipeds, of unequal Sizes in the wall, but equal in their horizontal ranges, at least as to debth.    These are laid
+regularly in ranges on each other like bricks, each breaking or covering this interstice of the two on which it rests, thus the pirpendicular interstices are broken, and the horizontal ones extend entire throughout the
+whole extent of the walls. These Stones Seam to bear Some proportion to the thickness of the walls in which they are employd, being larger in the thicker walls; the greatest length of the parallelepiped appear to form the
+thickness of the thiner walls, while two or more are employed to form that of the thicker walls. Those walls pass the river in Several places rising from the waters edge much above the <name type="place" key="Sandstone Bluffs">Sand Stone Bluffs</name>, which they Seam to penetrate; thence Continueing their course on a Streight line on either Side of the river thorough the gradually ascending plains over which they tower to the hight of from ten to 90 feet untill they reach the hills which they finally enter and Conceal themselves.    these walls Sometimes run parallel to each other, with Several ranges near each other, and at other times intersecting each other at right angles, haveing the appearance of the walls of ancient houses or gardins.    both <name type="person" key="Lewis, Meriwether">Capt Lewis</name> and My self walked on Shore this evening and examined those walls minutely and preserved a Specimine of the Stone.—    I found many clifts of very excellent free Stone of a light yellowish brown Colour. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> observed a Species of pine which I had never Seen, it differs from the pitch pine in the particular of its leaf and Cone, the first being partly Shorter, and the latter considerably longer and more pointed. The appearance of Coal Continues but in Smaller quantities, but little appearance of burnt hills or pumicestone.    the mineral Salt in Some measure have abated and no
+quarts.    we Saw a great number of the Big Horn, Some mule deer, and a few Buffalow and Elk, no antelopes or Common Deer—. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> killed a Big horn animal.    the party killed 2 Buffalow one Elk and a Big horn or Ibex to day—. The river has been from 150 to 250 yards wide but little timber on the river to day.    river less muddy than it was below.</p>
+               <p>
+                  <table rows="16" cols="3">
+                     <head>
+                        <hi rend="italic">Course &amp; Distance May 31st 1805</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">miles</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° W</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">to a fiew trees in a bend Stard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a fiew trees on the Stard. point</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">on the Stard point</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¾</cell>
+                        <cell role="data" rows="1" cols="1">to the lower part of a timber in a Stard. bend.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a fiew trees on the Stard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 78° W</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">to Some trees on the Stard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">to the point on the Stard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° W</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">on the Stard. point</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">on the Stard. point opsd. a high Steep black rock riseing<lb/>
+from the waters edge</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to a tree in a bend to the Stard. Side opsd. a high open<lb/>
+bottom</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 42° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to the point on the Stard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° E</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">to a point on the Lard Side a high black Conical rock of<lb/>
+200 feet high on the Std. Sd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 20° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">to 4 trees in a bend to the Lard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rend="underline" rows="1" cols="1">  3 ½</cell>
+                        <cell role="data" rows="1" cols="1">to the upper part of a timbered bottom on the Stard. Side<lb/>
+above the mouth of <ref target="n14053113" n="13">Stone wall</ref> Creek which Contains<lb/>
+water    passed a high Stone wall about 200 feet high &amp; 12<lb/>
+feet thick on the Std Side &amp; encamped at the mouth of the<lb/>
+Creek S. S. in a thickly timbered bottom of Small Cotton<lb/>
+Woods    this Creek is a bold Stream of Clear Water</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">miles </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">18</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-31.04" n="lc.geo.1805-05-31.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">May 31st Friday 1805</hi>.    a Cloudy morning.    the canoes all dispached
+eairly to collect the meat of 2 buffalow killed last night.    the perogues proceeded on    it continued to rain moderately untill about 12 oClock when it ceased &amp; continued cloudy.    the Stones on the edges of the river continue to form very considerable rapids.    we find them difficult to pass.    the tow rope of the white perogue which we were oblidge to make use of broke &amp; was in Some danger of turning over.    we landed at 12 oClock    the Capts. gave the or refreshed the party with a dram    we are oblidged to undergo great labour and fatigue in ascending this part of the <name type="place" key="Missouri River">Missourie</name> as they are compelled from the rapidity of the current in many places to walk in the water &amp; on Slippery hill sides on the Sides of rocks &amp;.c.    on gravel &amp; thro Stiff mud, bear footed &amp; we cannot keep on moccasons from the Stiffness of the mud &amp; decline of the Steepp hill sides—    the hills and river cliffts of this day exhibit a most romantick appearence<ref target="n14053114" n="14"/>    on each Side of the river is a white Soft Sand Stone bluffs which rises to about half the hight of the hills, on the top of this Clift is a black earth.    on points in many places this sand Stone appears like antient ruins    Some like elegant buildings at a distance, Some like Towers &amp;.C. &amp;.C.    in many places of this days march we observe on either Side of the river extroardanary walls of a black semented stone which appear to be regularly placed one Stone on the other. Some of those walls rise to the hight of 100 feet.    they are from about 9 foot to 12 feet deep or thick and are perpinticular.    those walls commence at the waters edge &amp; in some places meet at right angles.    those walls appear to continue thier course into the Sand clifts.    the Stone which for those walls are of different Sizes all Square edged.    great nombers has fallen from the walls near the river which causes the wall of unequal hite, in the hollars &amp; gullies I Saw Some Scrubby ceddr.    the low walls Strait White &amp; handsom, like ancient elegant buildings. towards evening the country becomes lower and the bottoms wider.    no timber on the uplands, except a fiew ceddr &amp; pine on the clifts.    a fiew Scatering cottonwood trees on the points in the river bottoms. The appearence of coal continues. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> walked on Shore &amp; observed a Species of pine we had never before Seen, with a Shorter leaf than common &amp; The burr different, he also collected Some of the Stone of one of the walls which appears to be a Siment of Sun glass black earth. we Camped on the Stard. Side in a Small timberd handsom bottom above the mouth of a creek on the Stard. Side.    the hunters killed 2 animels with big horns.    2 buffalow an Elk &amp; a black taild or mule deer.    we Saw a nomber of those big horned animels on the clifts.    but fiew buffalow or Elk, no antilope, a fiew mule Deer. Saw a fox to day.    the river rises a little    it is from 150 to <hi rend="italic">250</hi> yards wide. Came 18 miles to day.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-31.05" n="lc.geo.1805-05-31.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 31st.</hi>    We embarked early in a cloudy morning; passed through a mountainous country, but the game is more plenty, and we killed some buffaloe in our way. About 11 o'clock it began to rain slowly, and continued raining two hours, when it cleared up. We passed some very curious cliffs and rocky peaks, in a long range. Some of them 200 feet high and not more than eight feet thick. They seem as if built by the hand of man, and are so numerous that they appear like the ruins of an antient city. We went 17½ miles and encamped at the mouth of a handsome creek on the North side.
+
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-31.06" n="lc.geo.1805-05-31.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 31st May 1805</hi>.    cloudy.    we Set off as usal.    the canoes crossed the river &amp; the men went for the meat which was killed last night.    one of the hunters killed an Elk.    we proceeded on.    abt. 11 oC. began to rain, rained moderately for Some time.    we passed verry high clifts of rocks, halted 〈abt. noon〉 at 12 oC. to dine.    our Captains gave each man a draughm of Spirits as it was wet.    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> killed a fat buffaloe, &amp; Some of the hunters killed 2 more but lost one of them in the river.    abt 1 oC. we proceeded on    passed high white clifts of rocks &amp; Some pinecles which is 100 feet high from the Surface of the water.    Some verry high black walls of Stone also on each Side of the river, which is curious to See.    we Saw a brown bear on the N. S.    Some of the hunters went out in order to kill it.    passed Straight white clifts of rocks on the S. Side    Came 17½ miles &amp; Camped at a handsom bottom covered with c. wood timber on the N. S. which was the first timber we Saw to day except a fiew Scatering trees along the Shore and a fiew ceeders on the hills.    the current has been Swift all this day.    the hunters came in at dark had killed 1 black taild. Deer 2 Ibex or mountain Sheep (rams) which had handsom large horns.    we took care of the horns in order to take them back to the U. States.    a pleasant evening.    (one man Saw a large pond or Small lake, out in the plains on South Side)</p>
+               <p>
+Friday May 31st    We had cloudy weather this morning, one of our Hunters went out Early this morning and killed an Elk which was brought to us.—    We set off early and proceeded on our Voyage, still towing the Crafts; about 11 o'Clock A. M it began to rain, and rained moderately, for some time; We continued on, and passed some high Clifts of Rocks, lying on both sides of the River.—    About 12 o'Clock A. M. we halted to dine, Our Officers gave each Man, a dram of Spirit, they being wet and Cold; <name type="person" key="Lewis, Meriwether">Captain Lewis</name> went out
+hunting, and killed a fat buffalo; and some of the Hunters that was out hunting killed 2 More of those Animals, but lost one of them in the River; the Buffalo being brought to us, about One o'Clock P. M. we proceeded on our Voyage, and passed high white Clifts of rocks, and some high pinnacles which was 100 feet high from the Surface of the Water, and some very high black Walls of Stone, lying on each side of the River, which appeared curious, We also saw a brown Bear, on the North side of the River; and some of our hunters went out in order to kill it, We went on and passed some straight white Clifts of rocks which lay on the South side of the River, The current of the River ran very strong, the whole of this day, The hunters returned to us in the Evening, they had killed 1 black Tailed deer, &amp; 2 Ibex or mountain Sheep, They were 2 Rams and had handsome large Horns, those Horns the Officers, had taken care of, in Order to carry them back with us, to the United States.—    One of our hunters mention'd of his having seen a very large lake, or pond, of water, on the South side of the River.—</p>
+               <p>
+In the Evening, the weather cleared off, and became pleasant; and we encamped, at a handsome bottom, covered with Cotton wood, Timber lying on the North side of the River; which was the first growth of timber, that we had seen this day; excepting a few scattering Trees, along the Shores, and a few Cedar Trees, which grew on the hills, We came this day 17½ Miles
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n14053101" n="1">They were within the <name type="place" key="Missouri River, White Cliffs of the">White Cliffs</name> area of the <name type="place" key="Missouri River, Breaks of the">Missouri River Breaks</name>, in <name type="place" key="Chouteau County, Mont.">Chouteau County</name>, <name type="place" key="Montana">Montana</name>. <hi rend="italic">Atlas</hi> maps 41, 53, 60, 61; MRC map 74. Subsequent travelers were also impressed with the "romantic appearance" of these cliffs and over the years names have been applied to the more prominent formations. The names are given in notes that follow as <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> make reference to the formations. During the glacial period, ice forced the <name type="place" key="Missouri River">Missouri River</name> to cut a new channel from near <name type="place" key="Virgelle, Mont.">Virgelle</name> to <name type="place" key="Fort Peck Dam">Fort Peck Dam</name>, <name type="place" key="Montana">Montana</name>. The channel here has been cut more than three hundred feet deep through late Cretaceous formations of the Claggett Shale, <name type="place" key="Eagle Sandstone">Eagle Sandstone</name>, and Marias River Shale. The most conspicuous of these is the nearly white sandstone of the Virgelle Member of the <name type="place" key="Eagle Sandstone">Eagle Sandstone</name>. Red-brown iron concretions up to eight feet in diameter occur at the top of the Virgelle Member in many places. The concretions are very resistant to erosion and protect the softer, underlying sandstone. Sandstone not protected by concretions erodes away leaving columns and pillars of white sandstone. Various degrees of protection by overlying materials has produced a variety of geometric figures.</note>
+            <note xml:id="n14053102" n="2">The cliff swallow, <hi rend="italic">Hirundo pyrrhonota</hi> [AOU, 612]. Holmgren, 32.</note>
+            <note xml:id="n14053103" n="3">Intruded into the Claggett Shale, <name type="place" key="Eagle Sandstone">Eagle Sandstone</name>, and Marias River Shale that flank the river are numerous, near-vertical sheets of igneous rock (shonkinite) called dikes. Their average width is about four feet. The dikes greatly resist erosion and, consequently, stand out from the surrounding sedimentary formations rather like walls. They contain no talc or quartz.</note>
+            <note xml:id="n14053104" n="4">The term "freestone" was used to describe any easily cut or quarried limestone or sandstone. The rock described here belongs to the <name type="place" key="Eagle Sandstone">Eagle Sandstone</name>, especially the Virgelle Member. Someone, perhaps <name type="person" key="Biddle, Nicholas">Biddle</name>, drew a red vertical line through the passages that begin, "I found the face" to "kill this animal."</note>
+            <note xml:id="n14053105" n="5">These are the needles and cones of <hi rend="italic">Pinus flexilis</hi> James, limber pine. This locality is a range extension from the nearest present known locality in the <name type="place" key="Little Belt Mountains">Little Belt Mountains</name>, approximately fifty miles to the south. Limber pine is typically found growing in exposed, rocky locations at middle elevations east of the continental divide and reaches outward onto the <name type="place" key="Great Plains">Great Plains</name> in this area of central <name type="place" key="Chouteau County, Mont.">Chouteau County</name>. Little, 56-W; Hahn, <hi rend="italic">Pinus</hi> map.</note>
+            <note xml:id="n14053106" n="6">Not a distinct species as <name type="person" key="Lewis, Meriwether">Lewis</name> supposed, but a cross fox, a color phase of the red fox,
+<hi rend="italic">Vulpes vulpes.</hi> Burroughs, 91, 321 n. 7; Jones et al., 258–61.</note>
+            <note xml:id="n14053107" n="7">The upper, unnamed, member of the <name type="place" key="Eagle Sandstone">Eagle Sandstone</name> contains several thin beds of coal. The <name type="place" key="Eagle Sandstone">Eagle Sandstone</name> contains a few salts and no selenite. Some salts are derived from the overlying Claggett Shale.</note>
+            <note xml:id="n14053108" n="8">Also given on <hi rend="italic">Atlas</hi> map 41, in <name type="person" key="Clark, William">Clark's</name> hand.</note>
+            <note xml:id="n14053109" n="9">Later <name type="place" key="Citadel Rock">Citadel Rock</name>, in <name type="place" key="Chouteau County, Mont.">Chouteau County</name>, and marked on <hi rend="italic">Atlas</hi> maps 41, 53, 60; MRC map 74.</note>
+            <note xml:id="n14053110" n="10">
+               <name type="place" key="Eagle (Stonewall) Creek">Stonewall Creek</name> is present <name type="place" key="Eagle (Stonewall) Creek">Eagle Creek</name>, in <name type="place" key="Chouteau County, Mont.">Chouteau County</name>. The camp was above its mouth on the same side. <hi rend="italic">Atlas</hi> maps 41, 53, 60; MRC map 74.</note>
+            <note xml:id="n14053111" n="11">Probably later <name type="place" key="Grand Natural Wall">Grand Natural Wall</name>, in <name type="place" key="Chouteau County, Mont.">Chouteau County</name>. <hi rend="italic">Atlas</hi> maps 41, 53, 60; MRC map 74.</note>
+            <note xml:id="n14053112" n="12">This entry is found at the end of <name type="person" key="Clark, William">Clark's</name> notebook journal Voorhis No. 1. His other entry for the day, which is the regular sequence of daily entries in the same journal, is largely copied from <name type="person" key="Lewis, Meriwether">Lewis</name>, but it is the only one of the two that has the courses and distances for the day. It is not clear which was composed first.</note>
+            <note xml:id="n14053113" n="13">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> appears to have interpolated the words "Stone wall."</note>
+            <note xml:id="n14053114" n="14">
+               <name type="person" key="Ordway, John">Ordway</name>, copying from <name type="person" key="Clark, William">Clark</name> who copied this passage from <name type="person" key="Lewis, Meriwether">Lewis</name>, describes the <name type="place" key="Missouri River, White Cliffs of the">White
+Cliffs</name> area of the <name type="place" key="Missouri River, Breaks of the">Missouri River Breaks</name>, <name type="place" key="Chouteau County, Mont.">Chouteau County</name>, <name type="place" key="Montana">Montana</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-05-30" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-05-31-1" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

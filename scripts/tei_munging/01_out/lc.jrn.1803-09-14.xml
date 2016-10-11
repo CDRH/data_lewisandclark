@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1803-09-14">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">September 14, 1803</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">81-82</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1803-09-14.01">
+            <placeName/>
+            <geo>39.27 -81.5736</geo>
+            <note>NW shore of Ohio River, directly opposite of Parkersburg, WV</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2003-12-10</date>
+            <date/>
+            <name>Laura Weakly</name>
+            <name/>Initial creation Transcribed</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1803-09-14">September 14, 1803</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1803-09-14.01" n="lc.geo.1803-09-14.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>14th September—</date>
+               </ab>
+               <p>
+Set out this morning at 11 oClock    was prevented seting out earlyer in consequence of two of my men geting drunk and absenting themselves. I f[i]nally found them and had them brought on board, so drunk that they were unable to help themselves    passed several riffles and lay all night on the N. W. shore—<ref target="n02091401" n="1"/>    was here informed that there were some instances of the <hi rend="italic">goitre</hi> in the neighbourhood    two women who lived on the bank of the river just below    they had emegrated to that place from the lower part of <name type="place" key="Pennsylvania">pensylvania</name> and had contracted the disorder since there residence on the <name type="place" key="Ohio River">Ohio</name>—    The <hi rend="italic">fever</hi> and <hi rend="italic">ague</hi> and bilious fevers<ref target="n02091402" n="2"/> here commence their banefull oppression and continue through the whole course of the river with increasing violence as your approach it's mouth—    saw many squirrels this day swiming the river from N. W. to S. E.    caught several by means of <name type="person" key="Seaman">my dog</name>—
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n02091401" n="1">In <name type="place" key="Washington County, Ohio">Washington County</name>, <name type="place" key="Ohio">Ohio</name>, just above <name type="place" key="Parkersburg, W. Va.">Parkersburg</name>, <name type="place" key="West Virginia">West Virginia</name>. Quaife (MLJO), 44 n. 3.</note>
+            <note xml:id="n02091402" n="2">The <hi rend="italic">fever, ague,</hi> and <hi rend="italic">bilious fevers</hi> are all contemporary names for malaria, referring presumably to various symptoms of the disease, which was endemic in the <name type="place" key="Ohio River">Ohio</name>, <name type="place" key="Mississippi River">Mississippi</name>, and lower <name type="place" key="Missouri River">Missouri</name> valleys. On <ref n="1803-11-13" type="related">November 13</ref>
+               <name type="person" key="Lewis, Meriwether">Lewis</name> notes his own attack of the disease. Chuinard, 174–75 and n. 19.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1803-09-13" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-09-15" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

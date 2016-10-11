@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.img.00013">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">Images from the Gallery of the Open Frontier</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2005</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Gallery of the Open Frontier</title>
+               <note>http://gallery.unl.edu</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh" n="category">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term>Mountains</term>
+               <term>Rock formations</term>
+               <term>Paintings</term>
+               <term>Waterfalls</term>
+               <term>Landscapes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2005-01-20</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <list type="simple">
+            <item>
+               <figure n="Columbia_09-1430a.jpg">
+                  <p>
+                     <label>Columbia Cascades</label>
+                     <caption>Cascade on left bank Columbia River (Cascades of the Columbia)</caption>
+                     <term>
+                        <persName/>
+                     </term>
+                     <term>
+                        <name/>
+                     </term>
+                     <term>
+                        <geogName>Columbia River / Cascade Mountains</geogName>
+                     </term>
+                     <bibl>
+                        <idno type="NARAID">76-E221-ALDEN13</idno>
+                        <respStmt>
+                           <resp>Collection:</resp>
+                           <name>Northwest Boundary Commission.</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Artist:</resp>
+                           <name>James W. Alden</name>
+                        </respStmt>
+                        <date>1857</date>
+                        <orgName>NARA-NWDNC</orgName>
+                     </bibl>
+                  </p>
+               </figure>
+            </item>
+         </list>
+      </body>
+   </text>
+</TEI>

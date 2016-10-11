@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-02-09">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+February 9, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 6</title>
+               <title level="m" type="sub">November 2, 1805–March 22, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1990</date>
+               <biblScope type="pages">290-293</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">271</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">192</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">419</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-08-25</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-02-09">February 9, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-02-09.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Sunday February 9th 1806</hi>
+                  </date>
+               </ab>
+               <p>
+This morning <name type="person" key="Collins, John">Collins</name> and <name type="person" key="Weiser, Peter">Wiser</name> set out on a hunting excurtion; the[y] took our Indian canoe and passed the <name type="place" key="Lewis and Clark (Fort, Netul) River">Netul</name> a little above us.    in the evening <name type="person" key="Drouillard, George">Drewyer</name> returned; had killed nothing but one beaver.    he saw one black bear,<ref target="n28020901" n="1"/> which is the only one which has been seen in this neighbourhood since our arrival; the Indians inform us that they are abundant but are now in their holes.</p>
+               <p>
+in the marshy ground frequently overflown by the tides there grows a species of fir which I take to be the same of No. 5<ref target="n28020902" n="2"/> which it resembles in every particular except that it is more defusely branched and not so large, being seldom more than 30 feet high and 18 inches or 2 feet in diameter; it's being more defusely branched may proceed from it's open situation seldom growing very close.    the cone is 2½ inches in length and 3¾ in it's greatest circumpherence, which is near it's base, and from which it tapers regularly to a point.    it is formed of imbricated scales of a bluntly rounded form, thin not very firm and smoth.    a thin leaf is inserted into the pith of the cone, which overlays the center of and extends ½ an inch beyond the point of each scale.    the form of this leaf is somewhat thus<ref target="n28020903" n="3"/> overlaying one of the imbricated scales.</p>
+               <p>
+The stem of the black alder<ref target="n28020904" n="4"/> of this country before mentioned as arriving to great size, is simply branching and defuse.    the bark is smooth of a light colour with wh[i]te coloured spreading spots or blotches, resembling much that of the beech; the leaf fructification &amp;c is precisely that of the common alder of our country.    these trees grow seperately from different roots and not in clusters or clumps as those of the Atlantic states. fearing that our meat would spoil we set six men to jurking it.—
+</p>
+               <p>
+                  <figure rend="aps">
+                     <p>Fir Leaf (Douglas fir, <hi rend="italic">Pseudotsuga taxifolia</hi>),<lb/>
+February 9, 1806, Codex J, p. 65
+<bibl>
+                           <orgName>(American Philosophical Society library, </orgName>
+                           <note place="inline"> used with permission.)</note>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-02-09.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Sunday February 9th 1806</hi>
+                  </date>
+               </ab>
+               <p>
+This morning <name type="person" key="Collins, John">Collins</name> &amp; <name type="person" key="Weiser, Peter">Wiser</name> Set out on a hunting excurtion; in the evening <name type="person" key="Drouillard, George">Drewyer</name> returned; had Killed nothing but one Beaver.    he Saw one black Bear, which is the only one which has been seen in the neighbourhood Since our arrival.    the Indians inform us that they are abundant but are now in their holes.</p>
+               <p>
+In the marshey grounds frequently overflown by the tides there grows a Species of <hi rend="italic">fir</hi> which I took to be the Same of <hi rend="italic">No. 5.</hi>    from examonation I find it a distinct species of fir.    it is more perfusely branched. This tree Seldom rises to a greater hight than 35 or 40 feet and is from 2 to 4 feet in Diamieter; the Bark the Same with that of No. 1. only reather more rugid.    the leaf is acerose, 2/10 of an inch in width and ¾ in length, they are firm Stiff and Somewhat accuminated, ending in a Short pointed hard tendril, gibbous thickly scattered on all Sides of the bough as respects the 3 upper Sides only; those which have their insertion on the underside incline side- wise with their points upwards giveing the leaf the Shape of a Sythe.    the others are perpindicular or pointing upwards, 〈giveing the leaf〉 growing as in No. 1 from Small triangular pedestals of a Soft Spungy elastic bark.    the under disk of these leaves or that which grows nearest to the Base of the bough is of a dark glossy green, while the upper or opposit side is of a whiteish pale green; in this respect differing from almost all leaves. The boughs retain their leaves as far back as almost to the Sixth year's groth.    the peculiarity of the budscales observed in No. 1 is obsd. in this Species. The Cone is 3½ Inches in length, and 3 in circumfranse, of an ovale figure being thickest in the middle and tapering and terminateing in two obtuce points.    it composes several flexable, thin, obtusely jointed Smoth and redish brown imbricated scales.    each scale Covering two small winged Seed and being itself Covered in the center by a small thin inferior scale accutely pointed. The Cone is Some what of this figure.<ref target="n28020905" n="5"/>    they proceed from the sides as well as the extremities of the bough, but in the former case allways at or near the Commencement of Some one years groth which in Some instances are as far back as the third year.—.</p>
+               <p>
+                  <figure rend="mhs">
+                     <p>Fir Cone (Sitka spruce, <hi rend="italic">Picea sitchensis</hi>),<lb/>
+February 9, 1806, Voorhis No. 2<bibl>
+                           <orgName>Missouri Historical Society</orgName>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+               <p>
+The Stem of the Black Alder of this countrey before mentioned as ariveing at great Size, is Simple branching and defuse.    the bark is Smoth of a light Colour with white Coloured Spredding Spots or blothces, resembling much that of beech.    the leaf is procisely that of the Common alder of the United States or <name type="place" key="Virginia">Virginia</name>.    those trees grow Seperately from different roots and not in Clusters or Clumps, as those of the atlantic States, casts its folage about the 1st of December.</p>
+               <p>
+Fearing that our meat would Spoil we Set Six men to jurking it to day, which they are obliged to perform in a house under shelter from the repeated rains.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-02-09.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Sunday 9th Feby. 1806.    2 men<ref target="n28020906" n="6"/> went out to hunt. Six men went at jurking the meat. Several Showers of hail in course of the day.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-02-09.04" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday 9th.</hi>    We had a fine morning; but in the course of the day we had 
+sometimes sunshine, and sometimes showers of rain. One of our hunters<ref target="n28020907" n="7"/> 
+caught a beaver.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-02-09.05" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Sunday Febry 9th    We had small showers of rain during this day, six of our party were employed in Jerking the Elk meat, and two were sent out to hunt, the remainder of our party, were employ'd at the fort, making 
+Cloathing, moccasins &amp; dressing Elk Skins.—
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n28020901" n="1">The familiar, widely distributed black bear, <hi rend="italic">Ursus americanus.</hi> The entry to here is crossed through with a dark vertical line.</note>
+            <note xml:id="n28020902" n="2">Again the Douglas fir. From here the next several lines are crossed through with a red vertical line, again perhaps the work of <name type="person" key="Biddle, Nicholas">Biddle</name>.</note>
+            <note xml:id="n28020903" n="3">A sketch of the leaf of the Douglas fir in <name type="person" key="Lewis, Meriwether">Lewis's</name> Codex J, p. 65 (fig. 30). The peculiar, toothed, conescale bract is diagnostic of Douglas fir alone, and confirms the earlier identification of this species on <ref n="1806-02-06" type="related">February 6, 1806</ref>.</note>
+            <note xml:id="n28020904" n="4">Red alder. The species has a variety of important ethnobotanical uses and the wood of the alder is, next to western redcedar, the most widely used in Northwest Coast woodworking. Gunther (EWW), 27.</note>
+            <note xml:id="n28020905" n="5">A sketch of the cone of the Sitka spruce in <name type="person" key="Clark, William">Clark's</name> Voorhis No. 2 journal (fig. 31; cf. fig. 40). <name type="person" key="Clark, William">Clark</name> begins noting the Douglas fir (no. 5) but then describes the Sitka spruce, borrowing from <name type="person" key="Lewis, Meriwether">Lewis's</name> entry of <ref n="1805-02-18" type="related">February 18</ref>.</note>
+            <note xml:id="n28020906" n="6">
+               <name type="person" key="Collins, John">Collins</name> and <name type="person" key="Weiser, Peter">Weiser</name>, report <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>.</note>
+            <note xml:id="n28020907" n="7">
+               <name type="person" key="Drouillard, George">Drouillard</name>, according to <name type="person" key="Lewis, Meriwether">Lewis</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-02-08" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-02-10" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

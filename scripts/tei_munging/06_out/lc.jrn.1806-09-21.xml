@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-09-21">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+September 21, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">368-369</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">365</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-09-21.01">
+            <placeName/>
+            <geo>38.789 -90.514</geo>
+            <note>Camped in St. Charles, St. Charles County, MO, where the party had first camped on 1804-05-16.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-12-23</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-09-21">September 21, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-09-21.01" n="lc.geo.1806-09-21.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Sunday 21st Septr. 1806</hi>
+                     <ref target="n40092101" n="1"/>
+                  </date>
+               </ab>
+               <p>
+rose early this morning    Colected our men    Several of them had axcepted of the invitation of the Citizens and visited their families.    at half after 7 A. M we Set out.    passed 12 canoes of <name type="native_nation" key="Kickapoo Indians">Kickapoos</name>
+                  <ref target="n40092102" n="2"/> assending on a hunting expedition. Saw Several persons also Stock of different kind on the bank which reviv'd the party very much.    at 3 P M we met two large boats assending.    at 4 P M we arived in Sight of <name type="place" key="Saint Charles, Mo.">St. Charles</name>,<ref target="n40092103" n="3"/> the party rejoiced at the Sight of this hospital village plyed thear ores with great dexterity and we Soon arived opposit the Town, this day being Sunday we observed a number of Gentlemen and ladies walking on the bank, we Saluted the Village by three rounds from our blunderbuts and the Small arms of the party, and landed near the lower part of the town.    we were met by great numbers of the inhabitants, we found them excessively polite.    we received invitations from Several of those Gentlemen a <name type="person" key="Proulx, Basil">Mr. Proulx</name>,<ref target="n40092104" n="4"/>
+                  <name type="person" key="Tabeau, Pierre-Antoine">Taboe</name>,<ref target="n40092105" n="5"/>
+                  <name type="person" key="Duquette, François">Decett</name>,<ref target="n40092106" n="6"/>
+                  <name type="place" key="Dejonah, Tice">Tice Dejonah</name> &amp; <name type="person" key="Quarie or Querie">Quarie</name> and several who were pressing on us to go to their houses, we could only visit <name type="place" key="Proulx, Basil">Mr. Proulx</name> and <name type="person" key="Duquette, François">Mr. Deucett</name> in the course of the evening. <name type="person" key="Quarie or Querie">Mr. Querie</name> under took to Supply our party with provisions &amp;c.    the inhabitants of this village appear much delighted at our return and seem to vie with each other in their politeness to us all.    we Came only 48 miles today.    the banks of the river thinly Settled &amp;c.    [<hi rend="italic">NB: some Settlements since we went up</hi>]
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-09-21.02" n="lc.geo.1806-09-21.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Sunday 21st Sept. 1806.    we Set out as at the usal time and procd. on    passed the Scattering houses along the Shores.    met a great number of Indians in canoes mooving up the River.    the people of the Settlements were makeing inqueries of us &amp; were Surprized to See us as they Said we had been
+given out for dead above a year ago.    towards evening we arived at <name type="place" key="Saint Charles, Mo.">St. Charles</name> fired three rounds and Camped at the lower end of the Town.    the people of the Town gathered on the bank and could hardly believe that it was us for they had heard and had believed that we were all dead and were forgotton.    the most of the paty got quarters in Town and refreshments.    late in the evening hard rain commend. and continued hard during the night.
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n40092101" n="1">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> apparently began a letter to <name type="person" key="Jefferson, Thomas">Jefferson</name> this day which he did not complete. Possibly it was misdated, since the dateline reads "<name type="place" key="Saint Louis, Mo.">St. Louis</name>," but the poor hand suggests it was written in a boat. <name type="person" key="Lewis, Meriwether">Lewis</name> to <name type="person" key="Jefferson, Thomas">Jefferson</name>, September 21, 1806, Jackson (LLC), 1:317–19.</note>
+            <note xml:id="n40092102" n="2">The captains had encountered <name type="native_nation" key="Kickapoo Indians">Kickapoos</name> in <name type="place" key="Illinois">Illinois</name> and <name type="place" key="Missouri">Missouri</name> at various times before the start of the expedition and in its early stages. See <ref n="1804-03-21" type="related">March 21</ref>, <ref n="1804-05-05" type="related">May 5</ref>, <ref n="1804-05-17" type="related">17</ref>, and <ref n="1804-05-22" type="related">22</ref>, 1804.</note>
+            <note xml:id="n40092103" n="3">The party first arrived in <name type="place" key="Saint Charles, Mo.">St. Charles</name>, in <name type="place" key="Saint Charles, Mo.">St. Charles County</name>, <name type="place" key="Missouri">Missouri</name>, on <ref n="1804-05-16" type="related">May 16, 1804</ref>. MRC map 2.</note>
+            <note xml:id="n40092104" n="4">
+               <name type="person" key="Broulx, Basil">Basil Proulx</name> was an early inhabitant of <name type="place" key="Saint Charles, Mo.">St. Charles</name>. Thwaites (LC), 5:392 n. 1.</note>
+            <note xml:id="n40092105" n="5">This could be <name type="person" key="Tabeau, Pierre-Antoine">Pierre-Antoine Tabeau</name>, whom the captains first met at the <name type="native_nation" key="Arikara Indians">Arikara</name> villages on <ref n="1804-10-09" type="related">October 9, 1804</ref>. There were other Tabeaus in <name type="place" key="Missouri">Missouri</name>, however, and Tibeau, Thibault, and Tabot were other surnames to be found in the region. Houck, 2:68–69.</note>
+            <note xml:id="n40092106" n="6">
+               <name type="person" key="Clark, William">Clark</name> first met <name type="person" key="Duquette, François">François Duquette</name> on <ref n="1804-05-16" type="related">May 16, 1804</ref>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-09-20" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-09-22" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

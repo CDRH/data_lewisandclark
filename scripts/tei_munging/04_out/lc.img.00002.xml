@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.img.00002">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">Images from the Gallery of the Open Frontier</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2005</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Gallery of the Open Frontier</title>
+               <note>http://gallery.unl.edu</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Images</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term>Arapaho</term>
+               <term>Comanche</term>
+               <term>Indian encampments</term>
+               <term>Native American life</term>
+               <term>Tipis</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2005-01-19</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <list type="simple">
+            <item>
+               <figure n="Arapaho_75-bae-45c.jpg">
+                  <p>
+                     <label>Arapaho Camp</label>
+                     <caption>Arapaho Camp, 1868 (pencil notation reads, 'Comanche')</caption>
+                     <term>
+                        <persName/>
+                     </term>
+                     <term>
+                        <name/>
+                     </term>
+                     <term>
+                        <geogName/>
+                     </term>
+                     <bibl>
+                        <idno type="NARAID">75-bae-45c</idno>
+                        <respStmt>
+                           <resp>Collection:</resp>
+                           <name>Records of the Bureau of Indian Affairs–William S. Soule Photographs of Arapaho, Cheyenna, Kiowa, Comanche, and Apache Indians</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Photographer:</resp>
+                           <name>William S. Soule</name>
+                        </respStmt>
+                        <date>1868</date>
+                        <orgName>NARA-NWDNS</orgName>
+                     </bibl>
+                  </p>
+               </figure>
+            </item>
+         </list>
+      </body>
+   </text>
+</TEI>

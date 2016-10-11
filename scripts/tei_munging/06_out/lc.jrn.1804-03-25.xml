@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-03-25">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+March 25, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">181</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-01-05</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-03-25">March 25, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-03-25.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Sunday 25th    a fair morning    river rose 14 Inch last night, the men find numbers of Bee Trees, &amp; take great quantities of honey, at 11 oClock 24 <name type="native_nation" key="Sauk Indians">Sauckees</name>
+                  <ref target="n03032501" n="1"/> Came pass from <name type="place" key="Saint Louis, Mo.">St Louis</name>, and asked for Provisions    I ordered them 75 lb Beef, 25 lb flour, &amp; 50 lb meal—     <name type="person" key="Goodrich, Silas">Guterge</name> [<name type="person" key="Goodrich, Silas">Goodrich</name>] returned with Eggs &amp; [Toe?],<ref target="n03032502" n="2"/>
+                  <name type="person" key="Willard, Alexander">Willard</name> brought in 10 pr. Hinges    <name type="person" key="Shannon, George">George Shannon</name> Caught 3 large Cat fish—    The musquetors are verry bad this evening. <name type="person" key="Newman, John">Newman</name> return with Letters &amp; Papers from <name type="place" key="Saint Louis, Mo.">St Louis</name>. (ancore)<ref target="n03032503" n="3"/>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n03032501" n="1">The <name type="native_nation" key="Sauk Indians">Sauk</name> (or <name type="native_nation" key="Sauk Indians">Sac</name>) and <name type="native_nation" key="Fox Indians">Fox</name> Indians, so closely allied by this time that they appeared to outsiders to be virtually one tribe, lived on both sides of the <name type="place" key="Mississippi River">Mississippi</name> in <name type="place" key="Iowa">Iowa</name>, <name type="place" key="Wisconsin">Wisconsin</name>, and <name type="place" key="Illinois">Illinois</name>. Callender (Fox); Callender (Sauk); Hagan.</note>
+            <note xml:id="n03032502" n="2">The first letter of this word could be "L." Possibly <name type="person" key="Clark, William">Clark</name> means "roe" for fish eggs or  "tow," short fibers of flax, hemp, or jute; also known as oakum, it was often used for caulking seams or leaks in wooden boats and sometimes in treating wounds, all possible uses on the expedition. Both captains use "toe" for the verb "tow." However, "low" or "lowe" is an old Scottish or northern English word for a flame or candle.</note>
+            <note xml:id="n03032503" n="3">This word—presumably intended for "encore"—refers the reader to the next sheet of the Field Notes (document 10), where it is repeated before the March 26 entry.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-03-24" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-03-26" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

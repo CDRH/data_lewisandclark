@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1803-12-08">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">December 8, 1803</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">128</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2003-12-17</date>
+            <date/>
+            <name>Laura Weakly</name>
+            <name/>Initial creation Transcribed</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date>December 8, 1803</date>
+         </head>
+         <div type="entry">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>December the 8th—<ref target="n02120801" n="1"/>
+                  </date>
+               </ab>
+               <p/>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n02120801" n="1">The date is all <name type="person" key="Clark, William">Clark</name> has written for this entry. His party remained at <name type="place" key="Cahokia, Ill.">Cahokia</name> until December 10. His only journal entries after the seventh until the trip was resumed are astronomical observations recorded on the tenth. He left the remainder of this page blank and also the next page, perhaps intending to cover the missing days later. <name type="person" key="Lewis, Meriwether">Lewis</name> rejoined the party on the ninth, having visited the Spanish "commandant" in <name type="place" key="Saint Louis, Mo.">St. Louis</name>, <name type="person" key="Delassus, Don Carlos Dehault">Carlos Dehault Delassus</name>, lieutenant governor of Upper Louisiana, who would not grant permission to ascend the <name type="place" key="Missouri River">Missouri</name> without permission from his superiors. Having already decided to winter at <name type="place" key="Dubois River">Wood River</name>, and knowing that the region would be transferred to the United States in a few months, <name type="person" key="Lewis, Meriwether">Lewis</name> was not particularly distressed. <name type="person" key="Delassus, Don Carlos Dehault">Dehault Delassus</name> to Juan Manuel de Salcedo and the Marques de Casa Calvo, December 9, 1803, <name type="person" key="Lewis, Meriwether">Lewis</name> to <name type="person" key="Jefferson, Thomas">Jefferson</name>, December 19, 1803, Jackson (LLC), 1:142–47.
+</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1803-12-07" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-12-10" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

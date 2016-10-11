@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-02-09">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+February 9, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">174</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-01-05</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-02-09">February 9, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-02-09.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Thursday 9th    a fine morning    river Still rise &amp; Ice pass down the greater part out of the <name type="place" key="Missouri River">Missouries</name>
+               </p>
+               <p>
+[<hi rend="italic">Ed: There are no further dated entries in the Field Notes until March 21, when <name type="person" key="Clark, William">Clark</name> resumes immediately below the February 9 entry on this same sheet (document 9). The remarks from the weather data provide some knowledge of events for this period. Both captains left <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">Camp Dubois</name> for <name type="place" key="Saint Louis, Mo.">St. Louis</name> on February 10, and <name type="person" key="Clark, William">Clark</name> apparently remained there for some time. <name type="person" key="Lewis, Meriwether">Lewis</name> had returned to <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">camp</name> by February 13 but kept no known journal. <name type="person" key="Clark, William">Clark</name> was back at the <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">camp</name> by February 29 but did no known writing, and he apparently left within a few days. The captains probably witnessed the ceremony in <name type="place" key="Saint Louis, Mo.">St. Louis</name> by which <name type="place" key="France">France</name> transferred Upper Louisiana to the United States on March 10, 1804. Thereafter both were occupied in <name type="place" key="Saint Louis, Mo.">St. Louis</name> and on a journey up the <name type="place" key="Missouri River">Missouri</name> to stop a <name type="native_nation" key="Kickapoo Indians">Kickapoo</name> war party from attacking the <name type="native_nation" key="Osage Indians">Osage</name>s. During the captains' absence <name type="person" key="Ordway, John">Sergeant John Ordway</name> was in charge of the <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">camp</name> and apparently had some problems with the restless enlisted men. See below, <ref n="1804-03-03" type="related">March 3</ref> and <ref n="1804-04-13" type="related">April 13, 1804</ref>.</hi> Osgood (FN), 27 n. 5; <name type="person" key="Lewis, Meriwether">Lewis</name> to <name type="person" key="Clark, William">Clark</name>, February 18, 1804, Jackson (LLC), 1:167-68.]
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-02-08" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-02-20" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

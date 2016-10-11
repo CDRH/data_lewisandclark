@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-08-01">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 1, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">24-20</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">193-194</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">120</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">249-251</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-08-01.01">
+            <placeName/>
+            <geo>45.8475 -111.98</geo>
+            <note>A little above the present town of Cardwell, Jefferson County, MT</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-05-28</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-08-01">August 1, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-08-01.01" n="lc.geo.1805-08-01.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">August 1st 1805</hi>
+                     <ref target="n18080101" n="1"/>
+                  </date>
+               </ab>
+               <p>
+At half after 8 A. M. we halted for breakfast and as had been previously agreed on between <name type="person" key="Clark, William">Capt. Clark</name> and myself I set out with 3 men in quest of the <name type="native_nation" key="Shoshone Indians">Snake</name> Indians.    the men I took were the two Interpreters <name type="person" key="Drouillard, George">Drewyer</name> and <name type="person" key="Charbonneau, Toussaint">Sharbono</name> and <name type="person" key="Gass, Patrick">Sergt. Gass</name> who by an accedental fall had so disabled himself that it was with much pain he could work in the canoes tho' he could march with convenience.    the rout we took lay over a rough high range of mountains on the North side of the river.<ref target="n18080102" n="2"/>    the rive entered these mountains a few miles above where we left it.<ref target="n18080103" n="3"/>
+                  <name type="person" key="Clark, William">Capt Clark</name> recommended this rout to me from a belief that the river as soon as it past the mountains boar to the N. of W. he having a few days before ascended these mountains to a position from which he discovered a large valley passing between the mountains and which boar to the N. West.    this however poved to be the inlet of a large creek which discharged itself into the river just above this range of mountains,<ref target="n18080104" n="4"/> the river bearing to the S. W. we were therefore thrown several miles out of our rout.    as soon as we discovered our mistake we directed our course to the river which we at length gained about 2 P. M. much exhausted by the heat of the day the roughnes of the road and the want of water.    the mountains are extreemly bare of timber and our rout lay through the steep valleys exposed to the heat of the sun without shade and scarcely a breath of air; and to add to my fatiegue in this walk of about 11 miles I had taken a doze of glauber salts in the morning in consequence of a slight desentary with which I had been afflicted for several days; being weakened by the disorder and the opperation of the medecine I found myself almost exhausted before we reached the river. I felt my sperits much revived on our near approach to the river at the sight of a herd of Elk of which <name type="person" key="Drouillard, George">Drewyer</name> and myself killed two.    we then hurried to the river and allayed our thirst. I ordered two of the men to skin the Elk and bring the meat to the river while myself and the other prepared a fire and cooked some of the meat for our dinner.    we made a comfortable meal of the Elk and left the ballance of the meat on the bank of the river the party with <name type="person" key="Clark, William">Capt. Clark</name>.    this supply was no doubt very acceptable to them as they had had no fresh meat for near two days except one beaver Game being very scarce and shy.    we had seen a few deer and some goats but had not been fortunate enough to kill any of them.    after dinner we resumed our march and encamped about 6 m. above on the Stard side of the river.<ref target="n18080105" n="5"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-01.02" n="lc.geo.1805-08-01.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Thursday August 1st 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+This morning we set out early and proceeded on tolerably well untill 8 OC'k. by which time we had arrived within a few miles of a mountain through which the river passes.    we halted on the Stard. side and took breakfast.    after which or at ½ after 8 A. M. as had been previously concerted between <name type="person" key="Clark, William">Capt. Clark</name> and myself I set out with three men in surch of the <name type="native_nation" key="Shoshone Indians">Snake</name> Indians or <name type="native_nation" key="Shoshone Indians">Sosonees</name>.    our rout lay over a high range of mountains on the North side of the river. <name type="person" key="Clark, William">Capt C.</name> recommended this rout to me no doubt from a belief that the river as soon as it passed this chain of mountains boar to the N. of W. he having on the 26th ult. ascended these mountains to a position from whence he discoved a large valley passing between the mountains which boar to the N. W. and presumed that the river passed in that direction; this however proved to be the passage of a large creek which discharged itself into the river just above this range of mountains, the river bearing to the S. W. we were therefore thrown several miles out of our rout.    as soon as we discovered our error we directed our course to the river which we at length gained about 2 P. M. much exhausted by the heat of the day, the roughness of the road and the want of water.    the mountains are extreemly bare of timber, and our rout lay through the steep and narrow hollows of the mountains exposed to the intese heat of the midday sun without shade or scarcely a breath of air: to add to my fatiegue in this walk of about 11 miles, I had taken a doze of glauber salts in the morning in consequence of a slight disentary with which I had been afflicted for several days.    being weakened by the disorder and the operation of the medicine I found myself almost exhausted before we reached the river. I felt my sperits much revived on our near approach to the river at the sight of a herd of Elk, of which <name type="person" key="Drouillard, George">Drewyer</name> and myself soon killed a couple.    we then hurryed to the river and allayed our thirst. I ordered two of the men to skin the Elk and bring the meat to the river, while myself and the other prepared a fire and cooked some of the meat for our dinner.    we made a comfortable meal on the Elk, and left the ballance of the meat and skins on the bank of the river for <name type="person" key="Clark, William">Capt. Clark</name> and party.    this supply will no doubt be acceptable to them, as they had had no fresh meat when I left them for almost 2 days except one beaver; game being very scarce and shy above <name type="place" key="Missouri River, Three Forks of the">the forks</name>.    we had seen a few deer and antelopes but had not been fortunate enough to kill any of them.    as I passed these mountains I saw a flock of the black or dark brown phesants;<ref target="n18080106" n="6"/> the young phesant is almost grown we killed one of them.    this bird is fully a third larger than the common phesant of the Atlantic states.    it's form is much the same.    it is booted nearly to the toes and the male has not the tufts of long black feathers on the sides of the neck which are so conspicuous in those of the <name type="place" key="Atlantic Ocean">Atlantic</name>.    their colour is a uniform dark brown with a small mixture of yellow or yelloish brown specks on some of the feathers particularly those of the tail, tho' the extremities of these are perfectly black for about one inch.    the eye is nearly black, the iris has a small dash of yellowish brown.    the feathers of the tail are reather longer than that of our phesant or pattridge as they are Called in the Eastern States; are the same in number or eighteen and all nearly of the same length, those in the intermediate part being somewhat longest.    the flesh of this bird is white and agreeably flavored.    I also saw near the top of the mountain among some scattering pine a blue bird<ref target="n18080107" n="7"/> about the size of the common robbin.    it's action and form is somewhat that of the jay bird and never rests long in any one position but constantly flying or hoping from sprey to sprey. I shot at one of them but missed it.    their note is loud and frequently repeated both flying and when at rest and is char âh', char'âh, char âh', as nearly as letters can express it.    after dinner we resumed our march and my pack felt much lighter than it had done about 2 hours before.    we traveled about six miles further and encamped on the stard. bank of the river, making a distance of 17 miles for this day.    the Musquetoes were troublesome but I had taken the precaution of bringing my bier.</p>
+               <p>
+Shortly after I left <name type="person" key="Clark, William">Capt. Clark</name> this morning he proceed on and passed through the mountains; they formed tremendious clifts of ragged and nearly perpendicular rocks; the lower part of this rock is of the black grannite before mentioned and the upper part a light coloured free-stone.<ref target="n18080108" n="8"/>    these clifts continue for 9 miles and approach the river very closely on either side.    he found the current verry strong. <name type="person" key="Clark, William">Capt. C.</name> killed a big horn on these clifts which himself and party dined on.    after passing this range of mountains he entered this beautifull valley in which we also were it is from 6 to 8 miles wide.    the river is crooked and crouded with islands, it's bottoms wide fertile and covered with fine grass from 9 inches to 2 feet high and possesses but a scant proportion of timber, which consists almost entirely of a few narrow leafed cottonwood trees<ref target="n18080109" n="9"/> distributed along the verge of the river.    in the evening <name type="person" key="Clark, William">Capt. C.</name> found the Elk I had left him and ascended a short distance above to the entrance of a large creek which falls in on Stard. and encamped opposite to it on the Lard. side.<ref target="n18080110" n="10"/>    he sent out the two Fieldses to hunt this evening and they killed 5 deer, which with the Elk again gave them a plentifull store of fresh provisions. this large creek we called <name type="place"
+                        key="Boulder River (Reubin Field's Valley Creek) (Jefferson County, Mont.)">Field's Creek</name> after <name type="person" key="Field, Reubin">Reubin Fields</name> one our party.    on the river about the mountains wich <name type="person" key="Clark, William">Capt. C.</name> passed today he saw some large cedar trees and some juniper also<ref target="n18080111" n="11"/>    just at the upper side of the mountain there is a bad rappid here the toe line of our canoe broke in the shoot of the rapids and swung on the rocks and had very nearly overset.    a small distance above this rapid a large bold Creek falls in on Lard. side which we called <name type="place" key="South Boulder (Frazer's) Creek">Frazier's Creek</name> after <name type="person" key="Frazer, Robert">Robt. Frazier</name>.<ref target="n18080112" n="12"/> They saw a large brown bear feeding on currants but could not get a shoot at him.</p>
+               <p>
+                  <table rows="19" cols="3">
+                     <head>Courses and distances as navigated with the Canoes<lb/>
+                        <hi rend="italic">on the 1st of August 1805</hi>
+                        <ref target="n18080113" n="13"/>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W. </cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to a point of rocks on the Lard. side, at this place the<lb/>
+river passes through perpendicular Clifts.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">to the upper part of the rocks in a Stard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 70° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a clift on the Lard. side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. bend.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 26° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¾</cell>
+                        <cell role="data" rows="1" cols="1">to a bluff on the Stard. side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South— </cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. bend, at this place the river enters a high<lb/>
+mountain of steep and ruggid clifts on both sides.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. bend under a high clift</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a clift of high rocks in a Stard. bend    a small bottom<lb/>
+on Lard. side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. bend under a piney hill.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 25° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a small Island on the Lard. side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° E.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1"> to a Stard. bend  high clifts on both sides</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">to the entrance of a large creek on Lard. side passing an<lb/>
+island and rapid of 6 feet fall; these we called <name type="place" key="South Boulder (Frazer's) Creek">Frazier's<lb/>
+falls and Creek</name> after <name type="person" key="Frazer, Robert">Robert Frazier</name> one of our party.<lb/>
+here the river again enters a valley.—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North—</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. bend under a hill.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. bend.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 70° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to the point of an Island passing several smal Islds.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North—</cell>
+                        <cell role="data" rows="1" cols="1">     ¼ </cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. bend.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West—</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">to the lower point of an Island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">     ¼</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">to the entrance of a Large creek on Stard. w[h]ich we<lb/>
+called <name type="place"
+                                 key="Boulder River (Reubin Field's Valley Creek) (Jefferson County, Mont.)">Field's Creek</name>, after <name type="person" key="Field, Reubin">Reubin Fields</name> one of our<lb/>
+party.—    opposite to which encamped on Lard. side.—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Miles</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">13</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-01.03" n="lc.geo.1805-08-01.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">August 1st Wednesday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+A fine day    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> left me at 8 oClock just below the place I entered a verrey high mountain which jutted its tremedious Clifts on either Side for 9 Miles, the rocks ragide Some verry dark &amp; other part verry light rock the light rocks is Sand Stone.<ref target="n18080114" n="14"/> The water Swift &amp; very Sholey. I killed a <hi rend="italic">Ibix</hi> on which the whole party Dined, after passing through the Mountain we entered a wide extesive vallie of from 4 to 8 Miles wide verry leavell a Creek falls in at the Commencement of this Vallie on the Lard Side, the river widens &amp; spreds into Small Chanels. W[e] encamped on the Lard Side opposit a large Creek    I sent out <name type="person" key="Field, Joseph">Jo:</name> &amp; <name type="person" key="Field, Reubin">R fields</name> to hunt this evening they killed 5 Deer, I saw a large Bear eateing Currents this evining    The river so rapid that the greatest exertion is required by all to get the boats on wind S W Murckery at sun rise 50° Ab. 0
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-01.04" n="lc.geo.1805-08-01.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Thursday, August the first 1805</hi>.    a fine morning    we Set out as usal, and proceeded on. Some of the hunters killed a goose and a beaver.    about 8 oClock A. m. we halted    took breakfast under a handsom ceeder tree on S. Side. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name>, <name type="person" key="Gass, Patrick">Sergt. Gass</name>, <name type="person" key="Drouillard, George">G. Drewyer</name> and our Intrepter <name type="person" key="Charbonneau, Toussaint">Sharbonoe</name> Set out to go on by land 4 or 5 days expecting to find Some Indians.    we proceeded on    the current Swift.    we find currents of different kinds as usal, and wild or choak cherries which are now gitting ripe.    the hills &amp; gin to git higher and more pine timber on them, and ceeder along the River.    we passed clifts of rocks about 500 feet from the Surface of the water.    considerable of pine timber along the Sides of the hills. Saw Some timber or trees along the Shores, resembling ceeder which Some call juniper wood.    about noon <name type="person" key="Clark, William">Capt. Clark</name> killed a Mountain Sheep out of a flock on the Side of a redish hill or clifts on L. Side    he Shot it across the River and the rest of the flock ran up the clifts which was nearly Steep.    the one killed roled down Some distance when it fell.    we got it and dined hearty on it.    we proceeded on.    passed over a bad rapid at the upper end of an Island jest above high rough clifts of rocks.    the towing line of the Captains canoe broke in the pitch of the rapid and the canoe was near turning over nocking again the rocks.    little further up passed a creek or large Spring run, which came in on L. S. and ran rapid.    came to a large valley which <name type="person" key="Clark, William">Capt. Clark</name> had Seen before when he came up a fiew days ago.    passed large bottoms covered with timber, on each Side of the River. Saw a white bear.    took on board 2 Elk which <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> had killed and left for us.    the hunters killed
+in these bottoms 5 deer this evening.    passed the mouth of a large creek<ref target="n18080115" n="15"/> on the Stard. Side and a Spring.    came 13½ miles and Camped on the Lard. Side in a bottom of cotton timber.    high hills on each Side, and Saw the mountain a Short distance to the South of us.—<ref target="n18080116" n="16"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-01.05" n="lc.geo.1805-08-01.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Thursday 1st August,</hi> 1805.    We set out early in a fine morning and proceeded on till breakfast time; when <name type="person" key="Lewis, Meriwether">Capt. Lewis</name>, myself and the two interpreters<ref target="n18080117" n="17"/> went on ahead to look for some of the <name type="native_nation" key="Shoshone Indians">Snake</name> Indians. Our course lay across a large mountain on the north side,<ref target="n18080118" n="18"/> over which we had a very fatiguing trip of about 11 miles. We then came to the river again, and found it ran through a handsome valley of from 6 to 8 miles wide. At the entrance of this valley, which is covered with small bushes, but has very little timber, we killed two elk and left the meat for the canoes to take up, as the men stood much in need of it, having no fresh provisions on hand. We crossed a small creek<ref target="n18080119" n="19"/> on the north shore, and encamped<ref target="n18080120" n="20"/> on the same side.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-01.06" n="lc.geo.1805-08-01.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Thursday 1st day of August 1805</hi>.    a clear morning.    we Set out as usal and proceeded on.    Some of the men killed a goose &amp; a beaver    about 8 oClock A. M. we took breakfast under Some handsome ceeder trees on S. Side.    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name>
+                  <name type="person" key="Gass, Patrick">Sergt. Gass</name>
+                  <name type="person" key="Charbonneau, Toussaint">Sharbonoe</name> &amp; <name type="person" key="Drouillard, George">Drewyer</name> Set out by land to go on up the River to make discoverys &amp;c expecting to find Indians &amp;c.    we proceeded on.    find currents as usal and choak cherrys along the River.    the current Swift    the hills higher and more pine and ceeder timber on them.    we passed high clifts about 500<ref target="n18080121" n="21"/> feet high in many places.    considerable of pine on the Sides of the hills    all the hills rough and uneven.    at noon <name type="person" key="Clark, William">Capt. Clark</name> killed a mountain Sheep, on the side of a Steep redish hills or clifts    the remainder of the flock run up the Steep clifts.    the one killed roled down Some distance So we got it and dined eairnestly on it.    it being <name type="person" key="Clark, William">Capt. Clarks</name> birth day he ordered Some flour gave out to the party.    we Saw Some timber along the Shores resembling ceeder which Some call Juniper, which had a delightfull Shade.    I left my Tommahawk on the Small Island where we lay last night, which makes me verry Sorry that I forgot it as I had used it common to Smoak in.    proceeded on    passed verry high ragid clifts, and a bad rapid at the upper end of a Small Island    the toe rope broke of the Capts. perogue and it was in danger of upsetting.    passed a Spring run or creek on L. Side.    came in to a valley.    passed bottoms of timber and the mouth of a large creek on S. Side, and a Spring also.    we came 13½ miles and Caped opposite the Spring in a fine bottom covered with cotton timber and thick bushes &amp;c.    Saw a white bear.    the hunters killed 5 deer    we took on board 2 Elk which <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> had killed and left on Shore for us.    Saw Snow on the Mountains a Short distance to the South of us.</p>
+               <p>
+Thursday August 1st    This morning, Clear &amp; pleasant.    We set out as usual, and proceeded on our Voyage, some of our party killed a Goose and a Beaver.    We halted about 8 o'Clock A. M—    where we stopped &amp; took breakfast under some handsome Cedar trees, lying on the South side of the River.—    <name type="person" key="Lewis, Meriwether">Captain Lewis</name>, <name type="person" key="Gass, Patrick">Serjeant Gass</name> &amp; <name type="person" key="Drouillard, George">George Drewyer</name>, and <name type="person" key="Charbonneau, Toussaint">Sharbono</name> (〈who〉 the latter of which men had joined us at the <name type="native_nation" key="Mandan Indians">Mandan</name> Village,) set out shortly after, to go by land, up <name type="place" key="Jefferson River (North, Southwest Fork)">Jefferson River</name>, in Order to make discoveries, &amp; to try &amp; find out some Indians.    We proceeded on, and found Currants, &amp; Choke cherries growing along the Shores in great abundance.    the current of the River still running very strong against us; and the hills appearing to us, to be much higher, and more Pine &amp; Cedar growing on them, than those we have passed for several days past, We passed some very high Clifts, of Rocks which were in many places 1,200 feet high &amp;—    on the sides of the hills we saw considerable quantities of Pine &amp; Cedar Trees growing.    About noon <name type="person" key="Clark, William">Captain Clark</name> killed a mountain Sheep or Ibex, out of a flock, which were on the side of Steep reddish hills or Clifts</p>
+               <p>
+The remainder of the Flock of mountain sheep or Ibex, ran up the steep Clifts, out of Gunshot, and to such a heighth as is most incredible—    The Mountain sheep that was killed, rolled down the Hill, and we got it.—    We stopped at this place to dine, which was amongst the high Clifts, and it being <name type="person" key="Clark, William">Captain Clarkes</name> birth day; he ordered some flour to be served out to the party, which with the mountain Sheep made us an excellent meal,—    We proceeded on at 3 o'Clock P. M. and passed by some Trees, growing along the Shore; which resembled in look the Cedar Tree, but it was what is called the Wild Juniper, This Tree afforded a most delightfull shade.    we also passed very high rugged Clifts, lying on both sides of the River, and a very bad Rapid, at the upper end of an Island; where the Tow Rope broke of the Canoe, that <name type="person" key="Clark, William">Captain Clarke</name> was on board &amp; it had nearly upset.    We came by a Run or Creek, which lies on the South side of the River, and came in at a Valley, &amp; bottoms of timber'd land, the Mouth of a large Creek, and a large Spring lying also on the South side of the River, We came 13½ Miles this day &amp; encamped opposite this spring, in a bottom covered with Cotton wood Timber, &amp; thick Brush.—    We saw a White or brown Bear on the hills some distance from our Camp.    The hunters who were on Shore since morning, returned to us, and had killed 5 Deer which we took on board the Canoes &amp; also 2 Elk which <name type="person" key="Lewis, Meriwether">Captain Lewis</name> &amp; party had killed and left at this place for us, We also saw Snow on the Mountains, a short distance to the South of our Camp.—
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n18080101" n="1">Here begins <name type="person" key="Lewis, Meriwether">Lewis's</name> Codex Fa, containing what are apparently the first drafts of entries for August 1–4, 1805, the second drafts being in Codex F. <name type="person" key="Lewis, Meriwether">Lewis</name> probably wrote the first drafts during his separation from the main party on these dates, perhaps in a blank notebook carried along for the purpose. See the <ref n="introduction.general" type="related">Introduction</ref> and <ref n="v02.appendix.c" type="related">Appendix C</ref>.</note>
+            <note xml:id="n18080102" n="2">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> route appears as a dotted line on <hi rend="italic">Atlas</hi> map 65.</note>
+            <note xml:id="n18080103" n="3">The <name type="place" key="Bull Mountains">Bull Mountain</name> in <name type="place" key="Jefferson County, Mont.">Jefferson County</name>, <name type="place" key="Montana">Montana</name>; the river runs through between the <name type="place" key="Bull Mountains">Bull</name> and <name type="place" key="Tobacco Root Mountains">Tobacco Root</name> mountains, <name type="place" key="Jefferson Canyon">Jefferson Canyon</name>, in this area. <hi rend="italic">Atlas</hi> map 65.</note>
+            <note xml:id="n18080104" n="4">"<name type="place"
+                     key="Boulder River (Reubin Field's Valley Creek) (Jefferson County, Mont.)">R. Fields Creek</name>," for <name type="person" key="Field, Reubin">Reubin Field</name> of the party, on <hi rend="italic">Atlas</hi> map 65, now <name type="place"
+                     key="Boulder River (Reubin Field's Valley Creek) (Jefferson County, Mont.)">Boulder River</name> in <name type="place" key="Jefferson County, Mont.">Jefferson County</name>.</note>
+            <note xml:id="n18080105" n="5">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> camped in <name type="place" key="Jefferson County, Mont.">Jefferson County</name>, somewhere above the present village of <name type="place" key="Cardwell, Mont.">Cardwell</name>. <hi rend="italic">Atlas</hi> map 65.</note>
+            <note xml:id="n18080106" n="6">Evidently the first description of the blue grouse, <hi rend="italic">Dendragapus obscurus</hi> [AOU, 297]. Cutright (LCPN), 177; Burroughs, 215–16. <name type="person" key="Lewis, Meriwether">Lewis</name> uses the ruffed grouse, <hi rend="italic">Bonasa umbellus</hi> [AOU, 300], for comparison. Perhaps it was <name type="person" key="Biddle, Nicholas">Biddle</name> who drew a red vertical line through this passage from "I saw a flock" to "letters can express it."</note>
+            <note xml:id="n18080107" n="7">The first description of the pinyon jay, <hi rend="italic">Gymnorhinus cyanocephalus</hi> [AOU, 492]. Cutright (LCPN), 177. The American robin, <hi rend="italic">Turdus migratorius</hi> [AOU, 761], and the blue jay, <hi rend="italic">Cyanocitta cristata</hi> [AOU, 477], are used for comparison.</note>
+            <note xml:id="n18080108" n="8">The rocks adjacent to the <name type="place" key="Jefferson River (North, Southwest Fork)">Jefferson River</name> along <name type="place" key="Jefferson Canyon">Jefferson Canyon</name> are dominantly light gray to yellow-gray limestone of the <name type="place" key="Mission Canyon Formation">Mission Canyon</name> and <name type="place" key="Lodgepole Formation">Lodgepole</name> formations. There are also some light-to-medium brown sandstones of Pennsylvanian through Cretaceous age, and some reddish shales of Pennsylvanian age. Near the upper end of the canyon, dark gray to gray-green sedimentary rocks of Precambrian age crop out on either side of the river. No granite is exposed in <name type="place" key="Jefferson Canyon">the Jefferson Canyon</name>.</note>
+            <note xml:id="n18080109" n="9">Narrowleaf cottonwood, <hi rend="italic">Populus augustifolia</hi> James. Booth &amp; Wright, 22; Little (MWH), 114.</note>
+            <note xml:id="n18080110" n="10">
+               <name type="person" key="Clark, William">Clark</name> camped opposite the mouth of <name type="place"
+                     key="Boulder River (Reubin Field's Valley Creek) (Jefferson County, Mont.)">Boulder River</name>, near the present village of <name type="place" key="Cardwell, Mont.">Cardwell</name>, <name type="place" key="Madison County, Mont.">Madison County</name>, <name type="place" key="Montana">Montana</name>. <hi rend="italic">Atlas</hi> map 65.</note>
+            <note xml:id="n18080111" n="11">
+               <name type="place" key="Rocky Mountains">Rocky Mountain</name> juniper or red cedar, <hi rend="italic">Juniperus scopulorum</hi> Sarg., and common juniper, <hi rend="italic">J. communis</hi> L. Little (CIH), 30-W; Hahn, <hi rend="italic">Juniperus</hi> maps.</note>
+            <note xml:id="n18080112" n="12">"<name type="place" key="South Boulder (Frazer's) Creek">Frasures Creek</name>," after <name type="person" key="Frazer, Robert">Robert Frazer</name> of the party, on <hi rend="italic">Atlas</hi> map 65, now <name type="place" key="South Boulder (Frazer's) Creek">South Boulder Creek</name>, in <name type="place" key="Madison County, Mont.">Madison County</name>, near <name type="place" key="Cardwell, Mont.">Cardwell</name>.</note>
+            <note xml:id="n18080113" n="13">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> evidently obtained these and other courses from <name type="person" key="Clark, William">Clark</name> after they reunited. <name type="person" key="Clark, William">Clark's</name> courses for August 1–5 are found at his entry of <ref n="1805-08-05" type="related">August 5, 1805</ref>.</note>
+            <note xml:id="n18080114" n="14">During late Tertiary and early Quaternary time, the <name type="place" key="Jefferson River (North, Southwest Fork)">Jefferson River</name> cut through this area leaving an imposing, rugged canyon. The exposed rocks are primarily light gray to yellow-gray Mississippian limestones, but sandstones and shales ranging in age from Pennsylvanian through Cretaceous are also present. Dark gray sedimentary rocks of Precambrian age are exposed along the upper portion of the canyon.</note>
+            <note xml:id="n18080115" n="15">
+               <name type="place"
+                     key="Boulder River (Reubin Field's Valley Creek) (Jefferson County, Mont.)">Boulder River</name>, <name type="place" key="Jefferson County, Mont.">Jefferson County</name>, named <name type="place"
+                     key="Boulder River (Reubin Field's Valley Creek) (Jefferson County, Mont.)">"R. Fields Vally Creek</name>" for <name type="person" key="Field, Reubin">Reubin Field</name>.</note>
+            <note xml:id="n18080116" n="16">Again, the <name type="place" key="Tobacco Root Mountains">Tobacco Root Mountains</name>.</note>
+            <note xml:id="n18080117" n="17">
+               <name type="person" key="Drouillard, George">Drouillard</name> and <name type="person" key="Charbonneau, Toussaint">Charbonneau</name>, all seeking the <name type="native_nation" key="Shoshone Indians">Shoshone Indians</name>, <name type="person" key="Sacagawea">Sacagawea's</name> people.</note>
+            <note xml:id="n18080118" n="18">The <name type="place" key="Bull Mountains">Bull Mountains</name>, <name type="place" key="Jefferson County, Mont.">Jefferson County</name>, <name type="place" key="Montana">Montana</name>.</note>
+            <note xml:id="n18080119" n="19">Labeled "<name type="place"
+                     key="Boulder River (Reubin Field's Valley Creek) (Jefferson County, Mont.)">R. Fields Valley Creek</name>," by the captains, for <name type="person" key="Field, Reubin">Reubin Field</name> of the party, now <name type="place"
+                     key="Boulder River (Reubin Field's Valley Creek) (Jefferson County, Mont.)">Boulder River</name>, <name type="place" key="Jefferson County, Mont.">Jefferson County</name>.</note>
+            <note xml:id="n18080120" n="20">In <name type="place" key="Jefferson County, Mont.">Jefferson County</name>, somewhere above <name type="place" key="Cardwell, Mont.">Cardwell</name>.</note>
+            <note xml:id="n18080121" n="21">
+               <name type="person" key="Whitehouse, Joseph">Whitehouse</name> may have written "700" initially.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-07-31-1" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-08-02" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

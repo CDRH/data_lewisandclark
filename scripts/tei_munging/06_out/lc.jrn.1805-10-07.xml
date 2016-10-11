@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-10-07">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+October 7, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">248-250</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">234</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">339-341</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-10-07.01">
+            <placeName/>
+            <geo>46.5 -116.55</geo>
+            <note>Camped near present-day Lenore, Nez Perce County, ID. Opposite Jacks Creek.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-06-22</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-10-07">October 7, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-10-07.01" n="lc.geo.1805-10-07.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">〈Sunday〉 7th Oct. [over Septr.] 1805</hi> Monday</date>
+               </ab>
+               <p>
+I feel my Self verry unwell, all the canoes in the water, we Load and Set out, after fixing all our Poles &amp;c. &amp;c. The after noon Cloudy    proced on passd maney bad rapids, one Canoe that in which I went in front Sprung a Leak in passing the 3rd rapid—</p>
+               <p>
+Set out at 3 oClock P M &amp; proceeded on</p>
+               <p>
+                  <table rows="15" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile, passed a bad rappid</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">mile to the L. Side bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">mile to R. Sd. passd. a rapid</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mile to a Left hand bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 70 W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles    passed a rapid R. G.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 60 W</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles    do.    bad to L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles    passd. a rapid ½    a Creek on the 〈right〉 left at<lb/>
+2 miles to a right hand bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 10° E</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">mile to a Left B.    passed a rapid</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 60 E</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">m. to a R. bend    passed a rapid</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">To a bend on the Left Side    Passed a bad rapid</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">in the left hand bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">a mile to a bad rapid</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 70° W</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a bend on the right</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  2</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles to a bend on the left at the mo. of a run opposit<lb/>
+to which we camped.    from water Encamped on a pool<lb/>
+right, narrows above for 6 miles all way</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">20</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+〈N W 1 mile to a bend to right〉
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-07.02" n="lc.geo.1805-10-07.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">October 7th 〈Sunday〉 Monday 1805</hi>
+                     <ref target="n22100701" n="1"/>
+                  </date>
+               </ab>
+               <p>
+I continu verry unwell but obliged to attend every thing    all the Canoes put into the water and loaded, fixed our Canoes as well as possible and Set out    as we were about to Set out we missd. both of the Chiefs<ref target="n22100702" n="2"/> who promised to accompany us; I also missed my Pipe Tomahawk which Could not be found.</p>
+               <p>
+The after part of the day Cloudy proceded on passed 10 rapids which wer danjerous    the Canoe in which I was Struck a rock and Sprung a leak in the 3rd rapid, we proceeded on 20 [<hi rend="italic">WC: 19</hi>] miles and Encamped on a Stard point oppost a run.<ref target="n22100703" n="3"/>    passed a Creek Small on the Lard. Side at 9 miles,<ref target="n22100704" n="4"/> 〈a run at〉 a Short distanc from the river at 2 feet 4 Inches N. of a dead toped pine Treee had burid 2 Lead Canisters of Powder</p>
+               <p>
+Had the Canoes unloaded examined and mended a Small leake which we discovered in a thin place in her Side    passed Several 〈old〉 Camps of Indians to day</p>
+               <p>
+our Course and distance Shall be given after I get to the forks. &amp;c.— which the Indians Say is the last of the bad water untill we get to the great falls 10 day below, where the white people live &amp;c. The Lodges are of Sticks set in a 〈conocal〉 form of roof of a house &amp; covered with mats and Straw
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-07.03" n="lc.geo.1805-10-07.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Monday 7th Oct. 1805.    a clear morning.    we put the other three canoes in to the River.    got them in readiness and loaded them about 3 oClock P. m.    we Set out on our journay to descend the River.    proceeded on over Several Sholes and rapids where we halled the canoes over Sholes. Some part of the River is deep and current gentle &amp;c.    the hills and clifts make near the River on each side. Saw old Indian Camps on Lard. Side    Came 21 miles and Camped on the Stard. Side.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-07.04" n="lc.geo.1805-10-07.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 7th Oct. 1805</hi>.    a fair morning.    we put the other three canoes in to the River and got them in readiness and loaded them.    about 3 oClock P. m. we Set out on our way to descend the River.<ref target="n22100705" n="5"/>    the 2 Indians<ref target="n22100706" n="6"/> we came over the mount. with us continues on with us, and a chief &amp; one more Indian who agreed to go down with us has gone by land Some distance down and then Intends comming on board.    we proceeded on over a nomber of bad rapids where the canoes run fast and obledged us to git out in the cold water and hale them off.    Some places the water is deep &amp; current gentle 
+for Some distance, but the Shole rapids are common &amp; rockey.    the River hills make close to the River on each Side.    Some clifts of rocks, a fiew Scattering pine trees on the hills, but they are mostly barron broken, &amp; covred over with grass.    Some Small cotton wood along the Shores.    Some of the rapids which are deep enofe to run clear are So bad that we take water over the canoes by the waves.    Strike Some large rocks &amp; Slide of without Injury—.    Came 21 miles and Camped on Stard. Side    the officers canoe leaks So that they changes their Baggag in an other canoe for fear of gitting the Instruments &amp;c. wet.    the Evening cloudy.    one man taken Sick with the collick.    we passed Some old Indian Camps this afternoon &amp; a Small 
+canoe on Shore—</p>
+               <p>
+Monday October 7th    This morning we had clear pleasant weather, all our party that were able were employed in getting the other three new Canoes into the River, which they effected.    they got every thing in readiness on board of them and got them loaded.    About 3 oClock P. M. we set out on our way to descend the River, &amp; the 2 Indians of the <name type="native_nation" key="Shoshone Indians">Snake</name> Nation, that came to Pilot us across the Mountains, agreed to continue with us.    We also had a chief &amp; one Indian from the last Town we came through who also 
+agreed to accompany us.—    These two last Indians, set off down the River by land to go some distance, &amp; intend to join our party again.    We then proceeded on our Voyage, and crossed a number of bad rapids, where our 
+Canoes got fast, &amp; obliged us to get out in the Water (that was cold) and hawl them off.    we found the Water in some places deep, &amp; the current running gentle for some distance.    The Rapids were very frequent &amp; Shoal, the bottom of the River rockey, and the hills making close in to the River on both sides of it.    There is some Clifts of rocks, lying along the Shore &amp; a few scattering pine trees, growing on some of the hills 〈but they〉 which are mostly broken &amp; covered with grass.    We saw some few cotton wood Trees, growing on each side of the River along the Shore, We also found, that in some of the Rapids where we had plenty of water for our Canoes to pass, that 
+the Waves ran so high that our Canoes took in a great deal of water, &amp; we struck several Rocks, in passing over them, but the Rapidity of the stream forced us over them.—</p>
+               <p>
+We came about 27 Miles this day, and encamped on the North side of the River.    The Canoe that our Officers went in, leaked so bad, that they were forced to unload it, &amp; put their baggage into another Canoe, for fear of getting their Mathematical Instruments &amp; baggage wet.    We passed this afternoon some old Indian Camps &amp; saw a Canoe lying on the Shore.    The Evening proved cloudy.    One of our party was taken ill, this evening of a Cholic occasioned by being so much in the water.
+
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n22100701" n="1">
+               <name type="person" key="Clark, William">Clark's</name> courses for October 7–10 are found in a combined table at his codex entry of <ref n="1805-10-10" type="related">October 10, 1805</ref>. A final course for October 10 is carried over to another table which is found following <name type="person" key="Clark, William">Clark's</name> codex entry of <ref n="1805-10-16" type="related">October 16, 1805</ref>.</note>
+            <note xml:id="n22100702" n="2">
+               <name type="person" key="Twisted Hair (Walamotinin)">Twisted Hair</name> and <name type="person" key="Tetoharsky">Tetoharsky</name>. The latter's name is not recorded until <ref n="1806-05-04" type="related">May 4, 1806</ref>; nothing seems to be known of him beyond what appears in the journals.</note>
+            <note xml:id="n22100703" n="3">Erroneously marked as the camp of October 8 on <hi rend="italic">Atlas</hi> map 72. It was quite near present <name type="place" key="Lenore, Idaho">Lenore</name>, <name type="place" key="Nez Perce County, Idaho">Nez Perce County</name>, <name type="place" key="Idaho">Idaho</name>, opposite <name type="place" key="Jacks Creek (Canister Run)">Jacks Creek</name>. Space, 22; Peebles (LT), 11.</note>
+            <note xml:id="n22100704" n="4">Present <name type="place" key="Canyon Creek (Canister Run) (Idaho)">Canyon Creek</name>, meeting the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater</name> near <name type="place" key="Peck, Idaho">Peck</name>, <name type="place" key="Nez Perce County, Idaho">Nez Perce County</name>. Space, 22; <hi rend="italic">Atlas</hi> map 72.</note>
+            <note xml:id="n22100705" n="5">
+               <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater River</name>.</note>
+            <note xml:id="n22100706" n="6">
+               <name type="person" key="Old Toby">Old Toby</name> and his son.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-10-06" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-10-08" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

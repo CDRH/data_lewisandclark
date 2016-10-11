@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-09-05">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+September 5, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">350-351</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">359</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">276</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-09-05.01">
+            <placeName/>
+            <geo>42.0167 -96.0833</geo>
+            <note>Camped in Monona County, IA, a few miles south of present Onawa. Near the southern end of Guard Lake.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-12-21</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-09-05">September 5, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-09-05.01" n="lc.geo.1806-09-05.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Friday 5th September 1806</hi>
+                  </date>
+               </ab>
+               <p>
+The Musquetors being So excessively tormenting that the party was all on board and we Set out at day light and proceeded on very well.    here the river is bordered on both [sides?] with timber &amp;c    becoms much narrower more Crooked and the Current more rapid and Crouded with Snags or Sawyers than it is above, and continus So all day. We did not meet with <name type="person" key="McClellan, Robert">McClellen</name> as we expected at the Creek.<ref target="n40090501" n="1"/>    the report of the guns which was heard must have been the <name type="native_nation" key="Omaha Indians">Mahars</name> who most probably have just arrived at their village from hunting the buffalow.    this is a Season they usialy return to their village to Secure their Crops of Corn Beens punkins &amp;c &amp;c.    proceeded on very well    passd. the <name type="place" key="Bluestone Bluff">blue Stone bluff</name>
+                  <ref target="n40090502" n="2"/> at 3 P. M  here the river leaves the high lands and meanders through a low rich bottom. Encamped on the S W Side on a Sand bar at a cut off a little below our Encampment of the 9th of August 1804.<ref target="n40090503" n="3"/>    haveing made <hi rend="italic">73</hi> Miles to day—    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> still in a Convelesent State. We Saw no game on the Shores to day worth killig only Such as pelicans Geese ducks, Eagles and Hawks &amp;c.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-09-05.02" n="lc.geo.1806-09-05.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Friday 5th Sept. 1806.    a fair morning.    we were routed at day light by the Musquetoes.    we Set out and procd. on verry well without making any delay.    we having made 75 miles this day and Camped on a Sand beach to git as much out of the Musquetoes as possable.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-09-05.03" n="lc.geo.1806-09-05.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 5th</hi>    This was a fine morning, and we early embarked, and went on very well, till night, when we encamped on a sand-bar, where the musketoes were very troublesome.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n40090501" n="1">Presumably <name type="place" key="Omadi Creek">Omadi Creek</name> in <name type="place" key="Dakota County, Nebr.">Dakota County</name>, <name type="place" key="Nebraska">Nebraska</name>, nameless on <hi rend="italic">Atlas</hi> map 16. They did not meet <name type="person" key="McClellan, Robert">McClellan</name> until <ref n="1806-09-12" type="related">September 12, 1806</ref>. MRC map 27.</note>
+            <note xml:id="n40090502" n="2">
+               <name type="place" key="Bluestone Bluff">Bluestone Bluff</name> is composed of the light-to dark-gray, sandy, carbonaceous shale of the middle unit of the Lower and Upper Cretaceous <name type="place" key="Dakota Group">Dakota group</name>. At 3:00 p.m., the sun would have had an azimuth of about 245° and would have been almost directly behind the bluffs; additionally, at that time the sun would have had an altitude of about 35° above the horizon. The bluffs, thus, would have been partly in shadow, a condition which would have enhanced the sensation of a blue coloration. <hi rend="italic">Atlas</hi> map 15; MRC map 26.</note>
+            <note xml:id="n40090503" n="3">This camp would be in <name type="place" key="Monona County, Iowa">Monona County</name>, <name type="place" key="Iowa">Iowa</name>, a few miles south of present <name type="place" key="Onawa, Iowa">Onawa</name>, near the southern end of <name type="place" key="Guard Lake">Guard Lake</name>, the old river course. <hi rend="italic">Atlas</hi> map 15; MRC map 26.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-09-04" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-09-06" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-08-17">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 17, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">109-117</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">204-206</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">126-127</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">272-275</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-08-17.01">
+            <placeName/>
+            <geo>44.9987 -112.8541</geo>
+            <note>Established camp at "Camp Fortunate," Beaverhead River, Beaverhead County, MT.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-06-07</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-08-17">August 17, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-08-17.01" n="lc.geo.1805-08-17.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Saturday August 17th 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+This morning I arrose very early and dispatched <name type="person" key="Drouillard, George">Drewyer</name> and the Indian down the river.    sent <name type="person" key="Shields, John">Shields</name> to hunt. I made <name type="person" key="McNeal, Hugh">McNeal</name> cook the remainder of our meat which afforded a slight breakfast for ourselves and the Cheif.    <name type="person" key="Drouillard, George">Drewyer</name> had been gone about 2 hours when an Indian who had straggled some little distance down the river returned and reported that the whitemen were coming, that he had seen them just below.    they all appeared transported with joy, &amp; the chef repeated his fraturnal hug. I felt quite as much gratifyed at this information as the Indians appeared to be. Shortly after <name type="person" key="Clark, William">Capt. Clark</name> arrived with the Interpreter <name type="person" key="Charbonneau, Toussaint">Charbono</name>, and <name type="person" key="Sacagawea">the Indian woman</name>, who proved to be a sister of the Chif <name type="person" key="Cameahwait">Cameahwait</name>.    the meeting of those people was really affecting, particularly between <name type="person" key="Sacagawea">Sah cah-gar-we-ah</name> and an Indian woman,<ref target="n20081701" n="1"/> who had been taken prisoner at the same time with her, and who had afterwards escaped from the <name type="native_nation" key="Hidatsa Indians">Minnetares</name> and rejoined her nation. At noon the Canoes arrived, and we had the satisfaction once more to find ourselves all together, with a flattering prospect of being able to obtain as many horses shortly as would enable us to prosicute our voyage by land should that by water be deemed unadvisable.</p>
+               <p>
+                  <figure rend="map">
+                     <p>From <name type="place" key="Missouri River, Three Forks of the">Three Forks</name> to <name type="place" key="Travelers' Rest (Idaho)">Travelers' Rest</name>,<lb/>
+July 25–September 11, 1805<bibl>
+                           <title>(<hi rend="italic">Journals</hi>
+                           </title>
+                           <biblScope type="volume"> 5</biblScope>
+                           <orgName> University of Nebraska Press,</orgName>
+                           <note place="inline"> used with permission.)</note>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+               <p>
+We now formed our camp<ref target="n20081702" n="2"/> just below the junction of the forks on the Lard. side in a level smooth bottom covered with a fine terf of green swoard.    here we unloaded our canoes and arranged our baggage on shore; formed a canopy of one of our large sails and planted some willow brush in the ground to form a shade for the Indians to set under while we spoke to them, which we thought it best to do this evening.    acordingly about 4 P. M. we called them together and through the medium of <name type="person" key="Labiche, François">Labuish</name>, <name type="person" key="Charbonneau, Toussaint">Charbono</name> and <name type="person" key="Sacagawea">Sah-cah-gar-weah</name>, we communicated to them fully the objects which had brought us into this distant part of the country, in which we took care to make them a conspicuous object of our own good wishes and the care of our government.    we made them sensible of their dependance on the will of our government for every species of merchandize as well for their defence &amp; comfort; and apprized them of the strength of our government and it's friendly dispositions towards them. we also gave them as a reason why we wished to petrate the country as far as the ocean to the west of them was to examine and find out a more direct way to bring merchandize to them.    that as no trade could be carryed on with them before our return to our homes that it was mutually advantageous to them as well as to ourselves that they should render us such aids as they had it in their power to furnish in order to haisten our voyage and of course our return home.    that such were their horses to transport our baggage without which we could not subsist, and that a pilot to conduct us through the mountains was also necessary if we could not decend the river by water.    but that we did not ask either their horses or their services without giving a satisfactory compensation in return.    that at present we wished them to collect as many horses as were necessary to transport our baggage to their village on the <name type="place" key="Columbia River">Columbia</name> where we would then trade with them at our leasure for such horses as they could spare us.—    They appeared well pleased with what had been said.    the chief thanked us for friendship towards himself and nation &amp; declared his wish to serve us in every rispect; that he was sorry to find that it must yet be some time before they could be furnished with firearms but said they could live as they had done heretofore untill we brought them as we had promised.    he said they had not horses enough with them at present to remove our baggage to their village over the mountain, but that he would return tomorrow and encourage his people to come over with their horses and that he would bring his own and assist us.    this was complying with all we wished at present.    we next enquired who were chiefs among them. <name type="person" key="Cameahwait">Cameahwait</name> pointed out two others whom he said were Chiefs    we gave him a medal of the small size with the likeness of <name type="person" key="Jefferson, Thomas">Mr. Jefferson</name> the President of the U' States in releif on one side and clasp hands with a pipe and tomahawk on the other, to the other Chiefs we gave each a small medal which were struck in the Presidency of <name type="person" key="Washington, George">George Washing [<hi rend="italic">NB: ton</hi>]</name> Esqr.    we also gave small medals of the last discription to two young men whom the 1st Chief informed us wer good young men and much rispected among them.    we gave the 1st Chief an uniform coat shit [<hi rend="italic">NB: irt</hi>] a pair of scarlet legings a carrot of tobacco and some small articles    to each of the others we gave a shi[r]t leging handkerchief a knife some tobacco and a few small articles    we also distributed a good quantity paint mockerson awls knives beads lookingglasses &amp;c among the other Indians and gave them a plentifull meal of lyed [<hi rend="italic">NB: hull taken off by being boiled in lye</hi>] corn which was the first they had ever eaten in their lives.    they were much pleased with it.    every article about us appeared to excite astonishment in ther minds; the appearance of the men, their arms, the canoes, our manner of working them, the back man <name type="person" key="York">york</name> and the segacity of <name type="person" key="Seaman">my dog</name> were equally objects of admiration. I also shot my air-gun which was so perfectly incomprehensible that they immediately denominated it the great medicine.    the idea which the indians mean to convey by this appellation is something that eminates from or acts immediately by the influence or power of the great sperit; or that in which the power of god is manifest by it's incomprehensible power of action.    our hunters killed 4 deer and an Antelope this evening of which we also gave the Indians a good proportion.    the cerimony of our council and smoking the pipe was in conformity of the custom of this nation perfomed bearfoot.    on those occasions points of etiquet are quite as much attended to by the Indians as among scivilized nations. To keep indians in a good humour you must not fatiegue them with too much business at one time.    therefore after the council we gave them to eat and amused them a while by shewing them such articles as we thought would be entertaining to them, and then renewed our enquiries with rispect to the country.    the information we derived was only a repetition of that they had given me before and in which they appeared to be so candid that I could not avoid yealing confidence to what they had said. <name type="person" key="Clark, William">Capt. Clark</name> and myself now concerted measures for our future operations, and it was mutually agreed that he should set out tomorrow morning with eleven men furnished with axes and other necessary tools for making canoes, their arms accoutrements and as much of their baggage as they could carry. also to take the indians <name type="person" key="Charbonneau, Toussaint">Carbono</name> and <name type="person" key="Sacagawea">the indian woman</name> with him; that on his arrival at the <name type="native_nation" key="Shoshone Indians">Shoshone</name> camp he was to leave <name type="person" key="Charbonneau, Toussaint">Charbono</name> and <name type="person" key="Sacagawea">the Indian woman</name> to haisten the return of the Indians with their horses to this place, and to proceede himself with the eleven men down the <name type="place" key="Columbia River">Columbia</name> in order to examine the river and if he found it navigable and could obtain timber to set about making canoes immediately. In the mean time I was to bring on the party and baggage to the <name type="native_nation" key="Shoshone Indians">Shoshone</name> Camp, calculating that by the time I should reach that place that he would have sufficiently informed himself with rispect to the state of the river &amp;c. as to determine us whether to prosicute our journey from thence by land or water.    in the former case we should want all the horses which we could perchase, the latter only to hire the Indians to transport our baggage to the place at which we made the canoes.    in order to inform me as early as possible of the state of the river he was to send back one of the men with the necessary information as soon as he should satisfy himself on this subject.    this plan being settled we gave orders accordingly and the men prepared for an early march.    the nights are very cold and the sun excessively hot in the day.    we have no fuel here but a few dry willow brush.    and from the appearance of country I am confident we shall not find game here to subsist us many days.    these are additional reasons why I conceive it necessary to get under way as soon as possible.—    this morning <name type="person" key="Clark, William">Capt. Clark</name> had delayed untill 7 A. M. before he set out just about which time <name type="person" key="Drouillard, George">Drewyer</name> arrived with the Indian; he left the canoes to come on after him, and immediately set out and joined me as has been before mentioned.— The sperits of the men were now much elated as the prospect of geting horses.</p>
+               <p>
+                  <table rows="2" cols="3">
+                     <head>Courses and distances traveled by <name type="person" key="Clark, William">Capt. Clark</name>
+                        <lb/>
+                        <hi rend="italic">August 17th 1805.</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">4</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">to a high Knob or hill in the forks of <name type="place" key="Beaverhead (Jefferson) River">Jefferson's River</name>,<ref target="n20081703" n="3"/> the<lb/>
+same being 10 M. by water.    the river making a considerable<lb/>
+bend to the Stard.    the forks of this river is the most distant<lb/>
+point to which the waters of the <name type="place" key="Missouri River">Missouri</name> are navigable.    of<lb/>
+course we laid up our canoes at this place and commenced our<lb/>
+voyage by land.—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Miles</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">4</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-17.02" n="lc.geo.1805-08-17.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">August 17th Satturday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+a fair Cold morning wind S. W. the Thermometer at 42 a. 0 at Sunrise, We Set out at 7 oClock and proceeded on to the forks    I had not proceeded on one mile before I saw at a distance Several Indians on horsback Comeing towards me, The <name type="person" key="Charbonneau, Toussaint">Intertrepeter</name> &amp; <name type="person" key="Sacagawea">Squar</name> who were before me at Some distance danced for the joyful Sight, and She made signs to me that they were her nation, as I aproached nearer them descovered one of <name type="person" key="Lewis, Meriwether">Capt Lewis</name> party With them dressed in their Dress; the met me with great Signs of joy, as the Canoes were proceeding on nearly opposit me I turned those people &amp; Joined <name type="person" key="Lewis, Meriwether">Capt Lewis</name> who had Camped with 16 of those <name type="native_nation" key="Shoshone Indians">Snake</name> Indians at the forks 2 miles in advance.    those Indians Sung all the way to their Camp where the others had provd. a cind of Shade of Willows Stuck up in a Circle    the Three Chiefs with <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> met me with great cordialliaty embraced and took a Seat on a white robe, the Main Chief imedeately tied to my hair Six Small pieces of Shells resembling <hi rend="italic">perl</hi> which is highly Valued by those people and is prcured from the nations resideing near the <hi rend="italic">Sea Coast.</hi>    we then Smoked in their fassion without Shoes and without much cerimoney and form.</p>
+               <p>
+                  <name type="person" key="Lewis, Meriwether">Capt Lewis</name> informed me he found those people on the <name type="place" key="Columbia River">
+                     <hi rend="italic">Columbia</hi> River</name> about 40 miles from the forks at that place there was a large camp of them, he had purswaded those with him to Come and See that what he said was the truth, they had been under great apprehension all the way, for fear of their being deceived. The Great Chief of this nation proved to be the brother of the <hi rend="italic">Woman</hi> with us and is a man of Influence Sence &amp; easey &amp; reserved manners, appears to possess a great deel of Cincerity. The 〈perog〉 Canoes arrived &amp; unloaded—    every thing appeared to asstonish those people.    the appearance of the men, their arms, the Canoes, the Clothing <name type="person" key="York">my black Servent</name> &amp; the Segassity of <name type="person" key="Seaman">Capt Lewis's Dog</name>. we Spoke a fiew words to them in the evening respecting our rout intentions our want of horses &amp;c. &amp; gave them a fiew presents &amp; medals—    〈in the eving〉 we made a number of inquires of those people about the <name type="place" key="Columbia River">Columbia River</name> the Countrey game &amp;c. The account they gave us was verry unfavourable, that the River abounded in emence falls, one perticularly much higher than the <name type="place" key="Missouri River, Great Falls of the">falls of the Missouri</name> &amp; at the place the mountains Closed So Close that it was impracticable to pass, &amp; that the ridge Continued on each Side of perpendicular Clifts inpenetratable, and that no Deer Elk or any game was to be found in that Countrey, aded to that they informed us that there was no timber on the river Sufficiently large to make Small Canoes, This information (if true is alarming)    I deturmined to go in advance and examine the Countrey, See if those dificueltes presented themselves in the gloomey picture in which they painted them, and if the river was practiable and I could find timber to build Canoes, those Ideas &amp; plan appeard to be agreeable to <name type="person" key="Lewis, Meriwether">Capt Lewis's</name> Ideas on this point, and I selected 11 men,<ref target="n20081704" n="4"/> directed them to pack up their baggage Complete themselves with amunition, take each an ax and Such tools as will be Soutable to build Canoes, and be ready to Set out at 10 oClock tomorrow morning. Those people greatly pleased    our hunters killed three Deer &amp; an antilope which was eaten in a Short time the Indians being so harrassed &amp; compelleted to move about in those rugid mountains that they are half Starved liveing at this time on berries &amp; roots which they geather in the plains. Those people are not begerley but generous, only one has asked me for anything and he for powder.</p>
+               <p>
+This nation Call themselves <hi rend="italic">
+                     <name type="native_nation" key="Shoshone Indians">Cho-shon-nê</name>
+                  </hi> the Chief is name <hi rend="italic">Too-et-te-con'l</hi> Black Gun is his war name <hi rend="italic">
+                     <name type="person" key="Cameahwait">Ka-me-ah-wah</name>—</hi>    or Come &amp; Smoke.    this Chief gave me the following name and pipe <hi rend="italic">
+                     <name type="person" key="Cameahwait">Ka-me-ah-wah</name>.</hi> [<hi rend="italic">NB: exchange names,</hi>
+                  <ref target="n20081705" n="5"/>
+                  <hi rend="italic">custom I was called by this name afd by the <name type="native_nation" key="Shoshone Indians">Snake Inds</name>
+                  </hi>]</p>
+               <p>
+                  <table rows="12" cols="3">
+                     <head>Course and distance of the <name type="place" key="Beaverhead (Jefferson) River">River Jefferson</name> Continud<ref target="n20081706" n="6"/>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Augt. 15th</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 25° W.</cell>
+                        <cell role="data" rows="1" cols="1">  6</cell>
+                        <cell role="data" rows="1" cols="1">miles by water (4 by land) to the Mo: of a Creek 10 yards<lb/>
+wide bold Current I call <name type="place" key="Divide (Willard's) Creek">Willard's Creek</name>    Passed a point<lb/>
+of rocks on the Stard. Side at 2 miles, one on the Lard. at<lb/>
+5 miles    passed a bold running Stream at 4 miles on the<lb/>
+Lard Side &amp; an Isld.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 22° E</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles by water (1 mile by land) to a small bottom on the<lb/>
+Lard Side    passd. a high Clift on the Stard opposit is a<lb/>
+high sloping hill</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 20° W</cell>
+                        <cell role="data" rows="1" cols="1">  6</cell>
+                        <cell role="data" rows="1" cols="1">miles by water (2 by land) to a Small branch on the Lard<lb/>
+Side passed no wood except Scrub. clover bottom</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">
+                              <hi rend="italic">16th August</hi>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 18° W</cell>
+                        <cell role="data" rows="1" cols="1">  7</cell>
+                        <cell role="data" rows="1" cols="1">miles by water (3 by land) to a Lard bend under a low bluff,<lb/>
+the river bending to the Std. under Some high land verry<lb/>
+Crooked Shallow rapid &amp; Small    passed Several Island<lb/>
+4 of them opposit each other    <hi rend="italic">
+                              <name type="place" key="Serviceberry Valley">Service Berry Vallie</name>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 12° W.</cell>
+                        <cell role="data" rows="1" cols="1">  4</cell>
+                        <cell role="data" rows="1" cols="1">miles by water (2 by land) to a high Clift on the Stard Side<lb/>
+pass several Small Isds. &amp; Bayoes</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 50° E.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">m. by water (1 by land) to the mouth of a bold running<lb/>
+Stream on the Lard Side opposed a Considerable rapid<lb/>
+Clifts on both Sides below high Std. 〈<name type="person" key="Colter, John">Colters</name>〉 above rapid<lb/>
+C. &amp;</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">mile to the lower point of an Isld. in the middle.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">
+                              <hi rend="italic">17th August</hi>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">10</hi>
+                           <lb/>
+                           <hi rend="underline">    </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles by water 4 by land to a high Point in the forks of the<lb/>
+river.    river bending to the Stard. Side.—    met Indians<lb/>
+&amp; Encamped to make a Portage</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Miles</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">39</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-17.03" n="lc.geo.1805-08-17.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 17th August 1805</hi>.    a clear cold morning.    we have been cold this Several nights under 2 blankets or Robes, over us.    a little white frost.    the air chilley &amp; cold.    we took an eairly breakfast and set out    proceeded on a Short distance    heared Some Indians Singing on Shore on L. Side    directly came up Several of the Snake nation a horseback.    they told us that <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> and party was at the forks waiting our arival. <name type="person" key="Clark, William">Capt. Clark</name>
+                  <name type="person" key="Charbonneau, Toussaint">the Intrepter</name> &amp; <name type="person" key="Sacagawea">wife</name> went with them to <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> Camp.    the natives rode back forth the Shore to See us come up with the canoes.    we halled the Canoes over a great nomber of Shole places and arived at <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> Camp abt. 10 oClock A. m. a little below the forks, their was 20 odd of the <name type="native_nation" key="Shoshone Indians">Snake</name> nation Indians Camped here which came over the Mountains with <name type="person" key="Lewis, Meriwether">Capt. Lewis</name>.    they appeared verry friendly. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> informed us that he had been over the dividing ridge or mountain to the head waters of the <name type="place" key="Columbia River">Columbian River</name> &amp; that it is only about 40 miles from this place.    they drank at the head Spring of the <name type="place" key="Missouri River">Missourie</name> &amp; went only about a mile and drank at the head Spring of the <name type="place" key="Columbia River">Columbian River</name> which ran west.    they Saw one Indian
+comming towards them on horse back a considerable distance from the band. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> wavered a blanket as a token of friendship.    he lay close on his horse &amp; Spyed 2 of the party makeing towards him who had been a hunting a little off the road.    the Indian turned his horse and ran him untill
+he got to his band &amp; told the news.    the next they met was 3 Squaws digging roots.    2 of them ran off Some distance    the other being old Stood her ground. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> Set down and gave hir Some Small presents. She then called the other 2 which came up and piloted them to their Camp which was on a branch of the <name type="place" key="Columbia River">columbian River</name>    they were on their way over to this Side to hunt &amp;C.    they had Some Salmon<ref target="n20081707" n="7"/> which they caught in the main River    they tell us that their is no timber on the head waters for canoes.    they also tell us that their is no game, but we do not believe them.    they are poor. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> gave them what little presents he had with him and they came about 20 odd with their horses with him across the Mt.    2 chiefs among them.    when <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> first came near them they appeared frightened untill he &amp; them with him lay down their arms &amp; made motions of friendship.    when they met the natives took them round the neck as a great token of friendship.    they were uneasy &amp; afraid that they were taken in when they came to the forks &amp; found that we were not their as they had motioned, but when they Saw us they were glad, and were verry friendly to lend us their horses to pack meat &amp;C.    we conclude to leave the canoes at this place, So we unloadd and formed a Camp<ref target="n20081708" n="8"/> a little below the forks on a Smooth prarie on L. S.    no timber.    we have to cook with Small willow &amp;C.    high hills on the point between the 2 Rivers, &amp; around this valley.    a fiew Scattering pitch pine on them.    this valley Smooth &amp; pleasant    the natives horses appear good and in tollarable order, but they are verry poor    nothing to be Seen amongst them but thier horses &amp; 2 or 3 guns, but no ammunition.    they are dressed tollarably well in antelope &amp; Mountain Rams Skins well dressed.    a fiew beeds hung in their ears with mussel Shells &amp;C    their hair Short the most of them.    we expect they git their horses from the Spanis and what other little art articles they have, but they have no knives tommahawks nor no weapons of war except their bow &amp; arrows.    it is only
+by their acct. 8 day travel to the South to the Spanish country.    our officers <name type="person" key="Lewis, Meriwether">Captains Lewis</name> &amp; <name type="person" key="Clark, William">Clark</name> told the head chief<ref target="n20081709" n="9"/> of them that they wanted to by their horses to take our baggage over the Mountains.    the Chief Said they would let us have the use of their horses &amp; promised to assist us over as much as lay in their power. So they gave them out considerable of different kinds of marchandize.    gave the chief a meddel    made another chief &amp; gave him a meddle also.    gave the head chief a uniform coat &amp; Shirt &amp; arm bands 
+&amp;C &amp;C. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> Shot the airgun, which they thought a great meddicine &amp; Shewed them a nomber of Strange things to them.    4 deer &amp; 2 antelopes killed by the hunters this day. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> tells us that the game is verry Scarse on the mountain    he was about 3 days with[out] meat.    the natives gave <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> ear bobs to put in ears and an ornament to Spread over his Shoulders, which was made of white wezels<ref target="n20081710" n="10"/> tails &amp; fastened on an otters Skin.    they fixed off all the men in the Same way who were returning with <name type="person" key="Lewis, Meriwether">Capt. Lewis</name>.    they take us round the neck and Sweze us in token of friendship as they have a practice in Stead of Shakeing hands
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-17.04" n="lc.geo.1805-08-17.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 17th.</hi>    A fine morning. We proceeded on about 2 miles, and discovered a number of the natives, of the <name type="native_nation" key="Shoshone Indians">Snake</name> nation, coming along the bank 
+on the South side. <name type="person" key="Lewis, Meriwether">Captain Lewis</name> had been as far as the waters of the <name type="place" key="Columbia River">Columbia river</name> and met them there.<ref target="n20081711" n="11"/> We continued on about two miles further to 
+a place where the river forks, and there halted and encamped,<ref target="n20081712" n="12"/> after much 
+fatigue and difficulty. The water is so shallow that we had to drag the canoes, one at a time, almost all the way. The distance across from this place to the waters of the <name type="place" key="Columbia River">Columbia river</name> is about 40 miles, and the road or way said to be good. There were about 20 of the natives came over with <name type="person" key="Lewis, Meriwether">Captain Lewis</name> and had the same number of horses. Here we unloaded the canoes, and had a talk with the Indians; and agreed with them that they should lend us some 
+of their horses to carry our baggage to the <name type="place" key="Columbia River">Columbia river</name>.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-17.05" n="lc.geo.1805-08-17.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 17th August 1805</hi>.    a clear cold morning.    we lay last night with 2 blankets or Robes over us &amp; lay cold.    Some frost this morning.    we took an eairly breakfast and Set out.    proceeded on a Short distance.    heared a nomber of Indians a Singing on L.    Side.    directly their came Several of the Snake nation<ref target="n20081713" n="13"/> Came to us &amp; told us that <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> &amp; party was at the forks.    <name type="person" key="Clark, William">Capt. Clark</name>
+                  <name type="person" key="Charbonneau, Toussaint">our Intrepter</name> &amp; <name type="person" key="Sacagawea">wife</name> went with the natives rode their horses to the forks.    they kept rideing back &amp; forward to See us comeing up with the canoes.    we were obledged to hale the canoes a great part of the 
+way untill we got to <name type="person" key="Lewis, Meriwether">Capt. Lewis</name>es Camp a little below the forks    their was 20 odd of the <name type="native_nation" key="Shoshone Indians">Snake</name> nation Camped with <name type="person" key="Lewis, Meriwether">Capt. Lewis</name>.    they appeared harmeless &amp; friendly.    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> informed us that he had been over the mountain on the head waters of <name type="place" key="Columbia River">Columbian River</name> and that this band was Camped on Sd. waters and Creek or Small River on their way across to this place a hunting.    the first they Saw was one Spy they had Some distance a head on horse back.    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> Swung &amp; held up a blanket as a token of friendship, but as it hapened 2 of the men were a hunting one on each Side of him, which frightned him as he Suposed they wished to take prisoner    turned about his horse &amp; rode verry Seedy out of his road &amp; made no halt untill he got to the band, &amp; told his people the news.    they met 3<ref target="n20081714" n="14"/> Squaws 〈2〉 on the Side of the mountain a digging roots 2 of them ran off, the 
+other being old Stood hir ground.    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> came or went up to hir &amp; gave hir Some Small presents, and Shewed everry mark of friendship.    She then called up the other 2 and they piloted 〈them〉 <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> &amp; party to the band, which received them with a great deal of fear at first.    appared frightened until they lay down their guns and made Some tokens &amp; motions of friendship.    the natives then put their arms around their or our peoples necks &amp; appeared glad to See them and used them friendly.    they had Some Salmon which they had brought with them from the main river.    it is only about 40 miles over the mount to the head waters of the other R.    the[y]  
+drank at the head waters or Spring of the <name type="place" key="Missouri River">Missourie</name> and went only abt. a mile and drank out of the head Spring of the <name type="place" key="Columbia River">Columbian</name> River which ran west.    the natives tell us that their is no timber large enofe for canoes on the head waters &amp;c    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> got 2[0] odd of the band to come over with their 
+horses, only 3 women with them.    we conclude to leave the canoes at this place and git horses of the natives to take our baggage over the mountains.    So we unloaded the canoes and formed a Camp on a Smooth prarie on L. Side.    the grass high, but no timber    we could git no timber to burn but Small dry willow Sticks about as big as a mans finger &amp;c.    a high hill in the point or between the forks of the River.    high hills around this valley.    the hunters killed 3 deer &amp; 2 goats this day.    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> informes us that the game is verry Scarse on the mountain, &amp; that they were without any thing of account to eat for 2 or three days, but the natives tell us that their is pleanty of fish on the <name type="place" key="Columbia River">columbian River</name> Such as Salmon &amp;c.    our officers told the natives that we wanted to git their horses to take our baggage over the 
+Mountain &amp; wanted to buy Some from them also    So they Gave them considerable of marchandize divided it among them all.    they consented to let us have their horses &amp; assist us over the mo.    they tell us that it is only about 8 days travvel a South course to the Spanish country,<ref target="n20081715" n="15"/> but these Indians git but little trade amongst them &amp;c—</p>
+               <p>
+Saturday August 17th    A Clear cold morning; the weather was so cold last night, that our party had to lay under 2 buffalo robes each in order to keep themselves warm, We took an early break fast and set out, we had proceeded on but a short distance when we were alarmed by several voices that were singing—    the Voices, came from the South side of the River.    We halted our Canoes, when a number of the <name type="native_nation" key="Shoshone Indians">Snake</name> Nation of Indians came to us; these were the Persons who we had heard singing; They informed us by <name type="person" key="Sacagawea">our Interpreter (the Indian Woman)</name> that <name type="person" key="Lewis, Meriwether">Captain Lewis</name> &amp; party was at the Forks of the River waiting for us.—    <name type="person" key="Clark, William">Captain Clark</name>, <name type="person" key="Charbonneau, Toussaint">our french Interpreter</name> &amp; <name type="person" key="Sacagawea">his Indian Wife</name>, went off with these Indians—    The <name type="native_nation" key="Shoshone Indians">Snake</name> Indians that came to us, rode very fine horses, 〈which〉 and they let <name type="person" key="Clark, William">Captain Clark</name> &amp; the <name type="person" key="Charbonneau, Toussaint">Interpreter</name> &amp; <name type="person" key="Sacagawea">wife</name> ride 2 of them to the forks of the River.    We proceeded on, the Indians riding their horses back &amp; forward to see us coming on, with our Canoes.    We were obliged to hawl our Canoes a great part of the way over shallow places, till we arrived at the place, where <name type="person" key="Lewis, Meriwether">Captain Lewis</name> was encamped, which lay a small distance below the forks of this River.    We found between 20 &amp; 30 of the <name type="native_nation" key="Shoshone Indians">Snake</name> Nation of Indians encamped with him.—</p>
+               <p>
+The Indians appeared to be very harmless &amp; inoffensive, <name type="person" key="Lewis, Meriwether">Captain Lewis</name> 
+informed us, that he had crossed the Mountains that lay a head of us &amp; had gone on to the head Waters of <name type="place" key="Columbia River">Columbia River</name>, and that he had found Some of this band of Indians, encamped on the head waters of said River, &amp; a part of them at a Creek or small River, on their way across the Mountains to this place; on a hunting party.—    he likewise mentioned, that the first Indian of this party that they had seen, was one of their spies, that was some distance a head of the party on horseback, <name type="person" key="Lewis, Meriwether">Captain Lewis</name> swung a blanket as a token of friendship to this Indian, but two of [his, <hi rend="italic">erased</hi>] <name type="person" key="Lewis, Meriwether">Captain Lewis's</name> party who were hunting happen'd to be on each side of 〈him〉 that Indian which frightened 〈the Indian〉 him, &amp; he supposing that <name type="person" key="Lewis, Meriwether">Captain Lewis</name> &amp; party wanted to take him prisoner, he turned about his horse, and rode very speedily out of his Road, &amp; made no halt, untill he got to his band, to who he told the news &amp; of what people he had seen; that afterwards they had met with 3 of their Squaws on the side of the mountain who were digging Roots, 2 of these squaws ran off, &amp; the other being old &amp; feeble stood her ground.    
+<name type="person" key="Lewis, Meriwether">Captain Lewis</name> went up to this Squaw, and made her some small presents, 
+and showed her every mark of friendship.    This Squaw then called to the other two, who came to her, and those 3 Squaws piloted <name type="person" key="Lewis, Meriwether">Captain Lewis</name> &amp; his party to their band; who received them with a great deal of fear at first, &amp; appeared to be much frightened, untill <name type="person" key="Lewis, Meriwether">Captain Lewis</name> &amp; his party laid down their guns, &amp; made some motions of friendship, the Indians then hung their Arms (Bows &amp; Arrows) round their own &amp; our Mens necks &amp; appeared very glad to see them, &amp; used them very friendly.    These Indians, had some Salmon with them which they had brought from the main <name type="place" key="Columbia River">Columbia River</name>.    they mentioned to us that it is only 40 Miles across the mountains to the head waters of <name type="place" key="Columbia River">Columbia River</name>.    The party that was with <name type="person" key="Lewis, Meriwether">Captain Lewis</name> mentioned that they had drank at the head water or Source of the <name type="place" key="Missouri River">Mesouri River</name>, which was a large spring.—    They also inform'd us that about one Mile from that large spring, that they had also drank water out of another spring, which was the head Waters of <name type="place" key="Columbia River">Columbia River</name>, The <name type="native_nation" key="Shoshone Indians">Snake</name> Indians informed us by our <name type="person" key="Charbonneau, Toussaint">Interpreter</name>, that there was no timber on the other side of the Mountains, large enough to make Canoes, near to the head of <name type="place" key="Columbia River">Columbia River</name>—    <name type="person" key="Lewis, Meriwether">Captain Lewis</name> had persuaded 20 odd <name type="native_nation" key="Shoshone Indians">Snake</name> Indians of that band to come over with their horses with him.—    Our officers concluded to leave our Canoes at this place, &amp; to get horses from those Indians to transport our baggage across the mountains, to <name type="place" key="Columbia River">Columbia River</name>.—    We unloaded our Canoes at that place, &amp; formid a Camp in a smooth Priari, lying on the So—    side of the River; where the Grass was very high.    We found no timber here, &amp; was forced to make use of small dry willows to cook our Meat with.—    In the fork of this River, on a point, lay a high hill, and hills all round where we 〈are〉 were encamped at, which is in a Valley.    Our hunters killed 3 deer &amp; 2 Goats this day, which they brought to our Camp.    <name type="person" key="Lewis, Meriwether">Captain Lewis</name> informed us that Game is very scarce to be found on the mountains, &amp; that they were without any thing of any account to eat for 3 days, The indians inform'd us, that there is plenty of fish to be caught in the <name type="place" key="Columbia River">Columbia River</name>, such as Salmon, &amp;ca.    Our Officers informed the Indians that they wanted to get their horses, to carry our baggage over the Mountains, and that they would purchase some of them also, &amp; that they would give them some Merchandise for them, The Indians consented to the officers proposals, The officers gave the Indians some Merchandise for part of their horses, &amp; they agreed to assist us across the mountains.    They informed us that it is only 8 days travel, from that place to where the Spaniards have a settlement, which they told us lays a South course from this place but that they have very little trade with them
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n20081701" n="1">Rees says her name was <name type="person" key="Pop-pank">Pop-pank, "Jumping Fish,"</name> from the manner in which she jumped through the water of a stream in escaping from the <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>. Rees, 4, 9.</note>
+            <note xml:id="n20081702" n="2">"<name type="place" key="Camp Fortunate (Mont.)">Camp Fortunate</name>," in <name type="place" key="Beaverhead County, Mont.">Beaverhead County</name>, <name type="place" key="Montana">Montana</name>, lies just below the forks of <name type="place" key="Beaverhead (Jefferson) River">the Beaverhead</name>, where a part of the party would remain until <ref n="1805-08-24" type="related">August 24</ref>. The site is now under <name type="place" key="Clark Canyon Dam and Reservoir">Clark Canyon Reservoir</name>. <hi rend="italic">Atlas</hi> map 66.</note>
+            <note xml:id="n20081703" n="3">Now an island surrounded by <name type="place" key="Clark Canyon Dam and Reservoir">Clark Canyon Reservoir</name>. <hi rend="italic">Atlas</hi> map 66.</note>
+            <note xml:id="n20081704" n="4">Including Sergeants <name type="person" key="Gass, Patrick">Gass</name> and <name type="person" key="Pryor, Nathaniel Hale">Pryor</name>, Privates <name type="person" key="Collins, John">Collins</name>, <name type="person" key="Colter, John">Colter</name>, <name type="person" key="Cruzatte, Pierre">Cruzatte</name>, <name type="person" key="Shannon, George">Shannon</name>, <name type="person" key="Windsor, Richard">Windsor</name>, and four others unidentified. <name type="person" key="Sacagawea">Sacagawea</name> and <name type="person" key="Charbonneau, Toussaint">Charbonneau</name> accompanied <name type="person" key="Clark, William">Clark</name> as far as the <name type="native_nation" key="Shoshone Indians">Shoshone</name> village. Appleman (LC), 372 n. 111.</note>
+            <note xml:id="n20081705" n="5">Such exchange of names, creating a ceremonial kinship between the persons concerned, was a custom of several Western tribes. However, Rees, 7, believes the name given <name type="person" key="Clark, William">Clark</name> was not the chief's name but was Kim-ah-pawn, which he also interprets as "come and smoke," which he derived from <name type="person" key="Clark, William">Clark's</name> smoking with the <name type="native_nation" key="Shoshone Indians">Shoshones</name> on <ref n="1805-08-20" type="related">August 20, 1805</ref>.</note>
+            <note xml:id="n20081706" n="6">Here in Codex G, p. 67, <name type="person" key="Clark, William">Clark</name> has inserted accumulated courses for August 15, 16, and 17, 1805.</note>
+            <note xml:id="n20081707" n="7">Salmon, <hi rend="italic">Oncorhynchus</hi> sp., of an unknown type.</note>
+            <note xml:id="n20081708" n="8">Called <name type="place" key="Camp Fortunate (Mont.)">Camp Fortunate</name> by the party, it was located just below the forks of the <name type="place" key="Beaverhead (Jefferson) River">Beaverhead River</name>, <name type="place" key="Beaverhead County, Mont.">Beaverhead County</name>, <name type="place" key="Montana">Montana</name>. The site is now under <name type="place" key="Clark Canyon Dam and Reservoir">Clark Canyon Reservoir</name>. The group would remain here until <ref n="1805-08-24" type="related">August 24</ref>.</note>
+            <note xml:id="n20081709" n="9">
+               <name type="person" key="Cameahwait">Cameahwait</name>, the brother of <name type="person" key="Sacagawea">Sacagawea</name>.</note>
+            <note xml:id="n20081710" n="10">Long-tailed weasel, <hi rend="italic">Mustela frenata</hi>. <name type="person" key="Lewis, Meriwether">Lewis</name> received such a tippet from <name type="person" key="Cameahwait">Cameahwait</name>; it is <ref n="1805-08-20" type="related">shown</ref> in vol. 5, p. xii.</note>
+            <note xml:id="n20081711" n="11">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> party had crossed the <name type="place" key="Continental Divide">Continental Divide</name> and met the <name type="native_nation" key="Shoshone Indians">Shoshones</name> on the <name type="place" key="Lemhi (East Fork Lewis's) River">Lemhi River</name> in <name type="place" key="Idaho">Idaho</name>.</note>
+            <note xml:id="n20081712" n="12">The junction of <name type="place" key="Horse Prairie Creek (West Fork Jefferson River)">Horse Prairie Creek</name> and <name type="place" key="Red Rock (East Fork Jefferson) River">Red Rock River</name> to form <name type="place" key="Beaverhead (Jefferson) River">Beaverhead River</name>. 
+Here, in <name type="place" key="Beaverhead County, Mont.">Beaverhead County</name>, <name type="place" key="Montana">Montana</name>, they formed <name type="place" key="Camp Fortunate (Mont.)">Camp Fortunate</name> just below the forks on 
+a site now under <name type="place" key="Clark Canyon Dam and Reservoir">Clark Canyon Reservoir</name>.</note>
+            <note xml:id="n20081713" n="13">The <name type="native_nation" key="Shoshone Indians, Lemhi">Lemhi Shoshones</name>, <name type="person" key="Sacagawea">Sacagawea's</name> people. See <name type="person" key="Lewis, Meriwether">Lewis's</name> entries of August 11–17 for his meeting with them and his efforts to get them to meet the main party at the forks (see note 12).</note>
+            <note xml:id="n20081714" n="14">The number "3" is written over "2."</note>
+            <note xml:id="n20081715" n="15">The "Spanish country" would be <name type="place" key="New Mexico">New Mexico</name>, but eight days seems an optimistic 
+estimate.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-08-16" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-08-18" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

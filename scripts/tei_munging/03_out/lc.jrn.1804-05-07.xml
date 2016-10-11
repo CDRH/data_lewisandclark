@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-05-07">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+May 7, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">212-213</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh" n="category">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-01-07</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-05-07">May 7, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-05-07.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Monday 7th    I Load the boat all day, a fair Day    <name type="person" key="Rumsey, Nathan">Mr. Rumsey</name> ride a public horse<ref target="n03050701" n="1"/> to <name type="place" key="Saint Louis, Mo.">St Louis</name>    a fair day    Sent <name type="person" key="Ordway, John">Sjt. Ordway</name> with a perogue to <name type="place" key="Saint Louis, Mo.">St Louis</name> after <name type="person" key="Colter, John">Colter</name> arrived express,<ref target="n03050702" n="2"/> &amp; [<name type="person" key="Reed, Moses B.">reed</name>]<ref target="n03050703" n="3"/> with a Hors &amp; Tallow.
+
+	
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n03050701" n="1">Evidently the horse was government property, perhaps one being used by the expedition.</note>
+            <note xml:id="n03050702" n="2">
+               <name type="person" key="Colter, John">Colter</name> came from <name type="place" key="Saint Louis, Mo.">St. Louis</name> bearing <name type="person" key="Clark, William">Clark's</name> commission as a second lieutenant and <name type="person" key="Lewis, Meriwether">Lewis's</name> letter, which expressed regret that this was not the captain's rank <name type="person" key="Clark, William">Clark</name> had been led to expect and assured <name type="person" key="Clark, William">Clark</name> that his authority and pay would be the same as <name type="person" key="Lewis, Meriwether">Lewis's</name>. They concealed <name type="person" key="Clark, William">Clark's</name> rank from the rest of the expedition party. <name type="person" key="Lewis, Meriwether">Lewis</name> to <name type="person" key="Clark, William">Clark</name>, May 6, 1804, Jackson (LLC), 1:179–80.</note>
+            <note xml:id="n03050703" n="3">The word is nearly illegible, but <name type="person" key="Reed, Moses B.">Moses Reed</name> had accompanied <name type="person" key="Colter, John">Colter</name> on this trip. Ibid.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-05-06" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-05-08" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1803-11-15-19">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">undated, ca. November 15-19, 1803</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">91-93</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1803-11-15-19.01">
+            <placeName/>
+            <geo>37.0008 -89.176</geo>
+            <note>Entry recorded more than likely at the time when the party was at the juncture of the Ohio and Mississippi Rivers.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2003-12-11</date>
+            <date/>
+            <name>Laura Weakly</name>
+            <name/>Initial creation Transcribed</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date notBefore="1803-11-15" notAfter="1803-11-19">undated, ca. November 15–19, 1803</date>
+         </head>
+         <div type="entry"
+              xml:id="lc.jrn.1803-11-15-19.01"
+              n="lc.geo.1803-11-15-19.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>[<hi rend="italic">undated, ca. November 15-19</hi>]<ref target="n021115-1901" n="1"/>
+                  </date>
+               </ab>
+               <p>
+
+Took equal alitudes of the sun</p>
+               <p>
+                  <table rows="5" cols="9">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h</cell>
+                        <cell role="data" rows="1" cols="1">m</cell>
+                        <cell role="data" rows="1" cols="1">s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h</cell>
+                        <cell role="data" rows="1" cols="1">m</cell>
+                        <cell role="data" rows="1" cols="1">s</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">A. M.</cell>
+                        <cell role="data" rows="1" cols="1">8</cell>
+                        <cell role="data" rows="1" cols="1">33</cell>
+                        <cell role="data" rows="1" cols="1">32</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">P.M</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">36</cell>
+                        <cell role="data" rows="1" cols="1">38.5</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">8</cell>
+                        <cell role="data" rows="1" cols="1">35</cell>
+                        <cell role="data" rows="1" cols="1">35.5</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">38</cell>
+                        <cell role="data" rows="1" cols="1">27.5</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">8</cell>
+                        <cell role="data" rows="1" cols="1">37</cell>
+                        <cell role="data" rows="1" cols="1">30.5</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">40</cell>
+                        <cell role="data" rows="1" cols="1">30.5</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+Altitude given by sextant<ref target="n021115-1902" n="2"/>
+                  <seg n="u9737">☉</seg>'s center 39° 50' 00"
+</p>
+               <p>
+Equal altitudes corrected
+</p>
+               <p>
+                  <table rows="2" cols="9">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h</cell>
+                        <cell role="data" rows="1" cols="1">m</cell>
+                        <cell role="data" rows="1" cols="1">s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h</cell>
+                        <cell role="data" rows="1" cols="1">m</cell>
+                        <cell role="data" rows="1" cols="1">s</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">A. M.</cell>
+                        <cell role="data" rows="1" cols="1">8</cell>
+                        <cell role="data" rows="1" cols="1">35</cell>
+                        <cell role="data" rows="1" cols="1">35.5</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">P.M.</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">38</cell>
+                        <cell role="data" rows="1" cols="1">27.5</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="3" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">m</cell>
+                        <cell role="data" rows="1" cols="1">s</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Chronometer<ref target="n021115-1903" n="3"/> too slow M. T.</cell>
+                        <cell role="data" rows="1" cols="1">22</cell>
+                        <cell role="data" rows="1" cols="1">56.1</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">      do. do. Apt. T.</cell>
+                        <cell role="data" rows="1" cols="1">22</cell>
+                        <cell role="data" rows="1" cols="1">55.1</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry"
+              xml:id="lc.jrn.1803-11-15-19.02"
+              n="lc.geo.1803-11-15-19.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>[<hi rend="italic">undated, ca. November 15–19</hi>]<ref target="n021115-1904" n="4"/>
+                  </date>
+               </ab>
+               <p>
+From the Point of the <name type="place" key="Mississippi River">Mississippi</name> &amp; <name type="place" key="Ohio River">Ohio</name> 25 poles from the highest Land on the Sand point—    From thence to A Signal<ref target="n021115-1905" n="5"/> on the Opposit Side of the <name type="place" key="Ohio River">Ohio</name> is N. 30 ½ d E<ref target="n021115-1906" n="6"/> 149 poles<ref target="n021115-1907" n="7"/> &amp; 32 po: &amp; 7/10 to the bank— From the Said beginning up the <name type="place" key="Ohio River">Ohio</name> N 52 ½° W 115 po: to a—    Thence to the aforesaid Signal on the opposit Side of the <name type="place" key="Ohio River">Ohio</name> is N 68° E—</p>
+               <p>
+From the Said Beginning Cross the <name type="place" key="Mississippi River">Mississippi</name> to a Signal is S 33° E— From Said point up the <name type="place" key="Mississippi River">Mississippi</name> is S 74° W 117 po: (to a Bluff of Sand opposit the Lower point of an Island)    From thence to the Said Signal is S 56° E—    (To the upper point of Island is S 53 W, to Lower point is S 15 E)</p>
+               <p>
+From the Said point or begn: to the point on the West Side of the <name type="place" key="Mississippi River">Mississippi</name> is S 75° E—    From Said Point to a forked Tree on the East Side of the <name type="place" key="Mississippi River">Mississippi</name> Standing on the banke is S 77° E 700 poles (from thence to the high Land about 500 poles—</p>
+               <p>
+From the Signal on the East Side of the <name type="place" key="Ohio River">Ohio</name> to a forked Tree on the bank below is S 66° E—    To the Point on the W Side of the <name type="place" key="Mississippi River">Miss</name>: below is S 55° E—    To the upper (house) or Signal is S 16° E°    Passing the lower point of the Sand Bar makeing from the Island above</p>
+               <p>
+From the highest part of the point along the high land up the <name type="place" key="Mississippi River">Miss</name>: is S 48° W 4 po: 14 Links, S 72 W. 144 po: S 13 W. 8 po: to the river where the bank Caves in. N 85 E 46 poles to the Willows, where the Bank Sease to Cave in in the Course of the 3d Observation</p>
+               <p>
+(The Course of the bank on the Spa: [Spanish] Side of the <name type="place" key="Mississippi River">Miss</name>: from the upper house Down is nearly S 85° E. abt. 2 ½ miles, &amp; S 80 E about 450 yards to the lower point—<name type="person" key="Lewis, Meriwether">Capt L</name>)
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n021115-1901" n="1">This material is separated from the November 16 entry by a blank half page. It may not have been written on the sixteenth but surely was completed during the time the party was at the juncture of the <name type="place" key="Ohio River">Ohio</name> and <name type="place" key="Mississippi River">Mississippi</name> rivers. It and the next entry are placed here because of this entry's position in the Eastern Journal.</note>
+            <note xml:id="n021115-1902" n="2">The sextant used by the expedition was purchased from <name type="person" key="Whitney, Thomas">Thomas Whitney</name> of <name type="place" key="Philadelphia, Pa.">Philadelphia</name>, as were many of the other scientific instruments. It was "a brass sextant of 10 Inches radius." <name type="person" key="Lewis, Meriwether">Lewis's</name> List and Supplies [June 30, 1803], Jackson (LLC), 1:69, 82, 96; <name type="person" key="Lewis, Meriwether">Lewis's</name> description of astronomical instruments, <ref n="1804-07-22" type="related">July 22, 1804</ref>; Bedini (TT), 337–39, 483; Bedini (SILC), 55, 62–63.</note>
+            <note xml:id="n021115-1903" n="3">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> purchased the "Arnold's" chronometer, of "the most improved construction," from <name type="place" key="Philadelphia, Pa.">Philadelphia</name> watchmaker <name type="person" key="Parker, Thomas">Thomas Parker</name>, and carried it in a special case. It was of English construction; the maker is not known, but it was commonly referred to as "Arnold's" because <name type="person" key="Arnold, John">John Arnold</name> of <name type="place" key="London">London</name> was then one of the best-known makers of chronometers. See <ref n="1803-11-15" type="related">November 15</ref>, n. 1, above, and <name type="person" key="Lewis, Meriwether">Lewis's</name> description of astronomical instruments, <ref n="1804-07-22" type="related">July 22, 1804</ref>. <name type="person" key="Ellicott, Andrew">Andrew Ellicott</name> to <name type="person" key="Jefferson, Thomas">Jefferson</name>, March 6, 1803, <name type="person" key="Lewis, Meriwether">Lewis</name> to <name type="person" key="Jefferson, Thomas">Jefferson</name>, May 14, 1803, <name type="person" key="Jefferson, Thomas">Jefferson</name> to <name type="person" key="Lewis, Meriwether">Lewis</name>, May 16, 1803, <name type="person" key="Lewis, Meriwether">Lewis</name> to <name type="person" key="Ellicott, Andrew">Ellicott</name>, May 27, 1803, <name type="person" key="Lewis, Meriwether">Lewis's</name> Supplies [June 30, 1803], Jackson (LLC), 1:23, 48–49, 51, 91; Wilford, 128–37; Bedini (TT), 330-31; Bedini (SILC), 60-61.</note>
+            <note xml:id="n021115-1904" n="4">This material comes from the Field Notes (document 2, incorrectly placed as document 3 in Osgood) and is the reverse of a map (see fig. 1) apparently made by <name type="person" key="Clark, William">Clark</name> while the party was at the junction of the <name type="place" key="Ohio River">Ohio</name> and <name type="place" key="Mississippi River">Mississippi</name> rivers.</note>
+            <note xml:id="n021115-1905" n="5">Apparently some sort of marker or beacon.</note>
+            <note xml:id="n021115-1906" n="6">Here begins the practice that the captains followed throughout the expedition of giving their courses by the compass, with the estimated distance on each course; this assisted <name type="person" key="Clark, William">Clark</name> in mapping and might have been intended to assist future travelers. Courses other than due north, south, east, or west were expressed by the number of degrees the course varied from either due north or due south. Thus, "N. 30 ½ d E" would be thirty and one-half degrees east of due north, fifty-nine  and one-half degrees short of due east. The bearing may have been taken with a pocket compass, such as one of three purchased by <name type="person" key="Lewis, Meriwether">Lewis</name> from <name type="person" key="Whitney, Thomas">Whitney</name>, or with the plain surveying compass. It is not clear whether <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> took a bearing at the beginning of a particular course, sighting on the point for which they were headed, or whether they sighted back at the end of a course toward the point at which it began. Distances were apparently estimates. Greenwood, 57–59, 66–67.</note>
+            <note xml:id="n021115-1907" n="7">The pole, or rod, is a unit of measurement commonly given as 16 ½ feet. The link, mentioned below, is the standardized link, 7.92 inches, of the surveyor's chain made of wrought iron or steel. One chain of one hundred links measures 66 feet, or four poles, and eighty chains measures a mile. <name type="person" key="Lewis, Meriwether">Lewis</name> purchased a "two pole Chain" (33 feet) in <name type="place" key="Philadelphia, Pa.">Philadelphia</name> in May 1803. <name type="person" key="Clark, William">Clark</name> had some basic knowledge of surveying, and <name type="person" key="Lewis, Meriwether">Lewis</name> had been instructed by <name type="person" key="Ellicott, Andrew">Ellicott</name> and <name type="person" key="Patterson, Robert">Patterson</name>. Ibid., 53, 272; Lewis's List and Supplies [June 30, 1803], Jackson (LLC), 1:69, 82, 96.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1803-11-16" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-11-17" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

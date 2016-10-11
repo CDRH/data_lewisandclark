@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1803-09-07">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">September 7, 1803</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">73-75</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1803-09-07.01">
+            <placeName>Wheeling</placeName>
+            <geo>40.0622 -80.7208</geo>
+            <note>Wheeling, stayed there for 1803-09-08</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2003-12-09</date>
+            <date/>
+            <name>Laura Weakly</name>
+            <name/>Initial creation Transcribed</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1803-09-07">September 7, 1803</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1803-09-07.01" n="lc.geo.1803-09-07.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">September the 7th</hi>
+                  </date>
+               </ab>
+               <p>
+Foggy this morning according to custom; set out at half past seven, and in about two hundred paces stuck on a riffle    all hands obliged to get out.    observed the Thermometer at sun rise in the air to stand at 47° the tem[pe]rature of the river water being 68°—difference = 21°—    got over the riffle, at 45 mts. after 8.    passed <name type="place" key="Wellsburg, W. Va.">Charles town</name>
+                  <ref target="n02090701" n="1"/> on the E. shore above the mouth of <name type="place" key="Dugout Coulee (Buffalo Creek)">Buffaloe</name> over which there is built a handsom wooden bridge, this has the appearance of a handsome little Village, containing about forty houses—    this village is three miles below our encampment of last evening—    reached <name type="place" key="Wheeling, W. Va.">Wheeling</name>
+                  <ref target="n02090702" n="2"/> 16 miles distant at 5 in the evening    this is a pretty considerable Village contains about fifty houses and is the county town of <name type="place" key="Ohio, Va.">Ohio</name> (State of <name type="place" key="Virginia">Virginia</name>)    it is situated on the east side of the river on an elivated bank; the landing is good, just below the town and on the same side <name type="place" key="Big Wheeling Creek">big Wheeling creek</name> emtys itself into the <name type="place" key="Ohio River">Ohio</name>, on the point formed by this creek and the river stands an old stoccade fort,<ref target="n02090703" n="3"/> now gone to decay; this town is remarkable for being the point of embarkation for merchants and Emegrants who are about to descend the river, particularly if they are late in getting on and the water gets low as it most commonly is from the begining of July to the last of September; the water from hence being much deeper and the navigation better than it is from <name type="place" key="Pittsburgh, Pa.">Pittsburgh</name> or any point above it—    I went on shore    waited on a <name type="person" key="Caldwell">Mr. Caldwell</name> a merchant of that place to whome I had consigned a part of my goods which I had sent by land from <name type="place" key="Pittsburgh, Pa.">Pittsburgh</name>; found the articles in good order; her[e] met with <name type="person" key="Rodney, Thomas">Colo. Rodney</name>
+                  <ref target="n02090704" n="4"/> one of the commissioners appointed by the government to adjust the landed claims in the <name type="place" key="Mississippi">Mississippi</name> Territory.    in his suit was <name type="person" key="Claiborne, Richard">Majr Claiborne</name>
+                  <ref target="n02090705" n="5"/> and a young gentleman who was going on to the Territory with a view to commence the practice of the law.    he is a pupil of <name type="person" key="Rodney, Caesar Augustus">Czar Rodney</name>
+                  <ref target="n02090706" n="6"/> of <name type="place" key="Delaware">Deleware</name>    remained all night
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n02090701" n="1">Now <name type="place" key="Wellsburg, W. Va.">Wellsburg</name>, <name type="place" key="Brooke County, W. Va.">Brooke County</name>, <name type="place" key="West Virginia">West Virginia</name>. "<name type="place" key="Dugout Coulee (Buffalo Creek)">Buffaloe</name>" is present <name type="place" key="Dugout Coulee (Buffalo Creek)">Buffalo Creek</name>. <name type="person" key="Gass, Patrick">Patrick Gass</name>, one of the sergeants and journalists of the expedition, lived in <name type="place" key="Wellsburg, W. Va.">Wellsburg</name> for some years, died in 1870, and was buried there. Thwaites (EWT), 4:108–9 and nn. 68, 69; <hi rend="italic">West Virginia Guide,</hi> 485–86; Callahan, 37, 80.</note>
+            <note xml:id="n02090702" n="2">First settled about 1770 by <name type="person" key="Zane, Ebenezer">Ebenezer Zane</name> and relatives, it remains the county seat of <name type="place" key="Ohio County, W. Va.">Ohio County</name>, <name type="place" key="West Virginia">West Virginia</name>. Callahan, 25, 37, 78–79; <hi rend="italic">West Virginia Guide,</hi> 281–86; Rice, 67.</note>
+            <note xml:id="n02090703" n="3">Probably <name type="place" key="Fort Henry (Va.)">Fort Fincastle</name>, established in 1774, later renamed <name type="place" key="Fort Henry (Va.)">Fort Henry</name> in 1776 after <name type="person" key="Henry, Patrick">Governor Patrick Henry</name> of <name type="place" key="Virginia">Virginia</name>. See sources cited in previous note and Quaife (MLJO), 38 n. 2.</note>
+            <note xml:id="n02090704" n="4">
+               <name type="person" key="Rodney, Thomas">Thomas Rodney</name> of <name type="place" key="Delaware">Delaware</name>, Revolutionary War soldier and judge, was appointed judge for <name type="place" key="Mississippi">Mississippi</name> Territory by <name type="person" key="Jefferson, Thomas">President Jefferson</name>. His brother was the Revolutionary patriot <name type="person" key="Rodney, Caesar">Caesar Rodney</name>. Hamilton.</note>
+            <note xml:id="n02090705" n="5">
+               <name type="person" key="Claiborne, Richard">Major Richard Claiborne</name> of <name type="place" key="Virginia">Virginia</name> accompanied <name type="person" key="Rodney, Thomas">Rodney</name> to <name type="place" key="Mississippi">Mississippi</name> and served as clerk of the board of commissioners to settle land claims in the territory, a board headed by <name type="person" key="Rodney, Thomas">Rodney</name>, Ibid., 62–64, 67.</note>
+            <note xml:id="n02090706" n="6">The young gentleman was <name type="person" key="Shields, William Bayard">William Bayard Shields</name>, who had studied law under <name type="person" key="Rodney, Thomas">Thomas Rodney</name>'s son, <name type="person" key="Rodney, Caesar Augustus">Caesar Augustus Rodney</name>; <name type="person" key="Lewis, Meriwether">Lewis</name> would have known <name type="person" key="Rodney, Caesar Augustus">C. A. Rodney</name> as a member of the House of Representatives and a staunch Jeffersonian. <name type="person" key="Shields, William Bayard">Shields</name> became a lawyer and judge in <name type="place" key="Mississippi">Mississippi</name> and was counsel for <name type="person" key="Burr, Aaron">Aaron Burr</name> at his first trial in <name type="place" key="Mississippi">Mississippi</name>. Ibid., 62–64, 216 n. 2, 260.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1803-09-06" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-09-08" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

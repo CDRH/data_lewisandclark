@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-01-07">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+January 7, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 6</title>
+               <title level="m" type="sub">November 2, 1805–March 22, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1990</date>
+               <biblScope type="pages">174-179</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">265</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">187-188</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">411</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-01-07.01">
+            <placeName/>
+            <geo>45.95 -123.95</geo>
+            <note>Camped on Canyon Creek of Tillamook Head, Clatsop County, OR.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh" n="category">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-08-06</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-01-07">January 7, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-01-07.01" n="lc.geo.1806-01-07.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Monday</hi> [<hi rend="italic">NB: Tuesday</hi>] <hi rend="italic">January 7th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+Last evening <name type="person" key="Drouillard, George">Drewyer</name> visited his traps and caught a beaver and an otter; the beaver was large and fat we have therefore fared sumptuously today; this we consider a great prize for another reason, it being a full grown beaver was well supplyed with the materials for making bate with which to catch others.    this bate when properly prepared will intice the beaver to visit it as far as he can smell it, and this I think may be safely stated at a mile, their sense of smelling being very accute. To prepare beaver bate, the castor<ref target="n27010701" n="1"/> or bark stone is taken as the base, this is gently pressed out of the bladderlike bag which contains it, into aphiol of 4 ounces with a wide mouth; if you have them you will put from four to six stone in a phiol of that capacity, to this you will add half a nutmet, a douzen or 15 grains of cloves and thirty grains of cinimon finely pulverized, stir them well together and then add as much ardent sperits to the composition as will reduce it the consistency mustard prepared for the table; when thus prepared it resembles mustard precisely to all appearance. when you cannot procure a phiol a bottle made of horn or a tight earthen vessel will answer, in all cases it must be excluded from the air or it will soon loose it's virtue; it is fit for uce immediately it is prepared but becomes much stronger and better in about four or five days and will keep for months provided it be perfectly secluded from the air.    when cloves are not to be had use double the quantity of Allspice, and when no spice can be obtained use the bark of the root of sausafras; when sperits can not be had use oil stone of the beaver adding mearly a sufficient quantity to moisten the other materials, or reduce it to a stif past.    it appears to me that the principal uce of the spices is only to give a variety to the scent of the bark stone and if so the mace<ref target="n27010702" n="2"/> vineller<ref target="n27010703" n="3"/> and other sweetsmelling spices might be employed with equal advantage. The male beaver has six stones, two which contain a substance much like finely pulvarized bark of a pale yellow colour and not unlike tanner's ooz in smell, these are called the <hi rend="italic">bark stones</hi> or castors; two others, which like the bark stone resemble small bladders, contain a pure oil of a strong rank disagreeable smell, and not unlike <hi rend="italic">train oil,</hi>
+                  <ref target="n27010704" n="4"/> these are called the <hi rend="italic">oil stones;</hi> and 2 others of generation.    the Barkstones are about two inc[h]es in length, the others somewhat smaller all are of a long oval form; and lye in a bunch together between the skin and the root of the tail, beneath or behind the fundament with which they are closely connected and seem to communicate. the pride<ref target="n27010705" n="5"/> of the female lyes on the inner side much like those of the hog. they have no further parts of generation that I can perceive and therefore beleive that like the birds they copulate with the extremity of the gut. The female have from two to four young ones at a birth and bring fourth once a year only, which usually happens about the latter end of may and begining of June.    at this stage she is said to drive the male from the lodge, who would otherwise destroy the young.—    dryed our lodge and had it put away under shelter; this is the first day during which we have had no rain since we arrived at this place.    nothing extraordinary happened today.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-07.02" n="lc.geo.1806-01-07.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Jany 7th Tuesday 1805</hi> [1806]</date>
+               </ab>
+               <p>
+Set out at Day light, porceded up the Creek about 2 mile and crossed on a tree trunk the Salt makers have 〈made〉 fallen across, then proceeded on to the Ocean ¾ mile &amp; proceded up 3 miles to the mouth of <name type="place" key="Tillamook (Kilamox) River">Colimex River</name>
+                  <ref target="n27010706" n="6"/> about 80 or 100 yds wide verry rapid &amp; Cuts its banks, here we found an old Village of 3 houses, one only inhabited by one familey, I gave the man a fish hook to put the party across, on the bank found a <hi rend="italic">Skeet</hi> fish [<hi rend="italic">X: Skaite</hi>]<ref target="n27010707" n="7"/> which had been lef by the tide    proceded on 2 miles on the bank opposit a kind of bay    the river Cross to the Sea Cost to 2 Inds Indians Lodges at which place I found our Salt makers near the foot of a mountain which form the Shore.    Brackfast and hirired an Indian to pilot me to the <hi rend="italic">
+                     <name type="native_nation" key="Tillamook Indians">Ca le mix</name>
+                  </hi> nation where the whale is for which I gave a file, we proceded on the Stone under a high hill on our right bluff. Soft Stone Sees verry high, Several parts of this hill recently Sliped in, about ¾ of a mile abov the Houses Saw a Canoe in which the Dead was buried    at 2½ miles assended a Steep mountain,<ref target="n27010708" n="8"/> as Steep at it is possible places for 1500 [<hi rend="italic">two letters smudged, illegible</hi>] feet    we hauled our Selves up by the assistence of the bushes    if one had Given way we must have fallen a great distanc    the Steepest worst &amp; highest mountain I ever assended I think it at least 1500 feet highr than the Sea imidiately under on the riht.    we met 14 Indians loaded with blubber    proceded on thro an unusual bad way falling timber bendig under logs &amp;c. and encamped on a Creek<ref target="n27010709" n="9"/> which runs to my left  find Day and night, the timber Spruc White Cedar &amp; &amp;.
+</p>
+               <p>
+                  <figure rend="aps">
+                     <p>Skate (big skate, <hi rend="italic">Raja binoculata</hi>),<lb/>
+                        <hi rend="italic">January 7, 1806, <name type="person" key="Clark, William">Clark's</name> First Draft</hi>
+                        <bibl>
+                           <orgName>(American Philosophical Society library, </orgName>
+                           <note place="inline"> used with permission.)</note>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-07.03" n="lc.geo.1806-01-07.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Tuesday 7th of January 1805</hi> [1806]</date>
+               </ab>
+               <p>
+Some frost this morning.    I[t] may appear Somewhat incrediable, but So it is that the Elk which was killed last evening was eaten except about 8 pounds, which I directed to be taken along with the Skin, I proceded up the <name type="place" key="Gallatin (South, Southeast Fork) River">South fork</name> of the Creek about 2 miles and crossed on a pine tree which had been fallen by the Saltmakers on their first going out, on this tree we crossed the deepest of the water and waded on the opposit Side for 30 yards, from thence to the ocian ¾ of a mile through a Continuation of open ridgey Prarie, here the Coast is Sandy, we proceeded on the Sandy beech nearly South for 3 miles to the mouth of butifull river with bold and rapid Current of 85 yards wide and 3 feet deep in the Shallowest place, a Short distance up this river on the N E Side is the remains of an old village of <name type="native_nation" key="Clatsop Indians">Clatsops</name>. I entered a house where I found a Man 2 Womn &amp; 3 Children, they appeared retchedly pore &amp; dirty, I hired the man to Set us across the River which I call after the Nation <name type="place" key="Necanicum (Clatsop) River">
+                     <hi rend="italic">Clat Sop</hi> river</name> for which I gave 2 fishing hooks—    at this place the Creek over which I crossed on a tree passes within 100 yards of the <name type="native_nation" key="Clatsop Indians">
+                     <hi rend="italic">Clat Sop</hi> river</name> over which the natives have a portage which affords them an easy Communication with the villages near <name type="place" key="Point Adams">point adams</name>, and at the mouth of the Creek, on which we lay last night.    in walking on the Sand after crossing the river I Saw a Singular Species of fish which I had never before Seen    one of the men Call this fish a Skaite,<ref target="n27010710" n="10"/> it is properly a Thornback. I proceeded on about 2 miles to near the base of high Mountain where I found our Salt makers, and with them <name type="person" key="Gass, Patrick">Sergt. Gass</name>, <name type="person" key="Shannon, George">Geo. Shannon</name> was out in the woods assisting <name type="person" key="Field, Joseph">Jo Field</name> and <name type="person" key="Gibson, George">gibson</name> to kill Some meat, the Salt makers had made a neet Close Camp, Convenient to wood Salt water and the fresh water of the <name type="place" key="Necanicum (Clatsop) River">Clât Slop river</name> which at this place was within 100 paces of the Ocian they wer also Situated near 4 houses of <name type="native_nation" key="Clatsop Indians">Clatsops</name> &amp; <name type="native_nation" key="Tillamook Indians">Killamox</name>, who they informed me had been verry kind and attentive to them. I hired a young Indian to pilot me to the whale for which Service I gave him a file in hand and promised Several other Small articles on my return, left <name type="person" key="Gass, Patrick">Sergt. Gass</name> and one man of my party <name type="person" key="Werner, William">Werner</name> to make Salt &amp; permited <name type="person" key="Bratton, William E.">Bratten</name> to accompany me, we proceeded on the round Slipery Stones under a high hill which projected into the ocian about 4 miles further than the direction of the Coast.    after walking for 2½ miles on the Stones my guide made a Sudin halt, pointed to the top of the mountain and uttered the word <hi rend="italic">Pe Shack</hi> which means bad [<hi rend="italic">NB: bad</hi>],<ref target="n27010711" n="11"/> and made Signs that we could not proceed any further on the rocks, but must pass over that mountain, I hesitated a moment &amp; view this emence mountain the top of which 〈apd〉 was obscured in the clouds, and the assent appeard, to be almost perpindecular; as the Small Indian parth allong which they had brought emence loads but a fiew hours before, led up this mountain and appeared to assend in a Sideling direction, I thought more than probable that the assent might be torerably easy and therefore proceeded on, I soon found that the [<hi rend="italic">blank</hi>] become much worst as I assended, and at one place we were obliged to Support and draw our Selves up by the bushes &amp; roots for near 100 feet, and after about 2 hours labour and fatigue we reached the top of this high mountain, from the top of which I looked down with estonishment to behold the hight which we had assended, which appeared to be 10 or 12 hundred feet up a mountain which appeared to be almost perpindicular, here we met 14 Indians men and women loaded with the oil &amp; Blubber of the whale. In the face of this tremendeous precipic imediately below us, there is a Strater of white earth<ref target="n27010712" n="12"/> (which my guide informed me) the neighbouring indians use to paint themselves, and which appears to me to resemble the earth of which the French Porcelain is made; I am confident that this earth Contains argill, but whether it also Contains Silex or magnesia, or either of those earths in a proper perpotion I am unable to deturmine.    we left the top of the precipice and proceeded on a bad road and encamped on a Small run passing to the left.    all much fatiagued
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-07.04" n="lc.geo.1806-01-07.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday 7th Jany. 1806.    clear and pleasant. <name type="person" key="Drouillard, George">George Drewyer</name> went out to his traps abt. 3 mls. and found in them one large beautiful black otter and a beaver.    he brought the beaver in to Eat.    contn. clear all day which is a very uncommon thing at this place.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-07.05" n="lc.geo.1806-01-07.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 7th.</hi>    Another fine day. About noon <name type="person" key="Clark, William">Captain Clarke</name> with 14 men<ref target="n27010713" n="13"/> came to the salt-makers camp, in their way to the place where the large fish had been driven on shore, some distance beyond this camp.<ref target="n27010714" n="14"/> The Indians about our fort had procured a considerable quantity of the meat, which we found very good. The 8th was a fine day and I remained at camp. The 9th was also fair and pleasant; and about noon <name type="person" key="Clark, William">Captain Clarke</name> and his party returned here; the distance being about 17 miles. They found the skeleton of the whale which measured 105 feet in length and the head 12. The natives had taken all the meat off its bones, by scalding and other means, for the purpose of trade. The Indians, who live up there are of another nation, and call themselves the <name type="native_nation" key="Tillamook Indians">Callemex</name> nation.<ref target="n27010715" n="15"/> They are a ferocious nation: one of them was going to kill one of our men,<ref target="n27010716" n="16"/> for his blanket; but was prevented by a squaw of the <name type="native_nation" key="Chinook Indians">Chinook</name> nation, who lives among them, and who raised an alarm. There is a small river<ref target="n27010717" n="17"/> comes into the sea at that place. <name type="person" key="Clark, William">Captain Clarke</name> and his party remained at the camp all night, during which some rain fell.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-07.06" n="lc.geo.1806-01-07.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday Janry 7th    We had a clear pleasant night, &amp; it still continues so this morning; which is rare to be met with at this place at this Season of the Year.    One of our hunters<ref target="n27010718" n="18"/> went out about 3 Miles from the Fort, to where he had set 2 traps.    He found in them One Otter &amp; a Beaver, he brought in with him the flesh of the Beaver &amp; the Skin of the Otter.    this Otter skin was very black &amp; handsome.—
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n27010701" n="1">Castoreum, obtained from the perineal glands of the beaver.</note>
+            <note xml:id="n27010702" n="2">A spice consisting of the dried arillode of the nutmeg, <hi rend="italic">Myristica fragrans</hi> Houtt. Bailey, 420–21.</note>
+            <note xml:id="n27010703" n="3">Common vanilla, <hi rend="italic">Vanilla fragrans</hi> Ames. Ibid., 301.</note>
+            <note xml:id="n27010704" n="4">Whale oil.</note>
+            <note xml:id="n27010705" n="5">The female genitals, Criswell, 68.</note>
+            <note xml:id="n27010706" n="6">
+               <name type="place" key="Necanicum (Clatsop) River">Necanicum River</name>, <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>, <name type="place" key="Oregon">Oregon</name>. <hi rend="italic">Atlas</hi> map 84.</note>
+            <note xml:id="n27010707" n="7">Most likely a numerous species from shallow water, probably the big skate, <hi rend="italic">Raja binoculata.</hi> At this point in <name type="person" key="Clark, William">Clark's</name> First Draft appears a sketch of the skate. Burroughs, 260.</note>
+            <note xml:id="n27010708" n="8">
+               <name type="place" key="Tillamook Head (Clark's Point of View)">Tillamook Head</name>. <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>, whose highest point is 1,136 feet above sea level (and given variously in expedition journals and maps); "<name type="place" key="Tillamook Head (Clark's Point of View)">Point of Clarks view</name>" on <hi rend="italic">Atlas</hi> map 84.</note>
+            <note xml:id="n27010709" n="9">Perhaps on <name type="place" key="Canyon Creek (Oreg.)">Canyon Creek</name> of <name type="place" key="Tillamook Head (Clark's Point of View)">Tillamook Head</name>. <hi rend="italic">Atlas</hi> map 84; fig. 13.</note>
+            <note xml:id="n27010710" n="10">A vertical line is drawn through this passage about the fish, to about this point.</note>
+            <note xml:id="n27010711" n="11">The word is in <name type="native_nation" key="Chinook Indians">Chinook</name> jargon (borrowed from <name type="native_nation" key="Nootka Indians">Nootkan</name>), <hi rend="italic">pi<seg n="u353">š</seg>ak,</hi> "bad."</note>
+            <note xml:id="n27010712" n="12">
+               <name type="place" key="Tillamook Head (Clark's Point of View)">Tillamook Head</name> is probably an intracanyon flow in the valley of an ancestral <name type="place" key="Columbia River">Columbia River</name>. It is of lava of Miocene age that invaded slightly older sandstones and mustones of the <name type="place" key="Cannon Beach Member">Cannon Beach Member</name> of the Astoria Formation. The stratum of white earth may be clay formed by the alteration of a layer of mudstone during the intrusion of the molten basalt sill. <name type="person" key="Clark, William">Clark's</name> silex is either quartz or basalt silica. A red vertical line is drawn through this passage from "In the face" to "unable to deturmine," perhaps the work of <name type="person" key="Biddle, Nicholas">Biddle</name>.</note>
+            <note xml:id="n27010713" n="13">
+               <name type="person" key="Clark, William">Clark's</name> party apparently included <name type="person" key="Pryor, Nathaniel Hale">Pryor</name>, <name type="person" key="Cruzatte, Pierre">Cruzatte</name> or <name type="person" key="Weiser, Peter">Weiser</name> (probably the former), <name type="person" key="Frazer, Robert">Frazer</name>, <name type="person" key="Colter, John">Colter</name>, <name type="person" key="Werner, William">Werner</name>, <name type="person" key="Lepage, Jean Baptiste">Lepage</name>, <name type="person" key="Field, Reubin">Reubin Field</name>, <name type="person" key="Potts, John">Potts</name>, <name type="person" key="McNeal, Hugh">McNeal</name>, <name type="person" key="Labiche, François">Labiche</name>, <name type="person" key="Windsor, Richard">Windsor</name>, <name type="person" key="Shields, John">Shields</name>, <name type="person" key="Charbonneau, Toussaint">Charbonneau</name>, <name type="person" key="Sacagawea">Sacagawea</name>, and <name type="person" key="Charbonneau, Jean Baptiste">Jean Baptiste Charbonneau</name>. See <name type="person" key="Clark, William">Clark's</name> entries for <ref n="1806-01-06" type="related">January 6</ref>.</note>
+            <note xml:id="n27010714" n="14">It was probably a blue whale, <hi rend="italic">Balaenoptera musculus,</hi> at <name type="place" key="Cannon Beach, Oreg.">Cannon Beach</name>, <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>, <name type="place" key="Oregon">Oregon</name>. See <name type="person" key="Clark, William">Clark's</name> entries of <ref n="1806-01-06" type="related">January 6</ref>–<ref n="1806-01-10" type="related">10</ref>, 1806.</note>
+            <note xml:id="n27010715" n="15">The <name type="native_nation" key="Tillamook Indians">Tillamooks</name>, speaking a language of the <name type="native_nation" key="Flathead Indians">Salishan</name> family, lived along the <name type="place" key="Oregon">Oregon</name> coast south of the <name type="native_nation" key="Clatsop Indians">Clatsops</name>.</note>
+            <note xml:id="n27010716" n="16">
+               <name type="person" key="McNeal, Hugh">McNeal</name>; see <name type="person" key="Clark, William">Clark's</name> account of <ref n="1806-01-09" type="related">January 9</ref>.</note>
+            <note xml:id="n27010717" n="17">
+               <name type="place" key="Ecola Creek (McNeal's Folly)">Ecola Creek</name>, <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>, given that name by <name type="person" key="Clark, William">Clark</name> from the Lower <name type="native_nation" key="Chinook Indians">Chinookan</name> term for "whale."</note>
+            <note xml:id="n27010718" n="18">
+               <name type="person" key="Drouillard, George">Drouillard</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-01-06" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-01-08" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

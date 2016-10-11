@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-10-14">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+October 14, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">172-173</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">84</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">55</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">100</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-10-14.01">
+            <placeName/>
+            <geo>46.0044 -100.5384</geo>
+            <note>Emmons County, ND, in a spot also inundated by the river. Apparently some sort of ancient fortification was visible from the camp, but that too has been inundated by the river. This is their first camp in North Dakota</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-03-19</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-10-14">October 14, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-10-14.01" n="lc.geo.1804-10-14.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">14th of October Sunday</hi> 1804     Some rain last night    we Set out in the rain which continued all day    passed a Creek on the L. S. <hi rend="italic">
+                     <name type="place" key="Baldhead (Piaheto, Eagles Feather) Creek">Piaheto</name>
+                  </hi> 15 yds Wide,<ref target="n07101401" n="1"/>    halted on a Sand bar and had the punishmt inflicted on <name type="person" key="Newman, John">Newmon</name>, which caused the indian Chieif to cry untill the thing was explained to him    Camped opposit an antient fortification which is on the L. S,<ref target="n07101402" n="2"/> when I explained to the Chief the Cause of whipping N—    he observed that examples were necessary &amp; that he himself had made them by Death, but his nation never whiped even from their bearth.</p>
+               <p>
+                  <table rows="6" cols="3">
+                     <head>Course &amp; Distance</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 70° W</cell>
+                        <cell role="data" rows="1" cols="1">3<ref target="n07101403" n="3"/>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">m to a 〈point on the L. S.〉 Bend on the L. S</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 63° W</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">m. to a point on the S. S.    passed a Creek L. S</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Tree on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 40° E.</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to Some trees on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 60° W</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">m to 〈Some trees〉 a pt. on the L S</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 70°</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">m to a point on the S. S.—    passed an Antient fortification.</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-14.02" n="lc.geo.1804-10-14.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>14th <hi rend="italic">of October Sunday</hi> 1804.</date>
+               </ab>
+               <p>		
+Some rain last night all wet &amp; Cold,    we Set early the rain contind 〈untill〉 all 〈oClock〉<ref target="n07101404" n="4"/> Day    at [<hi rend="italic">blank</hi>] miles we passed a (1) Creek in the L. S. 15 yards wide    this Creek we Call after the 3rd Chief <hi rend="italic">
+                     <name type="place" key="Baldhead (Piaheto, Eagles Feather) Creek">Piaheto</name>
+                  </hi> (or <name type="person" key="Toone">Eagles feather</name>)    at 1 oClock we halted on a Sand bar &amp; after Dinner executed the Sentence of the Court Martial So far a[s] giveing the Corporal punishment, &amp; proceeded on a fiew miles, the wind a head from N. E.    Camped in a Cove of the bank on the S. S.    imediately opposit our Camp on the L. Side I observe an antient fortification the walls of which appear to be 8 or 10 feet high, [<hi rend="italic">NB: most of it washed in</hi>]    the evening wet and disagreeable, the river Something wider more timber on the banks</p>
+               <p>
+The punishment of this day allarmd. the Indian Chief verry much, he Cried aloud (or effected to Cry)    I explained the Cause of the punishment and the necessity [<hi rend="italic">NB: of it</hi>,] 〈which〉 He [<hi rend="italic">NB: also</hi>] thought examples were also necessary, &amp; he himself had made them by Death, his nation never whiped even their Children, from their burth.</p>
+               <p>
+                  <hi rend="right">14th</hi>
+               </p>
+               <p>
+                  <table rows="7" cols="3">
+                     <head>
+                        <hi rend="italic">Courses &amp; Distance &amp; reffurencs.</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 70° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">mes. to a pt. on the L. S.    the Same course continud 2<lb/>
+me. to a bend L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 63° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">mes. to the pt. on the S. S.    passd. a creek on the L. S. (1)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">me. to a large Tree in the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40° E</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">mes to Some trees on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">mes. to a pt. on the L. S.    Passing</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 70° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  3</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles to a point on the S. S.    passed an antient fortifica-<lb/>
+tion on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">12</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-14.03" n="lc.geo.1804-10-14.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday 14th Oct</hi>. Cloudy &amp; rain.    we Set off eairly.    passed a bottom covered with Timber on S. S.    passd a creek<ref target="n07101405" n="5"/> &amp; <name type="place" key="Black Hills">Black Bluffs</name> on S. S.    we halted at 12 oClock on a Sand bar.    the proceedings of the Court martial was read &amp; put in to Exicution.    it [rained] Slowly the greater part of the Day. Camped on N. S. below a Timbred Bottom.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-14.04" n="lc.geo.1804-10-14.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday 14th.</hi>    We had a cloudy morning and some rain. We proceeded early on our voyage; passed a bottom covered with timber on the south side and low ground covered with willows on the north; passed a creek and <name type="place" key="Black Hills">black bluffs</name> on the south side and encamped on the north. It rained slowly during the whole of the day.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-14.05" n="lc.geo.1804-10-14.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday 14th Oct. 1804</hi>.    cloudy.    Some rain.    we Set off eairly, proceeded on    passed a creek on the S. S.    campd. on the N. S.    nothing else extraordinary hapened this day.</p>
+               <p>
+Sunday October 14th    We sett off Early this morning and had some Rain, we proceeded on, &amp; passed some bottoms of fine land, lying on the South side of the River, it continued raining all this day, We encamped on the North side of the River
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n07101401" n="1">In Codex C and on <hi rend="italic">Atlas</hi> map 26 <name type="person" key="Clark, William">Clark</name> has used both the Indian name of the <name type="native_nation" key="Arikara Indians">Arikara</name> chief for whom he named the creek and the English version, "<name type="person" key="Eagles Feather (Piaheto)">Eagles Feather</name>." <name type="place" key="Baldhead (Piaheto, Eagles Feather) Creek">Eagle Feather Creek</name>, in <name type="place" key="Corson County, S. Dak.">Corson County</name>, <name type="place" key="South Dakota">South Dakota</name>, appears on MRC map 46; later it became <name type="place" key="Baldhead (Piaheto, Eagles Feather) Creek">Bald Head Creek</name>. It enters the <name type="place" key="Missouri River">Missouri</name> about a mile downstream from the state line. MRY map 119.</note>
+            <note xml:id="n07101402" n="2">On the starboard side, in <name type="place" key="Emmons County, N. Dak.">Emmons County</name>, <name type="place" key="North Dakota">North Dakota</name>, their first camp in that state; <name type="place" key="Fire Heart Butte">Fire Heart Butte</name> is roughly opposite on the other side. The campsite and the "antient fortification" are now inundated by <name type="place" key="Oahe Reservoir">Oahe Reservoir</name>. <hi rend="italic">Atlas</hi> map 26; MRC map 47.</note>
+            <note xml:id="n07101403" n="3">This distance is one mile in Codex C.</note>
+            <note xml:id="n07101404" n="4">
+               <name type="person" key="Clark, William">Clark</name> wrote "untill [<hi rend="italic">blank</hi>] oClock," then put "all" in the blank and interlined "Day."</note>
+            <note xml:id="n07101405" n="5">
+               <name type="person" key="Clark, William">Clark's</name>
+               <name type="place" key="Baldhead (Piaheto, Eagles Feather) Creek">Piaheto</name>, or <name type="place" key="Baldhead (Piaheto, Eagles Feather) Creek">Eagles Feather</name>, Creek, probably <name type="place" key="Baldhead (Piaheto, Eagles Feather) Creek">Baldhead Creek</name>, <name type="place" key="Corson County, S. Dak.">Corson County</name>, <name type="place" key="South Dakota">South Dakota</name>, about a mile south of the <name type="place" key="North Dakota">North Dakota</name> state line.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-10-13" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-10-15" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

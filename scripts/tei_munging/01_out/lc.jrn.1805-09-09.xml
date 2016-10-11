@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-09-09">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+September 9, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">191-196</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">221</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">139-140</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">307-308</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-09-09.01">
+            <placeName/>
+            <geo>46.75 -114.0667</geo>
+            <note>Camped a couple miles upstream from the Bitterroot River, on the south side of the creek. Present-day Lolo, Missoula County, MT. Remained here until 09-11.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-06-14</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-09-09">September 9, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-09-09.01" n="lc.geo.1805-09-09.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Monday September 9th 1805</hi>
+                     <ref target="n22090901" n="1"/>
+                  </date>
+               </ab>
+               <p>
+Set out at 7 A M. this morning and proceeded down the <name type="place" key="Bitterroot (Clark's, Flathead) River">Flathead river</name> leaving it on our left, the country in the valley of this river is generally a prarie and from five to 6 miles wide    the growth is almost altogether pine principally of the longleafed kind, with some spruce and a kind of furr resembleing the scotch furr.<ref target="n22090902" n="2"/>    near the wartercourses we find a small proportion of the narrow leafed cottonwood<ref target="n22090903" n="3"/> some redwood honeysuckle<ref target="n22090904" n="4"/> and rosebushes form the scant proportion of underbrush to be seen.    at 12 we halted on a small branch which falls in to the river on the E. side, where we breakfasted on a scant proportion of meat which we had reserved from the hunt of yesterday added to three geese which one of our hunters killed this morning.    two of our hunters have arrived, one of them brought with him a redheaded woodpecker of the large kind common to the U States.<ref target="n22090905" n="5"/>    this is the first of the kind I have seen since I left the <name type="place" key="Illinois">Illinois</name>.    just as we were seting out <name type="person" key="Drouillard, George">Drewyer</name> arrived with two deer.    we continued our rout down the valley about 4 miles and crossed the river; it is hear a handsome stream about 100 yards wide and affords a considerable quantity of very clear water, the banks are low and it's bed entirely gravel.    the stream appears navigable, but from the circumstance of their being no sammon in it I believe that there must be a considerable fall in it below.    our guide could not inform us where this river discharge itself into the <name type="place" key="Columbia River">columbia river</name>, he informed us that it continues it's course along the mountains to the N. as far as he knew it and that not very distant from where we then were it formed a junction with a stream nearly as large as itself<ref target="n22090906" n="6"/> which took it's rise in the mountains near the <name type="place" key="Missouri River">Missouri</name> to the East of us and passed through an extensive valley generally open prarie which forms an excellent pass to the <name type="place" key="Missouri River">Missouri</name>.    the point of the <name type="place" key="Missouri River">Missouri</name> where this Indian pass intersects it, is about 30 miles above the <hi rend="italic">
+                     <name type="place" key="Gates of the Rocky Mountains">gates of the rocky mountain</name>,</hi>
+                  <ref target="n22090907" n="7"/> or the place where the valley of the <name type="place" key="Missouri River">Missouri</name> first widens into an extensive plain after entering the <name type="place" key="Rocky Mountains">rockey mountains</name>.    the guide informed us that a man might pass to the missouri from hence by that rout in four days.    we continued our rout down the W. side of the river about 5 miles further and encamped on a large creek which falls in on the West<ref target="n22090908" n="8"/>    as our guide informes that we should leave the river at this place and the weather appearing settled and fair I determined to halt the next day rest our horses and take some scelestial Observations.    we called this Creek <hi rend="italic">
+                     <name type="place" key="Lolo (Travelers' Rest) Creek (Mont.)">Travellers rest</name>.</hi>    it is about 20 yards wide a fine bould clear runing stream    the land through which we passed is but indifferent a could white gravley soil.<ref target="n22090909" n="9"/>    we estimate our journey of this day at 19 M.</p>
+               <p>
+at the creek where we dined I took the Meridian Altd. of <seg n="u9737">☉</seg>'s U. L. with Sextant fore obstn 98° 1' 30"</p>
+               <p>
+Latitude deduced from this Observation 46° 41' 38.9</p>
+               <p>
+                  <hi rend="right">
+                     <hi rend="italic">Point of observation No. 46</hi>
+                  </hi>
+               </p>
+               <p>
+At our encampment of this evening observed time and distance of the Moon's western limb from <seg n="u945">α</seg> Aquila <seg n="u9733">★</seg> West with Sextant.</p>
+               <p>
+                  <table rows="14" cols="4">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">Time</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">     </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">Distance</hi>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h    m      s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">P. M.</cell>
+                        <cell role="data" rows="1" cols="1"> 9    52    47</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">63°    33'    —"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> "     56    58</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  "      35    15</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> "     59    41</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  "      36    30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">10     3    48</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  "      37    45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> "       6      1</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  "      38    30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">Time</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">Distance</hi>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h    m      s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">P. M.</cell>
+                        <cell role="data" rows="1" cols="1">10     6      1</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">63°    38'    30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> "       7    46</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  "      39     45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> "       9    24</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  "      40     30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> "     11      2</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  "      41     —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> "     13    27</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  "      41     45</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <seg n="u9758">☞</seg> this set of observations cannot be much depended on as through mistake I brought the Moons Western limb in contact in stead of her Eastern limb she having passing into her third quarter and of course her Western limb somewhat imperfect.</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-09-09.02" n="lc.geo.1805-09-09.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">September 9th Monday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+a fair morning    Set out early and proceeded on thro a plain as yesterday down the valley    Crossed a large [<hi rend="italic">NB: called</hi>] <name type="place" key="Mill (Scattered) Creek (Mont.)">Scattering Creek</name> on which Cotton trees grew at 1½ miles,<ref target="n22090910" n="10"/> a Small one at 10 miles, both from the right, the main river at 15 miles &amp; Encamped on a large Creek from the left which we call <name type="place" key="Lolo (Travelers' Rest) Creek (Mont.)">Travelers rest Creek</name>.    killed 4 deer &amp; 4 Ducks &amp; 3 prarie fowls.    day fair Wind N. W.    See Suplement<ref target="n22090911" n="11"/>
+               </p>
+               <p>
+                  <table rows="22" cols="3">
+                     <head>
+                        <hi rend="italic">Course</hi> Distance &amp;c. Down <name type="person" key="Bitterroot (Clark's, Flathead) River">
+                           <hi rend="italic">Clark's</hi> river</name>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Septr. 6th 1805</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">  5</cell>
+                        <cell role="data" rows="1" cols="1">miles crossing the river [<hi rend="italic">EC: <name type="place" key="Ross's Fork">Ross' fork</name>
+                           </hi>] &amp; a Creek at 1½ m.<lb/> &amp; thro a vallie to the top of a mountain Covered with pine</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles down a reveen &amp; Steep hill Sides to the river [<hi rend="italic">EC:<lb/>
+                              <name type="place" key="Ross's Fork">Ross' fork</name>
+                           </hi>] at an old Encampment.    a creek left</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles down the Creek [<hi rend="italic">EC: River</hi>], bottoms narrow.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 35° W</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  2</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles down the 〈Creek〉 River which is 25 yards wide<lb/>
+passed a run on each side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">10</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">
+                              <hi rend="italic">Sept. 7th Satturday 1805</hi>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles down the River aforesaid</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles down the River to a larke [<hi rend="italic">EC: <name type="place" key="Nez Perce Creek (Beaverhead County, Mont.)">large Nez Perce</name>
+                           </hi>] Creek<lb/>
+on the left.    bottoms narrow.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">  4</cell>
+                        <cell role="data" rows="1" cols="1">down the river to a Creek <name type="place" key="Tin Cup Creek">[<hi rend="italic">EC: Tin Cup</hi>]</name> on the left.    bot-<lb/>toms wider, hills on the right is bald, mountains on our left<lb/>
+is high and the tops Covered with Snow</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">  4</cell>
+                        <cell role="data" rows="1" cols="1">miles to a <name type="place" key="Rock Creek (Ravalli County, Mont.)">[<hi rend="italic">EC: Rock</hi>] Creek</name> which runs from the Snow<lb/>
+toped mountains, passed one on the left at 1 mile &amp; Sev-<lb/>
+eral Small runs on the right, and left, one Drean</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 25° E.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  8</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles down the River, passed a large [<hi rend="italic">EC: <name type="place" key="Little Horse Creek">Little Horse</name>
+                           </hi>]<lb/>
+                           <name type="place" key="Little Horse Valley">Creek</name> on the left at 2 miles.    the Vallie thro which we<lb/>
+passed about 2 miles wide, lands pore &amp; Stoney    The foot<lb/>
+of the Snow toped mountains approach near the river on<lb/>
+the left the river 50 yards wide Shallow &amp; Stoney.    no fish<lb/>
+to be Seen.    2 Deer 2 crains &amp; 2 Phesents killed to day.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">22</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">
+                              <hi rend="italic">September 8th Sunday</hi>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">11</cell>
+                        <cell role="data" rows="1" cols="1">miles to a small run on the right Side, passed a large Creek<lb/>
+at 1 mile one at 4 miles &amp; a Small one at 8 miles, thro' a<lb/>
+Call'd <name type="place" key="Horse Valley">Horse Vally</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 12° W</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">12</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">through the Said Vallie to a large Creek from the right di-<lb/>
+vided into 4 diffierent Channels, <name type="place" key="Mill (Scattered) Creek (Mont.)">Scattered Creek</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">23</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">
+                              <hi rend="italic">September 9th Monday</hi>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 15° W.</cell>
+                        <cell role="data" rows="1" cols="1">15</cell>
+                        <cell role="data" rows="1" cols="1">miles Thro a open vallie to the River, leaveing the road to<lb/>
+our right Crossed a Small Creek from the left at 9 miles,<lb/>
+and the river which is 100 yards wide, &amp; passed through a<lb/>
+pine bottom after crossing 〈The Creek〉 <name type="place" key="Bitterroot (Clark's, Flathead) River">Clarks River</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles passing thro' a pine bottom after crossing the river to<lb/>
+a large road on the left of the river in an open <name type="person" key="Vallé, Jean">Vallie</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  4</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles Through an open Valle to a large Creek from the<lb/>
+left. Caled <name type="place" key="Lolo (Travelers' Rest) Creek (Mont.)">
+                              <hi rend="italic">Travelers rest</hi>
+                           </name> and Encamped the 9th &amp; 10th</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">21</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">9th Septr. Contd.</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North	</cell>
+                        <cell role="data" rows="1" cols="1">12</cell>
+                        <cell role="data" rows="1" cols="1">Miles to the mouth of a lark fork [<hi rend="italic">EC: <name type="place"
+                                    key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Hellgate</name>
+                           </hi>] which Joins<lb/>
+from the right and heads up near the <name type="place" key="Missouri River">Missouri</name> Some dis-<lb/>
+tance below the 3 forks,    this River has extinsive Vallies<lb/>
+and is a good rout to the <name type="place" key="Missouri River">Missouri</name> which the Indians say<lb/>
+may be traveled in 4 days and is a good rout. The Vallie<lb/>
+near the mouth of this fork is about 7 or 8 miles wide<lb/>
+leavel &amp; open, but little timber on this fork in Sight. See<lb/>
+the Courses</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-09-09.03" n="lc.geo.1805-09-09.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>[<hi rend="italic">undated</hi>]<ref target="n22090912" n="12"/>
+                  </date>
+               </ab>
+               <p>
+                  <table rows="5" cols="4">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Marias River">Moriah River</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">47°</cell>
+                        <cell role="data" rows="1" cols="1">29'</cell>
+                        <cell role="data" rows="1" cols="1">10 4/10" N.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Lower part of the falls is in Latd.</cell>
+                        <cell role="data" rows="1" cols="1">47°</cell>
+                        <cell role="data" rows="1" cols="1">  8'</cell>
+                        <cell role="data" rows="1" cols="1">  4 5/10" N.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">upper part of the rapids latd. is</cell>
+                        <cell role="data" rows="1" cols="1">47°</cell>
+                        <cell role="data" rows="1" cols="1">  3'</cell>
+                        <cell role="data" rows="1" cols="1">30 " N.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Forks of <name type="place" key="Beaverhead (Jefferson) River">Jefferson</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">43</cell>
+                        <cell role="data" rows="1" cols="1">30</cell>
+                        <cell role="data" rows="1" cols="1">43</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Lolo (Travelers' Rest) Creek (Mont.)">Travelers rest</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">46</cell>
+                        <cell role="data" rows="1" cols="1">48</cell>
+                        <cell role="data" rows="1" cols="1">28</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-09-09.04" n="lc.geo.1805-09-09.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Monday 9th Sept. 1805. Cloudy.    we Set out [and proceeded on down?] [<hi rend="italic">page worn, some words illegible</hi>] the valley    the plains Continue crossed Several creeks    a little cotton and pine timber along the banks    the Snow continues on the Mont. each Side of this valley.    one of the hunters killed a goose and a wood pecker. <name type="person" key="Clark, William">Capt. Clark</name> killed 4 pheasants or prarie hens.    we find wild or choak cherries along these branches &amp;C—    we passed through a large bottom of rich land which is covred with handsom pitch pine timber.    this creek has got to be a Small handsome River and gentle current    we have to wade it often and find it as deep as the horses belleys.    our hunters killed three deer and several ducks this day    we Camped on the bank of a creek which runs in to the Small River about 2 miles below and bottoms of cotton timber. Smooth handsome plains on each Side of this creek, and pleanty of choke cherries. Mountains of Snow back to our left.    our course has been lately abt. N. W.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-09-09.05" n="lc.geo.1805-09-09.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 9th.</hi>    The morning was fair, but cool; and we continued our journey down the river. The soil of the valley is poor and gravelly; and the high snow-topped mountains are still in view on our left:<ref target="n22090913" n="13"/> Our course generally north a few degrees west. We halted at noon: on our way the hunters had killed 3 wild geese; so we have plenty of provisions at present. At 2 o'clock we again went forward, and crossed over the <name type="place" key="Bitterroot (Clark's, Flathead) River">Flathead river</name>,<ref target="n22090914" n="14"/> about 100 yards wide, and which we called <name type="place" key="Bitterroot (Clark's, Flathead) River">Clarke's river</name>; passed through a close timbered bottom of about two miles, and again came into beautiful plains. The timber on this bottom is pitch pine. We travelled 19 miles and encamped on a large creek, which comes in from the south. Our hunters this day killed 3 deer.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-09-09.06" n="lc.geo.1805-09-09.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 9th Sept. 1805</hi>.    a cloudy cold morning, wind from the N. W.    we Set out as usal, and proceeded on down the valley.    Smooth pleasant plains, large pitch pine timber along the River.    no timber on the plains but they are covred with grass and wild hysop.    the Soil poor.    crossed Several branches on which is pine timber, also, a little cotton timber &amp;c.    the Snow continues on the Mount. each Side of the valley.    about 11 oClock we halted at a branch to dine    one of the hunters had killed three geese and a wood pecker.    <name type="person" key="Clark, William">Capt. Clark</name> killed 4 fessents or prarie hens.    we find wild or choke cherries along the branches.    we delayed about 2 hours and a half.    then proceeded on down the valley.    passed through a large bottom covred with handsom pitch pine timber, from that a pleasant plain the remainder of this day.    the afternoon pleasant, but the Snow Still continues on the Mountains as usal.    Came about [<hi rend="italic">blank</hi>] Miles this day and Camped on a plain near a creek which runs in to the River about 2 mls. below.    our hunters all but one joined us    had killed 3<ref target="n22090915" n="15"/> Deer and Several ducks this day, &amp;c.    course N. W. and North all day.—</p>
+               <p>
+Monday Septemr 9th    This morning was cold &amp; the wind blew from the No. West.    We set out as usual, &amp; proceeded on our Journey down the Valley, We passed along smooth plains, covered with high Grass &amp; wild hysop, but the soil poor.—    There was no timber to be seen here excepting some pitch pine trees, which grew along the large Creek or river side.    We proceeded on, and crossed several branches on the sides of which grew Pitch pine &amp; Cotton wood trees.—</p>
+               <p>
+The Snow still continued on the Mountains, on both sides of the Valley.    About 11 o'Clock A. M we halted at a branch to dine, where one of our hunters had killed three Geese &amp; a wood peckar, which he brought to us.    <name type="person" key="Clark, William">Captain Clark</name> went out here to hunt &amp; killed 4 Pheasants, which he brought to us.    we found here wild or choke cherries, growing along this branch—    We delayed at this place about 2½ hours and then proceeded on down this Valley &amp; passed through a bottom covered with handsome pitch pine timber, and the remainder of this day we passed through pleasant plains.    The Snow continuing as usual on the Mountains on both sides of us.    We came about 20 Miles this day, &amp; encamped on a plain, near a Creek which run into the River about 2 Miles below where we were encamped.—    Our hunters all but one joined us here.    They had killed 3 Deer &amp; a number of ducks this day which they brought to us.—    our Course this day has been from North to North West.—
+
+ 			    
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n22090901" n="1">Here begins <name type="person" key="Lewis, Meriwether">Lewis's</name> fragmentary Codex Fc, consisting of four pages torn from Codex P and covering September 9 and 10, 1805. See <ref n="v02.appendix.c" type="related">Appendix C</ref>.</note>
+            <note xml:id="n22090902" n="2">The "longleafed" pine is ponderosa pine. The spruce is Engelmann spruce, <hi rend="italic">Picea engelmannii</hi> Parry. See <ref n="1805-09-12" type="related">September 12, 1805</ref>, where <name type="person" key="Clark, William">Clark</name> refers to the latter as "spruce pine." The "furr" is probably Douglas fir, <hi rend="italic">Pseudotsuga menziesii</hi> (Mirb.) Franco, which is typical of lower elevations in the <name type="place" key="Rocky Mountains">Rocky Mountains</name>. The "scotch furr" used for comparison may refer to either the cultivated European fir, <hi rend="italic">Abies alba</hi> Mill., or one of the balsam fir species of the eastern United States. Little (CIH), 37-W, 80-W; Bailey, 113.</note>
+            <note xml:id="n22090903" n="3">Probably the black cottonwood, <hi rend="italic">Populus trichocarpa</hi> T. &amp; G., which is the most common cottonwood species at lower elevations in <name type="place" key="Montana">Montana</name> and <name type="place" key="Idaho">Idaho</name>. It is unclear whether <name type="person" key="Lewis, Meriwether">Lewis</name> was distinguishing between the two species of cottonwood which occur in the area (<hi rend="italic">P. trichocarpa</hi> and <hi rend="italic">P. angustifolia,</hi> the typically designated narrowleaf cottonwood), or did not observe this as a separate species. The narrowleaf cottonwood is more common at higher elevations; the black cottonwood has slightly broader leaves but is otherwise similar. Booth &amp; Wright, 22; Little (CIH), 153-W.</note>
+            <note xml:id="n22090904" n="4">Utah honeysuckle, <hi rend="italic">Lonicera utahensis</hi> Wats., or bearberry honeysuckle, <hi rend="italic">L. involucrata</hi> (Rich.) Banks <hi rend="italic">ex</hi> Spreng., new to science and collected on the return trip. Cutright (LCPN), 210, 212, 261 n. 19, 410; Hitchcock et al. 4:458.</note>
+            <note xml:id="n22090905" n="5">Burroughs considers this the red-headed woodpecker, <hi rend="italic">Melanerpes erythrocephalus</hi> [AOU, 406], but Coues and Holmgren identify it as the pileated woodpecker, <hi rend="italic">Dryocopus pileatus</hi> [AOU, 405]. Burroughs, 242; Coues (HLC), 2:590; Holmgren, 34.</note>
+            <note xml:id="n22090906" n="6">The <name type="place" key="Bitterroot (Clark's, Flathead) River">Bitterroot</name> meets the <name type="place"
+                     key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark Fork, or Hellgate, River</name> just west of present <name type="place" key="Missoula, Mont.">Missoula</name>, <name type="place" key="Missoula County, Mont.">Missoula County</name>, <name type="place" key="Montana">Montana</name>. The stream continues northwest as the <name type="place"
+                     key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark Fork</name>. <hi rend="italic">Atlas</hi> map 69.</note>
+            <note xml:id="n22090907" n="7">In the vicinity of present <name type="place" key="Helena, Mont.">Helena</name>, <name type="place" key="Montana">Montana</name>. The <name type="native_nation" key="Hidatsa Indians">Hidatsas</name> told them of this route, but they had not recognized its eastern approaches on the voyage up the <name type="place" key="Missouri">Missouri</name>. Appleman (LC), 171; Allen (PG), 302.</note>
+            <note xml:id="n22090908" n="8">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark's</name>
+               <name type="place" key="Lolo (Travelers' Rest) Creek (Mont.)">Travelers' Rest Creek</name> is now <name type="place" key="Lolo (Travelers' Rest) Creek (Mont.)">Lolo Creek</name>. The camp was where they remained until <ref n="1805-09-11" type="related">September 11</ref>, in the vicinity of modern <name type="place" key="Lolo, Mont.">Lolo</name>, <name type="place" key="Missoula County, Mont.">Missoula County</name>, perhaps one or two miles upstream from the <name type="place" key="Bitterroot (Clark's, Flathead) River">Bitterroot River</name>, on the south side of the creek. Peebles (LT), 3; Space, 4; <hi rend="italic">Atlas</hi> map 69.</note>
+            <note xml:id="n22090909" n="9">Although the east side of the <name type="place" key="Bitterroot Valley">Bitterroot Valley</name> contains soils that are quite fertile, soils that are thin and gravelly or cobbly occur on parts of the alluvial valley bottom and on the benches east of it. Similar soils are found on alluvial fans such as the <name type="place" key="Burnt Fork (Scattered) Creek">Burnt Fork</name> fan. The white soil to which <name type="person" key="Lewis, Meriwether">Lewis</name> refers may be the moderately saline soils of the <name type="place" key="Burnt Fork (Scattered) Creek">Burnt Fork</name> fan, clay layers in Tertiary sediments exposed in cutbanks, or the thin wash of light-colored Tertiary clay that covers the ground in some places, especially north of <name type="place" key="Eightmile Creek">Eightmile Creek</name>.</note>
+            <note xml:id="n22090910" n="10">See the note on <name type="place" key="Mill (Scattered) Creek (Mont.)">Scattered Creek</name> in the previous entry.</note>
+            <note xml:id="n22090911" n="11">Probably a reference to <name type="person" key="Lewis, Meriwether">Lewis's</name> Codex Fc. See n. 1, above.</note>
+            <note xml:id="n22090912" n="12">This note in <name type="person" key="Clark, William">Clark's</name> hand, giving certain latitudes from the <name type="place" key="Marias River">Marias River</name> to <name type="place" key="Lolo (Travelers' Rest) Creek (Mont.)">Travelers' Rest</name>, is on the front flyleaf of Codex G. It is placed here at <name type="place" key="Lolo (Travelers' Rest) Creek (Mont.)">Travelers' Rest</name>, the last position given.</note>
+            <note xml:id="n22090913" n="13">The <name type="place" key="Bitterroot (Snow) Mountains">Bitterroot Mountains</name>, on the <name type="place" key="Montana">Montana</name>-<name type="place" key="Idaho">Idaho</name> border.</note>
+            <note xml:id="n22090914" n="14">The <name type="place" key="Bitterroot (Clark's, Flathead) River">Bitterroot River</name>. At this time they called it the <name type="place" key="Bitterroot (Clark's, Flathead) River">Flathead River</name> and, as <name type="person" key="Gass, Patrick">Gass</name> notes, later renamed it <name type="place" key="Bitterroot (Clark's, Flathead) River">Clark's River</name>.</note>
+            <note xml:id="n22090915" n="15">The number "3" is written over "2."</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-09-08" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-09-10" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

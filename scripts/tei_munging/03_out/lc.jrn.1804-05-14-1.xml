@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-05-14-1">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+May 14, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">217-218</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">3-5, 373-374</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">1-8</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">1-8</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-05-14-1.01">
+            <placeName/>
+            <geo>38.83 -90.2211</geo>
+            <note>Extension of Clark's entry from 1804-05-14. Also various additional entries and notes. Camped near a limestone rock edge called Colewater.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh" n="category">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-01-07</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-05-14">May 14, 1804</date>
+         </head>
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14-1.01"
+              n="lc.geo.1804-05-14-1.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>May the 14th — Monday<ref target="n040514-101" n="1"/>
+                  </date>
+               </ab>
+               <p>
+Set out from <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">Camp River a Dubois</name> at 4 oClock P. M. and proceded up the <name type="place" key="Missouri River">Missouris</name> under Sail to the first Island in the <name type="place" key="Missouri River">Missouri</name> and Camped on the upper point opposit a Creek on the South Side below a ledge of limestone rock Called Colewater,<ref target="n040514-102" n="2"/> made 4½ miles, the Party Consisted of 2, Self one frenchman and 22 Men in the Boat of 20 ores, 1 Serjt. &amp; 7 french in a large Perogue, a Corp and 6 Soldiers in a large Perogue.<ref target="n040514-103" n="3"/>    a Cloudy rainey day. wind from the N E.    men in high Spirits
+
+</p>
+            </sp>
+         </div>
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14-1.02"
+              n="lc.geo.1804-05-14-1.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Monday May 14th 1804</hi>
+                     <ref target="n040514-104" n="4"/>
+                  </date>
+               </ab>
+               <p>
+Rained the forepart of the day    I determined to go as far as <name type="place" key="Saint Charles, Mo.">St. Charles</name> a french Village 7 Leags.<ref target="n040514-105" n="5"/> up the <name type="place" key="Missouri River">Missourie</name>, and wait at that place untill <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> Could finish the business in which he was obliged to attend to at <name type="place" key="Saint Louis, Mo.">St Louis</name> and join me by Land from that place 24 miles; by this movement I calculated that if any alterations in the loading of the Vestles or other Changes necessary, that they might be made at <name type="place" key="Saint Charles, Mo.">St. Charles</name>
+               </p>
+               <p>
+I Set out at 4 oClock P. M. in the presence of many of the Neighbouring inhabitents, and proceeded on under a jentle brease up the <name type="place" key="Missouri River">Missourie</name> to the upper Point of the 1st Island 4 Miles and Camped on the Island which is Situated Close on the right (or Starboard) Side, and opposit the mouth of a Small <name type="place" key="Coldwater (Colewater) Creek">Creek called Cold water</name>, a heavy rain this after-noon</p>
+               <p>
+The Course of this day nearly <hi rend="italic">West</hi>    wind from N. E
+</p>
+            </sp>
+         </div>
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14-1.03"
+              n="lc.geo.1804-05-14-1.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>undated, ca. May 14, 1804<ref target="n040514-106" n="6"/>
+                  </date>
+               </ab>
+               <p>
+The mouth of the <name type="place" key="Dubois River">River Dubois</name> opposite to the mouth of the <name type="place" key="Missouri River">Missouri River</name> is situated in—
+</p>
+               <p>
+                  <table rows="2" cols="4">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Longitude West from Grenwh.</cell>
+                        <cell role="data" rows="1" cols="1">89°</cell>
+                        <cell role="data" rows="1" cols="1">57'</cell>
+                        <cell role="data" rows="1" cols="1">45"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Latitude N.</cell>
+                        <cell role="data" rows="1" cols="1">38°</cell>
+                        <cell role="data" rows="1" cols="1">55'</cell>
+                        <cell role="data" rows="1" cols="1">19.6"</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi rend="italic">Note—</hi>The <hi rend="italic">Longitude</hi> of the mouth of the <name type="place" key="Dubois River">River Dubois</name> was calculated from four sets of observations of the <seg n="u9737">☉</seg> &amp; <seg n="u9789">☽</seg>, in which the <seg n="u9737">☉</seg> was twice West, and twice East; two sets with Aldebaran, <seg n="u9733">★</seg> East in one, and W. in the other; and one set with Spica, <seg n="u9733">★</seg>, <seg n="u9733">★</seg> East. the Longtd. above stated is the mean result of those observations, and I think may with safety be depended on to two or three minutes of a degree. The Chronometer's error on M. T. was found at the mouth of <name type="place" key="Ohio River">the Ohio</name> by 3 sets of Equal Altitudes, and the Longtd. of the mouth of the <name type="place" key="Dubois River">River Dubois</name> as given by this instrument from Equal altitudes of the <seg n="u9737">☉</seg> on the 17th of December 1803 was 90° 00' 20". West from Grenwh. making a difference from the Longitude calculated from observation of 2' 35"—</p>
+               <p>
+The <hi rend="italic">Latitude</hi> is deduced from a number of Meridian altitudes of the <seg n="u9737">☉</seg>, taken with the sextant and artificial horizon, the results of which observations seldom differed more than from 15 to 20"; I therefore believe that the Latitude above stated may be dependend on as true to 100 hundred pages.—</p>
+               <p>
+The mouth of the <name type="place" key="Dubois River">River Dubois</name> is to be considered as the point of <hi rend="italic">departure.</hi>
+               </p>
+            </sp>
+         </div>
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14-1.04"
+              n="lc.geo.1804-05-14-1.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date>A Journal commenced at <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">River Dubois</name>
+                     <ref target="n030514-107" n="7"/>
+                  </date>
+               </ab>
+               <p>
+
+Monday May the 14th 1804. Showery day. <name type="person" key="Clark, William">Capt Clark</name> Set out at 3 oClock P. M. for the western expedition.    one Gun fired.    a nomber of Citizens see us Start.    the party consisted of 3 Sergeants &amp; 38 Good hands,<ref target="n030514-108" n="8"/> which maned the Batteaux and two pearogues.<ref target="n030514-109" n="9"/>    we Sailed up the <name type="place" key="Missouri River">Missouri</name> 6 miles &amp; encamped<ref target="n030514-110" n="10"/> on the N. Side of the River.
+</p>
+               <p>
+                  <figure>
+                     <p>Map of Expedition's Route, May 14, 1804-September 23, 1806
+<bibl>
+                           <orgName>University of Nebraska Press</orgName>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+            </sp>
+         </div>
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14-1.05"
+              n="lc.geo.1804-05-14-1.01">
+            <sp who="cf">
+               <speaker>Floyd</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+
+A Journal<ref target="n030514-111" n="11"/>  commenced at <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">River Dubois</name>—    monday 〈14th 180〉 may 14th 1804    Showery day    <name type="person" key="Clark, William">Capt Clark</name> Set out at 3 oclock P m for the western expidition    the party Consisted of 3 Serguntes and 38 working hands which maned the Batteaw and two Perogues    we Sailed up the <name type="place" key="Missouri River">missouria</name> 6 miles and encamped on the N. side of the River</p>
+            </sp>
+         </div>
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14-1.06"
+              n="lc.geo.1804-05-14-1.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+On Monday the 14th of May 1804, we left our establishment at the mouth of the <name type="place" key="Dubois River">river du Bois</name> or Wood river, a small river which falls into the <name type="place" key="Mississippi River">Mississippi</name>, on the east-side, a mile below the <name type="place" key="Missouri River">Missouri</name>, and having crossed the <name type="place" key="Mississippi River">Mississippi</name> proceeded up the <name type="place" key="Missouri River">Missouri</name> on our intended voyage of discovery, under the command of <name type="person" key="Clark, William">Captain Clarke</name>. <name type="person" key="Lewis, Meriwether">Captain Lewis</name> was to join us in two or three days on our passage.<ref target="n030514-112" n="12"/>
+               </p>
+               <p>
+The corps consisted of forty-three men (including <name type="person" key="Lewis, Meriwether">Captain Lewis</name> and <name type="person" key="Clark, William">Captain Clarke</name>, who were to command the expedition) part of the regular troops of the United States, and part engaged for this particular enterprize. The expedition was embarked on board a batteau and two periogues. The day was showery and in the evening we encamped on the north bank six miles up the river. Here we had leisure to reflect on our situation, and the nature of our engagements: and, as we had all entered this service as volunteers, to consider how far we stood pledged for the success of an expedition, which the government had projected; and which had been undertaken for the benefit and at the expence of the Union: of course of much interest and high expectation.</p>
+               <p>
+The best authenticated accounts informed us, that we were to pass through a country possessed by numerous, powerful and warlike nations of savages, of gigantic stature, fierce, treacherous and cruel; and particularly hostile to white men. And fame had united with tradition in opposing mountains to our course, which human enterprize and exertion would attempt in vain to pass.<ref target="n030514-113" n="13"/> The determined and resolute character, however, of the corps, and the confidence which pervaded all ranks dispelled every emotion of fear, and anxiety for the present; while a sense of duty, and of the honour, which would attend the completion of the object of the expedition; a wish to gratify the expectations of the government, and of our fellow citizens, with the feelings which novelty and discovery invariably inspire, seemed to insure to us ample support in our future toils, suffering and dangers.</p>
+            </sp>
+         </div>
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-14-1.07"
+              n="lc.geo.1804-05-14-1.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Monday 14th May 1804.<ref target="n030514-114" n="14"/>    hard Showers of rain.    this being the day appointed by <name type="person" key="Clark, William">Capt. Clark</name> to Set out, a number of the Sitizens of Gotian<ref target="n030514-115" n="15"/> Settlement came to See us Start.    we got in readiness.    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> is now at <name type="place" key="Saint Louis, Mo.">St.
+Louis</name> but will join us at <name type="place" key="Saint Charles, Mo.">St. Charls</name>.    about 3 Oclock P.M. <name type="person" key="Clark, William">Capt. Clark</name> and 
+the party consisting of three Sergeants and 38 men<ref target="n030514-116" n="16"/> who manned the Batteaux and perogues.    we fired our Swivel<ref target="n030514-117" n="17"/> on the bow hoisted Sail and Set 
+out in high Spirits for the western Expedition.    we entered the mouth of the <name type="place" key="Missouri River">Missourie</name> haveing a fair wind Sailed abt. 6 miles and Camped on the North Side.—</p>
+               <p>
+1804 Monday May 14th<ref target="n030514-118" n="18"/>    This day being appointed for our departure, 
+from <name type="place" key="Dubois River">Wood River</name>, a number of the Inhabitants (Americans) from <name type="place" key="Goshen">Goshen</name> settlement came to see us start for the Western Ocean; we got in readiness, at 3 o'Clock P.M. <name type="person" key="Clark, William">Captain William Clark</name>, Three Sergeants and 38 Men, who mann'd the boat, and Two pettiaugers;<ref target="n030514-119" n="19"/> fired the Swivel from the Bow of the Boat; hoisted Sail, and set out in high spirits, for our intended Western expedition: we entered the mouth of the <name type="place" key="Missouri River">Mesouri</name> River, having a fair Wind from So East, and Rain; we sailed up the said River about Six Miles, and encamped on the North side of it.—    The River <name type="place" key="Missouri River">Misouri</name> is about one Mile wide, and on the South side of it near its mouth is an Island and its waters are always muddy occasion'd by its banks falling in, the current Runs at about five Miles &amp; a half p hour; the banks are very steep, and the bottom very muddy.    <name type="place" key="Dubois River">Wood River</name> lies in Latitude 38° 54° North &amp; the mouth of the River <name type="place" key="Missouri River">Mesouri</name> 38° 54 39' North &amp; Longitude 112° 15 West from Greenwich.
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n040514-101" n="1">The first entry of the Field Notes (River Journal), written at the head of document 13. At the top of the sheet is the notation, apparently by <name type="person" key="Biddle, Nicholas">Nicholas Biddle</name>, "May 14 to 25th"; <name type="person" key="Biddle, Nicholas">Biddle</name> probably added those notations to most of the documents of the River Journal to make it readily apparent the dates each sheet covered. He did not do that with the Dubois Journal sheets, although he probably did examine them, because his narrative dealt only with the expedition proper, beginning May 14, 1804. Osgood (FN), 41.</note>
+            <note xml:id="n040514-102" n="2">Probably the <name type="place" key="Saint Louis, Mo.">St. Louis</name> limestone of middle Mississippian age. See also the first entry for <ref n="1804-05-14" type="related">May 14</ref>.</note>
+            <note xml:id="n040514-103" n="3">Because of discrepancies in the records and journals, especially concerning the French boatmen, it is difficult to determine exactly the number of men who left <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">River Dubois</name> with <name type="person" key="Clark, William">Clark</name>. <name type="person" key="Drouillard, George">George Drouillard</name> was absent on an errand and may not be the Frenchman singled out by <name type="person" key="Clark, William">Clark</name>; possibly he was <name type="person" key="Deschamps, Jean Baptiste">Baptiste Deschamps</name>, the patroon (foreman) of the hired French boatmen, although later he seems to have been in charge of a pirogue (see <ref n="1804-05-26" type="related">May 26, 1804</ref>, Detachment Order, below). The exact number and names of the French boatmen remain unclear throughout (see <ref n="v02.appendix.a" type="related">Appendix A</ref>). <name type="person" key="Clark, William">Clark</name> may not have counted <name type="person" key="York">York</name>, his personal servant, in his total. Among those leaving <name type="place" key="Dubois River">Wood River</name>, besides <name type="person" key="Clark, William">Clark</name> and <name type="person" key="York">York</name>, were twenty-five members of the permanent party, as then planned, who were to make the full trip to <name type="place" key="Pacific Ocean">the Pacific</name>: Sergeants <name type="person" key="Floyd, Charles">Floyd</name>, <name type="person" key="Ordway, John">Ordway</name>, and <name type="person" key="Pryor, Nathaniel Hale">Pryor</name>, and Privates <name type="person" key="Bratton, William E.">Bratton</name>, <name type="person" key="Collins, John">Collins</name>, <name type="person" key="Colter, John">Colter</name>, <name type="person" key="Field, Reubin">Reubin</name> and <name type="person" key="Field, Joseph">Joseph Field</name>, <name type="person" key="Gass, Patrick">Gass</name>, <name type="person" key="Gibson, George">Gibson</name>, <name type="person" key="Goodrich, Silas">Goodrich</name>, <name type="person" key="Hall, Hugh">Hall</name>, <name type="person" key="Howard, Thomas P.">Howard</name>, <name type="person" key="McNeal, Hugh">McNeal</name>, <name type="person" key="Newman, John">Newman</name>, <name type="person" key="Potts, John">Potts</name>, <name type="person" key="Reed, Moses B.">Reed</name>, <name type="person" key="Shannon, George">Shannon</name>, <name type="person" key="Shields, John">Shields</name>, <name type="person" key="Thompson, John B.">Thompson</name>, <name type="person" key="Werner, William">Werner</name>, <name type="person" key="Whitehouse, Joseph">Whitehouse</name>, <name type="person" key="Willard, Alexander">Willard</name>, <name type="person" key="Windsor, Richard">Windsor</name>, and <name type="person" key="Weiser, Peter">Weiser</name>. <name type="person" key="Warfington, Richard">Corporal Richard Warfington's</name> detachment, who were to return from some point up the <name type="place" key="Missouri River">Missouri</name> with dispatches, then included Privates <name type="person" key="Boley, John">Boley</name>, <name type="person" key="Dame, John">Dame</name>, <name type="person" key="Frazer, Robert">Frazer</name>, <name type="person" key="Tuttle, Ebenezer">Tuttle</name>, and <name type="person" key="White, Isaac">White</name>. <name type="person" key="Robertson, John">Private John Robertson</name> (<name type="person" key="Robertson, John">Robinson</name>) may also have been present at this time; perhaps he was one of the six soldiers in a pirogue—probably <name type="person" key="Warfington, Richard">Warfington's</name> squad. (See sketch of <name type="person" key="Robertson, John">Robertson</name>, <ref n="v02.appendix.a" type="related">Appendix A</ref>.) The enlisted men's journals all state that there were three sergeants and thirty-eight "working hands"; whether <name type="person" key="York">York</name> counted as a working hand is not clear. If one counts twenty-five in the permanent party and seven men in <name type="person" key="Warfington, Richard">Warfington's</name> detachment, nine French boatmen are necessary for the three sergeants and thirty-eight hands. Adding <name type="person" key="York">York</name>, one has forty-two men leaving <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">River Dubois</name> with <name type="person" key="Clark, William">Clark</name>. Other Frenchmen may have been hired at <name type="place" key="Saint Charles, Mo.">St. Charles</name>, notably <name type="person" key="Cruzatte, Pierre">Pierre Cruzatte</name> and <name type="person" key="Labiche, François">Fran<seg n="u231">ç</seg>ois Labiche</name>, who became members of the permanent party. Appleman (LC), 367 n. 64.</note>
+            <note xml:id="n040514-104" n="4">This May 14 entry is in <name type="person" key="Clark, William">Clark's</name> notebook Codex A. <name type="person" key="Clark, William">Clark's</name> entries from the Field Notes will uniformly come first and notebook journal entries second for each date, reflecting the probable order of composition.</note>
+            <note xml:id="n040514-105" n="5">A league is a variable measure of about three miles. That must have been <name type="person" key="Clark, William">Clark's</name> usage since his mileage tables show <name type="place" key="Saint Charles, Mo.">St. Charles</name> as being twenty-one miles above <name type="place" key="Saint Louis, Mo.">St. Louis</name>.</note>
+            <note xml:id="n040514-106" n="6">Undated astronomical note in Codex O. See <ref n="v02.appendix.c" type="related">Appendix C</ref>, <name type="person" key="Lewis, Meriwether">Lewis's</name> description of astronomical instruments, <ref n="1804-07-22" type="related">July 22, 1804</ref>, and notes with the <ref n="1803-11-15" type="related">November 15, 1803</ref>, entry. It is placed here because here began the leaders' regular astronomical observations at their "point of departure." Observations from Codex O are normally placed after the regular daily entries.</note>
+            <note xml:id="n030514-107" n="7">This is the first of three notebooks that comprise <name type="person" key="Ordway, John">Ordway's</name> journal. The first notebook
+contains handstitched sheets covered with loose boards, 322 pages (erratically paged) in length, divided into four parts, and of varying size, from about 8½ by 6½ inches to about 7¾ by 6¼ inches. This notebook covers the period from May 14, 1804, to September 30, 1805 (see <ref n="v02.appendix.c" type="related">Appendix C</ref>). Random writing appears on the front and back of the outside cover, too faint and blurred to read. On the inside front cover are several random words, "Silas," "John Munsell," "[H]udon," "J Howard," "Wife," and others too faint to decipher. On the inside back cover is the following: "No. II. Orderly Book commencing 26th February 1793    Thomas Hughes Major 1st S L"; and a column of numbers too faint to read. Hughes was a major in the first sublegion of the U.S. Army from November 1792 until he resigned from the service in October 1794; it is not known how <name type="person" key="Ordway, John">Ordway</name> came to have his notebook. On the first page, preceding the page which begins the expedition entries, is the following: "<name type="person" key="Ordway, John">John Ordways</name> Journal Book    Detachment Orders, <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">Camp River Dubois</name>    Lat at <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">Dubois</name> 38d 19m N. Lon[gitude at Dubois] 90[m] N. W;—"; and several words crowded in above this, including, "Silas [Delash?]," "Said Silas," and "7000 miles to <name type="native_nation" key="Mandan Indians">Mandan</name>." The remainder of the page is blank.</note>
+            <note xml:id="n030514-108" n="8">The composition of the party at this time is discussed in <ref n="v02.appendix.a" type="related">Appendix A</ref>.</note>
+            <note xml:id="n030514-109" n="9">The keelboat (batteaux) is discussed at <name type="person" key="Lewis, Meriwether">Lewis's</name> entry for <ref n="1803-08-30" type="related">August 30, 1803</ref>, and the
+pirogues are considered at entries for <ref n="1803-09-04" type="related">September 4, 1803</ref>, and <ref n="1804-05-13" type="related">May 13, 1804</ref>.</note>
+            <note xml:id="n030514-110" n="10">Near the mouth of <name type="place" key="Coldwater (Colewater) Creek">Coldwater Creek</name>, <name type="place" key="Saint Charles County, Mo.">St. Charles County</name> , Missouri, a little above the
+town of <name type="place" key="Fort Bellefontaine (Mo.)">Fort Bellefontaine</name>.</note>
+            <note xml:id="n030514-111" n="11">
+               <name type="person" key="Floyd, Charles">Floyd's</name> journal is a notebook of fifty-six numbered pages of text and eighteen unnumbered blank pages, covered in marbled boards, and 7½ by 5⅞ inches in size. It includes <name type="person" key="Floyd, Charles">Floyd's</name> due bills, his journal of the expedition with some writing by <name type="person" key="Clark, William">Clark</name> within the entries, and then miscellaneous notes by <name type="person" key="Floyd, Charles">Floyd</name>. On the inside front cover of the journal, preceding this entry, is the following:
+
+<table rows="2" cols="2">
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Recd. of Monsier Pier Shierker 5 Carrtts of tobacko<lb/>
+at 3 s/o d per peece</cell>
+                     <cell role="data" rows="1" cols="1">$2.50</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Mayse Corn &amp; Dolce Due</cell>
+                     <cell role="data" rows="1" cols="1">    .50</cell>
+                  </row>
+               </table>
+               <table rows="5" cols="6">
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"> </cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person" key="McNeal, Hugh">ONail</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">2 Carrits</cell>
+                     <cell role="data" rows="1" cols="1">$1     dollr</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person" key="Gass, Patrick">P. Gass</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">G. for T.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">Decemb</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person" key="Newman, John">Newman</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">1 Do.</cell>
+                     <cell role="data" rows="1" cols="1">    50 Cents</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person" key="Field, Joseph">Jos. Field</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">G. for T.</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">8th</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person" key="Shields, John">Shields</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">1 do.</cell>
+                     <cell role="data" rows="1" cols="1">    50</cell>
+                     <cell role="data" rows="1" cols="1"> </cell>
+                     <cell role="data" rows="1" cols="1"> </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">1803</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <name type="person" key="Gibson, George">Gibson</name>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">1 do</cell>
+                     <cell role="data" rows="1" cols="1">
+                        <hi rend="underline">    50</hi>
+                     </cell>
+                     <cell role="data" rows="1" cols="1"> </cell>
+                     <cell role="data" rows="1" cols="1"> </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1"> </cell>
+                     <cell role="data" rows="1" cols="1"> </cell>
+                     <cell role="data" rows="1" cols="1"> </cell>
+                     <cell role="data" rows="1" cols="1">$2.50 Cents</cell>
+                     <cell role="data" rows="1" cols="1"> </cell>
+                     <cell role="data" rows="1" cols="1"> </cell>
+                  </row>
+               </table>
+               <p>
+                  <hi rend="right">March 13 1804</hi>
+               </p>
+               <p>
+Renued ouer Journey    began our voyage much feteged after yester day worke</p>
+               <lb/>
+The persons mentioned above may be identified as follows: "Shierker" is probably <name type="person" key="Chouteau, Jean Pierre">Jean
+Pierre Chouteau</name>; the remainder were members of the party, <name type="person" key="McNeal, Hugh">Hugh McNeal</name> (perhaps), <name type="person" key="Gass, Patrick">Gass</name>,
+<name type="person" key="Newman, John">John Newman</name>, <name type="person" key="Field, Joseph">Joseph Field</name>, <name type="person" key="Shields, John">Shields</name>, and <name type="person" key="Gibson, George">Gibson</name>. "Carrits" are carrots, or rolls, of tobacco. The entry for <ref n="1804-03-13" type="related">March 13, 1804</ref>, cannot be expanded on since no journals for other members of the party exist for this date. It would appear that <name type="person" key="Floyd, Charles">Floyd</name> was on a trip with <name type="person" key="Clark, William">Clark</name> during this time, yet on the back inside cover of this journal <name type="person" key="Floyd, Charles">Floyd</name> notes that he purchased the notebook on this date at <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">River Dubois</name>. See also <name type="person" key="Clark, William">Clark's</name> entry of <ref n="1804-03-21" type="related">March 21, 1804</ref>, and the <ref n="1804-03-31-1" type="related">Weather Diary</ref> entry for March 19, 1804. Before the first page of <name type="person" key="Floyd, Charles">Floyd's</name> journal are the stubs of three sheets. On the reverse of the second sheet are the words: "Shore—    mile the fam of the Hassas thare we 〈luft〉." On the obverse of the third sheet are these words: "our Dog + 2 miles I [lared] 〈on the    in the〉." Given the damage to the journal at this point, the transcription here is uncertain. <name type="person" key="Floyd, Charles">Floyd's</name> time, numbers, and distance vary from those of <name type="person" key="Clark, William">Clark</name> and others for this day.
+
+
+</note>
+            <note xml:id="n030514-112" n="12">At this point <name type="person" key="McKeehan, David">David McKeehan</name> or some person inserted a note for this entry. Such notes were inserted occasionally throughout the book and are reprinted as textual notes in this edition and identified as "<name type="person" key="McKeehan, David">McKeehan's</name> note." The first note reads as follows: "The confluence of the <name type="place" key="Missouri River">Missouri</name> and <name type="place" key="Mississippi River">Mississippi</name> rivers is in latitude about 38 degrees and forty minutes north, and in longitude 92 degrees and an half west of <name type="place" key="London">London</name>, or 17 and a third west of <name type="place" key="Philadelphia, Pa.">Philadelphia</name>. The town of <name type="place" key="Saint Louis, Mo.">St. Louis</name> is 14 miles below the mouth of the <name type="place" key="Missouri River">Missouri</name> on the west side of the <name type="place" key="Mississippi River">Mississippi</name>; and <name type="place" key="Cahokia, Ill.">Cahokia</name> about 4 or 5 miles lower down on the east side. The longitude of these places is nearly the same with that of the mouth of the river <name type="place" key="Saint Louis, Mo.">St. Louis</name> at the west end of <name type="place" key="Lake Superior">lake Superior</name> in 46 degrees 45 minutes north latitude; about 2 degrees west of <name type="place" key="New Orleans, La.">New Orleans</name> in latitude 30 degrees north, and the same number of degrees east of the most western point of <name type="place" key="Hudson's Bay">Hudson's Bay</name>, in latitude about 59 degrees north: So that a line drawn from <name type="place" key="New Orleans, La.">New Orleans</name> to <name type="place" key="Fort Churchhill (Canada)">Fort Churchhill</name>, at the mouth of <name type="place" key="Churchhill River">Churchhill river</name> on the west side of <name type="place" key="Hudson's Bay">Hudson's Bay</name>, would pass very near the mouth of the <name type="place" key="Missouri River">Missouri</name> and the west end of <name type="place" key="Lake Superior">lake Superior</name>." For his notes <name type="person" key="McKeehan, David">McKeehan</name> relied mainly on <name type="person" key="Mackenzie, Alexander">Alexander Mackenzie's</name>
+               <hi rend="italic">Voyages from Montreal</hi> (<name type="place" key="London">London</name>, 1801).</note>
+            <note xml:id="n030514-113" n="13">Here <name type="person" key="McKeehan, David">McKeehan</name> inserted what was probably the way most Americans then pictured the regions beyond the <name type="place" key="Mississippi River">Mississippi</name> and its inhabitants.<lb/>
+               <p>
+Preceding <name type="person" key="Gass, Patrick">Gass's</name> first entry are several pages of preliminary book material that read as follows:</p>
+               <p>
+                  <hi rend="center">FRONT MATTER</hi>
+               </p>
+               <p>
+District of <name type="place" key="Pennsylvania">Pennsylvania</name>, to wit:</p>
+               <p>
+(L. S.) Be it remembered, That on the eleventh day of April in the thirty-first year of the Independence of the United States of America, A. D. 1807, <hi rend="italic">
+                     <name type="person" key="McKeehan, David">David McKeehan</name>
+                  </hi>, of the said District hath deposited in this Office, the Title of a Book the Right whereof he claims as Proprietor in the words following, to wit:</p>
+               <p>
+                  <quote>
+"A Journal of the Voyages and Travels of a Corps of Discovery, under the command of <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> and <name type="person" key="Clark, William">Capt. Clarke</name> of the Army of the United States, from the mouth of the river <name type="place" key="Missouri River">Missouri</name> through the interior parts of North America to the <name type="place" key="Pacific Ocean">Pacific Ocean</name>, during the years 1804, 1805 and 1806. Containing an authentic relation of the most interesting transactions during the expedition,—A description of the country,—And an account of its inhabitants, soil, climate, curiosities, and vegetable and animal productions.— By <hi rend="italic">
+                        <name type="person" key="Gass, Patrick">Patrick Gass</name>
+                     </hi>, one of the persons employed in the Expedition. With Geographical and Explanatory Notes by the <hi rend="italic">Publisher</hi>."</quote>
+               </p>
+               <p>
+In Conformity to the Act of the Congress of the United States, intituled, "An Act for the Encouragement of Learning, by securing the Copies of Maps, Charts, and Books, to the Authors and Proprietors of such Copies during the Times therein mentioned" And also to the Act, entitled "An Act supplementary to Act, entitled, "An Act for the Encouragement of Learning, by securing the Copies of Maps, Charts, and Books, to the Authors and Proprietors of such Copies during the Times therein mentioned," and extending the Benefits thereof to the Arts of designing, engraving, and etching historical and other Prints."</p>
+               <p>
+                  <hi rend="right">
+                     <name type="person" key="Caldwell, D.">D. Caldwell</name>, Clerk of the District of <name type="place" key="Pennsylvania">Pennsylvania</name>
+                  </hi>
+               </p>
+               <p>
+                  <hi rend="center">PREFACE</hi>
+               </p>
+               <p>
+Of the various publications which unite amusement and information, few can be justly held in higher estimation than the Journals and Narratives of Travellers and Voyagers: and in our own highly favoured country, the diffusion of general knowledge, the enterprizing spirit of the people, their commercial pursuits and habits of emigration, render such works particularly valuable and interesting; while the vigorous and unrestrained mind of the free American, by amplifying and embellishing the scenes presented to its view, enjoys the choicest luxuries of the entertainment they are calculated to afford. If it is conceded that discoveries made in North America are more important to the people of the United States than those made elsewhere, it will not be difficult to shew 
+that none could have been made of so much importance to them in any part of the world as in the large tracts of country through which the late expedition, under the command of <name type="person" key="Lewis, Meriwether">Captain Lewis</name> and <name type="person" key="Clark, William">Captain Clarke</name>, passed. For if we take a view of the different discoveries and settlements previously made, we will find that those tracts through which the <name type="place" key="Missouri River">Missouri</name> and <name type="place" key="Columbia River">Columbia river</name>s, and their branches flow, commonly called <hi rend="italic">unknown regions,</hi> were the only parts remaining unexplored, which could be considered valuable.</p>
+               <p>
+The first discovery of the Western World by Europeans of which we have any authentick accounts, being near the southern extremity of North America, drew, as might be expected, their attention to that quarter: and the rage which this grand discovery excited for other enterprizes of the same nature; the avidity, with which avarice was stimulated to seize the precious metals, known to exist in those parts; the means held out for gratifying ambition; and the prospects of a lucrative commerce, with many other objects and considerations tended largely to extend them; while the diminution of the Northern Continent to a narrow isthmus, and its large gulfphs, bays and rivers, furnished and facilitated the means of exploring it. The spirit of enterprize, however, was not confined to the southern extremity; but extending itself to the climates congenial with those which it had left, and connecting with its researches the planting of colonies, important discoveries were made along the <name type="place" key="Atlantic Ocean">Atlantic</name> coast. In the mean time the project of discovering a northwest passage to the <name type="place" key="East Indies">East Indies</name> led the boldest naval commanders of Europe through the inland seas, bays and straights of the north; and at length produced surveys of the shores of <name type="place" key="Pacific Ocean">the Pacific</name>. To these discoveries, and those occasionally made during the settlement of the country within the limits of the United States, and in Canada, the <name type="place" key="Hudson's Bay">Hudson's Bay</name> company, though not famed for enterprize added something to the stock of general information, and by their establishments aided others in their enterprizes. <name type="person" key="Hearne, Samuel">Mr. Hearne</name> under the direction of this company, in an expedition which lasted from the 7th of December 1770 to the 30th of June 1772, proceeded from Prince of Wales' Fort, on the Churchhill river in latitude 58d. 47½m. north, and longitude 94d 7½m. west of Greenwich, or 19d. west of <name type="place" key="Philadelphia, Pa.">Philadelphia</name>, to the mouth of the Coppermine river, which according to some accounts is in latitude 72d. north and longitude 119d. west from Greenwich, or 44d. west of <name type="place" key="Philadelphia, Pa.">Philadelphia</name>; but is laid down by others to be in latitude about 69d. north, and longitude 112d. west from Greenwich or 37d. west from <name type="place" key="Philadelphia, Pa.">Philadelphia</name>. Whatever the confined views and contracted policy of the Hudson's Bay Company may, however, have omitted in the way of discovery, the enterprize and perseverance of the Canadian traders, sometime since united under the name of the North West Company, have amply supplied. Prior to the year 1789 they had extended their discoveries and establishments along the numerous lakes and rivers situated north of that high tract of country which divides the <name type="place" key="Mississippi River">Mississippi</name> and <name type="place" key="Missouri River">Missouri</name> waters from those which run towards the north and east, to within a short distance of the <name type="place" key="Rocky Mountains">Rocky Mountains</name>. In the summer of this year <name type="person" key="McKenzie, Charles">Mr. McKenzie</name> made a voyage from <name type="place" key="Fort Chepewyan (Canada)">Fort Chepewyan</name> on the lake of the Hills in latitude 58d. 40m. north, and longitude 110d. 30m. west from Greenwich or 35d. 22m. west from <name type="place" key="Philadelphia, Pa.">Philadelphia</name>, by the way of the <name type="place" key="Slave River">Slave river</name>, <name type="place" key="Slave Lake">Slave lake</name>, and a river by which this lake discharges its waters (since called <name type="person" key="McKenzie, Charles">McKenzie's</name> river) to the mouth of that river, where it falls into the <name type="place" key="North Sea">North sea</name>, in latitude 69d. 14m. north and longitude 135d. west from Greenwich, or 59d. 52m. west from <name type="place" key="Philadelphia, Pa.">Philadelphia</name>. He again in the year 1793 penetrated from an establishment on the <name type="place" key="Peace River">Peace river</name> in latitude 56d. 9m. north, and longitude 117d. 35m. west from Greenwich, or 41d. 27m. west from <name type="place" key="Philadelphia, Pa.">Philadelphia</name>, to <name type="place" key="Pacific Ocean">the Pacific</name> ocean in latitude 52d. 24m. north, and longitude 128d. 2m. west from Greenwich, or 52d. 54m. west from <name type="place" key="Philadelphia, Pa.">Philadelphia</name>.</p>
+               <p>
+By the discoveries alluded to, and those occasionally made during the rapid settlement of the country and the progress of enterprize, the principal divisions of this Northern Continent has been explored and become known. The line separating these from the parts which remained unexplored and unknown, may be considered as commencing at <name type="place" key="Pacific Ocean">the Pacific</name> ocean in latitude about 38d. north, and running along the high lands and mountains between the waters which fall into the gulphs of <name type="place" key="California">California</name> and <name type="place" key="Mexico">Mexico</name> and those which fall into the <name type="place" key="Missouri River">Missouri river</name>, and continuing in that direction to the <name type="place" key="Mississippi River">Mississippi</name>; thence up that river to the source of its highest north western branch; thence along the high tract of country which divides the waters of the <name type="place" key="Missouri River">Missouri</name> from those which fall into <name type="place" key="Hudson's Bay">Hudson's Bay</name> and the <name type="place" key="North Sea">North sea</name>; from whence it will continue across the <name type="place" key="Rocky Mountains">Rocky Mountains</name> to <name type="place" key="Pacific Ocean">the Pacific</name> ocean in latitude about 52d. north. To the south of this general division line, the known countries will be Old and <name type="place" key="New Mexico">New Mexico</name> and a part of <name type="place" key="Louisiana">Louisiana</name>; to the southeast, West and <name type="place" key="East Florida">East Florida</name>; to the east, the United States; to the northeast, Canada, the Labrador country, part of <name type="place" key="New South Wales">New South Wales</name> and of other countries round <name type="place" key="Hudson's Bay">Hudson's Bay</name>; and to the north, part of <name type="place" key="New South Wales">New South Wales</name>, <name type="place" key="New North Wales">New North Wales</name>, the <name type="place" key="Athabasca">Athabasca</name> and other countries containing the establishments of the <name type="place" key="Hudson's Bay">Hudson's Bay</name> and North West Companies, and those explored by <name type="person" key="Hearne, Samuel">Hearne</name> and <name type="person" key="McKenzie, Charles">McKenzie</name>: leaving unknown and unexplored (except so far as the surveys made by navigators of the coast of <name type="place" key="Pacific Ocean">the Pacific</name>, and the imperfect accounts of traders who have ascended the <name type="place" key="Missouri">Missouri</name> have furnished information) all that large intermediate tract, containing in breadth about 1000 miles; and in length in a direct line, about 1800 miles, and by the way of the <name type="place" key="Missouri River">Missouri</name> and <name type="place" key="Columbia River">Columbia river</name>s nearly twice that distance. This tract from its situation may be supposed to contain the chief part of those lands in the great western division of the continent of North America fit for tillage: and this circumstance will therefore in a special manner claim the attention of an agricultural people, render more interesting a description of them, and attach additional value to the history of the country. It will not be forgotten that an immense sum of treasure has been expended in the purchase of this country, and that it is now considered as belonging to the United States. Here at no distant period settlements may be formed; and in a much shorter term than has elapsed since the first were made in America, from which hath arisen a great, powerful and independent nation, the posterity of the present inhabitants of the Union may unfurl the standard of independence on the plains of the <name type="place" key="Missouri River">Missouri</name> and <name type="place" key="Columbia River">Columbia</name>.</p>
+               <p>
+With respect to the accuracy of the relations given in the following pages, it may be necessary to inform those readers not acquainted with the fact, that the principal object in sending out the expedition was to gain some correct account of the country: and that this might be done more effectually, and the information collected, preserved with more certainty, it was enjoined upon the several persons belonging to the corps, who were considered capable, to keep journals, and every necessary information and assistance given them for that purpose: these journals were also from time to time compared, corrected and any blanks, which had been left, filled up, and unavoidable omissions supplied. By thus multiplying the journals, revising and correcting them, the chances of securing to the country a true account of the progress of the expedition and of the discoveries which should be made, especially should the party be attacked and defeated by the savages or meet with any other disasters in their hazardous enterprize, were also multiplied.</p>
+               <p>
+The following is an extract of a certificate delivered by <name type="person" key="Lewis, Meriwether">Captain Lewis</name> to  <name type="person" key="Gass, Patrick">Mr. Gass</name>, dated <name type="place" key="Saint Louis, Mo.">St. Louis</name> 10th Oct. 1806.</p>
+               <p>
+"As a tribute justly due to the merits of the said <name type="person" key="Gass, Patrick">Patrick Gass</name>, I with chearfulness declare, that the ample support, which he gave me, under every difficulty; the manly firmness, which he evinced on every necessary occasion; and the fortitude with which he bore the fatigues and painful sufferings incident to that long voyage, intitles him to my highest confidence and sincere thanks, while it eminently recommends him to the consideration and respect of his fellow citizens."</p>
+               <p>
+In determining the form in which the work should appear, the publisher had some difficulty. Two plans presented themselves. The one was to preserve the form of a daily journal (in which the original had been kept) and give a plain description of the country and a simple relation of occurrences equally intelligible to all readers; leaving to every person an opportunity of embellishing the scenes presented to him in his own way. The other plan was to more fully digest the subject, make the narrative more general, and assuming less of the journal form and style, describe and clothe the principal parts of it as his fancy might suggest. However far the latter might have been proper had a foreign country been the subject, and the principal object of the publication, mere amusement, many objections occurred to it in the present case; and rendered the former the most eligible, especially as by it the climate and face of the country will be more satisfactorily described. And <name type="person" key="Gass, Patrick">Mr. Gass</name> having declared that the beauties and deformities of its grandest scenes were equally beyond the power of description, no attempts have been 
+either by him or the publisher to give adequate representations of them.</p>
+               <p>
+The publisher hopes that the curiosity of the reader will be in some degree gratified; that the information furnished will not be uninteresting; and that some aid will be furnished those who wish to acquire a Geographical knowledge of their country. <hi rend="italic">26th March, 1807</hi>
+               </p>
+            </note>
+            <note xml:id="n030514-114" n="14">
+               <name type="person" key="Whitehouse, Joseph">Whitehouse's</name> first daily entry in the first part of his three-part original notebook journal covering the period May 14, 1804, to May 27, 1805.    The pages of this portion of the notebook are approximately 7 ⅜" × 6"; the notebook as a whole is covered in animal skin.    On the first 
+page the words "<name type="person" key="Whitehouse, Joseph">Joseph Whitehouse</name>" and the initial "J" are repeated several times.    Other random writings are not legible.    On the second page, preceding the first daily entry is the following:    "<name type="person" key="Whitehouse, Joseph">Joseph Whitehouse's</name> Journal Commencing at River deboise 14th May 1804.—    it being a Minute relation of the various transaction[s] and occurrences which took place dureing a Voiage of [<hi rend="italic">blank</hi>] years from the United States to the <name type="place" key="Pacific Ocean">Pacific Ocean</name> through the interior of the conti[nent of] North America—.    under the directions of <name type="person" key="Lewis, Meriwether">Capt. Meriwether Lewis</name> &amp; <name type="person" key="Clark, William">Capt. W Clark</name>, and patronised by the Government of the U States.    The individuals who composed the party engaged to essay the dificuelties, dangers fatigues of this enterprise with the Said Officers; Consists of the persons whoes Names are here-unto anexed—    Viz:    <name type="person" key="Drouillard, George">George Drewyer</name> to act as Interpreter and Hunter; <name type="person" key="Ordway, John">John Ordway</name>, <name type="person" key="Pryor, Nathaniel Hale">Nathl. Pryor</name>, <name type="person" key="Floyd, Charles">Charles Floyd</name> &amp; <name type="person" key="Gass, Patrick">Patric Gass</name> Sergts.    <name type="person" key="Shields, John">John Shields</name>, <name type="person" key="Bratton, William E.">William Bratten</name>, <name type="person" key="Colter, John">John Colter</name>, <name type="person" key="Hall, Hugh">Hugh Hall</name>, <name type="person" key="Collins, John">John Collins</name>, <name type="person" key="Field, Joseph">Joseph Field</name>, <name type="person" key="Field, Reubin">Reuben Field</name>, <name type="person" key="Goodrich, Silas">Silas Goodrich</name>, <name type="person" key="Willard, Alexander">Alexander Willard</name>, <name type="person" key="Werner, William">William Werner</name>, <name type="person" key="Potts, John">John Potts</name>, 
+<name type="person" key="Howard, Thomas P.">Thomas Procter Howard</name>, <name type="person" key="Weiser, Peter">[Pe]ter Wiser</name>, <name type="person" key="Gibson, George">George Gibson</name>, <name type="person" key="Shannon, George">George Shannon</name>, <name type="person" key="Thompson, John B.">John B. Thompson</name>, <name type="person" key="Windsor, Richard">Richard Windser</name>, <name type="person" key="Frazer, Robert">[Rob]ert Frazer</name>, <name type="person" key="McNeal, Hugh">Hugh McNeal</name>, <name type="person" key="Cruzatte, Pierre">Peter Crusatt</name>, <name type="person" key="Labiche, François">Labeech</name>, &amp; <name type="person" key="Whitehouse, Joseph">Joseph White[house;]</name> also <name type="person" key="Clark, William">Capt. Clarks</name> Black Man <name type="person" key="York">York</name>—.    At the <name type="native_nation" key="Mandan Indians">Mandans</name>
+               <name type="person" key="Charbonneau, Toussaint">Tousant Shabono</name>
+               <name type="person" key="Sacagawea">Indian woman</name> &amp; <name type="person" key="Charbonneau, Jean Baptiste">child</name> joined as interpreter &amp; interpretis to the <name type="native_nation" key="Paiute Indians">Snake</name> Indians."     It appears that <name type="person" key="Clark, William">Clark</name> wrote the portion that begins with the words "under the directions of," to the end.    This material was probably written sometime during the winter of 1804–5 while the party was at <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name> or perhaps afterwards.    The writing on the pages is from end-to-end, as in a stenographer's notebook, rather than side-to-side, as in a conventional book.</note>
+            <note xml:id="n030514-115" n="15">Referring to the Hebrew land of <name type="place" key="Goshen">Goshen</name> (Genesis 46, 47) and alluding to a place of goodness and plenty. <name type="person" key="Whitehouse, Joseph">Whitehouse</name> may be using <name type="place" key="Goshen">Goshen</name> as a generic term for the surrounding neighborhood.</note>
+            <note xml:id="n030514-116" n="16">For the composition of the party at this time, see <ref n="v02.appendix.a" type="related">Appendix A</ref>.</note>
+            <note xml:id="n030514-117" n="17">The party's small, swivel-mounted cannon, discussed at <name type="person" key="Clark, William">Clark's</name> entry for <ref n="1804-05-29" type="related">May 29, 1804</ref>.</note>
+            <note xml:id="n030514-118" n="18">The first entry in <name type="person" key="Whitehouse, Joseph">Whitehouse's</name> fair copy (see <ref n="introduction.v11" type="related">Introduction to volume 11</ref>).    The fair copy will be the second entry for each day's account unless otherwise indicated.    Preceding this entry are several pages of introductory material beginning with a single page as follows:
+<p>
+                  <hi rend="center">Voyage</hi>
+               </p>
+               <p>From <name type="place" key="Saint Louis, Mo.">Saint Louis</name>, in the Territory of Louisiana and on the River <name type="place" key="Mississippi River">Mississippi</name> across the Continent of North America, by way of the River <name type="place" key="Missouri River">Mesouri</name>, to <name type="place" key="Pacific Ocean">the Pacific</name> or Western Ocean; in the Years, 1803, 4, 5 &amp; 1806, under the directions of <name type="person" key="Lewis, Meriwether">Captain Merriweather Lewis</name>, and <name type="person" key="Clark, William">Captain William Clark</name>, and patronised by the Government of the United States, with a description of the Countries through which they passed; taken from actual survey. Illustrated with Maps, with an account of the Latitude [<hi rend="italic">blank</hi>] of the most noted places on the <name type="place" key="Missouri River">Mesouri</name> and <name type="place" key="Columbia River">Columbia River</name>s, by.</p>
+               <p>
+                  <hi rend="right">
+                     <name type="person" key="Whitehouse, Joseph">Joseph Whitehouse</name>
+                  </hi>
+               </p>
+               <p>
+To The Citizens of the United States.</p>
+               <p>
+This Volume is inscribed, by their fellow Citizen, and devoted Servant,</p>
+               <p>
+                  <hi rend="right">
+                     <name type="person" key="Whitehouse, Joseph">Joseph Whitehouse</name>
+                  </hi>
+               </p>
+               <p>[Next comes a blank page and then the following preface]</p>
+               <p>
+                  <hi rend="center">Preface</hi>
+               </p>
+               <p>
+On presenting this Volume to my fellow Citizens, it is not necessary to enter into particular account of this Voyage; but I trust that the generous public, will make such allowances as they shall think fit, to one who has never before presented himself to them in the character of an Author; for which the course and occupations of my life; has by no means qualified me, being much better calculated to perform the Voyage (arduous as it might be) than to write an account of it; however it is now offered to the Public, with the submission that becomes me.    I was led at an early period of my life to enter into the Army of the United States, by views I had to acquire Military knowledge, &amp; to be acquainted with the Country in which I was born; and accordingly was somewhat gratified by being ordered (shortly after I joined the Service) to <name type="place" key="Kaskaskia, Ill.">Kaskaskias</name> Village, in the <name type="place" key="Illinois">Illinois</name> Country.—    I there, from frequent conversations, I had with Traders; whose traffic was with the Indians, residing on the <name type="place" key="Missouri River">Mesouri</name> River, contemplated that there might be a practibility of penetrating across the Continent of North America, to the <name type="place" key="Pacific Ocean">Pacific Ocean</name> by way of the <name type="place" key="Missouri River">Mesouri</name> River, but found from the most perfect account that I could collect from any of them; did not extend beyond the <name type="native_nation" key="Mandan Indians">Mandan</name> Nation, who inhabited on the same River <name type="place" key="Missouri River">Mesouri</name>, which lays in 47° 24' 12 North Latitude; the Countries beyond that place, being utterly unknown to them, and even to the Indians inhabiting that Country.</p>
+               <p>
+I had been at <name type="place" key="Kaskaskia, Ill.">Kaskaskia</name> Village some time, when I was informed That His Excellency <name type="person" key="Jefferson, Thomas">Thomas Jefferson</name> Esquire, President of the United States, had appointed <name type="person" key="Lewis, Meriwether">Captain Meriweather Lewis</name>, and <name type="person" key="Clark, William">Captain William Clark</name>, to take the command of a party of Continental Troops, and Volunteers; in order to explore the <name type="place" key="Missouri River">Mesouri</name> River; and find out its source; and to find (if possible) by that rout a passage to <name type="place" key="Pacific Ocean">the Pacific</name> ocean.—    I was fortunate in being chosen one of the party of Continental Troops by them, which contributed much to quicken the execution of my favorite project, and of satisfying my own ambition.    The dangers I have encounter'd, and the toils I have suffered, have found their recompence, nor will the many and tedious days, or the gloomy and inclement nights that I have passed, have been passed in vain.—    This Voyage I hope has settled 
+the dubious point respecting the Source of the great Rivers <name type="place" key="Missouri River">Mesouri</name>, and <name type="place" key="Columbia River">Columbia</name>; and I trust that it has set that long agitated question at rest, in regard to a passage being across the Continent of North America, to the <name type="place" key="Pacific Ocean">Pacific Ocean</name>, and the Northern boundary of Louisiana.—</p>
+               <p>
+In this Voyage I furnished myself with books, and also got from Captains <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>, every information that lay in their power, in order to compleat and make my Journal correct; and part of my Journals were kept by one of them when I was on a fataigue party.—    This was done by them, in case of any great accident happening to the party, so that if any of them should return to the United States, or their Journals fall into the hands of any civiliz'd Nation, that the grand object of our discovery's might not be defeated.    The object being accomplished, it lays with you to determine the practibility of a commercial communication across the continent of North America, between the <name type="place" key="Atlantic Ocean">Atlantic</name> and <name type="place" key="Pacific Ocean">Pacific Ocean</name>s which is proved by my Journal.—    Nor do I hesitate to declare, my decided opinion, that very great, and essential advantages, may be derived; by extending our Trade, from one Sea, to the other.</p>
+               <p>
+The very great advantages of the fur trade, from that hitherto unknown Country, both by ascending the <name type="place" key="Missouri River">Mesouri</name> River, and by way of the <name type="place" key="Columbia River">Columbia River</name> to <name type="place" key="Pacific Ocean">the Pacific</name> ocean, will I trust prove Interesting to a Nation, whose general policy, is blended with, and whose prosperity is supported by the persuits of commerce.—    It will also qualify the reader, to pursue the succeeding Voyages, with superior intelligence and satisfaction.—    This Voyage will not I fear afford the variety, that may be expected from it; and that which it offers to the Eye, is not of a nature to be effectually transferred to the Page; Mountains and Valleys, the vast Priaries; the wide spreading forests, the lakes and Rivers, on both sides of the <name type="place" key="Rocky Mountains">Rocky Mountains</name>, succeed each other in general description;</p>
+               <p>
+The permanent Villages, both on the Rivers Missouri River, and <name type="place" key="Columbia River">Columbia</name>; and the Inhabitants in general, with bands of wandering Indians, are the only people, whom I shall introduce to the acquaintance of my readers.—    The Buffalo, the white Bear; the Elk, the Antelope, the mountain Goat, &amp; the Beaver; are mostly so familiar to the Naturalists, and are so frequently described, that a bare mention of them, as they enliven'd the landscapes, or were hunted for food; with a cursory account of the soil, the course of the Rivers, and their various produce, is all that can reasonably be expected from me.—    The toil of our Navigation to the source of the <name type="place" key="Missouri River">Mesouri</name>, was incessant; and often times extreme, and in our progress over the <name type="place" key="Rocky Mountains">Rocky Mountains</name>, with the Burthens on our shoulders; which aggravated the Toils of our march, and added to the wearisomeness of our way, adding to which the extreme dangers we encounter'd in descending the River <name type="place" key="Columbia River">Columbia</name> at a season of the Year, that not even the Natives of the soil would attempt; I hope will convince my readers, that Manly fortitude and perseverance was our only guide.—</p>
+               <p>
+Though the events, which compose my Journal, may have little in itself to strike the imagination of those who love to be astonished; nevertheless, when it is consider'd, that we explored those Waters, which had never before borne any other Vessell, than the Canoe of the Savage; and traversed those Forests and plains, where no American Citizen, or European had ever before presented themselves, to the Eye of its swarthy natives; when to these considerations, are added, the Important objects which were pursued; with the dangers that were encounter'd, and the difficulties that were surmounted to attain them; this work will, I flatter myself, be found to excite an interest, and conciliate regard, in the minds of those who peruse it.—    I hope the generous public, will indulge me, by believing; that I have laid before them, only whatever I saw, (or were seen by Captains <name type="person" key="Lewis, Meriwether">Lewis</name> or <name type="person" key="Clark, William">Clark</name>) with the impression of the moment; that it was told by them, or presented itself to me, and have never allowed myself to wander into conjecture, but have given as full, and exact account of the Country, and other transactions, that occur'd in the Country, that we passed through, as my abilities would allow.    I cannot in justice to myself omit saying, that the manly, and soldier-like behaviour; and enterprizing abilities; of both <name type="person" key="Lewis, Meriwether">Captain Lewis</name>, and <name type="person" key="Clark, William">Captain Clark</name>, claim my utmost gratitude:    and the humanity shown at all times by them, to those under their command, on this perilous and important Voyage of discovery; I hope will ever fill the breasts of Men who were under their command with the 〈will〉 same, and make their characters be esteem'd by the American people, and mankind in general; and convince the generous Public, that the President of the United States, did not misplace his judgment, when he appointed them to the command of this party on discovery; which is of so great a magnitude and utility, to the United States and mankind in general.—</p>
+               <p>
+I am not a candidate for literary fame, at the same time, I cannot but indulge the hope, that this volume, with all its imperfections, will not be thought unworthy the attention of the scientific Geographer; and that by unfolding Countries; hitherto unexplored, and which I presume, may be considered as a part belonging to the United States, it will be received as a faithful tribute to the prosperity of my Country.</p>
+               <p>
+                  <table rows="2" cols="4">
+                     <row role="data">
+                        <cell role="desc" rows="1" cols="1">
+                           <name type="place" key="Saint Louis, Mo.">Saint Louis</name>
+                        </cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="desc" rows="1" cols="1">           </cell>
+                        <cell role="desc" rows="1" cols="1">
+                           <hi rend="right">
+                              <name type="person" key="Whitehouse, Joseph">Joseph Whitehouse</name>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="desc" rows="1" cols="1">December 10th 1806</cell>
+                        <cell role="desc" rows="1" cols="1"> </cell>
+                        <cell role="desc" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+[Then on a new page comes the following list of party members]</p>
+               <p>
+The Individuals who composed the party, engaged to essay the difficulties; dangers 
+and fataigues of this enterprize with <name type="person" key="Lewis, Meriwether">Captain Merryweather Lewis</name>, and 
+<name type="person" key="Clark, William">Captain William Clark</name>, consisted of the persons, whose names are hereunto annexed.    Viz—</p>
+               <p>
+                  <table rows="18" cols="6">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Ordway, John">John Ottaway</name>
+                        </cell>
+                        <cell role="data" rows="4" cols="1">}</cell>
+                        <cell role="data" rows="4" cols="1">Serjts.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Willard, Alexander">Alexander Willard</name>
+                        </cell>
+                        <cell role="data" rows="7" cols="1">}</cell>
+                        <cell role="data" rows="7" cols="1">Privates</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Pryor, Nathaniel Hale">Nathaniel Pryor</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Werner, William">William Warner</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Floyd, Charles">Charles Floyd</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Potts, John">John Potts</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Gass, Patrick">Patrick Gass</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Howard, Thomas P.">Thomas Prater Howard</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" cols="3" rows="1">
+                           <name type="person" key="Shields, John">John Shields</name>, armourer</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Weiser, Peter">Peter Weiser</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">William <name type="person" key="Bratton, William E.">Bratton</name>
+                        </cell>
+                        <cell role="data" rows="8" cols="1">}</cell>
+                        <cell role="data" rows="8" cols="1">Privates</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Thompson, John B.">John B. Thompson</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Colter, John">John Colter</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="McNeal, Hugh">Hugh McNeal</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Hall, Hugh">Hugh Hall</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Field, Joseph">Joseph Fields</name>
+                        </cell>
+                        <cell role="data" rows="4" cols="1">}</cell>
+                        <cell role="data" rows="4" cols="1">Volunteers</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Collins, John">John Collins</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Field, Reubin">Reubin Fields</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Goodrich, Silas">Silas Goodrich</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Gibson, George">George Gibson</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Windsor, Richard">Richard Windsor</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Shannon, George">George Shannon</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Frazer, Robert">Robert Frazer</name>
+                        </cell>
+                        <cell role="data" cols="3" rows="1">&amp; 8 Canadians who were only to</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Whitehouse, Joseph">Joseph Whitehouse</name>
+                        </cell>
+                        <cell role="data" cols="3" rows="1">proceed with us to the <name type="native_nation" key="Mandan Indians">Mandans</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Cruzatte, Pierre">Peter Crusatt</name>
+                        </cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">Canadians &amp;<lb/>Volunteers,</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Labiche, François">Labeech</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" cols="6" rows="1">
+                           <name type="person" key="Drouillard, George">George Drewer</name>, to act as Indian Interpreter and Hunter &amp;<lb/>
+Captain <name type="person" key="Clark, William">William Clark's</name> Black Man, <name type="person" key="York">York</name>,<lb/>
+And at the <name type="native_nation" key="Mandan Indians">Mandan</name> Nation we were joined by <name type="person" key="Charbonneau, Toussaint">Tousant Shabono</name> (a canadian) and<lb/>
+                           <name type="person" key="Sacagawea">his Indian Woman</name>, with a <name type="person" key="Charbonneau, Jean Baptiste">Child</name>; this <name type="person" key="Sacagawea">Indian Woman</name> who was employed, as Interpreter <lb/>
+to the <name type="native_nation" key="Shoshone Indians">Snake</name> Nation of Indians.—
+</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+[Then comes a blank page and on a new page the heading for the daily entries 
+and a first entry for November 17, 1803, after which begin daily entries from 
+May 14, 1804]</p>
+               <p>
+                  <hi rend="center">Journal</hi>
+               </p>
+               <p>
+Of a Voyage across the continent of North America, to the Western; or <name type="place" key="Pacific Ocean">Pacific Ocean</name>.</p>
+               <p>
+1803 novemr 17th    We embarked at 9 o'Clock this morning from <name type="place" key="Saint Louis, Mo.">Saint Louis</name> (in the <name type="place" key="Louisiana Territory">Territory of Louisiana</name>) on board of a boat, belonging to The United States, for the <name type="place" key="Dubois River">River Dubois</name> (or <name type="place" key="Dubois River">Wood River</name>
+                  <name type="place" key="Indiana Territory">Indiana Territory</name>,) having all hands that is mention'd in 
+the former page belonging to our party on board, and several articles provided to make us comfortable 〈with us〉 during the Winter, which we intend staying at <name type="place" key="Dubois River">Wood River</name> &amp; remaining untill the River <name type="place" key="Missouri River">Mesouri</name> should be free from Ice.    We arrived at the place pointed out by Captains <name type="person" key="Lewis, Meriwether">Lewis</name> &amp; <name type="person" key="Clark, William">Clark</name> at 5 o'Clock P.M. the distance being 20 miles; and the course of the <name type="place" key="Mississippi River">Mississippi River</name>: being N by East.—</p>
+               <p>
+The <name type="place" key="Dubois River">River Dubois</name> (or <name type="place" key="Dubois River">Wood River</name>) is a small River; laying on the East side of the <name type="place" key="Mississippi River">Mississippi</name>, and empties itself into the same.—    The Town of <name type="place" key="Saint Louis, Mo.">Saint Louis</name> from which we took our departure; is situated on the West bank of the River <name type="place" key="Mississippi River">Mississippi</name>; and contains about 200 houses, built in the french fashion; and 〈lies〉 is situated under a hill and 〈is〉 lays in the form of an oblong Square.    The street runs paralel with the River; and cross at right Angles,—    and are Narrow; and most of the lots are picketted in.    The only public building is a Chapel, which is by no means elegant.—    On the west side of the Town are four Towers, built in a circular form, one of which is occupied at present by the American Troops as a fort; and also a half moon battery which stands on hill a short distance from the bank of the River at the North end of the Town.—</p>
+               <p>
+The land adjoining the Town for several miles is level and chiefly priaries, and very thinly settled.    The chief of the Inhabitants are canadian french, and a few families of Americans.    The River <name type="place" key="Mississippi River">Mississippi</name> opposite <name type="place" key="Saint Louis, Mo.">Saint Louis</name> is about one Mile wide, has a large sand barr on the East side, and an Island laying 〈on〉 opposite to the South end of the Town, the banks of the River lays mostly high, and the waters are 〈mostly〉 muddy, as high up the River <name type="place" key="Mississippi River">Mississippi</name> to where the confluence of that River, and the River <name type="place" key="Missouri River">Mesouri</name> commences.—    This Town lies in Latitude 38° 43' North.—</p>
+            </note>
+            <note xml:id="n030514-119" n="19">Pirogues.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-05-14" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-05-15" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-05-17">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+May 17, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">235-237</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">6, 374</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">10</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-01-08</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-05-17">May 17, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-05-17.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Thursday the 17th 1804    a fine Day    3 men Confined for misconduct, I had a Court martial &amp; punishment    Several Indians, who informed me that the <name type="native_nation" key="Sauk Indians">Saukees</name> [<name type="native_nation" key="Sauk Indians">Sauks</name>] had lately Crossed to war against the <name type="native_nation" key="Osage Indians">Osage</name> Nation    Som aplicasions,<ref target="n04051701" n="1"/> I took equal altitudes    made the m a. to be 84° 39' 15"</p>
+               <p>
+                  <table rows="3" cols="8">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">A M</cell>
+                        <cell role="data" rows="1" cols="1">8 H</cell>
+                        <cell role="data" rows="1" cols="1">35</cell>
+                        <cell role="data" rows="1" cols="1">40</cell>
+                        <cell role="data" rows="1" cols="1">P M</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">23</cell>
+                        <cell role="data" rows="1" cols="1">24</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">37</cell>
+                        <cell role="data" rows="1" cols="1">50</cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">24</cell>
+                        <cell role="data" rows="1" cols="1">50</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1"> 8</cell>
+                        <cell role="data" rows="1" cols="1">20</cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">25</cell>
+                        <cell role="data" rows="1" cols="1">50</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+measured the <name type="place" key="Missouri River">Missouries</name> at this place and made it 720 yards wide, in Banks.    a Boat came up this evening, I punished <name type="person" key="Hall, Hugh">Hall</name>
+                  <ref target="n04051702" n="2"/> agreeable to his Sentence in part, a fine after noon; Suped with <name type="person" key="Duquette, François">Mr. Ducett</name> an agreeable man more agreeable Lady, this Gentleman has a Delightful Situation &amp; garden.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-17.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">May</hi> the 17th <hi rend="italic">Thursday</hi> 1804</date>
+               </ab>
+               <p>
+a fair day    Compelled to punish for misconduct. Several <name type="native_nation" key="Kickapoo Indians">Kickapoos</name> Indians Visit me to day, <name type="person" key="Drouillard, George">George Drewyer</name> arrive. Took equal altitudes of Suns L L made is 84° 39' 15" ap T.</p>
+               <p>
+                  <table rows="4" cols="8">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h</cell>
+                        <cell role="data" rows="1" cols="1">'</cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h</cell>
+                        <cell role="data" rows="1" cols="1">'</cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">A. M.</cell>
+                        <cell role="data" rows="1" cols="1">8</cell>
+                        <cell role="data" rows="1" cols="1">35</cell>
+                        <cell role="data" rows="1" cols="1">40</cell>
+                        <cell role="data" rows="1" cols="1">P M</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">23</cell>
+                        <cell role="data" rows="1" cols="1">24</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">8</cell>
+                        <cell role="data" rows="1" cols="1">37</cell>
+                        <cell role="data" rows="1" cols="1">50</cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">24</cell>
+                        <cell role="data" rows="1" cols="1">50</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">8</cell>
+                        <cell role="data" rows="1" cols="1">38</cell>
+                        <cell role="data" rows="1" cols="1">20</cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">25</cell>
+                        <cell role="data" rows="1" cols="1">50</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>        
+Measured the river    found it to be 720 yards wide, a Keel Boat Came up to day—    Several of the inhabitents Came abord to day    receved Several Speces of Vegatables from the inhabitents to day
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-17.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Orders</hi>
+                     <name type="place" key="Saint Charles, Mo.">St. <hi rend="italic">Charles</hi>
+                     </name>
+                     <hi rend="italic">Thursdy</hi> the 17th of May 1804—<ref target="n04051703" n="3"/>
+                  </date>
+               </ab>
+               <p>
+
+a Sergeant and four men of the Party destined for the Missourri Expidition will convene at 11 oClock to day on the quarter Deck of the Boat, and form themselves into a Court martial to hear and determine (in behalf of the Capt.) the evidences aduced against <name type="person" key="Werner, William">William Warner</name> &amp; <name type="person" key="Hall, Hugh">Hugh Hall</name> for being absent last night without leave; contrary to orders;—&amp; <name type="person" key="Collins, John">John Collins</name> 1st for being absent without leave—    2nd for behaveing in an unbecomeing manner at the Ball last night—    3rdly for Speaking in a language last night after his return tending to bring into disrespect the orders of the Commanding officer</p>
+               <p>
+                  <hi rend="right"> Signd. <name type="person" key="Clark, William">W. Clark</name> Comdg.<lb/>
+Detail for Court martial<lb/>
+ <lb/>
+                     <name type="person" key="Ordway, John">Segt. John Ordway</name> Prs.<lb/>
+ <lb/>
+members<lb/>
+                     <name type="person" key="Field, Reubin">R. Fields</name>
+                     <lb/>
+                     <name type="person" key="Windsor, Richard">R. Windsor</name>
+                     <lb/>
+                     <name type="person" key="Whitehouse, Joseph">J. Whitehouse</name>
+                     <lb/>
+                     <name type="person" key="Potts, John">Jo. Potts</name>
+                     <lb/>
+                  </hi>
+               </p>
+               <p>
+The Court convened agreeable to orders on the 17th of May 1804 <name type="person" key="Ordway, John">Sgt. John Ordway</name> P. <hi rend="italic">members</hi>
+                  <name type="person" key="Whitehouse, Joseph">Joseph Whitehouse</name>
+                  <name type="person" key="Field, Reubin">Rueben Fields</name>
+                  <name type="person" key="Potts, John">Potts</name>
+                  <name type="person" key="Windsor, Richard">Richard Windsor</name>
+               </p>
+               <p>
+after being duly Sworn the Court proceded to the trial of <name type="person" key="Werner, William">William Warner</name> &amp; <name type="person" key="Hall, Hugh">Hugh Hall</name> on the following Charges Viz: for being absent without leave last night contrary to orders, to this Charge the Prisoners plead <hi rend="italic">Guilty.</hi> The Court one of oppinion that the Prionsers <name type="person" key="Werner, William">Warner</name> &amp; <name type="person" key="Hall, Hugh">Hall</name> are Both Guilty of being absent from camp without leave it being a breach of the Rules and articles of war and do Sentence them Each to receive twenty-five <hi rend="italic">lashes</hi> on their naked back, but the Court recommend them from their former Good conduct, to the mercy of the commanding officer.—    at the Same court was tried <name type="person" key="Collins, John">John Collins</name> Charged 1st for being absent without leave—    2d. for behaveing in an unbecomming manner at the ball last night    3dly for Speaking in a languguage after his return to camp tending to bring into disrespect the orders of the Commanding officer—    The Prisoner Pleads Guilty to the first Charge but not Guilty to the two last chrges.—    after mature deliberation &amp; agreeable to the evidence aduced. The Court are of oppinion that the Prisnair is Guilty of all the charges alledged against him it being a breach of the rules &amp; articles of War and do Sentence him to receive fifty lashes on his naked back—    The Commanding officer approves of the proceedings &amp; Desicon of the Court <hi rend="italic">martial and orders</hi> that the punishment of <name type="person" key="Collins, John">John Collins</name> take place this evening at <hi rend="italic">Sun Set</hi> in the Presence of the Party.—    The punishment ordered to be inflicted on <name type="person" key="Werner, William">William Warner</name> &amp; <name type="person" key="Hall, Hugh">Hugh Hall</name>, is remitted under the assurence arriveing from a confidence which the Commanding officer has of the Sincerity of the recommendation from the Court.—    after the punishment, <name type="person" key="Werner, William">Warner</name>
+                  <name type="person" key="Hall, Hugh">Hall</name> &amp; <name type="person" key="Collins, John">Collins</name> will return to their squads and Duty—</p>
+               <p>
+The Court is Disolved</p>
+               <p>
+                  <hi rend="right"> Sign. <name type="person" key="Clark, William">Wm. Clark</name>
+                  </hi>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-17.04" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Thursday May 17th 1804, a fair day, but Rainy night, nothing occured worthy of notice this day
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-17.05" n="">
+            <sp who="cf">
+               <speaker>Floyd</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Thursday may 17th 1804    a fair but Rainey Night
+
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-17.06" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Thursday 17th May 1804.    a pleasant morning.    we are waiting here the arival of <name type="person" key="Lewis, Meriwether">Capt. Lewis</name>.    the evening rainy.</p>
+               <p>
+Thursday May 17th    A pleasant morning.    We are still here waiting the arrival of <name type="person" key="Lewis, Meriwether">Captain Lewis</name>; in the Evening we had some Rain.—
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n04051701" n="1">Perhaps applications to join the expedition.</note>
+            <note xml:id="n04051702" n="2">Probably a mistake; the court-martial record below says that <name type="person" key="Hall, Hugh">Hall</name> and <name type="person" key="Werner, William">Werner</name> were to be granted leniency and only <name type="person" key="Collins, John">Collins</name> was to be punished. None of the enlisted men's journals mention the affair.</note>
+            <note xml:id="n04051703" n="3">The order and court-martial record in the Orderly Book, including the signatures, are in <name type="person" key="Ordway, John">Ordway's</name> hand.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-05-16" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-05-18" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

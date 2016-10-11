@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-01-21-1">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+undated, ca. January 21, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">159-164</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-01-21-1.01">
+            <placeName/>
+            <geo> </geo>
+            <note>No location. Clark's attempts to calculate the duration of the trip.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-01-05</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-01-21">undated, ca. January 21, 1804</date>
+         </head>
+         <div type="entry"
+              xml:id="lc.jrn.1804-01-21-1.01"
+              n="lc.geo.1804-01-21-1.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>[<hi rend="italic">undated, ca. January 21, 1804</hi>]<ref target="n030121-101" n="1"/>
+                  </date>
+               </ab>
+               <p>
+                  <table rows="18" cols="4">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1804</cell>
+                        <cell role="data" rows="1" cols="1">mes</cell>
+                        <cell role="data" rows="1" cols="1">months</cell>
+                        <cell role="data" rows="1" cols="1">days</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">From <hi rend="italic">
+                              <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">Dubois</name>
+                           </hi> to the
+<name type="native_nation" key="Mandan Indians">Manden Nation</name> 1500 miles at<lb/>
+10 mes. pr Day will be 150 days    Viz: May<lb/>
+June, July Augt. &amp; Sept.—</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+                           <lb/>1500 in</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+                           <lb/>  5</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+                           <lb/>  0</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">From <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">Do.</name> at 12 mes. pr. day—125 days    Viz:<lb/>
+May June July Augt. &amp; 5 days in Septr</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  4</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  5</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1[st] Winter</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">From <name type="native_nation" key="Mandan Indians">Mandens</name> to the rock mountains is 12° W.<lb/>
+at 41 mes. [<hi rend="italic">to a degree of longitude</hi>] Say 900<lb/>
+miles at 10 pr Day is 90 Days, Viz: Septr.<lb/>
+Octr. Novr. &amp; 4 Ds</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+                           <lb/>
+                           <lb/>900 in</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+                           <lb/>
+                           <lb/>  3</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+                           <lb/>
+                           <lb/>  0</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">From Same at 12 miles pr Day    65 Days    Septr.<lb/>
+Octr &amp; 19 of Novr</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  2</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>15</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">From the mountains to the Ocean in Longtd.<lb/>
+123°  W say 10° at 41 miles to a degree of<lb/>
+Longtd. add the windings 650 miles at 10<lb/>
+miles will take May June and July, [85?] Days </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+                           <lb/>
+                           <lb/>650 in</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+                           <lb/>
+                           <lb/>  3</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+                           <lb/>
+                           <lb/>  0</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">From the Same place at 12 ms. 54 days, May &amp;<lb/>
+June</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  2</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>[5?]</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">The time to the Ocean @ 10 ms per Day</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">11</cell>
+                        <cell role="data" rows="1" cols="1">0 days</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">The Time @ 12 ms. pr day</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  8</cell>
+                        <cell role="data" rows="1" cols="1">20 days</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1805</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">(Delay 15 days)</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Returning from the Ocean to the river 650 miles<lb/>
+@ 10 ms. pr Day is 65 days    Viz: 15 in<lb/>
+August, Septr. 20 in Octr.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+                           <lb/>650 m</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+                           <lb/>  2</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+                           <lb/>  5</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">do—    Viz 〈to <name type="native_nation" key="Mandan Indians">Mandens</name> 900 m〉 in 65 Days m at<lb/>
+12 m pr Day 54 Day, 15 July<lb/>
+Augt. 9 in Septr</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+                           <lb/>  1</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+                           <lb/>24</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">ditto to the <name type="native_nation" key="Mandan Indians">Mandens</name> @ 20 ms pr. Day 45 Days<lb/>
+Septr. Octr—</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>900</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  1</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>21</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">ditto @ to the mouth Nov. &amp; Dec @
+[<hi rend="italic">blank</hi>]</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">  0</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Returning to the <name type="native_nation" key="Mandan Indians">Mandan</name> @ 10 pr</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">26</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">do    do    at 12 do</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">15</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="2" cols="6">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Months<lb/>to <name type="native_nation" key="Mandan Indians">Mandens</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">Months<lb/>to mountains</cell>
+                        <cell role="data" rows="1" cols="1">Months<lb/>to ocean</cell>
+                        <cell role="data" rows="1" cols="1">Time [word illegible]<lb/>lost winter &amp;c.</cell>
+                        <cell role="data" rows="1" cols="1">Total Time</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <table rows="4" cols="1">
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1"> </cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">
+                                    <hi rend="right">at 10</hi>
+                                 </cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">
+                                    <hi rend="right">at 12</hi>
+                                 </cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">
+                                    <hi rend="right">10 or 12 miles return</hi>
+                                 </cell>
+                              </row>
+                           </table>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <table rows="4" cols="1">
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">Ds</cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">5 0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">4 5</cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">2 0</cell>
+                              </row>
+                           </table>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <table rows="4" cols="1">
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">D</cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">3   0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">2 15</cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">1 15</cell>
+                              </row>
+                           </table>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <table rows="4" cols="1">
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1"> </cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">2 0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">2 0</cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">2 5</cell>
+                              </row>
+                           </table>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <table rows="4" cols="1">
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1"> </cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">5 28</cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">5 12</cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">0   0</cell>
+                              </row>
+                           </table>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <table rows="6" cols="5">
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1"> </cell>
+                                 <cell role="data" rows="1" cols="1">month</cell>
+                                 <cell role="data" rows="1" cols="1">Day</cell>
+                                 <cell role="data" rows="1" cols="1"> </cell>
+                                 <cell role="data" rows="1" cols="1"> </cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">=</cell>
+                                 <cell role="data" rows="1" cols="1">15</cell>
+                                 <cell role="data" rows="1" cols="1">28</cell>
+                                 <cell role="data" rows="2" cols="1">}</cell>
+                                 <cell role="data" rows="2" cols="1">Total going<lb/>out<ref target="n030121-102" n="2"/>
+                                 </cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">=</cell>
+                                 <cell role="data" rows="1" cols="1">14</cell>
+                                 <cell role="data" rows="1" cols="1">  2</cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">=</cell>
+                                 <cell role="data" rows="1" cols="1">  5</cell>
+                                 <cell role="data" rows="1" cols="1">25</cell>
+                                 <cell role="data" rows="1" cols="1"> </cell>
+                                 <cell role="data" rows="1" cols="1">Total<lb/>returning<lb/>(say to Decr<lb/>1805[)]</cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">Total</cell>
+                                 <cell role="data" rows="1" cols="1">19</cell>
+                                 <cell role="data" rows="1" cols="1">27</cell>
+                                 <cell role="data" rows="1" cols="1"> </cell>
+                                 <cell role="data" rows="1" cols="1">at 12 miles<lb/>pr. Day<lb/>progression</cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">Total</cell>
+                                 <cell role="data" rows="1" cols="1">21</cell>
+                                 <cell role="data" rows="1" cols="1">23</cell>
+                                 <cell role="data" rows="1" cols="1"> </cell>
+                                 <cell role="data" rows="1" cols="1">at 10 miles<lb/>pr. Day<lb/>progression</cell>
+                              </row>
+                           </table>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="3" cols="2">
+                     <head>〈If 36 men including <name type="person" key="Drouillard, George">Drewyer</name>〉<ref target="n030121-103" n="3"/>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">〈Big boat 24〉</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">〈12〉</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">〈25〉</hi>
+                        </cell>
+                     </row>
+                  </table>
+                  <table rows="3" cols="2">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">2 of us</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1 Sevt.</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">2 Intprs=</cell>
+                        <cell role="data" rows="1" cols="1">5</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="4" cols="2">
+                     <head>If we take 37 men</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">The Boat of</cell>
+                        <cell role="data" rows="1" cols="1">  25 men</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1 Pierogue</cell>
+                        <cell role="data" rows="1" cols="1">    6</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1 do—</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">    6</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">37</hi>
+                        </cell>
+                     </row>
+                  </table>
+                  <table rows="3" cols="2">
+                     <head>If the party to consist of 30 men</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Boat of</cell>
+                        <cell role="data" rows="1" cols="1">  24 men</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1 Periogue of</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">    6</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">30</hi>
+                        </cell>
+                     </row>
+                  </table>
+                  <table rows="4" cols="2">
+                     <head>
+                        <hi rend="center">If the Party to Consist of 25 men all in the Boat of 20 ores<lb/>
+If 40 men</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Boat of</cell>
+                        <cell role="data" rows="1" cols="1">  26</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1 Perogue—</cell>
+                        <cell role="data" rows="1" cols="1">    8</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1  do—</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">    6</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">40</hi>
+                        </cell>
+                     </row>
+                  </table>
+                  <table rows="5" cols="2">
+                     <head>If 50 men</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Boat</cell>
+                        <cell role="data" rows="1" cols="1">  26 men</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1 Perog.</cell>
+                        <cell role="data" rows="1" cols="1">  10</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1    do</cell>
+                        <cell role="data" rows="1" cols="1">    7</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1    do—</cell>
+                        <cell role="data" rows="1" cols="1">    7</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">50</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>			  	 
+〈Those Numbers will Depend on the probability of an oppisition from roving Parties of Bad Indians which it is probable may be on the [R.? <hi rend="italic">blot</hi>]〉
+</p>
+               <p>
+                  <hi rend="center">
+                     <hi rend="italic">Defined the word Sense</hi>
+                     <ref target="n030121-104" n="4"/>
+                  </hi>
+               </p>
+               <p>	It is a faculty of the Soul, whereby it perceived external Objects, by means of the impressions they make on certain organs of the body. These organs are Commonly reconed 5, Viz: the Eyes, whereby we See objects; the ear, which enables us to hear sounds; the nose, by which we receive the Ideas of different smells; the Palate, by which we judge of tastes; and the Skin, which enables us to feel—the different, forms, hardness, or Softness of bodies.<ref target="n030121-105" n="5"/>
+               </p>
+               <p>
+                  <table rows="3" cols="7">
+                     <row role="data">
+                        <cell role="data" rows="3" cols="1">2 men takes up 3 feet</cell>
+                        <cell role="data" rows="3" cols="1">{</cell>
+                        <cell role="data" rows="1" cols="1">Boat 31 feet in Hol[d]</cell>
+                        <cell role="data" rows="3" cols="1">}</cell>
+                        <cell role="data" rows="1" cols="1">Inches</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">    do 14 do on Cabn.</cell>
+                        <cell role="data" rows="1" cols="1">32 Long</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">a [Bench or Bank?]</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">    do 8—4 wide</cell>
+                        <cell role="data" rows="1" cols="1">22 wide</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="4" cols="5">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">foot</cell>
+                        <cell role="data" rows="1" cols="1">In</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Lockers, must be  </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">6 wide</cell>
+                        <cell role="data" rows="3" cols="1">}</cell>
+                        <cell role="data" rows="3" cols="1">
+                           <lb/>
+                           <lb/>
+                           <lb/>156 foot of Plant @ [<hi rend="italic">word illegible, per-<lb/>
+haps a space and abbreviation for weight</hi>]<lb/>
+pr. foot is [<hi rend="italic">perhaps a space and abbrevia-<lb/>
+tion for weight</hi>]</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">do—&amp;—  </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">31 feet</cell>
+                        <cell role="data" rows="1" cols="1">Long</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">do. about—  </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">  1—</cell>
+                        <cell role="data" rows="1" cols="1">6 Deep</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="3" cols="4">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Lockers on the Cabin  </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">14—0—long</cell>
+                        <cell role="data" rows="3" cols="1">}</cell>
+                        <cell role="data" rows="3" cols="1">84 feet</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">do wide  </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">   3—0—wide</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">do</hi>        </cell>
+                        <cell role="data" rows="1" cols="1">   3—0—Deep</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <figure rend="yale">
+                     <p>Sketches of the Keelboat, ca. January 21, 1804, Field Notes, reverse of document 7
+<bibl>
+                           <orgName>Beinecke Library, Yale University</orgName>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+               <p>
+                  <table rows="2" cols="2">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Ends &amp; Divisions &amp;c. &amp;c. &amp;c.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  60</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">300</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="3" cols="2">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Calculate ¼</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">for Season[ing] &amp; wast</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  75</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">375</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="5" cols="4">
+                     <head>a Jointed Mast to let down of 32 feet long<ref target="n030121-106" n="6"/>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">[ridge] poles for an Orning
+</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">[for]ks to hold the ridge pole of 5 ½ foot abv Deck</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">[Base with an eye?] to hold the poles to stretch the Orning 3 foot</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">the Joint of the Mast &amp; hook for it to Lay in<lb/>
+T[his?] is pins to row by</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>    	as examples are necessary<ref target="n030121-107" n="7"/>
+               </p>
+               <p>
+	Supposeing the party to Consist of 2 Intptrs 4 Non Comd. officers and 21 men and the rules to be observed is Strictly such as <name type="person" key="Lewis, Meriwether">Cap. L</name> &amp; <name type="person" key="Clark, William">C</name> shall from time establish, and a violiation or Disobediance shall be Subject to Such punishment as derected by the articles of War, in like Cases and Such other punishments, as Shall be inflicted by the Sentence of a Court Martial which 〈Shall〉 are to be formed in the following manner, Viz; one Intptr or Sergt. to act as president and at least 1 n Comd. officers &amp; 5 privates members    The Court to Consist of not less then 7 members, 〈in Capital offenses and〉 at other times when Convenient one of the Capts. will preside at the Court    in that Case the Court will have an addition to their number of a presdt. 〈who will have 2 votes〉 (but in all Cases Capt L. &amp; C doe reserve to themselves the right rudcing N C officers at will of inflicting such punishment as they may thing [think] right agreeable to Law at any time which from the nature of the offence &amp; the good of the Service require it)    This Court will act agreeable to the rules and regulations of the Articles of War and Such others as may be established by the Said Cpt L. &amp; C. from time to time.
+
+ 	
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n030121-101" n="1">The following material, at right angles to the main body of writing on the page, represents <name type="person" key="Clark, William">Clark's</name> attempt to figure the amount of time necessary for the expedition. In hoping for a return by the end of 1805, he seriously underestimated the actual length of the voyage.</note>
+            <note xml:id="n030121-102" n="2">On these "totals going out" there is quite a bit of overwriting and alteration of figures.</note>
+            <note xml:id="n030121-103" n="3">In this material, upside down to the main body of writing on the page, <name type="person" key="Clark, William">Clark</name> again tries to figure the number of men needed and their assignments to the different boats. The "Big boat" is the keelboat.</note>
+            <note xml:id="n030121-104" n="4">The following paragraph begins the reverse of document 7 (printed upside down in Osgood). It appears to have been copied from some other source, perhaps as an exercise in writing by <name type="person" key="Clark, William">Clark</name>.</note>
+            <note xml:id="n030121-105" n="5">Here follow two sketches of the keelboat, which are the most important sources of information about that vessel (see fig. 7). The accompanying numbers are <name type="person" key="Clark, William">Clark's</name> calculation of the amount of lumber necessary to build lockers on the boat. Other modifications may have been carried out at <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">Camp Dubois</name> during the winter. For further information, see above, <ref n="1803-08-30" type="related">August 30, 1803</ref>, and sources cited there.</note>
+            <note xml:id="n030121-106" n="6">A key to the keelboat diagram. <name type="person" key="Clark, William">Clark</name> drew a figure of the "pins to row by" in place of numbers on the last line.</note>
+            <note xml:id="n030121-107" n="7">These words and the following paragraph are upside down on this page. In the right-hand corner written diagonally in <name type="person" key="Clark, William">Clark's</name> hand in different-colored ink from the other writing are two apparently irrelevant jottings: [17°?] 27' 15" [<hi rend="italic">and</hi>] Puberty.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-01-21" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-01-21-2" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

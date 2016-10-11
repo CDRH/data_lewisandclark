@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-08-20">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 20, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">494-496</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">41</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">29</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">58-59</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-08-20.01">
+            <placeName>Floyd River</placeName>
+            <geo>42.4847 -96.3939</geo>
+            <note>Stopped in present day Sioux City, IA, next to Floyd River. Named after Charles Floyd, who died on this day and was the only casualty of the expedition</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-02-23</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-08-20">August 20, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-08-20.01" n="lc.geo.1804-08-20.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+20th <hi rend="italic">August</hi> Monday    after gieving <name type="person" key="Farfonge">faufon</name> Some goods the Indians a Canister of whiskey, we Set out under a jentle Breeze from the S. E <name type="person" key="Shields, John">Shields</name> went with the horses—    I am Dull &amp; heavy    been up the greater Part of last night with <name type="person" key="Floyd, Charles">Serjt. Floyd</name>, who is a[s] bad as he can be to live    the [motion?] of his bowels having changed &amp;c. &amp;c. is the Cause of his violent attack &amp;c. &amp;c.</p>
+               <p>
+                  <table rows="6" cols="3">
+                     <row role="data">
+                        <cell role="desc" rows="1" cols="1">Course</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 56°  W.</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">mes. to a pt. of Willows on the Island S. S</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">  ¾</cell>
+                        <cell role="data" rows="1" cols="1">of a mile on the left of the Said Island—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 72°  E</cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                        <cell role="data" rows="1" cols="1">mes. to the upper pt. of the Island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 18°  E.</cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to the lower point of an Island on the S. S.<lb/>
+passed Some Sand bars in the river</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">3 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Bluf on the S. S. and the first above the<lb/>
+old <name type="native_nation" key="Iowa Indians">Ayauwa</name> Village on the S. S.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+we Came to [to] make a warm bath for <name type="person" key="Floyd, Charles">Sergt. Floyd</name> hopeing it would brace him a little, before we could get him in to this bath he expired, with a great deel of composure, haveing Said to me before his death that he was going away and wished me to write a letter—<ref target="n05082001" n="1"/>    we 〈took〉 Buried him to the top of a high round hill over looking the river &amp; Countrey for a great distance    Situated just below a Small river without a name to which we name &amp; call <name type="place" key="Floyd River">Floyds river</name>, the Bluffs Sergts. <name type="place" key="Floyd's Bluff">Floyds Bluff</name>—<ref target="n05082002" n="2"/>    we buried him with all the honors of War, and fixed a Ceeder post at his head with his name title &amp; Day of the month and year    <name type="person" key="Lewis, Meriwether">Capt Lewis</name> read the funeral Service over him    after paying everry respect to the Body of this desceased man (who had at All times given us proofs of his impatiality Sincurity to ourselves and good will to Serve his Countrey)    we returned to the Boat &amp; proceeded to the Mouth of the little river 30 yd. wide &amp; Camped<ref target="n05082003" n="3"/>    a butifull evening</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-20.02" n="lc.geo.1804-08-20.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>20th August Monday 1804</date>
+               </ab>
+               <p>
+                  <name type="person" key="Floyd, Charles">Sergeant Floyd</name> much weaker and no better. Made <name type="person" key="Farfonge">Mr. Fauforn</name> the interpter a fiew presents, and the Indians a Canister of whisky    we Set out under a gentle breeze from the S. E. and proceeded on verry well—    <name type="person" key="Floyd, Charles">Serjeant Floyd</name> as bad as he can be    no pulse &amp; nothing will Stay a moment on his Stomach or bowels—</p>
+               <p>
+Passed two Islands on the S. S. and at first Bluff on the S S. <name type="person" key="Floyd, Charles">Serj.' Floyd</name> Died with a great deel of Composure, before his death he Said to me, "I am going away" ["]I want you to write me a letter"—    We buried him on the top of the bluff ½ Miles below a Small river to which we Gave his name, he was buried with the Honors of War much lamented; a Seeder post with the (1) Name <name type="person" key="Floyd, Charles">Sergt. C. Floyd</name> died here 20th of August 1804 was fixed at the head of his grave—    This Man at all times gave us proofs of his firmness and Determined resolution to doe Service to his Countrey and honor to himself    after paying all the honor to our Decesed brother we Camped in the mouth of <name type="place" key="Floyd River">
+                     <hi rend="italic">floyds</hi> river</name> about 30 yards wide, a butifull evening.—</p>
+               <p>
+                  <table rows="7" cols="3">
+                     <head>
+                        <hi rend="italic">Course Dists. &amp; reffn. 20th Augt.</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 56° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">ms. to pt. of a willow Isd. S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">     ¾</cell>
+                        <cell role="data" rows="1" cols="1">Me. on the left of the Island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 72 E.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ¼</cell>
+                        <cell role="data" rows="1" cols="1">Me. to the upr. pt. of the Isd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 18 E</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to the lower pt. of an Isd. on the S. S.    passed Sand<lb/>
+bars</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">  3 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to Sjt. <name type="place" key="Floyd's Bluff">Floyds Bluff</name> on S. S.    the 1st above <name type="native_nation" key="Iowa Indians">Aiaways</name>
+                           <lb/>
+Village a fiew miles above <name type="place" key="Platte River (Nebr.)">Platt R.</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  1 %</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">To the mo: of <name type="place" key="Floyd River">Floyds River</name> on S. S. &amp; camped</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">13</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-20.03" n="lc.geo.1804-08-20.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Augt. <hi rend="italic">Monday 20th</hi>    pleasant, we Set of under a gentle Breeze from S. E.    the Indians chiefs Set out to return to their village. <name type="person" key="Floyd, Charles">Sgt. Floyd</name> worse than he was yesterday    we Sailed on verry well till noon when we came too on S. S. <name type="person" key="Floyd, Charles">Sergt. Charles Floyd</name> Expired directly after we halted a little past the middle of the day.    he was laid out in the Best Manner possable.    we proceeded on to the first hills N. S.    there we dug the Grave on a handsome Sightly Round knob close to the Bank.<ref target="n05082004" n="4"/>    we buried him with the honours of war.    the usal Serrymony performed (by <name type="person" key="Lewis, Meriwether">Capt. Lewis</name>[)] as custommary in a Settlement, we put a red ceeder post, hughn &amp; branded his name date &amp;.C—    we named those Bluffs Sergeant Charles <name type="place" key="Floyd's Bluff">Floyds Bluff</name>. Distant from the Mouth of the <name type="place" key="Missouri River">Missouri</name> 949½ miles by water, we then proceeded on a Short distance to a creek which we Call <name type="place" key="Floyd River">Floyds Creek</name>.<ref target="n05082005" n="5"/>    (came 15 or 18 mil. to day.[)]    where we Camped N. S.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-20.04" n="lc.geo.1804-08-20.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 20th.</hi>    <name type="person" key="Floyd, Charles">Sergeant Floyd</name> continued very ill. We embarked early, and proceeded, having a fair wind and fine weather, till 2 o'clock, when we landed for dinner. Here <name type="person" key="Floyd, Charles">Sergeant Floyd</name> died, notwithstanding every possible effort was made by the commanding officers, and other persons, to save his life. We went on about a mile to high prairie hills on the north side of the river, and there interred his remains in the most decent manner our circumstances would admit; we then proceeded a mile further to a small river on the same side and encamped. Our commanding officers gave it the name of <name type="place" key="Floyd River">Floyd's river</name>; to perpetuate the memory of the first man who had fallen in this important expedition.
+
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-20.05" n="lc.geo.1804-08-20.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Monday 20th    we Set out eairly this morning under a gentle breeze from the S. E.    the Indians all Set out for to return to their village, we Sailed on verry well till noon when we landed for to take Dinner.    <name type="person" key="Floyd, Charles">Sergeant Charles Floyd</name> expired directly after we landed.    he was layed out in the most decent manner possable.    we proceded on to the first hills on N. S. where we halted and dug a Grave on the top of a round knob &amp; buried the desed with the honours of war.    the funeral Serrymony performed &amp;c—    we named this hill Sgt. <name type="place" key="Floyd's Bluff">Floyd's Bluff</name>    we then proceeded on to a Creek on the Same Side which we named Sgt. <name type="place" key="Floyd River">Floyds Creek</name>.</p>
+               <p>
+Monday August 20th    We embarked early this morning with a gentle breeze from the South East, the Indians who had encamped a small distance from us, also set out to return to their Villages.    We continued sailing on very well 'till noon, when we landed to take dinner.—    shortly after one of our Serjeants <name type="person" key="Floyd, Charles">Charles Floyd</name> expired; we laid him out in the most decent manner possible.    We then proceeded on to the first hills, which lay on the North side of the River, where we halted and dug a Grave on the Top of a high round Nob; and Interred him, with all the honors of Warr.—    and had a funeral Sermon preach'd over him.    we named this Hill Serjeant <name type="place" key="Floyd's Bluff">Floyds bluff</name>.    The disease which occasion'd his death, was a Bilious cholic,<ref target="n05082006" n="6"/> which baffled all medical aid, that <name type="person" key="Lewis, Meriwether">Captain Lewis</name> could administer, We proceeded on to a Creek, lying on the same side of the River, which we named Serjeant <name type="place" key="Floyd River">Floyds Creek</name>, and encamped
+
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n05082001" n="1">The probability is that <name type="person" key="Floyd, Charles">Floyd</name> died of a ruptured appendix and consequent peritonitis. The ailment was not even recognized by medical science until twenty years after the expedition, and the first successful surgical treatment came in 1884. Probably no physician of the time could have done much more for <name type="person" key="Floyd, Charles">Floyd</name> than the captains did. A purgative like <name type="person" key="Rush, Benjamin">Rush's</name> pills, their usual remedy for digiestive disorders, could only have hastened <name type="person" key="Floyd, Charles">Floyd's</name> death, but this is probably what <name type="person" key="Rush, Benjamin">Dr. Benjamin Rush</name> himself would have prescribed if he had been present—along with bleeding, which would have accomplished nothing. The place of <name type="person" key="Floyd, Charles">Floyd's</name> death is near <name type="place" key="Sergeant Bluff, Iowa">Sergeant Bluff</name> on the <name type="place" key="Iowa">Iowa</name> side of the river, near the present town of <name type="place" key="Sergeant Bluff, Iowa">Sergeant Bluff</name>, <name type="place" key="Woodbury County, Iowa">Woodbury County</name>, <name type="place" key="Iowa">Iowa</name>. Chuinard, 238–39; Coues (HLC), 1:79–80 n. 44; <hi rend="italic">Iowa Guide,</hi> 426; <hi rend="italic">Atlas</hi> map 16; MRC map 27; MRR map 76.</note>
+            <note xml:id="n05082002" n="2">Within present <name type="place" key="Sioux City, Iowa">Sioux City</name>, <name type="place" key="Woodbury County, Iowa">Woodbury County</name>; later travelers often remarked on the site, and George Catlin painted it in 1832. By 1857 the <name type="place" key="Missouri River">Missouri</name> had undercut the bluff and the grave was opened and some of the bones lost. Citizens of <name type="place" key="Sioux City, Iowa">Sioux City</name> moved the bones to a new burial site. In 1895 the bones were again examined, and a concrete slab and a one-hundred-foot monument was erected in 1901. The <name type="place" key="Floyd River">Floyd River</name> still bears his name. Appleman, (LC), 285–87; <hi rend="italic">Atlas</hi> map 16; MRC map 27: MRR map 76.</note>
+            <note xml:id="n05082003" n="3">Just above the mouth of the <name type="place" key="Floyd River">Floyd River</name> in modern <name type="place" key="Sioux City, Iowa">Sioux City</name>, <name type="place" key="Woodbury County, Iowa">Woodbury County</name>. <hi rend="italic">Atlas</hi> map 16 has an error in this day's course that may have resulted from faulty course readings. There is an extreme curve to the northeast above the previous camp, which would sent the <name type="place" key="Missouri River">Missouri River</name> off in the direction of <name type="place" key="Minnesota">Minnesota</name>. <name type="person" key="Clark, William">Clark</name> must have realized his mistake and corrected it on the <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name> (<hi rend="italic">Atlas</hi> maps 32<hi rend="italic">a,</hi> 32<hi rend="italic">b,</hi> 32<hi rend="italic">c</hi>) and later maps. MRC map 27; MRR map 76. I am indebted to V. Strode Hinds of <name type="place" key="Sioux City, Iowa">Sioux City</name>, for pointing out this discrepancy.</note>
+            <note xml:id="n05082004" n="4">At <name type="place" key="Sioux City, Iowa">Sioux City</name>, <name type="place" key="Woodbury County, Iowa">Woodbury County</name>, <name type="place" key="Iowa">Iowa</name>; see the <ref n="introduction.v09" type="related">Introduction</ref> in volume 9.</note>
+            <note xml:id="n05082005" n="5">
+               <name type="place" key="Floyd River">Floyd River</name>, <name type="place" key="Woodbury County, Iowa">Woodbury County</name>.</note>
+            <note xml:id="n05082006" n="6">
+               <name type="person" key="Gass, Patrick">Gass</name>, on <ref n="1804-08-19" type="related">August 19</ref>, describes it as "a violent colick"; both descriptions would fit the symptoms of appendicitis that might have been observed.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-08-19" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-08-21" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-01-10">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+January 10, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">154-155</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2003-12-23</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-01-10">January 10, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-01-10.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday 10th    a fine day, the river rose 6 Inches last night, the Creek also rises &amp; Boat nearly afloat    I am verry unwell all day, owing I believe to the Ducking &amp; excessive Cold which I underwent yesterday, at 1 oClock <name type="person" key="Field, Joseph">Joseph Fields</name> returned, &amp; crossed the River between the Sheets of floating Ice with Some risque, his excuse for Staying so long on the <name type="place" key="Mississippi River">Mississippi</name>
+                  <ref target="n03011001" n="1"/> were that the Ice run so thick in the <name type="place" key="Missouri River">Missourie</name> where he was 30 miles up that there was no crossing, he Says that the people is greatly in favour of the Americans, <name type="person" key="Mackay, James">Cap. Mackey</name>
+                  <ref target="n03011002" n="2"/> has Just returned from Surveying of some lands up the <name type="place" key="Missouri River">Missouries</name>, which has been laterly granted    he says "a boutifull Countrey presents its Self on the route he went &amp; returned." Three miles to the first settlements from his place in a [West]<ref target="n03011003" n="3"/> direction. I feel unwell to day
+
+	
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n03011001" n="1">"<name type="person" key="Field, Joseph">J. Fields</name>" is written on the upper left corner of the reverse of this document, just above "<name type="place" key="Mississippi River">Mississippi</name>."</note>
+            <note xml:id="n03011002" n="2">
+               <name type="person" key="Mackay, James">James Mackay</name> was born in Scotland and came to America in about 1776; he engaged in the fur trade in <name type="place" key="Canada">Canada</name> and from there made a trip to the <name type="native_nation" key="Mandan Indians">Mandan</name> villages on the <name type="place" key="Missouri River">Missouri</name> in 1787. He came to <name type="place" key="Louisiana">Louisiana</name> about 1794 and, having sworn allegiance to the Spanish government, became manager of the Spanish-controlled <name type="place" key="Missouri">Missouri</name> Fur Company's affairs on the upper <name type="place" key="Missouri River">Missouri</name>. He set out up the <name type="place" key="Missouri">Missouri</name> in 1795 and established a post in present northeastern <name type="place" key="Nebraska">Nebraska</name>. From there he sent up the river <name type="person" key="Evans, John Thomas">John Thomas Evans</name>, who he hoped would reach <name type="place" key="Pacific Ocean">the Pacific</name>. In fact, Evans got no farther than the <name type="native_nation" key="Mandan Indians">Mandan</name> villages. <name type="person" key="Mackay, James">Mackay</name> himself explored the <name type="place" key="Niobrara (Quicurre, Rapid) River">Niobrara</name>, <name type="place" key="Loup (Wolf) River">Loup</name>, and <name type="place" key="Elkhorn River">Elkhorn river</name>s in northern and western <name type="place" key="Nebraska">Nebraska</name> and returned to <name type="place" key="Saint Louis, Mo.">St. Louis</name> in 1797. Subsequently he became a landowner, a surveyor, and an official for the local Spanish government. His advice and information on the <name type="place" key="Missouri River">Missouri River</name> country were of great value to <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>. He also seems to have furnished them copies of <name type="person" key="Evans, John Thomas">Evans's</name> maps of the Upper <name type="place" key="Missouri River">Missouri</name> (<hi rend="italic">Atlas</hi> maps 7–12, 30). For additional information, see <hi rend="italic">Atlas,</hi> 16–17. Nasatir (JM), 185-206; Williams; Nasatir (BLC), 1:351–65, 371; 2: 485–99, 514–26, passim.; Diller (JMJ).</note>
+            <note xml:id="n03011003" n="3">There is a hole in the paper here. The original word may have been "N West," referring perhaps to the settlement at the junction of <name type="place" key="Coldwater (Colewater) Creek">Coldwater Creek</name> and the <name type="place" key="Missouri River">Missouri</name>, shown in fig. 6.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-01-09" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-01-11" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

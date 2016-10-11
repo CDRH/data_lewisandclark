@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-08-01">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 1, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">433-435</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">33, 391</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">24-25</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">49</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-02-02</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-08-01">August 1, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-08-01.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">August</hi> the <hi rend="italic">1st 1804</hi>    a fair morning, Sent out two men after the horses &amp; one back to examine if the Indians have been there,<ref target="n05080101" n="1"/> [<hi rend="italic">blank</hi>] Beever Cought last night, the air is Cool and pleasing</p>
+               <p>
+                  <table rows="4" cols="6">
+                     <head>Equal altitudes &amp; magnetic Azmoth</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">azmth</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">altd.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">Time</cell>
+                        <cell role="data" rows="1" cols="1">      m     s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h.     m     s.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Comp. N. 86° E. </cell>
+                        <cell role="data" rows="1" cols="1">68° 47' 15"</cell>
+                        <cell role="data" rows="1" cols="1">= A. M.</cell>
+                        <cell role="data" rows="1" cols="1">7    52    55</cell>
+                        <cell role="data" rows="1" cols="1">P.M.</cell>
+                        <cell role="data" rows="1" cols="1">3    50    42</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    54    20</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    52      3</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    55    47</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    53    31</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+Prepared the Pipe of Peace verry flashey.    wind rose at 10 oClock and blowed from W. S. W.    very pleasent all day    Several men geathering grapes &amp;c.    two men after the horses which Strayed the night before last.    those Praries produce the Blue Current Common in the U. S.    the Goose Berry Common in the U. S, two Kind of Honeysuckle, the Bush which I have Seen in <name type="place" key="Kentucky">Kentucky</name>, with a paile Pink flower, also one which grow in Clusters about 4 or 5 feet high bearing a Short flour in clusters of the like Colour.    the leaves Single.<ref target="n05080102" n="2"/>    3 Deer &amp; an Elk Killed to day. This being my birth day I order'd a Saddle of fat Vennison, an Elk fleece &amp; a Bevertail to be cooked and a Desert of Cheries, Plumbs, Raspberries Currents and grapes of a Supr. quallity.<ref target="n05080103" n="3"/>    The Indians not yet arrived.    a Cool fine eveninge    Musquetors verry troublesom, the Praries Contain Cheres, Apple, Grapes, Currents, Rasp burry, Gooseberris Hastlenuts and a great Variety of Plants &amp; flours not Common to the U S. What a field for a Botents [botanist] and a natirless [naturalist]</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-01.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+August the 1st 1804    a fair morning    Despatched two men after the horses lost yesterday, one man back to the place from which the messinger was Sent for the <name type="native_nation" key="Oto Indians">Ottoes</name> to See if any Indians was or had been there Since our deptr.    he return'd and informed that no person had been there Sence we left it. The Prarie which is Situated below our Camp is above the high water leavel and rich Covered with Grass from 5 to 8 feet high intersperced with Copse of Hazel, Plumbs, Currents (like those of the U.S.) Rasberries &amp; Grapes of Dift. Kinds.    also produceing a Variety of Plants and flowers not Common in the United States, two Kind of <hi rend="italic">honey Suckle</hi> one which grows to a kind of Srub. Common about <name type="place" key="Harrodsburg, Ky.">Harrods burgh in <name type="place" key="Kentucky">Kentucky</name>
+                  </name>
+                  <ref target="n05080104" n="4"/>    the other are not So large or tall and bears a flow[er] in Clusters Short and of a light Pink Colour, the leaves differ from any of the othe Kind in as much as the Lieves are Distinkd &amp; does not Surround the Stalk as all the other Kind does<ref target="n05080105" n="5"/>
+               </p>
+               <p>
+one Elk and three Deer Killed to day also two Beever Cought</p>
+               <p>
+The wind rose at 10 oClock from the W. S. W. and blew a Steedy and agreeable Breeze all Day.</p>
+               <p>
+The Musqutors verry troublesom this evening in the bottoms.</p>
+               <p>
+Took equal altitudes to day and the azmuth with the Commencement of the A. M.</p>
+               <p>
+                  <table rows="4" cols="6">
+                     <head>Time of alt'd</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h    m    s</cell>
+                        <cell role="data" rows="1" cols="1">     </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h    m    s</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 86°E</cell>
+                        <cell role="data" rows="1" cols="1">A M</cell>
+                        <cell role="data" rows="1" cols="1">7    52    55</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">P M</cell>
+                        <cell role="data" rows="1" cols="1">3    50    42</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">7    54    20</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">" </cell>
+                        <cell role="data" rows="1" cols="1">3    52      3</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">7    55    47</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">3    53    31</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>             
+The Altitude given 68° 47' 15"</p>
+               <p>
+The Indians not yet arrived    we fear Something amiss with our Messinger or them.</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-01.03" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday August 1st</hi>
+                     <ref target="n05080106" n="6"/>
+                  </date>
+               </ab>
+               <p>
+Observed meridian Altd. of <seg n="u9737">☉</seg>'s L. L. with Octant by the back observtn.    51° 29' 30" </p>
+               <p>
+Observed Equal Altitudes of the <seg n="u9737">☉</seg> with Sextant.</p>
+               <p>
+                  <table rows="4" cols="5">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h      m      s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h    m    s</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">A. M.</cell>
+                        <cell role="data" rows="1" cols="1">7    52    55</cell>
+                        <cell role="data" rows="1" cols="1">     </cell>
+                        <cell role="data" rows="1" cols="1">P. M.</cell>
+                        <cell role="data" rows="1" cols="1">3    50    42</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    54    20</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    52	     3</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    55    47</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    53    31</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="6" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Altitude given by Sextant at the time of this observation</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">68°    47'    15"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <seg n="u9737">☉</seg>'s Magnetic azimuth by Circumferenter</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">N. 86° E.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h       m       s</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Time by Chronometer</cell>
+                        <cell role="data" rows="1" cols="1">A. M.</cell>
+                        <cell role="data" rows="1" cols="1">7       52     55</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Altitude by Sextant of <seg n="u9737">☉</seg>'s U.L.</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">68°    47'    15"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Latitude of place deduced from two<lb/>
+observtns. of <seg n="u9737">☉</seg>'s Merdn. altd. being as<lb/>
+mean of the same</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+                           <lb/>
+41°    17'    0.2" </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-01.04" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">August 1st 1804</hi> Wednesday.    a fair morning.    2 men out hunting    the Horses not found.    1 large bever caught last night in <name type="person" key="Drouillard, George">G. Drewyers</name> trap. <name type="person" key="Drouillard, George">Drewyer</name> went to hunt for the Horses. <name type="person" key="Shields, John">Shields</name> went out a short time and killed &amp; brought in a Deer; the wind from S. E. <name type="person" key="Field, Joseph">Jo. Fields</name> killed &amp; brought in a Deer. <name type="person" key="Gibson, George">George Gibson</name> killed a fat Buck brought in the Skin &amp; Tallow &amp; Some of the meat &amp;C.—</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-01.05" n="">
+            <sp who="cf">
+               <speaker>Floyd</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+		
+Wendesday august 1th 1804    Lay by all this day expecting the Indianes every ouer    Sent <name type="person" key="Drouillard, George">George Draugher</name> out to Hunt ouer Horses    Sent one man<ref target="n05080107" n="7"/> Down the River to whare we eat Diner on the 28th of July to See if aney Indianes 〈were〉 Had been thare    He Returnd and Saw no Sigen of them
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-01.06" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 1st Aug.</hi> 1804.    Three of our men again went out to hunt the horses, but returned without them. They brought a deer, and two of our other hunters<ref target="n05080108" n="8"/> killed two more.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-01.07" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wendy August 1st    the Morning was Clear    <name type="person" key="Drouillard, George">G. Druire</name> &amp; <name type="person" key="Colter, John">Colter</name> went to look for the horses that was lost on the 30th of last month; <name type="person" key="Gibson, George">G. Gibson</name> was Sent back One Days Journey to See if the Indians came there with <name type="person" key="La Liberté">Liberty</name> that was Sent for them to come to a Treaty with <name type="person" key="Lewis, Meriwether">Captn. Lewis</name> &amp; <name type="person" key="Clark, William">Wm. Clark</name> at the <name type="place" key="Council Bluff (Nebr.)">Camp of the Brareowes</name>—<ref target="n05080109" n="9"/>    Shields Kill One Deer    <name type="person" key="Gibson, George">Gibson</name> returnd but did not see liberty or the Indians there</p>
+               <p>
+Wednesday August 1st    This morning was clear, we remain'd still at our encampment; the Captains sent two of our hunters out, in Order to hunt for the two horses that was lost; and one Man who was to proceed one days Journey back, in order to see if the <name type="native_nation" key="Oto Indians">Zoto</name> Indians, had come with the frenchman Liberty, in Order to hold a treaty with them.—    We named this place, the <name type="place" key="Council Bluff (Nebr.)">Camp of Brareowes</name> the name of the unknown animal that we had brought to us by our Hunters.—</p>
+               <p>
+Two of our hunters returned, with one deer they had kill'd, but had not seen <name type="person" key="La Liberté">Liberty</name> or the <name type="native_nation" key="Oto Indians">Zoto</name> Indians on their route.—
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n05080101" n="1">
+               <name type="person" key="Whitehouse, Joseph">Whitehouse</name> records that <name type="person" key="Drouillard, George">Drouillard</name> and <name type="person" key="Colter, John">Colter</name> went after the horses, while <name type="person" key="Gibson, George">Gibson</name> went to look for the <name type="native_nation" key="Oto Indians">Otos</name> and a <name type="person" key="La Liberté">La Liberté</name>.</note>
+            <note xml:id="n05080102" n="2">The Blue Current is <hi rend="italic">Ribes americanum</hi> Mill., wild black currant, which has an eastern United States distribution as <name type="person" key="Clark, William">Clark</name> mentions. Fernald, 751; Barkley, 134. The two kinds of "honeysuckle" are not true honeysuckle species, since no native <hi rend="italic">Lonicera</hi> fits the description here. They are likely <hi rend="italic">Symphoricarpos occidentalis</hi> Hook., wolfberry, western snowberry, which was new to <name type="person" key="Clark, William">Clark</name>, and <hi rend="italic">S. orbiculatus</hi> Moench, coralberry, Indian-currant, buckbrush, with which <name type="person" key="Clark, William">Clark</name> was familiar in <name type="place" key="Kentucky">Kentucky</name>. Fernald, 1336; Barkley, 328–29.</note>
+            <note xml:id="n05080103" n="3">
+               <name type="person" key="Clark, William">Clark</name> interlined this entire sentence later. It was his thirty-fourth birthday.</note>
+            <note xml:id="n05080104" n="4">
+               <name type="place" key="Harrodsburg, Ky.">Harrodsburg</name>, in <name type="place" key="Mercer County, Ky.">Mercer County</name> in central <name type="place" key="Kentucky">Kentucky</name>, was named for <name type="person" key="Harrod, James">James Harrod</name>, an early settler. Stewart (APN), 198.</note>
+            <note xml:id="n05080105" n="5">
+               <name type="person" key="Biddle, Nicholas">Biddle</name> apparently has drawn a red line through the passage beginning "also producing" to here.</note>
+            <note xml:id="n05080106" n="6">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> observation from Codex O.</note>
+            <note xml:id="n05080107" n="7">
+               <name type="person" key="Gibson, George">Gibson</name>, according to <name type="person" key="Whitehouse, Joseph">Whitehouse</name>.</note>
+            <note xml:id="n05080108" n="8">According to <name type="person" key="Ordway, John">Ordway's</name> journal, <name type="person" key="Shields, John">Shields</name>, <name type="person" key="Field, Joseph">Joseph Field</name>, and <name type="person" key="Gibson, George">George Gibson</name> brought in 
+deer, but only <name type="person" key="Drouillard, George">Drouillard</name> was out looking for the horses. <name type="person" key="Whitehouse, Joseph">Whitehouse</name> has <name type="person" key="Drouillard, George">Drouillard</name> and  
+<name type="person" key="Colter, John">John Colter</name> looking for horses and <name type="person" key="Gibson, George">Gibson</name> looking for the <name type="native_nation" key="Oto Indians">Otos</name> and <name type="person" key="La Liberté">La Liberté</name>. <name type="person" key="Clark, William">Clark</name> does not 
+name any of the men.</note>
+            <note xml:id="n05080109" n="9">
+               <name type="person" key="Whitehouse, Joseph">Whitehouse</name>, along with <name type="person" key="Ordway, John">Ordway</name>, uses this name for the <name type="place" key="Council Bluff (Nebr.)">Council Bluff camp</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-07-31-1" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-08-02" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

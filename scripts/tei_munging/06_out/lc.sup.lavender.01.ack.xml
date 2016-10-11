@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.sup.lavender.01.ack">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Way to the Western Sea</title>
+            <title type="sub">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> across the Continent</title>
+            <title type="sub" level="a">Acknowledgments</title>
+            <author>David Lavender</author>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2005</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title level="m" type="main">The Way to the Western Sea</title>
+               <title level="m" type="sub">Acknowledgements</title>
+               <author>David Lavender</author>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>2001</date>
+               <idno type="ISBN">0-8032-8003-3</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Supplements</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Texts</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2005-11-09</date>
+            <date>2005-04-20</date>
+            <name>Becky Potter</name>
+            <name>Laura Weakly</name>Split into chapters Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="ack" type="intro">
+            <p>
+In one way or another, the following people, listed alphabetically, contributed significantly to making this book work: Christian Brun, Department of Special Collections, University of California at Santa Barbara; Cort Conley, boatman and outdoorsman of Cambridge, Idaho; Sherm and Claire Ewing, ranchers and fliers of Great Falls, Montana; Howard Foulger, now of St. George, Itah, with whom, when he was a U.S. Forest Ranger, I tramped over much of western Montana; Eugene Gressley, American Heritage Center, University of Wyoming, Laramie, Wyoming; Curtis Johnson of Fort Clatsop National Memorial, Oregon; Mildred Lavender; Denise Miller, librarian, Thacher School, Ojai, California; and Marcia Staigmiller of the Lewis and Clark Trail Heritage Foundation, Inc., Great Falls, Montana, chapter.
+</p>
+         </div>
+      </body>
+      <back>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="lc.lavender.01.00" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="lc.lavender.01.00" type="contents"/>
+               </item>
+               <item>
+                  <ptr n="lc.lavender.01" type="entire"/>
+               </item>
+               <item>
+                  <ptr n="lc.lavender.01.01" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-06-20">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+June 20, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">310-312</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">15, 382</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">15</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">27</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-06-20.01">
+            <placeName/>
+            <geo>39.145 -93.965</geo>
+            <note>Hard to say exactly where they camped for the night, it was near present day Wellington. MO</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-01-15</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-06-20">June 20, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-06-20.01" n="lc.geo.1804-06-20.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">June 20th Wednesday</hi> 1804    Set out after a heavy Showr of rain and proceeded on the Same Course of yesterday S. 83° W. 3 ms.    passed Some Sand Isds. in the bend to L. S.    bad water    a large creek on the S. S. called <name type="place" key="Crooked (Panther, Tiger) River">Tiger Creek</name>,<ref target="n04062001" n="1"/> a willow and a large Isd.<ref target="n04062002" n="2"/> above S. S.,</p>
+               <p>
+                  <table rows="5" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 42° W.</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">m alg L. S.    wind S. W. hard, Some high land on L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 46° W</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">ms. to P: L. S.  psd. the head of the Isd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 50° W,</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">me. pt. L. S. opsd. an Isd. and large Butifull Prarie called<lb/>
+                           <name type="place" key="Sauke Prairie">Sauke Prarie</name>, pass hard water, Saw <hi rend="italic">Pilicans</hi> on a Sand bar</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 70 W</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">along L. S.    passd. Isd. ¾ Me.  Swift water, one remark-<lb/>
+able circumstance in the water of this River is a free use of it<lb/>
+will create prespreation, the Swet run off our men in a<lb/>
+Stream when th[ey] row hard, <name type="person" key="York">York</name> verry near loseing his<lb/>
+Eyes by one of the men throwing Sand at him in fun &amp;<lb/>
+recved into his eyes—    passed Some bad water.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 25° W</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">me. pt. on the S. Side, we came to at ½ a me. on the lower<lb/>
+point of a Willow Isd S. S. in View of a Sand bar on both<lb/>
+sides of the Isd. over which the water riffleed and roered<lb/>
+like a great fall, We took Some Luner observations of the<lb/>
+moon &amp; Stars    Set up untill one oClock    the Musquetors<lb/>
+verry troublesome    our flank Guard or Hunters [<name type="person" key="Shields, John">Shields</name>
+                           <lb/>
+and <name type="person" key="Collins, John">Collins</name>] have not been with us for two nights, We saw<lb/>
+them to day at the Mouth of the <name type="place" key="Crooked (Panther, Tiger) River">Tiger R</name>, the lands on the<lb/>
+L S. is very fine &amp; well timbered near the river and appears<lb/>
+equally good on the other side but not so high<ref target="n04062003" n="3"/>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-20.02" n="lc.geo.1804-06-20.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">June 20th, Wednesday</hi>
+                  </date>
+               </ab>
+               <p>
+Set out after a heavy Shower of rain and proceeded on the Same Course of last night    passed a large butifull Prarie on the S. S. opposit a large Island, Calld <name type="place" key="Sauke Prairie">Saukee Prarie</name>, a gentle breese from the S. W. Some butiful high lands on the L. S.    passed Som verry Swift water to day, I saw <hi rend="italic">Pelicans</hi> to day on a Sand bar, <name type="person" key="York">my servant</name>
+                  <name type="person" key="York">York</name> nearly loseing an eye by a man throwing Sand into it, we came too at the lower Point of a Small Island,<ref target="n04062004" n="4"/> the party on Shore we have not Seen Since we passed <name type="place" key="Crooked (Panther, Tiger) River">Tiger R</name>—    The Land appeard verry good in each Side of the River to day and well timbered, we took Some Loner [lunar] observations, which detained us untill 1 oClock    a butifull night but the air exceedingly Damp, &amp; the mosquiters verry troublesom</p>
+               <p/>
+               <p>
+                  <table rows="6" cols="3">
+                     <head>
+                        <hi rend="italic">Course and Deistances June 20th</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 42° W.</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">me. along L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 46° W</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">me. to pt. S. S.    psd. an Isd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 51° W</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to pt. L. S. opsd. Isd &amp; <name type="place" key="Sauke Prairie">Sauckee Prairie</name> on S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 70° W</cell>
+                        <cell role="data" rows="1" cols="1">¾</cell>
+                        <cell role="data" rows="1" cols="1">me. along L. S.    water bad</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 25° W</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">1 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. S. S.    psd. Isd &amp; bad Sand
+</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">6 ¾</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-20.03" n="lc.geo.1804-06-20.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>(<hi rend="italic">Point of Observation No. 10.</hi>)<lb/>
+Wednesday June 20th<ref target="n04062005" n="5"/>
+                  </date>
+               </ab>
+               <p>
+On a small Island about one mile &amp; ¾ below <name type="place" key="Sni (Euebaux's, Eue-bert's, Eubert's) River">Euebaux's Creek</name> .—    Observed time and distance of <seg n="u9789">☽</seg> from Spica <seg n="u9805">♍</seg>
+                  <seg n="u9733">★</seg> West.—</p>
+               <p>
+                  <table rows="3" cols="7">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">
+                              <hi rend="italic">Time</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">
+                              <hi rend="italic">Distance</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">h</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">m</cell>
+                        <cell role="data" rows="1" cols="1">s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">P. M.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">10</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">59</cell>
+                        <cell role="data" rows="1" cols="1">40.3</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">46°</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">17'</cell>
+                        <cell role="data" rows="1" cols="1">25"</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>        
+This is the mean of a set of six observations.</p>
+               <p>
+Magnetic azimuth of Pole star by Circumferenter well adjusted with spert. levl. [spirit level] N. 7° 55 W
+</p>
+               <p>
+                  <table rows="2" cols="5">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h</cell>
+                        <cell role="data" rows="1" cols="1">m</cell>
+                        <cell role="data" rows="1" cols="1">s</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Time by Chronometer</cell>
+                        <cell role="data" rows="1" cols="1">P.M.</cell>
+                        <cell role="data" rows="1" cols="1">12</cell>
+                        <cell role="data" rows="1" cols="1">49</cell>
+                        <cell role="data" rows="1" cols="1">46.6</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>    	
+T[h]is is the mean of a set of six observations suffering several minutes to elaps between each.—
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-20.04" n="lc.geo.1804-06-20.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday June 20th 1804, we Set out at 5 oC and after some rain    passed <name type="place" key="Crooked (Panther, Tiger) River">Tiger Creek</name>
+                  <ref target="n04062006" n="6"/> on the N. Side    passed Some high land on the South Side.    we passed a large Beutiful prarie called <name type="place" key="Sauke Prairie">Sauke prarie</name>, we had verry hard water all this day.    we passed Some high land on the South Side, Saw Some Crabb apple Trees<ref target="n04062007" n="7"/> on the bank &amp;C.<ref target="n04062008" n="8"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-20.05" n="lc.geo.1804-06-20.01">
+            <sp who="cf">
+               <speaker>Floyd</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wensday June</hi> 20th 1804    Set out 〈as yousel late〉    Clouday day Rain, Srong 〈late〉 water    past Several Isd. Came 12 miles    ouer Hunters Did not Return Last night    encamped on an Isd in the middel of the River
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-20.06" n="lc.geo.1804-06-20.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 20th.</hi>    At five in the morning we continued our voyage, passed <name type="place" key="Crooked (Panther, Tiger) River">Tiger creek</name>, a large creek that flows in from the north, and encamped on an island. The land along here is good on both sides of the river.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-20.07" n="lc.geo.1804-06-20.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wendy 20th    Rain came on as we was a goeing to start in the morning    Shortly after Got fair    the hunters<ref target="n04062009" n="9"/> Came to the bank of the River.    the[y] Killd. a bear brought the Skin    left the Meat as it was poor    the Currant was Strong    towd Our boat Untill we Came to the head of the Strong watter Island whare the watter run So Rappid that the men of the french Peirouge Could not make headway by Roeing Or poleing    the[y] had to jumpd. out and push her through the water    Incampd On the point of and Islanand Calld. <name type="place" key="Wolf Island">Strong water point</name>    Roed. 12 Miles</p>
+               <p>
+Wednesday June 20th    This morning as we were preparing to start a Rain came on which detained us, for some time, in about an hour the weather got clear, and our hunters who had crossed the River, early this morning came to the opposite bank of the River having killed a bear, but it proving very poor they brought only the Skin with them, the Meat being unfit for use, we started having our boat to tow, the current of the River being so strong that we found it impossible either to Row or pole her.    We proceeded on 'till we came to the head of <name type="place" key="Wolf Island">strong Water Island</name>, where the River ran so strong, that the Canadians who were in a Pettiauger could make no headway either by Rowing or poling, but were forced to jump into the River and push her through the water, We encamped on the point of an Island called <name type="place" key="Wolf Island">strong Water point</name>.    We towed our boat 12 Miles this day.
+
+
+	
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n04062001" n="1">Apparently <name type="place" key="Crooked (Panther, Tiger) River">Crooked River</name>, in <name type="place" key="Ray County, Mo.">Ray County</name>, <name type="place" key="Missouri">Missouri</name>. In Codex A <name type="person" key="Clark, William">Clark</name> indicates that they passed this stream on <ref n="1804-06-19" type="related">June 19</ref>, though it is not in his courses and distances for that day. <name type="person" key="Gass, Patrick">Gass</name> and <name type="person" key="Ordway, John">Ordway</name> both say the expedition passed <name type="place" key="Crooked (Panther, Tiger) River">Tiger River</name> on the twentieth, while <name type="person" key="Biddle, Nicholas">Biddle's</name>
+               <hi rend="italic">History</hi> places the event on the nineteenth, presumably following Codex A. Evidently the June 19 camp was near the mouth of that stream on the opposite side, either above or below, wherever the mouth was in 1804. MRC map 12, made about 1890, shows what may be an old channel of <name type="place" key="Crooked (Panther, Tiger) River">Crooked River</name>, but the two mouths were not far apart. It seems most probable that they camped on the nineteenth just beyond <name type="place" key="Sheep Nose Point">Sheep Nose Point</name>, with the mouth of <name type="place" key="Crooked (Panther, Tiger) River">Crooked River</name> in sight, and passed the stream early the next morning. Coues (HLC), 1:27–28 and nn. 60, 61; Osgood (FN), 59 n. 8.</note>
+            <note xml:id="n04062002" n="2">
+               <name type="person" key="Clark, William">Clark</name> interlined "and a large Isd." and indicated its insertion here. Obviously they passed a willow island and a large island, the latter perhaps the later <name type="place" key="Lexington Island">Lexington Island</name>. Osgood (FN), 234; MRC map 12.</note>
+            <note xml:id="n04062003" n="3">Some figures written diagonally at the bottom of this entry appear to be "270 W."</note>
+            <note xml:id="n04062004" n="4">Perhaps later <name type="place" key="Wolf Island">Wolf Island</name>, a few miles below present <name type="place" key="Wellington, Mo.">Wellington</name>, <name type="place" key="Lafayette County, Mo.">Lafayette County</name>, <name type="place" key="Missouri">Missouri</name>. MRC map 13.</note>
+            <note xml:id="n04062005" n="5">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> observation from Codex O. The creek is apparently present <name type="place" key="Sni (Euebaux's, Eue-bert's, Eubert's) River">Sniabar River</name>, near <name type="place" key="Wellington, Mo.">Wellington</name>, <name type="place" key="Lafayette County, Mo.">Lafayette County</name>, <name type="place" key="Missouri">Missouri</name>. See entry for <ref n="1804-06-21" type="related">June 21</ref>.</note>
+            <note xml:id="n04062006" n="6">Apparently <name type="place" key="Crooked (Panther, Tiger) River">Crooked River</name>, <name type="place" key="Ray County, Mo.">Ray County</name>, <name type="place" key="Missouri">Missouri</name>. <name type="person" key="Clark, William">Clark</name> indicates that the party passed this stream on <ref n="1804-06-19" type="related">June 19</ref>; see his entry for this day for a discussion of this matter.</note>
+            <note xml:id="n04062007" n="7">Mentioned only by <name type="person" key="Ordway, John">Ordway</name> this day, it is probably wild crab, <hi rend="italic">Pyrus ioensis</hi> (Wood) Bailey.</note>
+            <note xml:id="n04062008" n="8">The camp was apparently on <name type="place" key="Wolf Island">Wolf Island</name>, below <name type="place" key="Wellington, Mo.">Wellington</name>, <name type="place" key="Lafayette County, Mo.">Lafayette County</name>, <name type="place" key="Missouri">Missouri</name>.</note>
+            <note xml:id="n04062009" n="9">Apparently <name type="person" key="Shields, John">John Shields</name> and <name type="person" key="Collins, John">John Collins</name>, but <name type="person" key="Clark, William">Clark</name> says only that they had not joined the party for two nights and were spotted on shore. Nobody else mentions these hunters on this date.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-06-19" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-06-21" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

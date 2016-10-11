@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-08-23">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 23, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">148-157</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">209</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">131-132</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">282-283</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-08-23.01">
+            <placeName/>
+            <geo>44.3667 -113.2833</geo>
+            <note>Clark camped in a different location from the rest of the group. Camped at Squaw Creek, Lemhi County, ID.</note>
+         </geoDecl>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-08-23.02">
+            <placeName/>
+            <geo>45.3333 -114.03333</geo>
+            <note>The group was near the mouth of Dump Creek, Lemhi County, ID</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-06-08</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-08-23">August 23, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-08-23.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Friday August 23rd 1805.</hi>
+                     <ref target="n21082301" n="1"/>
+                  </date>
+               </ab>
+               <p>
+This morning I arrose very early and despatched two hunters on horseback with orders to extend their hunt to a greater distance up the S. E. fork than they had done heretofore, in order if possible to obtain some meet for ourselves as well as the Indians who appeared to depend on us for food and our store of provision is growing too low to indulge them with much more corn or flour. I wished to have set out this morning but the cheif requested that I would wait untill another party of his nation arrived which he expected today, to this I consented from necessity, and therefore sent out the hunters as I have mentioned. I also laid up the canoes this morning in a pond near the forks; sunk them in the water and weighted them down with stone, after taking out the plugs of the gage holes in their bottoms; hoping by his means to guard against both the effects of high water, and that of the fire which is frequently kindled in these plains by the natives.    the Indians have promised to do them no intentional injury and beleive they are too lazy at any rate to give themselves the trouble to raise them from their present situation in order to cut or birn them. I reminded the chief of the low state of our stores of provision and advised him to send his young men to hunt, which he immediately recommended to them and most of them turned out. I wished to have purchased some more horses of them but they objected against disposing of any more of them untill we reach their camp beyond the mountains.    the Indians pursued a mule buck near our camp I saw this chase for about 4 miles it was really entertaining, here were about twelve of them in pursuit of it on horseback, they finally rode it down and killed it.    the all came in about 1 P. M. having killed 2 mule deer and three goats.    this mule buck was the largest deer of any kind I had ever seen. it was nearly as large as a doe Elk. I observed that there was but little division or distribution of the meat they had taken among themselves.    some families had a large stock and others none.    this is not customary among the nations of Indians with whom I have hitherto been acquainted    I asked <name type="person" key="Cameahwait">Cameahwait</name> the reason why the hunters did not divide the meat among themselves; he said that meat was so scarce with them that the men who killed it reserved it for themselves and their own families.    my hunters arrived about 2 in the evening with two mule deer and three common deer. I distributed three of the deer among those families who appeared to have nothing to eat.    at three P. M. the expected party of Indians arrived, about 50 men women and Children. I now learnt that most of them were thus far on their way down the valley towards the buffaloe country, and observed that there was a good deel of anxiety on the part of some of those who had promised to assist me over the mountains to accompany this party, I felt some uneasiness on this subject but as they still said they would return with me as they had promised I said nothing to them but resolved to set out in the morning as early as possible. I dispatched two hunters this evening into the cove to hunt and leave the meat they might kill on the rout we shall pass tomorrow.</p>
+               <p>
+The metal which we found in possession of these people consited of a few indifferent knives, a few brass kettles some arm bands of iron and brass, a few buttons, woarn as ornaments in their hair, a spear or two of a foot in length and some iron and brass arrow points which they informed me they obtained in exchange for horses from the <name type="native_nation" key="Crow Indians">Crow</name> or Rocky Mountain Indians on the <name type="place" key="Yellowstone River">yellowstone River</name>.    the bridlebits and stirrips they obtained from the Spaniards, tho' these were but few.    many of them made use of flint for knives, and with this instrument, skined the animals they killed, dressed their fish and made their arrows; in short they used it for every purpose to which the knife is applyed.    this flint is of no regular form, and if they can only obtain a part of it, an inch or two in length that will cut they are satisfyed, they renew the edge by fleaking off the flint by means of the point of an Elk's or deer's horn.    with the point of a deer or Elk's horn they also form their arrow points of the flint, with a quickness and neatness that is really astonishing.    we found no axes nor hatchets among them; what wood they cut was done either with stone or Elk's horn.    the latter they use always to rive or split their wood.    their culinary eutensils exclusive of the brass kettle before mentioned consist of pots in the form of a jar made either of earth, or of a white soft stone which becomes black and very hard by birning, and is found in the hills near the three forks of the <name type="place" key="Missouri River">Missouri</name> betwen <name type="place" key="Madison River (Middle Fork)">Madison's</name> and <name type="place" key="Gallatin (South, Southeast Fork) River">Gallitin's rivers</name>.<ref target="n21082302" n="2"/>    they have also spoons made of the Buffaloe's horn and those of the Bighorn. Their bows are made of ceader or pine and have nothing remarkable about them.    the back of the bow is covered with sinues and glue and is about 2½ feet long.    much the shape of those used by the <name type="native_nation" key="Sioux Indians">Siouxs</name>
+                  <name type="native_nation" key="Mandan Indians">Mandans</name>
+                  <name type="native_nation" key="Hidatsa Indians">Minnetares</name> &amp;c.    their arrows are more slender generally than those used by the nations just mentioned but much the same in construction. Their Sheild is formed of buffaloe hide, perfectly arrow proof, and is a circle of 2 feet 4 I. or 2 F. 6 I. in diameter.    this is frequently painted with varios figures and ornamented around the edges with feather and a fringe of dressed leather.    they sometimes make bows of the Elk's horn and those also of the bighorn.    those of the Elk's horn are made of a single peice and covered on the back with glue and sinues like those made of wood, and are frequently ornamented with a stran wrought porcupine quills and sinues raped around them for some distance at both extremities.    the bows of the bighorn are formed of small peices laid flat and cemented with gleue, and rolled with sinews, after which, they are also covered on the back with sinews and glew, and highly ornamented as they are much prized.    forming the sheild is a cerimony of great importance among them, this implement would in their minds be devested of much of its protecting power were it not inspired with those virtues by their old men and jugglers.    their method of preparing it is thus, an entire skin of a bull buffaloe two years old is first provided; a feast is next prepared and all the warriors old men and jugglers invited to partake.    a hole is sunk in the ground about the same in diameter with the intended sheild and about 18 inches deep.    a parcel of stones are now made red hot and thrown into the hole    water is next thrown in and the hot stones cause it to emit a very strong hot steem, over this they spread the green skin which must not have been suffered to dry after taken off the beast.    the flesh side is laid next to the groround and as many of the workmen as can reach it take hold on it's edges and extend it in every direction.    as the skin becomes heated, the hair seperates and is taken of with the fingers, and the skin continues to contract untill the whoe is drawn within the compas designed for the shield, it is then taken off and laid on a parchment hide where they pound it with their heels when barefoot.    his operation of pounding continues for several days or as long as the feast lasts when it is delivered to the propryeter and declared by the jugglers and old men to be a sufficient defence against the arrows of their enimies or even bullets if feast has been a satisfactory one.    many of them beleive implisitly that a ball cannot penitrate their sheilds, in consequence of certain supernaural powers with which they have been inspired by their jugglers.—    The Poggamoggon is an instrument with a handle of wood covered with dressed leather about the size of a whip handle and 22 inches long; a round stone of 2 pounds weight is also covered with leather and strongly united to the leather of the handle by a throng of 2 inches long; a loop of leather united to the handle passes arond the wrist.    a very heavy blow may be given with this instrument.<ref target="n21082303" n="3"/> They have also a kind of armor which they form with many foalds of dressed Atelope's skin, unite with glue and sand.    with this they cover their own bodies and those of their horses.    these are sufficient against the effects of the arrow.—    the quiver which contains their arrows and implements for making fire is formed of various skins.  that of the Otter seems to be prefered.    they are but narrow, of a length sufficent to protect the arrow from the weather, and are woarn on the back by means of a strap which passes over the left sholder and under the wright arm.— their impliments for making fire is nothing more than a blunt arrow and a peice of well seasoned soft spongey wood such as the willow or cottonwood.    the point of this arrow they apply to this dry stick so near one edge of it that the particles of wood which are seperated from it by the friction of the arrow falls down by it's side in a little pile.    the arrow is held between the palms of the hand with the fingers extended, and being pressed as much as possible against the peice is briskly rolled between the palms of the hands backwards and forwards by pressing the arrow downwards the hands of course in rolling arrow also decend; they bring them back with a quick motion and repeat the operation till the dust by the friction takes fire; the peice and arrow are then removed and some dry grass or doated wood is added.    it astonished me to see in what little time these people would kindle fire in this way.    in less than a minute they will produce fire.</p>
+               <p>
+                  <name type="person" key="Clark, William">Capt. Clark</name> set out this morning very early and poroceeded but slowly in consequence of the difficulty of his road which lay along the steep side of a mountain over large irregular and broken masses of rocks which had tumbled from the upper part of the mountain.    it was with much wrisk and pain that the horses could get on.    at the distance of four miles he arrived at the river and the rocks were here so steep and juted into the river such manner that there was no other alternative but passing through the river, this he attempted with success tho' water was so deep for a short distance as to swim the horses and was very rapid; he continued his rout one mile along the edge of the river under this steep Clift to a little bottom,<ref target="n21082304" n="4"/> below which the whole current of the river beat against the Stard. shore on which he was, and which was formed of a solid rock perfectly inaccessible to horses.    here also the little track which he had been pursuing, terminated.    he therefore determined to leave the horses and the majority of the party here<ref target="n21082305" n="5"/> and with his guide and three men to continue his rout down the river still further, in order more fully to satisfy himself as to it's practicability.    accordingly he directed the men to hunt and fish at this place untill his return.    they had not killed anything today but one goose, and the ballance of the little provision they had brought with them, as well as the five salmon they had procured yesterday were consumed last evening; there was of cours no inducement for his halting any time, at this place; after a few minutes he continued his rout clambering over immence rocks and along the sides of lofty precepices on the border of the river to the distance of 12 miles, at which place a large creek discharged itself on the North side 12 yds. wide and deep.<ref target="n21082306" n="6"/>    a short distance above the entrance of this creek there is a narrow bottom which is the first that he had found on the river from that in which he left the horses and party.    a plain indian road led up this creek which the guide informed him led to a large river that ran to the North, and was frequented by another nation who occasionally visited this river for the purpose of taking fish.    at this place he saw some late appearance of Indians having been encamped and the tracks of a number of horses. <name type="person" key="Clark, William">Capt. C.</name> halted here about 2 hours, caught some small fish, on which, the addition of some berries, they dined.    the river from the place at which he left the party to his present station was one continued rapid, in which there were five shoals neither of which could be passed with loaded canoes nor even run with empty ones.    at those several places therefore it would be necessary to unload and transport the baggage for a considerable distance over steep and almost inacassable rocks where there was no possibility of employing horses for the releif of the men; the canoes would next have to be let down by cords and even with this precaution <name type="person" key="Clark, William">Capt. C.</name> conceived there would be much wriske of both canoes and men.    at one of those shoals the lofty perpendicular rocks which from the bases of the mountains approach the river so nearly on each side, as to prevent the possibility of a portage, or passage for the canoes without expending much labour in removing rocks and cuting away the earth in some places.    to surmount These difficulties, precautions must be observed which in their execution must necessarily consume much time and provision, neither of which we can command.    the season is now far advanced to remain in these mountains as the Indians inform us we shall shortly have snow; the salmon have so far declined that they are themselves haistening from the country and not an animal of any discription is to be seen in this difficult part of the river larger than a pheasant or a squirrel and they not abundant; add to this that our stock of provision is now so low that it would not support us more than ten days.    the bends of the river are short and the currant beats from side to side against the rocks with great violence.    the river is about 100 yds. wide and so deep that it cannot be foarded but in a few places, and the rocks approach the river so near in most places that there is no possibility of passing between them and the water; a passage herefore with horses along the river is also impracticable. The sides of these mountains present generally one barren surface of confused and broken masses of stone.    above these are white or brown and towards the base of a grey colour and so hard that when struck with a steel, yeald fire like flint.<ref target="n21082307" n="7"/>    those he had just past were scarcely releived by the appearance of a tree; but those below the entrance of the creek were better covered with timber, and there were also some tall pine near the river. The sides of the mountains are very steep, and the torrents of water which roll down their sides at certain seasons appear to carry with them vast quantities of the loose stone into the river.    after dinner <name type="person" key="Clark, William">Capt. C.</name> continued his rout down the river and at ½ a mile pased another creek<ref target="n21082308" n="8"/> not so large as that just mentioned, or about 5 yards wide.    here his guide informed him that by ascending this creek some distance they would have a better road and would cut off a considerable bend which the river made to the south; accordingly he pursued a well beaten Indian track which led up this creek about six miles, then leaving the creek on the wright he passed over a ridge, and at the distance of a mile arrived at the river where it passes through a well timbered bottom of about eighty acres of land; they passed this bottom and asscended a steep and elivated point of a mountain,<ref target="n21082309" n="9"/> from whence the guide shewed him the brake of the river through the mountains for about 20 miles further.    this view was terminated by one of the most lofty mountains, <name type="person" key="Clark, William">Capt. C.</name> informed me, he had ever seen which was perfectly covered with snow.    the river directed it's course immediately to this stupendous mountain at the bace of which the gude informe him those difficulties of which himself and nation had spoken, commenced.    that after the river reached this mountain it continued it's rout to the North for many miles between high and perpendicular rocks, roling foaming and beating against innumerable rocks which crouded it's channel; that then it penetrated the mountain through a narrow gap leaving a perpendicular rock on either side as high as the top of the mountain which he beheld.    that the river here making a bend they could not see through the mountain, and as it was impossible to decend the river or clamber over that vast mountain covered with eternal snow, neither himself nor any of his nation had ever been lower in this direction, than in view of the place at which the river entered this mountain; that if <name type="person" key="Clark, William">Capt. C.</name> wished him to do so, he would conduct him to that place, where he thought they could probably arrive by the next evening. <name type="person" key="Clark, William">Capt. C.</name> being now perfictly satisfyed as to the impractability of this rout either by land or water, informed the old man, that he was convinced of the varacity of his assertions and would now return to the village from whence they had set out where he expected to meet myself and party.    they now returned to the upper part of the last creek he had passed, and encamped.<ref target="n21082310" n="10"/>    it was an hour after dark before he reached this place.    a small river falls into this fork of the <name type="place" key="Columbia River">Columbia</name> just above the high mountain through which it passes on the south side.<ref target="n21082311" n="11"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-23.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">August 23rd Friday 1805</hi>
+                     <ref target="n21082312" n="12"/>
+                  </date>
+               </ab>
+               <p>
+We Set out early    proceed on with great dificuelty as the rocks were So Sharp large and unsettled and the hill sides Steep that the horses could with the greatest risque and dificulty get on, no provisions as the 5 Sammons given us yesterday by the Indians were eaten last night, one goose killed this morning; at 4 miles we came to a place the horses Could not pass without going into the river, we passed one mile to a verry bad riffle the water Confined in a narrow Channel &amp; beeting against the left Shore, as we have no parth further and the Mounts. jut So close as to prevent the possibiley of horses proceeding down, I deturmined to delay the party here and with my guide and three men proceed on down to examine if the river continued bad or was practiable. I Set out with three men directing those left to hunt and fish until my return. I proceeded on Somtims in a Small wolf parth &amp; at other time Climeing over the rocks for 12 miles to a large Creek on the right Side    above the mouth of this Creek for a Short distance is a narrow bottom &amp; the first, below the place I left my partey, a road passes down this Creek which I understoode passed to the water of a River which run to Th North &amp; was the ground of another nation, Some fresh Sign about This Creek of horse and Camps. I delayd 2 hours to fish, Cought Some Small fish on which we dined.</p>
+               <p>
+The River from the place I left my party to this Creek is almost one continued rapid, five verry Considerable rapids the passage of either with Canoes is entirely impossable, as the water is Confined betwen hugh Rocks &amp; the Current beeting from one against another for Some distance below &amp;c. &amp;c.    at one of those rapids the mountains Close So Clost as to prevent a possibility of a portage with great labour in Cutting down the Side of the hill removeing large rocks &amp;c. &amp;c.    all the others may be passed by takeing every thing over Slipery rocks, and the Smaller ones Passed by letting down the Canoes empty with Cords, as running them would certainly be productive of the loss of Some Canoes, those dificuelties and necessary precautions would delay us an emince time in which provisions would be necessary.    (we have but little and nothing to be precured in this quarter except Choke Cheres &amp; red haws not an animal of any kind to be seen and only the track of a Bear)    below this Creek the lofty Pine is thick in the bottom hill Sides on the mountains &amp; up the runs. The river has much the resemblance of that above bends Shorter and no passing, after a few miles between the river &amp; the mountains &amp; the Current So Strong that is dangerous crossing the river, and to proceed down it would rendr it necessarey to Cross almost at every bend This river is about 100 yads wide and can be forded but in a few places. below my guide and maney other Indians tell me that the Mountains Close and is a perpendicular Clift on each Side, and Continues for a great distance and that the water runs with great violence from one rock to the other on each Side foaming &amp; roreing thro rocks in every direction, So as to render the passage of any thing impossible. [<hi rend="italic">X: Game</hi>]    those rapids which I had Seen he said was Small &amp; trifleing in comparrison to the rocks &amp; rapids below, at no great distance &amp; The Hills or mountains were not like those I had Seen but like the Side of a tree Streight up—    Those Mountains which I had passed were Steep Contain a white, a brown, &amp; low down a Grey hard stone which would make fire, those Stone were of different Sises all Sharp and are continuly Slipping down, and in maney places one bed of those Stones inclined from the river bottom to the top of the mountains, The Torrents of water which come down aftr a rain carries with it emence numbers of those Stone into the river<ref target="n21082313" n="13"/>    about ½ a mile below the last mentioned Creek another Creek falls in, my guide informed me that our rout was up this Creek by which rout we would Save a considerable bend of the river to the South.    we proceeded on a well beeten Indian parth up this Creak [<hi rend="italic">NB?: <name type="place" key="Indian (Berry) Creek (Idaho)">Berry Creek</name>
+                  </hi>] about 6 miles and passed over a ridge 1 mile to the river in a Small vally through which we passed and assended a Spur of the Mountain from which place my guide Shew me the river for about 20 [<hi rend="italic">WC?: many</hi>] miles lower &amp; pointed out the dificulty we returned to the last Creek &amp; camped about one hour after dark.</p>
+               <p>
+There my guide Shewed me a road from the N Which Came into the one I was in which he Said went to a large river which run to the north on which was a Nation he called <name type="native_nation" key="Flathead Indians">Tushapass</name>,<ref target="n21082314" n="14"/> he made a map of it
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-23.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 23rd August 1805</hi>.    a clear pleasant morning.    2 of the hunters out a hunting.    the natives do not incline to part with any more of their horses untill they cross the mountains, but will carry our baggage over for us. Several of the natives went out with their horses a hunting    we took all
+the canoes in to a pond on the North Side of the River and Sank them in the water So as they may be Safe at our return.    the natives who went a hunting returned.    drove a deer with them near the Camp and rode it down So that
+they killed it with their bow and arrows, in that way they caught &amp; killd. 5 or 6 this day.    one of them a verry large black taild Deer.    they have no other way to kill their game but to run them down with their horses and tire them So that they can kill them.    about 3 oClock P. M. another party of the Snake nation arived here about 40 of them on horse back.    we expect to Set out to cross the mountain tomorrow. So we Sent 2 men on a head to kill Some meat if possable.    towards evening our hunter returned.    had killed 2 large deer and three Small ones<ref target="n21082315" n="15"/> and brought them all to Camp on the horse.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-23.04" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 23rd.</hi>    We proceeded down the river through dreadful narrows, where the rocks were in some places breast high, and no path or trail of any kind. This morning we killed a goose, and badly wounded a large buck in 
+the water. One of our sergeants<ref target="n21082316" n="16"/> is very unwell. We went on 3 miles, when <name type="person" key="Clark, William">Captain Clarke</name> did not think proper to proceed further with the horses, until he should go forward and examine the pass. So we halted on a small flatt<ref target="n21082317" n="17"/> and breakfasted on some fish the natives had given us. <name type="person" key="Clark, William">Captain Clarke</name>, <name type="person" key="Old Toby">our guide</name>, and three men then went on. Another Indian who had come on from the last Indian camp remained with us. We had yet seen no timber large enough to make canoes. Two of the hunters went in search of the buck, which had been wounded; and the rest staid at the camp to fish. In the afternoon the men came in from hunting the wounded deer, but could not find him. They killed three prairie hens, or pheasants.<ref target="n21082318" n="18"/> At night the sergeant who had been sick, became better. We caught some small fish in the night. The natives take their fish by spearing them; their spears for this purpose are poles with bones fixed to the ends of them, with which they strike the fish. They have but four guns in the nation, and catch goats and some other animals by running them down with horses. The dresses of the women are a kind of shifts made of the skins of these goats and mountain sheep, which come down to the middle of the leg. Some of them have robes, but others none. Some of the men have shirts and some are without any. Some also have robes made of beaver and buffaloe skins; but there are few of the former. I saw one made of ground hog skins.<ref target="n21082319" n="19"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-23.05" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 23rd August 1805</hi>.    a clear pleasant morning.    2 men Sent out a 
+hunting.    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> Commences trading with the natives for more horses, but they do not incline to part with any more horses untill they git over the mountains, but will carry all our baggage over for us.    Several of the natives went out with horses to hunt.    they rode after the Deer &amp; chased Some in site of our Camp and ran them down So that they killed 4 or 5 of them.    this day, we halled all the canoes out in a Small pond on the North Side of the River and Sunk them in the water, So as they may be Safe for us at our return.    about 4 oClock P. m. their came another party of the <name type="native_nation" key="Shoshone Indians">Snake</name> Indians on horseback, about 40 in nomber.    they appear the Same as the others did.    we expect to Set out tomorrow to cross the mountain    2 hunters Sent on a head to kill Some meat if possable for us by the time we come up with them.    our hunter returned in the evening had killed 2 large Deer and three Small Deer and brought them all to Camp on the horse</p>
+               <p>
+Friday August 23rd    A Clear pleasant morning, 2 of our Men were sent out a hunting, <name type="person" key="Lewis, Meriwether">Captain Lewis</name> commenced trading with the last party of Indians for some of their horses, but they seemed not inclined to part with 〈any more of their horses〉 any of them, untill they got over the Mountains, but agreed to carry our baggage, over the Mountains, for us on them 〈for us〉.—</p>
+               <p>
+The Indians that came last to our Camp, went out a hunting on horse back, They drove a Gang of deer in sight of our Camp, ran Some them down with their horses &amp; killed 5 of them.    We hawled up our Canoes into a small pond lying on the North side of the River, &amp; sunk them, that they may be safe on our return.    About 4 oClock P. M. another party of the <name type="native_nation" key="Shoshone Indians">Snake</name> Indians arrived at our Camp on horse back, they 〈are〉 were about 40 in number; they appear to be much the same as those who arrived with us Yesterday—    We expect to set out tomorrow, in order to cross the mountains.    <name type="person" key="Lewis, Meriwether">Captain Lewis</name> sent on 2 hunters a head in order to kill some Meat for us if possible, by the time we come up with them.    Our hunters returned in the evening, &amp; had killed 2 large deer &amp; 3 Small ones which they brought to our Camp on their horses.—
+
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n21082301" n="1">Here begins <name type="person" key="Lewis, Meriwether">Lewis's</name> fragmentary Codex Fb, containing entries August 23–26, 1805, and consisting of twenty-six pages torn from one of the red notebooks. See <ref n="v02.appendix.c" type="related">Appendix C</ref>.</note>
+            <note xml:id="n21082302" n="2">The soft, white stone is either a marly, freshwater, Tertiary limestone that is abundantly exposed in the cliffs of the <name type="place" key="Madison Plateau">Madison Plateau</name> just east of the <name type="place" key="Madison River (Middle Fork)">Madison River</name>, southeast of the <name type="place" key="Missouri River, Three Forks of the">Three Forks of the Missouri</name>, or else it is a volcanic tuff, also of Tertiary age.</note>
+            <note xml:id="n21082303" n="3">A fairly widespread type of weapon; as <name type="person" key="Lewis, Meriwether">Lewis</name> notes above, on <ref n="1805-08-19" type="related">August 19, 1805</ref>, the word is <name type="native_nation" key="Chippewa Indians">Chippewa</name> (<hi rend="italic">bgamaagan,</hi> "cudgel, club"). Hodge, 1:313, 2:271–72; Rhodes, 40.</note>
+            <note xml:id="n21082304" n="4">On <hi rend="italic">Atlas</hi> map 67 the spot is marked "left the horses &amp; 8 men 2 days." The location is perhaps near the mouth of either <name type="place" key="Dump Creek">Dump Creek</name> or <name type="place" key="Moose Creek (Lemhi County, Idaho) (August 23, 1805)">Moose (otherwise Little Moose) Creek</name>, in <name type="place" key="Lemhi County, Idaho">Lemhi County</name>, <name type="place" key="Idaho">Idaho</name>. Peebles (RW), 9.</note>
+            <note xml:id="n21082305" n="5">One of the eight men left was <name type="person" key="Gass, Patrick">Sergeant Gass</name>. <name type="person" key="Gass, Patrick">Gass</name> notes this day that one of the sergeants, presumably with this group, was ill; since <name type="person" key="Ordway, John">Ordway</name> was with <name type="person" key="Lewis, Meriwether">Lewis</name>, the sick man must have been <name type="person" key="Pryor, Nathaniel Hale">Pryor</name>, perhaps suffering another of his repeated dislocations of the shoulder, and thus left behind.</note>
+            <note xml:id="n21082306" n="6">
+               <name type="place" key="Indian (Berry) Creek (Idaho)">Berry Creek</name> on <hi rend="italic">Atlas</hi> maps 67, 68; probably present <name type="place" key="Indian (Berry) Creek (Idaho)">Indian Creek</name> in <name type="place" key="Lemhi County, Idaho">Lemhi County</name>. Ibid.</note>
+            <note xml:id="n21082307" n="7">The rock forming the walls of the canyon here is granite of the Cretaceous-age Idaho batholith. The colors result from slight variations in mineral composition, weathering or vegetation. The quartz and feldspar in the granite are harder than steel.</note>
+            <note xml:id="n21082308" n="8">
+               <name type="place" key="Squaw Creek (Idaho)">Squaw Creek</name>, unnamed on <hi rend="italic">Atlas</hi> maps 67, 68. Ibid., 10.</note>
+            <note xml:id="n21082309" n="9">
+               <name type="person" key="Clark, William">Clark</name> was evidently three miles above present <name type="place" key="Shoup, Idaho">Shoup</name>, <name type="place" key="Lemhi County, Idaho">Lemhi County</name>. In looking down <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">the Salmon</name> he could see some of the most rugged and difficult country in the <name type="place" key="Rocky Mountains">Rockies</name>; much of this region of central <name type="place" key="Idaho">Idaho</name> is still primitive and roadless today. Ibid.; <hi rend="italic">Atlas</hi> map 67.</note>
+            <note xml:id="n21082310" n="10">
+               <name type="person" key="Clark, William">Clark</name> camped on <name type="place" key="Squaw Creek (Idaho)">Squaw Creek</name>, in <name type="place" key="Lemhi County, Idaho">Lemhi County</name>, probably near the mouth of<name type="place" key=" Papoose Creek"> Papoose Creek</name>, which flows into the former. Peebles (RW), 10; <hi rend="italic">Atlas</hi> map 67.</note>
+            <note xml:id="n21082311" n="11">Evidently present <name type="place" key="Panther Creek">Panther Creek</name>, a few miles below present <name type="place" key="Shoup, Idaho">Shoup</name>, <name type="place" key="Lemhi County, Idaho">Lemhi County.</name>
+               <hi rend="italic">Atlas</hi> map 67.</note>
+            <note xml:id="n21082312" n="12">Beside the date <name type="person" key="Clark, William">Clark</name> has written "See Supplement anexed," probably a reference to Codex Fb; see n. 1, above.</note>
+            <note xml:id="n21082313" n="13">The remainder of the entry in Codex G was apparently added later; it is in a smaller hand and runs over into the beginning of the next day's entry. The first part is by <name type="person" key="Clark, William">Clark</name>. The next paragraph in red ink, appears also to be <name type="person" key="Clark, William">Clark's</name> writing.</note>
+            <note xml:id="n21082314" n="14">The <name type="native_nation" key="Flathead Indians">Flatheads</name>; see below, <ref n="1805-09-04" type="related">September 4, 1805</ref>.</note>
+            <note xml:id="n21082315" n="15">Presumably the large deer are mule deer, while the small ones are western white-tailed 
+deer, <hi rend="italic">Odocoileus virginianus dacotensis</hi>.</note>
+            <note xml:id="n21082316" n="16">This must be <name type="person" key="Pryor, Nathaniel Hale">Pryor</name>, since <name type="person" key="Ordway, John">Ordway</name> was with <name type="person" key="Lewis, Meriwether">Lewis's</name> party.</note>
+            <note xml:id="n21082317" n="17">On the <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Salmon River</name>, <name type="place" key="Lemhi County, Idaho">Lemhi County</name>, <name type="place" key="Idaho">Idaho</name>, perhaps near the mouth of <name type="place" key="Dump Creek">Dump Creek</name> 
+or of <name type="place" key="Moose Creek (Lemhi County, Idaho) (August 23, 1805)">Moose (otherwise Little Moose) Creek</name>. Here <name type="person" key="Gass, Patrick">Gass</name> was left with the horses and seven 
+other men, including the ailing <name type="person" key="Pryor, Nathaniel Hale">Pryor</name>.</note>
+            <note xml:id="n21082318" n="18">Perhaps sage grouse, <hi rend="italic">Centrocercus urophasianus.</hi>
+            </note>
+            <note xml:id="n21082319" n="19">Probably the yellow-bellied marmot, <hi rend="italic">Marmota flaviventris,</hi> which <name type="person" key="Lewis, Meriwether">Lewis</name> called a "monax" when he saw robes of its skin on <ref n="1805-08-20" type="related">August 20, 1805</ref>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-08-22" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-08-24" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

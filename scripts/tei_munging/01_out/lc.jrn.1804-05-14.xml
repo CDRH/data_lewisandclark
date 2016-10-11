@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-05-14">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+May 14, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">215-226</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-05-14.01">
+            <placeName/>
+            <geo>38.83 -90.2211</geo>
+            <note>Near Coldwater Creek, MO, on Missouri River</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-01-07</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-05-14">May 14, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-05-14.01" n="lc.geo.1804-05-14.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+	Monday 14th<ref target="n03051401" n="1"/>    a Cloudy morning    fixing for a Start     Some provisions on examination is found to be wet    rain at 9 oClock    many of the neighbours Came from the Countrey mail and freemail    rained the greater part of the day, I set out at 4 oClock to the head of the first Island<ref target="n03051402" n="2"/> in the <name type="place" key="Missouri River">Missouri</name> 6 Miles and incamped, on the Island    rained.    I refur to the Comsmt. [commencement] of my Journal No 1.<ref target="n03051403" n="3"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-14.02" n="lc.geo.1804-05-14.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>[<hi rend="italic">undated, ca. May 14, 1804</hi>]</date>
+               </ab>
+               <p>
+                  <table rows="21" cols="4">
+                     <head>
+                        <hi rend="center">
+                           <hi rend="italic">A Memorandum of Articles in readiness for the Voyage</hi>
+                           <ref target="n03051404" n="4"/>
+                        </hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">w</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Viz:</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">14</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">Bags of Parchmeal of 2 bus: each about</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">1200</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">9</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">do    Common Do    do    do</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">800</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">11</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">do     Corn Hulled do     do</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">1000</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <table rows="2" cols="1">
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">
+                                    <hi rend="right">30</hi>
+                                 </cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">
+                                    <hi rend="right">3</hi>
+                                 </cell>
+                              </row>
+                           </table>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <table rows="2" cols="3">
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">half Barrels of flour</cell>
+                                 <cell role="data" rows="2" cols="1">}</cell>
+                                 <cell role="data" rows="2" cols="1">(Gross 3900 w) do</cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">Bags of       do </cell>
+                              </row>
+                           </table>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <table rows="1" cols="1">
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">
+                                    <lb/>
+                                    <hi rend="right">3400</hi>
+                                 </cell>
+                              </row>
+                           </table>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <table rows="2" cols="1">
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">
+                                    <hi rend="right">7</hi>
+                                 </cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">
+                                    <hi rend="right">4</hi>
+                                 </cell>
+                              </row>
+                           </table>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <table rows="2" cols="3">
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">do     of Biscuit</cell>
+                                 <cell role="data" rows="2" cols="1">}</cell>
+                                 <cell role="data" rows="2" cols="1">(Gross 650 w) do</cell>
+                              </row>
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">Barrels    do</cell>
+                              </row>
+                           </table>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <table rows="1" cols="1">
+                              <row role="data">
+                                 <cell role="data" rows="1" cols="1">
+                                    <lb/>
+                                    <hi rend="right">560</hi>
+                                 </cell>
+                              </row>
+                           </table>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">7</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">Barrels of Salt of 2 bus: each " (870) do</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">750</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">50</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">Kegs of Pork  (gross 4500) do</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">3705</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">2</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">Boxes of Candles 70 lb and about 50 lb<lb/>
+(one of which has 50 lb of soap [)] do</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">  <lb/>
+170</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">1</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">Bag of Candle-wick do</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">8</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">1</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">do     Coffee</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">50</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">1</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">do     Beens &amp; 1 of Pees</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">100</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">2</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">do     Sugar do</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">112</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">1</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">Keg of Hogs Lard do</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">100</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">4</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">Barrels of Corn hulled (650) do</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">600</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">1</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">do of meal (170) do</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">150</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">600</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">lb Grees</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">50</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">bushels meal</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">24</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">do Natchies Corn Huled</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">21</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">Bales of Indian goods</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Tools of every Description &amp; &amp;.</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi rend="center">
+                     <hi rend="italic">Our party</hi>
+                  </hi>
+               </p>
+               <p>
+2 Capts. 4 Sergeants, 3 Intptrs., 22 Amns. 9 or 10 French, &amp; <name type="person" key="York">York</name> also 1 Corpl. &amp; Six in a perogue with 40 Days provisions for the party as far as the provisions last
+
+	
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-14.03" n="lc.geo.1804-05-14.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>[<hi rend="italic">undated, ca. May 1804</hi>]<ref target="n03051405" n="5"/>
+                  </date>
+               </ab>
+               <p>
+Capts. <name type="person" key="Lewis, Meriwether">Lewis</name> &amp; <name type="person" key="Clark, William">Clark</name> wintered at the enterance of a Small river opposit the Mouth of <name type="place" key="Missouri River">Missouri</name> Called <name type="place" key="Dubois River">Wood River</name>, where they formed their party, Composed of robust 〈Young Backwoodsmen of Character〉 helthy hardy young men, recomended.</p>
+               <p>
+The Country about the Mouth of <name type="place" key="Missouri River">Missouri</name> is pleasent rich and partially Settled. On the East Side of the <name type="place" key="Mississippi River">Mississippi</name> a leavel rich bottom extends back about 3 miles, and rises by Several elevations to the high Country, which is thinly timbered with Oake &amp;. On the lower Side of the <name type="place" key="Missouri River">Missouri</name>, at about 2 miles back the Country rises graduilly, to a high plesent thinly timberd Country, the lands are generally fine on the River bottoms and well Calculating for farming on the upper Country.</p>
+               <p>
+in the point the Bottom is extensive and emencly rich for 15 or 20 miles up each river, and about ⅔ of which is open leavel plains in which the inhabtents of <name type="place" key="Saint Charles, Mo.">St. Charles</name> &amp; <name type="place" key="Portage des Sioux">potage de Scioux</name> had ther crops of corn &amp; wheat.    on the upland is a fine farming country partially timbered for Some distance back.
+
+	
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-14.04" n="lc.geo.1804-05-14.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>[<hi rend="italic">undated</hi>]<ref target="n03051406" n="6"/>
+                  </date>
+               </ab>
+               <p>
+Information of <name type="person" key="Hay, John">Mr. John Hay</name>—commencing at the discharge of the <name type="place" key="Ottertail Lake">Ottertail Lake</name>, which forms the source of the <name type="place" key="Red River of the North">Red River</name>, to his winter station on the <name type="place" key="Assiniboine River">Assinneboin River</name>—</p>
+               <p>
+                  <table rows="29" cols="2">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">From <name type="place" key="Ottertail Lake">Ottertail Lake</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Leagues</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">To the <name type="place" key="Sugar (Shugar) Rapid">Shugar rappid</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">18 —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Buffalo River">Buffaloe River</name>—N. Side</cell>
+                        <cell role="data" rows="1" cols="1">10 —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Commencement of <name type="place" key="Shaved Prairie">shaved prarie</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">  9 —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Expiration of    Do.    do.<lb/>
+(Tho' on a streight line not thought more than <hi rend="italic">6 leagues</hi>)</cell>
+                        <cell role="data" rows="1" cols="1">18 —
+</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Stinking Bird River">Stinking bird river</name>, South side<lb/>
+(heads with river <name type="place" key="Minnesota River (St. Peters)">St. Peters</name>)</cell>
+                        <cell role="data" rows="1" cols="1">60 —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Sheyenne (Chien, Shayen, Shaha) River">Shayen or Shaha</name> South side</cell>
+                        <cell role="data" rows="1" cols="1">14 —<ref target="n03051407" n="7"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="River au Boeuf (Minn.)">River au Bouf</name> North side</cell>
+                        <cell role="data" rows="1" cols="1">  4 —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Tree River">Tree River</name> South side</cell>
+                        <cell role="data" rows="1" cols="1">10 —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Wild Oats River">Wild oates river</name> N. Side</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Goose River">Goose river</name> South side</cell>
+                        <cell role="data" rows="1" cols="1">  7 —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Pond River">Pond River</name> S. side</cell>
+                        <cell role="data" rows="1" cols="1">    ⅓</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Sand Hill River">Sand Hill river</name>—not certain but b[e]lieved<lb/>
+to be on the South side</cell>
+                        <cell role="data" rows="1" cols="1">  <lb/>
+  5<ref target="n03051408" n="8"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">To the <name type="place" key="Grand Fork River">grand fork</name> or <hi rend="italic">
+                              <name type="place" key="Red Lake River">Red Lake River</name>
+                           </hi> N. Side</cell>
+                        <cell role="data" rows="1" cols="1">20 —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Turtle River">Turtle river</name> S. Side</cell>
+                        <cell role="data" rows="1" cols="1">  3 —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Dirty Water River">Dirty water river</name> S. side</cell>
+                        <cell role="data" rows="1" cols="1">  3 —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Salt Water River">Salt water river</name> N. side at the head of<lb/>
+this river is a salt spring</cell>
+                        <cell role="data" rows="1" cols="1">  <lb/>
+18 —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Pierced Wood River">Pierced wood river</name> N. S.</cell>
+                        <cell role="data" rows="1" cols="1">12 —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Pembina (Pembenar) River">Pembenar river</name> N. S.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">To a wintering establishment of the<lb/>
+N. W. Company on the S. side</cell>
+                        <cell role="data" rows="1" cols="1">  <lb/>
+  8 —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Pemmican River">Paemicon river</name> S. side</cell>
+                        <cell role="data" rows="1" cols="1">  3 —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Reaume's Fort">Mr. Reaum〈e〉's Fort</name> S. side 1792</cell>
+                        <cell role="data" rows="1" cols="1">    ⅓</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Pond River">Pond river</name> S side</cell>
+                        <cell role="data" rows="1" cols="1">14 —</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Cocklebur River">Kuckould burr</name> river S. side</cell>
+                        <cell role="data" rows="1" cols="1">  3 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Rat River">Rat river</name> N side</cell>
+                        <cell role="data" rows="1" cols="1">  7</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Assiniboine River">Assinniboin</name> N side</cell>
+                        <cell role="data" rows="1" cols="1">16 ½<ref target="n03051409" n="9"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Dead River">Dead river</name> S. side</cell>
+                        <cell role="data" rows="1" cols="1">  8</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Lake Winnipeg">Lake Winnepique</name>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">10</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">From the mouth of the <name type="place" key="Assiniboine River">Assinaboin</name> up the<lb/>
+same to the mouth of <name type="place" key="Souris (Mouse) River">Mouse River</name> S side</cell>
+                        <cell role="data" rows="1" cols="1">  <lb/>
+139 ½</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+Notes— [(]1) the general course of the <name type="place" key="Red River of the North">red River</name> from <name type="place" key="Leaf River">Leaf river</name> to the mouth of the <name type="place" key="Assiniboine River">assinnaboin</name> is due West</p>
+               <p>
+(2ed) the <name type="place" key="Pembina (Pembenar) River">River Pembenar</name> heads in three large lakes bearing as it proceds upwards towards the <name type="place" key="Assiniboine River">Assinnaboin</name>—    the first lake three leagues in length and 1 in width—    the <name type="place" key="Killdeer (Turtle) Mountains">turtle mountain</name> bearing S W. distnt. 7 leagues—    the second smaller lying N N W. not very distant from the former  the third and last [lake] large and extending within a few miles of the mouth of <name type="place" key="Souris (Mouse) River">Mouse river</name> branch of the <name type="place" key="Assiniboine River">Assinnaboin</name>—</p>
+               <p>
+(3) Salt is made in sundry places on the <name type="place" key="Red River of the North">Red river</name> (to [w]it) just below the mouth of river <name type="place" key="Pembina (Pembenar) River">Pembenar</name> on the S. side. head of salt river, also on the South side of the <name type="place" key="Red River of the North">red river</name> a little way below the dirty water river—
+
+	
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-14.05" n="lc.geo.1804-05-14.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>[<hi rend="italic">undated</hi>]</date>
+               </ab>
+               <p>
+                  <hi rend="center">
+                     <hi rend="italic">Memorandoms Misscellanious</hi>
+                     <ref target="n03051410" n="10"/>
+                  </hi>
+               </p>
+               <p>
+                  <name type="person" key="Le Baume, Louis">Mr. Labaum</name>
+                  <ref target="n03051411" n="11"/> informs that a <name type="person" key="Tabeau, Pierre-Antoine">Mr. <hi rend="italic">Teboux</hi>
+                  </name> who is at present with <name type="person" key="Loisel, Régis">Louasell</name>
+                  <ref target="n03051412" n="12"/> up the <name type="place" key="Missouri River">Missouri</name> can give us much information in relation to that country.—
+
+	
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-14.06" n="lc.geo.1804-05-14.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>[<hi rend="italic">undated</hi>]<ref target="n03051413" n="13"/>
+                  </date>
+               </ab>
+               <p>
+The <name type="native_nation" key="Kickapoo Indians">Kickapoo</name> calls a certain water plant<ref target="n03051414" n="14"/> with a large Circular floating leaf found in the ponds and marshes in the neighbourhood of <name type="place" key="Kaskaskia, Ill.">Kaskaskias</name> &amp; <name type="place" key="Cahokia, Ill.">Cahokia</name>—<hi rend="italic">Po-kish'-a-co-mah</hi>, of the root of this plant the Indians prepare an agreable dish, the root when taken in it's green state is from 8 to 14 inches in circumpherence    is dryed by being exposed to the sun and air or at other times with a slow fire or smoke of the chimnies, it shrinks much in drying—    The root of this plant grows in a horrizontal direction near the surface of the rich loam or mud which forms the bottoms of their ponds or morasses, generall three, sometimes four or more of these roots are attatced together by a small root or string of hearder substance of a foot or six inches in length, the root of the plant thus annually progresses shooting out a root from a bud at the extremity of the root of the presceeding years groath, this in the course of the Summer p[r]oduces a new root prepared with a bud for the progression of the next season, also one leaf and one seed stalk the stem of the former supporting or reather attatched to a large green circular leaf 18 inches to two feet in diameter which fl[o]ats while green usually on the serface of the water, the sta[l]k is propotioned to the debth of the water, and of a celindrical form, is an inch and a half in circumpherence at or near it's junction of the root thence regularly tapering to the leaf where it is perhaps not more than an inch, the large fibers of the leaf project from the extremity of the stalk in every direction at right angles from it to the circumpherence of the leaf like rays from the center, there are from twelve to eighteen of those fibers—    the leaf is nearly a circle smoth on both sides and even and regular on it's edges—    near the same part of the root from which the leaf stalk project the seed stalk dose also—    it is about the same size and form of it but usually a foot longer standing erect and bearing it[s] blossum above the surface of the water which I am informed is of a white colour—    The seed vessel or matrix is the form of a depressed cone the small extremity of which is attatced to the uper end of the stalk; before it has attained it's groath it resembles an inverted cone but when grown the base obtains a preponderancy and inclining downwards rests it's edge against the stalk—    the base is a perfect circular plain from 〈fifteen to〉 eighteen to twenty inches in circumpherence in it's succulent state, and from two to three inches in hight—    the surface of the cone when dryed by the sun and air after being exposed to the frost is purforated with two circular ranges of globular holes from twenty to 30 in number arond one which forms the center placed at the distance of from an eighth to ¼ of an inch assunder, each of those cells contains an oval nut of a light brown colour much resembling a small white oak acorn smothe extreemly heard, and containing a white cernal of an agreeable flavor; these the native frequently eat either in this state or roasted; they frequently eat them also in their succulent state—    the bear feed on the leaves of this plant in the spring and summer—    in the autumn and winter the Swan, geese, brant, ducks and other acquatic fowls feed on the root—    the one is brown, pitty and extreemly light, and when seperated from the stalks flots on the suface of the water with its base down—    the Indians procure it and prepare it for food in the following manner—    they enter the bonds [ponds] where it grows, barefooted in autumn, and feel for it among the mud which being soft and the root large and near the surface they readily find it    they easily draw it up it having no fiborus, or colateral roots to attatch it firmly to the mud    they wash and scrape a thin bleack rind off it and cut it croswise into pieces of an inch in length    when it is prepared for the pot it is of a fine white colour boils to a pulp and makes an agreeable soupe in which way it is usually dressed by the natives    when they wish to preserve it for any length of time they cut it in pieces in the manner before discribed string it on bark or leather throngs of a convenient length and hang it to dry in the sun, or exposed it to the smoke of their chimnies, when thus dryed it will keep for several years, it is esteemed as nutricius as the pumpkin or squash and is not very dissimilar in taste—    The <name type="native_nation" key="Chippewa Indians">Chipiways</name> or sateaus call this plant <hi rend="italic">Wab-bis-sa-pin</hi> or Swan-root—<ref target="n03051415" n="15"/>    The ferench or Canadians know it by two names the Pois de Shicoriat or Graine de Volais—    the roots of this plant are from one foot to eighteen inches in length—</p>
+               <p>
+The common wild pittatoe<ref target="n03051416" n="16"/> also form another article of food in savage life    this they boil untill the skin leaves the pulp easily which it will do in the course of a few minutes    the outer rind which is of a dark brown coulour is then scaped off    the pulp is of a white coulour, the pettatoe thus prepared is exposed on a scaffold to the sun or a slow fire untill it is thoroughly dryed, or at other times strung upon throngs of leather or bark and hung in the roofs of their lodges where by the influence of the fire and smoke it becomes throughly dryed, they are then prepared for use, and will keep perfectly sound many years, these they boil with meat or pound and make an agreeable bread    this pittaitoee may be used in it's green or undryed state without danger provided it be well roasted or boiled—    it produces a vine which runs too a considerable length usually intwining itself about the neighbouring bushes and weeds, the vine is somewhat branched, and in it[s] progress at the distance of 2½ inches it puts forth one leaf stem at right angles with the vine, which is furnished with two par of ovate leaves and turminated by one of a similar shape, these are of a pale green colour not indented on their edges, reather a rough appearance, the vine is small and green except near the ground where it sometime assumes a redish hue—    the fruit is connected by a small liggament at both ends extending for many yards in length and attatching together in some instances six eight or more of these pittaitoes—    it's root is pereniel    the vine annual.</p>
+               <p>
+There is also another root<ref target="n03051417" n="17"/> found in mashey lands or ponds which is much used by the <name type="native_nation" key="Kickapoo Indians">Kickapoos</name>
+                  <name type="native_nation" key="Chippewa Indians">Chipaways</name> and any other nations as an article of food    it is called by the <name type="native_nation" key="Chippewa Indians">Chipeways</name>
+                  <hi rend="italic">Moc-cup-pin</hi>
+                  <ref target="n03051418" n="18"/>    this in it's unprepared state is not only disagreeable to the taste but even dangerous to be taken even in a small quantity; in this state it acts as a powerfull aemetic.    a small quantity will kill a hog yet prepared by the Indians it makes not only an agreeable but a nutricious food—    I have not seen the plant and can therefore only discribe it from information—    the leaf is said to be broad and to float on the water—    the root is from 10 to 12 inches in length and about ⅔ds. as much in thickness—    it has a rough black skin, the pulp is white and of a mealy substance    when properly prepared the preparation is this—    having collected a parsel of these roots you cut and split a sufficient parsel of wood which is set on end as the coliers commence the base of their coal pitts, the [l]enghts of these sticks of wood being as nearly the same as you can conveniently cut them and about 4 feet in length thus forming when put together an even surface at top    on this is thrown soft earth of from two to 3 Inches in debth the roots are laid on this and earth thrown over the whole forming the Colliers kiln complete    fire is then communicated to the wood beneath and it is suffered to burn slowly for several days untill the wood is exausted or they concieve their roots are sufficiently cooked—     they then take them out scrape them &amp; cut them into slices crosswise of half an inch thick and laying them on a scaffold of small sticks build small fires under them and dry them untill they become perfectly firm    thus prepared they are fit for uce and will keep for years if not exposed to wet—    they are either boiled to a pulp in their soupe or less boiled eat them with bears oil or venison and bears flesh—    they sometimes pound it and make a bread of it.—
+
+	
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-14.07" n="lc.geo.1804-05-14.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>[<hi rend="italic">undated</hi>]<ref target="n03051419" n="19"/>
+                  </date>
+               </ab>
+               <p>
+The names of the Forts or British Trading Establishments on the <name type="place" key="Assiniboine River">Ossiniboin</name>
+               </p>
+               <p>
+                  <table rows="8" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Legs</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1St</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Fort de la Reine (Canada)">quens Fort (La prairie[)]</name>
+                           <ref target="n03051420" n="20"/>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">20 from <name type="place" key="Red River of the North">red river</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">2.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Assiniboine House">Mouse River fort</name>
+                           <ref target="n03051421" n="21"/>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">58    do    38</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">3.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Montagne a la Bosse">Hump Mountain fort</name>
+                           <ref target="n03051422" n="22"/>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">83    do    25</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">4. </cell>
+                        <cell role="data" rows="1" cols="1">Catapie River<ref target="n03051423" n="23"/> (the rout to the<lb/>
+                           <name type="place" key="Missouri River">Missouri</name>) 150 miles.</cell>
+                        <cell role="data" rows="1" cols="1">99    do    16</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">5.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Swan River House">Swan River</name>
+                           <ref target="n03051424" n="24"/>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">114    do    15</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">6.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Fort Alexandria (Canada)">Coude de l'homme</name> (or <name type="place" key="Fort Alexandria (Canada)">Mans Elbow</name>)<ref target="n03051425" n="25"/>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">129    do    15</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">7.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Meadow Portage (Source at Lake Manitou)">Sourse at lake Manitou</name>
+                           <ref target="n03051426" n="26"/>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">149    do    20</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <name type="place" key="Red River of the North">red river</name>, of <name type="place" key="Lake Winnipeg">Lake Osnehuger</name>
+                  <ref target="n03051427" n="27"/> 285 Leagues long. (Hay) wooded &amp; low on both Sides.
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n03051401" n="1">There are two entries for May 14, 1804, in the Field Notes. The first is at the end of document 12 and is considered the end of the Dubois Journal; <ref n="1804-05-14-1" type="related">the second</ref> begins document 13 at the beginning of the River Journal.</note>
+            <note xml:id="n03051402" n="2">Near the mouth of <name type="place" key="Coldwater (Colewater) Creek">Coldwater Creek</name>, <name type="place" key="Saint Charles County, Mo.">St. Charles County</name>, <name type="place" key="Missouri">Missouri</name>, a little above the present town of <name type="place" key="Fort Bellefontaine (Mo.)">Fort Bellefontaine</name> and below the crossing of U.S. Highway 67. Osgood (FN), 41 n. 2; MRM map 1.</note>
+            <note xml:id="n03051403" n="3">
+               <name type="person" key="Clark, William">Clark's</name> "Journal No. 1" is now designated Codex A, following Coues. See the <ref n="introduction.v02" type="related">Introduction to volume 2</ref>.</note>
+            <note xml:id="n03051404" n="4">This list is on the reverse of <hi rend="italic">Atlas</hi> map 3<hi rend="italic">a.</hi> On the map side is the endorsement in <name type="person" key="Clark, William">Clark's</name> hand: "A List of Articles for <name type="place" key="Missouri River">Missouri</name> voyage." The list is a compilation of other lists scattered throughout earlier entries, but it may also be partial or incomplete. See in particular entries of <ref n="1804-04-14" type="related">April 14</ref> and <ref n="1804-04-16" type="related">16</ref> above. <name type="person" key="Clark, William">Clark's</name> listing four sergeants is probably an error as there were only three, <name type="person" key="Ordway, John">Ordway</name>, <name type="person" key="Pryor, Nathaniel Hale">Pryor</name>, and <name type="person" key="Floyd, Charles">Floyd</name>, the latter replaced by <name type="person" key="Gass, Patrick">Gass</name> at his death on <ref n="1804-08-20" type="related">August 20, 1804</ref>.</note>
+            <note xml:id="n03051405" n="5">This material is at the beginning of <name type="person" key="Clark, William">Clark's</name> notebook journal Codex A. Since it appears to relate to the period at <name type="place" key="Dubois River">River Dubois</name> it is placed here. The last paragraph is crowded in above the heading of the first dated entry, for <ref n="1804-05-13" type="related">May 13, 1804</ref>, and may have been written after that entry.</note>
+            <note xml:id="n03051406" n="6">This undated information on a loose sheet in the Voorhis Collection, Missouri Historical Society, <name type="place" key="Saint Louis, Mo.">St. Louis</name>, could have been given <name type="person" key="Lewis, Meriwether">Lewis</name> at any time during the winter of 1803–4, because <name type="person" key="Hay, John">Hay</name> visited the camp numerous times and doubtless met with the captain frequently in <name type="place" key="Saint Louis, Mo.">St. Louis</name>. <name type="person" key="Hay, John">Hay</name> was describing a journey down the <name type="place" key="Red River of the North">Red River of the North</name>, that is, northward, between <name type="place" key="Minnesota">Minnesota</name> and <name type="place" key="North Dakota">North Dakota</name> and into southern <name type="place" key="Manitoba">Manitoba</name>. The streams mentioned are chiefly tributaries of the <name type="place" key="Red River of the North">Red</name>, many bearing the same names today. References to their being on the north or south side are confusing since the general course of the <name type="place" key="Red River of the North">Red</name> is northward. The geographic features are not identified here because they are outside the expedition's travels. <name type="person" key="Reaume, J.">J. Reaume</name> ("<name type="place" key="Reaume's Fort">Mr. Reaum〈e〉's Fort</name>") was an early fur trader in <name type="place" key="Minnesota">Minnesota</name> and in 1792 had a post on <name type="place" key="Leaf River">Leaf River</name>. Innis, 254–55 n. 297. See also Tyrrell; Wallace; MacKay; Davidson; and Coues (NLEH). Additional notes by <name type="person" key="Clark, William">Clark</name> on this same sheet were made at <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name>, probably from information given to him by Canadian traders. Those notes and a small map will be placed in the appropriate place in <ref n="1804-1805.winter.part1" type="related">
+                  <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name> Miscellany</ref>.</note>
+            <note xml:id="n03051407" n="7">Here a subtotal of 129.</note>
+            <note xml:id="n03051408" n="8">Here a subtotal of 157, after which a new page with the subtotal carried over but not repeated here.</note>
+            <note xml:id="n03051409" n="9">Here to the side another subtotal:
+<table rows="3" cols="1">
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">269
+</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">3</cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">707</cell>
+                  </row>
+               </table>
+               <name type="person" key="Lewis, Meriwether">Lewis</name> was apparently trying to calculate the distance in miles by estimating three miles to a league. His calculation is in error.</note>
+            <note xml:id="n03051410" n="10">This note is from Codex P, p. 133. The information was probably acquired during the winter at <name type="place" key="Dubois River">River Dubois</name> and is placed here before the departure from <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">Camp Dubois</name>.</note>
+            <note xml:id="n03051411" n="11">Perhaps <name type="person" key="Le Baume, Louis">Louis Le Baume</name>, who in 1801 was operating a <name type="place" key="Saltmaking Camp (Oreg.)">salt works</name> on <name type="place" key="Salt River">Salt River</name> in northeast <name type="place" key="Missouri">Missouri</name>. Houck, 1:343 n. 21.</note>
+            <note xml:id="n03051412" n="12">For <name type="person" key="Tabeau, Pierre-Antoine">Pierre-Antoine Tabeau</name>, see <ref n="1804-10-10" type="related">October 10, 1804</ref>. For <name type="person" key="Loisel, Régis">Régis Loisel</name>, see <ref n="1804-05-25" type="related">May 25, 1804</ref>.</note>
+            <note xml:id="n03051413" n="13">This material is found at the beginning of <name type="person" key="Lewis, Meriwether">Lewis's</name> Weather Diary and was probably based on information gathered during the winter at <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">Camp Dubois</name>. See <ref n="v02.appendix.c" type="related">Appendix C</ref>.</note>
+            <note xml:id="n03051414" n="14">
+               <hi rend="italic">Nelumbo lutea,</hi> first mentioned on <ref n="1804-01-01" type="related">January 1, 1804</ref>.</note>
+            <note xml:id="n03051415" n="15">Ives Goddard III gives the <name type="native_nation" key="Chippewa Indians">Chippewa</name> word as <hi rend="italic">waabiziipin,</hi> signifying "swan tuber." See also Smith (EOI), 396, who refers to a species other than <hi rend="italic">Nelumbo lutea.</hi>
+            </note>
+            <note xml:id="n03051416" n="16">
+               <hi rend="italic">Apios americana</hi> Medic., Indian potato, ground nut, potato-bean. It grows on the banks of streams and floodplains and "is the true <hi rend="italic">pomme de terre</hi> of the French and the modo or wild potato of the <name type="native_nation" key="Sioux Indians">Sioux Indians</name>, and is extensively used as an article of diet." Report of Commissioner of Agriculture for 1870, quoted in Gilmore, 42–44. See also Fernald, 936; McDermott (GMVF), 125.</note>
+            <note xml:id="n03051417" n="17">Probably <hi rend="italic">Nymphaea tuberosa</hi> Paine, white water lily, tuberous water lily. Although it no longer occurs in <name type="place" key="Missouri">Missouri</name>, it is found in pond margins and slow streams along the <name type="place" key="Platte River (Nebr.)">Platte</name> and <name type="place" key="Missouri River">Missouri</name> rivers in eastern <name type="place" key="Nebraska">Nebraska</name>, as well as in <name type="place" key="Illinois">Illinois</name>, <name type="place" key="Indiana">Indiana</name>, and <name type="place" key="Ohio">Ohio</name>. Steyermark, 667–68; Barkley, 16; Fernald, 641.</note>
+            <note xml:id="n03051418" n="18">Goddard gives the Chipewa word as <hi rend="italic">makopin,</hi> signifying "bear tuber." See also Smith (EOI), 399, who refers to a species other than <hi rend="italic">Nymphaea tuberosa.</hi>
+            </note>
+            <note xml:id="n03051419" n="19">This list is in <name type="person" key="Clark, William">Clark's</name> Codex C; although undated, it is clearly a condensed version of information received from John Hay during the winter at <name type="place" key="Dubois River">River Dubois</name>, and so it is placed with other undated material the captains gathered during that time. During the winter of 1803–4, <name type="person" key="Mackay, James">Mackay</name> had provided <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> with some extracts from his journals, covering both his activities on the <name type="place" key="Missouri River">Missouri</name> in 1795–97 and his trading ventures in Canada. <name type="person" key="Hay, John">Hay</name>, who had also worked for the North West Company in Canada, apparently translated <name type="person" key="Mackay, James">Mackay's</name> journal from French for the captains and added comments based on his own experience. The resulting document was among expedition papers found in <name type="person" key="Biddle, Nicholas">Nicholas Biddle's</name> collection that he had not turned over to the American Philosophical Society in 1818; the family later donated these documents to the society (see Appendixes <ref n="v02.appendix.b" type="related">B</ref> and <ref n="v02.appendix.c" type="related">C</ref>). Quaife (ECMJ).
+<p>
+This list gives the names or locations of various <name type="place" key="Hudson's Bay">Hudson's Bay</name> Company and North West Company trading posts in present <name type="place" key="Manitoba">Manitoba</name> and <name type="place" key="Saskatchewan">Saskatchewan</name>, on the <name type="place" key="Assiniboine River">Assiniboine River</name> or in adjacent regions, ca. 1794–95, when <name type="person" key="Hay, John">Hay</name> was in the region. <name type="person" key="Clark, William">Clark</name> may have copied the list both for use in mapping and because of the interest the captains took in the fur trade of the area and possible British competition for the trade and allegiance of the Missouri River tribes. Abstracting the information into Codex C may have made for handier reference. See <name type="person" key="Thompson, David">Thompson's</name> map as printed in Coues (NLEH), 3: unpaged.</p>
+            </note>
+            <note xml:id="n03051420" n="20">"<name type="place" key="Fort de la Reine (Canada)">Quens Fort (La prairie[)]</name>" refers to <name type="place" key="Fort de la Reine (Canada)">Fort de la Reine</name> (<name type="place" key="Fort de la Reine (Canada)">Queen's Fort</name>), founded by <name type="person" key="La Vérendrye, Sieur de">Pierre Gaultier de Varennes, Sieur de la Vérendrye</name>, in 1738, at present <name type="place" key="Portage de la Prairie, Manitoba">Portage de la Prairie, Manitoba</name>, on the <name type="place" key="Assiniboine River">Assiniboine</name>. In 1796 the Husdon's Bay Company built a post near the site. The North West Company had a post in the same vicinity. Coues (NLEH), 1:290–91 n. 7; Masson, 1:270.</note>
+            <note xml:id="n03051421" n="21">"<name type="place" key="Assiniboine House">Mouse River fort</name>" was <name type="place" key="Assiniboine House">Assiniboine House</name>, at the mouth of the <name type="place" key="Souris (Mouse) River">Souris (Mouse) River</name> where it meets the <name type="place" key="Assiniboine River">Assiniboine River</name> in southwest <name type="place" key="Manitoba">Manitoba</name>, established by the North West Company in 1795. The headquarters of the Hudson's Bay Company's in the same vicinity, Brandon House, was started in 1794. Innis, 154; Coues (NLEH), 1:207–8 n. 9; Masson, 1:272; Davidson, 90; Glover, 157–58 n. 3.</note>
+            <note xml:id="n03051422" n="22">
+               <name type="place" key="Montagne a la Bosse">"Hump Mountain fort"</name> was <name type="place" key="Montagne a la Bosse">Montagne à la Bosse</name>, a North West Company establishment built before 1794 on the <name type="native_nation" key="Assiniboine Indians">Assiniboine</name> about twenty miles west of present <name type="place" key="Brandon, Manitoba">Brandon, Manitoba</name>. Masson, 1:273–74; <name type="person" key="Larocque, François-Antoine">Larocque</name>, 11, 82; Voorhis, 119.</note>
+            <note xml:id="n03051423" n="23">"<name type="place" key="Qu'Appelle (Catapie, Cappell) River">Catapie River</name>" is the <name type="place" key="Qu'Appelle (Catapie, Cappell) River">Qu'Appelle River</name> of southern <name type="place" key="Saskatchewan">Saskatchewan</name>, a tributary of the <name type="place" key="Assiniboine River">Assiniboine</name> on which the North West Company established <name type="place" key="Fort Esperance (Canada)">Fort Esperance</name> about 1784, two days' journey by canoe from the mouth. Masson, 1:274–75; Innis, 233; Glover, 157 n. 2; Davidson, 46–47, 50.</note>
+            <note xml:id="n03051424" n="24">"<name type="place" key="Swan River House">Swan River</name>" was apparently the <name type="place" key="Hudson's Bay">Hudson's Bay</name> Company's <name type="place" key="Swan River House">Swan River</name> (or <name type="place" key="Swan River House">Swan Lake</name>) House, built in 1790 on the <name type="place" key="Swan River House">Swan River</name> a few miles southwest of <name type="place" key="Swan Lake, Manitoba">Swan Lake</name>, in west-central <name type="place" key="Manitoba">Manitoba</name>. The North West Company also had an establishment on <name type="place" key="Swan River House">Swan River</name>. Glover, lxxx and n. 1; Coues (NLEH), 1:213, 299–300 n. 15; Innis, 245, 256; Davidson, 109; Voorhis, 168.</note>
+            <note xml:id="n03051425" n="25">"<name type="place" key="Fort Alexandria (Canada)">Coude de l'homme</name> (or <name type="place" key="Fort Alexandria (Canada)">Mans Elbow</name>)" was apparently the North West Company's <name type="place" key="Fort Alexandria (Canada)">Fort Alexandria</name>, or Upper House, built in 1780 on the <name type="place" key="Assiniboine River">Assiniboine River</name> above a sharp bend called the Elbow, in eastern <name type="place" key="Saskatchewan">Saskatchewan</name>. Or, the reference may be to the North West Company's <name type="place" key="Somerset House (Elbow Fort)">Somerset House</name>, also called <name type="place" key="Somerset House (Elbow Fort)">Elbow Fort</name>, on the <name type="place" key="Swan River House">Swan River</name> about fifty miles upstream from <name type="place" key="Swan Lake, Manitoba">Swan Lake</name>, <name type="place" key="Manitoba">Manitoba</name>. <name type="person" key="Hay, John">Hay's</name> list, however, reflected the situation as of about 1794–95, and the latter post was not built until 1800. Glover, lxxxi and n. 1; Coues (NLEH), 2:494 and n. 58; Masson, 1:275; Davidson, 109; Voorhis, 165, 168.</note>
+            <note xml:id="n03051426" n="26">"<name type="place" key="Meadow Portage (Source at Lake Manitou)">Sourse at Lake Manitou</name>" is apparently the  <name type="place" key="Portage of Lake Manitoba">Portage of Lake Manitoba</name>, which is the <name type="place" key="Meadow Portage (Source at Lake Manitou)">Meadow Portage</name> between <name type="place" key="Lake Manitoba">Lake Manitoba</name> and <name type="place" key="Lake Winnipeg">Lake Winnipegosis</name>. The post associated with this portage was <name type="place" key="Fort Douphin (Canada)">Fort Dauphin</name>, originally founded by Pierre de la Vérendrye in 1741. Several later North West and Hudson's Bay Company posts were constructed in the vicinity and were also called either <name type="place" key="Fort Douphin (Canada)">Fort Dauphin</name> or <name type="place" key="Fort Douphin (Canada)">Dauphin Lake House</name>. Glover, lxxix and n. 1; Coues (NLEH), 1:175 n. 40, 207 n. 7; Voorhis, 58.</note>
+            <note xml:id="n03051427" n="27">"<name type="place" key="Red River of the North">Red river, of Lake Osnehager"</name> is the <name type="place" key="Red River of the North">Red River of the North</name>. The lake's name probably comes from Quinipagou, the Algonquian name of <name type="place" key="Lake Winnipeg">Lake Winnipeg</name>, into which the <name type="place" key="Red River of the North">Red River of the North</name> flows. Thwaites (LC), 6:268–69 n. 1.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-05-13" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-05-14-1" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

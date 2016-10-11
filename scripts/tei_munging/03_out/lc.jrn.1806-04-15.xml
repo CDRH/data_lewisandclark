@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-04-15">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+April 15, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 7</title>
+               <title level="m" type="sub">March 23–June 9, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1991</date>
+               <biblScope type="pages">123-125</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">292-293</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">211</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-04-15.01">
+            <placeName/>
+            <geo>45.5833 -121.1667</geo>
+            <note>Returned to the camp they inhabited on 10-25-1805, "Fort Rock." Located at The Dalles, Wasco County, OR.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh" n="category">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-10-04</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-04-15">April 15, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-04-15.01" n="lc.geo.1806-04-15.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Tuesday April 15th 1806</hi>
+                  </date>
+               </ab>
+               <p>
+We delayed this morning untill after breakfast in order to purchase some horses of the Indians; accordingly we exposed some articles in exchange for horses    the natives were unwilling to barter, we therefore put up our merchandize and at 8 A. M. we set out.    we halted a few minutes at the <name type="place" key="Lower Memaloose Island (Sepulcher Rock)">sepulchre rock</name>, and examined the deposits of the ded at that place.    these were constructed in the same manner of those already discribed below the rapids.    some of them were more than half filled with dead bodies.    there were thirteen sepulchres on this rock which stands near the center of the river and has a surface of about 2 acres above high-water mark.—    from hence we returned to the nothern shore and continued up it about four miles to another village of the same nation with whom we remained last night.<ref target="n31041501" n="1"/>    here we halted and informed the natives of our wish to purchase horses; the produced us several for sale but would not take the articles which we had in exchange for them.    they wanted an instrument which the Northwest traders call an eye-dag [<hi rend="italic">NB: a sort of war hatchet</hi>]<ref target="n31041502" n="2"/> which we had not.    we procured two dogs of them and departed.    a little below the entrance of <name type="place" key="Klickitat (Cataract) River">Cataract river</name> we halted at another village of the same people, at which we were equally unsuccessfull in the purchase of horses.    we also halted at the two villages of the <name type="native_nation" key="Wishram-Wasco Indians">Chilluckkittequaws</name> a few miles above<ref target="n31041503" n="3"/> with no better success.    at three in the evening we arrived at the entrance of <name type="place" key="Mill (Que-nett) Creek (Oreg.)">Quinnette creek</name>
+                  <ref target="n31041504" n="4"/> which we ascended a short distance and encamped at the place we have called <name type="place" key="Fort Rock Camp (Oreg.)">rockfort camp</name>.    here we were visited by some of the people from the villages at the <name type="place" key="Columbia River, The Dalles of the (Great Narrows)">great narrows</name> and <name type="place" key="Columbia River, Great Falls of the">falls</name>.    we informed them of our wish to purchase horses, &amp; agreed to meet them on the opposite or North side of the river tomorrow for the purpose of bartering with them.    most of them returned to their villages this evening three only remained with us all night.    these people are much better clad than any of the nations below; their men have generally leging mockersons and large robes, many of them wear shirts of the same form those of the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> and <name type="native_nation" key="Shoshone Indians">Shoshonees</name> highly ornamented with the quills of the porcupine as are also their mockersons and legings.    they conceal the parts of generation with the skin of a fox or some other small animal drawn underneath a girdle and hanging loosly in front of them like a narrow apron.    the dress of their women differs very little from those about the rapids.    both men and women cut their hair in the forehead which comes down as low as the eyebrows, they have long earlocks cut square at the end.    the other part of their hair is dressed in the same manner as those of the rapids. after we landed and formed our camp this evening <name type="person" key="Drouillard, George">Drewyer</name> and some others took a hunt and killed a deer of the longtailed kind.    it was a buck and the young horns had shot fourth about 2 inches.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-15.02" n="lc.geo.1806-04-15.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Tuesday April 15th 1806</hi>
+                  </date>
+               </ab>
+               <p>
+We delayed this morning untill after brackfast in order to purchase Some horses of the Indians; accordingly we exposed Some articles in exchange for horses    the nativs were unwilling to exchange their horses, we put up our merchindize and at 8 A M. Set out.    we halted a fiew minutes at the <name type="place" key="Lower Memaloose Island (Sepulcher Rock)">Sepulchar rock</name> and examined the deposit of the dead at that place.    those were Constructed in the Same manner of those already described below the rapids. Some of them were more than half filled with dead bodies.    there were 13 Sepulchers on this rock which Stands near the Center of the river, and has a Cerface of about two acres above the water.—.    from hence we returned to the Northern Shore and Continued up it about 4 miles to a Village at the enterance of <name type="place" key="Klickitat (Cataract) River">Cateract River</name>, here we halted and informed the nativs of our wish to purchase horses; the produced Several for Sale but would not take the articles we had in exchange for them.    they wanted an instriment which the Northw Traders call an eye dag which we had not.    we precured two dogs and departed    we also halted at the two villages of the <name type="place" key="Wishram-Wasco Indians">Chil luck kitequaws</name> a fiew Ms. above with no better Sucksess.    at 3 in the evening we arivied at the enterance of <name type="place" key="Mill (Que-nett) Creek (Oreg.)">Quinnett Creek</name> which we assended a Short distance and Encamped at the place we had Called <name type="place" key="Fort Rock Camp (Oreg.)">rock fort Camp</name>.    here we were visited by Some of the people from the Villages at the <name type="place" key="Columbia River, The Dalles of the (Great Narrows)">long Narrows</name> &amp; <name type="place" key="Columbia River, Great Falls of the">Falls</name>.    we informed them of our wish to purchase horses, and agreed to meet them on the opposit or north Side on tomorrow for the purpose of bartering with them.    most of them returned to their village this evening three only remained with us all night.    those people are much better Clad than the nativs below.    their men have generaly Legins mockersons &amp; large robes. Many of them were Shirts of the Same form of those of the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> &amp; <name type="native_nation" key="Shoshone Indians">Shoshonees</name> highly ornamented with the quils of the purcupine, as are also their mockersons &amp; Legins.    they Conseal the parts of generation with the Skins of the Fox or Some other Small animal drawn under neath a girdle and hanging loosely in front of them like a narrow apron. The dress of their women differ verry little from those about the rapids.    both men &amp; women Cut their hair in the forehead which comes down as low as the Eyebrows, they have long ear locks Cut Square at the end. The other parts of their hair is dressed in the Same Manner as those of the rapids.    after we landld and formed our Camp this evening <name type="person" key="Drouillard, George">Drewyer</name> and some oths took a hunt and killed a Deer of the log tailed kind.    it was a Buck and the young deer horns had Shot foth about two inches    made [<hi rend="italic">blank</hi>] miles to day.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-15.03" n="lc.geo.1806-04-15.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday 15th of April 1806.    a clear pleasant morning.    we delayed untill after breakfast for to See if the natives would Sell us any horses but they did not incline to Sell any without beeds which we have not got So we departed. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> &amp; <name type="person" key="Clark, William">Clark</name> went on a small high Island<ref target="n31041505" n="5"/> to see a large burying ground    they Saw Seven large Sepulchers made of wood in a Square form and by appearence is nearly a hundred persons piled in one on another with their robes Sowed round them, and all their heads down the River.    we proceed. from thence to a village at the mouth of the [<hi rend="italic">blank</hi>] River<ref target="n31041506" n="6"/> on the N. Side where we halted expecting to purchase Some horses as the natives have a number at this place, but they wanted beeds also and Sign to us that they hunt and go to wa[r] with their horses &amp;C.    we purchased only one dog, and proceed. on    passed several more Small villages along the North Side.    about 3 P. M. we crossed over to the South Side and arived at rock Camp where we Camped on the 25th &amp; 26th of Oct. last.    we went up the creek little above and Camped<ref target="n31041507" n="7"/> under high clift of rocks in order to lay here tomorrow &amp; See if any horses can be purchased    about the narrows or falls the plains are green &amp; pleasant    Saw a number of horses feeding in it which are in good order as they have been wintered below in the narrow bottoms where the rushes abound &amp;C.    we are Camped where has been an ancient large village<ref target="n31041508" n="8"/>    only the cellers now to be Seen. <name type="person" key="Drouillard, George">George Drewyer</name> killed a deer this evening.    a number of the natives visited us &amp;C—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-15.04" n="lc.geo.1806-04-15.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 15th.</hi>    The morning was fair. The Commanding Officers attempted to purchase some horses, but could not agree with the Indians on the price; so we proceeded on about four miles to another village, at the mouth of <name type="place" key="Klickitat (Cataract) River">Catarack river</name>. Here we got some Shap-e-leel,<ref target="n31041509" n="9"/> a kind of bread the natives make of roots, and bake in the sun; and which is strong and palatable. Here another trial was made to get some horses, but without success; and we again proceeded on; passed a place where there was a village in good order last fall when we went down; but has been lately torn down, and again erected at a short distance from the old ground where it formerly stood.<ref target="n31041510" n="10"/> The reason of this removal I cannot conjecture, unless to avoid the fleas,<ref target="n31041511" n="11"/> which 
+are more numerous in this country than any insects I ever saw.<ref target="n31041512" n="12"/> About three o'clock in the afternoon, we came to <name type="place" key="Fort Rock Camp (Oreg.)">Rock Camp</name>, where we stayed two days as we went down. Some hunters<ref target="n31041513" n="13"/> went out in the evening, and killed a deer.
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n31041501" n="1">Just below the mouth of <name type="place" key="Klickitat (Cataract) River">Klickitat River</name>, in <name type="place" key="Klickitat County, Wash.">Klickitat County</name>, <name type="place" key="Washington">Washington</name>. <hi rend="italic">Atlas</hi> map 78. This may be the <hi rend="italic">xla'tixat</hi> village of the <name type="place" key="Lyle site">Lyle site</name> mentioned on October 29, 1805, as having "11 houses."</note>
+            <note xml:id="n31041502" n="2">
+               <name type="person" key="Biddle, Nicholas">Biddle</name> has interlined in red, "a sort of war hatchet." However, "dag" was the name for a type of dagger or stabbing knife known to have been used by frontiersmen and Indians. Moreover, a specimen is extant from the Northwest Coast with a hole or eye in the handle for inserting a loop which would hold the knife around the wrist. Russell (FTT), 174–76.</note>
+            <note xml:id="n31041503" n="3">Probably the villages of "7 houses" and of "8 houses" going upstream. <hi rend="italic">Atlas</hi> map 78. The former is the "<name type="place" key="Friendly village">friendly village</name>" of <ref n="1805-10-29" type="related">October 29, 1805</ref>. The latter is opposite <name type="place" key="Crates Point">Crates Point</name> in <name type="place" key="Wasco County, Oreg.">Wasco County</name>, <name type="place" key="Oregon">Oregon</name>, and is a few miles north of <name type="place" key="Dallesport, Wash.">Dallesport</name>, <name type="place" key="Klickitat County, Wash.">Klickitat County</name>.</note>
+            <note xml:id="n31041504" n="4">Present <name type="place" key="Mill (Que-nett) Creek (Oreg.)">Mill Creek</name>; the camp was the <name type="place" key="Fort Rock Camp (Oreg.)">"Fort Rock" camp</name> of October 25–28, 1805, at <name type="place" key="Columbia River, The Dalles of the (Great Narrows)">The Dalles</name>, <name type="place" key="Wasco County, Oreg.">Wasco County</name>, <name type="place" key="Oregon">Oregon</name>. This time they would remain until April 18, 1806. <hi rend="italic">Atlas</hi> map 78. "<name type="place" key="Mill (Que-nett) Creek (Oreg.)">Quinnette</name>" is Upper Chinookan <hi rend="italic">-gwánat,</hi> "Chinook salmon." See <ref n="1805-10-25" type="related">October 25, 1805</ref>.</note>
+            <note xml:id="n31041505" n="5">The party's <name type="place" key="Lower Memaloose Island (Sepulcher Rock)">Sepulcher Island</name>, now <name type="place" key="Lower Memaloose Island (Sepulcher Rock)">Lower Memaloose Island</name>, <name type="place" key="Wasco County, Oreg.">Wasco County</name>, <name type="place" key="Oregon">Oregon</name>.</note>
+            <note xml:id="n31041506" n="6">
+               <name type="place" key="Klickitat (Cataract) River">Klickitat River</name>, <name type="place" key="Klickitat County, Wash.">Klickitat County</name>, <name type="place" key="Washington">Washington</name>.</note>
+            <note xml:id="n31041507" n="7">The <name type="place" key="Fort Rock Camp (Oreg.)">"Fort Rock" camp</name> of October 25–28, 1805, at <name type="place" key="Mill (Que-nett) Creek (Oreg.)">Mill Creek</name>, <name type="place" key="Wasco County, Oreg.">Wasco County</name>. This time the group would remain here until April 18.</note>
+            <note xml:id="n31041508" n="8">No Indian site is shown on expedition maps, nor is such a village discussed by <name type="person" key="Lewis, Meriwether">Lewis</name> or <name type="person" key="Clark, William">Clark</name>.</note>
+            <note xml:id="n31041509" n="9">Otherwise "chapellel," and other spellings to the party, it is cous, <hi rend="italic">Lomatium cous</hi> (Wats.) Coult. &amp; Rose.</note>
+            <note xml:id="n31041510" n="10">According to the captains there were two villages of "<name type="native_nation" key="Wishram-Wasco Indians">Chilluckittequaws</name>" in this area in <name type="place" key="Klickitat County, Wash.">Klickitat County</name>. They were apparently <name type="native_nation" key="Wishram-Wasco Indians">Wishram-Wasco Indians</name>.</note>
+            <note xml:id="n31041511" n="11">Probably human body lice, <hi rend="italic">Pediculus humani.</hi> See <name type="person" key="Clark, William">Clark's</name> entry for <ref n="1805-10-26" type="related">October 26, 1805</ref>.</note>
+            <note xml:id="n31041512" n="12">
+               <name type="person" key="McKeehan, David">McKeehan's</name> note: " 'We had however the curiosity to visit the houses (of a deserted village) which were erected upon posts; and we suffered very severely from the indulgence of 
+it; for the floors were covered with fleas, and we were immediately in the same condition, for which we had no remedy but to take to the water. There was not a spot round the houses, free from grass, that was not alive, as it were, with this vermin.' <hi rend="italic">
+                  <name type="person" key="Mackenzie, Alexander">M'Kenzie</name>.</hi>"</note>
+            <note xml:id="n31041513" n="13">One of them was <name type="person" key="Drouillard, George">Drouillard</name>, as the captains indicate.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-04-14" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-04-16" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-06-12">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+June 12, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">294-295</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">12-13, 380</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">13-14</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">22-23</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-06-12.01">
+            <placeName/>
+            <geo>39.3181 -92.9766</geo>
+            <note>North Shore of the Missouri, South Central Chariton County, MO</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-01-14</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-06-12">June 12, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-06-12.01" n="lc.geo.1804-06-12.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>Grand River    June 12th 1804<ref target="n04061201" n="1"/>
+                  </date>
+               </ab>
+               <p>
+Sir,<lb/>
+I have purchased from <name type="person" key="Loisel, Régis">Mr Louiselle's</name> Pattroon <hi rend="italic">three hundred pounds</hi> of voyager's grease for which I am to pay by my A [account?]
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-12.02" n="lc.geo.1804-06-12.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">12th of June, Tuesday</hi>    We Set out early, passed thro: a verry bad bend N. 25° W. 3½ to a pt. L. S.    N. 70° W. 2½ ms to a pt. on S. S.    passed a Sand bar—N 60° W 3 1/ ms. to a pt. on S. S.    passed <name type="place" key="Bear (Plum) Creek (Mo.)">
+                     <hi rend="italic">Plumb. C</hi>
+                  </name>
+                  <ref target="n04061202" n="2"/> at ½ a me. on L. S. and halted to Dine, and 2 Caussease [cajeux] Came Down from the <name type="native_nation" key="Sioux Indians">Soux</name> nation, we found in the party an old man who had been with the <name type="native_nation" key="Sioux Indians">Soux</name> 20 years &amp; had great influence [<hi rend="italic">hole</hi>] with them, we provld. [prevailed] on this old man <name type="person" key="Dorion, Pierre, Sr.">Mr. [<hi rend="italic">hole</hi>] <hi rend="italic">Duriaur</hi>
+                  </name>
+                  <ref target="n04061203" n="3"/> to return with us, with a view to get Some of the <name type="native_nation" key="Sioux Indians">Soux</name> Chiefs to go to the U. S.    purchased 300 lb of Voyagers Grece @ 5$ [pr?] Hd.<ref target="n04061204" n="4"/>    made Some exchanges &amp; purchuses of Mockersons &amp; found it Late &amp; concluded to incamp.<ref target="n04061205" n="5"/>
+               </p>
+               <p>
+Those people inform that no Indians are on the river, The Countrey on each Side of the river is good
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-12.03" n="lc.geo.1804-06-12.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>12th <hi rend="italic">of June, Tuesday</hi> 1804</date>
+               </ab>
+               <p>	
+Set out early    passed Some bad Placies, and a Small Creek on the L. S. Called <hi rend="italic">
+                     <name type="place" key="Bear (Plum) Creek (Mo.)">plumb Creek</name>
+                  </hi> at abt. 1 me.    at 1 oClock we brought too two <hi rend="italic">Chaussies</hi> one Loaded with furs &amp; Pelteries, the other with Greece buffalow grease &amp; tallow    We purchased 300 lb. of Greese, and finding that old <name type="person" key="Dorion, Pierre, Sr.">Mr. Durioun</name> was of the party we questioned him untill it was too late to Go further and Concluded to Camp for the night, those people inform nothing of much information</p>
+               <p>
+Colcluded to take <name type="person" key="Dorion, Pierre, Sr.">old Durion</name> [<hi rend="italic">X: (who went accg)</hi>] back as fur as the <name type="native_nation" key="Sioux Indians">Soux</name> nation with a view to get some of their Chiefs to Visit the Presdt. of the United S.    (This man being a verry Confidential friend of those people, he having resided with the nation 20 odd years) and to accompany them on<ref target="n04061206" n="6"/>
+               </p>
+               <p>
+                  <table rows="4" cols="3">
+                     <head>
+                        <hi rend="center">Course &amp; Distance June 12th</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 25° W.</cell>
+                        <cell role="data" rows="1" cols="1">3 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to L. S. passed <name type="place" key="Bear (Plum) Creek (Mo.)">Plumb C</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 70 W.</cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to pt. on S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 60° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">3</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">ms. to pt. on S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">9</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-12.04" n="lc.geo.1804-06-12.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday June 12th 1804.    we Set out eairley this morning.    a fair 〈day〉 morning.    we passed <name type="place" key="Bear (Plum) Creek (Mo.)">plumb Creek</name> on South Side of the River.    the plumbs<ref target="n04061207" n="7"/> are plenty up sd. Creek.    near below Sd. Creek the land is high well Timbered &amp; well Situated for a plantation. The Timber Soil &amp;C. is verry excelent, we Camped on N. Side of the River. Several Frenchmen Stayed with us all night comming down the River in Several pearogues Loaded with peltry Bound to <name type="place" key="Saint Louis, Mo.">St. Louis</name>.    came from the <name type="native_nation" key="Sioux Indians">Shew</name> nation.<ref target="n04061208" n="8"/>    they passed the last winter their &amp; had an amence Side of Bufloe Green Skins &amp;C    we Got an old Frenchman<ref target="n04061209" n="9"/> to go with us which could Speak Sevral languages, among the indians for a long distance.—
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-12.05" n="lc.geo.1804-06-12.01">
+            <sp who="cf">
+               <speaker>Floyd</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday June 12 1804    we Set out at the Usial ouer    the day Clear wind from the west    Came 4 miles    past a Creek on the S. Side Called <name type="place" key="Bear (Plum) Creek (Mo.)">
+                     <hi rend="italic">Plumb</hi> Creek</name> about 20 yads wide    the timber in this Bottoms is Cotten wood    2 miles when we met 〈two〉 5 Cannoes from the 〈<name type="native_nation" key="Sioux Indians">Shoue</name>
+                  <name type="native_nation" key="Sioux Indians">Sue</name>〉 <name type="native_nation" key="Sioux Indians">Soux</name> nations Loaded with peltry and Greece    thay have been 13 mounthes up the <name type="place" key="Missouri River">missorea River</name>    Delayed ½ day with the French, Bought Some tallow of them    ouer hunters Did not Rettern Last night    one French man hiard to go with us up the <name type="place" key="Missouri River">missorea</name> who can Speak the Difernt [languages?]    encamped on the N. Side    the Land Good Bottom
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-12.06" n="lc.geo.1804-06-12.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 12th.</hi>
+                  <ref target="n04061210" n="10"/> We set out early, and proceeded until five o'clock in the afternoon, when we met five periogues loaded with fur and peltry from the <name type="native_nation" key="Sioux Indians">Sioux</name> nation of Indians. We remained with the people to whom these periogues belonged all night<ref target="n04061211" n="11"/> and got from them an <name type="person" key="Dorion, Pierre, Sr.">old Frenchman</name>,<ref target="n04061212" n="12"/> who could speak the language of the different nations of Indians up the <name type="place" key="Missouri River">Missouri</name>, and who agreed to go with us as an interpreter.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-12.07" n="lc.geo.1804-06-12.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tusday 12    Left the Charrottoe Perarie and Saild. for the <name type="place" key="Grand River (Mo.)">Grand River</name>.    Met with 7 peirogues.    Loaded with peltry for <name type="person" key="Chouteau, Jean Pierre or René Auguste">Captn Chatto</name>
+                  <ref target="n04061213" n="13"/> in <name type="place" key="Saint Louis, Mo.">St Louis</name>    Our men of Each Craft Exchangd. Blankets for Buffalow Robes &amp; Mockisons    Sent One of Our Men Belonging to the white pierouge back that Belongd. to <name type="person" key="Stoddard, Amos">Captn Stodders</name> Company of Artilery<ref target="n04061214" n="14"/>    Incampd within 〈thr〉 two miles of the three point Island<ref target="n04061215" n="15"/>    Roed 7 Miles that day—</p>
+               <p>
+Tuesday June 12th    This Morning early we set off from the Charotto Priari, with a fair wind and fine weather, all hands being well and in high spirits;  we found the current of the River still running strong, but are in hopes of soon getting to the <name type="place" key="Grand River (Mo.)">Grand River</name>.    At 10 oClock A. M. met 7 Pettiaugers, loaded with Peltry, belonging to <name type="person" key="Chouteau, Jean Pierre or René Auguste">Captain Choteau</name> of <name type="place" key="Saint Louis, Mo.">Saint Louis</name>.    our Men exchanged with those belonging to the Pettiaugers, some blankets for Buffalo Robes, &amp; Mockasins; we put on board the Pettiaugers, one Man that we had with us, belonging to <name type="person" key="Stoddard, Amos">Captain Stoddards</name> company of Artillery, who is going to <name type="place" key="Saint Louis, Mo.">Saint Louis</name>, in the Evening we encamped two Miles from an Island called the three point Island; the distance we came this day, being 7 Miles
+
+  
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n04061201" n="1">This passage in <name type="person" key="Lewis, Meriwether">Lewis's</name> hand, under the entries for <ref n="1804-06-25" type="related">June 25</ref> and <ref n="1804-06-26" type="related">26</ref>, 1804, is in the Field Notes (document 23).</note>
+            <note xml:id="n04061202" n="2">Possibly later <name type="place" key="Bear (Plum) Creek (Mo.)">Bear Creek</name>, <name type="place" key="Saline County, Mo.">Saline County</name>, <name type="place" key="Missouri">Missouri</name>. MRM map 26.</note>
+            <note xml:id="n04061203" n="3">
+               <name type="person" key="Dorion, Pierre, Sr.">Pierre Dorion, Sr.</name>, was born before 1750, probably in <name type="place" key="Quebec">Quebec</name>, and was in <name type="place" key="Cahokia, Ill.">Cahokia</name>, <name type="place" key="Illinois">Illinois</name>, in 1780. <name type="person" key="Clark, William">Clark</name> perhaps had heard of <name type="place" key="Dorion, Pierre, Sr.">Dorion</name> before, for the trader had at least corresponded with <name type="person" key="Clark, George Rogers">George Rogers Clark</name> in 1780. Within a few years of that date he had gone up the <name type="place" key="Missouri River">Missouri</name> to the <name type="native_nation" key="Sioux Indians, Yankton">Yankton</name>
+               <name type="native_nation" key="Sioux Indians">Sioux</name>, where he married and settled down as a trader. He was employed by <name type="person" key="Loisel, Régis">Régis Loisel</name> as an interpreter at <name type="person" key="Loisel, Régis">Loisel's</name> post at <name type="place" key="Dorion Island No. 2 (Cedar Island)">Ile aux Cedres</name>. He took a delegation of <name type="native_nation" key="Sioux Indians, Yankton">Yankton</name> chiefs to <name type="place" key="Saint Louis, Mo.">St. Louis</name> for the captains and was later involved in various negotiations with Indians, serving for a time as a government subagent under <name type="person" key="Clark, William">Clark</name>. He died sometime after 1811. Munnick (PD); Speck, 150–86; Irving (Astor), 117–20; Osgood (FN), 55 n. 1.</note>
+            <note xml:id="n04061204" n="4">In the Codex A entry of this date <name type="person" key="Clark, William">Clark</name> or someone else has interlined "buffalow grease &amp; tallow" over "Greece." Perhaps this was a base material for making pemmican. Nute, 54.</note>
+            <note xml:id="n04061205" n="5">
+               <name type="person" key="Clark, William">Clark</name> is not entirely clear which side of the river the camp was on, but <name type="person" key="Ordway, John">Ordway</name> says they camped on the north side. This would place them in south-central <name type="place" key="Chariton County, Mo.">Chariton County</name>, <name type="place" key="Missouri">Missouri</name>, in the vicinity of where <name type="place" key="Missouri Highway J">Missouri Highway J</name> ends. MRC map 10.</note>
+            <note xml:id="n04061206" n="6">On this day, according to <name type="person" key="Whitehouse, Joseph">Whitehouse</name>, a man belonging to <name type="person" key="Stoddard, Amos">Captain Amos Stoddard's</name> artillery company was sent back down the river, presumably with <name type="person" key="Dorion, Pierre, Sr.">Dorion's</name> boat. No other journalist mentions the event. This man may have been <name type="person" key="Robertson, John">John Robertson</name>, or <name type="person" key="Robertson, John">Robinson</name>, who was with the party at <name type="place" key="Dubois River">River Dubois</name> but appears in no record or roll of the expedition proper. See <ref n="v02.appendix.a" type="related">Appendix A</ref>.</note>
+            <note xml:id="n04061207" n="7">Any number of possibilities of <hi rend="italic">Prunus</hi> sp.; see <name type="person" key="Clark, William">Clark's</name> entry for <ref n="1804-06-10" type="related">June 10</ref>.</note>
+            <note xml:id="n04061208" n="8">Meaning the <name type="native_nation" key="Sioux Indians">Sioux Indians</name>, probably the <name type="native_nation" key="Sioux Indians, Yankton">Yankton Sioux</name> .</note>
+            <note xml:id="n04061209" n="9">
+               <name type="person" key="Dorion, Pierre, Sr.">Pierre Dorion, Sr.</name>
+            </note>
+            <note xml:id="n04061210" n="10">
+               <name type="person" key="Gass, Patrick">Gass</name> has no entry for June 11; the party remained in their camp of June 10.</note>
+            <note xml:id="n04061211" n="11">In south-central <name type="place" key="Chariton County, Mo.">Chariton County</name>, <name type="place" key="Missouri">Missouri</name>.</note>
+            <note xml:id="n04061212" n="12">
+               <name type="person" key="Dorion, Pierre, Sr.">Pierre Dorion, Sr.</name>
+            </note>
+            <note xml:id="n04061213" n="13">
+               <name type="person" key="Chouteau, René Auguste">René Auguste Chouteau</name> or <name type="person" key="Chouteau, Jean Pierre">Jean Pierre Chouteau</name>; no one else mentions that these men 
+were Chouteau employees.</note>
+            <note xml:id="n04061214" n="14">No other journal keeper mentions this event. The man was a member of  
+<name type="person" key="Stoddard, Amos">Captain Stoddard's</name> artillery company, from which several men were assigned to the expedition. He may have been <name type="person" key="Robertson, John">John Robertson</name>, or <name type="person" key="Robertson, John">Robinson</name>. See <name type="person" key="Clark, William">Clark's</name> entries for this day, and <ref n="v02.appendix.a" type="related">Appendix A</ref>.</note>
+            <note xml:id="n04061215" n="15">Not mentioned by any other journal keeper. A nameless triangular island appears on 
+later maps in the right location on the <name type="place" key="Saline County, Mo.">Saline County</name>, <name type="place" key="Missouri">Missouri</name>, side of the river. They camped in south-central <name type="place" key="Chariton County, Mo.">Chariton County</name>, <name type="place" key="Missouri">Missouri</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-06-11" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-06-13" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

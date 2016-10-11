@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-06-17">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+June 17, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">31-34</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">323-324</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">240-241</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-06-17.01">
+            <placeName/>
+            <geo>46.4 -115.5667</geo>
+            <note>Camped on the south side of Hungery Creek, Idaho County, ID.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-11-02</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-06-17">June 17, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-06-17.01" n="lc.geo.1806-06-17.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Tuesday June 17th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+we collected our horses and set out early; we proceeded down <name type="place" key="Hungery Creek">hungry creek</name> about seven miles passing it twice; we found it difficult and dangerous to pass the creek in consequence of its debth and rapidity; we avoided two other passes of the creek by ascending a very steep rocky and difficult hill.    beyond this creek the road ascends the mountain to the hight of the main leading ridges which divides the Waters of the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> and <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name> rivers.<ref target="n36061701" n="1"/>    this hill or reather mountain we ascended about 3 miles when we found ourselves invelloped in snow from 12 to 15 feet deep even on the south sides of the hills with the fairest exposure to the sun; here was winter with all it's rigors; the air was cold, my hands and feet were benumbed.    we knew that it would require five days to reach the fish wears at the entrance of <name type="place" key="Colt Killed Creek">Colt Creek</name>,<ref target="n36061702" n="2"/> provided we were so fortunate as to be enabled to follow the proper ridges of the mountains to lead us to that place; 〈of this <name type="person" key="Drouillard, George">Drewyer</name> our principal dependance as a woodsman and guide was entirely doubtfull;〉 short of that point we could not hope for any food for our horses not even underwood itself as the whole was covered many feet deep in snow.    if we proceeded and should get bewildered in these mountains the certainty was that we should loose all our horses and consequently our baggage instruments perhaps our papers and thus eminently wrisk the loss of the discoveries which we had already made if we should be so fortunate as to escape with life.    the snow boar our horses very well and the travelling was therefore infinitely better that the obstruction of rocks and fallen timber which we met with in our passage over last fall when the snow lay on this part of the ridge in detached spots only.    under these circumstances we conceived it madnes in this stage of the expedition to proceed without a guide who could certainly conduct us to the fish wears on the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name> [<hi rend="italic">NB: <name type="place" key="Lolo (Travelers' Rest) Creek (Mont.)">Travellers (Creek) Rest</name>
+                  </hi>], as our [<hi rend="italic">NB: See note</hi>]<ref target="n36061703" n="3"/> horses could not possibly sustain a journey of more than five days without food.    we therefore came to the resolution to return with our horses while they were yet strong and in good order and indevour to keep them so untill we could procure an indian to conduct us over the <name type="place" key="Bitterroot (Snow) Mountains">snowey mountains</name>, and again to proceed as soon as we could procure such a guide, knowing from the appearance of the snows that if we remained untill it had desolved sufficiently for us to follow the road that we should not be enabled to return to the United States within this season.    having come to this resolution, we ordered the party to make a deposit for all the baggage which we had not immediate use for,<ref target="n36061704" n="4"/> and also all the roots and bread of cows which they had except an allowance for a few days to enable them to return to some place at which we could subsist by hunting untill we procured a guide.  〈I〉 [<hi rend="italic">word crossed out, illegible</hi>] we left 〈my〉 our instruments papers &amp;c beleiving them safer here than to wrisk them on horseback over the roads and creeks which we had passed.    our baggage being laid on scaffoalds and well covered we began our retrograde march at 1 P. M. having remained about 3 hours on this snowey mountain.    we returned by the rout we had come to <name type="place" key="Hungery Creek">hungry creek</name>, which we ascended about 2 miles and encamped.<ref target="n36061705" n="5"/>    we had here more grass for our horses than the preceeding evening yet it was but scant.    the party were a good deel dejected tho' not so as I had apprehended they would have been.    this is the first time since we have been on this long tour that we have ever been compelled to retreat or make a retrograde march.    it rained on us most of this evening.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-06-17.02" n="lc.geo.1806-06-17.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Tuesday June 17th 1806</hi>
+                  </date>
+               </ab>
+               <p>
+We Collected our horses and Set out early; we proceeded down <name type="place" key="Hungery Creek">hungary Creek</name> about 7 miles passing it twice; we found it dificuelt and dangerous to pass the creek in consequence of it's debth and rapidity; we avoided two other passes of the creek, by assending a Steep rockey and difficuelt hill.    beyond this Creek the road assends the mountain to the hight of the main leading ridges, which divides the waters of the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name> and <name type="place" key="North Fork Clearwater (Chopunnish) River">Chopunnish Riv's</name>. This mountain we ascended about 3 miles when we found ourselves invelloped in snow from 8 to 12 feet deep even on the South Side of the mountain. I was in front and Could only prosue the derection of the road by the trees which had been peeled by the nativs for the iner bark of which they Scraped and eate, as those pealed trees were only to be found Scattered promisquisley, I with great difficulty prosued the direction of the road one mile further to the top of the mountain where I found the Snow from 12 to 15 feet deep, but fiew trees with the fairest exposure to the Sun; here was Winter with all it's rigors; the air was Cold my hands and feet were benumed.    we knew that it would require four days to reach the fish weare at the enterance of <name type="place" key="Colt Killed Creek">Colt Creek</name>, provided we were So fortunate as to be enabled to follow the poper ridge of the mountains to lead us to that place; of this all of our most expert woodsmen and principal guides were extreemly doubtfull; Short of that point we could not hope for any food for our horses not even under wood itself as the whole was covered many feet deep in Snow.    if we proceeded and Should git bewildered in those Mountains the Certainty was that Should lose all of our horses and consequencely our baggage enstrements perhaps our papers and thus eventially resque the loss of our discoveries which we had already made if we Should be So fortunate as to escape with life.    the Snow bore our horses very well and the traveling was therefore infinately better than the obstruction of rocks and fallen timber which we met with in our passage over last fall when the Snow lay on this part of the ridge in detached spops only.    under these Circumstances we Conceived it madness in this stage of the expedition to proceed without a guide who Could Certainly Conduct us to the fishwears on the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name>, as our horses could not possibly Sustain a journey of more than 4 or 5 days without food.    we therefore Come to the resolution to return with our horses while they were yet strong and in good order, and indeaver to keep them So untill we could precure an indian to conduct us over the <name type="place" key="Bitterroot (Snow) Mountains">Snowey Mountains</name>, and again to proceed as soon as we could precure Such a guide, knowing from the appearance of the snows that if we remained untill it had disolved Sufficiently for us to follow the road that we Should not be enabled to return to the United States within this Season.    having come to this resolution, we ordered the party to make a deposit of all the baggage which we had not imediate use for, and also all the roots and bread of Cows which they had except an allowance for a fiew days to enable them to return to Some place at which we could Subsist by hunting untill we precured a guide.    we left our instrements, and I even left the most of my papers believing them Safer here than to Wrisk them on horseback over the road, rocks and water which we had passed.    our baggage being laid on Scaffolds and well covered, we began our retragrade march at 1 P. M. haveing remain'd about three hours on this <name type="place" key="Bitterroot (Snow) Mountains">Snowey mountain</name>.    we returned by the rout we had advanced to <name type="place" key="Hungery Creek">hungary Creek</name>, which we assended about 2 miles and encamped.    we had here more grass for our horses than the proceeding evening, yet it was but scant.    the party were a good deel dejected, tho' not as much So as I had apprehended they would have been. this is the first time Since we have been on this long tour that we have ever been compelled to retreat or make a retragrade march.    it rained on us the most of this evening.    on the top of the Mountain the Weather was very fluctiating and uncertain snowed cloudy &amp; fair in a few minets.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-06-17.03" n="lc.geo.1806-06-17.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday 17th June 1806.    we Set out as usal the morning chilley and cloudy.    we proceeded on down Sd Creek about 6 miles then took up a high mountain.    when we got about half way up it the ground was covred with Snow 3 or 4 feet deep    as we ascended higher it got deeper untill we got to the top of the mountain where it was 12 or 15 feet in general even on the South Side where the Sun has open view but is So Settled So that it bears up our horses.—    here is not a sign of any green Shrub or any thing for our horses to eat, and of course no better for 4 days march a head.    if we could even find the road which is impossable without a guide as their is no Sign of a road or trail here So we halted on the top of this mountain and our officers consulted on what was best to do.    at length determined to our Sorrow to
+return to where we might git feed for our horses. So we Scaffelled up all our baggage we could do a Short time with out. Set in to hailling &amp; raining at this time verry cold and disagreeable. So we turned back much against our expectations when we Started    went back on <name type="place" key="Hungery Creek">hungry creek</name> &amp; followed up it about 2 miles &amp; Camped for the night.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-06-17.04" n="lc.geo.1806-06-17.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 17th.</hi>    There was a cloudy morning, but without rain. We early continued our march; took down <name type="place" key="Hungery Creek">Hungry creek</name> about six miles, and then took up a large mountain. When we got about half way up the mountain, the ground was entirely covered with snow, three feet deep; and as we ascended, it still became deeper, until we arrived at the top, where it was twelve or fifteen feet deep; but it in general carried our horses. Here there was not the appearance of a green shrub, or any thing for our horses to subsist on; and we know it cannot be better for four days march even could we find the road or course, which appears almost impossible, without a guide perfectly acquainted with the mountains. We therefore halted to determine what was best to be done, as it appeared not only imprudent but highly dangerous to proceed without a guide of any kind. After remaining about two hours, we concluded it would be most adviseable to go back to some place where there was food for our horses. We therefore hung up our loading on poles, tied to and extended between trees, covered it all safe with deer skins, and turned back melancholy and disappointed. At this time it began to rain; and we proceeded down to <name type="place" key="Hungery Creek">Hungry creek</name> again; went up it about two miles, and encamped for the night where our horses could get something to eat. The grass and plants here are just putting out, and the shrubs budding. It rained hard during the afternoon.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n36061701" n="1">At this point the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name> is the <name type="place" key="Lochsa (Upper Kooskooske) River">Lochsa River</name>, in <name type="place" key="Idaho County, Idaho">Idaho County</name>, <name type="place" key="Idaho">Idaho</name>. Space, 32; <hi rend="italic">Atlas</hi> maps 70, 71.</note>
+            <note xml:id="n36061702" n="2">
+               <name type="place" key="Colt Killed Creek">Colt Killed Creek</name>, <name type="place" key="Colt Killed Creek">"Killed Colt Creek</name>" on <hi rend="italic">Atlas</hi> map 70; present <name type="place" key="Colt Killed Creek">White Sand Creek</name> in <name type="place" key="Idaho County, Idaho">Idaho County</name>. See <ref n="1805-09-14" type="related">September 14, 1805</ref>.</note>
+            <note xml:id="n36061703" n="3">From conversations with <name type="person" key="Clark, William">Clark</name> after the expedition, <name type="person" key="Biddle, Nicholas">Biddle</name> expanded on the matters of guides and leaving supplies unattended in the wilderness. <name type="person" key="Biddle, Nicholas">Biddle</name> Notes [ca. April 1810], Jackson (LLC), 2:544.</note>
+            <note xml:id="n36061704" n="4">The baggage was cached on what is now called <name type="place" key="Willow Ridge">Willow Ridge</name>, just west of <name type="place" key="Sherman Saddle">Sherman Saddle</name> in <name type="place" key="Idaho County, Idaho">Idaho County</name>. It was a mile or more northeast of <name type="person" key="Clark, William">Clark's</name> "Encamped 18th Septr 1805" on <hi rend="italic">Atlas</hi> map 70. Space, 32; Peebles (RLC), 22; Peebles (LT), map.</note>
+            <note xml:id="n36061705" n="5">On the south side of <name type="place" key="Hungery Creek">Hungery Creek</name>, in <name type="place" key="Idaho County, Idaho">Idaho County</name>. On <hi rend="italic">Atlas</hi> map 70 the site lies between <name type="person" key="Clark, William">Clark's</name> "Encamped 18th Septr 1805" and the main party's "Campd 19th."  Space, 32; Peebles (LT), map.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-06-16" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-06-18" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-10-28">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+October 28, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">346-348</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">246</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">163</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">374-375</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-10-28.01">
+            <placeName/>
+            <geo>45.65 -121.2167</geo>
+            <note>Camped near Crates Point, Wasco County, OR.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-07-08</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-10-28">October 28, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-10-28.01" n="lc.geo.1805-10-28.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">October 28th Monday 1805</hi>
+                     <ref target="n24102801" n="1"/>
+                  </date>
+               </ab>
+               <p>
+a windey morning    loaded our Canoes and Set out at 9 oClock a m    3 Canoes Came 〈up〉 down from the Village above &amp; 2 from that below    in one of those Canoes a Indian wore his hair cued, and had on a round hat. Wind from West</p>
+               <p>
+                  <table rows="3" cols="2">
+                     <head>Course distanc</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 50° W.</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">miles    Cove in a Lard. bend    Clift of rocks on each Side of<lb/>
+90 feet high, fiew pine</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">2</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles to an Indian village of the <hi rend="italic">
+                              <name type="native_nation" key="Wishram-Wasco Indians">Wishram</name>
+                           </hi> nation of<lb/>
+8 houses in the form of those above, passed the mouth of a<lb/>
+Small Creek</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+Those Indians have a musket a Sword, and Several Brass <hi rend="italic">Tea</hi> kittles which they appear to be verry fond of    we purchased of those people five Small dogs, and Some Dried beries &amp; white bread of roots, the wind rose and we were obliged to 〈ly〉 lie by about 1 mile below on the Lard. Side</p>
+               <p>
+North 1 mile to a rock Island on the Stard. Side.    we had not landed long eer an Indian Canoe Came from below with 3 Indians in it, those Indians make verry nice Canoes of Pine. Thin with aporns &amp; Carve on the head imitation of animals &amp; other heads; The Indians above Sacrafise the property of the Deceased to wit horses Canoes, bolds [bowls] Basquets of which they make great use to hold water boil their meet &amp;c. &amp;c.    great many Indians came down from the uppr Village &amp; Sat with us, Smoked, rained all the evenig &amp; blew hard from the West    encamped on the Lard Side opsd. an Rock in a verry Bad place<ref target="n24102802" n="2"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-28.02" n="lc.geo.1805-10-28.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">October 28th Monday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+A cool windey morning    we loaded our Canoes and Set out at 9 oClock, a. m.    as we were about to Set out 3 canoes from above and 2 from below came to view us    in one of those Canoes I observed an Indian with round hat Jacket &amp; wore his hair cued [<hi rend="italic">NB: he Said he got them from Indians below the great rapid who bought them from the whites</hi>]    we proceeded on river inclosed on each Side in high Clifts of about 90 feet of loose dark coloured rocks<ref target="n24102803" n="3"/>    at four miles we landed at a village of 8 houses on the Stard. Side under Some rugid rocks, Those people call themselves <hi rend="italic">
+                     <name type="native_nation" key="Wishram-Wasco Indians">Chil-luckit-te-quaw</name>,</hi>
+                  <ref target="n24102804" n="4"/> live in houses Similar to those described, Speake Somewhat different language with maney words the Same &amp; understand those in their neighbourhood    <name type="person" key="Lewis, Meriwether">Cap Lewis</name> took a vocabilary of this Language    I entered one of the houses in which I Saw a British musket, a cutlash [cutlass] and Several brass Tea kittles of which they appeared verry fond Saw them boiling fish in baskets with Stones, I also Saw [<hi rend="italic">NB: badly executed</hi>] figures of animals &amp; men Cut &amp; painted on boards in one Side of the house which they appeared to prize, but for what purpose I will not venter to Say,—.    here we purchased five Small Dogs, Some dried buries, &amp; white bread made of roots, the wind rose and we were obliged to lie by all day at 1 mile below on the Lard. Side.    we had not been long on Shore before a Canoe came up with a man woman &amp; 2 children, who had a fiew roots to Sell, Soon after maney others joined them from above, The wind which is the cause of our delay, does not retard the motions of those people at all, as their canoes are calculated to ride the highest waves, they are built of white cedar or Pine verry light wide in the middle and tapers at each end, with aperns, and heads of animals carved on the bow, which is generally raised.<ref target="n24102805" n="5"/> Those people make great use of Canoes, both for transpotation and fishing, they also use of bowls &amp; baskets made of Grass &amp; [<hi rend="italic">NB: bark</hi>] Splits<ref target="n24102806" n="6"/> to hold water and boil their fish &amp; meat. Maney of the nativs of the last Village Came down Set and Smoke with us, wind blew hard accompanied with rain all the evening, our Situation not a verry good one for an encampment, but Such as it is we are obliged to put up with, the harbor is a Safe one, we encamped on the Sand wet and disagreeable    one Deer killed this evening, and another wounded near our Camp.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-28.03" n="lc.geo.1805-10-28.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday</hi> 28th Oct. 1805.    rained hard the later part of last night.    cleared up this morning    we then loaded the canoes and Set out    proceeded on down a fiew miles and halted at a Small village<ref target="n24102807" n="7"/> on the Stard side where we bought several dogs Some berrys &amp;C. Saw a british musket copper tea kittles &amp;C. among them.    we then went on a Short distance further    the 
+wind rose So high N W that obledged us to halt on the Lard. Side under Some clifts of rocks.    the Indians came in their canoes to our camps.     one of the party killed a Deer and wounded another this evening a Short distance back near a pond.    a little rain this evening.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-28.04" n="lc.geo.1805-10-28.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 28th.</hi>    Just before day light there was a shower of rain; but at sun rise the morning was fine and clear. At 8 o'clock we embarked, went about 4 miles, and halted at a small village of the natives and got some dogs from them. Here we stayed about an hour and proceeded on again for about a mile, when we were compelled to stop on account of the wind, which blew so hard ahead that we were unable to continue our voyage. In the course of the day there were some showers of rain. In the evening one of the men went out and killed a fine deer. We were in good safe harbour and remained there 
+all night, accompanied by the natives.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-28.05" n="lc.geo.1805-10-28.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 28th Oct. 1805</hi>.    the wind Seased the later part of last night, and began to rain and rained moderately untill morning, then cleared off    we loaded up the canoes and Set out about 9 oClock    the wind raised and blew high from the west.    we proceeded on about 4 miles and halted at an Indian village of about 6 lodges, where we Saw an old Brittish musket and Sword, copper tea kittles &amp;c.    we bought Several 5 fat dogs, Some root bread &amp;c.    then proceeded on a Short distance further down    the wind rose So high 
+from the west that caused the waves to roll So that we thought it not Safe to proceed    So we halted under a clift of rocks on the Lard. Side.    had Several Squalls of [wind?] &amp; high all day.    So we Camped for the night.    one of the party killed a Deer this evening, and wounded another near a Small pond a Short distance back from the River.—    a nomber of the natives visited us &amp;c.—</p>
+               <p>
+Monday October 28th    The wind ceased blowing the latter part of last night; when it began to rain and continued raining moderately till morning; when we loaded our Canoes, and set out on our Voyage at 9 o'Clock A. M. the wind rose again, &amp; blew from the Westward.    We proceeded on, 〈and〉  about 4 Miles, when we halted at an Indian Village of 6 lodges, where we saw an Old British Musquet, a Sword, Copper tea kettles &amp;ca.    We bought of the Natives at this place 5 fatt dogs, some Root bread &amp; several other Articles.—</p>
+               <p>
+We continued on our way a short distance further down the River, when the Wind rose so high from the Westward, &amp; the Waves ran also so high, that our officers thought it dangerous to proceed.    We came too with our Canoes under a Clift of rocks, which lay on the South side of the River.    We had several squalls of wind during this day.    We encamped on the So. side of the River.    One of our party killed one Deer, &amp; wounded another; in the 
+Evening, near a small pond; a short distance back from the River, which deer he brought to our Camp.—    We had a number of the Natives to visit us after we had encamped.—
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n24102801" n="1">
+               <name type="person" key="Clark, William">Clark</name> now has the days of the week correct in his Elkskin-bound Journal. It may have been at this date that he went back to make corrections.</note>
+            <note xml:id="n24102802" n="2">In <name type="place" key="Wasco County, Oreg.">Wasco County</name>, <name type="place" key="Oregon">Oregon</name>, a few miles below <name type="place" key="Columbia River, The Dalles of the (Great Narrows)">The Dalles</name>, in the vicinity of <name type="place" key="Crates Point">Crates Point</name>, and above <name type="place" key="Rowena, Oreg.">Rowena</name>. <hi rend="italic">Atlas</hi> map 78. It is near the archaeological site of <name type="place" key="Bad Place site">Bad Place</name> (after <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>), an area occupied primarily after 1400 A.D. Cole. <name type="person" key="Clark, William">Clark</name> has the number "5" at the end of this line showing the day's mileage accumulation.</note>
+            <note xml:id="n24102803" n="3">These cliffs are composed of the middle Miocene <name type="place" key="Frenchman Springs Member">Frenchman Springs Member</name> of the Wanapum Basalt. The rocks here have been broken and fractured by a thrust fault that has moved these rocks some distance to the south.</note>
+            <note xml:id="n24102804" n="4">For the <name type="native_nation" key="Wishram-Wasco Indians">Chil-luckit-tequaws</name> see notes at the previous day's entry. The village referred to here may be <hi rend="italic">nayakxa'tcix</hi> village, meaning "tooth" or "row of pointed rocks." Spier &amp; Sapir, 166.</note>
+            <note xml:id="n24102805" n="5">For a more complete description and drawings of the canoes of the lower <name type="place" key="Columbia River">Columbia</name>, see below, <ref n="1806-02-01" type="related">February 1, 1806</ref>.</note>
+            <note xml:id="n24102806" n="6">The bark splits are probably from the roots of western redcedar, which was used extensively in Indian basketry. Gunther, 19–20.</note>
+            <note xml:id="n24102807" n="7">The party's <name type="native_nation" key="Wishram-Wasco Indians">Chiluckittequaws</name> (variously spelled), probably <name type="native_nation" key="Wishram-Wasco Indians">Wishram-Wascos</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-10-27" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-10-29" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

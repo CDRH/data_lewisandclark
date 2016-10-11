@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-08-06">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 6, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">149, 282-283</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">346</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">263</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-08-06.01">
+            <placeName/>
+            <geo>47.4833 -101.4</geo>
+            <note>Clark camped somewhat above Tobacco Creek, the site now submerged by Garrison Reservoir, McKenzie County, ND.</note>
+         </geoDecl>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-08-06.02">
+            <placeName/>
+            <geo>48.1072 -105.1732</geo>
+            <note>The rest of the party camped in Richland County, MT, 10 miles east of present Poplar.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh" n="category">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-12-08</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-08-06">August 6, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-08-06.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday August 6th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+A little after dark last evening a violent storm arrose to the N. E. and shortly after came on attended with violent Thunder lightning and some hail; the rail fell in a mere torrant and the wind blew so violently that it was with difficulty I could have the small canoes unloaded before they filled with water; they sustained no injury.    our situation was open and exposed to the storm.    in attending to the canoes I got wet to the skin and having no shelter on land I betook myself to the orning of the perogue which I had, formed of Elkskin, here I obtained a few hours of broken rest; the wind and rain continued almost all night and the air became very cold.    we set out early this morning and decended the river about 10 miles below <name type="place" key="Poplar (Porcupine) River">Porcupine river</name>
+                  <ref target="n37080601" n="1"/> when the wind became so violent that I laid by untill 4 P. M.    the wind then abaiting in some measure we again resumed our voyage, and decended the river about 5 miles below our encampment of the 1st of May 1805 where we halted for the night on the S. W. side of the river.<ref target="n37080602" n="2"/>    after halting we killed three fat cows and a buck.    we had previously killed today 4 deer a buck Elk and a fat cow. in short game is so abundant and gentle that we kill it when we please. the <name type="person" key="Field, Joseph and Reubin">Feildses</name> went on ahead this evening and we did not overtake them. we saw several bear in the course of the day.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-06.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Friday 6th August 1806</hi>
+                  </date>
+               </ab>
+               <p>
+I rose very wet.    about 11 P M last night the wind become very hard for a fiew minits Suckceeded by Sharp lightning and hard Claps of Thunder and rained for about 2 hours very hard after which it continued Cloudy the balance of the night.    as we were about Setting out a female Big horn animal came on the bluff imediately above us and looked down. I derected <name type="person" key="Labiche, François">Labeech</name> to Shoot it which he did, after Skinning this animal we Set out and proceeded on to a Sand bar on the S W. Side below the enterance of <name type="place" key="Little Muddy (White Earth) River">White earth river</name> where I landed and had the meat Skins and bedding all put out to dry.<ref target="n37080603" n="3"/>    wind hard from the N W. I halted on the N W. Side of this river in the bend above the <name type="place" key="Little Muddy (White Earth) River">white earth river</name>, where I saw where the Indians had been digging a root which they eate and use in Seup [<hi rend="italic">NB: Soup</hi>],<ref target="n37080604" n="4"/> not more than 7 or 8 days past. This morning a very large Bear of white Specis, discovered us floating in the water and takeing us, as I prosume to be Buffalow imediately plunged into the river and prosued us. I directed the men to be Still.    this animal Came within about 40 yards of us, and tacked about.    we all fired into him without killing him, and the wind So high that we could not pursue hi[m], by which means he made his escape to the Shore badly wounded. I have observed buffalow floating down which I suppose must have been drounded in Crossing above.    more or less of those animals drown or mire in passing this river. I observed Several floating buffalow on the <name type="place" key="Yellowstone River">R. Rochejhone</name> imediately below where large gangues had Crossed. The wind blew hard all the after part of the day. I derected the men to dress their Skins except one which I took with me and walkd. through the bottom to the foot of the hills    I killed five deer and the man with me killed 2.    four others were killed in the Course of the day by the party only 2 of those deer were fat owing as I suppose to the Musquetors which are So noumerous and troublesom to them that they Cannot feed except under the torments of millions of those Musquetors.
+
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-06.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 6th August 1806.    a fair morning.    we loaded up our canoes and Set out as usal and procd. on    about 10 A. M. passd. the mo. of <name type="place" key="Red Water (2,000 Mile) Creek">2000 mile Creek</name>.<ref target="n37080605" n="5"/>    the wind rose high    So halted.    the hunters went out and killed Several deer.    we delayed about 3 hours then proceeded on    in the evening we Camped<ref target="n37080606" n="6"/> at a large bottom S. Side    a fat Elk killd. and 2 fat buffaloe    we took Some of the fattest of the meat.    the buffaloe Elk and all kinds of game are pleanty and verry tame &amp;C &amp;C.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-06.04" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 6th.</hi>    We embarked early, and had a fine morning, but high wind. At 12 o'clock the wind blew so violent that it became dangerous to go on, and we halted; and some of the men went out and shot a large buck, but not dead and he got into the river; when two of them pursued in a canoe and caught him. Having remained here three hours, we again went on until night and encamped. We have yet seen nothing of the two hunters who had been left behind in the small canoe.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n37080601" n="1">
+               <name type="place" key="Poplar (Porcupine) River">Poplar River</name>, in <name type="place" key="Roosevelt County, Mont.">Roosevelt County</name>, <name type="place" key="Montana">Montana</name>; see <ref n="1805-05-03" type="related">May 3, 1805</ref>. <hi rend="italic">Atlas</hi> map 36; MRC map 62.</note>
+            <note xml:id="n37080602" n="2">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> camped in <name type="place" key="Richland County, Mont.">Richland County</name>, <name type="place" key="Montana">Montana</name>, some ten miles east of the present town of <name type="place" key="Poplar, Mont.">Poplar</name>. <hi rend="italic">Atlas</hi> map 36; MRC map 62.</note>
+            <note xml:id="n37080603" n="3">
+               <name type="person" key="Clark, William">Clark</name> does not say how far below the mouth of <name type="place" key="Little Muddy (White Earth) River">Little Muddy River</name> (<name type="place" key="Little Muddy (White Earth) River">White Earth River</name>) this camp was; it was probably in <name type="place" key="McKenzie County, N. Dak.">McKenzie County</name>, <name type="place" key="North Dakota">North Dakota</name>, on a site now submerged by <name type="place" key="Garrison Reservoir">Garrison Reservoir</name>, somewhere above <name type="place" key="Tobacco (Hall's Strand) Creek">Tobacco Creek</name> (see <ref n="1806-08-09" type="related">August 9, 1806</ref>).</note>
+            <note xml:id="n37080604" n="4">Breadroot, scurf pea, pomme blanche, prairie turnip, <hi rend="italic">Psoralea esculenta</hi> Pursh. See <name type="person" key="Lewis, Meriwether">Lewis's</name> description at <ref n="1805-05-08" type="related">May 8, 1805</ref>. This ethnobotanical observation documents an early August harvest of breadroot. At this time the Indians would have been able to locate the roots before the above-ground stem had abscised and broken away from the storage root, and it would have been at a most nutritious stage, after the spring flowering and carbohydrate storage period. Booth &amp; Wright, 137; Barkley, 181; Wedel (NPT).</note>
+            <note xml:id="n37080605" n="5">
+               <name type="place" key="Red Water (2,000 Mile) Creek">Redwater River</name>, <name type="place" key="McCone County, Mont.">McCone County</name>, <name type="place" key="Montana">Montana</name>.</note>
+            <note xml:id="n37080606" n="6">In <name type="place" key="Richland County, Mont.">Richland County</name>, about ten miles east of the town of <name type="place" key="Poplar, Mont.">Poplar</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-08-05" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-08-07" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-09-12">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+September 12, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">66-68</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">58</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">38-39</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">73-74</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-09-12.01">
+            <placeName/>
+            <geo>43.5146 -99.2985</geo>
+            <note>Only a few miles away from their previous camp due to shallow waters giving them trouble. A little above the Gregory-Lyman County line, SD</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-03-08</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-09-12">September 12, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-09-12.01" n="lc.geo.1804-09-12.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <table rows="1" cols="3">
+                     <head>
+                        <hi rend="italic">Course Distance &amp;c. 12 th of Septr. 1804.</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">miles to a point of woods on the L. S.    passed an Isd <name type="place" key="Durex (Troublesome) Island">Trouble-<lb/>
+som Island</name>
+                           <ref target="n06091201" n="1"/> in the middle of the river    at the upper pt of this<lb/>
+Island the river was so crouded with Sand bars that we found<lb/>
+great dificulty in getting the boat over, she turned on the Sand<lb/>
+4 times and was verry near turning over.    we camped on the<lb/>
+L. S. near a village of Prarie Dogs</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+Some rain all day to day &amp; Cold—</p>
+               <p>
+I walked on Shore    Saw Several foxes Several Villages of Prarie dogs, and a number of Grouse<ref target="n06091202" n="2"/>
+               </p>
+               <p>
+                  <hi rend="italic">Septr. 12th Wednesday 1804</hi>    Set out early    a Dark Cloudey morning wind from the N W.    cold    passed, (a village of Little Squerals or Prarie dogs opsd. Camp on the N. Side.)<ref target="n06091203" n="3"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-12.02" n="lc.geo.1804-09-12.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>(12th)</date>
+               </ab>
+               <p>
+                  <table rows="2" cols="3">
+                     <head>
+                        <hi rend="italic">Course Distance &amp; reffrs. Septr. 12th</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N.45° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">4</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles to a point of wood on the L. S.    Passed an Island in the<lb/>
+Center of the river and Several Sand bars (1) on which we<lb/>
+found great dificuelty in passing the water being verry Shallow</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">4</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi rend="right">
+                     <hi rend="italic">Septr. 12th Wednesday 1804</hi>
+                  </hi>
+               </p>
+               <p>
+a Dark Cloudy Day the wind hard from the N. W.    we passed (1) a Island the middle of the river at the head of which we found great dificuelty in passing between the Sand bars    the water Swift and Shallow, it took ¾ of the day to make one mile, we Camped on the L. S. opsd. a Village of Barking Prarie Squriels</p>
+               <p>
+I walked out in the morn:g and Saw Several Villages of those little animals, also a great number of Grous &amp; 3 foxes, and observed Slate &amp; Coal mixed,<ref target="n06091204" n="4"/> Some verry high hills on each Side of the river.<ref target="n06091205" n="5"/>    rains a little all day.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-12.03" n="lc.geo.1804-09-12.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 12th Sept. 1804.    the wind shifted Since last night in to the North. Set off as usual    proceded on Slowly.    the current Swift &amp; wind a head.—    <name type="person" key="Clark, William">Capt. Clark</name> walked on Shore S. S. <name type="person" key="Gass, Patrick">Sergt. Gass</name> &amp; <name type="person" key="Newman, John">Newman</name> with him.—    we had Some difficulty owing to the river being Shallow.    the Boat wheeled Several times and creened on hir Side So that we were obledged to Spring out and hold hir from oversetting.    we hunted for the channel &amp; were forced to turn back some distance &amp; take another channel.—    We Camped on S. S.<ref target="n06091206" n="6"/>    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> went out found another village of little Dogs in a Bottom prarie above the Island we called <name type="place" key="Durex (Troublesome) Island">Troublesome Isd.</name>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-12.04" n="lc.geo.1804-09-12.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 12th.</hi>    We set out as usual and had a cloudy day; passed a long range of black bluffs on the south side, and an island covered with timber, which is all the timber that can be seen from this place. The country round is all hills and prairie. <name type="person" key="Clark, William">Captain Clarke</name>, myself and another<ref target="n06091207" n="7"/> went out to hunt, and did not return till after dark. The boat had much difficulty in passing on account of the sand bars and strong current, and did not make to day more than four miles.<ref target="n06091208" n="8"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-12.05" n="lc.geo.1804-09-12.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 12 Sept. 1804</hi>
+                  <ref target="n06091209" n="9"/>    Clouday.    <name type="person" key="Field, Reubin">R. Fields</name> continued on with the horse.    passed a long range of black bluffs on the S. S. and an Island covered with timber.    that is all the wood that is to be Seen at this place.    all the 
+country is hills and praries.    at 12 oclock <name type="person" key="Clark, William">Capt. Clark</name>
+                  <name type="person" key="Newman, John">Newman</name> and <name type="person" key="Gass, Patrick">Sergt. Gass</name> went a hunting.    those in the barge had a Great deal of trouble to Git along the Sand bars, their was So many and the current So rapid that we did not come more than 4 miles.    Camped after dark on the S Side.</p>
+               <p>
+Wednesday Septemr 12th    This morning Cloudy, the Man who had the horse on shore, continued on with him.    We set out about 8 o'clock A. M. and passed a long range of black bluffs, lying on the South side of the River; and an Island covered with timber, which is the only place here that had wood on it.    The country here being Priaries and hills.    At 12 oClock A. M. <name type="person" key="Clark, William">Captain Clarke</name> and two of our Serjeants landed, in order to go a hunting.    The Men who were in the barge, had a great deal of trouble to get her along, their being so many sand Barrs in the way, and the current running, so rapid against us, so that we did not come more than 4 Miles this day.    We came too after dark, &amp; encamped on the South side of the River,
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n06091201" n="1">Evidently later <name type="place" key="Durex (Troublesome) Island">Durex, or Hiram Wood, Island</name>. <hi rend="italic">Atlas</hi> map 20; MRC map 35; MRY map 37.</note>
+            <note xml:id="n06091202" n="2">The sharp-tailed grouse, a <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> discovery although they apparently never gave a full description of it. They sent a live specimen to <name type="person" key="Jefferson, Thomas">Jefferson</name> from <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name> in April 1805, but it did not survive the journey. Cutright (LCPN), 81, 121, 375–77.</note>
+            <note xml:id="n06091203" n="3">The prairie dog village, not the camp, was on the north side. The camp was apparently a short distance north of the <name type="place" key="Lyman County, S. Dak.">Lyman</name>-<name type="place" key="Gregory County, S. Dak.">Gregory</name> county line, <name type="place" key="South Dakota">South Dakota</name>. <hi rend="italic">Atlas</hi> map 20; MRC map 36.</note>
+            <note xml:id="n06091204" n="4">
+               <name type="person" key="Clark, William">Clark</name> mistakes the Pierre Shale, which is very rich in organic matter and dark gray to black in color, for slate and coal.</note>
+            <note xml:id="n06091205" n="5">Including the <name type="place" key="Bijou Hills">Bijou Hills</name> in <name type="place" key="Brule County, S. Dak.">Brule County</name>, east of the river. Nicollet (MMR), 411; MRC map 36.</note>
+            <note xml:id="n06091206" n="6">Apparently a short distance north of the <name type="place" key="Lyman County, S. Dak.">Lyman</name>-<name type="place" key="Gregory County, S. Dak.">Gregory</name> county line, <name type="place" key="South Dakota">South Dakota</name>.</note>
+            <note xml:id="n06091207" n="7">
+               <name type="person" key="Newman, John">Newman</name>.</note>
+            <note xml:id="n06091208" n="8">They camped in <name type="place" key="Brule County, S. Dak.">Brule County</name>, <name type="place" key="South Dakota">South Dakota</name>.</note>
+            <note xml:id="n06091209" n="9">
+               <name type="person" key="Whitehouse, Joseph">Whitehouse</name> again may have written "4" over "6" for the year.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-09-11" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-09-13" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

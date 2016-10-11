@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-09-24">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+September 24, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">371-372</biblScope>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-12-23</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date>September 24, 1806</date>
+         </head>
+         <div type="entry">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday 24th of September 1806</hi>
+                  </date>
+               </ab>
+               <p>
+I sleped but little last night    however we rose early and Commencd wrighting our letters    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> wrote one to the presidend<ref target="n40092401" n="1"/> and I wrote <name type="person" key="Harrison, William Henry">Govr. Harrison</name>
+                  <ref target="n40092402" n="2"/> &amp; my friends in <name type="place" key="Kentucky">Kentucky</name>
+                  <ref target="n40092403" n="3"/> and Sent of <name type="person" key="Drouillard, George">George Drewyer</name> with those letters to <name type="place" key="Cahokia, Ill.">Kahoka</name> &amp; delivered them to <name type="person" key="Hay, John">Mr. Hays</name>
+                  <ref target="n40092404" n="4"/> &amp;.    we dined with <name type="person" key="Chouteau, Jean Pierre">Mr. Chotoux</name> to day, and after dinner went to a Store and purchased Some Clothes, which we gave to a Tayler and derected to be made. <name type="person" key="Lewis, Meriwether">Capt Lewis</name> in opening his trunk found all his papers wet, and Some Seeds spoiled<ref target="n40092405" n="5"/>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n40092401" n="1">See <name type="person" key="Lewis, Meriwether">Lewis</name> to <name type="person" key="Jefferson, Thomas">Jefferson</name>, September 23, 1806, Jackson (LLC), 1:319–24.</note>
+            <note xml:id="n40092402" n="2">
+               <name type="person" key="Harrison, William Henry">William Henry Harrison</name>, an old army comrade of <name type="person" key="Clark, William">Clark's</name> and now governor of <name type="place" key="Indiana Territory">Indiana Territory</name>.</note>
+            <note xml:id="n40092403" n="3">
+               <name type="person" key="Clark, William">Clark's</name> letter to his relatives in <name type="place" key="Kentucky">Kentucky</name> was probably intended for publication, and was in fact the first published report of the expedition. <name type="person" key="Lewis, Meriwether">Lewis</name> actually composed the first draft, which <name type="person" key="Clark, William">Clark</name> copied. <name type="person" key="Clark, William">Clark</name> to [<name type="person" key="Clark, George Rogers">George Rogers Clark</name>?], September 23, 1806, <name type="person" key="Lewis, Meriwether">Lewis's</name> draft of <name type="person" key="Clark, William">Clark's</name> Letter, September 24, 1806, Jackson (LLC), 1:325–35. In October 1990 the Filson Club of <name type="place" key="Louisville, Ky.">Louisville</name>, <name type="place" key="Kentucky">Kentucky</name>, received a number of <name type="person" key="Clark, William">Clark's</name> letters written to his brother <name type="person" key="Clark, Jonathan">Jonathan</name>. What had previously been suspected as a letter to <name type="person" key="Clark, George Rogers">George Rogers Clark</name> on September 23, 1806, appeared among the new collection addressed to <name type="person" key="Clark, Jonathan">Jonathan</name>. Jackson surmised that the letter might well have been intended for <name type="person" key="Clark, Jonathan">Jonathan</name> when he gave <name type="person" key="Clark, George Rogers">George Rogers</name> as the possible addressee.</note>
+            <note xml:id="n40092404" n="4">
+               <name type="person" key="Clark, William">Clark</name> probably means <name type="person" key="Hay, John">Hay</name> again.</note>
+            <note xml:id="n40092405" n="5">The remaining half-page (p. 77 of Codex N) is blank.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-09-23" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-09-25" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

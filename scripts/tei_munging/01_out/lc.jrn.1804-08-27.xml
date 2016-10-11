@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-08-27">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 27, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">16-19</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">45</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">31-32</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">63</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-08-27.01">
+            <placeName/>
+            <geo>42.8623 -97.336</geo>
+            <note>Between Yankton, SD, and James Creek in Yankton County, SD</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-03-03</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-08-27">August 27, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-08-27.01" n="lc.geo.1804-08-27.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+27th <hi rend="italic">August</hi> Monday, this morning the Morning Star was observed to be very large, <name type="person" key="Drouillard, George">G Drewyer</name> Came up and informed that he Could neither find <name type="person" key="Shannon, George">Shannon</name> or the horses, he had walked all night— we Sent <name type="person" key="Shields, John">Shields</name> &amp; <name type="person" key="Field, Joseph">J. Fields</name> back to look for <name type="person" key="Shannon, George">Shannon</name> &amp; the horses and to Come up with us on the river above at the <name type="place" key="Calumet Bluff (Nebr.)">grand Callemet</name> or <name type="place" key="Niobrara (Quicurre, Rapid) River">River KaCure</name>
+                  <ref target="n06082701" n="1"/> &amp; we Set out under a Gentle Breeze from the S. E.    proceeded on    passed a Bluff at 7 mes. Several mile in extent of white Clay Marl or Chalk, under this bank we discovered Large Stone resembling lime incrusted with a Substanc like Glass which I take to be Cabolt, also ore,<ref target="n06082702" n="2"/> three mes above this Bluff we Set the Prarie on fire, to let the <name type="native_nation" key="Sioux Indians">Soues</name> Know we wished to see them    at two oClock an Indian Swam to the Perogue, we landed &amp; two other Came    they were boys, they informed us that the <hi rend="italic">
+                     <name type="native_nation" key="Sioux Indians">Souex</name>
+                  </hi> were Camped near, on the <name type="place" key="James (Jacque) River (S. Dak.)">R Jacke</name>    one <name type="native_nation" key="Omaha Indians">Maha</name> boy informed us his nation was gorn to make a peace with the <name type="native_nation" key="Pawnee Indians">Pania's</name> [<name type="native_nation" key="Pawnee Indians">Pawnee</name>]    we Send <name type="person" key="Pryor, Nathaniel Hale">Sjt. Pryor</name> &amp; a frenchman with the Interptr. <name type="person" key="Dorion, Pierre, Sr.">Mr. Durion</name> to the Camp to See &amp; invite their Great Chiefs to Come and Counsel with us at the <name type="place" key="Calumet Bluff (Nebr.)">Callemet Bluffs</name> [<hi rend="italic">blank</hi>] Mile abov on L. S.—    we proceed on 1½ miles farther &amp; Camped S S.<ref target="n06082703" n="3"/>
+               </p>
+               <p>
+                  <table rows="5" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 73 W.</cell>
+                        <cell role="data" rows="1" cols="1">  7</cell>
+                        <cell role="data" rows="1" cols="1">mes. to the upper pt of Calx or Chalk Bluffs on L. S.<lb/>
+passd. a large Sand bar on L. S. &amp; 2 on S S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">mes to a tree in the bend to S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">W.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">m to the mouth of <name type="place" key="James (Jacque) River (S. Dak.)">rive Jacque</name>
+                           <ref target="n06082704" n="4"/> S. S. the Sisze of R [Soes?]</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80 W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  1 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">on the Side of a large mud bar on the S. S. and Camped.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">14</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-27.02" n="lc.geo.1804-08-27.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>27th <hi rend="italic">August Monday</hi> 1804</date>
+               </ab>
+               <p>	
+This morning the Star Calld. the morning Star much larger than Common    <name type="person" key="Drouillard, George">G. Drewyer</name> Came up and informed that he Could neither find <name type="person" key="Shannon, George">Shannon</name> nor horses, we Sent <name type="person" key="Shields, John">Shields</name> &amp; <name type="person" key="Field, Joseph">J Fields</name>, back to hunt 〈Sha〉 <name type="person" key="Shannon, George">Shannon</name> &amp; the horses, with derections to Keep on the Hills to the <name type="place" key="Calumet Bluff (Nebr.)">Grand Calumet</name> above on <name type="place" key="Niobrara (Quicurre, Rapid) River">River <hi rend="italic">Ka cure</hi>
+                  </name> [<hi rend="italic">NB: quecure</hi>].</p>
+               <p>
+We Set Sail under a gentle Breeze from the S. E.    at 7 miles passed a white Clay marl or Chalk Bluff    under this Bluff is extensive I discovered large Stone much like lime incrusted with a Clear Substance which I believe to be <hi rend="italic">Cabalt</hi>, also ore is imbeded in the Dark earth, resembling Slate much Softer—    above this Bluff we had the Prarie Set on fire to let the <name type="native_nation" key="Sioux Indians">Souix</name> See that we were on the river, as a Signal for them to Come to it.</p>
+               <p>
+at 2 oClock passed the mouth of <hi rend="italic">
+                     <name type="place" key="James (Jacque) River (S. Dak.)">River Jacque</name>
+                  </hi>, or <name type="place" key="James (Jacque) River (S. Dak.)">Yeankton</name>    one Indian at the mouth of this river Swam to the Perogue, we landed and two others came to us, those Inds. informed that a large Camp of <name type="native_nation" key="Sioux Indians">Soues</name>, were on <name type="place" key="James (Jacque) River (S. Dak.)">R. Jacque</name> near the mouth.    we Sent <name type="person" key="Pryor, Nathaniel Hale">Sergt. Pryor</name> &amp; a Frenchman with <name type="person" key="Dorion, Pierre, Sr.">Mr. Durioin</name> the <name type="native_nation" key="Sioux Indians">Souis</name> interpeter to the Camp with derections to invite the Principal Chiefs to councel with us at a Bluff above Called the <name type="place" key="Calumet Bluff (Nebr.)">Calumet</name>—    two of those Indians accompanied them and the third continued in the Boat Showing an inclination to Continue, this boy is a <name type="native_nation" key="Omaha Indians">Mahar</name>, and inform that his nation, were gorn to the <name type="native_nation" key="Pawnee Indians">Parnias</name> to make a peace with that nation.</p>
+               <p>
+We proceeded on about one and a half miles and in Camped on a bar makeing out from the S. S.    the wind blew hard from the South.    a Cool &amp; Pleasent evening, The river has fallen verry Slowly and is now low.</p>
+               <p>
+                  <table rows="5" cols="3">
+                     <head>
+                        <hi rend="italic">Course and Dist refrs. August 27</hi>.</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 73° W.</cell>
+                        <cell role="data" rows="1" cols="1">  7</cell>
+                        <cell role="data" rows="1" cols="1">miles to the upper part of a Calx or Chalk Bluff on the<lb/>
+L. S. haveing passd. a large Sand bar on the L. S. and two<lb/>
+on the S. S. also Some small bars in the R.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">mes. to a tree in a bend to the S. S. pass 2 Sand bars in the<lb/>
+river</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to the mouth of <name type="place" key="James (Jacque) River (S. Dak.)">River Jacque</name> on the S. S.    two large<lb/>
+Sand bars on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  1 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">mes. on the Side of a large mud bar makeing out above<lb/>
+the <name type="place" key="James (Jacque) River (S. Dak.)">River Jacque</name>s or <name type="place" key="James (Jacque) River (S. Dak.)">Yeankton</name>. This river about 85 or 90<lb/>
+yds. wide and is navagable for Perogues a Great distance,<lb/>
+it heads with the <name type="place" key="Minnesota River (St. Peters)">St. Peters</name> [<name type="place" key="Minnesota River (St. Peters)">Minnesota River</name>], of the <name type="place" key="Mississippi River">Mis-<lb/>
+sissippi</name> &amp; the <name type="place" key="Red River of the North">
+                              <hi rend="italic">red River</hi>
+                           </name> which runs into <name type="place" key="Lake Winnipeg">Lake Winipeck</name> &amp;<lb/>
+                           <name type="place" key="Hudson's Bay">Hudsons Bay</name>.<ref target="n06082705" n="5"/> 〈passing the head of <name type="place" key="Des Moines River">Demoin River</name>〉</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">14</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-27.03" n="lc.geo.1804-08-27.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="right">
+                        <hi rend="italic">(Point of Observation No. 34.)<lb/>
+Monday August 27th</hi>
+                        <ref target="n06082706" n="6"/>
+                     </hi>
+                  </date>
+               </ab>
+               <p>		
+		
+On the Stard. shore, opposite to the lower point, or commencement of the white Calk Bluff—</p>
+               <p>
+                  <table rows="8" cols="2">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Observed Magnetic azimth. of by <seg n="u9737">☉</seg> Circumft</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">S. 85°	E.</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  h     m      s</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Time by Chronometer    A. M.</cell>
+                        <cell role="data" rows="1" cols="1">  7     41    52</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Altd. of <seg n="u9737">☉</seg> U. L. by Sextant.</cell>
+                        <cell role="data" rows="1" cols="1">60°      4'     "</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <seg n="u9737">☉</seg>'s magnetic Azimuth by circumferentr.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">S. 84°	E.</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  h     m      s</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Time by Chronometer    A. M.</cell>
+                        <cell role="data" rows="1" cols="1">  7     46    13</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Altd. of <seg n="u9737">☉</seg>'s U. L. by Sextant</cell>
+                        <cell role="data" rows="1" cols="1">61°    57'     "</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+Observed time and altitudes of <seg n="u9737">☉</seg> with Sextant</p>
+               <p>
+                  <table rows="5" cols="6">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">Time</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">Altitude of</hi>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  h    m      s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">A.M.</cell>
+                        <cell role="data" rows="1" cols="1">  7    49    37</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <seg n="u9737">☉</seg>'s U. Limb</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">63°    8'    15"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  "     51      3</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <seg n="u9737">☉</seg>'s Center</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"        "        "</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">  "     52    40</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <seg n="u9737">☉</seg>'s Limb.</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"        "        "</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-27.04" n="lc.geo.1804-08-27.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="right">
+                        <hi rend="italic">(Point of Observation No. 35.)<lb/>
+[ca. August 27 1804]</hi>
+                        <ref target="n06082707" n="7"/>
+                     </hi>
+                  </date>
+               </ab>
+               <p>
+On the Stard. shore opposite to the upper point of the white Chalk Bluffs.</p>
+               <p>
+Observed meridian Altd. U. L. with Sextant by the fore observation 115° — 45"</p>
+               <p>
+Latitude deduced from this observatn.    42 53 13
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-27.05" n="lc.geo.1804-08-27.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 27th</hi>    we heard <name type="person" key="Drouillard, George">G. Drewyer</name> hollow before day this morning.    the pearogue went over eairly for him    he had not found the horses.    2 other men went out to hunt them, 2 of the party caught 12 fine cat fish last night, we Set off at Sun rise under a gentle Breeze from the S. E.    we Saw a mink<ref target="n06082708" n="8"/> under the bank    we Sailed on    passed a Chalk Bluff on S. S.    in the Same Bluff their is a vane of Black Sulpheras clay which has the appearance of Slate or Stone coal &amp; Some kinds of mineral Substance, we proceeded on    the Sand blew thick till abt. 3 o.C. P. M.    passed the Mouth of a large creek called River [pt.?] <hi rend="italic">Shark</hi>
+                  <name type="place" key="James (Jacque) River (S. Dak.)">Jaque</name>
+                  <ref target="n06082709" n="9"/> on N. S.    here we See a likely young Indian of the <name type="native_nation" key="Omaha Indians">Mahar</name> nation.    he told us that their camp was near; their is considerable of cottonwood Timber about this place, while we were halted here 2 more young Indians came to us.    one a <name type="native_nation" key="Omaha Indians">Mahar</name> the other a <name type="native_nation" key="Sioux Indians">Siowee</name>. <name type="person" key="Pryor, Nathaniel Hale">Sergt. pryor</name> &amp; 2 more<ref target="n06082710" n="10"/> went from the Boat with 2 of the Indians out to their Camp to invite them in to See us especially the Chiefs, the other Indian came along and went with us, we proceeded on till dark and Camped on a large Sand beach on the N. S.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-27.06" n="lc.geo.1804-08-27.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 27th.</hi>    Got under way at sunrise, and passed white bluffs on the south side. At 2 we stopped for dinner, and an Indian of the <name type="native_nation" key="Omaha Indians">Mahas</name> nation, who lives with the <name type="native_nation" key="Sioux Indians">Sioux</name> came to us here, at the mouth of the <name type="place" key="James (Jacque) River (S. Dak.)">Sacque river</name>;<ref target="n06082711" n="11"/> and while we remained here two more came in. A sergeant with our old Frenchman and another man went with two of the Indians to their camps, and the other went with us in the boat. We encamped on a sand beach on the north side.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-08-27.07" n="lc.geo.1804-08-27.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>	
+Monday 27th    <name type="person" key="Drouillard, George">G. Drewyer</name> came to us this morning    2 men Sent out for to hunt the horses.    we Set out at Sun rise under a gentle Breeze from the S. E.    we proceeded on    passed a chalk Bluff on S. S.    in this Bluff is Mineral Substance &amp;c—    we passed the Mouth of a large Creek called <name type="place" key="James (Jacque) River (S. Dak.)">River Jaque</name> on the N. S.    here we Saw 3 Indians<ref target="n06082712" n="12"/> they informed us that their Camp was near &amp; <name type="person" key="Pryor, Nathaniel Hale">Sergt. pryor</name> &amp; 2 men went    we then proceeded on until dark &amp; camped on a large Sand beach on the N. Side.</p>
+               <p>
+Monday August 27th    This morning early <name type="person" key="Drouillard, George">George Drewyer</name> our hunter came to us, two of our Men were sent out to hunt the horses, We set out at sunrise, with a gentle breese from the South East, and proceeded on, we passed a Chalk bluff, laying on the South side of the River; this bluff had also Mineral substance on it.    We proceeded on, and passed the Mouth of a large Creek, called the <name type="place" key="James (Jacque) River (S. Dak.)">River Jacque</name>, lying on the North side of the River.    Here we met with 3 Indians, who informed us that their Camp lay near us.    <name type="person" key="Lewis, Meriwether">Captain Lewis</name> sent <name type="person" key="Pryor, Nathaniel Hale">Serjeant Pryor</name> &amp; 2 Men to find them out &amp; bring them to us.—    We proceeded on our way with the boat &amp;ca till dark, and encamped on a large Sand barr, lying on the North side of the River—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n06082701" n="1">For <name type="place" key="Niobrara (Quicurre, Rapid) River">
+                  <hi rend="italic">L'Eau qui Court</hi>
+               </name>, or <name type="place" key="Niobrara (Quicurre, Rapid) River">Niobrara River</name>, see below, <ref n="1804-09-04" type="related">September 4, 1804</ref>.</note>
+            <note xml:id="n06082702" n="2">Here <name type="person" key="Clark, William">Clark</name> gets a good view of the <name type="place" key="Niobrara Formation">Niobrara Formation</name>, an impure chalk or marl, which later became famous for the fossil skeletons of marine reptiles and remains of foraminifera (one-celled animals) which it contains in abundance. The glassy substance is probably the coating of a concretion or nodule which is common in the <name type="place" key="Niobrara Formation">Niobrara</name>. <name type="person" key="Clark, William">Clark's</name> references to cobalt and ore are wishful thinking as no metallic ores have been discovered here.</note>
+            <note xml:id="n06082703" n="3">In <name type="place" key="Yankton County, S. Dak.">Yankton County</name>, <name type="place" key="South Dakota">South Dakota</name>, between the mouth of the <name type="place" key="James (Jacque) River (S. Dak.)">James River</name> and the present town of <name type="place" key="Yankton, S. Dak.">Yankton</name>. <hi rend="italic">Atlas</hi> map 18; MRC map 30; MRR maps 82, 83.</note>
+            <note xml:id="n06082704" n="4">The origin of the name <name type="place" key="James (Jacque) River (S. Dak.)">Rivière aux Jacques</name> is uncertain. It is now the <name type="place" key="James (Jacque) River (S. Dak.)">James River</name>, one of the principal streams of eastern <name type="place" key="North Dakota">North</name> and <name type="place" key="South Dakota">South Dakota</name>, locally known as "<name type="place" key="James (Jacque) River (S. Dak.)">Jim River</name>." <hi rend="italic">Atlas</hi> map 18; MRC map 30.</note>
+            <note xml:id="n06082705" n="5">The head of the <name type="place" key="James (Jacque) River (S. Dak.)">James</name>, in <name type="place" key="Wells County, N. Dak.">Wells County</name>, <name type="place" key="North Dakota">North Dakota</name>, is nowhere near the headwaters of the <name type="place" key="Mississippi River">Mississippi</name>, <name type="place" key="Red River of the North">Red</name>, or <name type="place" key="Minnesota River (St. Peters)">Minnesota</name> rivers.</note>
+            <note xml:id="n06082706" n="6">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> observation from Codex O.</note>
+            <note xml:id="n06082707" n="7">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> undated observation from Codex O, immediately following the previous one; the location seems to be near the campsite of August 27.</note>
+            <note xml:id="n06082708" n="8">
+               <name type="person" key="Ordway, John">Ordway</name> is the only writer who mentions seeing a mink, <hi rend="italic">Mustela vison</hi>.</note>
+            <note xml:id="n06082709" n="9">
+               <name type="place" key="James (Jacque) River (S. Dak.)">James River</name>, <name type="place" key="Yankton County, S. Dak.">Yankton County</name>, <name type="place" key="South Dakota">South Dakota</name>.</note>
+            <note xml:id="n06082710" n="10">
+               <name type="person" key="Dorion, Pierre, Sr.">Pierre Dorion, Sr.</name> and another Frenchman with him.</note>
+            <note xml:id="n06082711" n="11">
+               <name type="person" key="Gass, Patrick">Gass's</name> version of the <name type="place" key="James (Jacque) River (S. Dak.)">Rivière aux Jacques</name>, now <name type="place" key="James (Jacque) River (S. Dak.)">James River</name>, <name type="place" key="Yankton County, S. Dak.">Yankton County</name>, <name type="place" key="South Dakota">South Dakota</name>.</note>
+            <note xml:id="n06082712" n="12">The Indians were <name type="native_nation" key="Sioux Indians, Yankton">Yankton</name>
+               <name type="native_nation" key="Sioux Indians">Sioux</name>, the first plains nomads the party had met.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-08-26" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-08-28" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

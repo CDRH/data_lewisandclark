@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1803-09-13">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">September 13, 1803</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">80-81</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1803-09-13.01">
+            <placeName>Marietta, OH</placeName>
+            <geo>39.4 -81.45</geo>
+            <note>Marietta, OH</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2003-12-10</date>
+            <date/>
+            <name>Laura Weakly</name>
+            <name/>Initial creation Transcribed</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1803-09-13">September 13, 1803</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1803-09-13.01" n="lc.geo.1803-09-13.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">13th</hi> This morning being clare we persued our journey at sunrise and after passing a few riffles over which we had to lift the boat we arrived at <name type="place" key="Marietta, Ohio">Marietta</name>,<ref target="n02091301" n="1"/> the mouth of the <name type="place" key="Muskingum River">Muskingum river</name>, at 7 OClock in the evening    observid many pigeons<ref target="n02091302" n="2"/> passing over us pursuing a south East course. The squirrels still continue to cross the river from N. W. to S. E.—<name type="place" key="Marietta, Ohio">Marietta</name> is one hundred miles from <name type="place" key="Wheeling, W. Va.">Wheeling</name>; lay here all night    wrote to the President of U.S.<ref target="n02091303" n="3"/>    dismissed two of my hands, one of whome by the name of <name type="person" key="Wilkinson, James">Wilkinson</name> I had engaged at <name type="place" key="Georgetown, Pa.">Georgetown</name>, the other <name type="person" key="Montgomery, Samuel">Saml. Mongomery</name>, I engaged at <name type="place" key="Wheeling, W. Va.">Wheeling</name>, my party from <name type="place" key="Pittsburgh, Pa.">Pittsburgh</name> to <name type="place" key="McIntosh, Pa.">Mackintosh</name> was 11 [<hi rend="italic">written over 10</hi>] strong from thence to <name type="place" key="Georgetown, Pa.">georgetown</name> 10 [<hi rend="italic">written over 11</hi>], from thence to <name type="place" key="Wheeling, W. Va.">Wheeling</name> 11 [<hi rend="italic">written over 10</hi>], from thence to <name type="place" key="Muskingum River">Muskingum</name> 13 [<hi rend="italic">perhaps written over 12</hi>], from thence to <name type="place" key="Maysville, Ky.">Limestone 12</name>,<ref target="n02091304" n="4"/> at <name type="place" key="Wheeling, W. Va.">Wheeling</name> I engaged <name type="person" key="Montgomery, Samuel">Mongomery</name> and a young man come on board and agreed to work his passage, on the same terms I engaged another at <name type="place" key="Marietta, Ohio">Marietta</name> or the mouth of <name type="place" key="Muskingum River">Muskingum</name>—<ref target="n02091305" n="5"/>    This evening was visited by <name type="person" key="Green, Griffin">Colo. Green</name>
+                  <ref target="n02091306" n="6"/> the Postmaster at this place, he appears to be much of a gentleman and an excelant republican.—
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n02091301" n="1">
+               <name type="place" key="Marietta, Ohio">Marietta</name> in <name type="place" key="Washington County, Ohio">Washington County</name>, <name type="place" key="Ohio">Ohio</name>, the oldest settlement in the state, was founded in April 1788, at the mouth of the <name type="place" key="Muskingum River">Muskingum River</name>. The town became a base for white expansion north of the <name type="place" key="Ohio River">Ohio</name>. Walker, 84–88; Wittke, 1:279–90; Roseboom &amp; Weisenburger, 84–85; Thwaites (EWT), 4:123–26.</note>
+            <note xml:id="n02091302" n="2">Passenger pigeons, <hi rend="italic">Ectopistes migratorius</hi> [AOU, 315], which in <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark's</name> time flew in such great flocks as to obscure the sun. The last one died on September 1, 1914, in the Cincinnati Zoo. Cutright (HLCJ), 141.</note>
+            <note xml:id="n02091303" n="3">September 13, 1803, Jackson (LLC), 1:124.</note>
+            <note xml:id="n02091304" n="4">Present <name type="place" key="Maysville (Limestone), Ky.">Maysville</name>, <name type="place" key="Kentucky">Kentucky</name>, was once called <name type="place" key="Maysville (Limestone), Ky.">Limestone</name>, but it would certainly be out of place here. From its appearance, the word may have been added later. Ibid., 1:125 n. 1.</note>
+            <note xml:id="n02091305" n="5">Unable to identify the various personnel here counted by <name type="person" key="Lewis, Meriwether">Lewis</name> and their number is uncertain as well.</note>
+            <note xml:id="n02091306" n="6">
+               <name type="person" key="Green, Griffin">Griffin Greene</name> was one of the founders of <name type="place" key="Marietta, Ohio">Marietta</name> and a director of the Ohio Company. Quaife (MLJO), 44 n. 2.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1803-09-12" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-09-14" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

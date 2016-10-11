@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-02-06-12">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+February 6-12, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">124-125</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-02-06-12.01">
+            <placeName/>
+            <geo>47.0667 -101.4667</geo>
+            <note>Record of various campsites. 02-06: camped at the mouth of Square Butte Creek.</note>
+         </geoDecl>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-02-06-12.02">
+            <placeName/>
+            <geo>47.2893 -101.3295</geo>
+            <note>Record of various campsites. 02-09: returned to the original established winter camp.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh" n="category">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-04-02</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date notBefore="1805-02-06" notAfter="1805-02-12">February 6-12, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-02-06-12.01" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday February 6th    This day was clear &amp; pleasant Weather, nothing material happen'd at the Fort.—    <name type="person" key="Clark, William">Captain Clark</name> and his Men, proceeded still on<ref target="n090206-1201" n="1"/> hunting &amp; kill'd 7 more Deer, on the 7th Instant <name type="person" key="Clark, William">Captain Clark</name> and his party halted in a large bottom,<ref target="n090206-1202" n="2"/> lying on the South side of the River, the hunters went out, and killed 10 Elk and 18 deer at that place, they were then 40 Miles distant from the Fort, as near as they could reckon.—    They there built a pen, to preserve their Meat in from the Wolves; &amp; other Animals.—    
+The Wolves at that place were very numerous and Ravenous.—    <name type="person" key="Clark, William">Captain Clark</name> then proceeded a small distance further down the River, and encamped.—<ref target="n090206-1203" n="3"/>    On Saturday the 9th instant <name type="person" key="Clark, William">Captain Clark</name> returned towards the Fort,<ref target="n090206-1204" n="4"/> the hunters kill'd some Elk and deer on the Route that day, <name type="person" key="Clark, William">Captain Clark</name>, and his party proceeded on their Route to the Fort the 10th &amp; 11th instant<ref target="n090206-1205" n="5"/> and on the 12th instant they came to us all being well.—    nothing material happen'd at the Fort from the 7th instant to this 12th Instant worth mentioning
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n090206-1201" n="1">They camped near the mouth of <name type="place" key="Square Butte (Hunting) Creek">Square Butte Creek</name> (<name type="person" key="Clark, William">Clark's</name>
+               <name type="place" key="Square Butte (Hunting) Creek">Hunting Creek</name>), <name type="place" key="Oliver County, N. Dak.">Oliver County</name>, <name type="place" key="North Dakota">North Dakota</name>, a little below the <name type="place" key="Morton County, N. Dak.">Morton County</name> line.</note>
+            <note xml:id="n090206-1202" n="2">
+               <name type="person" key="Clark, William">Clark</name> seems to indicate that they stayed in camp at <name type="place" key="Square Butte (Hunting) Creek">Square Butte Creek</name> this day, <name type="person" key="Gass, Patrick">Gass</name> 
+seems to say they moved, and <name type="person" key="Whitehouse, Joseph">Whitehouse</name> is ambiguous, although the phrasing would be more consistent with a move.</note>
+            <note xml:id="n090206-1203" n="3">
+               <name type="person" key="Clark, William">Clark's</name> account makes it clear that on February 8 they moved a few miles downriver, 
+built the pen, then moved down and camped opposite the mouth of <name type="place" key="Heart (Ches-che-tar and similar spellings) River">Heart River</name>, in or near present <name type="place" key="Bismark, N. Dak.">Bismarck</name>, <name type="place" key="Burleigh County, N. Dak.">Burleigh County</name>, <name type="place" key="North Dakota">North Dakota</name>. See <name type="person" key="Clark, William">Clark's</name> entry of <ref n="1805-02-13" type="related">February 13, 1805</ref>.</note>
+            <note xml:id="n090206-1204" n="4">The hunting party apparently camped at one of the old earthlodge villages between <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name> and <name type="place" key="Heart (Ches-che-tar and similar spellings) River">Heart River</name>. <name type="person" key="Clark, William">Clark</name> says they were about forty miles below the fort.</note>
+            <note xml:id="n090206-1205" n="5">On February 11 they seem to have camped at one of the abandoned villages below 
+<name type="place" key="Mandan Island">Mandan Island</name>, <name type="place" key="McLean County, N. Dak.">McLean County</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-02-06" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-02-07" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

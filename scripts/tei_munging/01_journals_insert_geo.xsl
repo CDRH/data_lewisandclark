@@ -7,7 +7,7 @@
 
   <!-- Strip out date from xml:id to use in various capacities -->
   <xsl:variable name="date_match">
-    <xsl:value-of select="normalize-space(substring-after(/TEI/@xml:id, 'lc.'))"></xsl:value-of>
+    <xsl:value-of select="normalize-space(substring-after(/TEI/@xml:id, 'lc.jrn.'))"></xsl:value-of>
   </xsl:variable>
   <xsl:variable name="geo_count" xpath-default-namespace="">
     <xsl:value-of select="count($locations/root/row/id[text() = $date_match])"  xpath-default-namespace=""/>
@@ -16,6 +16,7 @@
 
   <!-- match everything and print out as is -->
   <xsl:template match="@* | node()">
+    
     <xsl:copy>
       <xsl:apply-templates select="@* | node()"></xsl:apply-templates>
     </xsl:copy>
@@ -47,10 +48,10 @@
       <!-- Range dates (date not before date not after) -->
       <xsl:when test="string-length($date_match) > 10">
         <xsl:element name="date" namespace="http://www.tei-c.org/ns/1.0">
-          <xsl:attribute name="notbefore">
+          <xsl:attribute name="notBefore">
             <xsl:value-of select="substring($date_match,1,10)"/>
           </xsl:attribute>
-          <xsl:attribute name="notafter">
+          <xsl:attribute name="notAfter">
             <xsl:value-of select="substring($date_match,1,7)"/>
             <xsl:value-of select="substring($date_match,11,12)"/>
           </xsl:attribute>
@@ -93,14 +94,14 @@
       </xsl:attribute>
       <xsl:choose>
         <xsl:when test="$geo_count = 1">
-          <xsl:attribute name="ref">
+          <xsl:attribute name="n">
             <xsl:text>lc.geo.</xsl:text>
             <xsl:value-of select="$date_match"/>
             <xsl:text>.01</xsl:text>
           </xsl:attribute>
         </xsl:when>
         <xsl:otherwise>
-          <xsl:attribute name="ref">
+          <xsl:attribute name="n">
             <!-- empty, will have to be hand filled in -->
           </xsl:attribute>
         </xsl:otherwise>

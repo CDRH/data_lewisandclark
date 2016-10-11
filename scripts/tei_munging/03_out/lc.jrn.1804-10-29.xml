@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-10-29">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+October 29, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">208-215</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">91-92</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">60-61</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">106</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh" n="category">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-03-23</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-10-29">October 29, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-10-29.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+29th of October 1804    a fine morning    after Brackfast we were Visited by the <name type="person" key="Cherry Grows on a Bush (Caltarcota)">Old Chief of the Big Bellies</name> or <hi rend="italic">
+                     <name type="native_nation" key="Hidatsa Indians">me ne tar res</name>
+                  </hi>,<ref target="n08102901" n="1"/>    this Man has Given his power to his Son who is now on a war party against the <name type="native_nation" key="Paiute Indians">Snake</name> Indians who inhabit the <name type="place" key="Rocky Mountains">Rockey Mountains</name>, <ref target="n08102902" n="2"/> the S W wind verry high—    we met in Council under an orning and our Sales Stretched round to keep out as much wind as possible &amp; Delivered a long Speach Similar to what had been Said to the nations below, the old Chief was restless before the Speech was half ended, observed his Camp was exposed &amp; could wait no longer &amp;c.    at the Conclusion of the Speach we mentioned the <name type="native_nation" key="Arikara Indians">Ricaras</name> &amp; requested them to make a peace &amp; Smoke out of the Sacred Stem with their Chief which I intreduced and gave him the pipe of peace to hand around, they all Smoked with eagerness out of the pipe held by the <name type="native_nation" key="Arikara Indians">Ricara</name> Chief <hi rend="italic">
+                     <name type="person" key="Arketarnarshar">Ar-ke-tar-na-Shar</name>
+                  </hi>    we mentioned our hands that were to be discharged here, also the roberrey commited on th 2 french men below, &amp; requested them to answere us tomorrow, gave the Chief Small preasents and a fiew presents for each village    Shot the air gun which both Surprised and astonished the nativs, and Soon dispersed—</p>
+               <p>
+our <name type="native_nation" key="Arikara Indians">Ricara</name> Chief Came told me he wished to return to his nation tomorrow    I put him off &amp; Said we would Send a talk by him after the Chiefs had Spoken to us—    we gave a Steel mill<ref target="n08102903" n="3"/> to the <name type="native_nation" key="Mandan Indians">mandans</name> which was verry pleasing to them</p>
+               <p>
+The Chief who recved Medals to Day are as follows viz-in Council<ref target="n08102904" n="4"/>
+               </p>
+               <p>
+                  <lb/>
+1s <name type="native_nation" key="Mandan Indians">Mandan</name> village <name type="place" key="Mitutanka (Matootonha) village">Ma-too-ton ka</name>—<lb/>
+
+  1s Chief <hi rend="italic">
+                     <name type="person" key="Big White (Sheheke)">Sha-ha-ka</name>
+                  </hi>
+                  <name type="person" key="Big White (Sheheke)">Big White</name>
+                  <ref target="n08102905" n="5"/>
+                  <lb/>
+
+  2nd <hi rend="italic">
+                     <name type="person" key="Little Crow (Ka-goh-ha-me)">Ka-goh-ha-me</name>
+                  </hi>
+                  <name type="person" key="Little Crow (Ka-goh-ha-me)">little Crow</name>
+                  <ref target="n08102906" n="6"/>
+                  <lb/>
+                  <lb/>
+2 do <name type="place" key="Ruptáre (Rooptahee) village">village <hi rend="italic">Roop tar-hee</hi>
+                  </name>
+                  <lb/>
+
+  1s &amp; grand Chief <name type="person" key="Black Cat (Posecopsahe)">Poss-cop-sa-he</name>    <name type="person" key="Black Cat (Posecopsahe)">Black Cat</name>—<lb/>
+
+  2d Chief <hi rend="italic">
+                     <name type="person" key="Raven Man Chief (Car-gar-no-mok-she)">Car-gar-no-mok-she</name>
+                  </hi>
+                  <name type="person" key="Raven Man Chief (Car-gar-no-mok-she)">raven man Chief</name>—<lb/>
+                  <lb/>
+                  <name type="place" key="Mahawha (Marharha) village">
+                     <hi rend="italic">Mah har-ha</hi> village</name>
+                  <lb/>
+
+  1s Chief <hi rend="italic">
+                     <name type="person" key="White Buffalo Robe Unfolded (Ta-tuck-copinrehas)">Ta-tuck-co pin re has</name>
+                  </hi>, <name type="person" key="White Buffalo Robe Unfolded (Ta-tuck-copinrehas)">white Buffalow Skin unfolded</name>
+                  <lb/>
+                  <lb/>
+Little <name type="native_nation" key="Hidatsa Indians">Menetarre</name> village<lb/>
+
+  1s Chief <name type="person" key="Black Moccasin (Omp-se-ha-ra)">Omp-Se-ha-ra</name>    <name type="person" key="Black Moccasin (Omp-se-ha-ra)">Black mockerson</name>.<ref target="n08102907" n="7"/>
+                  <lb/>
+
+  2d Chief <hi rend="italic">
+                     <name type="person" key="Little Fox (Oh-harh)">Oh-harh</name>
+                  </hi>
+                  <name type="person" key="Little Fox (Oh-harh)">little Fox</name>.</p>
+               <p>
+The Grand village of <name type="native_nation" key="Hidatsa Indians">Manetarres</name>, <name type="person" key="Le Borgne (One Eye)">The One Eye</name> is the principal Chief and he is out on a hunting party.<ref target="n08102908" n="8"/>    we Send by <name type="person" key="Cherry Grows on a Bush (Caltarcota)">the Grape</name> all the articles for this grand Chief and all the Village what goods was intended for that Village—<ref target="n08102909" n="9"/>    The Prarie got on fire and went with Such Violenc &amp; Speed as to Catch a man &amp; woman &amp; burn them to Death, Several escapd. among other a Small boy who was Saved by getting under a green Buffalow Skin, this boy was half white, &amp; the Indians Say all white flesh is medisan, they Say the grass was not burnt where the boy Sat &amp;c. &amp;.    this fire passed us at 8 oclock, and lookd truly tremendious.</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-29.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>29th <hi rend="italic">October Monday 1804.</hi>
+                  </date>
+               </ab>
+               <p>
+a fair fine morning    after Brackfast we were visited by the <name type="person" key="Cherry Grows on a Bush (Caltarcota)">old Cheaf of the <hi rend="italic">Big bellies</hi>
+                  </name> or [<hi rend="italic">blank</hi>]    this man was old and had transfered his power to his Sun, who was then out at war against the <name type="native_nation" key="Paiute Indians">Snake</name> Indians who inhabit the <name type="place" key="Rocky Mountains">rockey mountains</name>—    at 10 oClock the S W. wind rose verry high, we Collected the Chiefs and Commened a Council ounder a Orning and our Sales Stretched around to Keep out as much wind as possible, we delivered a long Speech the Substance of which Similer to what we had Delivered to the nations below.    the old Chief of the <name type="place" key="Hidatsa Indians">Grossanters</name> was verry restless before the Speech was half ended    observed that he Could not wait long that his Camp was exposed to the hostile Indians, &amp;c. &amp;.    he was rebuked by one of the Chiefs for his uneasiness at Such a time as the present, we at the end of the Speech mentioned the <hi rend="italic">Ricare</hi> who Accompanied us to make a firm peace, they all Smoked with him (I gave this Cheaf a Dollar of the American Coin as a Meadel with which he was much pleased)    In Councel we prosented him with a Certificate of his Sincrrity and good Conduct &amp;c.    we also Spoke about the fur which was taken from 2 french men by a <name type="native_nation" key="Mandan Indians">Mandan</name>, and informd of our intentions of Sending back the french hands—    after the Coun[c]i[l] we gave the presents with much Sere-money, and put the Meadels on the Cheifs we intended to make viz. one for each Town to whome we gave Coats hats &amp; flags, one Grand Cheif to each nation to whome we gave meadels with the presidents likeness    in Councel we requested them to give us an answer tomorrow or as Soon as possible to Some points which required their Deliberation—    after the Council was over we Shot the Air gun which appeared to assonish the nativs much, the greater part them retired Soon after—</p>
+               <p>
+The <hi rend="italic">
+                     <name type="native_nation" key="Arikara Indians">Ricare</name>
+                  </hi> Cheaf <hi rend="italic">
+                     <name type="person" key="Arketarnarshar">Ar-ke-tar-na-shar</name>
+                  </hi> Came to me this evening and tells me that he wishes to return to his Village &amp; nation, I put him off Saying tomorrow we would have an answer, to our talk to the Satisfaction &amp; Send by him a String of wompom informing what had passed here.    a Iron or Steel Corn Mill which we gave to the <name type="native_nation" key="Mandan Indians">Mandins</name>, was verry Thankfully recived—    (<seg n="u9758">☞</seg>The Prarie was Set on fire (or Cought by accident) by a young man of the <name type="native_nation" key="Mandan Indians">Mandins</name>, the fire went with Such velocity that it burnt to death a man and woman, who Could not Get to any place of Safty, one man a woman &amp; Child much burnt and Several narrowly escaped the flame—    a boy half white was Saved un hurt in the midst of the flaim, Those ignerent people Say this boy was Saved by the great Spirit medisin because he was white— The Cause of his being Saved was a Green buffalow Skin was thrown over him by his mother who perhaps had more fore Sight for the pertection of her 〈self〉 Son, and [l]ess for herself than those who escaped the flame, the Fire did not burn under the Skin leaving the grass round the boy</p>
+               <p>
+This fire passed our Camp last about 8 oClock P. M.    it went with great rapitidity and looked Tremendious</p>
+               <p>
+The following Chiefs were made in Councel to day<lb/>
+                  <lb/>
+                  <hi rend="italic">
+                     <name type="place" key="Mitutanka (Matootonha) village">Mar-too-ton-ha</name>
+                  </hi> or Lower Village of the <name type="native_nation" key="Mandan Indians">Mandans</name>
+                  <lb/>
+
+  1st Cheif <hi rend="italic">
+                     <name type="person" key="Big White (Sheheke)">Sha-ha-ka</name>
+                  </hi> or <name type="person" key="Big White (Sheheke)">Big White</name>
+                  <lb/>
+
+  2    do    <hi rend="italic">
+                     <name type="person" key="Little Crow (Ka-goh-ha-me)">Ka-goh-ha-mi</name>
+                  </hi> or <hi rend="italic">
+                     <name type="person" key="Little Crow (Ka-goh-ha-me)">Little raven</name>
+                  </hi>
+                  <lb/>
+                  <lb/>
+                  <hi rend="italic">
+                     <name type="place" key="Ruptáre (Rooptahee) village">Roop-tar-hee</name>
+                  </hi> or Second Village of the <name type="native_nation" key="Mandan Indians">Mandans</name>
+                  <lb/>
+
+  1st and Grand Cheif—<name type="person" key="Black Cat (Posecopsahe)">Pass-cop-sa-he</name> or <hi rend="italic">
+                     <name type="person" key="Black Cat (Posecopsahe)">black Cat</name>
+                  </hi>
+                  <lb/>
+
+  2nd Cheif <hi rend="italic">
+                     <name type="person" key="Raven Man Chief (Car-gar-no-mok-she)">Car-gar-no-mok-She</name>
+                  </hi>    <name type="person" key="Raven Man Chief (Car-gar-no-mok-she)">raven man Cheaf</name>
+                  <lb/>
+                  <lb/>
+                  <hi rend="italic">Mah-har-ha</hi>    3rd Village<lb/>
+
+  Chief <name type="person" key="White Buffalo Robe Unfolded (Ta-tuck-copinrehas)">Ta-tuck-co-pin-re-ha</name> (<name type="person" key="White Buffalo Robe Unfolded (Ta-tuck-copinrehas)">white Buffalow robe unfolded</name>)<lb/>
+
+  〈<hi rend="italic">
+                     <name type="person" key="Neighing Horse">Man resse-sar-ra-ree</name>
+                  </hi> or <name type="person" key="Neighing Horse">Neighing horse</name>〉<lb/>
+                  <lb/>
+                  <hi rend="italic">Me-ne-tar-re Me-te har-tar</hi>
+                  <lb/>
+
+  1st Cheif—<hi rend="italic">
+                     <name type="person" key="Black Moccasin (Omp-se-ha-ra)">Omp-se-ha-ra</name>
+                  </hi>. <name type="person" key="Black Moccasin (Omp-se-ha-ra)">Black Mockersons</name>
+                  <lb/>
+
+  2    do.    <hi rend="italic">
+                     <name type="person" key="Little Fox (Oh-harh)">Oh-harh</name>
+                  </hi> or <hi rend="italic">
+                     <name type="person" key="Little Fox (Oh-harh)">Little fox</name>
+                  </hi>
+               </p>
+               <p>
+we Sent the presents intended for the Grand Chief of the <hi rend="italic">
+                     <name type="native_nation" key="Hidatsa Indians">Mi-ne-tar-re</name>
+                  </hi> or <name type="native_nation" key="Hidatsa Indians">Big Belley</name>, and the presents flag and wompoms by the Old Chief and those, and those intended for the Cheif of the Lower Village by a young Cheif—</p>
+               <p>
+The following Cheifs were recommended in addition to those    Viz.—<lb/>
+                  <lb/>
+1st Village<lb/>
+  <hi rend="italic">
+                     <name type="person" key="Big Man (Oh-he-nar)">Oh-hee-nar</name>
+                  </hi>    <name type="person" key="Big Man (Oh-he-nar)">Big Man</name>—    [<hi rend="italic">NB: a <name type="place" key="Cheyenne Indians">Cheyenne</name> prisoner adopted by them</hi>] a <hi rend="italic">
+                     <name type="native_nation" key="Cheyenne Indians">Chien</name>
+                  </hi>
+                  <lb/>
+  <hi rend="italic">Sho-ta-hat ro-ra</hi>
+                  <lb/>
+                  <lb/>
+2d Village<lb/>
+  <hi rend="italic">
+                     <name type="person" key="Tawnish-e-o">Taw nish-e-o</name>
+                  </hi>—    <hi rend="italic">
+                     <name type="person" key="Bel-larsara">Bel-lar sa ra</name>
+                  </hi>
+                  <ref target="n08102910" n="10"/>
+                  <lb/>
+  <hi rend="italic">
+                     <name type="person" key="Wolf Man (Ar-rat-tana-mock-She)">Ar-rat-ta na-mock-She</name>
+                  </hi>—    <name type="person" key="Wolf Man (Ar-rat-tana-mock-She)">Wolf Man Chief</name>
+                  <ref target="n08102911" n="11"/>
+                  <lb/>
+                  <lb/>
+3rd Village<lb/>
+  〈<hi rend="italic">
+                     <name type="person" key="White Buffalo Robe Unfolded (Ta-tuck-copinrehas)">Te-tuck-co-pin-re-ha</name>
+                  </hi>—    <name type="person" key="White Buffalo Robe Unfolded (Ta-tuck-copinrehas)">white Buffalow Skin unfolded</name>〉<ref target="n08102912" n="12"/>
+                  <lb/>
+  <hi rend="italic">
+                     <name type="person" key="Neighing Horse">Min-nis-Sur-ra-ree</name>
+                  </hi> (<name type="person" key="Neighing Horse">Neighing horse</name>[)]<lb/>
+  <hi rend="italic">
+                     <name type="person" key="Old Woman at a Distance">Lo-tong-gar-ti hat</name>
+                  </hi>—    <name type="person" key="Old Woman at a Distance">old woman at a distance</name>
+                  <lb/>
+                  <lb/>
+4th Village<lb/>
+  <hi rend="italic">
+                     <name type="person" key="Big Stealer (Mar-noh-tah)">Mar-nob-tah</name>
+                  </hi>    <name type="person" key="Big Stealer (Mar-noh-tah)">the big Steeler</name> 〈(out at war)〉[<hi rend="italic">NB: (who was then out at war &amp; was killed afd)</hi>]<lb/>
+  <hi rend="italic">
+                     <name type="person"
+                           key="Tail of the Calumet Bird (Man-nes-surree, Man-se-rus-se)">Man-se-rus-se</name>
+                  </hi>—    <name type="person"
+                        key="Tail of the Calumet Bird (Man-nes-surree, Man-se-rus-se)">tale of Callumet bird</name>
+                  <lb/>
+                  <lb/>
+5th Village<lb/>
+  <hi rend="italic">
+                     <name type="person" key="Little Wolfs Medicine (Shhakóhopinnee)">Sh<seg n="u257">ā</seg> hak<seg n="u243">ó</seg> ho pin nee</name>
+                  </hi>    <name type="person" key="Little Wolfs Medicine (Shhakóhopinnee)">Little Wolfs medisons</name>
+                  <lb/>
+  <hi rend="italic">
+                     <name type="person" key="Man Wolf Chief (Ar-rat-toe-no-mook-gu)">Ar-rat-toe-no mook-gu</name>
+                  </hi>    (<name type="person" key="Man Wolf Chief (Ar-rat-toe-no-mook-gu)">man wolf Chief</name>[)] (<hi rend="italic">at war</hi>[)]<ref target="n08102913" n="13"/>
+                  <lb/>
+  <hi rend="italic">
+                     <name type="person" key="Cherry Grows on a Bush (Caltarcota)">Cal-tar c<seg n="u333">ō</seg> tá</name>
+                  </hi>— (<name type="person" key="Cherry Grows on a Bush (Caltarcota)">
+                     <hi rend="italic">Cherry</hi> grows [<hi rend="italic">NB: ing</hi>] on a bush</name>) old Chief and father to the above mentd.<lb/>
+  Chief <name type="person" key="Horned Weasel (Maw-pah'-pir-re-cos-satoo)">Maw-pah'-pir-re-cos-sa too</name>—<ref target="n08102914" n="14"/>    This chief is near this hunting and a verry Considerable man</p>
+               <p>
+To the 1st Chiefs we gave a medal with the Imp. of the President of the U S.</p>
+               <p>
+To the 2d Chiefs a medal of weaveing Domestic animals.</p>
+               <p>
+To the 3rd Chiefs a medal with the impression of a man Sowing wheat.<ref target="n08102915" n="15"/>
+                  <lb/>
+                  <lb/>
+4th Village<lb/>
+  (<hi rend="italic">War-ka-res-so-ra</hi>)<lb/>
+  1 <hi rend="italic">
+                     <name type="person" key="Two Tailed Calumet Bird (Eapanopa)">Ea pa no pa</name>
+                  </hi>—    <name type="person" key="Two Tailed Calumet Bird (Eapanopa)">Two taled Calumet bird young Chief</name>
+                  <lb/>
+  2 <hi rend="italic">
+                     <name type="person" key="Red Shield">War he ras sa</name>
+                  </hi>    the <name type="person" key="Red Shield">red Shield</name> young Chief of <name type="native_nation" key="Hidatsa Indians">Big belley</name>—big town<ref target="n08102916" n="16"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-29.03" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="right">
+                        <hi rend="italic">Point of Observation No. 50<lb/>
+Monday October 29th 1804.</hi>
+                        <ref target="n08102917" n="17"/>
+                     </hi>
+                  </date>
+               </ab>
+               <p>
+On the stard. shore at council camp, about half a mile above the upper <name type="native_nation" key="Mandan Indians">Mandan</name> Village.</p>
+               <p>
+Observed meridian Altd. of <seg n="u9737">☉</seg>'s U. L. with Sextant by the fore observation 58° 55' 15"</p>
+               <p>
+Latitude deduced from this observation    N. 47° 22' 56.7"</p>
+               <p>
+                  <seg n="u9758">☞</seg> The Chronometer ran down today. I was so much engaged with the Indians, that I omited winding her up.—
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-29.04" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 29th Oct</hi>.    a clear &amp; pleasant morning.    we expect the Indians to assemble to day for to hold a Council with our officers.—    especially the chiefs &amp; warries of 3 nats.    at 11 oClock the counsel commenced    a Gun was fired from our Bow peace when our officers took the chiefs by the hand    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> delivered a Speech to them through Intreperters, &amp; counseled with the <name type="native_nation" key="Mandan Indians">Manden</name>
+                  <name type="native_nation" key="Hidatsa Indians">Grovantrs</name> &amp; <name type="native_nation" key="Hidatsa Indians, Awaxawi">Weta Soaux</name>
+                  <ref target="n08102918" n="18"/> nations, the counsel was ended about 4 oC. P. M.    another Gun was fired, &amp; then our officers Gave the or each head chief a meddel &amp; a flag and made a 1st &amp; 2nd chief to each village &amp; Gave the head chiefs a Suit of cloaths and a quantity of Small Goods for their nations, cocked hats &amp; feathers &amp;.C. &amp;.C    Gave also a Steel corn mill to the <name type="native_nation" key="Mandan Indians">Manden</name> nation which pleased them verry much    the captains requested them to assemble again tomorrow if possable to Give us answer to what we had Sd. to them respecting makeing peace with the <name type="native_nation" key="Arikara Indians">Rickarees</name> and all other nations &amp; whether they mean to Go to See their Great father &amp;.C.    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> Shot the air Gun which pleased them much    they returned home to their village.    hoisted the flag we Gave them as well as the officers Gave an american flag for each village &amp;.C. &amp;.C.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-29.05" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 29th.</hi>    We had again a clear day, and some of the principal men came from each village of the <name type="native_nation" key="Mandan Indians">Mandans</name>, from the <name type="native_nation" key="Hidatsa Indians, Awaxawi">Watasoons</name>,<ref target="n08102919" n="19"/>
+                  <name type="native_nation" key="Sioux Indians">Sioux</name>,<ref target="n08102920" n="20"/> and one from the <name type="native_nation" key="Hidatsa Indians">Grossventers</name>; and all sat in council together. At 11 o'clock, when the Council met, a shot was fired from our bow piece, and the commanding officers took the chiefs by the hand. <name type="person" key="Lewis, Meriwether">Captain Lewis</name>, through an interpreter, delivered a speech; gave a suit of clothes to each of the chiefs and some articles for their villages. He also sent a suit to the chief of the <name type="native_nation" key="Hidatsa Indians">Grossventers</name>. At three o'clock another gun was fired at the breaking up of the council, and they all appeared satisfied. <name type="person" key="Lewis, Meriwether">Captain Lewis</name> gave an iron mill to the <name type="native_nation" key="Mandan Indians">Mandan</name> nation to grind their corn, with which they were highly pleased.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-29.06" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Monday October 29th    This morning we had fine clear weather.    some of the Head Chiefs and Warriors of the <name type="native_nation" key="Mandan Indians">Mandan</name> Indians &amp; the <name type="native_nation" key="Hidatsa Indians">Gross Vaunter</name>s &amp; Water <name type="native_nation" key="Sioux Indians">Souix</name> Chiefs came to our Encampment, in Order to hold a Council with our Officers.    At 11 oClock A. M. the Council commenced, and One of our Swivels was fired off—</p>
+               <p>
+Our officers then took the Chiefs of the Indians by the hand, and <name type="person" key="Lewis, Meriwether">Captain Lewis</name> 〈made〉 deliver'd a Speech to them, all, which lasted some time, and was Interpreted by our Interpreter to them,—   at which they seemed highly pleased    The Council being over, he gave presents among them of Goods &amp; Cloathing and to each Nation he gave an American Flag, he also gave to the <name type="native_nation" key="Mandan Indians">Mandan</name> Chiefs a Steel Corn Mill, and by Interpreter explained the use of it, in grinding of Corn, instead of pounding it, which was the only way they had of making Corn Meal.—    In the Evening the Indians left our Camp and seemed well pleased
+
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n08102901" n="1">Variously called <name type="person" key="Cherry Grows on a Bush (Caltarcota)">Caltarcota</name>, <name type="person" key="Cherry Grows on a Bush (Caltarcota)">Cherry Grows on a Bush</name>, <name type="person" key="Cherry Grows on a Bush (Caltarcota)">Chokecherry</name>, <name type="person" key="Cherry Grows on a Bush (Caltarcota)">Cerina Grape</name>, and <name type="person" key="Cherry Grows on a Bush (Caltarcota)">The Grape</name>, this elderly <name type="native_nation" key="Hidatsa Indians">Hidatsa</name> chief had supposedly turned over his authority to his son, <name type="person" key="Man Wolf Chief (Ar-rat-toe-no-mook-gu)">Man Wolf Chief</name>. Nevertheless, he appears prominently in accounts by visitors to the tribe at this period. Coues (NLEH), 1:367–68, 376–78, 388–89, 390, 395; Wood &amp; Thiessen, 166–67 and n. 29; Ronda (LCAI), 82–84. An undated copy by <name type="person" key="Clark, William">Clark</name> of a "Speech of the Cherry" (perhaps from this date) is on a loose sheet in the Voorhis Collection, Missouri Historical Society. See Indian Speeches, Miscellaneous Documents of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>, <ref n="v02.appendix.c" type="related">Appendix C</ref>. It is badly mutilated, with many words unclear or missing, and is not reproduced here. The council of this day is discussed in Ronda (LCAI), 82–84.</note>
+            <note xml:id="n08102902" n="2">
+               <name type="native_nation" key="Shoshone Indians">Shoshonean</name> tribes living about the headwaters of the <name type="place" key="Missouri River">Missouri</name> and just across the <name type="place" key="Continental Divide">Continental Divide</name>.</note>
+            <note xml:id="n08102903" n="3">A steel corn mill, which <name type="person" key="Henry, Alexander (younger)">Alexander Henry the Younger</name> later found broken up to be used for arrow barbs and other purposes. Coues (NLEH), 1:329.</note>
+            <note xml:id="n08102904" n="4">Some of these names (also from the codex entry) may be identified linguistically:<lb/>
+               <hi rend="italic">
+                  <name type="person" key="Big White (Sheheke)">Sha-ha-ka</name>
+               </hi> (<hi rend="italic">
+                  <seg n="u353">š</seg>áhaka</hi>), etymology uncertain, possibly related to <hi rend="italic">ha</hi>, "cloud"<lb/>
+               <hi rend="italic">
+                  <name type="person" key="Little Crow (Ka-goh-ha-me)">Ka-goh-ha-me</name>
+               </hi> (<hi rend="italic">kéka x<hi rend="superscript">á</hi>manhe</hi>), "<name type="person" key="Little Crow (Ka-goh-ha-me)">little raven</name>"<lb/>
+               <hi rend="italic">
+                  <name type="person" key="Raven Man Chief (Car-gar-no-mok-she)">Car-gar-no-mok-she</name>
+               </hi> (<hi rend="italic">kékanu<seg n="u331">ŋ</seg>ma<seg n="u331">ŋ</seg>k<seg n="u353">š</seg>i</hi>), "<name type="person" key="Raven Man Chief (Car-gar-no-mok-she)">chief raven</name>" (literally, "<name type="person" key="Raven Man Chief (Car-gar-no-mok-she)">raven good man</name>")<lb/>
+               <hi rend="italic">
+                  <name type="person" key="White Buffalo Robe Unfolded (Ta-tuck-copinrehas)">Ta-tuck-co pin re has</name>
+               </hi>, possibly a compound of Dakota <hi rend="italic">t'at'a<seg n="u331">ŋ</seg>ka</hi>, "buffalo bull" and <name type="native_nation" key="Mandan Indians">Mandan</name>
+               <hi rend="italic">xop<hi rend="superscript">i</hi>ní<seg n="u331">ŋ</seg>rehas</hi>, "the holy separated thing"<lb/>
+               <hi rend="italic">
+                  <name type="person" key="Neighing Horse">Man resse-sar-ra-ree</name>
+               </hi> (m<hi rend="superscript">i</hi>ní<seg n="u331">ŋ</seg>s<hi rend="superscript">a</hi>rare), "<name type="person" key="Neighing Horse">neighing horse</name>"<lb/>
+               <name type="person" key="Black Moccasin (Omp-se-ha-ra)">Omp-Se-ha-ra</name> (<hi rend="italic">hú<seg n="u331">ŋ</seg>psih<hi rend="superscript">a</hi>ra</hi>), "blackens moccasin"<lb/>
+               <hi rend="italic">
+                  <name type="person" key="Little Fox (Oh-harh)">Oh-harh</name>
+               </hi> (<hi rend="italic">
+                  <seg n="u243">ó</seg>xa</hi>), "fox"<lb/>
+               <hi rend="italic">
+                  <name type="person" key="Big Man (Oh-he-nar)">Oh-hee-nar</name>
+               </hi> (<hi rend="italic">
+                  <seg n="u243">ó</seg>hi<seg n="u331">ŋ</seg>r</hi>), "to be full"<lb/>
+               <hi rend="italic">
+                  <name type="person" key="Coal, The (Sho-ta-harro-ra)">Sho-ta-har ro-ra</name>
+               </hi> (<hi rend="italic">
+                  <seg n="u353">š</seg>otaharore</hi>), "it's a white cloud"<lb/>
+               <hi rend="italic">
+                  <name type="person" key="Bel-larsara">Bel-lar sa ra</name>
+               </hi> (w<hi rend="superscript">e</hi>ros<hi rend="superscript">a</hi>ra), "bellowing bull"<lb/>
+               <hi rend="italic">
+                  <name type="person" key="Wolf Man (Ar-rat-tana-mock-She)">Ar-rat-ta na-mock-She</name>
+               </hi> (<hi rend="italic">x<hi rend="superscript">a</hi>rate nú<seg n="u331">ŋ</seg>ma<seg n="u331">ŋ</seg>k<seg n="u353">š</seg>i</hi>), "<name type="person" key="Wolf Man (Ar-rat-tana-mock-She)">chief wolf</name>"<lb/>
+               <hi rend="italic">
+                  <name type="person" key="Old Woman at a Distance">Lo-tong-gar-ti har</name>
+               </hi> (<hi rend="italic">r<seg n="u243">ó</seg>ka<seg n="u331">ŋ</seg>kati<seg n="u331">ŋ</seg>xa</hi>), <name type="person" key="Old Woman at a Distance">"old woman appears over the horizon"</name>
+               <lb/>
+               <hi rend="italic">
+                  <name type="person" key="Big Stealer (Mar-noh-tah)">Mar-noh-tah</name>
+               </hi> (<hi rend="italic">má<seg n="u331">ŋ</seg>nu<seg n="u331">ŋ</seg>xta</hi>), "thief" (literally, "big stealer")<lb/>
+               <hi rend="italic">
+                  <name type="person"
+                        key="Tail of the Calumet Bird (Man-nes-surree, Man-se-rus-se)">Man-se-rus-se</name>
+               </hi> (<hi rend="italic">má<seg n="u331">ŋ</seg>siru<seg n="u353">š</seg>e</hi>), "grasps the yellow eagle-like bird"<lb/>
+               <hi rend="italic">
+                  <name type="person" key="Little Wolfs Medicine (Shhakóhopinnee)">Sha hako ho pin nee</name>
+               </hi> (<hi rend="italic">sehékoxop<hi rend="superscript">i</hi>ri<seg n="u331">ŋ</seg>
+               </hi>), "<name type="person" key="Little Wolfs Medicine (Shhakóhopinnee)">medicine coyote</name>"<lb/>
+               <hi rend="italic">
+                  <name type="person" key="Wolf Man (Ar-rat-tana-mock-She)">Ar-rat-toe-no mock-gu</name>
+               </hi> (<hi rend="italic">x<hi rend="superscript">á</hi>rate nú<seg n="u331">ŋ</seg>ma<seg n="u331">ŋ</seg>ke</hi>), <name type="person" key="Wolf Man (Ar-rat-tana-mock-She)">"wolf man"</name>
+               <lb/>
+               <name type="person" key="Horned Weasel (Maw-pah'-pir-re-cos-satoo)">Maw-pah'-pir-re-cos-sa too</name> (<hi rend="italic">má<seg n="u331">ŋ</seg>hpapiraka<seg n="u331">ŋ</seg>setu</hi>), "<name type="person" key="Horned Weasel (Maw-pah'-pir-re-cos-satoo)">there are some horned weasels</name>"<lb/>
+               <hi rend="italic">
+                  <name type="person" key="Two Tailed Calumet Bird (Eapanopa)">Ea pa no pa</name>
+               </hi> (<hi rend="italic">ípanunpa</hi>), "<name type="person" key="Two Tailed Calumet Bird (Eapanopa)">two bird tails</name>"<lb/>
+               <hi rend="italic">
+                  <name type="person" key="Red Shield">War he ras sa</name>
+               </hi> (<hi rend="italic">w<seg n="u243">ó</seg>'kire sa</hi>), "red shield"</note>
+            <note xml:id="n08102905" n="5">Principal chief of the lower <name type="native_nation" key="Mandan Indians">Mandan</name> village, <name type="place" key="Mitutanka (Matootonha) village">Matootonha</name>; his proper name (<name type="person" key="Big White (Sheheke)">Sheheke</name>), variously spelled, is commonly translated "Coyote." The name <name type="person" key="Big White (Sheheke)">Big White</name>, or <name type="person" key="Big White (Sheheke)">Big White Man</name>, was given by whites because of his supposed resemblance to whites and his size—he was notably obese. He accompanied <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> to <name type="place" key="Washington D.C.">Washington</name> on their return journey in 1806. Returning him to his people became a major problem to the captains in their later capacities as governor and Indian superintendent; because of <name type="native_nation" key="Sioux Indians">Sioux</name> and <name type="native_nation" key="Arikara Indians">Arikara</name> hostility he did not reach home until 1809. The <name type="native_nation" key="Mandan Indians">Mandans</name> did not believe his tales of the wonders he had seen, and he lost much of his prestige and influence; perhaps his long absence had in any case allowed rivals to supplant him. He is reported as expressing a desire to return to the whites and live among them, but he was killed in a <name type="native_nation" key="Sioux Indians">Sioux</name> raid on his village in 1832. Hodge, 2:518–19; <name type="person" key="Clark, William">Clark</name> to <name type="person" key="Charbonneau, Toussaint">Toussaint Charbonneau</name>, August 10, 1806, <name type="person" key="Lewis, Meriwether">Lewis</name> to <name type="person" key="Jefferson, Thomas">Jefferson</name>, September 23, 1806, Jackson (LLC), 1:315, 323–25 and n. 7; Ronda (LCAI), 87–88, 247–50; Thwaites (EWT), 5:151, 162–64, 6:137, 152; Coues (NLEH), 1:330–31, 333; Thompson, 171, 179–80; Abel (CJ), 20; Foley &amp; Rice (RMC).</note>
+            <note xml:id="n08102906" n="6">
+               <name type="person" key="Clark, William">Clark</name> ranks him as second chief of the lower <name type="native_nation" key="Mandan Indians">Mandan</name> village, <name type="place" key="Mitutanka (Matootonha) village">Matootonha</name>; he was also called <name type="person" key="Little Crow (Ka-goh-ha-me)">Little Raven</name>. He was to have accompanied <name type="person" key="Big White (Sheheke)">Big White</name> to <name type="place" key="Washington D.C.">Washington</name> in 1806, but he changed his mind. He was still prominent among the <name type="native_nation" key="Mandan Indians">Mandans</name> nearly thirty years later. Thwaites (EWT), 24: 22 and n. 14; Ronda (LCAI), 69, 246–47.</note>
+            <note xml:id="n08102907" n="7">The captains considered <name type="person" key="Black Moccasin (Omp-se-ha-ra)">Black Moccasin</name> head chief of the second <name type="native_nation" key="Hidatsa Indians">Hidatsa</name> village, <name type="place" key="Sakakawea village">Metaharta</name>. In 1833, at a great age, he recalled them fondly; sitting for a portrait by <name type="person" key="Catlin, George">George Catlin</name>, he asked the painter to carry his regards to <name type="person" key="Clark, William">Clark</name> in <name type="place" key="Saint Louis, Mo.">St. Louis</name>. Thwaites (EWT), 5:167; 6:140; Ronda (LCAI), 70, 91–92; Catlin (NAI), 1:186–87 and n., plate 72.</note>
+            <note xml:id="n08102908" n="8">For the formidable <name type="person" key="Le Borgne (One Eye)">One Eye</name>, or <name type="person" key="Le Borgne (One Eye)">Le Borgne</name>, see below, <ref n="1805-03-09" type="related">March 9, 1805</ref>.</note>
+            <note xml:id="n08102909" n="9">With this sentence the Field Notes entry of October 29 continues on document 63. <name type="person" key="Biddle, Nicholas">Biddle's</name> note at the top of the page reads "Octo. 29 and nov. 13 1804."</note>
+            <note xml:id="n08102910" n="10">It is not clear in the journals whether these two names represent one man or two. <name type="person" key="Biddle, Nicholas">Biddle's</name>
+               <hi rend="italic">History</hi> indicates two, the translations of whose names the captains were unable to learn. Coues (HLC), 1:183.</note>
+            <note xml:id="n08102911" n="11">Since he appears as a chief at the <name type="native_nation" key="Mandan Indians">Mandan</name> village of <name type="place" key="Ruptáre (Rooptahee) village">Rooptahee</name>, he is apparently not the <name type="native_nation" key="Hidatsa Indians">Hidatsa</name> leader <name type="person" key="Man Wolf Chief (Ar-rat-toe-no-mook-gu)">Man Wolf Chief</name>. There may have been an error on the part of <name type="person" key="Clark, William">Clark</name> or an interpreter. <name type="native_nation" key="Mandan Indians">Mandan</name> chiefs with similar names occur in writings thirty years later; the name may have been common, or possibly it was a title rather than a proper name. Abel (CJ), 127; Catlin (NAI), 1:92, plate 49; Bowers (HSCO), 224; Thwaites (EWT), 22:345 n. 318, 24:17; Bowers (MSCO), 137.</note>
+            <note xml:id="n08102912" n="12">It apparently was <name type="person" key="Biddle, Nicholas">Biddle</name> who crossed out this line with red ink.</note>
+            <note xml:id="n08102913" n="13">This young chief of the <name type="native_nation" key="Hidatsa Indians">Hidatsas</name> was the son of <name type="person" key="Cherry Grows on a Bush (Caltarcota)">Cherry Grows on a Bush</name>, who had reportedly turned over most of his power to the younger man. Other sources call him <name type="person" key="Man Wolf Chief (Ar-rat-toe-no-mook-gu)">Wolf Chief</name> or <name type="person" key="Man Wolf Chief (Ar-rat-toe-no-mook-gu)">Chief of the Wolves</name>. He was a noted warrior and war leader. This same fall a war party under his direction killed some Canadian traders on the <name type="place" key="Saskatchewan River">Saskatchewan River</name>, allegedly because they mistook them for enemy Indians. Coues (NLEH), 1:368, 379; Thwaites (EWT), 5:163 and n. 99; Masson, 1:306–7, 342–43, 344; Wood &amp; Thiessen, 166–67 n. 29, 233, 243–44.</note>
+            <note xml:id="n08102914" n="14">The "<name type="person" key="Horned Weasel (Maw-pah'-pir-re-cos-satoo)">Horned Weasel</name>" who was "not at home" to <name type="person" key="Lewis, Meriwether">Lewis</name> on <ref n="1804-11-27" type="related">November 27, 1804</ref>.</note>
+            <note xml:id="n08102915" n="15">The medals "with the Imp. of the President" were, of course, <name type="person" key="Jefferson, Thomas">Jefferson</name> portraits. The others were the so-called "<name type="person" key="Washington, George">Washington</name> Season Medals" designed by the artist <name type="person" key="Trumbull, John">John Trumbull</name> during <name type="person" key="Washington, George">Washington's</name> administration but not completed until <name type="person" key="Adams, John">John Adams's</name> term of office. Struck in both silver and copper, with a 45 mm. diameter, they portrayed domestic scenes that presumably represented the civilization to which the government wished to convert the Indians. As <name type="person" key="Clark, William">Clark</name> indicates, one showed a woman weaving on a loom, another pictured cattle and sheep, and another a man sowing wheat. Prucha (IPM), 17, 89–95.</note>
+            <note xml:id="n08102916" n="16">
+               <name type="person" key="Clark, William">Clark's</name> "4th Village" was <name type="place" key="Sakakawea village">Metaharta</name> (see <hi rend="italic">Atlas</hi> map 29). At a later date <name type="person" key="Red Shield">Red Shield</name> reportedly killed <name type="person" key="Le Borgne (One Eye)">Le Borgne</name>, or <name type="person" key="Le Borgne (One Eye)">One Eye</name>. Thwaites (EWT), 5:162, 15:97, 23:219–20, 24:23.</note>
+            <note xml:id="n08102917" n="17">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> observation from Codex O.</note>
+            <note xml:id="n08102918" n="18">
+               <hi rend="italic">
+                  <name type="native_nation" key="Hidatsa Indians">Gros Ventres</name>
+               </hi>, "<name type="native_nation" key="Hidatsa Indians">big bellies</name>," is the French term for the <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>, who were also called <name type="native_nation" key="Hidatsa Indians, Awaxawi">Watersoons</name> (variously spelled, as <name type="person" key="Ordway, John">Ordway</name> demonstrates) as well as other designations. Again,
+see <name type="person" key="Clark, William">Clark's</name> entry for <ref n="1804-10-27" type="related">October 27</ref>.</note>
+            <note xml:id="n08102919" n="19">The <name type="native_nation" key="Hidatsa Indians, Awaxawi">Awaxawi Hidatsas</name>; see <name type="person" key="Clark, William">Clark's</name>
+               <ref n="1804-10-27" type="related">October 27, 1804</ref>, entry and note for the involved nomenclature of this group.</note>
+            <note xml:id="n08102920" n="20">
+               <name type="person" key="Clark, William">Clark</name> does not mention the presence of any <name type="native_nation" key="Sioux Indians">Sioux</name> on this occasion. It may be <name type="person" key="McKeehan, David">McKeehan's</name> misreading of <name type="person" key="Gass, Patrick">Gass</name>. <name type="person" key="Whitehouse, Joseph">Whitehouse's</name> copyist writes it "<name type="native_nation" key="Hidatsa Indians, Awaxawi">Water Sioux</name>."</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-10-28" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-10-30" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

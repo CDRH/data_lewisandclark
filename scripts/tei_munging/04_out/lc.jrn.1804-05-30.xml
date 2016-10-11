@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-05-30">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+May 30, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">264-266</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">8-9, 376</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">10-11</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">15-16</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-05-30.01">
+            <placeName/>
+            <geo>38.6482 -91.8812</geo>
+            <note>About 14 miles downstream from Bailey Creek, close to Little Muddy River. Stayed here until 1804-06-01</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-01-12</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-05-30">May 30, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-05-30.01" n="lc.geo.1804-05-30.01">
+            <sp who="wc">
+               <speaker>
+                  <name type="person" key="Clark, William">Clark</name>
+                  <ref target="n04053001" n="1"/>
+               </speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+May 30th, Wednesday, Set out at 7 oClock after a heavy rain, rained all last night, a little after Dark last night Several guns were herd below, I expect the French men fireing for <name type="person" key="Whitehouse, Joseph">Whitehous</name> who was lost in the woods.</p>
+               <p>
+                  <table rows="6" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Course</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">West</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">M. to a pt. Lbd Side    opsd. an Isld. a Cave on the St Side Called<lb/>
+                           <name type="place" key="Monbrains Tavern">Monbrains Tavern</name>, a Creek above,</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° W</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">ms. to pt. Lb. Side    passed an Isd. on the St. Side, a Sand bar<lb/>
+&amp; Creek Called <name type="place" key="Greasy (Rest, Rush) Creek">rest Creek</name> on the Lbd Side—    Rain hard,</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 78° W</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">mes to pt. on Lbd Side    psd a willow Isd. in mid: R. a willow<lb/>
+Island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 66° W,</cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. Lbd. Side, opposit the mouth of a Small River<lb/>
+called <name type="place" key="Auxvasse (Big Miry, Big Muddy, Muddy) River">Miry River</name> of about 〈40〉 80 yds wide a Willow Isd. in the<lb/>
+River, a large Isd. above</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 48° W</cell>
+                        <cell role="data" rows="1" cols="1">6</cell>
+                        <cell role="data" rows="1" cols="1">Ms. to a pt. on Lbd.<ref target="n04053002" n="2"/> Side, passed a Isd. in the mid: Came to<lb/>
+in the mouth of a Creek at Lbd Side [<hi rend="italic">blank</hi>] yds wide Called<lb/>
+[<hi rend="italic">blank</hi>]<ref target="n04053003" n="3"/>    one on St. Side of 60 yds wide called <name type="place" key="Little Muddy (White Earth) Creek">little Miry</name> at<lb/>
+2 ms.    Passed a Creek of 15 yd. wide on the Lbd Side at 14<lb/>
+Miles Called <name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">Grindstone Creek</name> &amp; incamped in the Mouth,<lb/>
+Low land on both Sides of the river &amp; Creek</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-30.02" n="lc.geo.1804-05-30.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">May</hi> 30th <hi rend="italic">Wednesday</hi> 1804</date>
+               </ab>
+               <p>
+Rained all last night    Set out at 6 oClock after a heavy Shower, and proceeded on, passed a large Island a Creek opposit on the St. Side Just abov a <hi rend="italic">Cave</hi> Called <name type="place" key="Monbrains Tavern">
+                     <hi rend="italic">Monbrun Tavern</hi>
+                  </name> [<hi rend="italic">NB: Montbrun's</hi>] &amp; River,<ref target="n04053004" n="4"/> passed a Creek on the Lbd. Side Call <name type="place" key="Greasy (Rest, Rush) Creek">
+                     <hi rend="italic">Rush</hi> Creek</name>
+                  <ref target="n04053005" n="5"/> at 4 Miles    Several Showers of rain the Current Verry Swift river riseing fast    Passed <name type="place" key="Auxvasse (Big Miry, Big Muddy, Muddy) River">Big 〈Miry〉</name> [<hi rend="italic">NB: Muddy</hi>] River<ref target="n04053006" n="6"/> at 11 Miles on the Starboard Side, at the lower point of a Island,<ref target="n04053007" n="7"/> this River is about 50 yards Wide, Camped at the mouth of a Creek on Lbd Sd of abt 25 yds. Wide Called <name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">Grinestone Creek</name>,<ref target="n04053008" n="8"/> opposit the head of a Isd. and the mouth of <name type="place" key="Muddy Creek">Little 〈Miry〉 [<hi rend="italic">NB: Muddy</hi>] River</name>
+                  <ref target="n04053009" n="9"/> on the St Side, a heavy wind accompanied with rain &amp; hail    we Made 14 miles to day, the river Continue to rise, the County on each Side appear full of Water.</p>
+               <p>
+                  <table rows="6" cols="3">
+                     <head>
+                        <hi rend="italic">Course &amp; Distance</hi> of May 30th</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. L. Sd. opsd. a Cave &amp; pt. Isd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. on L. Sd.    psd. Isd. &amp; <name type="place" key="Greasy (Rest, Rush) Creek">rush Creek</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 78° W.</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. on L. Sd.    psd. a wil: Isd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 66° W.</cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">Ms. to a pt. on Lbd. Sd. opsd. <name type="place" key="Auxvasse (Big Miry, Big Muddy, Muddy) River">Mery R</name>: &amp; Isd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 48° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">6</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. on St. Sd. opsd. Som Sm. Isd.    Psd.<lb/>
+a creek 2 ms.    Swift</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">17</cell>
+                        <cell role="data" rows="1" cols="1">say 17 mile</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-30.03" n="lc.geo.1804-05-30.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday May the 30th 1804.    we Set out at 7 oClock A. M. after a hard rain, rained all last night.    a little after dark last night Several Guns were fired below    we expect the Frenchmen were firing for <name type="person" key="Whitehouse, Joseph">whitehouse</name> who was lost in the woods on N. Side oppisite an Island above Clifts Called <name type="place" key="Monbrains Tavern">Monbrans
+Tavern</name>
+                  <ref target="n04053010" n="10"/>    at 12 oClock a hard Shower of rain &amp; hail    passed a Creek called <name type="place" key="Greasy (Rest, Rush) Creek">rush Creek</name>
+                  <ref target="n04053011" n="11"/> on the N. Side of the River    Came 4 miles    passed <name type="place" key="Muddy Creek">Mud creek</name>
+                  <ref target="n04053012" n="12"/> on River on N. Side of the River, the Soil is good the timber is Cotton-wood Secamore hickery &amp; white walnut &amp;.C. Some Grape vines Rushes &amp;.C—<ref target="n04053013" n="13"/>    came about 14 miles    encamped at <name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">Grind Stone Creek</name> or <name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">Panther Cr.</name>
+                  <ref target="n04053014" n="14"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-30.04" n="lc.geo.1804-05-30.01">
+            <sp who="cf">
+               <speaker>Floyd</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday may 〈30th 1804 wedneday    Set out after a verry har rain Last night    Rained all the with thunder and hail〉    wedsday 30th 1804    Set out 7 ock after a very hard Rain and thunder    it Rained During the Gratiest part of the day with hail    passed one Creek on the South Side Called <name type="place" key="Greasy (Rest, Rush) Creek">Rush Creek</name>    the Land is Low    Bottom but Rich Soil    3 miles to River on the N Side Colled <name type="place" key="Muddy Creek">Littel muddy River</name>    the Land is Some what Like the Loer, it comes in opset an Isld 2 miles to River on the South Side Colled <name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">painter River</name>
+                  <ref target="n04053015" n="15"/>    it Comes in opset to Isd. in the midel of the <name type="place" key="Missouri River">missoura</name>    encamped South side at the mouth—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-30.05" n="lc.geo.1804-05-30.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 30th.</hi>    After experiencing a very disagreeable night, on account of the rain, we continued our voyage at seven o'clock A. M. and passed a cove where there were high cliffs on the north side opposite an island, called <name type="place" key="Monbrains Tavern">Mombran's Tavern</name>. At twelve we had a heavy shower of rain, accompanied with hail; passed a creek called <name type="place" key="Greasy (Rest, Rush) Creek">Rush creek</name>,<ref target="n04053016" n="16"/> on the north side; and four miles further <name type="place" key="Muddy Creek">Mud creek</name> on the same side. Here the soil is good, with cotton wood, sycamore, oak, hickory, and white walnut; with some grape vines, and an abundance of rushes.<ref target="n04053017" n="17"/> We halted and encamped at <name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">Grindstone creek</name>
+                  <ref target="n04053018" n="18"/> on the south side of the river.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-30.06" n="lc.geo.1804-05-30.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 30th May 1804.    a fair morning.    we Set out eairly and proceeded on    about noon began to rain.    we passed a creek on the S. Side called <name type="place" key="Greasy (Rest, Rush) Creek">rush creek</name>.<ref target="n04053019" n="19"/>    procd. on    passed fine bottoms of timbered land on each Side.    passd. a River on N. Side called <name type="place" key="Muddy Creek">little muddy River</name>, and <name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">panther River</name>
+                  <ref target="n04053020" n="20"/> on S. Side    a large Island opposite the mouth.</p>
+               <p>
+Wednesday May 30th    We set off early this morning, the weather being fair; we proceeded on 'till noon when it began to rain, we passed by a Creek laying on the South side of the River, called <name type="place" key="Greasy (Rest, Rush) Creek">Rush Creek</name>, and saw a fine bottom of Timber'd land, lying on both sides of the River, we passed a River called <name type="place" key="Muddy Creek">little Muddy River</name>, lying on the North side, and a River called <name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">Panther River</name> on the South side, having a large Island lying opposite its mouth and encamped here this evening.
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n04053001" n="1">
+               <name type="person" key="Biddle, Nicholas">Biddle's</name> heading at the top of this sheet (document 16), reads "May 30 to June 1st." The columns of numbers next to this entry appear to be partial additions of the day's distance. Other numbers are at the bottom of the page under another entry but also seem to be distances for May 30.</note>
+            <note xml:id="n04053002" n="2">This abbreviation appears to be "Lbd.," but in the courses and distances of the Codex A entry, below, it is "St." There was a point on the starboard, in <name type="place" key="Callaway County, Mo.">Callaway County</name>, <name type="place" key="Missouri River">Missouri</name>, at approximately the right spot, visible through most of the century. Nicollet (MMR), 355; MRC map 6.</note>
+            <note xml:id="n04053003" n="3">Apparently the same as <name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">Grindstone Creek</name>, below; see n. 8.</note>
+            <note xml:id="n04053004" n="4">
+               <name type="place" key="Little Tavern Creek (Callaway County, Mo.)">Little Tavern Creek</name> meets the <name type="place" key="Missouri River">Missouri</name> in <name type="place" key="Callaway County, Mo.">Callaway County</name>, about two miles below the present town of <name type="place" key="Portland, Mo.">Portland</name>; just above it is <name type="place" key="Big Tavern Creek">Big Tavern Creek</name>. The island may be later <name type="place" key="Portland Island">Portland Island</name>. See fig. 10, a sketch map on document 17. MRC map 5.</note>
+            <note xml:id="n04053005" n="5">
+               <name type="place" key="Greasy (Rest, Rush) Creek">Rest Creek</name> in the Field Notes entry, probably later <name type="place" key="Greasy (Rest, Rush) Creek">Greasy Creek</name>, meeting the <name type="place" key="Missouri River">Missouri River</name> at the town of <name type="place" key="Chamois, Mo.">Chamois</name>, <name type="place" key="Osage County, Mo.">Osage County</name>, <name type="place" key="Missouri">Missouri</name>. The mouth may have been farther down the <name type="place" key="Missouri River">Missouri</name> in 1804. It appears without a name in fig. 10. Ibid.; MRM map 14.</note>
+            <note xml:id="n04053006" n="6">"<name type="place" key="Auxvasse (Big Miry, Big Muddy, Muddy) River">Big Miry R</name>" on fig. 10, probably <name type="place" key="Auxvasse (Big Miry, Big Muddy, Muddy) River">Auxvasse River</name>, in present <name type="place" key="Callaway County, Mo.">Callaway County</name>. MRC map 6. Biddle probably crossed out Miry when he substituted Muddy.</note>
+            <note xml:id="n04053007" n="7">Perhaps later <name type="place" key="Saint Aubert Island">St. Aubert Island</name>. Ibid.</note>
+            <note xml:id="n04053008" n="8">This creek, at whose mouth they camped, is probably later <name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">Deer Creek</name>, in <name type="place" key="Osage County, Mo.">Osage County</name>. See fig. 10. Ibid.</note>
+            <note xml:id="n04053009" n="9">
+               <name type="place" key="Muddy Creek">"Little Miry R"</name> on fig. 10; evidently later <name type="place" key="Muddy Creek">Muddy Creek</name>, in <name type="place" key="Callaway County, Mo.">Callaway County</name>. Ibid. Biddle probably crossed out Miry when he substituted Muddy.</note>
+            <note xml:id="n04053010" n="10">At <name type="place" key="Little Tavern Creek (Callaway County, Mo.)">Little Tavern Creek</name>, <name type="place" key="Callaway County, Mo.">Callaway County</name>, <name type="place" key="Missouri">Missouri</name>
+            </note>
+            <note xml:id="n04053011" n="11">Actually on the south side, also called <name type="place" key="Greasy (Rest, Rush) Creek">Rest Creek</name> by <name type="person" key="Clark, William">Clark</name> in his Field Notes; it is <name type="place" key="Greasy (Rest, Rush) Creek">Greasy Creek</name>, at the town of <name type="place" key="Chamois, Mo.">Chamois</name>, <name type="place" key="Osage County, Mo.">Osage County</name>, <name type="place" key="Missouri">Missouri</name>.</note>
+            <note xml:id="n04053012" n="12">Evidently <name type="place" key="Muddy Creek">Muddy Creek</name>, <name type="place" key="Callaway County, Mo.">Callaway County</name>.</note>
+            <note xml:id="n04053013" n="13">
+               <name type="person" key="Ordway, John">Ordway</name> and <name type="person" key="Gass, Patrick">Patrick Gass</name> call attention to the vegetation this day. The trees are cotton wood, <hi rend="italic">Populus deltoides</hi> Marsh., sycamore, <hi rend="italic">Platanus occidentalis</hi> L., some unknown hickory,  <hi rend="italic">Carya</hi> sp., and white walnut, butternut, <hi rend="italic">Juglans cinerea</hi> L. The grape is probably river-bank grape, <hi rend="italic">Vitis riparia</hi> Michx., and the rush is unknown, <hi rend="italic">Equisetum</hi> sp.</note>
+            <note xml:id="n04053014" n="14">"<name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">Grinestone Creek</name>" to <name type="person" key="Clark, William">Clark</name> and <name type="person" key="Gass, Patrick">Gass</name>, "<name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">Panther River</name>" to <name type="person" key="Whitehouse, Joseph">Joseph Whitehouse</name>; probably <name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">Deer Creek</name>, <name type="place" key="Osage County, Mo.">Osage County</name>.</note>
+            <note xml:id="n04053015" n="15">Evidently <name type="person" key="Ordway, John">Ordway's</name>
+               <name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">Panther Creek</name>, which is probably <name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">Deer Creek</name>, <name type="place" key="Osage County, Mo.">Osage County</name>, <name type="place" key="Missouri">Missouri</name>.</note>
+            <note xml:id="n04053016" n="16">Perhaps <name type="place" key="Greasy (Rest, Rush) Creek">Greasy Creek</name> at <name type="place" key="Chamois, Mo.">Chamois</name>, <name type="place" key="Osage County, Mo.">Osage County</name>, <name type="place" key="Missouri">Missouri</name>.</note>
+            <note xml:id="n04053017" n="17">
+               <name type="person" key="Ordway, John">John Ordway</name> also mentions some of the vegetation this day. The trees are cottonwood, <hi rend="italic">Populus deltoides</hi> Marsh., sycamore, <hi rend="italic">Platanus occidentalis</hi> L., an unknown oak, <hi rend="italic">Quercus</hi> sp., an unknown hickory, <hi rend="italic">Carya</hi> sp., and white walnut, butternut, <hi rend="italic">Juglans cinerea</hi> L. The grape is probably river-bank grape, <hi rend="italic">Vitis riparia</hi> Michx., and the rush is unknown, <hi rend="italic">Equisetum</hi> sp.</note>
+            <note xml:id="n04053018" n="18">"<name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">Panther River</name>" to <name type="person" key="Whitehouse, Joseph">Whitehouse</name>; <name type="person" key="Ordway, John">Ordway</name> gives both names. Now probably <name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">Deer Creek</name>, 
+<name type="place" key="Osage County, Mo.">Osage County</name>.</note>
+            <note xml:id="n04053019" n="19">Called <name type="place" key="Greasy (Rest, Rush) Creek">Rest Creek</name> by <name type="person" key="Clark, William">Clark</name> in his Field Notes; now <name type="place" key="Greasy (Rest, Rush) Creek">Greasy Creek</name>, at the town of <name type="place" key="Chamois, Mo.">Chamois</name>, <name type="place" key="Osage County, Mo.">Osage County</name>, <name type="place" key="Missouri">Missouri</name>.</note>
+            <note xml:id="n04053020" n="20">
+               <name type="person" key="Ordway, John">Ordway's</name>
+               <name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">Panther Creek</name> and <name type="person" key="Clark, William">Clark</name> and <name type="person" key="Gass, Patrick">Gass's</name>
+               <name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">Grinestone Creek</name>, evidently <name type="place" key="Deer (Grindstone, Panther) Creek (Mo.)">Deer Creek</name>, 
+<name type="place" key="Osage County, Mo.">Osage County</name>, <name type="place" key="Missouri">Missouri</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-05-29" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-05-31" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

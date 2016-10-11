@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-10-05">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+October 5, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">144-146</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">76</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">51</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">95-96</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-10-05.01">
+            <placeName/>
+            <geo>45.1381 -100.3045</geo>
+            <note>An island that has been inundated by the river. In Potter County, SD</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-03-17</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-10-05">October 5, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-10-05.01" n="lc.geo.1804-10-05.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">5th of October Friday 1804</hi>    Frost this morning, Set out early    passed a Small Creek on the L. S.    saw 3 <name type="native_nation" key="Sioux Indians, Teton">Tetons</name> on the S. S.    they beged Some Tobacco, we proceed on    passed a Creek on the S. S.<ref target="n07100501" n="1"/>    I Saw a white brant in a gangue on the Sand bar<ref target="n07100502" n="2"/>    Saw a large herd of Cabra or antelopes Swiming the River, we Killed four of them    passed a Small Island on the L. S.    a large Creek on the L. S. at the head of the Island <name type="place" key="Swift Bird (White Brant, White Goat) Creek">White Brant Creek</name>,<ref target="n07100503" n="3"/> I walked on the Island which is covered with wild rye,<ref target="n07100504" n="4"/> I Killed a Buck &amp; a Small wolf this evening, Clear pleasant evening, Camped on a mud bar S. S.<ref target="n07100505" n="5"/>    refreshd the men with whiskey.</p>
+               <p>
+                  <table rows="7" cols="3">
+                     <head>Course Distance &amp;c.</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 63° E</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to high land on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">m. to a pt. of Timber on the L. S.    passed a Creek L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° E</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">m to a tree in a bend to S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 36° W.</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">m. to a pt. of high Land on the L. S.    passed a Creek on<lb/>
+the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 50° W.</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">m. to a pt. on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 17° W.</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">to a tree on the S. S.    passed an Island and Creek L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 16° E</cell>
+                        <cell role="data" rows="1" cols="1">6</cell>
+                        <cell role="data" rows="1" cols="1">m. to a point on the L. S. opposit a willow Isd.</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-05.02" n="lc.geo.1804-10-05.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>5th of <hi rend="italic">October Friday</hi> 1804</date>
+               </ab>
+               <p>
+Frost this morning, we Set out early and proceeded on    (1) passed a Small Creek on the L. S.    at 7 oclock heard Some yels    proceeded on Saw 3 Indians of the <name type="native_nation" key="Sioux Indians, Teton">Teton</name> band, they called to us to Come on Shore, beged Some Tobacco, we answd. them as usial and proceeded on,    passed (2) a Creek on the S. S.    at 〈the〉 3 mes. abov the mouth we Saw one white 〈goose〉 Brant in a gang of about 30, the others all as dark as usial, a Discription of this kind of Gees or Brant Shall be given here after    Saw a Gang of Goats Swiming across the river out of which we killed four    they were not fatt.    in the evening passed a Small (3) Island Situated Close to the L. Side, at the head of this Isd. a large Creek coms in on the L. S.    Saw white 〈Gees〉 or Brants, we Call this Creek <name type="place" key="Swift Bird (White Brant, White Goat) Creek">white 〈gees〉 Brant Creek</name>—    I walked on the Isd.    found it Covered with wild rye, I Shot a Buck, Saw a large gang of Goat on the hills opposit, one Buck killed, also a Prarie wolf this evening, the high Land not So high as below, river about the Same width, the Sand bars as noumerous, the earth Black and many of the Bluffs have the appearance of being on fire,<ref target="n07100506" n="6"/> we Came too and Camped on a mud bar makeing from the L. S.    The evening is Calm and pleasant, refreshed the men with a glass of whiskey—</p>
+               <p>
+                  <hi rend="right">
+                     <hi rend="italic">5th October</hi>
+                  </hi>
+               </p>
+               <p>
+                  <table rows="8" cols="3">
+                     <head>Course Distance &amp; reffurences.</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 63° E.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">under Some high land on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles to a point of Timber on the L. S.    passed a Creek<lb/>
+on the L. S. (1)    high land on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80 E</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">mes. to a Tree in the bend to the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 36° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">mes. to a pt. of high land on the L. S.    passed a Creek on<lb/>
+the S. S. (2)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 50° W</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Point to the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 17° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">mes. to a tree on the S. S.    passd a Small Island Close on<lb/>
+the L. S. above the Sd. Island a Creek comes in on the<lb/>
+L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 16° E.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  6</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">mes. to a pt. on the L. Side opposit a willow Island Situ-<lb/>
+ated near the S. Shore</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">20</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-05.03" n="lc.geo.1804-10-05.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 5th Oct. 1804</hi>.    a white frost this morning. Clear &amp; Cool.    we Set off eairly.    passed Some wood in a bottom S. S. See Several Indians on the Shore on N. S.    at 11 oClock we Saw a flock of Goats Swimming the River towards the South Shore.    one of our hunters ran up the Shore &amp; killed 4 of them    we took them on board the Boat &amp; pearogues.    passed a Creek on N. S. called white <name type="place" key="Swift Bird (White Brant, White Goat) Creek">Goat Creek</name>.<ref target="n07100507" n="7"/>    passd black Bluffs on S. S.    we halted took dinner at a Timbered bottom S. S. below an Island.    dressed &amp; took care of our Goat meat as we had no other fresh meat on hand.    found it to be verry Sweet Good meat.    proceeded on passing the Island    we killed a Small prarie woolf Swimming the River.    passed high Black Bluff on N. S. &amp; a large Bottom covered with Timber. <name type="person" key="Clark, William">Capt. Clark</name> &amp; 2 of the hunters went out hunting—    we passed the Bottom &amp; Camped on N. S. <name type="person" key="Clark, William">Capt Clark</name> &amp; the
+rest of the hunters returned.    had killed &amp; brought in a Deer.—    had killed or wounded 2 more but did not get them.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-05.04" n="lc.geo.1804-10-05.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 5th.</hi> This morning there was a white frost; the day clear and pleasant. About 11 we saw some goats swimming the river, when one of our hunters ran up the shore and killed four of them, and we took them into the boat and periogues as they floated down. We passed a creek on the north side, called <name type="place" key="Little Cheyenne (Hidden) River (Hidden Creek)">Hidden creek</name>, and high black bluffs on the south side.<ref target="n07100508" n="8"/> Some of our hunters having gone on an island to hunt scared a prairie wolf into the river, which we killed. We passed a creek on the south side called <name type="place" key="Swift Bird (White Brant, White Goat) Creek">White Goat</name> 
+creek, and encamped on the north side.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-05.05" n="lc.geo.1804-10-05.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Friday 5th Oct. 1804.<ref target="n07100509" n="9"/>    Set off eairly    Some whight frost last night.    the day clear and pleasant.    about 11 oClock we Saw Some Goats Swimming the river.    one of our hunters Shot 4 of them.    passed a creek on the N. S.    
+called <name type="place" key="Little Cheyenne (Hidden) River (Hidden Creek)">hidden Creek</name>.    we killed a prarie wolf Swimming in the river    passed a creek on the S. S. called whight <name type="place" key="Swift Bird (White Brant, White Goat) Creek">Goat creek</name>.<ref target="n07100510" n="10"/>    Camped on the S. Side.</p>
+               <p>
+Friday October 5th    This morning we had a White frost, we set out early, the day being clear &amp; pleasant; we proceeded on about 11 o'Clock A. M. we saw some Goats swimming the River, one of our Hunters pursued them in a Pettyauger &amp; killed four of them, which was brought on board—    We continued on, and passed a Creek, lying on the North side of the River called <name type="place" key="Little Cheyenne (Hidden) River (Hidden Creek)">hidden creek</name>    Shortly after we saw a Priari Wolf swimming across the River, which One of the Men Shot &amp; we got on board—</p>
+               <p>
+We proceeded on, and passed a Creek, lying on the South side of the River, called  <name type="place" key="Swift Bird (White Brant, White Goat) Creek">white Goat Creek</name>, and encamped in the Evening on the South side of the River—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n07100501" n="1">Now the <name type="place" key="Little Cheyenne (Hidden) River (Hidden Creek)">Little Cheyenne River</name>, otherwise <name type="place" key="Little Cheyenne (Hidden) River (Hidden Creek)">Cheyenne Creek</name>, reaching the <name type="place" key="Missouri River">Missouri</name> in <name type="place" key="Potter County, S. Dak.">Potter County</name>, <name type="place" key="South Dakota">South Dakota</name>. It appears as "<name type="place" key="Little Cheyenne (Hidden) River (Hidden Creek)">Hidden Creek</name>" on <hi rend="italic">Atlas</hi> map 24. MRC map 43; MRY map 92. </note>
+            <note xml:id="n07100502" n="2">The captains' references to "brant" are often obscure, especially since brant and geese often migrate in mixed flocks. The white brant here may be the snow goose, <hi rend="italic">Chen caerulescens</hi> [AOU, 169]. The darker birds mentioned in Codex C, below, may be the brant, <hi rend="italic">Branta bernicla</hi> [AOU, 173). The darker birds may not be brant, however, since they are uncommon in <name type="place" key="South Dakota">South Dakota</name>. It is not clear what bird <name type="person" key="Clark, William">Clark</name> saw, but it may have been a "blue" phase snow goose. Coues (HLC), 1:154 n. 22; Burroughs, 192–93.</note>
+            <note xml:id="n07100503" n="3">This creek, in <name type="place" key="Dewey County, S. Dak.">Dewey County</name>, <name type="place" key="South Dakota">South Dakota</name>, retained the same name late in the nineteenth century, according to MRC map 43; more recently it was  <name type="place" key="Swift Bird (White Brant, White Goat) Creek">Swift Bird Creek</name>. <hi rend="italic">Atlas</hi> map 24; MRY map 93.</note>
+            <note xml:id="n07100504" n="4">
+               <hi rend="italic">Elymus canadensis</hi> L., Canada wild rye. Barkley, 489.</note>
+            <note xml:id="n07100505" n="5">In <name type="place" key="Potter County, S. Dak.">Potter County</name>, in an area now inundated by <name type="place" key="Oahe Reservoir">Oahe Reservoir</name>. <hi rend="italic">Atlas</hi> map 24; Mattison (OR), 71–72; MRC map 43.</note>
+            <note xml:id="n07100506" n="6">Pierre Shale (see entries of <ref n="1804-08-24" type="related">August 24</ref> and <ref n="1804-09-14" type="related">September 14, 1804</ref>, for a discussion of "fire").</note>
+            <note xml:id="n07100507" n="7">
+               <name type="person" key="Clark, William">Clark's</name>
+               <name type="place" key="Swift Bird (White Brant, White Goat) Creek">White Brant Creek</name>; it is today's  <name type="place" key="Swift Bird (White Brant, White Goat) Creek">Swift Bird Creek</name>, <name type="place" key="Dewey County, S. Dak.">Dewey County</name>, <name type="place" key="South Dakota">South Dakota</name>.</note>
+            <note xml:id="n07100508" n="8">
+               <name type="person" key="McKeehan, David">McKeehan's</name> note: "To prevent mistakes, owing to the very winding course of the river, Starboard side and Larboard side were made use of in the original journal, instead of north side and south side; during the remainder of the voyage up the <name type="place" key="Missouri River">Missouri</name>; but have been changed to north side and south side, as being better understood, and sufficiently representing the general course of the river."</note>
+            <note xml:id="n07100509" n="9">The "4" in 1804 is written over either a "5" or "6."</note>
+            <note xml:id="n07100510" n="10">If this is <name type="person" key="Whitehouse, Joseph">Whitehouse's</name> hand, and it appears no different from other writing of the journalist designated No. 1, he has misspelled "white." <name type="person" key="Clark, William">Clark</name> called it <name type="place" key="Swift Bird (White Brant, White Goat) Creek">White Brant Creek</name>, a name it retained until late in the nineteenth century; it is now  <name type="place" key="Swift Bird (White Brant, White Goat) Creek">Swift Bird Creek</name>, <name type="place" key="Dewey County, S. Dak.">Dewey County</name>, <name type="place" key="South Dakota">South Dakota</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-10-04" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-10-06" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-07-08">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+July 8, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">96-98, 171-173</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">333-334</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">251</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-07-08.01">
+            <placeName/>
+            <geo>44.9987 -112.8541</geo>
+            <note>Clark camped at Camp Fortunate, where the party had camped on 1805-08-17. He remained here until 07-10.</note>
+         </geoDecl>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-07-08.02">
+            <placeName/>
+            <geo>47.65 -113.1</geo>
+            <note>The rest of the party camped on an island in Sun River, and affluent of Grasshopper Creek, Beaverhead County, MT.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-11-09</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-07-08">July 8, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-07-08.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>July 8th 1806.</date>
+               </ab>
+               <p>
+Set out at 6 A. M.</p>
+               <p>
+                  <table rows="5" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 25 W.</cell>
+                        <cell role="data" rows="1" cols="1">3 ½</cell>
+                        <cell role="data" rows="1" cols="1">m. to the top of a hill from whence we saw the <name type="place" key="Haystack Butte">Shishequaw<lb/>
+mountain</name>
+                           <ref target="n37070801" n="1"/> about 8 M. distant, immediately before us.    passed<lb/>
+〈torrant〉 <hi rend="italic">
+                              <name type="place" key="Dearborn River">Dearborne's river</name>
+                           </hi>
+                           <ref target="n37070802" n="2"/> at 3 m.    this stream comes form<lb/>
+the S. W. out of the mountains which are about 5 Ms. to our<lb/>
+left.    the bed of the river is about 100 yds. wide tho' the water<lb/>
+occupys only about 30 yds.    it appears to spread over it's bot-<lb/>
+toms at certain seasons of the year and runs a mear torrant<lb/>
+tearing up the trees by the roots which stand in it's bottom<lb/>
+〈hense the name we have given it.〉<ref target="n37070803" n="3"/>    the <name type="place" key="Haystack Butte">Shishiquaw moun-<lb/>
+tain</name> is a high insulated conic mountain standing several miles<lb/>
+in advance of the Eastern range of the <name type="place" key="Rocky Mountains">rocky mountains</name>.<lb/>
+Country broken and mountanous to our wright.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North—</cell>
+                        <cell role="data" rows="1" cols="1">14 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. 〈leaving the〉 through an open plain to <name type="place" key="Haystack Butte">Shishequaw Creek</name>
+                           <ref target="n37070804" n="4"/>
+                           <lb/>
+20 yds. wide bottoms and considerable qantity of timber it<lb/>
+leaves the mountain to the S E and enters the 〈mountains〉<lb/>
+[<hi rend="italic">EC?: plains</hi>].    we struck it about 10 miles below the moun-<lb/>
+tain which boar S. 32 W. from us.    the road continued along<lb/>
+the foot of the mountain to the West of north which not being<lb/>
+anything like our course and the country becoming tolerably<lb/>
+level at the commencement of this course we steered through<lb/>
+the plains leaving the road with a view to strike <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Medicine river</name>
+                           <lb/>
+and hunt down it to it's mouth in order to procure the neces-<lb/>
+sary skins to make geer, and meat for the three men whom we<lb/>
+mean to leave at the falls as none of them are hunters.    we<lb/>
+halted and dined on <name type="place" key="Haystack Butte">Shishequaw Creek</name>    <name type="person" key="Field, Reubin">R. Fields</name> killed a<lb/>
+fine buck and a goat; <name type="person" key="Field, Joseph">Josh. Fields</name> saw two buffaloe below us<lb/>
+some distance which are the first that have been seen.    we<lb/>
+saw a great number of deer goats and wolves as we passed<lb/>
+through the plains this morning but no Elk or buffaloe.    saw<lb/>
+some barking squirrils    much rejoiced at finding ourselves in<lb/>
+the plains of the <name type="place" key="Missouri River">Missouri</name> which abound with game.—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 50 E</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">m. to the discharge of <name type="place" key="Haystack Butte">Shishequaw Creek</name> into the <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Medicine<lb/>
+River</name>
+                           <ref target="n37070805" n="5"/> through an extensive beautifull and level bottom.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 85° E.</cell>
+                        <cell role="data" rows="1" cols="1">8</cell>
+                        <cell role="data" rows="1" cols="1">m. to our encampment of this evening on a large island.<ref target="n37070806" n="6"/>    the<lb/> bottoms continue level low and extensive plains level and not<lb/>
+very elivated parcularly on the N. E. side of the river.    the<lb/>
+land of neither the plains nor bottoms is fertile.    it is of a<lb/>
+light colour intermixed with a considerable proportion of<lb/>
+gravel<ref target="n37070807" n="7"/>    the grass generally about 9 inghes high.    the hunt-<lb/>
+ers were unsuccessful this evening. I killed a very large and<lb/>
+the whitest woolf I have seen—<ref target="n37070808" n="8"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">28</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-07-08.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Tuesday July 8th 1806</hi>
+                  </date>
+               </ab>
+               <p>
+Our horses being Scattered we were detained unill 8 A. M before we Set out.    we proceeded on down <name type="place" key="Divide (Willard's) Creek">Willards Creek</name> on the S. W. Side about 11 miles near which the Creek passes through the mountain<ref target="n37070809" n="9"/>    we then Steared S. 20° E. to the West branch of <name type="place" key="Beaverhead (Jefferson) River">Jeffersons river</name> in <name type="place" key="Shoshone Cove">Snake Indian cove</name> about 7 miles and halded two hours to let the horses graize.<ref target="n37070810" n="10"/>    after dinner we proceeded on down the forke which is here but Small    9 Miles to our encampment of 17 Augt.<ref target="n37070811" n="11"/> at which place we Sunk our Canoes &amp; buried Some articles, as before mentioned the most of the Party with me being Chewers of Tobacco become So impatient to be chewing it that they Scercely gave themselves time to take their Saddles off their horses before they were off to the deposit. I found every article Safe, except a little damp.<ref target="n37070812" n="12"/> I gave to each man who used tobacco about two feet off a part of a role    took one third of the ballance myself and put up ⅔ in a box to Send down with the most of the articles which had been left at this place, by the Canoes this evening. I examined them and found then all Safe except one of the largest which had a large hole in one Side &amp; Split in bow. The Country through which we passed to day was diversified high dry and uneaven Stoney open plains and low bottoms very boggy<ref target="n37070813" n="13"/>    with high mountains on the tops and North sides of which there was Snow, great quantities of the species of hysoop<ref target="n37070814" n="14"/> &amp; shrubs common to the <name type="place" key="Missouri River">Missouri</name> plains are Scattered in those Vallys and hill Sides. The road which we have traveled from <name type="place" key="Lolo (Travelers' Rest) Creek (Mont.)">travellers rest Creek</name> to this place an excellent road.<ref target="n37070815" n="15"/> and with only a few trees being cut out of the way would be an excellent waggon road    one Mountain of about 4 miles over excepted which would require a little digging    The distance is <hi rend="italic">164</hi> Miles—. <name type="person" key="Shields, John">Sheilds</name> killed an antelope    [<hi rend="italic">NB: this place is the head of <name type="place" key="Beaverhead (Jefferson) River">Jeffer river</name> where we left our canoes</hi>]<ref target="n37070816" n="16"/>
+               </p>
+               <p>
+                  <table rows="13" cols="4">
+                     <head>
+                        <hi rend="italic">Course Distance &amp;c. July 8th</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Miles</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 40° E.</cell>
+                        <cell role="data" rows="1" cols="1">down the Creek keeping on the S W Side of the Creek</cell>
+                        <cell role="data" rows="3" cols="1">}</cell>
+                        <cell role="data" rows="3" cols="1">11—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">passing Several Small branches from the mountains to</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">our right</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 20° E</cell>
+                        <cell role="data" rows="1" cols="1">passing through a gap at 3 miles and thro' an open</cell>
+                        <cell role="data" rows="3" cols="1">}</cell>
+                        <cell role="data" rows="3" cols="1">  7—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">plain on either Side of the Gap to the West branch of</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Beaverhead (Jefferson) River">Jeffersons river</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">down the Said branch of <name type="place" key="Beaverhead (Jefferson) River">Jeffiersons river</name> to a high</cell>
+                        <cell role="data" rows="4" cols="1">}</cell>
+                        <cell role="data" rows="4" cols="1">  4—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">point of land and struck the road from thc Canoes to</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">the <name type="place" key="Shoshone Cove">Snake indian vally</name> on <name type="place"
+                                 key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Lewisis river</name> on which we</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">passed last Summer<ref target="n37070817" n="17"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 45° E</cell>
+                        <cell role="data" rows="1" cols="1">down the fork to the forks of Sd river at which place</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">
+                           <hi rend="underline">  5—</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">we made a Deposit &amp; left our canoes &amp; Encamped</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Miles</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">27—</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-07-08.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday 8th July 1806.    a clear cold morning &amp; hard frost.    we Set out eairly with our horses and proceed. on over this large extensive plains.    crossed Several large creeks    Saw elk &amp; deers and goats or antelopes.    our course abt. South    Struck the trail of the party    at about 12 miles we come to a boiling hot Spring<ref target="n37070818" n="18"/> at the edge of this plains which is large and handsom    we halted a fiew minutes at this Spring    found a peace of vinison in it well boiled which we expect the party left for us.    we eat it. I drank Some of the water found it well tasted but So hot<ref target="n37070819" n="19"/> that I cannot hold my hand in a Second of time.    it fairly boils out of the ground in Sundry places &amp;C.    we proceeded on    crossd a creek<ref target="n37070820" n="20"/> near Sd. Springs and kept our course abt. South
+up a creek on which Saw many beaver dams &amp;C.    about noon we dined at the head of the creek near the dividing ridge.<ref target="n37070821" n="21"/>    then crossd the ridge about one mile and came on a creek running South, which we expect is a branch of <name type="place" key="Beaverhead (Jefferson) River">jeffersons river</name>    followed down it 10 or 12 mls. and crossed an other ridge and came in the valley &amp; on the east fork of <name type="place" key="Beaverhead (Jefferson) River">jeffersons river</name>.    followed
+down on the trail of the party a Short distance and Camped<ref target="n37070822" n="22"/> at dark on the
+branch of the creek.    hobbled the unruley horses and lay down to Sleep fatigued rideing upwards of 40 miles this day.    and nothing to eat this evening but the head of a goat or antelope which the party had droped on the road.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-07-08.04" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 8th.</hi>    The morning was pleasant with some white frost. We started early and proceeded on nearly north; saw several deer, cabre and wolves in the plains, and after going three miles and a half passed Torrent creek,<ref target="n37070823" n="23"/> a large creek that runs into <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Medicine river</name>. Shortly after we passed this creek we went off the path or trail, travelled straight across the plains, and in about fifteen miles struck <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Medicine river</name>,<ref target="n37070824" n="24"/> close above the forks where we halted for dinner; and one of our hunters killed a deer and a cabre. In the afternoon we proceeded down <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Medicine river</name> nine miles; and, having come, in the whole to day twenty eight miles encamped<ref target="n37070825" n="25"/> for the night; and found the musketoes very troublesome.
+
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n37070801" n="1">Present <name type="place" key="Haystack Butte">Haystack Butte</name>, in <name type="place" key="Lewis and Clark County, Mont.">Lewis and Clark County</name>, <name type="place" key="Montana">Montana</name>, shown clearly on fig. 4.</note>
+            <note xml:id="n37070802" n="2">
+               <name type="place" key="Dearborn River">Dearborn River</name>, in <name type="place" key="Lewis and Clark County, Mont.">Lewis and Clark County</name>, which they named on <ref n="1805-07-18" type="related">July 18, 1805</ref>. Reaching it so far above its juntion with the <name type="place" key="Missouri River">Missouri</name>, where they had first seen it, <name type="person" key="Lewis, Meriwether">Lewis</name> apparently did not recognize it at first and called it <name type="place" key="Dearborn River">Torrant River</name>. It was apparently <name type="person" key="Biddle, Nicholas">Biddle</name> who wrote in the substitution in dark ink.</note>
+            <note xml:id="n37070803" n="3">Perhaps <name type="person" key="Biddle, Nicholas">Biddle's</name> deletion.</note>
+            <note xml:id="n37070804" n="4">
+               <name type="place" key="Elk Creek">Elk Creek</name> (faintly noted on fig. 4), a branch of <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Sun River</name>, <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark's</name>
+               <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Medicine River</name>, in <name type="place" key="Lewis and Clark County, Mont.">Lewis and Clark County</name>.</note>
+            <note xml:id="n37070805" n="5">The meeting of <name type="place" key="Elk Creek">Elk Creek</name> and <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Sun River</name> in <name type="place" key="Lewis and Clark County, Mont.">Lewis and Clark County</name>.</note>
+            <note xml:id="n37070806" n="6">On an island in <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Sun River</name>, between <name type="place" key="Lewis and Clark County, Mont.">Lewis and Clark</name> and <name type="place" key="Cascade County, Mont.">Cascade</name> counties, just north of <name type="place" key="Montana Highway 21">Montana Highway 21</name> (see fig. 4).</note>
+            <note xml:id="n37070807" n="7">The rock underlying this area is the <name type="place" key="Two Medicine Formation">Two Medicine Formation</name>; it is composed primarily of alternating layers of sandstone and shale. The gravel occupies river terraces and is mostly outwash that was deposited during the later part of the Pleistocene glaciations. The sandy soil of these plains allows water to percolate downward rapidly so that only hardy, deep-rooted, drought-resistant plants can survive.</note>
+            <note xml:id="n37070808" n="8">The gray wolf, <hi rend="italic">Canis lupus.</hi>
+            </note>
+            <note xml:id="n37070809" n="9">
+               <name type="person" key="Clark, William">Clark</name> headed southeasterly down <name type="place" key="Divide (Willard's) Creek">Divide Creek</name> in <name type="place" key="Beaverhead County, Mont.">Beaverhead County</name>, <name type="place" key="Montana">Montana</name>, to a point west of present <name type="place" key="Bannack, Mont.">Bannack</name>, where the creek turns east to join <name type="place" key="Grasshopper (Willard's) Creek">Grasshopper Creek</name> (the lower part of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark's</name>
+               <name type="place" key="Grasshopper (Willard's) Creek">Willard's Creek</name>), which goes on east to join the <name type="place" key="Beaverhead (Jefferson) River">Beaverhead (Jefferson River</name> to the captains). <hi rend="italic">Atlas</hi> map 67 shows the route as a rather faint dotted line; it is much clearer on <hi rend="italic">Atlas</hi> maps 103, 104.</note>
+            <note xml:id="n37070810" n="10">
+               <name type="person" key="Clark, William">Clark</name> now headed southerly following roughly the present route of a local road south from <name type="place" key="Bannack, Mont.">Bannack</name> through the gap that leads into the captains' <name type="place" key="Shoshone Cove">Shoshone (or "Snake indian") Cove</name> to <name type="place" key="Horse Prairie Creek (West Fork Jefferson River)">Horse Prairie Creek (the "West branch of Jeffersons river</name>"). Lewis had first entered the valley on <ref n="1805-08-10" type="related">August 10, 1805</ref>. <name type="person" key="Clark, William">Clark</name> paused on <name type="place" key="Horse Prairie Creek (West Fork Jefferson River)">Horse Prairie Creek</name> a few miles east of present <name type="place" key="Grant, Mont.">Grant</name> in <name type="place" key="Beaverhead County, Mont.">Beaverhead County</name>. <hi rend="italic">Atlas</hi> maps 67, 103, 104.</note>
+            <note xml:id="n37070811" n="11">He went down <name type="place" key="Horse Prairie Creek (West Fork Jefferson River)">Horse Prairie Creek</name> to the forks of the <name type="place" key="Beaverhead (Jefferson) River">Beaverhead River</name> and camped at <name type="place" key="Camp Fortunate (Mont.)">Camp Fortunate</name>, where the party had first stopped on <ref n="1805-08-17" type="related">August 17, 1805</ref>, on the east bank of <name type="place" key="Beaverhead (Jefferson) River">the Beaverhead</name> just below the forks in <name type="place" key="Beaverhead County, Mont.">Beaverhead County</name>, a site now under <name type="place" key="Clark Canyon Dam and Reservoir">Clark Canyon Reservoir</name> just above the dam. Here <name type="person" key="Clark, William">Clark's</name> party remained until July 10. <hi rend="italic">Atlas</hi> map 104. "<name type="place" key="Camp Fortunate (Mont.)">Fortunate Camp</name>" appears on <hi rend="italic">Atlas</hi> map 66.</note>
+            <note xml:id="n37070812" n="12">For this cache, see <name type="person" key="Lewis, Meriwether">Lewis's</name> entries for <ref n="1805-08-20" type="related">August 20</ref>, <ref n="1805-08-21" type="related">21</ref>, and <ref n="1805-08-22" type="related">22</ref>, 1805. Although <name type="person" key="Clark, William">Clark</name> says everything was safe, only one plant specimen (golden currant) remains of those which were cashed here. That includes all those collected between the <name type="place" key="Columbia River, Great Falls of the">Great Falls</name> and <name type="place" key="Camp Fortunate (Mont.)">Camp Fortunate</name>. The dampness may have caused the rest to mildew. Cutright (LCPN), 329.</note>
+            <note xml:id="n37070813" n="13">After descending from the divide between <name type="place" key="Big Hole (Sensable, Wisdom) River">Big Hole River</name> and <name type="place" key="Grasshopper (Willard's) Creek">Grasshopper Creek</name>, <name type="person" key="Clark, William">Clark's</name> party traveled principally across Tertiary sedimentary deposits and passed by several areas of Tertiary volcanic rocks. The boggy bottoms were along <name type="place" key="Grasshopper (Willard's) Creek">Grasshopper Creek</name> and <name type="place" key="Horse Prairie Creek (West Fork Jefferson River)">Horse Prarie Creek</name>.</note>
+            <note xml:id="n37070814" n="14">The abundant hyssop is big sagebrush.</note>
+            <note xml:id="n37070815" n="15">At this point <name type="person" key="Clark, William">Clark</name> inserted his courses and distances for the day; after them he continued his text, repeating the word "road." For convenience of reading we have continued the text and placed the courses and distances at the end of the entry.</note>
+            <note xml:id="n37070816" n="16">
+               <name type="person" key="Biddle, Nicholas">Biddle</name> placed his interlineation in a large blank space at the bottom of p. 59 in Codex M.</note>
+            <note xml:id="n37070817" n="17">A reference to the trail west through <name type="place" key="Shoshone Cove">Shoshone (or Snake Indian) Cove</name> over <name type="place" key="Lemhi Pass">Lemhi Pass</name> to the valley of the <name type="place" key="Lemhi (East Fork Lewis's) River">Lemhi River</name> ("<name type="place" key="Lemhi (East Fork Lewis's) River">East Fork of Lewis R</name>" on <hi rend="italic">Atlas</hi> map 67). See entries for August 1805.</note>
+            <note xml:id="n37070818" n="18">
+               <name type="place" key="Jackson Hot Spring">Jackson Hot Spring</name>, <name type="place" key="Beaverhead County, Mont.">Beaverhead County</name>, <name type="place" key="Montana">Montana</name>.</note>
+            <note xml:id="n37070819" n="19">The temperature of the water has been measured at 136° F.</note>
+            <note xml:id="n37070820" n="20">Probably <name type="place" key="Warm Spring Creek (Beaverhead County, Mont.)">Warm Spring Creek</name>, <name type="place" key="Beaverhead County, Mont.">Beaverhead County</name>.</note>
+            <note xml:id="n37070821" n="21">They are following <name type="person" key="Clark, William">Clark's</name> route up <name type="place" key="Governor Creek">Governor Creek</name> and <name type="place" key="Bull Creek (Beaverhead County, Mont.)">Bull Creek</name>, roughly parallel
+to <name type="place" key="Montana Highway 278">Montana Highway 278</name> in <name type="place" key="Beaverhead County, Mont.">Beaverhead County</name>, then crossed through <name type="place" key="Big Hole Pass">Big Hole Pass</name>.</note>
+            <note xml:id="n37070822" n="22">After leaving <name type="place" key="Big Hole Pass">Big Hole Pass</name>, the men reached <name type="place" key="Divide (Willard's) Creek">Divide Creek</name> and followed it a distance
+before getting on <name type="place" key="Grasshopper (Willard's) Creek">Grasshopper Creek</name>, a branch of the <name type="place" key="Beaverhead (Jefferson) River">Beaverhead (Jefferson) River</name>, as <name type="person" key="Ordway, John">Ordway</name> surmised. They camped on an affluent of <name type="place" key="Grasshopper (Willard's) Creek">Grasshopper Creek</name>, to the west and maybe south of <name type="place" key="Bannack, Mont.">Bannack</name>, <name type="place" key="Beaverhead County, Mont.">Beaverhead County</name>.</note>
+            <note xml:id="n37070823" n="23">In fact, this was <name type="place" key="Dearborn River">Dearborn River</name>, <name type="place" key="Lewis and Clark County, Mont.">Lewis and Clark County</name>, <name type="place" key="Montana">Montana</name>, although they did 
+not recognize it at first, thinking it a tributary of <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Sun River</name>, their <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Medicine River</name>.</note>
+            <note xml:id="n37070824" n="24">They traveled a little east of north until they struck <name type="place" key="Elk Creek">Elk Creek</name>, a branch of <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Sun River</name>.</note>
+            <note xml:id="n37070825" n="25">On an island in <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Sun River</name>, between <name type="place" key="Lewis and Clark County, Mont.">Lewis and Clark</name> and <name type="place" key="Cascade County, Mont.">Cascade</name> counties, <name type="place" key="Montana">Montana</name>, 
+just north of <name type="place" key="Montana Highway 21">Montana Highway 21</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-07-07" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-07-09" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

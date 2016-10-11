@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-04-30">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+April 30, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 7</title>
+               <title level="m" type="sub">March 23–June 9, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1991</date>
+               <biblScope type="pages">187-191</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">300-301</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">218</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-04-30.01">
+            <placeName/>
+            <geo>46.3 -118.6</geo>
+            <note>Camped on Touchet River, Walla Walla County, WA, south of present Eureka.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-10-08</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-04-30">April 30, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-04-30.01" n="lc.geo.1806-04-30.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday April 30th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+This morning we had some difficulty in collecting our horses notwithstanding we had hubbled and picquited those we obtained of these people.    we purchased two other horses this morning and several dogs. we exchanged one of our most indifferent horses for a very good one with the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> man who has his family with him.    this man has a daughter new arrived at the age of puberty, who being in a certain situation [<hi rend="italic">WC?: mences</hi>] is not permitted to ascociate with the family but sleeps at a distance from her father's camp and when traveling follows at some distance behind.<ref target="n32043001" n="1"/>    in this state I am informed that the female is not permitted to eat, nor to touch any article of a culinary nature or manly occupation.    at 10 A. M. we had collected all our horses except the white horse which yellept had given <name type="person" key="Clark, William">Capt. C.</name> the whole of the men soon after returned without being able to find this horse. I lent my horse to <name type="person" key="Yelleppit">Yellept</name> to surch <name type="person" key="Clark, William">Capt. C's</name>    about half an hour after he set out our <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> man brought up <name type="person" key="Clark, William">Capt. C's</name> horse we now determined to leave one man to bring on my horse when <name type="person" key="Yelleppit">Yellept</name> returned and to proceed on with the party    accordingly we took leave of these friendly honest people the <name type="native_nation" key="Walula Indians">Wollahwollahs</name> and departed at 11 A. M. accompanyed by our guide and the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> man and family.    we continued our rout N. 30 E. 14 ms.<ref target="n32043002" n="2"/> through an open level sandy plain to a bold Creek 10 yds. wide.<ref target="n32043003" n="3"/>    this stream is a branch of the <name type="place" key="Walla Walla (Waller Waller) River">Wallahwollah river</name> into which it discharges itself about six miles above the junction of that river with the <name type="place" key="Columbia River">Columbia</name>.    it takes it's rise in the same range of mountains<ref target="n32043004" n="4"/> to the East of the sources of the main branch of the same.    it appears to be navigable for canoes; it is deep and has a bold current.    there are many large banks of pure sand which appear to have been drifted up by the wind to the hight of 15 or 20 feet, lying in many parts of the plain through which we passed today.    this plain as usual is covered with arromatic shrubs hurbatious plants and a short grass.<ref target="n32043005" n="5"/>    many of those plants produce those esculent roots which form a principal part of the subsistence of the natives.<ref target="n32043006" n="6"/>    among others there is one which produces a root somewhat like the sweet pittaitoe.—<ref target="n32043007" n="7"/>    we encamped at the place we intersepted the creek<ref target="n32043008" n="8"/> where we had the pleasure once more to find an abundance of good wood for the purpose of making ourselves comfortable fires, which has not been the case since we left rock fort camp. <name type="person" key="Drouillard, George">Drewyer</name> killed a beaver and an otter;<ref target="n32043009" n="9"/> a part of the former we reserved for ourselves and gave the indians the ballance.    these people will not eat the dog but feast heartily on the otter which is vastly inferior in my estimation, they sometimes also eat their horses, this indeed is common to all the indians who possess this annimal in the <name type="place" key="Great Columbian Plain">plains of Columbia</name>; but it is only done when necessity compells them.—    the narrow bottom of this <name type="place" key="Walla Walla (Waller Waller) River">[<hi rend="italic">X: Wallowwallow</hi>] [<hi rend="italic">EC: Touchet</hi>] creek</name> is very fertile, tho' the plains are poor and sandy. the hills of the creek are generally abrupt and rocky.    there is a good store of timber on this creek at least 20 fold more than on the <name type="place" key="Columbia River">Columbia river</name> itself.<ref target="n32043010" n="10"/>    it consists of Cottonwood, birch,<ref target="n32043011" n="11"/> the crimson haw,<ref target="n32043012" n="12"/> red-willow, sweetwillow, chokecherry    yellow currants,<ref target="n32043013" n="13"/> goosberry, white-berryed honeysuckle    rose bushes, seven bark, and shoemate.<ref target="n32043014" n="14"/> I observed the corngrass<ref target="n32043015" n="15"/> and rushes<ref target="n32043016" n="16"/> in some parts of the bottom. <name type="person" key="Field, Reubin">Reubin Feilds</name> overtook us with my horse.    our stock of horses has now encresed to 23 and most of them excellent young horses, but much the greater portion of them have soar backs.    these indians are cruell horse-masters; they ride hard, and their saddles are so illy constructed that they cannot avoid wounding the backs of their horses; but reguardless of this they ride them when the backs of those poor annimals are in a horrid condition.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-30.02" n="lc.geo.1806-04-30.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday April 30th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+This morning we had Some dificuelty in Collecting our horses notwithstanding we had hobbled &amp; Picqueted those we obtained of those people.    we purchased two other horses this morning and 4 dogs.    we exchanged one of our most indeferent horses for a very good one with the <name type="native_nation" key="Nez Perce Indians">Choponnish</name> man who has his family with him.    this man has a doughter now arived at the age of puberty who being in a certain Situation—is not permited to acoiate with the family but Sleeps at a distance from her father's Camp, and when traveling follows at Some distance behind.    in this State I am informed that the female is not permited to eat, nor to touch any article of a culinary nature or manly occupation.    at 10 A. M. we had Collected all our horses except the White horse which <hi rend="italic">
+                     <name type="person" key="Yelleppit">Yelleppit</name>
+                  </hi> the Great Chief had given me.    the whole of the men haveing returned without being able to find this hors. I informed the chief and he mounted <name type="person" key="Lewis, Meriwether">Capt Lewis's</name> horse and went in Serch of the horse himself. about half an hour after the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> man brought my horse.    we deturmined to proceed on with the party leaving one man to bring up <name type="person" key="Lewis, Meriwether">Capt L.—s</name> horse when <hi rend="italic">
+                     <name type="person" key="Yelleppit">Yelleppit</name>
+                  </hi> Should return. We took leave of those honest friendly people the <name type="native_nation" key="Walula Indians">Wallah wallahs</name> and departed at 11 A. M. accompanied by our guide and the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> man and family.    we Continued our rout N. 30° E. 14 ms. through an open leavel Sandy Plain to a bold Creek 10 yards wide.    this stream is a branch of the <name type="place" key="Walla Walla (Waller Waller) River">Wallahwallah river</name>, and takes it's rise in the same range of mountains to the East of the main branch.    deep and has a bold Current.    there are maney large banks of pure Sand which appear to have been drifted up by the wind to the hight of 20 or 30 feet, lying in maney parts of the plains through which we passed to day. This plain as usial is covered with arromatic Shruubs, hurbatious plants and tufts of Short grass. Maney of those plants produce those esculent roots which forms a principal part of the Subsistance of the Nativs.    among others there is one which produce a root Somewhat like the Sweet potato. We encamped at the place we intersepted the Creek where we had the pleasure once more to find a Sufficency of wood for the purpose of makeing ourselves comfortable fires, which has not been the Case Since we left <name type="place" key="Fort Rock Camp (Oreg.)">Rock fort Camp</name> below the falls. <name type="person" key="Drouillard, George">Drewyer</name> killed a beaver and an otter.    the narrow bottoms of this Creek is fertile.    tho' the plains are pore &amp; Sandy.    the hills of the Creek are general abrupt and rocky.    there is Some timber on this Creek.    it consists of Cotton wood, birch, the Crimson haw, red willow, Sweet willow, Choke Cherry, yellow Current, goose berry, white berried honey suckle, rose bushes, Seven bark, Shoemate &amp;c. &amp;c.    rushes in Some pats of the bottoms.</p>
+               <p>
+                  <name type="person" key="Field, Reubin">R. Fields</name> over took us with <name type="person" key="Lewis, Meriwether">Capt Lewis's</name> horse    our Stock of horses have now increased to 23 and 〈several〉 most of them excellent young horses, but much the greatest part of them have Sore backs.    those Indians are cruel horse masters; they ride hard and their Saddles illey constructed.    &amp;c. &amp;c.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-30.03" n="lc.geo.1806-04-30.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 30th of April 1806.    chilley and cold.    the men went out for their horses    an Indian brought a women to <name type="person" key="Clark, William">Capt. Clark</name> which diseased.    had not the use of hir limbs.    he brought a fine horse and gave <name type="person" key="Clark, William">Capt. Clark</name> for doctering hir    he gave meddicine and told them how to apply it &amp;C. <name type="person" key="Clark, William">Capt. Clark</name> gave the Indian a white Shirt which pleased him verry much.    about 11 A. M we got our horses up by the assistance of the Indians and Set out.    proceeded on over Smooth barron Sandy plains    not a tree nor Shrub to be seen except a weed or Shrub like wild hysop<ref target="n32043017" n="17"/> which is common.    the natives use it when dry for fires to cook with &amp;C.    the Indian name of it is cum-cum.<ref target="n32043018" n="18"/>    we came about 16 miles and Camped<ref target="n32043019" n="19"/> on the <name type="place" key="Walla Walla (Waller Waller) River">wala-wal river</name>, which has narrow bottoms partly covred with Small timber    2 or 3 men went out hunting, one of them killed a large beaver and an otter. Several of the horses chokd. by eating Some kind of a weed in this bottom, but they got over it after a while.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-30.04" n="lc.geo.1806-04-30.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 30th.</hi>    This was a cloudy morning, and we stayed here till about 11 o'clock to collect our horses, got two more; and have now altogether twenty-three horses. We then set out from <name type="place" key="Walla Walla (Waller Waller) River">Wal-la-wal-la river</name> and nation; proceeded on about fourteen miles through an extensive plain, when we struck a branch of the <name type="place" key="Walla Walla (Waller Waller) River">Wal-lo-wal-la river</name>, and halted for the night.<ref target="n32043020" n="20"/> We saw no animals or birds of any kind, except two pheasants,<ref target="n32043021" n="21"/> one of which <name type="person" key="Clark, William">Capt. Clarke</name> killed. The whole of this plain is of a sandy surface and affords but thin grass, with some branches of shrubs which resemble sage or hyssop.<ref target="n32043022" n="22"/> On the south side of this branch the soil is of earth and rich, covered with grass,<ref target="n32043023" n="23"/> and very handsome. We are still accompanied by several of the natives.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n32043001" n="1">Seclusion of a menstruating woman to avoid contamination was a custom common to many tribes.</note>
+            <note xml:id="n32043002" n="2">A double dotted line marks the start of the "rout to <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name>," the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater River</name>, on <hi rend="italic">Atlas</hi> map 75.</note>
+            <note xml:id="n32043003" n="3">
+               <name type="place" key="Touchet River">Touchet River</name>, in <name type="place" key="Walla Walla County, Wash.">Walla Walla County</name>, <name type="place" key="Washington">Washington</name>, which meets the <name type="place" key="Walla Walla (Waller Waller) River">Walla Walla River</name> near present <name type="place" key="Touchet, Wash.">Touchet</name>; nameless on <hi rend="italic">Atlas</hi> map 75. No available maps from the expedition trace the party's route in detail from this point until they reach the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake River</name>. The dotted line on <hi rend="italic">Atlas</hi> map 75 is picked up on <hi rend="italic">Atlas</hi> map 73 and follows the party's path where they reach the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake River</name> on <ref n="1806-05-04" type="related">May 4, 1806</ref>.</note>
+            <note xml:id="n32043004" n="4">The <name type="place" key="Blue (Southwest, Southeast) Mountains">Blue Mountains</name>.</note>
+            <note xml:id="n32043005" n="5">The short grass is Sandberg, or western, bluegrass, <hi rend="italic">Poa secunda</hi> Presl. It is characteristic of the shrub-steppe vegetation of the <name type="place" key="Columbia Basin">Columbia Basin</name>. See also <ref n="1806-04-26" type="related">April 26, 1806</ref>. Franklin &amp; Dyrness, 213–14; <name type="native_nation" key="Welsh Indians">Welsh</name> et al., 769.</note>
+            <note xml:id="n32043006" n="6">The most common species with edible roots in this region include wile hyacinth; green-banded mariposa lily, <hi rend="italic">Calochortus macrocarpus</hi> Dougl.; big seed lomatium, <hi rend="italic">Lomatium macrocarpum</hi> (Nutt.) Coult. &amp; Rose; ternate, or nineleaf, lomatium, <hi rend="italic">L. triternatum</hi> (Pursh) Coult. &amp; Rose (formerly Lewis's lomatium, <hi rend="italic">Peucedanum simplex</hi> Nutt.); and cous. Franklin &amp; Dyrness, 215; Hitchcock et al., 1:763, 773, 3:558–59, 565–66; Welsh et al., 631, 633; Abrams, 3:266.</note>
+            <note xml:id="n32043007" n="7">Cous may be the sweet potato-like plant. Other <hi rend="italic">Lomatium</hi> species of the area can also be considered, including big seed lomatium, ternate lomatium, and <hi rend="italic">L. watsonii</hi> Coult. &amp; Rose; they were probably used by the Indians similar to cous. Hitchcock et al., 3:568; Cutright (LCPN), 289, 307–8, 410, 413; Pursh, 197; Thwaites (LC), 4:341.</note>
+            <note xml:id="n32043008" n="8">On <name type="place" key="Touchet River">Touchet River</name>, in <name type="place" key="Walla Walla County, Wash.">Walla Walla County</name>, some ten miles south of present <name type="place" key="Eureka, Wash.">Eureka</name>. <hi rend="italic">Atlas</hi> map 75.</note>
+            <note xml:id="n32043009" n="9">Lutra canadensis.</note>
+            <note xml:id="n32043010" n="10">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> here notes the riparian forest and common understory woody species of the <name type="place" key="Walla Walla (Waller Waller) River">Walla Walla River</name> in southeastern <name type="place" key="Washington">Washington</name> within the larger dry, shrub-steppe vegetation zone. These riparian forests have been profoundly affected by human activities, especially heavy cattle grazing and the introduction of weedy, exotic species. Franklin &amp; Dyrness, 45, 227–28; Daubenmire (SVW), 7–8, 131. It was apparently <name type="person" key="Biddle, Nicholas">Biddle</name> who drew a vertical line through the passage beginning at "the narrow bottom" to nearly "shoemate."</note>
+            <note xml:id="n32043011" n="11">The water birch, <hi rend="italic">Betula occidentalis</hi> Hook. Apparently this birch has never been documented from western <name type="place" key="Walla Walla County, Wash.">Walla Walla County</name>,but it is known from the eastern portion of the county. Little (MWH), 22-NW; Hitchcock et al., 2:77–78.</note>
+            <note xml:id="n32043012" n="12">Probably Columbia hawthorn <hi rend="italic">Crataegus columbiana</hi> How.</note>
+            <note xml:id="n32043013" n="13">Probably the golden currant as discussed on <ref n="1806-04-16" type="related">April 16, 1806</ref>.</note>
+            <note xml:id="n32043014" n="14">Smooth sumac, <hi rend="italic">Rhus glabra</hi> L. Little (MWH), 155-NW; Hitchcock et al., 3:407.</note>
+            <note xml:id="n32043015" n="15">Basin wildrye, <hi rend="italic">Elymus cinereus</hi> Scribn. &amp; Merrill. <name type="person" key="Lewis, Meriwether">Lewis's</name> entry of <ref n="1806-06-05" type="related">June 5, 1806</ref>, describes the species further. See that entry for a discussion of the corn grass. Franklin &amp; Dyrness, 245–46; <name type="native_nation" key="Welsh Indians">Welsh</name> et al., 723.</note>
+            <note xml:id="n32043016" n="16">Probably a species of bulrush, or possibly of horsetail, often referred to by <name type="person" key="Lewis, Meriwether">Lewis</name> as sand rush.</note>
+            <note xml:id="n32043017" n="17">Big sagebrush.</note>
+            <note xml:id="n32043018" n="18">A term not used by <name type="person" key="Lewis, Meriwether">Lewis</name> or <name type="person" key="Clark, William">Clark</name>. It is <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
+               <hi rend="italic">qémqem,</hi> "sagebrush."    Haruo Aoki, <hi rend="italic">
+                  <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> Dictionary</hi> (University of California Publications in Linguistics No. 122. Berkeley, 1994), 1276.</note>
+            <note xml:id="n32043019" n="19">The party actually camped on an affluent of the <name type="native_nation" key="Walla Walla (Waller Waller) River">Walla Walla River</name>, the <name type="place" key="Touchet River">Touchet River</name>,
+in <name type="place" key="Walla Walla County, Wash.">Walla Walla County</name>, some ten miles south of <name type="place" key="Eureka, Wash.">Eureka</name>.</note>
+            <note xml:id="n32043020" n="20">On <name type="place" key="Touchet River">Touchet River</name>, <name type="place" key="Walla Walla County, Wash.">Walla Walla County</name>, <name type="place" key="Washington">Washington</name>, some ten miles south of <name type="place" key="Eureka, Wash.">Eureka</name>.</note>
+            <note xml:id="n32043021" n="21">Probably some species of grouse, which they commonly called pheasants.</note>
+            <note xml:id="n32043022" n="22">Besides big sagebrush, characteristic shrubs of the <name type="place" key="Columbia Basin">Columbia Basin</name> include rubber rabbitbrush <hi rend="italic">Chrysothamnus nauseosus</hi> (Pall.) Britt. var. <hi rend="italic">albicaulis</hi> (Nutt.) Rydb., and twisted leaf rabbitbrush, <hi rend="italic">C. viscidiflorus</hi> (Hook.) Nutt.</note>
+            <note xml:id="n32043023" n="23">The grass is probably Sandberg bluegrass, <hi rend="italic">Poa secunda</hi> Presl.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-04-29" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-04-30-1" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

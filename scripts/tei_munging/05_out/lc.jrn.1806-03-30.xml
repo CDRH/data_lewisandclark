@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-03-30">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+March 30, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 7</title>
+               <title level="m" type="sub">March 23–June 9, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1991</date>
+               <biblScope type="pages">32-38</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">283</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">203-204</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">436-437</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-03-30.01">
+            <placeName/>
+            <geo>45.6333 -122.65</geo>
+            <note>Camped in present Vancouver, Clark County, WA. There is a typo in the footnotes on the website: note 5 spells it as "Vanouver" where it should really be "Vancouver."</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-09-24</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-03-30">March 30, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-03-30.01" n="lc.geo.1806-03-30.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Sunday March 30th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+We got under way very early in the morning, and had not reached the head of the island before we were met by three men of the <name type="native_nation" key="Katlaminimin Indians">Clan-nah-min-na-mun</name> nation one of whom we recognized being the same who had accompanied us yesterday, and who was very pressing in his entreaties that we should visit his nation on the inlet S. W. of <name type="place" key="Sauvie (Wapato) Island">Wappetoe island</name>.    at the distance of about 2 M. or at the head of the <name type="place" key="Bachelor (Green Bryor, Quathlahpotle) Island">quathlahpahtle island</name> we met a party of the <name type="native_nation" key="Clatskanie Indians">Claxtars</name> and <name type="place" key="Cath-lah-cum-up Indians">Cathlahcumups</name> in two canoes; soon after we were met by several canoes of the different nations who reside on each side of the river near this place. <name type="place" key="Sauvie (Wapato) Island">Wappetoe Island</name> is about 20 miles long and from 5 to 10 in width; the land is high and extreemly fertile and intersected in many parts with ponds which produce great quantities of the sagittaria Sagittifolia,<ref target="n31033001" n="1"/> the bulb of which the natives call wappetoe.    there is a heavy growth of Cottonwood, ash, the large leafed ash and sweet willow on most parts of this island.    the black alder common on the coast has now disappeared.    we passed several fishing camps on <name type="place" key="Sauvie (Wapato) Island">wappetoe island</name> and at the distance of 5 miles above <name type="place" key="Bachelor (Green Bryor, Quathlahpotle) Island">quathlahpotle Island</name> on the N. E. side we halted for breakfast near the place we had encamped on the evening of the 4th of November last;<ref target="n31033002" n="2"/> here we were visited by several canoes which came off from two towns situated a little distance above us on <name type="place" key="Sauvie (Wapato) Island">wappetoe Island</name>.    the 1st of these tribes about 2 miles above us call themselves <name type="native_nation" key="Cath-lah-nah-qui-ah Indians">Clan-nah-quah</name>, the other about a mile above them call themselves <name type="native_nation" key="Mult-no-mah Indians">Mult-no-mah</name>.<ref target="n31033003" n="3"/>    from these visiters we purchased a sturgeon and some wappetoe and pashequa, for which we gave some small fishinghooks.    these like the natives below are great higglers in dealing.    at 10 A. M. we set out and had not proceeded far before we came to a landing place of the natives where there were several large canoes drawn out on shore and several natives seting in a canoe apparently waiting our arrival; they joined the fleet and continued with us some miles.    we halted a few minutes at this landing and the Indians pointed to a village which was situated abut 2 miles from the river behid a pond lying parallel with it on the N. E. side nearly opposite to the <name type="native_nation" key="Cath-lah-nah-qui-ah Indians">Clan-nah-quah</name> town.    here they informed us that the <name type="native_nation" key="Kanasisi Indians">Sho-toes</name> resided.<ref target="n31033004" n="4"/>    here we were joined by several other canoes of natives from the Island.    most of these people accompanyed us untill 4 in the evening when they all returned; their principal object I beive was merely to indulge their curiossity in looking at us.    they appeared very friendly, tho' most had taken the precaution to bring with them their warlike implements.    we continued our rout along the N. E. shore of the river to the place we had halted to dine on the 4th of Novembr opposite to the center of <name type="place" key="Hayden (Image Canoe) Island">Immage canoe island</name> where the Indians stole <name type="person" key="Clark, William">Capt. Clarks</name> tomahawk.    here we encamped a little before sunset in a beautifull prarie above a large pond<ref target="n31033005" n="5"/> having traveled 23 M. I took a walk of a few miles through the prarie and an open grove of oak timber which borders the prarie on the back part. I saw 4 deer in the course of my walk and much appearance of both Elk and deer. Joseph feields who was also out a little above me saw several Elk and deer but killed none of them; they are very shye and the annual furn<ref target="n31033006" n="6"/> which is now dry and abundant in the bottoms makes so much nois in passing through it that it is extreemly difficult to get within reach of the game. <name type="person" key="Field, Joseph">Feilds</name> killed and brought with him a duck.    about 10 P. M. an indian alone in a small canoe arrived at our camp, he had some conversation with the centinel and soon departed. The natives who inhabit this valley are larger and reather better made than those of the coast.<ref target="n31033007" n="7"/>    like those people they are fond of cold, hot, &amp; vapor baths of which they make frequent uce both in sickness and in health and at all seasons of the year.    they have also a very singular custom among them of baithing themselves allover with urine every morning. The timber and apearance of the country is much as before discribed.    the up lands are covered almost entirely with a heavy growth of fir of several speceis like those discribed in the neighbourhood of <name type="place" key="Fort Clatsop (Oreg.)">Fort Clatsop</name>; the white cedar is also found here of large size;<ref target="n31033008" n="8"/> no white pine<ref target="n31033009" n="9"/> nor pine of any other kind.    we had a view of <name type="place" key="Mount St. Helens">mount St. helines</name> and <name type="place" key="Mount Hood (Timm, Falls Mountain)">Mount Hood</name>.    the 1st is the most noble looking object of it's kind in nature.    it's figure is a regular cone.    both these mountains are perfectly covered with snow; at least the parts of them which are visible.    the highlands in this valley are rolling tho' by no means too steep for cultivation    they are generally fertile of a dark rich loam and tolerably free of stones.<ref target="n31033010" n="10"/>    this valley is terminated on its lower side by the mountanous country which borders the coast, and above by the rainge of mountains which pass the <name type="place" key="Columbia River">Columbia</name> between the <name type="place" key="Columbia River, Cascades (Great Rapids, Great Shute)">great falls and rapids</name> of the <name type="place" key="Columbia River">Columbia river</name>.    it is about 70 miles wide on a direct line and it's length I beleive to be very extensive tho' how far I cannot determine.    this valley would be copetent to the mantainance of 40 or 50 thousand souls if properly cultivated and is indeed the only desireable situation for a settlement which I have seen on the West side of the <name type="place" key="Rocky Mountains">Rocky mountains</name>.<ref target="n31033011" n="11"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-03-30.02" n="lc.geo.1806-03-30.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Sunday March 30th 1806</hi>
+                  </date>
+               </ab>
+               <p>
+we got under way verry early and had not proceeded to the head of the island before we met with the three men of the <hi rend="italic">
+                     <name type="native_nation" key="Katlaminimin Indians">Clan-nar-min-a-mon's</name>
+                  </hi> who met us yesterday brackfast    at the upper point of the Island we met Several of the <hi rend="italic">
+                     <name type="native_nation" key="Clatskanie Indians">Clackstar</name>
+                  </hi> and <hi rend="italic">
+                     <name type="native_nation" key="Cath-lah-cum-up Indians">Cath-lah-cum-up</name>
+                  </hi> in two canoes. Soon after we were overtaken by Several Canoes of different tribes who reside on each Side of the river    the three above Tribes and the <hi rend="italic">
+                     <name type="native_nation" key="Clah-in-na-ta Indians">Clâh-in-na-ta</name>
+                     <name type="native_nation" key="Cath-lah-nah-qui-ah Indians">cathy-lah-nah-qui-up</name>
+                  </hi> &amp; <hi rend="italic">
+                     <name type="native_nation" key="Cath-lah-cam-mah-tup Indians">Cath-lah-com-mah-tup</name>
+                  </hi> reside on each Side of Wappato inlet and back of <name type="place" key="Sauvie (Wapato) Island">Wappato Island</name> which Island is formed by a Small Chanel which passes from the Lower part of <name type="place" key="Hayden (Image Canoe) Island">Image Canoe Island</name> into an inlet which makes in from the S W. Side, and receves the water of a Creek<ref target="n31033012" n="12"/> which heads with the <name type="native_nation" key="Tillamook (Kilamox) River">
+                     <hi rend="italic">Kil a mox</hi> River</name>.    this <name type="place" key="Sauvie (Wapato) Island">wappato Island</name> is about 18 or 20 Miles long and in places from 6 to 10 miles wide high &amp; furtile with ponds on different parts of it in which the nativs geather Wappato. nearly opposit the upper point of the Isld. behing which we encamped last night, or on the <name type="place" key="Sauvie (Wapato) Island">Wappato Isld.</name> is Several Camps of the nativs catching Sturgion.    about 5 miles Still higher up and on the N E. Side we halted for brackfast at the place which We had encamped the 4th of November last.    here we were visited by several canoes of Indians from two Towns a Short distance above on the <name type="place" key="Sauvie (Wapato) Island">Wappato Island</name>.    the 1st of those Tribes Call themselves <hi rend="italic">
+                     <name type="native_nation" key="Cath-lah-nah-qui-ah Indians">Clan-nah-quah</name>
+                  </hi> and Situated about 2 miles above us, the other about a mile above Call themselves <hi rend="italic">
+                     <name type="native_nation" key="Mult-no-mah Indians">Mult-no-mah</name>
+                  </hi>    we purchased of those visitors a Sturgion and Some Wappato &amp; quarmarsh roots for which we gave Small fishing hooks.    at 10 a. m. we Set out and had not proceeded far before we came to a landing place where there was Several large canoes hauled up, and Sitting in a canoe, appearantly waiting our arival with a view to join the fleet indian who was then along Side of us.    this man informed he was a <hi rend="italic">
+                     <name type="native_nation" key="Kanasisi Indians">Shoto</name>
+                  </hi> and that his nation resided a little distance from the river.    we landed and one of the indians pointed to the <name type="native_nation" key="Kanasisi Indians">Shoto</name> village which is Situated back of Pond which lies parrelal with the river on the N E. Side nearly opposit the <name type="native_nation" key="Clan-nah-quah Indians">Clan-nah quah</name> village.    here we were also joined by Several Canoes loaded with the natives from the Island who Continued to accompany us untill about 4 oClock when they all returned and we proceeded on to the place the Indians Stole my Tomahawk 4th Novr. last and Encamped in a Small Prarie above a large Pond on N. E and opposit the Center of <name type="place" key="Hayden (Image Canoe) Island">image Canoe Island</name>.    <name type="person" key="Lewis, Meriwether">capt Lewis</name> walked out and Saw Several deer. <name type="person" key="Field, Joseph">Jo. Field</name> Shot at Elk he killed and brought in a fine duck. Soon after I had got into bead an Indian came up along in a Small Canoe. Those tribes of Indians who inhabit this vally differ but little in either their dress, manners, habuts and language from the <name type="native_nation" key="Clatsop Indians">Clat Sops</name>
+                  <name type="native_nation" key="Chinook Indians">Chinnooks</name>, and others on the Sea coast.    they differ in a fiew words and a little in the accent. The men are Stouter and much better formed than those of the Sea Coast.    more of their womin ware their hair braded in two tresses and hang over each ear.    in Stead of the <hi rend="italic">tissue</hi> of bark worn by the women below, they ware a kind of leather breech clout as before described 〈of the〉 as worn by the Womin at the enterance of <name type="place" key="Lewis (Cahwahnakiooks) River">Lewis's river</name>—the width of a Common pocket Handkerchief or Something Smaller and longer.<ref target="n31033013" n="13"/>    the two Corners of this at one of the narrow ends are confined in front just above the hips; the other Side is then brought between their legs, Compressed into a narrow folding bundle is drawn tight, and the Corners a little Spred in front tucked at the ends over and around the part first confined about the Waiste.    a Small roab which does not reach the Waiste is their usial and only garment commonly worn besides this just mentioned.    when the weather is a little worm the roab is thrown aside, and the latter <hi rend="italic">truss</hi> or breach clout constituted the whole of their apparreal.    this is a much more indesant article than the <hi rend="italic">tissue</hi> of bark, and bearly covers the Mons venus, to which it is drawn So close that the whole Shape is plainly perseived. The Houses are Similar to those already descrbed.    they are fond of Sculpture. various figures are carved and painted on the pieces which Support the Center of the roof about their dores and beads. They are well Supplied with anchoves Sturgion and Wappato. The latter furnishes the principal article of traffic with those Tribes which they despose of to the nativs below in exchange for beeds, Cloath and Various articles.    the nativs of the Sea coast and lower part of this river will dispose of their most valueable articles to obtain this root. I saw in Several houses of the <hi rend="italic">
+                     <name type="native_nation" key="Cathlapotle Indians">Cath lah poh tle</name>
+                  </hi> Village large Symeters of Iron from 3 to 4 feet long which hangs by the heads of their beads; the blade of this weapon is thickest in the Center tho' thin even there, all it's edges are Sharp and its greatest width which is about 9 inches from the point, is about 4 inches.    the form is this<ref target="n31033014" n="14"/>    this is a formable weapon.    they have heavy bludgeons of wood made in the Same form nearly which I prosume they use for the Same purpose before they obtained metal.    we made 22 Miles only to day the wind and a Strong current being against us all day, with rain.    discovered a high mountain S E. Covered with Snow which we call <name type="place" key="Mount Jefferson">Mt. Jefferson</name>.<ref target="n31033015" n="15"/>
+               </p>
+               <p>
+                  <figure rend="mhs">
+                     <p>Iron Scimitar, March 29, 1806, Codex K, p. 14
+<bibl>
+                           <orgName>Missouri Historical Society</orgName>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-03-30.03" n="lc.geo.1806-03-30.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Sunday 30th March 1806.    we Set out eairly and proceed on    the River Still riseing &amp; is now So high that the tide has no effect to be perceived at this time    considerable of drift wood floating down the River. Saw 2 large villages on a large long Island which is named <name type="place" key="Sauvie (Wapato) Island">wa pa-toe Isld.</name>
+                  <ref target="n31033016" n="16"/> &amp; is about 25 miles long, partly timbered &amp; partly prarie &amp; soil rich.    a number of the Savages followed us Some distance with their canoes    I must give these Savages as well as those on the coast the praise of makeing the neatest and handsomest lightest best formed canoes I ever Saw &amp; are the best hands to work them. Saw <name type="place" key="Mount Rainier">mount rainey</name> and <name type="place" key="Mount Hood (Timm, Falls Mountain)">Mount Hood</name> which is verry white with Snow &amp;C    about Sunset we Camped<ref target="n31033017" n="17"/> at a handsom prarie &amp; Groves of oak timber &amp;C—    the country is lower &amp; more Smooth than below.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-03-30.04" n="lc.geo.1806-03-30.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday 30th.</hi>    The morning was fair with some dew. We set out early accompanied by several of the natives in canoes. The river is very high, overflowing all its banks. We passed some villages of the natives on <name type="place" key="Sauvie (Wapato) Island">Wapto island</name>, which is about 20 miles long and one broad, but did not halt at any of them. The natives of this country ought to have the credit of making the finest canoes, perhaps in the world, both as to service and beauty; and are no less expert in working them when made.<ref target="n31033018" n="18"/> We had a beautiful day throughout, and in the evening encamped on a handsome prairie in sight of a large pond on the north side of the river.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-03-30.05" n="lc.geo.1806-03-30.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Sunday March 30th    We set out early this morning, &amp; proceeded on.    The River still continuing rising, and is so high, that the tide has no Effect, as high up the River as where we now are.    A number of the Indians accompanied us in their small Canoes.    We saw a considerable quantity of drift wood floating down the River.    We passed two large Indian Villages which were on a large island.    This island was very long and is called <name type="place" key="Sauvie (Wapato) Island">Waptoe island</name>, it is about 25 Miles long, &amp; is partly Wood land &amp; the remainder Priari land, &amp; is very rich Soil.    A number of the Indians who resided on this Island, came out in their Canoes to see us.    We saw this day <name type="place" key="Mount Rainier">Mount Rainey</name>
+                  <ref target="n31033019" n="19"/> &amp; <name type="place" key="Mount Hood (Timm, Falls Mountain)">Mount hood</name>; they appeared white &amp; was covered with Snow.—    At sunset we encamp'd at a handsome place on the North side of the River, where the land was Priaries &amp; Groves of White Oak &amp; cotton timber, &amp; the Country laying much lower than the Country below
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n31033001" n="1">
+               <hi rend="italic">Sagittaria sagittifolia</hi> L., old-world arrowhead, is not the same species as North American arrowhead, more often called wapato. Bailey, 130. <name type="person" key="Biddle, Nicholas">Biddle</name> added the words "or Wappato" after "Sagittifolia" but then crossed them out.</note>
+            <note xml:id="n31033002" n="2">In <name type="place" key="Clark County, Wash.">Clark County</name>, <name type="place" key="Washington">Washington</name> (see <ref n="1805-11-04" type="related">November 4, 1805</ref>). <hi rend="italic">Atlas</hi> map 80. "<name type="place" key="Bachelor (Green Bryor, Quathlahpotle) Island">Quathlahpotle Island</name>" is probably <name type="place" key="Bachelor (Green Bryor, Quathlahpotle) Island">Bachelor Island</name> ("<name type="place" key="Bachelor (Green Bryor, Quathlahpotle) Island">green bryor Isd</name>" on <hi rend="italic">Atlas</hi> map 89).</note>
+            <note xml:id="n31033003" n="3">The <name type="native_nation" key="Cath-lah-nah-qui-ah Indians">Clan-nah-quahs</name> and <name type="native_nation" key="Mult-no-mah Indians">Mult-no-mahs</name> were Upper Chinookan-language groups living on or about <name type="place" key="Sauvie (Wapato) Island">Sauvie Island</name>. Hajda (SOLC), 106–7, 113–15. The latter tribe is noted on <hi rend="italic">Atlas</hi> map 80, both are listed on <hi rend="italic">Atlas</hi> map 88 and figs. 4, 6. The term <name type="native_nation" key="Cath-lah-nah-qui-ah Indians">Clan-nah-quah</name> may be a shortened form of the group earlier called "<name type="native_nation" key="Cath-lah-nah-qui-ah Indians">Cath-lah-nah-qui-ah</name>" (see <ref n="1806-03-29" type="related">March 29, 1806</ref>). <name type="native_nation" key="Mult-no-mah Indians">Mult-no-mah</name> is Chinookan <hi rend="italic">má<seg n="uluslash">l\</seg>numa(<seg n="uxu803">x̣</seg>),</hi> "(those) at/toward the body of water." Silverstein, 545. See <ref n="1805-11-04" type="related">November 4, 1805</ref>.</note>
+            <note xml:id="n31033004" n="4">The settlements in this vicinity are referred to as the <name type="native_nation" key="Kanasisi Indians">Shoto</name> villages on <hi rend="italic">Atlas</hi> map 88, as well as in the <ref n="1805-1806.winter.part2" type="related">Estimate of Western Indians</ref> and on figs. 4, 6. On <hi rend="italic">Atlas</hi> map 79 the people are called "<name type="native_nation" key="Kanasisi Indians">Choteaus</name> Tribe," a spelling influenced by the captains' acquaintances in <name type="place" key="Saint Louis, Mo.">St. Louis</name>. They are another Upper Chinookan-language group. Hajda (SOLC), 115. The term is apparently based on a personal name from people later referred to as <name type="native_nation" key="Kanasisi Indians">Kanasisi</name>. Silverstein, 545.</note>
+            <note xml:id="n31033005" n="5">
+               <name type="place" key="Hayden (Image Canoe) Island">Image Canoe Island</name>, evidently today's <name type="place" key="Hayden (Image Canoe) Island">Hayden</name> and <name type="native_nation" key="Tomahawk (Image Canoe) Island">Tomahawk</name> islands (see <ref n="1805-11-04" type="related">November 4, 1805</ref>). The camp was in present <name type="place" key="Vancouver, Wash.">Vanouver</name>, <name type="place" key="Clark County, Wash.">Clark County</name>. <hi rend="italic">Atlas</hi> map 79.</note>
+            <note xml:id="n31033006" n="6">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> probably refers to the dead, herbaceous, above ground leaf stalks of the perennial western bracken fern, <hi rend="italic">Pteridium aquilinum</hi> L. var. <hi rend="italic">pubescens</hi> Underw. Hitchcock et al., 1:93. <name type="person" key="Lewis, Meriwether">Lewis's</name> detailed description is at <ref n="1806-01-22" type="related">January 22, 1806</ref>.</note>
+            <note xml:id="n31033007" n="7">An "x" crosses out a portion of this sentence.</note>
+            <note xml:id="n31033008" n="8">The dominant fir species found in this region include Douglas fir, <hi rend="italic">Pseudotsuga menziesii</hi> (Mirb.) Franco, western hemlock, <hi rend="italic">Tsuga heterophylla</hi> (Raf.) Sarg., and grand fir, <hi rend="italic">Abies grandis</hi> (Dougl.) Lindl. The large white cedar is western redcedar, or arborvitae, <hi rend="italic">Thuja plicata</hi> Donn. Franklin &amp; Dyrness, 45, 70.</note>
+            <note xml:id="n31033009" n="9">Western white pine, <hi rend="italic">Pinus monticola</hi> Dougl. Hitchcock et al., 1:129.</note>
+            <note xml:id="n31033010" n="10">The soils found at levels between the floodplain of the <name type="place" key="Columbia River">Columbia River</name> and the mountains in this area are formed on terrace deposits of the <name type="place" key="Columbia River">Columbia River</name>. The soils in this area belong principally to the Lauren and Hillsboro soil associations; they are dark brown in color, generally well drained and moderately coarse in texture.</note>
+            <note xml:id="n31033011" n="11">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> in describing the valley between the <name type="place" key="Coast Ranges">Coast</name> and <name type="place" key="Cascade Range">Cascade</name> ranges in <name type="place" key="Oregon">Oregon</name> and <name type="place" key="Washington">Washington</name>, now a major population center of those two states.</note>
+            <note xml:id="n31033012" n="12">Perhaps <name type="place" key="McCarthy Creek">McCarthy Creek</name>, again, mouthing behind <name type="place" key="Sauvie (Wapato) Island">Sauvie Island</name> in <name type="place" key="Multnomah County, Oreg.">Multnomah County</name>, <name type="place" key="Oregon">Oregon</name>, nameless on <hi rend="italic">Atlas</hi> map 80.</note>
+            <note xml:id="n31033013" n="13">
+               <name type="person" key="Clark, William">Clark</name> describes the dress of the <name type="native_nation" key="Yakima Indians">Yakima</name> women who lived in the area of the confluence of the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake</name> and <name type="place" key="Columbia River">Columbia river</name>s on <ref n="1805-10-17" type="related">October 17, 1805</ref>. This passage is copied from <name type="person" key="Lewis, Meriwether">Lewis's</name> entry of the previous day.</note>
+            <note xml:id="n31033014" n="14">A sketch of the sword in <name type="person" key="Clark, William">Clark's</name> Voorhis No. 2 (fig. 2).</note>
+            <note xml:id="n31033015" n="15">
+               <name type="person" key="Mount Jefferson">Mt. Jefferson</name>, in <name type="place" key="Linn County, Oreg.">Linn County</name>, <name type="place" key="Oregon">Oregon</name>, is the center of present <name type="person" key="Mount Jefferson">Mount Jefferson</name> Wilderness. See the map, fig. 6.</note>
+            <note xml:id="n31033016" n="16">A number of tribes lived on <name type="place" key="Sauvie (Wapato) Island">Sauvie Island</name>, <name type="place" key="Multnomah County, Oreg.">Multnomah County</name>, <name type="place" key="Oregon">Oregon</name>. Various Upper Chinookan-language people lived on and around the island, including the <name type="place" key="Katlaminimin Indians">Katlaminimin</name>. See <name type="person" key="Lewis, Meriwether">Lewis's</name>
+entry of <ref n="1806-03-29" type="related">March 29</ref>.</note>
+            <note xml:id="n31033017" n="17">Within <name type="place" key="Vancouver, Wash.">Vancouver</name>, <name type="place" key="Clark County, Wash.">Clark County</name>, <name type="place" key="Washington">Washington</name>.</note>
+            <note xml:id="n31033018" n="18">
+               <name type="person" key="McKeehan, David">McKeehan's</name> note: "I had imagined that the Canadians, who accompanied me were the 
+most expert canoe-men in the world, but they were very inferior to these people [the natives near the coast] as they themselves acknowledged, in conducting those vessels." <name type="person" key="McKeehan, David">McKeehan</name> again cites <name type="person" key="Mackenzie, Alexander">Mackenzie</name> to corroborate <name type="person" key="Gass, Patrick">Gass</name> and he inserted the bracketed material in his edition. <name type="person" key="Lewis, Meriwether">Lewis</name> described the local canoes at length on <ref n="1806-02-01" type="related">February 1, 1806</ref>.</note>
+            <note xml:id="n31033019" n="19">As in <name type="person" key="Whitehouse, Joseph">Whitehouse's</name> entry for <ref n="1805-11-04" type="related">November 4, 1805</ref>, this is probably not <name type="place" key="Mount Rainier">Mt. Rainier</name>, but <name type="place" key="Mount St. Helens">Mt. St. Helens</name>, <name type="place" key="Skamania County, Wash.">Skamania County</name>, <name type="place" key="Washington">Washington</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-03-29" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-03-31" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

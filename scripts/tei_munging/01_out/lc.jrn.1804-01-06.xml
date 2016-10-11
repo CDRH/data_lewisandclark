@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-01-06">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+January 6, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">152</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2003-12-23</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-01-06">January 6, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-01-06.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Jany. 6th    I was up last night at 12 to right the Boat    the banks were Caveing in, which made it necessary to fix the pries frequently, this morning early I fixed the pries, and large Pees of the bank sliped in, which obliged all hands to, go Down &amp; make all secure    I ordered those men who had fought got Drunk &amp; neglected Duty to go and build a hut for a Wo[man] who promises to wash &amp; Sow &amp;c. I Spoke to the men on the Subject of my order, <seg n="u9737">☉</seg> U L with quade. to day was is 1° 1' 1" ad +    a hog found in the Prairie by some men &amp; they Skined [it]    I send out <name type="person" key="Shields, John">Shields</name> to enquire in the neighbourhood whoes hog it was &amp; inform me. Thermometer at, 12 oClock 31 above 0 at 4 oCk at 30° above (0)<ref target="n03010601" n="1"/>
+               </p>
+               <p>
+6th Jany    The banks about the Boat Continue to Cave in, which causes great attention in me to prevent the Boats getting injered by any one part falling more than another—    the Sawyears, come on to day better than usial, <name type="person" key="Whitehouse, Joseph">Whitehouse</name> &amp; <name type="person" key="Reed, Moses B.">Reed</name>, agree better than they did last week—or in other Words <name type="person" key="Reed, Moses B.">Re[ed]</name> Saws better from practice.
+
+	
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n03010601" n="1">Two astronomical calculations are crossed out in the lower right-hand corner of the page at this point. They are not printed here. "Say (11)" is used at the end of this paragraph (bottom of document 5) and at the beginning of the next (top of document 6), perhaps to keeping the papers in order.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-01-05" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-01-07" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

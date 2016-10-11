@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-06-18">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+June 18, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">34-37</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">324-325</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">241-242</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-06-18.01">
+            <placeName/>
+            <geo>46.3333 -115.6</geo>
+            <note>Camped on Eldorado Creek, Idaho County, ID, near the mouth of Dollar Creek. Remained at this camp until 06-21.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-11-03</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-06-18">June 18, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-06-18.01" n="lc.geo.1806-06-18.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday June 18th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+This morning we had considerable difficulty in collecting our horses they having straggled off to a considerable distance in surch of food on the sides of the mountains among the thick timber; at 9 OCk. we collected them all except one of <name type="person" key="Drouillard, George">Drewyers</name> and one of <name type="person" key="Shields, John">Sheildes</name>; we set out leaving <name type="person" key="Shields, John">Sheilds</name> and <name type="person" key="Lepage, Jean Baptiste">LaPage</name> to collect the two lost horses and follow us. We dispatched <name type="person" key="Drouillard, George">Drewyer</name> and <name type="person" key="Shannon, George">Shannon</name> to the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> Indians in the plains beyond the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name> in order to hasten the arrival of the indians who had promised to accompany us or to procure a gude at all events and rejoin us as soon as possible.    we sent by them a rifle which we offered as a reward to any of them who would engage to conduct us to <name type="place" key="Travelers' Rest (Idaho)">traveller's rest</name>; we also dirrected them if they found difficulty in induciny any of them to accompany us to offer the reward of two other guns to be given them immediately and ten horses at the <name type="place" key="Missouri River, Great Falls of the">falls of Missouri</name>.    we had not proceeded far this morning before <name type="person" key="Potts, John">Potts</name> cut his leg very badly with one of the large knives; he cut one of the large veigns on the inner side of the leg; I found much difficulty in stoping the blood which I could not effect untill I applyed a tight bandage with a little cushon of wood and tow on the veign below the wound. <name type="person" key="Colter, John">Colter's</name> horse fel with him in passing <name type="place" key="Hungery Creek">hungry creek</name> and himself and horse were driven down the creek a considerable distance rolling over each other among the rocks.    he fortunately escaped without injury or the loss of his gun.    by 1 P. M. we returned to the glade on the branch of <name type="place" key="Hungery Creek">hungry Creek</name> where we had dined on the 16th inst.<ref target="n36061801" n="1"/>    here we again halted and dined.    as there was much appearance of deer about this place we left <name type="person" key="Field, Reubin">R.</name> and <name type="person" key="Field, Joseph">J. Feilds</name> with directions to hunt this evening and tomorrow morning at this place and to join us in the evening at the meadows of <name type="place" key="Lolo (Collins's) Creek (Idaho)">Collin's creek</name> where we intend remaining tomorrow in order to rest our horses and hunt.    after dinner we proceeded on to <name type="place" key="Lolo (Collins's) Creek (Idaho)">Collin's Creek</name> and encamped in a pleasant situation at the upper part of the meadows about 2 ms. above our encampment of the 15th inst.<ref target="n36061802" n="2"/>    we sent out several hunters but they returned without having killed anything.    they saw a number if salmon [<hi rend="italic">NB: trout</hi>]<ref target="n36061803" n="3"/> in the creek and shot at them several times without success.    we directed <name type="person" key="Colter, John">Colter</name> and <name type="person" key="Gibson, George">Gibson</name> to fix each of them a gigg in the morning and indevour to take some of the salmon.    the hunters saw much fresh appearance of bear but very little of deer.    we hope by means of the fish together with what deer and bear we can kill to be enabled to subsist untill our guide arrives without the necessity of returning to the <name type="place" key="Weippe Prairie (Camas Flats, Quawmash Flats)">quawmash flats</name>.    there is a great abundance of good food here to sustain our horses.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-06-18.02" n="lc.geo.1806-06-18.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday June 18th 1806</hi>
+                  </date>
+               </ab>
+               <p>
+This morning we had considerable dificuelty in collecting our horses they haveing Strageled of to a considerable distance in Serch of food on the Sides of the mountains among the thick timber, at 9 oClock we Collected them all except 2 one of <name type="person" key="Shields, John">Sheilds</name> &amp; one of <name type="person" key="Drouillard, George">Drewyer's</name>.    we Set out leaving <name type="person" key="Shields, John">Shields</name> and <name type="person" key="Lepage, Jean Baptiste">LePage</name> to collect the two lost horses and follow us. We dispatched <name type="person" key="Drouillard, George">Drewyer</name> and <name type="person" key="Shannon, George">Shannon</name> to the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> Indians in the plains beyond the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name> in order to hasten the arrival of the Indians who promised to accompany us, or to precure a guide at all events and rejeoin us as Soon as possible. We Sent by them a riffle which we offered as a reward to any of them who would engage to conduct us to <name type="place" key="Bitterroot (Clark's, Flathead) River">Clarks river</name> at the entrance of <name type="place" key="Lolo (Travelers' Rest) Creek (Mont.)">Travellers rest Creek</name>; we also directed them if they found difficuelty in induceing any of them to accompany us to offer the reward of two other guns to be given them immediately and ten horses at the <name type="place" key="Missouri River, Great Falls of the">falls of Missouri</name>.    we had not proceeded far this morning before <name type="person" key="Potts, John">J. Potts</name> cut his leg very badly with one of the larger knives; he cut one of the large veins on the iner side of the leg; <name type="person" key="Colter, John">Colters</name> horse fell with him in passing <name type="place" key="Hungery Creek">hungary creek</name> and himself and horse were driven down the Creek a considerable distance roleing over each other among the rocks.    he fortunately escaped with[out] much injurey or the loss of his gun.    he lost his blanket.    at 1 P. M we returned to the glade on a branch of <name type="place" key="Hungery Creek">hungary Creek</name> where we had dined on the 16th instant.    here we again halted and dined.    as there was some appearance of deer about this place we left <name type="person" key="Field, Joseph">J.</name> &amp; <name type="person" key="Field, Reubin">R Field</name> with directions to hunt this evening and tomorrow morning at this place and join us in the evening in the Meadows on <name type="place" key="Lolo (Collins's) Creek (Idaho)">Collin's Creek</name> where we intended to remain tomorrow in order to restour horses and hunt.    after dinner we proceeded on to the near fork of <name type="person" key="Lolo (Collins's) Creek (Idaho)">Collins Creek</name> and encamped in a pleasant Situation at the upper part of the Meadows about 2 miles above our encampment of the 15th inst.    we Sent out Several hunters but they returned without having killed any thing—.    they saw a number of large fish in the Creek and Shot at them Several times without Suckcess.    we <name type="person" key="Gibson, George">Gibson</name> and <name type="person" key="Colter, John">Colter</name> to fix each of themselves a gigg in the morning and indeaver to take Some of those fish.    the hunters Saw much fresh appearance of Bear, but very little deer Sign.    we hope by the means of the fish together with what deer and bear we can kill to been abled to Subsist untill our guide arives without the necessaty of returning to the <name type="place" key="Weippe Prairie (Camas Flats, Quawmash Flats)">quawmash flats</name>.    there is great abundance of good food here to Sustain our horses.    we are in flattering expectations of the arrival of two young chiefs who informed us that they intended to accompany us to the U. States, and Should Set out from their village in 9 nights after we left them on the 19th inst. if they Set out at that time <name type="person" key="Drouillard, George">Drewyer</name> &amp; <name type="person" key="Shannon, George">Shannon</name> will meet them, and probably join us on the 20th or 21st—. Musquetors Troublesome.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-06-18.03" n="lc.geo.1806-06-18.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 18th June 1806.    cloudy    <name type="person" key="Drouillard, George">Drewyer</name> and <name type="person" key="Shannon, George">Shannon</name> Sent on a head to go to the villages of the <name type="native_nation" key="Palouse Indians">pel-oll-pellow</name>
+                  <ref target="n36061804" n="4"/> nation    they took one of the Short rifles<ref target="n36061805" n="5"/> in order to git a pilot if possable to go over the mountn. with us.    2 of our horses could not be found this morning, So 2 men was left to hunt them.    we Set out about 8 oClock    proced. on with 4 men in front to clear the limbs and bushes out of the path.    we got but a short distance before one of the men <name type="person" key="Potts, John">Potts</name> who was of the front cut his leg verry bad with a big knife    we halted a fiew minutes    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> Sowed up the wound and bound it up    we then proceeded on a Short distance further    in crossing the creek <name type="person" key="Colter, John">Colters</name> horse threw him in the creek    lost his blanket and hirt him a little.    about noon we halted to dine at the Same place we dined on the 16th Inst. at which time came up a hard Shower of hail and rain and hard Thunder, which lasted about an hour and cleared off.    the <name type="person" key="Field, Joseph and Reubin">2 Fields</name> Stayed here to hunt    we proceeded on    towards evening we arived at the long glades on a branch of <name type="place" key="Lolo (Collins's) Creek (Idaho)">Collinses Creek</name> where is fine feed for our horses.    so we Camped in order to Stay if the hunters kill game untill a guide comes or untill the road is So that we can go but it depends on the hunters and game in a great measure.    the musquetoes verry troublesome at this place. Several Salmon<ref target="n36061806" n="6"/> Seen in this branch &amp;C—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-06-18.04" n="lc.geo.1806-06-18.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 18th.</hi>    The morning was cloudy and several showers of rain fell during the day. We started about 8 o'clock, and found the road very slippery and bad. Two men<ref target="n36061807" n="7"/> went on ahead to the village to enquire for a guide, and two more<ref target="n36061808" n="8"/> remained to look for two horses that could not be found. We proceeded on with four men in front to cut some bushes out of the path; but did not go far till one of the men<ref target="n36061809" n="9"/> cut himself very badly with a large knife; when we had to halt and bind up his wound. We again went forward, and in crossing the creek the horse of one of our men<ref target="n36061810" n="10"/> fell with him, threw him off, hurt his leg, and lost his blanket. We halted for dinner at the same place were we dined on the 16th and had a gust of rain, hail, thunder and lightening, which lasted an hour, when the weather cleared and we had a fine afternoon. We continued our march till we came to a small glade on the branch of a creek, where we encamped, and some hunters went out in the evening; we had left two<ref target="n36061811" n="11"/> men to hunt at the place where we dined. We found the musquitoes very troublesome on the creek, notwithstanding the snow is at so short a distance up the mountains. At night our hunters came to camp, having killed nothing; but saw some large fish<ref target="n36061812" n="12"/> in the creek, which they supposed were salmon.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n36061801" n="1">A branch of <name type="place" key="Fish Creek (Idaho County, Idaho)">Fish Creek</name>, in <name type="place" key="Idaho County, Idaho">Idaho County</name>, <name type="place" key="Idaho">Idaho</name>; see <ref n="1806-06-16" type="related">June 16, 1806</ref>.</note>
+            <note xml:id="n36061802" n="2">On <name type="place" key="Eldorado Creek">Eldorado Creek</name>, at the mouth of <name type="place" key="Dollar Creek">Dollar Creek</name> in <name type="place" key="Idaho County, Idaho">Idaho County</name>. As <name type="person" key="Lewis, Meriwether">Lewis</name> notes, it was above the camp of June 15. It was somewhat south of <name type="person" key="Lewis, Meriwether">Lewis's</name> "Campd 20th" (<ref n="1805-09-20" type="related">September 20, 1805</ref>) on <hi rend="italic">Atlas</hi> map 70. Space, 33; Peebles (RLC), 22; Peebles (LT), map.</note>
+            <note xml:id="n36061803" n="3">Steelhead trout, <hi rend="italic">Oncorhynchus mykiss</hi> (formerly <hi rend="italic">Salmo gairdneri</hi>). See the next entry, <ref n="1806-06-19" type="related">June 19</ref>, and <ref n="1806-03-12" type="related">March 12</ref> and <ref n="1806-03-13" type="related">13</ref>, 1806.</note>
+            <note xml:id="n36061804" n="4">The term may apply to either the <name type="native_nation" key="Palouse Indians">Palouse</name> or <name type="native_nation" key="Nez Perce Indians">Nez Perce Indians</name>. <name type="person" key="Lewis, Meriwether">Lewis</name> used his term for
+the <name type="native_nation" key="Nez Perce Indians">Nez Perces</name> on this occasion, which is probably the case in this context. The expression could also refer to names of villages. See <name type="person" key="Lewis, Meriwether">Lewis's</name> entry of <ref n="1806-06-08" type="related">June 8, 1806</ref>, for a discussion of the term.</note>
+            <note xml:id="n36061805" n="5">Meaning the Model 1803 rifle. See <name type="person" key="Clark, William">Clark's</name> entry of <ref n="1804-05-10" type="related">May 10, 1804</ref>.</note>
+            <note xml:id="n36061806" n="6">From <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> it is apparent that the fish are steelhead trout. The next day
+<name type="person" key="Ordway, John">Ordway</name> calls them salmon trout.</note>
+            <note xml:id="n36061807" n="7">
+               <name type="person" key="Drouillard, George">Drouillard</name> and <name type="person" key="Shannon, George">Shannon</name>, as noted by the captains and <name type="person" key="Ordway, John">Ordway</name>.</note>
+            <note xml:id="n36061808" n="8">
+               <name type="person" key="Shields, John">Shields</name> and <name type="person" key="Lepage, Jean Baptiste">Lepage</name>, the captains say.</note>
+            <note xml:id="n36061809" n="9">
+               <name type="person" key="Potts, John">Potts</name>; see <name type="person" key="Lewis, Meriwether">Lewis's</name> entry for the treatment.</note>
+            <note xml:id="n36061810" n="10">
+               <name type="person" key="Colter, John">Colter</name>.</note>
+            <note xml:id="n36061811" n="11">The <name type="person" key="Field, Joseph and Reubin">Field brothers</name>, noted by <name type="person" key="Lewis, Meriwether">Lewis</name>, <name type="person" key="Clark, William">Clark</name>, and <name type="person" key="Ordway, John">Ordway</name>.</note>
+            <note xml:id="n36061812" n="12">Steelhead trout, <hi rend="italic">Oncorhynchus mykiss</hi>; see the captains' entries, and <name type="person" key="Ordway, John">Ordway</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-06-17" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-06-19" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

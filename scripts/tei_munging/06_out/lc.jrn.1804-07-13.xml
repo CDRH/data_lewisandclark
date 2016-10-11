@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-07-13">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+July 13, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">373-376</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">24, 387</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">20</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">39</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-07-13.01">
+            <placeName/>
+            <geo>40.248 -95.499</geo>
+            <note>Around 20 miles up the Missouri from the previous camp, in northeastern Richardson County, NE</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-01-21</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-07-13">July 13, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-07-13.01" n="lc.geo.1804-07-13.01">
+            <sp who="wc">
+               <speaker>
+                  <name type="person" key="Clark, William">Clark</name>
+                  <ref target="n04071301" n="1"/>
+               </speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+My notes of the 13th of July by a Most unfortunate accident blew over Board in a Storm in the morning of the 14th obliges me to refur to the 〈notes〉 Journals of Serjeants, and my own recollection [of] the accurrences Courses Distance &amp;c. of that day—<ref target="n04071302" n="2"/>    last night a violent Storm from the N. N, E.—    (1) passed <name type="place" key="Big Tarkio Creek">
+                     <hi rend="italic">Tar-ki-o River</hi>
+                  </name>,<ref target="n04071303" n="3"/> at 2 miles a chanl. running into this river 3 ms. abov forms <name type="place" key="Saint Joseph, Mo.">St Joseph</name>s Isld.  Passed an elegt Prarie in the 1st bend to the left. Conta[in]ing a grass resmlg Timothy, with Seed like flax, (2) passed a Island in a bend to the S. S. at 12 ms. I walked on Shore S. S.    lands, low &amp; overflows, Killed two Goslings nearly Grown, Sailed under a Wind from the South all day, Camped on a <name type="place" key="Sand Island">Sand Island</name> on the L. Pt. opposit a high &amp; extensiv Prarie,<ref target="n04071304" n="4"/> on the S. S. the Hills about 4 or 5 me. off, this Plain appears extensive, great appearance of a Storm from the North W.    this evening verry agreeable    the wind Still from the South—</p>
+               <p>
+                  <name type="person" key="Ordway, John">John Ordway</name> FG<ref target="n04071305" n="5"/>
+               </p>
+               <p>
+Appere. from Camp</p>
+               <p>
+from the <name type="native_nation" key="Osage Indians">Osagies</name> Nation with twenty odd of the Natives or chiefs of the Nation with him [sa]iled dowen the <name type="place" key="Mississippi River">Mississippi</name> bound to <name type="place" key="Saint Louis, Mo.">St Louis</name> &amp; 3 guns fired    [show]ers or rain    Showers of Rain all that night</p>
+               <p>
+                  <table rows="9" cols="3">
+                     <head>
+                        <hi rend="italic">Course Distance &amp; reffurrence July 13 1804</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 8° E</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">Me. to Pt. on S. S.    passed the <name type="place" key="Sand Island">Sand Island</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 28 E</cell>
+                        <cell role="data" rows="1" cols="1">3 ½</cell>
+                        <cell role="data" rows="1" cols="1">me. to pt. on L. S.    psd. <name type="place" key="Big Tarkio Creek">
+                              <hi rend="italic">Tar-ki o</hi> R.</name>
+                           <name type="place" key="Saint Josephs Island">St. Joseps Isd.</name>
+                           <lb/>
+L. S. (1)<ref target="n04071306" n="6"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 70° W</cell>
+                        <cell role="data" rows="1" cols="1">3 </cell>
+                        <cell role="data" rows="1" cols="1">ms. to pt. on S. S. opsd. a Prarie (2)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 46° W.</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. on the S. point opsd. the Prarie &amp; a Hill L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">Ms. to a pt. on L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° W</cell>
+                        <cell role="data" rows="1" cols="1">4 ½</cell>
+                        <cell role="data" rows="1" cols="1">Ms. to a pt. on L. S.    passd a Island &amp; Sand bar (3)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 66 W</cell>
+                        <cell role="data" rows="1" cols="1">3 ½</cell>
+                        <cell role="data" rows="1" cols="1">Ms. to a pt. on S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 8 W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">2</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">Ms. to a pt. on L. S. leaving a <name type="place" key="Sand Island">Sand Island</name> on which<lb/>
+we camped to the left, on this Island I lost my notes,<lb/>
+in a Storm.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">20 ½</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-07-13.02" n="lc.geo.1804-07-13.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">July 13th Friday</hi> 1804</date>
+               </ab>
+               <p>
+Set out at Sun rise, and prosd. on under a gentle Breeze, at two miles passed the mouth of a Small river on the S. S. Called by the Indians <name type="place" key="Big Tarkio Creek">
+                     <hi rend="italic">Tar-ki-o,</hi>
+                  </name> a Channel running out of the river three miles above (which is now filled up with Sand) runs into this Creek &amp; and formed a Island Called <name type="place" key="Saint Josephs Island">
+                     <hi rend="italic">St. Josephs</hi>
+                  </name>    Several Sand bars parralel to each other above—    In the first bend to the left is Situated a Butifull &amp; extensive plain, Cover'd with Grass resembling Timothy except the Seed which resembles <hi rend="italic">Flax</hi> Seed, this plain also abounds in Grapes of defferent Kinds    Some nearly ripe. I Killed two Goslings nearly Grown, Several others Killed and cought on Shore, also one old Goose, with pin fethers, She Could not fly—    at about 12 miles passd. a Island Situated in a bend on the S. S.    above this Island is a large Sand bar Covered with willows. The wind from the South, Camped on a large Sand Bar makeing out from the L. P.    opposit a high hanson <hi rend="italic">Prarie,</hi> the <hi rend="italic">hills</hi> about 4 or 5 miles on S. S.    this plain appeard extensive, the Clouds appear to geather 〈fro〉 to the N. W.    a most agreeable Breeze from the South    (I walked on Shore on the S. S.    the lands are low Subject to overflow)</p>
+               <p>
+Last night at about 10 oClock a violent Storm of wind from the N. N. E. which lasted with Great violence for about one hour, at which time a Shower of rain Succeeded.</p>
+               <p>
+                  <table rows="9" cols="3">
+                     <head>
+                        <hi rend="italic">Course Distance &amp; Reffrs.</hi> July 13th</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 8° E</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">me. to pt. on S. S.    psd 〈the〉 Sd. Isld.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 28° E</cell>
+                        <cell role="data" rows="1" cols="1">3 ½</cell>
+                        <cell role="data" rows="1" cols="1">Ms. to pt. on L. S.    psd. Riv &amp; Isd. (1)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 70° W</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">ms. to pt. on S. S. opsd. a prarie (2)
+</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 46° W.</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">me. on S. S. opsd. the Prarie &amp; a Hill</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. on L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">4 ½</cell>
+                        <cell role="data" rows="1" cols="1">Ms. to a pt. on L. S.    psd. an Isd. (3)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 66° W.</cell>
+                        <cell role="data" rows="1" cols="1">3 ½</cell>
+                        <cell role="data" rows="1" cols="1">Ms. to a pt. on S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 8° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">2</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">Ms. to a pt. on L. S. a Sand Isd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">20 ½ Miles</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                     </row>
+                  </table>
+               </p>
+               <p>    
+The men on Shore did not join us this after noon—<ref target="n04071307" n="7"/>    The river nearly on a Stand—    the high lands on the S. S. has only been Seen at a Distance 〈on th〉 above the <name type="place" key="Nodaway River">Nordaway River</name>, those on the S. L. aproaching the river at every bend, on the Side next to the river well timbered, the opsd. Side open &amp; the Commencmt. of Plains.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-07-13.03" n="lc.geo.1804-07-13.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+
+Friday July 13th 1804.    we Set out at Sun rise, proceeded on    passed the Mouth of the <name type="place" key="Big Tarkio Creek">Big <hi rend="italic">Tar ki o</hi> River</name>.    last night at 10 oClock a violent Storm from the N. N. E. which lasted for one hour.    a small Shower succeded the wind.    the Latidude of yesterday 39d 55" 56' Long. [<hi rend="italic">blank</hi>]    passed a prarie level and beautiful below Some high hills, containing an amence Site of Grapes, wild Rye &amp;.C—    <name type="person" key="Clark, William">Capt. Clark</name> killed 2 Goslins, <name type="person" key="Drouillard, George">Drewyer</name> 2 also—    the wind favourable from the South, the men Caught 2 Geese on a Sand barr    one an old one (the old Geese have pin feathers yet cannot fly.)    Since passing the <hi rend="italic">
+                     <name type="place" key="Nodaway River">Nodawa</name>y</hi> River the hills could only be Seen in a fiew places at a great Distance from the River on the North Side of the <name type="place" key="Missouri River">Missauris</name>. But on the South Side their is high Land, &amp; handsome praries the most of the way from the old Village of the <name type="native_nation" key="Kansa Indians">Kansars</name>, we Camped on a large Sand bar in the mi. of the River opposite a high &amp;extensive prarie, on the North Side, (came about 20 miles today)
+
+
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-07-13.04" n="lc.geo.1804-07-13.01">
+            <sp who="cf">
+               <speaker>Floyd</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Friday July 13th    Set out erley in the morning    prosed on our Jorney    passed a Creek on the N. Side Called the <name type="place" key="Big Nemaha River">Big 〈ne ma har〉</name>
+                  <name type="place" key="Big Tarkio Creek">Tarkuo River</name>    it is about 40 yads wide and verry mirey for Horses to Cross    the Land is Low    a verry hard Storm Last night from the N. E. which Lasted for about one ouer    proseded with a Small Souer of Rain    wind fare    Sailed all day    Came 20½ miles    Camt on a Sand Bare in the midel of the River    a Small Shouer of Rain
+	
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-07-13.05" n="lc.geo.1804-07-13.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 13th.</hi>    We were early under way this morning with a fair wind. The day was fine. We passed a creek on the north side, and having made 20 miles and an half, encamped on a large sand bar.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-07-13.06" n="lc.geo.1804-07-13.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Friday 13    Got under way Early and Swim the horses across a <name type="place" key="Big Tarkio Creek">Creek Tar Kia</name>, for the hunters    the wind Rose    pass Several Islands Is On Our labourd.    Saild [21?] Miles.    Campd. On the little Sandy Isle Oppesite the Hurrican prarie—<ref target="n04071308" n="8"/>
+               </p>
+               <p>
+Friday July 13th    This morning we set out early, and swam the horses across a Creek called <name type="place" key="Big Tarkio Creek">Tar Kia</name>, for the hunters.    The wind rose, and we passed several Islands on our South side, We sail'd 2½<ref target="n04071309" n="9"/> Miles &amp; encamped on an Island called <name type="place" key="Little Sandy Island">little sandy Island</name>, opposite the hurricane Priari.—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n04071301" n="1">
+               <name type="person" key="Biddle, Nicholas">Biddle's</name> notation at the upper left-hand corner of this sheet of the Field Notes (document 31) reads, "14 July to 18."</note>
+            <note xml:id="n04071302" n="2">
+               <name type="person" key="Ordway, John">Ordway</name> also refers to <name type="person" key="Clark, William">Clark's</name> difficulties in making up his lost notes. This strongly indicates that there was no daily journal by <name type="person" key="Lewis, Meriwether">Lewis</name> for the period to which he could refer. Also, <name type="person" key="Clark, William">Clark</name> must have been delaying at least a day or two in copying his Field Notes into his notebook journal Codex A. See <ref n="introduction.v02" type="related">Introduction to Volume 2</ref>.</note>
+            <note xml:id="n04071303" n="3">The <name type="place" key="Big Tarkio Creek">Tarkio River</name>, otherwise <name type="place" key="Big Tarkio Creek">Big Tarkio Creek</name>, reaches the <name type="place" key="Missouri River">Missouri River</name> in <name type="place" key="Holt County, Mo.">Holt County</name>, <name type="place" key="Missouri">Missouri</name>. It seems likely that in 1804 and for the rest of the century, the mouth was some miles farther down the <name type="place" key="Missouri River">Missouri</name> than it is now. MRC map 19; MRR maps 54, 55.</note>
+            <note xml:id="n04071304" n="4">Using the present course of the <name type="place" key="Missouri River">Missouri River</name>, we would place this camp in eastern <name type="place" key="Richardson County, Nebr.">Richardson County</name>, <name type="place" key="Nebraska">Nebraska</name>.</note>
+            <note xml:id="n04071305" n="5">"<name type="person" key="Ordway, John">John Orway</name> FG" is written beside the courses and distances for July 13. "FG" may be "Sg," perhaps for "Sergeant." Over the above is written, "Appere. from Camp," which may be in <name type="person" key="Clark, William">Clark's</name> hand and unrelated to the rest, which appears to be in <name type="person" key="Ordway, John">Ordway's</name> hand. The subsequent lines are upside down between the courses and distances and the main entry, partially under the latter. They may refer to the return of <name type="person" key="Chouteau, René Auguste">Auguste</name> or <name type="person" key="Chouteau, Jean Pierre">Pierre Chouteau</name> at <name type="place" key="Dubois River">River Dubois</name> from the <name type="native_nation" key="Osage Indians">Osages</name> on <ref n="1804-04-22" type="related">April 22, 1804</ref> (see above).</note>
+            <note xml:id="n04071306" n="6">What appears to be "Day" and one or two illegible letters are written vertically directly above the numeral "(1)," at right angles to the courses and distances. The connection with the rest of the material is not apparent.</note>
+            <note xml:id="n04071307" n="7">According to <name type="person" key="Ordway, John">Ordway</name>, one of the men was <name type="person" key="Field, Reubin">Reubin Field</name>, who was in charge of the horses. Another, noted on <ref n="1804-07-14" type="related">July 14</ref> by <name type="person" key="Clark, William">Clark</name>, was <name type="person" key="Goodrich, Silas">Goodrich</name>.</note>
+            <note xml:id="n04071308" n="8">Once again <name type="person" key="Whitehouse, Joseph">Whitehouse</name> uses a name given by no one else; the reference may be to the violent wind of the next day, which <name type="person" key="Floyd, Charles">Floyd</name> calls "a Dredfulle hard Storme."</note>
+            <note xml:id="n04071309" n="9">An error for 20½.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-07-12" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-07-14" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

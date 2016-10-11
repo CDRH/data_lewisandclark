@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-08-31">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 31, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">179</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">215</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">134-135</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">293-294</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-08-31.01">
+            <placeName/>
+            <geo>45.1392 -113.8065</geo>
+            <note>Camped 4 miles upriver from previous location.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-06-09</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-08-31">August 31, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-08-31.01" n="lc.geo.1805-08-31.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">August 31st 1805 Satturday</hi>
+                     <ref target="n22083101" n="1"/>
+                  </date>
+               </ab>
+               <p>
+A fine morning    Set out before Sun rise, as we passed the lodges at which place I had encamped for thre nights and left 2 men, Those 2 men joined us and we proceeded on in the Same rout I decended the 21st Instant, halted 3 hours on <name type="place"
+                        key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Sammon Creek</name> to Let our horses graze    the wind hard from the S. W. I met an Indian on horse back who fled with great Speed to Some lodges below &amp; informed them that the Enemis were Coming down, armd with guns &amp;c.    the inhabitents of the Lodges indisceved him, we proceeded on the road on which I had decended as far as the 1st run [<hi rend="italic">EC: <name type="place" key="Tower Creek">Tower Cr</name>
+                  </hi>] below &amp; left the road &amp; Proceeded up the Run [<hi rend="italic">NB: run</hi>] in a tolerable road 4 miles &amp; Encamped in Some old lodjes at the place the road leaves the Creek and assends the high Countrey<ref target="n22083102" n="2"/>    Six Indians followed us four of them the Sons of our guide; our hunters killed one Deer a goose &amp; Prarie fowl. This day warm and Sultrey, Praries or open Valies on fire in Several places—    The Countrey is Set on fire for the purpose of Collecting the different bands, and a Band of the <hi rend="italic">
+                     <name type="native_nation" key="Flathead Indians">Flatheads</name>
+                  </hi> to go to the <name type="place" key="Missouri River">Missouri</name> where They intend passing the winter near the Buffalow    Proceeded on 22 miles to Day, 4 miles of which up a run
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-31.02" n="lc.geo.1805-08-31.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 31st August 1805</hi>.    a fare morning.    we Set out eairly and proceeded on 2 miles and passd. Several lodges of the <name type="native_nation" key="Shoshone Indians">Snake</name> nation of Indians who Stay here to fish.    they catch Sammon in their pots and wires [weirs] which they have made of willows across the River and have more or less in them everry morng.    we bough a nomber of fine large Sammon of them and proceeded on.    one hunter on a head.    one strange Indian seen which is Supposed to be one of the <name type="native_nation" key="Flathead Indians">flat head</name> nation.<ref target="n22083103" n="3"/>    he ran off, and the Indians could not find him.    we then proceeded on over rough high hills. Some deep Gullies of white earth. Several of the natives followed us.    went about eight miles without water and halted at a large Spring branch<ref target="n22083104" n="4"/> to let our horses feed and dine ourselves. Some pitch pine on the mountains which make near the River on each Side.    the River bottoms narrow and verry much dryed up.    the Soil verry indifferent.    we proceeded on over a level Smooth plain abt. 7 miles    then passed the end of a mountain near the
+River where the Stone lay one on an other &amp; holes So that the horses could Scarsely git along without breaking their legs.    we then proceeded on to a large Creek<ref target="n22083105" n="5"/> which falls in on the East Side of the River.    we took a path up Sd. Creek and proceeded on    found wild or choke cherrys along the
+branch.    also Servis berrys which were ripe.    we Came [<hi rend="italic">blank</hi>] miles this day and Camped at Some Indian lodges near the Creek.    one of the hunters killed a deer at dusk and brought it to Camp after dark.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-31.03" n="lc.geo.1805-08-31.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 31st.</hi>    They all came down to our camp, and we proceeded on with 27 horses and one mule. Our old guide after consulting with the rest of the Indians, thought it was better to go along the north side of the <name type="place" key="Columbia River">Columbia</name>, than on the south side.<ref target="n22083106" n="6"/> We therefore proceeded down, the same way <name type="person" key="Clark, William">Captain Clarke</name> had been before, 30 miles, and then turned up a creek<ref target="n22083107" n="7"/> that comes in from the north, and encamped<ref target="n22083108" n="8"/> on it about 3 miles and an half from the mouth. Two hunters had gone on ahead this morning, and at night joined us, having killed one deer. The first cost of the articles, which had been given for each horse, did not amount to more than from three to five dollars; so that the whole of them only cost about one hundred dollars.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-31.04" n="lc.geo.1805-08-31.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 31st August 1805</hi>.<ref target="n22083109" n="9"/>    a fine morning.    we Set out eairly and proceeded on 2 miles    passed Several Indian lodges where we bought a nomber of fine Salmon.    the natives have wires [weirs] fixed across the River in which they catch more or less every night.    a Strange Indian came in Site of these lodges who they expected to be one of the nation called the <name type="native_nation" key="Flathead Indians">flat heads</name>.    he ran as Soon as he Saw us    Several of these natives followed after him.    we went on a Short distance further crossed the River and halted for breakfast.    one man out a hunting.    2 men Sent to Some other Indian Camps, with Some articles to buy Some more Sammon, but they had moved their Camps and we got none.    we then proceeded on over rough hills Some of them high &amp; Steep, deep Gullies and white earth which had been washed down by rains &amp;c.    went about eight miles and halted to bate our horses and dine.    4 or five of the natives follow us.    Some pitch pine on the Mountains which make near the River on each Side.    we proceeded on over a Smooth plain about 7 miles and passed along [th]e Side of a mountain near the River,<ref target="n22083110" n="10"/> where the Stone lay one [up]on an other and full of holes, So that it is allmost impossable for horses to pass without breaking their leggs.    we then passed along the end of this mountain.    Come to a large creek which falls in on the East Side.    we followed up this creek or Spring branch.    found pleanty of wild or choke cherries and Servis berrys.    one of the hunters killed a Deer at the edge of the evening.    we Came [<hi rend="italic">blank</hi>] Miles this day and Camped<ref target="n22083111" n="11"/> at the Creek where we had Several good Indian lodges to Sleep in this night.</p>
+               <p>
+Saturday August 31st    We had a fine morning, &amp; set out early, and proceeded on about 2 miles, and passed several Indian lodges, and met with some <name type="native_nation" key="Paiute Indians">Snake</name> Indians, from whom we purchased for trifles a number of fine Salmon, the Natives have Wares fixed across the <name type="place" key="Columbia River">Columbia River</name>, in which they catch more or less of them every night—.    A strange Indian came in sight of the lodges, which we past; which the <name type="native_nation" key="Shoshone Indians">Snake</name> Indians thought was one of the Nation of Indians, which they called the <name type="native_nation" key="Flathead Indians">flatt head</name> nation:—    he ran 
+as soon as he saw us; and several of the <name type="native_nation" key="Shoshone Indians">Snake</name> Indians followed him, We proceeded on a short distance, and crossed the <name type="place" key="Columbia River">Columbia River</name>, where we halted to break fast.    One of our party was sent out this morning a hunting, and two others of our party was sent to the Indian Camp with some articles to purchase some Salmon,—    but the Indians had removed their Camps, &amp; they got none.    We proceeded on our way, and crossed over some rough hills, some of them very steep, &amp; passed through some deep Vallies, which had white earth in them, which was occasioned by the Earth being washed down from the Hills of that Collour.—</p>
+               <p>
+We went about eight miles &amp; halted to rest our horses &amp; to dine, where some of the Natives followed us.    We saw some Pitch pine trees which grew on the Mountains which make near to the River on each side of it.    We proceeded on &amp; passed through a smooth plain about 7 Miles &amp; along the side of a mountain; which lay near the River, where the Stones lay very plenty, &amp; the place full of holes, &amp; where we found it almost impossible, for our horses to pass, without breaking their legs.    We passed along the Edge of this mountain with great difficulty, &amp; came to a large Creek, which falls in, on the East side of the <name type="place" key="Columbia River">Columbia River</name>; we proceeded up this Creek, &amp; found plenty of wild or choak cherries and service berries.    One of our hunters killed a Deer on the Edge of the Mountain, which we had passed &amp; which he brought to us in the evening; We came 15 Miles this day, &amp; encamped on the Creek, where we found several Indian lodges, which we slept in
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n22083101" n="1">
+               <name type="person" key="Clark, William">Clark's</name> table of courses for August 31–September 4 are found with his entry of <ref n="1805-09-02" type="related">September 2, 1805</ref>.</note>
+            <note xml:id="n22083102" n="2">The route appears as a dotted line on <hi rend="italic">Atlas</hi> map 67; at some points it is hard to distinguish from <name type="person" key="Clark, William">Clark's</name> earlier route (marked "<name type="person" key="Clark, William">William Clark's</name> route") on his <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Salmon River</name> reconnaissance. Having crossed to the east side of the <name type="place" key="Lemhi (East Fork Lewis's) River">Lemhi</name>, they proceeded down that river to the <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Salmon</name>, raveled down that river and headed up <name type="place" key="Tower Creek">Tower Creek</name>. The campsite was, as <name type="person" key="Clark, William">Clark</name> notes, some four miles up the creek, in <name type="place" key="Lemhi County, Idaho">Lemhi County</name>, <name type="place" key="Idaho">Idaho</name>. Peebles (RW), 15, and fig. 13.</note>
+            <note xml:id="n22083103" n="3">Also called <name type="native_nation" key="Flathead Indians">Salish Indians</name>, see <ref n="1805-09-04" type="related">September 4</ref>.</note>
+            <note xml:id="n22083104" n="4">Probably <name type="place" key="Carmen Creek (Salmon Run)">Carmen Creek</name>, <name type="place" key="Lemhi County, Idaho">Lemhi County</name>, <name type="place" key="Idaho">Idaho</name>.</note>
+            <note xml:id="n22083105" n="5">
+               <name type="place" key="Tower Creek">Tower Creek</name>, flowing into the <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Salmon River</name>, <name type="place" key="Lemhi County, Idaho">Lemhi County</name>, <name type="place" key="Idaho">Idaho</name>.</note>
+            <note xml:id="n22083106" n="6">Although this passage is obscure, the "south side" may refer to a proposed route along the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake River</name> in southern <name type="place" key="Idaho">Idaho</name>, with the "north side" referring to the route they actually took, up the <name type="place" key="North Fork Salmon River (Fish Creek)">North Fork Salmon River</name>, down the <name type="place" key="Bitterroot (Clark's, Flathead) River">Bitterroot River</name>, and along the <name type="place" key="Lolo Trail">Lolo Trail</name> to the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater River</name>. See <name type="person" key="Gass, Patrick">Gass's</name> entry of <ref n="1805-08-24" type="related">August 24, 1805</ref>, and also <name type="person" key="Lewis, Meriwether">Lewis's</name> entry of <ref n="1806-06-20" type="related">June 20, 1806</ref>. Possibly <name type="person" key="Gass, Patrick">Gass</name>, or <name type="person" key="McKeehan, David">McKeehan</name>, is referring to the <name type="place" key="Lemhi (East Fork Lewis's) River">Lemhi</name> and the <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Salmon</name> rivers as the <name type="place" key="Columbia River">Columbia</name>, and their route along the "north" (actually the east) side on this day.</note>
+            <note xml:id="n22083107" n="7">
+               <name type="place" key="Tower Creek">Tower Creek</name>, flowing into the <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Salmon River</name>, <name type="place" key="Lemhi County, Idaho">Lemhi County</name>, <name type="place" key="Idaho">Idaho</name>.</note>
+            <note xml:id="n22083108" n="8">A few miles above the mouth of <name type="place" key="Tower Creek">Tower Creek</name>, <name type="place" key="Lemhi County, Idaho">Lemhi County</name>.</note>
+            <note xml:id="n22083109" n="9">This is the last entry in this section of <name type="person" key="Whitehouse, Joseph">Whitehouse's</name> original journal and ends near the top one-third of the page. The remainder of the page is filled with random scribbles, most of them <name type="person" key="Whitehouse, Joseph">Whitehouse's</name> signature.</note>
+            <note xml:id="n22083110" n="10">The <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Salmon River</name>, which the party considered to be the same as the the <name type="place" key="Lemhi (East Fork Lewis's) River">Lemhi</name>, calling both <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Lewis's River</name>.</note>
+            <note xml:id="n22083111" n="11">A few miles above the mouth of <name type="place" key="Tower Creek">Tower Creek</name>, <name type="place" key="Lemhi County, Idaho">Lemhi County</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-08-30" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-08-31-1" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

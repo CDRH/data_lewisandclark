@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-08-26">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 26, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">170-174</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">211-212</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">133</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">284-286</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-08-26.01">
+            <placeName/>
+            <geo>45.1667 -113.8833</geo>
+            <note>Camped with Indians at the fish weir on the Lemhi River, five miles southeast of Salmon, Lemhi County, ID. Remained at this camp until 09-30.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh" n="category">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-06-09</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-08-26">August 26, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-08-26.01" n="lc.geo.1805-08-26.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Monday August 26th 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+This morning was excessively cold; there was ice on the vessels of water which stood exposed to the air nearly a quarter of an inch thick.    we collected our horses and set out at sunrise.    we soon arrived at the extreem source of the <name type="place" key="Missouri River">Missouri</name>; here I halted a few minutes, the men drank of the water and consoled themselves with the idea of having at length arrived at this long wished for point.    from hence we proceeded to a fine spring on the side of the mountain where I had lain the evening before I first arrived at the <name type="native_nation" key="Shoshone Indians">Shoshone</name> Camp.    here I halted to dine and graize our horses, there being fine green grass on that part of the hillside which was moistened by the water of the spring while the grass on the other parts was perfectly dry and parched with the sun. I directed a pint of corn to be given each Indian who was engaged in transporting our baggage and about the same quantity to each of the men which they parched pounded and made into supe.    one of the women who had been assisting in the transportation of the baggage halted at a little run about a mile behind us, and set on the two pack horses which she had been conducting by one of her female friends. I enquired of <name type="person" key="Cameahwait">Cameahwait</name> the cause of her detention, and was informed by him in an unconcerned manner that she had halted to bring fourth a child and would soon overtake us; in about an hour the woman arrived with her newborn babe and passed us on her way to the camp apparently as well as she ever was. It appears to me that the facility and ease with which the women of the aborigines of North America bring fourth their children is reather a gift of nature than depending as some have supposed on the habitude of carrying heavy burthens on their backs while in a state of pregnancy.    if a pure and dry air, an elivated and cold country is unfavourable to childbirth, we might expect every difficult incident to that operation of nature in this part of the continent; again as the <name type="native_nation" key="Shoshone Indians">snake</name> Indians possess an abundance of horses, their women are seldom compelled like those in other parts of the continent to carry burthens on their backs, yet they have their children with equal convenience, and it is a rare occurrence for any of them to experience difficulty in childbirth. I have been several times informed by those who were conversent with the fact, that the indian women who are pregnant by whitemen experience more difficulty in childbirth than when pregnant by an Indian.    if this be true it would go far in suport of the opinion I have advanced.—</p>
+               <p>
+the tops of the high and irregular mountains which present themselves to our view on the opposite side of this branch of the <name type="place" key="Columbia River">Columbia</name> are yet perfectly covered with snow; the air which proceeds from those mountains has an agreeable coolness and renders these parched and South hillsides much more supportable at this time of the day it being now about noon. I observe the indian women collecting the root of a speceis of fennel<ref target="n21082601" n="1"/> which grows in the moist grounds and feeding their poor starved children; it is really distressing to witness the situation of those poor wretches.    the radix of this plant is of the knob kind, of a long ovate form terminating in a single radicle, the whole bing about 3 or four inches in length and the thickest part about the size of a man's little finger.    it is white firm and crisp in it's present state, when dryed and pounded it makes a fine white meal; the flavor of this root is not unlike that of annisseed but not so pungent; the stem rises to the hight of 3 or four feet is jointed smooth and cilindric; from 1 to 4 of those knobed roots are attatched to the base of this stem.    the leaf is sheathing sessile, &amp; pultipartite [multipartite], the divisions long and narrow; the whole is of a deep green.    it is now in blume; the flowers are numerous, small, petals white, and are of the umbellaferous kind.    several small peduncles put forth from the main stock one at each joint above the sheathing leaf.    it has no root leaves.    the root of the present year declines when the seeds have been matured and the succeeding spring other roots of a similar kind put fourth from the little knot which unites the roots and stem and grow and decline with the stem as before mentioned. The sunflower<ref target="n21082602" n="2"/> is very abundant near the watercourses the seeds of this plant are now rip and the natives collect them in considerable quantities and reduce them to meal by pounding and rubing them between smooth stones.    this meal is a favorite food their manner of using it has been beforementioned.    after dinner we continued our rout towards the village.    on our near approach we were met by a number of young men on horseback. <name type="person" key="Cameahwait">Cameahwait</name> requested that we would discharge our guns when we arrived in sight of the Village, accordingly when I arrived on an eminence above the village in the plain I drew up the party at open order in a single rank and gave them a runing fire discharging two rounds.    they appeared much gratifyed with this exhibition.    we then proceeded to the village or encampment of brush lodges 32 in number.    we were conducted to a large lodge which had been prepared for me in the center of their encampment which was situated in a beautifull level smooth and extensive bottom near the river about 3 miles above the place I had first found them encamped.<ref target="n21082603" n="3"/>    here we arrived at 6 in the evening arranged our baggage near my tent and placed those of the men on either side of the baggage facing outwards. I found <name type="person" key="Colter, John">Colter</name> here who had just arrived with a letter from <name type="person" key="Clark, William">Capt. Clark</name> in which <name type="person" key="Clark, William">Capt. C.</name> had given me an account of his perigrination and the description of the river and country as before detailed [<hi rend="italic">WC: advised the purchase of horses, and the pursute of a rout he had learned from his guid who had promised to pilot ous to a road to the North &amp;c</hi>]    from this view of the subject I found it a folly to think of attemping to decend this river in canoes and therefore 〈determined〉 to commence the purchase of horses in the morning from the indians in order to carry into execution the design 〈we had formed of〉 [<hi rend="italic">WC: <name type="person" key="Clark, William">Capt C</name> had recomended in</hi>] passing the <name type="place" key="Rocky Mountains">rocky Mountains</name>. I now informed <name type="person" key="Cameahwait">Cameahwait</name> of my intended expedition overland to the great river which lay in the plains beyond the mountains and told him that I wished to purchase 20 horses of himself and his people to convey our baggage.    he observed that the <name type="native_nation" key="Hidatsa Indians">Minnetares</name> had stolen a great number of their horses this spring but hoped his people would spear me the number I wished. I also asked a [<hi rend="italic">X: nother</hi>] guide, he observed that he had no doubt but the old man who was with <name type="person" key="Clark, William">Capt. C.</name> would accompany us if we wished him and that he was better informed of the country than any of them.    matters being thus far arranged I directed the fiddle to be played and the party danced very merily much to the amusement and gratification of the natives, though I must confess that the state of my own mind at this moment did not well accord with the prevailing mirth as I somewhat feared that the caprice of the indians might suddenly induce them to withhold their horses from us without which my hopes of prosicuting my voyage to advantage was lost; however I determined to keep the indians in a good humour if possible, and to loose no time in obtaining the necessary number of horses. I directed the hunters to turn out early in the morning and indeavor to obtain some meat. I had nothing but a little parched corn to eat this evening.</p>
+               <p>
+This morning <name type="person" key="Clark, William">Capt. C.</name> and party<ref target="n21082604" n="4"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-26.02" n="lc.geo.1805-08-26.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">August 26th Monday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+a fine morning    Despatched three men a head to hunt, our horses missing    Sent out my guide and four men to hunt them, which detained me untill 9 oClock a. m. at which time I Set out and proceeded on by the way of the forks to the Indian Camps at the first were<ref target="n21082605" n="5"/>    not one mouthfull to eate untill night as our hunters could kill nothing and I could See &amp; catch no fish except a few Small ones. The Indians gave us 2 Sammon boiled which I gave to the men, one of my men Shot a Sammon in the river about Sunset those fish gave us a Supper.    all the Camp flocked about me untill I went to Sleep—    and I beleve if they had a Sufficency to eate themselves and any to Spare they would be liberal of it</p>
+               <p>
+I derected the men to mend their Mockessons to night and turn out in the morning early to hunt Deer fish birds &amp;c. &amp;c. Saw great numbers of the large Black grass hopper.<ref target="n21082606" n="6"/> Some hars which were verry wild, but few Birds.    a number of ground Lizards; Some fiew Pigions<ref target="n21082607" n="7"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-26.03" n="lc.geo.1805-08-26.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 26th August 1805</hi>.    a clear cold morning.    the water in the Small vessells froze.    we Set out at Sunrise and proceeded on with our big coats on and our fingers ackd with the Cold.    we passed a nomber of large Springs and I drank at the head Spring of the <name type="place" key="Missouri River">Missourie</name> run South &amp; walked across a ridge only about one mile and drank at the head Spring of <name type="place" key="Columbia River">Columbian River</name> running west.<ref target="n21082608" n="8"/>    then went up and down a nomber of high hills    passed a nomber of large Springs all makeing west. Saw pitch pine and balsom fer<ref target="n21082609" n="9"/> which grow verry tall on the Spring runs and Sides of the mountains, but they are mostly covred with Short grass. Saw considerable of Snow on the mountain near us which appear but little higher than we are.    it lies in heaps and a cold breeze always comes from these mountains    we came in Site of the valley where the Small river runs.    came about 8 miles &amp; halted to dine    one of our Indian women was taken Sick rideing a long and halted a fiew minutes and had hir child with out detaining us.    we gave
+the Savages a little corn and proceeded on    passed over Several hills and a large Spring run    came in Site of the Indian lodges which were on the little River running west.    by the request of the chief which was with us we fired 2 rounds and went to their lodges.    they had a large one prepared for us in the center.    they have about 30 lodges consisting of men women and children.    they have but little to eat    they catch a large kind of fish in this little Stream.    a large Smooth bottoms on this R. back of the bottoms high hills
+&amp; mountains. Som pitch pine on them.    we Camped near the lodge among the natives.    we danced a while this evening.    they assembled to see us    they all appear verry peaceable and friendly.    we came here a little before night.    found <name type="person" key="Colter, John">Colter</name> here who had been with <name type="person" key="Clark, William">Capt. Clark</name> a long distance down this River.    he tells us that it is not navigable.    no game and verry mountaineous. <name type="person" key="Clark, William">Capt. Clark</name> Sent <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> a note and Says he will meet us here &amp; determine whether we follow the River or go across by land to the wtn. ocean
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-26.04" n="lc.geo.1805-08-26.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 26th.</hi>    We had again a pleasant morning; and four hunters went on early ahead, and one man to look for the horses. We breakfasted on the beaver and a salmon, which had been saved from supper the preceding evening. The man, who had gone for the horses, having returned without finding them, 4 or 5 more went out, and our guide immediately found them. We then about 10 o'clock, proceeded on to the forks,<ref target="n21082610" n="10"/> where we found our hunters; but they had killed nothing. So we went up to a small village of the natives, got some fish from them, and lodged there all night.<ref target="n21082611" n="11"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-26.05" n="lc.geo.1805-08-26.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 26th August 1805</hi>.    a clear morning    we find it verry cold and frosty every morning.    the water froze a little in the Small vessells.    we Set out at Sunrise and proceeded on.    the mountains make close to the branch on each Side which are partly covd. with pich pine.    passed a nomber of fine large Springs and drank at the head Spring of the <name type="place" key="Missouri River">Missourie</name> and crossed a high ridge only one mile and drank at the head Spring of <name type="place" key="Columbia River">Calumbian River</name> running west.    the runs all make the Same course    Saw a high mountain to the S. W. with Some Spots of Snow on them.    Saw Spots of pitch pine and bolsom fer<ref target="n21082612" n="12"/> on the Sides of the Mo. and on the Spring runs, and verry tall.    we halted to dine at a Spring within about 8 miles of the Indians Camp which is on the Small River.    one of our Indian women was taken Sick a little back of this and halted a fiew minutes on the road and had hir child and went on without Detaining us.    we then proceeded on after we dined and gave the Indians who were with us a little corn.    passed over Several hills.    when we came near the natives lodges we fired 2 rounds by the requst of the chief then went to their lodges.    they had a large one in the center prepared for us, wher we unloaded and Camped with them.<ref target="n21082613" n="13"/>    their is about 30 lodges here consisting of men women and children, but the nomber of persons would be difficult to find out.    we danced a little this evening.    the natives 
+assembled to See us.    they all appeared verry friendly and peaceable.</p>
+               <p>
+Monday August 26th    We had a Clear morning; but very cold &amp; a heavy frost, and the Water froze in a short time in the small Vessells, We proceeded on our way at Sun rise, &amp; found the Mountains running in close to the branch of the River, on both sides of it &amp; 〈are〉 were partly covered with pitch pine.    We passed a number of fine large Springs.—    We stopped at a very large Spring &amp; drank out of it.    This spring is the head waters or source of the <name type="place" key="Missouri River">Mesouri River</name> and lies under a ridge of high mountain's &amp; is 3,124 Miles from the Mouth of the <name type="place" key="Missouri River">Mesouri River</name>    We crossed this high ridge of mountain's, and proceeded on about One Mile, and came to another large 
+Spring, which 〈is〉 we supposed to be the head Waters or Source of the <name type="place" key="Columbia River">Columbia River</name>, it running a West course, our party also drank water out of this Spring, so that we might all have it in our power to say; that we had drank water from out the head Springs or Source of both those great Rivers.—    We passed several runs of water, which all run a West course, and saw very high mountains lying to the South west of us, which had some spots of snow on them &amp; pitch pine &amp; Balsam fir trees growing on the sides of the hills, &amp; on the spring runs.    Those Trees were very tall.—    We halted to dine at a spring within 8 Miles of where the Indian Camp lay, Which is on a small River which was 36 Yards wide &amp; 3,134 from Mo. <name type="place" key="Missouri River">Mesouri</name>, We proceeded on after dining, having givin the Indians that was with us, some Corn, We crossed several hills, and arrived near, to where the Natives had their lodges.    We fired 2 Rounds with our small Arms, by request of their Chiefs, who were with us.    We then proceeded on &amp; came to where the Indian lodges lay.—    The Indians had prepared a large lodge for us, which lay in the Center of their lodges, here we unloaded our baggage, and deposited it.    The Indians had about 30 lodges here, which was occupied by Indian Men, women &amp; Children, but their numbers we did not ascertain—    In the Evening our party had a Dance &amp; the Natives all attended, they seemed pleased with our mode of dancing, and behaved very peacable &amp; friendly to us.    they were called the <name type="native_nation" key="Shoshone Indians">So-so-nee</name>, or <name type="native_nation" key="Shoshone Indians">Snake</name> Indians.—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n21082601" n="1">From <name type="person" key="Lewis, Meriwether">Lewis's</name> careful description, this is certainly Gairdner's yampah, <hi rend="italic">Perideridia gairdneri</hi> (H. &amp; A.) Mathias, then unknown to science. Cutright (LCPN), 188 n. 7; Hitchcock et al., 3:576. Perhaps it was <name type="person" key="Biddle, Nicholas">Biddle</name> who drew a red vertical line through this passage from "I observe" to "before mentioned." A similar line may have been started slightly above, perhaps in error.</note>
+            <note xml:id="n21082602" n="2">Again Nuttall sunflower in its usual habitat of moist meadows.</note>
+            <note xml:id="n21082603" n="3">See above, <ref n="1805-08-20" type="related">August 20, 1805</ref>.</note>
+            <note xml:id="n21082604" n="4">Here ends <name type="person" key="Lewis, Meriwether">Lewis's</name> Codex Fb, except for the following notations in <name type="person" key="Clark, William">Clark's</name> hand: "This Comes into No. 7 [<hi rend="italic">written over 8</hi>] between the 23rd and 26 August 1805" and "This has been Copied from W. C. Journal and Coms in as above in No. 7." No. 7 is <name type="person" key="Biddle, Nicholas">Biddle's</name> designation for the journal now called Codex G. There are no more entries by <name type="person" key="Lewis, Meriwether">Lewis</name> until <ref n="1805-09-09" type="related">September 9, 1805</ref>.</note>
+            <note xml:id="n21082605" n="5">The Indian camp at the fish weir, about five miles southeast of <name type="place" key="Salmon, Idaho">Salmon</name>, <name type="place" key="Lemhi County, Idaho">Lemhi County</name>, <name type="place" key="Idaho">Idaho</name>. See above, <ref n="1805-08-21" type="related">August 21, 1805</ref>. <name type="person" key="Clark, William">Clark's</name> party remained here until <ref n="1805-08-29" type="related">August 29</ref>. Peebles (RW), 11 ; <hi rend="italic">Atlas</hi> map 67.</note>
+            <note xml:id="n21082606" n="6">Perhaps the Mormon cricket, <hi rend="italic">Anabrus simplex.</hi> Coues (HLC), 2:538; Borror, Delong, &amp; Triplehorn, 200. It was probably <name type="person" key="Biddle, Nicholas">Biddle</name> who drew a red vertical line from "Saw great numbers" to the end of the entry.</note>
+            <note xml:id="n21082607" n="7">The ground lizard is probably the eastern short-horned lizard, <hi rend="italic">Phrynosoma douglassi brevirostre,</hi> while the pigeons may be passenger pigeons, <hi rend="italic">Ectopistes migratorius</hi> [AOU, 315], although Holmgren suggests the possibility of the band-tailed pigeon, <hi rend="italic">Columba fasciata</hi> [AOU, 312], this far west. Benson (HLCE), 88; Burroughs, 233–34; Holmgren, 32.</note>
+            <note xml:id="n21082608" n="8">The sources of <name type="place" key="Trail (Glade) Creek">Trail Creek</name>, which eventually joins the <name type="place" key="Missouri River">Missouri</name>, and <name type="place" key="Horseshoe Bend Creek">Horseshoe Bend
+Creek</name>, whose waters empty into the <name type="place" key="Columbia River">Columbia</name> by way of the <name type="place" key="Lemhi (East Fork Lewis's) River">Lemhi</name>, <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Salmon</name>, and <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake</name> rivers.</note>
+            <note xml:id="n21082609" n="9">Pitch pine here is probably lodgepole pine, <hi rend="italic">Pinus contorta</hi> Dougl. ex Loud. Balsam fir in this region is probably grand fir, <hi rend="italic">Abies grandis</hi> (Dougl.) Lindl.</note>
+            <note xml:id="n21082610" n="10">The junction of the <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Salmon</name> and <name type="place" key="Lemhi (East Fork Lewis's) River">Lemhi</name> rivers at <name type="place" key="Salmon, Idaho">Salmon</name>, <name type="place" key="Lemhi County, Idaho">Lemhi County</name>, <name type="place" key="Idaho">Idaho</name>.</note>
+            <note xml:id="n21082611" n="11">At the fish weir on the <name type="place" key="Lemhi (East Fork Lewis's) River">Lemhi River</name>, about five miles southeast of <name type="place" key="Salmon, Idaho">Salmon</name>, <name type="place" key="Lemhi County, Idaho">Lemhi
+County</name>.</note>
+            <note xml:id="n21082612" n="12">Lodgepole pine, <hi rend="italic">Pinus contorta</hi> Dougl. ex Loud., and grand fir, <hi rend="italic">Abies grandis</hi> (Dougl.) Lindl. in this region.</note>
+            <note xml:id="n21082613" n="13">The <name type="native_nation" key="Shoshone Indians">Shoshone</name> camp was probably now located about four miles north of <name type="place" key="Tendoy, Idaho">Tendoy</name>, <name type="place" key="Lemhi County, Idaho">Lemhi County</name>, <name type="place" key="Idaho">Idaho</name>, near where <name type="place" key="Kenney Creek">Kenney Creek</name> joins the <name type="place" key="Lemhi (East Fork Lewis's) River">Lemhi River</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-08-25" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-08-27" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

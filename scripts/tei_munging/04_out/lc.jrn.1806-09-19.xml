@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-09-19">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+September 19, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">365-366</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">364-365</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">280</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-09-19.01">
+            <placeName/>
+            <geo>38.5922 -91.9532</geo>
+            <note>Camped where the party had camped on 1804-06-01 to -03. On the Osage River at the Osage-Cole County line, MO.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-12-23</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-09-19">September 19, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-09-19.01" n="lc.geo.1806-09-19.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Friday 19th of Sept. 1806</hi>
+                  </date>
+               </ab>
+               <p>
+Set out this morning a little after day &amp; proceeded on very well    the men ply their oares &amp; we decended with great velocity, only Came too once for the purpose of gathering pappows, our anxiety as also the wish of the party to proceed on as expeditiously as possible to 〈get to〉 the <name type="place" key="Illinois">Illinois</name> enduce us to continue on without halting to hunt.    we Calculate on ariveing at the first Settlements on tomorrow evening which is 140 miles, and objecet of our party is to divide the distance into two days, this day to the <name type="place" key="Osage (Osarge) River">Osarge River</name>, and tomorrow to the <name type="place" key="La Charette, Mo.">Charriton</name> a Small french Village—<ref target="n40091901" n="1"/>    we arived at the Enterance of <name type="place" key="Osage (Osarge) River">Osage River</name> at dark and encamped on the Spot we had encamped on the 1st &amp; 2d of June 1804 haveing Came <hi rend="double underline">72</hi> miles.<ref target="n40091902" n="2"/>    a very singular disorder is takeing place amongst our party that of the Sore eyes.    three of the party have their eyes inflamed and Sweled in Such a manner as to render them extreamly painfull, particularly when exposed to the light, the eye ball is much inflaimed and the lip appears burnt with the Sun, the cause of this complaint of the eye I can't [account?] for.    from it's Sudden apearance I am willing to believe it may be owing to the reflection of the Sun on the water<ref target="n40091903" n="3"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-09-19.02" n="lc.geo.1806-09-19.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Friday 19th Sept. 1806.    a fair morning.    we Set out at light and procd. on    Soon passed the mouth of <name type="place" key="Lamine (Mine) River">Mine River</name>. Saw a number of Turkeys but we being anxious to git down do not detain to hunt.    gathered Some Pappaws which our party are fond of and are a kind of fruit which abound in these bottoms and are now ripe.    in the afternoon one of the hunters killed a deer.    late in the evening we arived at the Mouth of <name type="native_nation" key="Osage (Osarge) River">Osage River</name> &amp; Camped<ref target="n40091904" n="4"/> having made 84 miles this day.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-09-19.03" n="lc.geo.1806-09-19.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+The 19th, was a fine day, and at day light we continued our voyage; passed the mouth of <name type="place" key="Lamine (Mine) River">Mine river</name>;<ref target="n40091905" n="5"/> saw several turkeys on the shores, but did not delay a moment to hunt: being so anxious to reach <name type="place" key="Saint Louis, Mo.">St. Louis</name>, where, without any important occurrence, we arrived on the 23rd,<ref target="n40091906" n="6"/> and were received with great kindness and marks of friendship by the inhabitants, after an absence of two years, four months and ten days.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n40091901" n="1">
+               <name type="place" key="La Charette, Mo.">La Charette</name> in <name type="place" key="Warren County, Mo.">Warren County</name>, <name type="place" key="Missouri">Missouri</name>, which they did indeed reach the next day. <name type="person" key="Clark, William">Clark</name> here confuses the name with that of the <name type="place" key="Chariton (Charliton, Shariton) River">Chariton River</name>.</note>
+            <note xml:id="n40091902" n="2">
+               <name type="place" key="Osage (Osarge) River">Osage River</name> mouths on the <name type="native_nation" key="Osage Indians">Osage</name>-<name type="place" key="Cole County, Mo.">Cole</name> county line, <name type="place" key="Missouri">Missouri</name>; the camp of <ref n="1804-06-01" type="related">June 1</ref>–<ref n="1804-06-03" type="related">3</ref>, 1804, and of this date, would be just above the river in <name type="place" key="Cole County, Mo.">Cole County</name>, near <name type="place" key="Osage City, Mo.">Osage City</name>. MRC map 6.</note>
+            <note xml:id="n40091903" n="3">Chuinard (OOMD), 395, believes the symptoms strongly suggest infectious conjunctivitis. However, the problem may be related to the diet of pawpaws; handling the fruit can cause dermatitis, and if the men were wiping sweat from faces and eyes this might explain the inflammation. Rogers.</note>
+            <note xml:id="n40091904" n="4">The mouth of the <name type="place" key="Osage (Osarge) River">Osage River</name> is at the <name type="place" key="Osage County, Mo.">Osage</name>-<name type="place" key="Cole County, Mo.">Cole</name> county line, <name type="place" key="Missouri">Missouri</name>. <name type="person" key="Clark, William">Clark</name> has the party make seventy-two miles this day.</note>
+            <note xml:id="n40091905" n="5">
+               <name type="place" key="Lamine (Mine) River">Lamine River</name>; see <ref n="1806-09-18" type="related">September 18</ref>.</note>
+            <note xml:id="n40091906" n="6">
+               <name type="person" key="Gass, Patrick">Gass</name> obviously did not bother with his journal in the rush of the last few days of the journey. For the details of their reception in <name type="place" key="Saint Louis, Mo.">St. Louis</name>, see the last entries in <name type="person" key="Clark, William">Clark's</name> and <name type="person" key="Ordway, John">Ordway's</name> journals.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-09-18" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-09-20" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

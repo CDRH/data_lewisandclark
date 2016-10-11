@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-07-26">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+July 26, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">127-133, 229-235</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">340-341</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">258</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-07-26.01">
+            <placeName/>
+            <geo>48.4658 -112.2291</geo>
+            <note>Lewis camped in Pondera County, MT, on the Blackfeet Reservation, along the south side of Two Medicine River and four miles below the mouth of Badger Creek and downstream from Kipps Coulee.</note>
+         </geoDecl>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-07-26.02">
+            <placeName/>
+            <geo>46.1546 -107.4731</geo>
+            <note>Clark camped above the junction of the Bighorn River with the Yellowstone and on the stream's east in Treasure County, MT.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-11-30</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-07-26">July 26, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-07-26.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Saturday July 26th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+The morning was cloudy and continued to rain as usual, tho' the cloud seemed somewhat thiner. I therefore posponed seting out untill 9 A. M. in the hope that it would clear off but finding the contrary result I had the horses caught and we set out biding a lasting adieu to this place which I now call camp disappointment. I took my rout through the open plains S. E. 5 ms. passing a small creek<ref target="n37072601" n="1"/> at 2 ms. from the mountains wher I changed my direction to S. 75 E. for 7 ms. further and struck a <name type="place"
+                        key="Two Medicine River (Main or South Branch Marias River)">principal branch<ref target="n37072602" n="2"/> of Maria's river</name> 65 yds. wide, not very deep, I passed this stream to it's south side and continued down it 2 ms. on the last mentioned course when another branch<ref target="n37072603" n="3"/> of nearly the same dignity formed a junction with it, coming from the S. W.    this last is shallow and rappid; has the appearance of overflowing it's banks frequently and discharging vast torrants of water at certain seasons of the year.    the beds of both these streams are pebbly particularly the S. branch.    the water of the N. branch is very terbid while that of the S. branch is nearly clear not withstanding the late rains. I passed the S. branch just above it's junction and continued down the river which runs a little to the N of E 1 ms. and halted to dine and graize our horses.<ref target="n37072604" n="4"/>    here I found some indian lodges which appeared to have been inhabited last winter in a large and fertile bottom well stocked with cottonwood timber.    the rose honeysuckle and redberry bushes constitute the undergrowth there being but little willow in this quarter both these rivers abov their junction appeared to be well stocked with timber or comparitively so with other parts of this country.    here it is that we find the three species of cottonwood which I have remarked in my voyage assembled together    that speceis common to the <name type="place" key="Columbia River">Columbia</name> I have never before seen on the waters of the <name type="place" key="Missouri River">Missouri</name>, also the narrow and broad leafed speceis.<ref target="n37072605" n="5"/>    during our stay at this place <name type="person" key="Field, Reubin">R. Fields</name> killed a buck a part of the flesh of which we took with us.    we saw a few Antelopes some wolves and 2 of the smallest speceis of fox<ref target="n37072606" n="6"/> of a redish brown colour with the extremity of the tail black.    it is about the size of the common domestic cat and burrows in the plains.    after dinner I continued my rout down the river to the North of Eat about 3 ms. when the hills putting in close on the S side I determined to ascend them to the high plain which I did accordingly, keeping <name type="person" key="Field, Joseph and Reubin">the Fields</name> with me; <name type="person" key="Drouillard, George">Drewyer</name> passed the river and kept down the vally of the river. I had intended to decend this river with it's course to it's junction with the fork which I had ascended and from thence have taken across the country obliquely to <name type="place" key="Teton (Rose, Tansy) River">rose river</name> and decend that stream to it's confluence with <name type="place" key="Marias River">Maria's river</name>.<ref target="n37072607" n="7"/> the country through which this portion of <name type="place" key="Marias River">Maria's river</name> passes to the fork which I ascended appears much more broken than that above and between this and the mountains. I had scarcely ascended the hills before I discovered to my left at the distance of a mile an assembleage of about 30 horses, I halted and used my spye glass by the help of which I discovered several indians on the top of an eminence just above them who appeared to be looking down towards the river I presumed at <name type="person" key="Drouillard, George">Drewyer</name>. about half the horses were saddled.    this was a very unpleasant sight, however I resolved to make the best of our situation and to approach them in a friendly manner. I directed <name type="person" key="Field, Joseph">J. Fields</name> to display the flag which I had brought for that purpose and advanced slowly toward them, about this time they discovered us and appeared to run about in a very confused manner as if much allarmed, their attention had been previously so fixed on <name type="person" key="Drouillard, George">Drewyer</name> that they did not discover us untill we had began to advance upon them, some of them decended the hill on which they were and drove their horses within shot of it's summit and again returned to the hight as if to wate our arrival or to defend themselves. I calculated on their number being nearly or quite equal to that of their horses, that our runing would invite pursuit as it would convince them that we were their enimies and our horses were so indifferent that we could not hope to make our escape by flight; added to this <name type="person" key="Drouillard, George">Drewyer</name> was seperated from us and I feared that his not being apprized of the indians in the event of our attempting to escape he would most probably fall a sacrefice.    under these considerations I still advanced towards them; when we had arrived 〈at the distance of〉 within a quarter of a mile of them, one of them mounted his horse and rode full speed towards us, which when I discovered I halted and alighted from my horse; he came within a hundred paces halted looked at us and turned his horse about and returned as briskly to his party as he had advanced; while he halted near us I held out my hand and becconed to him to approach but he paid no attention to my overtures.    on his return to his party they all decended the hill and mounted their horses and advanced towards us leaving their horses behind them, we also advanced to meet them. I counted eight of them but still supposed that there were others concealed as there were several other horses saddled. I told the two men with me that I apprehended that these were the <name type="native_nation" key="Blackfeet Indians, Piegan">Minnetares of Fort de Prarie</name> and from their known character I expected that we were to have some difficulty with them; that if they thought themselves sufficiently strong I was convinced they would attempt to rob us in which case be their numbers what they would I should resist to the last extremity prefering death to that of being deprived of my papers instruments and gun and desired that they would form the same resolution and be allert and on their guard.    when we arrived within a hundred yards of each other the indians except one halted I directed the two men with me to do the same and advanced singly to meet the indian with whom I shook hands and passed on to those in his rear, as he did also to the two men in my rear; we now all assembled and alighted from our horses; the Indians soon asked to smoke with us, but I told them that the man whom they had seen pass down the river had my pipe and we could not smoke untill he joined us. I requested as they had seen which way he went that they would one of them go with one of my men in surch of him, this they readily concented to and a young man set out with <name type="person" key="Field, Reubin">R. Fields</name> in surch of <name type="person" key="Drouillard, George">Drewyer</name>. I now asked them by sighns if they were the <name type="native_nation" key="Blackfeet Indians, Piegan">Minnetares of the North</name> which they answered in the affermative;<ref target="n37072608" n="8"/> I asked if there was any cheif among them and they pointed out 3    I did not believe them however I thought it best to please them and gave to one a medal to a second a flag and to the third a handkercheif, with which they appeared well satisfyed.    they appeared much agitated with our first interview from which they had scarcely yet recovered, in fact I believe they were more allarmed at this accedental interview than we were.    from no more of them appearing I now concluded they were only eight in number and became much better satisfyed with our situation as I was convinced that we could mannage that number should they attempt any hostile measures.    as it was growing late in the evening I proposed that we should remove to the nearest part of the river and encamp together, I told them that I was glad to see them and had a great deel to say to them.    we mounted our horses and rode towards the river which was at but a short distance, on our way we were joined by <name type="person" key="Drouillard, George">Drewyer</name>
+                  <name type="person" key="Field, Reubin">Fields</name> and the indian.    we decended a very steep bluff about 250 feet high to the river where there was a small bottom of nearly ½ a mile in length and about 250 yards wide in the widest part,<ref target="n37072609" n="9"/> the river washed the bluffs both above and below us and through it's course in this part is very deep; the bluffs are so steep that there are but few places where they could be ascended, and are broken in several places by deep nitches which extend back from the river several hundred yards, their bluffs being so steep that it is impossible to ascend them; in this bottom there stand tree solitary trees<ref target="n37072610" n="10"/> near one of which the indians formed a large simicircular camp<ref target="n37072611" n="11"/> of dressed buffaloe skins and invited us to partake of their shelter which <name type="person" key="Drouillard, George">Drewyer</name> and myself accepted and the <name type="person" key="Field, Joseph and Reubin">Fieldses</name> lay near the fire in front of the sheter.    with the assistance of <name type="person" key="Drouillard, George">Drewyer</name> I had much conversation with these people in the course of the evening. I learned from them that they were a part of a large band which lay encamped at present near the foot of the <name type="place" key="Rocky Mountains">rocky mountains</name> on the <name type="place"
+                        key="Two Medicine River (Main or South Branch Marias River)">main branch of Maria's river</name> one ½ days march from our present encampment; that there was a whiteman with their band; that there was another large band of their nation hunting buffaloe near the broken mountains and were on there way to the mouth of <name type="place" key="Marias River">Maria's river</name> where they would probably be in the course of a few days.    they also informed us that from hence to the establishment where they trade on the <name type="place" key="Saskatchewan River">Suskasawan river</name> is only 6 days easy march or such as they usually travel with their women and childred which may be estimated at about 150 ms.<ref target="n37072612" n="12"/> that from these traders they obtain arm amunition sperituous liquor blankets &amp;c in exchange for wolves and some beaver skins. I told these people that I had come a great way from the East up the large river which runs towards the rising sun, that I had been to the great waters where the sun sets and had seen a great many nations all of whom I had invited to come and trade with me on the rivers on this side of the mountains, that I had found most of them at war with their neighbours and had succeeded in restoring peace among them, that I was now on my way home and had left my party at the <name type="place" key="Missouri River, Great Falls of the">falls of the misouri</name> with orders to decend that river to the entrance of <name type="place" key="Marias River">Maria's river</name> and there wait my arrival and that I had come in surch of them in order to prevail on them to be at peace with their neighbours particularly those on the West side of the mountains and to engage them to come and trade with me when the establishment is made at the entrance of this river to all which they readily gave their assent and declared it to be their wish to be at peace with the <name type="native_nation" key="Flathead Indians">Tushepahs</name> whom they said had killed a number of their relations lately and pointed to several of those present who had cut their hair as an evidince of the truth of what they had asserted. I found them extreemly fond of smoking and plyed them with the pipe untill late at night.    I told them that if they intended to do as I wished them they would send some of their young men to their band with an invitation to their chiefs and warriors to bring the whiteman with them and come down and council with me at the entrance of <name type="place" key="Marias River">Maria's river</name> and that the ballance of them would accompany me to that place, where I was anxious now to meet my men as I had been absent from them some time and knew that they would be uneasy untill they saw me.    that if they would go with me I would give them 10 horses and some tobacco.    to this proposition they made no reply, I took the first watch tonight and set up untill half after eleven; the indians by this time were all asleep, I roused up <name type="person" key="Field, Reubin">R. Fields</name> and laid down myself; I directed <name type="person" key="Field, Reubin">Fields</name> to watch the movements of the indians and if any of them left the camp to awake us all as I apprehended they would attampt to seal [steal] our horses.    this being done I fell into a profound sleep and did not wake untill the noise of the men and indians awoke me a little after light in the morning.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-07-26.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>(July 26th)</date>
+               </ab>
+               <p>
+                  <table rows="18" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 18° E</cell>
+                        <cell role="data" rows="1" cols="1">6</cell>
+                        <cell role="data" rows="1" cols="1">Miles to a Point on the Std. Side    passed a long narrow Is-<lb/>
+land on Std. and Som bars, a high Clift on Lard.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 57° E.</cell>
+                        <cell role="data" rows="1" cols="1">5</cell>
+                        <cell role="data" rows="1" cols="1">miles to a point on the Stard. Side    Passed an Island and 4<lb/>
+Bars.    a large Creek 40 yds wide <name type="place" key="Cow Gulch (Hall's River, Little Wolf Creek)">〈Little Wolf〉 Creek</name> on<lb/>
+Lard. Side at 4 miles</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Clift    a high Pine land on the Stard. Side<lb/>
+passed a Small Creek on the Std. at 1 mile    the head of<lb/>
+an Island below the Lard. Clifts at 2 miles</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 12° E</cell>
+                        <cell role="data" rows="1" cols="1">3 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Clift of rocks on the Sard. Side    passed the Is-<lb/>
+land and 2 Stoney bars    white Clifts</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">5</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Clift of rocks on the Std    passed Several Stoney<lb/>
+Islands.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N E.</cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a high Clift on the Lard Side opposit several Small<lb/>
+Islands    the Chanel much divided    passed 2 Small Is-<lb/>
+lands.    low bottom on Stard. Side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a Stard. Bend    psd. an Island and Stoney bar</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° E</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">mile to a Clift on the Lard. Side    Islands on Stbd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 54° E</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">mile to the lower point of the near the Stard Side    passed<lb/>
+the upper point of an Island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">miles to a high white clif on the Lard Side    passed 2 Stony<lb/>
+Islands</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">6</cell>
+                        <cell role="data" rows="1" cols="1">mils to the 〈lower part of a large Island Seperated from<lb/>
+the Stard. Shore by a narrow Chanel〉    Enteranc of a Small<lb/>
+brook Std Sd. Passed three Islands and the upper part of<lb/>
+the 4th near th Lard.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">miles to the 〈upper〉 lower pts of an Island close to the Lard<lb/>
+Side. behind which a large Creek falls in on the Lard Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 60° E</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">miles to a tree 〈on〉 und. the Lard. Clifts    a Clift on th Lard<lb/>
+Sid</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">miles to a large tree in a Std Bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 35° E</cell>
+                        <cell role="data" rows="1" cols="1">4 〈5?〉</cell>
+                        <cell role="data" rows="1" cols="1">miles to Lard. Bend    passed a Clift on the Stard. at 2 mile.<lb/>
+Small Bays Ld.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to the lower pt. of an Isld.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 35 E.</cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                        <cell role="data" rows="1" cols="1">mils to a Clift in the Lard. bend</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">½</cell>
+                        <cell role="data" rows="1" cols="1">a mile to enterance of <name type="place" key="Bighorn (Ar-sar-ta) River">Big horn river</name> on the Stard Side<lb/>
+220 yards wide from 5 to 7 feet deep quite across.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+I walked up the <name type="place" key="Bighorn (Ar-sar-ta) River">bighorn</name> and took the following Courses    viz.</p>
+               <p>
+                  <table rows="3" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 35° E</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">miles to a low clift on the right    passed a point on the right<lb/>
+at 1 ½ miles    a island close to the left side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 61° E</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">miles to a high band of a 2d Bottom in a left hand bend<lb/>
+passed Some high waves on the right hand Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 38° W.</cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">miles to a right hand Bend    passed a large Creek of very<lb/>
+Muddly water from the left at one mile.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>	
+The bottoms of this river wide and Covered with timber. The current Swift and tareing away its bank in each bend with extensive Sand points. less 〈grave〉 large gravle than the <name type="place" key="Yellowstone River">rochejhone</name>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-07-26.03" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Saturday 26th July 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+Set out this morning very early    proceeded on    Passed Creeks [<hi rend="italic">NB: <name type="place" key="Cow Gulch (Hall's River, Little Wolf Creek)">Hall's N. Side</name>
+                  </hi>]<ref target="n37072613" n="13"/> very well. the Current of the river reagulilarly Swift much divided by Stoney islands and bars also handsome Islands Covered with Cotton wood the bottoms extensive on the Stard. Side on the Lard.    the Clifts of high land border the river, those clifts are composed of a whitish rock of an excellent grit for Grindstones.<ref target="n37072614" n="14"/> The Country back on each Side is wavering lands with Scattering pine.    passed 2 Small Brooks on the Stard. Side and two large ones on the Lard. Side.<ref target="n37072615" n="15"/> I shot a Buck from the Canoe and killed one other on a Small Island. and late in the evening passed a part of the river which was rock under the Lard. Clifts    fortunately for us we found an excellent Chanel to pass down on the right of a Stony Island half a mile below this bad place, we arived at the enterance of <name type="place" key="Bighorn (Ar-sar-ta) River">Big Horn River</name> on the Stard. Side.<ref target="n37072616" n="16"/>    here I landed imediately in the point which is a Sof mud mixed with the Sand<ref target="n37072617" n="17"/> and Subject to overflow for Some distance back in between the two rivers. I walked up the <name type="place" key="Bighorn (Ar-sar-ta) River">big horn</name> ½ a mile and crossed over to the lower Side, and formed a Camp on a high point.<ref target="n37072618" n="18"/> I with one of my men <name type="person" key="Labiche, François">Labeech</name> walked up the N E Side of <name type="place" key="Bighorn (Ar-sar-ta) River">Big horn river</name> 7 miles to th enterance of a Creek which falls in on the N E. Side and is 28 yds wide    Some running water which is very muddy this Creek I call <name type="place" key="Tullock (Muddy) Creek">Muddy Creek</name>
+                  <ref target="n37072619" n="19"/> Some fiew miles above this Creek the river bent around to the East of South.<ref target="n37072620" n="20"/> The Courses as I assended it as follows    Viz:</p>
+               <p>
+                  <table rows="3" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 35° E.</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">miles to a low Clift on the right    passed a point on the right<lb/>
+at 1 ½ Ms. an island Situatd. close to the left hand Shore.<lb/>
+under this Clift is Some Swift rapid water and high waves</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 61° E.</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">miles to a high bank of a Second bottom in the left hand<lb/>
+bend    passed head of the isld.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 38° W.</cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">miles to a right hand bend, passing a large Creek of muddly<lb/>
+water on the left side at 1 mile, opposit a Sand bar from the<lb/>
+right.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+The bottoms of the <name type="place" key="Bighorn (Ar-sar-ta) River">Big Horn river</name> are extencive and Covered with timber principally Cotton.    it's Current is regularly Swift, like the <name type="place" key="Missouri River">Missouri</name>, it washes away its banks on one Side while it forms extensive Sand bars on the other. Contains much less portion of large gravel than the <name type="place" key="Yellowstone River">R: Rochjhone</name> and its water more mudy and of a brownish colour, while that of the <name type="place" key="Yellowstone River">rochejhone</name> is of a lightish Colour.<ref target="n37072621" n="21"/>    the width of those two rivers are very nearly the Same imediately at their enterances the river <name type="place" key="Yellowstone River">Rochejhone</name> much the deepest and contain most water. I measured the debth of the <name type="place" key="Bighorn (Ar-sar-ta) River">bighorn</name> quit across a ½ mile above its junction and found it from 5 to 7 feet only while that of the <name type="place" key="Yellowstone River">River [<hi rend="italic">NB: roche jaune</hi>]</name> is in the deepest part 10 or 12 feet water    on the lower Side of the <name type="place" key="Bighorn (Ar-sar-ta) River">bighorn</name> is extencive boutifull and leavil bottom thinly covered with Cotton wood under which there grows great quantities of rose bushes.<ref target="n37072622" n="22"/> I am informed by the <name type="place" key="Hidatsa Indians">
+                     <hi rend="italic">Menetarres</hi> Indians</name> and others that this River takes its rise in the <name type="place" key="Rocky Mountains">Rocky mountains</name> with the heads of the river plate and at no great distance from the river <name type="place" key="Yellowstone River">Rochejhone</name> and passes between the Coat Nor or Black Mountains and the most Easterly range of <name type="place" key="Rocky Mountains">Rocky Mountains</name>.<ref target="n37072623" n="23"/>    it is very long and Contains a great perpotion of timber on which there is a variety of wild animals, perticularly the big horn which are to be found in great numbers on this river.    [<hi rend="italic">NB: 2 large forks come in on Sth. &amp; 1 on North</hi>]<ref target="n37072624" n="24"/>    Buffalow, Elk, Deer and Antelopes are plenty and the river is Said to abound in beaver.    it is inhabited by a great number of roveing Indians of the <name type="native_nation" key="Crow Indians">Crow</name> Nation, the paunch Nation [<hi rend="italic">NB: a band of <name type="native_nation" key="Crow Indians">Crows</name>
+                  </hi>]<ref target="n37072625" n="25"/> and the <name type="native_nation" key="Castahana Indians">Castahanas</name> [<hi rend="italic">NB: a band of <name type="native_nation" key="Shoshone Indians">Snake In.</name>
+                  </hi>]<ref target="n37072626" n="26"/>    all of those nations who are Subdivided rove and prosue the Buffalow of which they make their principal food, their Skins together with those of the Big horn and Antilope Serve them for Clothes. This river is Said to be navagable a long way for perogus without falls and waters    a fine rich open 〈200 yds wide〉 Country.    it is 200 yds water &amp; ¼ of a Me. wd. I returned to Camp a little after dark, haveing killed one deer, finding my Self fatigued went to bead without my Supper. <name type="person" key="Shields, John">Shields</name> killed 2 Bull &amp; 3 Elk.</p>
+               <p>
+                  <table rows="41" cols="4">
+                     <head>
+                        <hi rend="italic">Courses distances &amp; remarks July 26th</hi> 1806</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">M</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 18° E.</cell>
+                        <cell role="data" rows="1" cols="1">to a point on the Stard. Side, passed a low narrow is</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">6</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">land on the Stard. and Som bars near the Lard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 57° E.</cell>
+                        <cell role="data" rows="1" cols="1">to a point on the Stard Side.    passed an island and 4</cell>
+                        <cell role="data" rows="4" cols="1">}</cell>
+                        <cell role="data" rows="4" cols="1">6</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Stoney bars.    also a large Creek 40 Yds wide I call</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Cow Gulch (Hall's River, Little Wolf Creek)">Halls R</name>
+                           <ref target="n37072627" n="27"/> on the Lard. Side at 4 miles.    but little</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">water</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">4 Miles to a Clift under a high pine hill on the Stard.</cell>
+                        <cell role="data" rows="4" cols="1">}</cell>
+                        <cell role="data" rows="4" cols="1">4</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Side.    passed a Small Creek on the Stard. at 1 mile</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">and the Lard    Clift opsd. the head of an Isld. at 2</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Miles on this course</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 12° E.</cell>
+                        <cell role="data" rows="1" cols="1">to a clift of white rocks on the Lard. Side,<ref target="n37072628" n="28"/> passed the</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">3 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">island and 2 Stoney bars</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">to clift of rocks on the Stard. Side    passed several</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">5</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">bars or islands</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 45° E.</cell>
+                        <cell role="data" rows="1" cols="1">to a high clift on the Lard. Side opposit Several Small</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">2 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">islands. Chanel of the river much divided.    passed</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">2 Small Islands.    low bottoms on the Stard Side rocky</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Clifts on Lard side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. Bend    passed an island &amp; a Stony bar</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° E.</cell>
+                        <cell role="data" rows="1" cols="1">to a clift on the Lard Side  Island on Stard. Side</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 54° E.</cell>
+                        <cell role="data" rows="1" cols="1">to the lower point of the island near the Stard. Side.</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">1 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">passed the upper point of an island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">to a high White Clift on the Lard. Side haveing passed</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">4</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">two Stoney Islands</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">to the enterance of a Small brook on the Stard.    passed</cell>
+                        <cell role="data" rows="2" cols="1">}</cell>
+                        <cell role="data" rows="2" cols="1">6</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">3 islands and the upper point of the 4th near Lard.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">to the lower point of an island Close to the lard. Side</cell>
+                        <cell role="data" rows="3" cols="1">}</cell>
+                        <cell role="data" rows="3" cols="1">4</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">back of which a large Creek falls in on the Lard Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Island brook<ref target="n37072629" n="29"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 60° E.</cell>
+                        <cell role="data" rows="1" cols="1">to a tree under a Lard. Clift  passed a Std. Clift</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">to a large tree in the Stard. Bend</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 35° E.</cell>
+                        <cell role="data" rows="1" cols="1">to a Lard. Bend    passed the Stard. Clift at 2 Miles.</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">to the lower [SW?] point of an island</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 35° E.</cell>
+                        <cell role="data" rows="1" cols="1">to a clift in a lard. Bend under which there is a rapid.</cell>
+                        <cell role="data" rows="3" cols="1">}</cell>
+                        <cell role="data" rows="3" cols="1">2 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">a gravelly bar opposit on the S. E of which there is a</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">good Chanel.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">East</cell>
+                        <cell role="data" rows="1" cols="1">to the junction of <name type="place" key="Bighorn (Ar-sar-ta) River">
+                              <hi rend="italic">Big horn</hi> River</name> on the Stard.    220</cell>
+                        <cell role="data" rows="3" cols="1">}</cell>
+                        <cell role="data" rows="3" cols="1">
+                           <hi rend="underline">   ½</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">yards wide    from 5 to 7 feet deep quit across, and</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">encamped on the lower side    bottom subject to floods</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">Miles</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">62</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-07-26.04" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Saturday 26th July 1806.    a wet disagreeable morning.    an Indn. dog came about our Camp    we gave him Some meat.    the <name type="place" key="Belt (Portage) Creek">portage River</name> too high to waid but is falling fast. <name type="person" key="Colter, John">Colter</name> &amp; <name type="person" key="Potts, John">Potts</name> went at running the canoes down the rapids to the white perogue near the carsh.<ref target="n37072630" n="30"/>    the rest of us returned to <name type="place" key="Willow Creek (Glacier County, Mont.)">willow Creek</name> took on the other large canoe and halted to asist the horses as the truck wheels Sank in the mud nearly to the hub. <name type="person" key="Cruzatte, Pierre">Cruzatte</name> killed a buffaloe    we took the best of the meat and returned with much hard fatigue to portage River and got the canoes and all the baggage down to the white perogue and Camped having got the carsh opened and all brought to
+the White perogue &amp; all Safe &amp;C.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-07-26.05" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 26th.</hi>    The morning was cloudy. Eight of us went back to <name type="place" key="Willow Creek (Glacier County, Mont.)">Willow creek</name> for the other canoe, and the rest of the party<ref target="n37072631" n="31"/> were employed in taking down the canoes and baggage to the lower end of the portage, where the periogue had been left.<ref target="n37072632" n="32"/> It rained very hard all night, which has made the 
+plains so muddy, that it is with the greatest difficulty we can get along with the canoe; though in the evening, after a hard day's labour, we got her safe to Portage river, and the men run her down to the lower landing place, 
+where we encamped. A few drops of rain fell in the course of the day.
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n37072601" n="1">
+               <name type="place" key="Willow Creek (Glacier County, Mont.)">Willow Creek</name>, a tributary of <name type="place" key="Cut Bank Creek (North Branch of Marias River)">Cut Bank Creek</name>, in <name type="place" key="Glacier County, Mont.">Glacier County</name>, <name type="place" key="Montana">Montana</name>.</note>
+            <note xml:id="n37072602" n="2">
+               <name type="place"
+                     key="Two Medicine River (Main or South Branch Marias River)">Two Medicine River</name>, in <name type="place" key="Glacier County, Mont.">Glacier County</name>.</note>
+            <note xml:id="n37072603" n="3">
+               <name type="place" key="Badger Creek (Mont.)">Badger Creek</name>, meeting <name type="place"
+                     key="Two Medicine River (Main or South Branch Marias River)">Two Medicine River</name> in <name type="place" key="Glacier County, Mont.">Glacier County</name>. Just below its mouth the party passed into <name type="place" key="Pondera County, Mont.">Pondera County</name>, <name type="place" key="Montana">Montana</name>.</note>
+            <note xml:id="n37072604" n="4">That is, about one mile below the mouth of <name type="place" key="Badger Creek (Mont.)">Badger Creek</name>, on <name type="place"
+                     key="Two Medicine River (Main or South Branch Marias River)">Two Medicine River</name> in <name type="place" key="Pondera County, Mont.">Pondera County</name>. Actually, the general course of the river is a little south of east in this area.</note>
+            <note xml:id="n37072605" n="5">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> makes an astute ecological observation; the three major cottonwood species typical of the plains, the <name type="place" key="Rocky Mountains">Rocky Mountains</name>, and the <name type="place" key="Pacific Coast">Pacific Coast</name> all occur together here in the eastern foothills of the <name type="place" key="Rocky Mountains">Rocky Mountains</name>. The species of the <name type="place" key="Columbia River">Columbia</name> is black cottonwood, the "narrow [leafed]" is narrowleaf cottonwood, and the "broad leafed" is plains cottonwood. Cf. Cutright (LCPN), 316, 316 n. 7.</note>
+            <note xml:id="n37072606" n="6">Swift fox, <hi rend="italic">Vulpes velox.</hi> See <ref n="1805-07-06" type="related">July 6</ref> and <ref n="1805-07-08" type="related">8</ref>, 1805.</note>
+            <note xml:id="n37072607" n="7">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> intended to follow <name type="place"
+                     key="Two Medicine River (Main or South Branch Marias River)">Two Medicine River</name> to its junction with <name type="place" key="Cut Bank Creek (North Branch of Marias River)">Cut Bank Creek</name>, then head southeasterly to <name type="place" key="Teton (Rose, Tansy) River">Teton River</name> and follow that stream down to the junction with the <name type="place" key="Marias River">Marias</name>.</note>
+            <note xml:id="n37072608" n="8">This conversation almost certainly was in sign language. Actually these Indians were <name type="native_nation" key="Blackfeet Indians, Piegan">Piegans</name>, members of one of the three main divisions of the <name type="native_nation" key="Blackfeet Indians">Blackfeet</name> confederation, the other two being the <name type="native_nation" key="Blackfeet Indians, Blood">Bloods</name> and the <name type="native_nation" key="Blackfeet Indians, Blackfeet proper">Blackfeet proper</name>. They were an Algonquian-language people who had evidently moved west onto the high plains centuries before. In the eighteenth century they acquired the horse and became a classic example of the bison-hunting nomads of the <name type="place" key="Great Plains">Great Plains</name>. In 1754 Anthony Hendry, or Henday, a Hudson's Bay Company trader, was the first white man to make direct contact with these people, in <name type="place" key="Canada">Canada</name>. Equipped with horses and traders' guns, by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark's</name> time they had become "the dominant military power on the northwestern plains, feared by all neighboring tribes." Their range straddled the present U.S.-Canadian boundary in southern <name type="place" key="Alberta">Alberta</name> and northwest <name type="place" key="Montana">Montana</name>. Relatively friendly toward Canadian traders, they became notorious for their enmity toward the American mountain men. Some writers have traced the origin of this hostility to these <name type="native_nation" key="Blackfeet Indians, Piegan">Piegans'</name> violent encounter with <name type="person" key="Lewis, Meriwether">Lewis's</name> party, but it is just as likely to have arisen because the <name type="native_nation" key="Blackfeet Indians">Blackfeet</name> resented the Americans trading firearms to their enemies, like the <name type="native_nation" key="Shoshone Indians">Shoshones</name>, <name type="native_nation" key="Crow Indians">Crows</name>, <name type="native_nation" key="Flathead Indians">Flatheads</name>, and <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>. Today some of the <name type="native_nation" key="Blackfeet Indians">Blackfeet</name> live on the <name type="place" key="Blackfeet Reservation (Mont.)">Blackfeet Reservation</name> in northwest <name type="place" key="Montana">Montana</name>, and others on reserves in <name type="place" key="Canada">Canada</name>. Many years after the encounter with <name type="person" key="Lewis, Meriwether">Lewis</name>, <name type="person" key="Wolf Calf">Wolf Calf</name>, supposedly a member of this <name type="native_nation" key="Blackfeet Indians, Piegan">Piegan</name> party, gave an account of the episode which was printed in Wheeler, 2:311–12. Ewers (BRNP); Ronda (LCAI), 243–44; Bradley (MS), 135.</note>
+            <note xml:id="n37072609" n="9">This campsite was in <name type="place" key="Pondera County, Mont.">Pondera County</name>, on the <name type="place" key="Blackfeet Reservation (Mont.)">Blackfeet Reservation</name>, along the south side of <name type="place"
+                     key="Two Medicine River (Main or South Branch Marias River)">Two Medicine River</name> about four miles below the mouth of <name type="place" key="Badger Creek (Mont.)">Badger Creek</name> and downstream from <name type="place" key="Kipps Coulee">Kipps Coulee</name>, about one and one-half miles south of the <name type="place" key="Glacier County, Mont.">Glacier</name>-<name type="place" key="Pondera County, Mont.">Pondera</name> county line and some fourteen miles southwest of the town of <name type="place" key="Cut Bank, Mont.">Cut Bank</name>. A spot identified as the actual site has been marked in recent years based largely on the work of Helen West, along with Robert Anderson, and Ed Mathison in 1964 (see West). A more recent study by Bergantino casts doubts on the marked site being the actual spot of the camp of July 26–<ref n="1806-07-27" type="related">27</ref>, 1806. The limitations of <name type="person" key="Lewis, Meriwether">Lewis's</name> journal comments, course and distance references, and compass sightings, along with the similarity of terrain in the area opens the possibility that other nearby spots may be likely competitors for the designation. Due to the difficulties involved, an incontestible locating of the site may never be made. The same can be said for pinpointing most <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> camps.</note>
+            <note xml:id="n37072610" n="10">Three very old cottonwoods were standing in the location West identified as the campsite. Their proximity to the marked site seemed to validate the designation. Nevertheless, the results of borings have been inconclusive and the trees cannot be positively identified as the ones <name type="person" key="Lewis, Meriwether">Lewis</name> mentions. The trees presently suffer from heart rot and were partially burned some years ago.</note>
+            <note xml:id="n37072611" n="11">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> probably means "hemispherical"; skins thrown over a rough dome formed of branches made a type of temporary shelter common to many Western tribes.</note>
+            <note xml:id="n37072612" n="12">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> estimated distance would take one to the <name type="place" key="Bow River">Bow River</name> in <name type="place" key="Alberta">Alberta</name>, where there was a North West Company post reportedly abandoned in 1804. However, the company's principal post for the <name type="native_nation" key="Blackfeet Indians">Blackfeet</name> trade was <name type="place" key="Rocky Mountain House">Rocky Mountain House</name>, founded in 1799 on the <name type="place" key="North Saskatchewan River">North Saskatchewan River</name>, near the site of the present <name type="place" key="Alberta">Alberta</name> community of the same name. That would be a distance of some 240 miles from <name type="person" key="Lewis, Meriwether">Lewis's</name> current location, a considerable journey to make in six days even for these mobile people. Innis, 234; Coues (NLEH), 2:705; Ewers (BRNP), 31; Glover, 79 n. 1.</note>
+            <note xml:id="n37072613" n="13">Given as both <name type="place" key="Cow Gulch (Hall's River, Little Wolf Creek)">"Halls 〈dry〉 River" and "Little Wolf C"</name> on <hi rend="italic">Atlas</hi> map 110, and <name type="place" key="Cow Gulch (Hall's River, Little Wolf Creek)">"Halls creek"</name> on <hi rend="italic">Atlas</hi> map 117, after <name type="person" key="Hall, Hugh">Hugh Hall</name> of the party. It is present <name type="place" key="Cow Gulch (Hall's River, Little Wolf Creek)">Cow Gulch</name>, meeting the <name type="place" key="Yellowstone River">Yellowstone River</name> in <name type="place" key="Yellowstone County, Mont.">Yellowstone County</name>, <name type="place" key="Montana">Montana</name>, some five miles northeast of the village of <name type="place" key="Pompeys Pillar (Pompy's Tower)">Pompeys Pillar</name>.</note>
+            <note xml:id="n37072614" n="14">Again, the light-colored, silty sandstone in the <name type="place" key="Hell Creek Formation">Hell Creek Formation</name>.</note>
+            <note xml:id="n37072615" n="15">There are several small streams on the starboard (south) side of the <name type="place" key="Yellowstone River">Yellowstone</name> in this area, some now having names, some not. The first, unnamed and a little beyond "<name type="place" key="Cow Gulch (Hall's River, Little Wolf Creek)">Halls River</name>" on the opposite side on <hi rend="italic">Atlas</hi> maps 110 and 117, may be present <name type="place" key="Kaiser Creek">Kaiser Creek</name> in <name type="place" key="Yellowstone County, Mont.">Yellowstone County</name>. The second, also unnamed and a little upstream from "<name type="place" key="Sand Creek (Yellowstone County, Mont.)">Island Brook</name>" on the <hi rend="italic">Atlas</hi> maps, is perhaps <name type="place" key="Sand Creek (Yellowstone County, Mont.)">Sand Creek</name> in <name type="place" key="Yellowstone County, Mont.">Yellowstone County</name> above <name type="place" key="Dugout Coulee (Buffalo Creek)">Buffalo Creek</name>. The first large creek, which does not appear on the <hi rend="italic">Atlas</hi> maps, may be <name type="place" key="Hibbard Creek">Hibbard Creek</name>, in <name type="place" key="Yellowstone County, Mont.">Yellowstone County</name>. The second, <name type="person" key="Clark, William">Clark's</name> "<name type="place"
+                     key="Buffalo Creek (Island Brook) (Yellowstone County, Mont.)">Island Brook</name>," would be <name type="place"
+                     key="Buffalo Creek (Island Brook) (Yellowstone County, Mont.)">Buffalo Creek</name> in <name type="place" key="Yellowstone River">Yellowstone County</name>.</note>
+            <note xml:id="n37072616" n="16">The <name type="place" key="Bighorn (Ar-sar-ta) River">Bighorn River</name> forms the <name type="place" key="Yellowstone County, Mont.">Yellowstone</name>-<name type="place" key="Treasure County, Mont.">Treasure</name> county line where it reaches the <name type="place" key="Yellowstone River">Yellowstone River</name>, a mile or so above the present village of <name type="place" key="Bighorn, Mont.">Bighorn</name>. <hi rend="italic">Atlas</hi> maps 110, 117, 118.</note>
+            <note xml:id="n37072617" n="17">The <name type="place" key="Bighorn (Ar-sar-ta) River">Bighorn River</name> flows across a large exposure of shales of the <name type="place" key="Colorado Group">Colorado Group</name> after leaving <name type="place" key="Bighorn Canyon">Bighorn Canyon</name>. These shales provide the dark color and mud to the river. The sand is all that remains of the rock transported beyond the mouth of the canyon.</note>
+            <note xml:id="n37072618" n="18">The camp was above the junction of the <name type="place" key="Bighorn (Ar-sar-ta) River">Bighorn River</name> with the <name type="place" key="Yellowstone River">Yellowstone</name> and on the stream's east in <name type="place" key="Treasure County, Mont.">Treasure County</name>. <hi rend="italic">Atlas</hi> maps 110, 118.</note>
+            <note xml:id="n37072619" n="19">This stream is <name type="place" key="Tullock (Muddy) Creek">Tullock Creek</name>, entering the <name type="place" key="Bighorn (Ar-sar-ta) River">Bighorn</name> from the southeast in <name type="place" key="Treasure County, Mont.">Treasure County</name>; on <hi rend="italic">Atlas</hi> maps 110 and 117 it is "<name type="place" key="Tullock (Muddy) Creek">Muddy Creek</name>" as in the journal entry, but on <name type="person" key="Clark, William">Clark's</name> map of 1810 (<hi rend="italic">Atlas</hi> map 125) it is "Horse River."</note>
+            <note xml:id="n37072620" n="20">The general course of the <name type="place" key="Bighorn (Ar-sar-ta) River">Bighorn River</name> going upstream is south or southwesterly; the bend that <name type="person" key="Clark, William">Clark</name> seems to be talking about is a small one.</note>
+            <note xml:id="n37072621" n="21">
+               <name type="person" key="Clark, William">Clark</name> here describes a typical fluvial cut and fill process. The water of the <name type="place" key="Bighorn (Ar-sar-ta) River">Bighorn River</name> is more muddy near its mouth than is the water of the <name type="place" key="Yellowstone River">Yellowstone</name> because the <name type="place" key="Bighorn (Ar-sar-ta) River">Bighorn</name> flows across a large exposure of shales of the <name type="place" key="Colorado Group">Colorado Group</name> after leaving <name type="place" key="Bighorn Canyon">Bighorn Canyon</name>. These shales provide most of the dark color and mud to the river.</note>
+            <note xml:id="n37072622" n="22">Western wild rose.</note>
+            <note xml:id="n37072623" n="23">Both main branches of the <name type="place" key="Platte River (Nebr.)">Platte</name> rise in the Colorado <name type="place" key="Rocky Mountains">Rockies</name>; some tributaries of the <name type="place" key="North Platte River">North Platte</name>, such as the <name type="place" key="Sweetwater River">Sweetwater River</name>, are relatively close to the upper <name type="place" key="Bighorn (Ar-sar-ta) River">Bighorn River</name> in <name type="place" key="Wyoming">Wyoming</name>. Some tributaries of the <name type="place" key="Bighorn (Ar-sar-ta) River">Bighorn</name> rise in the <name type="place" key="Absaroka Range">Absaroka Range</name>, which is east of the upper <name type="place" key="Yellowstone River">Yellowstone</name>. The "Black Mountains" in this case may be the <name type="place" key="Bighorn (Ar-sar-ta) River">Big Horn</name> and <name type="place" key="Rosebud Mountains">Rosebud mountains</name>, in agreement with <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark's</name> grouping of various outlying ranges of the <name type="place" key="Rocky Mountains">Rockies</name> as part of the <name type="place" key="Black Hills">Black Hills</name>.</note>
+            <note xml:id="n37072624" n="24">The two southern (more properly eastern) branches of the <name type="place" key="Bighorn (Ar-sar-ta) River">Bighorn</name> are probably the <name type="place" key="Little Bighorn River">Little Bighorn River</name>, always associated with Custer's defeat by the <name type="native_nation" key="Sioux Indians">Sioux</name> and other Indians in 1876, in <name type="place" key="Big Horn County, Mont.">Big Horn County</name>, <name type="place" key="Montana">Montana</name>, and <name type="place" key="Nowater Creek">Nowater Creek</name> in <name type="place" key="Big Horn County, Wyo.">Big Horn County</name>, <name type="place" key="Wyoming">Wyoming</name>. The principal tributaries on the western side are <name type="place" key="Shoshone Indians">Shoshone River</name> and <name type="place" key="Greybull River">Greybull River</name> in <name type="place" key="Big Horn County, Wyo.">Big Horn County</name>, <name type="place" key="Wyoming">Wyoming</name>, and <name type="place" key="Wind River (Wyo.)">Wind River</name> in <name type="place" key="Fremont County, Wyo.">Fremont County</name>, <name type="place" key="Wyoming">Wyoming</name>.</note>
+            <note xml:id="n37072625" n="25">The <name type="native_nation" key="Hidatsa Indians">Hidatsas</name> referred to the <name type="native_nation" key="Crow Indians">Crows</name> as "the people who refused the paunch." The "Paunch tribe" are No. 36 in the <ref n="1804-1805.winter.part2" type="related">Estimate of the Eastern Indians</ref>. See also <ref n="1804-11-12" type="related">November 12, 1804</ref>. Hodge, 1:44–45.</note>
+            <note xml:id="n37072626" n="26">The <name type="place" key="Castahana Indians">Castahanas</name> are No. 34 in the <ref n="1804-1805.winter.part2" type="related">Estimate of the Eastern Indians</ref>, where they are described as speaking the same language as the "Me na ta re (or big belly)" and are also called "Gens des Vache." The latter term commonly referred to the <name type="native_nation" key="Arapaho Indians">Arapahoes</name>, who spoke an Algonquian tongue. The captains used "<name type="native_nation" key="Hidatsa Indians">Minitare</name>," "<name type="native_nation" key="Hidatsa Indians">Big Belly</name>," and "<name type="native_nation" key="Hidatsa Indians">Gros Ventre</name>" to refer either to the <name type="native_nation" key="Hidatsa Indians">Hidatsas</name> or to the <name type="native_nation" key="Atsina Indians">Atsinas</name>. The latter are linguistically related to the <name type="native_nation" key="Arapaho Indians">Arapahoes</name>. If their principal hunting ground was on the upper <name type="place" key="Bighorn (Ar-sar-ta) River">Bighorn River</name>, we might assume them to be a division of the <name type="native_nation" key="Crow Indians">Crows</name>, whose Siouan language was similar to that of the <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>. "Gens des Vache" might be a mistake for "Gens de Panse" or <name type="native_nation" key="Crow Indians">Paunch Indians</name>, which would make them <name type="native_nation" key="Crow Indians">Crows</name> (see earlier note in this entry). Since <name type="person" key="Clark, William">Clark</name> did not meet them, his information may have derived either from <name type="person" key="Sacagawea">Sacagawea</name> or from his sources for the Estimate of Eastern Indians, that is, from the <name type="native_nation" key="Mandan Indians">Mandans</name>, <name type="native_nation" key="Hidatsa Indians">Hidatsas</name>, and white fur traders. Hyde (IHP), 184–85, speculates that they were a <name type="native_nation" key="Shoshone Indians">Shoshonean</name> group (hence "Snakes") who had been driven from the <name type="place" key="Bighorn (Ar-sar-ta) River">upper Bighorn</name> by the time of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>, and identifies them with the <name type="native_nation" key="Comanche Indians">Kwahari, or Kwahadi, Comanches</name>. Hodge, 1:44–45, 212.</note>
+            <note xml:id="n37072627" n="27">"I call <name type="place" key="Cow Gulch (Hall's River, Little Wolf Creek)">Halls R</name>" may be a later addition, interlined by <name type="person" key="Clark, William">Clark</name>.</note>
+            <note xml:id="n37072628" n="28">This is a light-colored, silty sandstone in the <name type="place" key="Hell Creek Formation">Hell Creek Formation</name>.</note>
+            <note xml:id="n37072629" n="29">"<name type="place"
+                     key="Buffalo Creek (Island Brook) (Yellowstone County, Mont.)">Island brook</name>" may be a later addition by <name type="person" key="Clark, William">Clark</name>.</note>
+            <note xml:id="n37072630" n="30">The white pirogue was hidden in the area of the lower portage camp below <name type="place" key="Belt (Portage) Creek">Belt Creek</name> on <ref n="1805-06-18" type="related">June 18, 1805</ref>.</note>
+            <note xml:id="n37072631" n="31">
+               <name type="person" key="Ordway, John">Ordway</name> says <name type="person" key="Colter, John">Colter</name> and <name type="person" key="Potts, John">Potts</name> ran the canoes down the rapids to the <name type="place" key="Lower portage camp">lower portage camp</name>.</note>
+            <note xml:id="n37072632" n="32">Where the white pirogue was hidden near the lower portage camp below <name type="place" key="Belt (Portage) Creek">Belt Creek</name>, <name type="place" key="Chouteau County, Mont.">Chouteau County</name>, <name type="place" key="Montana">Montana</name>, on <ref n="1805-06-18" type="related">June 18, 1805</ref>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-07-25" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-07-27" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-04-12">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+April 12, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 7</title>
+               <title level="m" type="sub">March 23–June 9, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1991</date>
+               <biblScope type="pages">111-115</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">290-291</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">209</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-04-12.01">
+            <placeName/>
+            <geo>45.6693 -121.8912</geo>
+            <note>Returned to the camp they inhabited on 10-30-1805, an island in Skamania County, WA.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-10-04</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-04-12">April 12, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-04-12.01" n="lc.geo.1806-04-12.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Saturday April 12th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+It rained the greater part of last night and still continued to rain this morning.    I therefore determined to take up the remaining perogue this morning for which purpose I took with me every man that could be of any service.    a small distance above our camp there is one of the most difficult parts of the rapid.    at this place the current sets with great violence against a projecting rock.    in hawling the perogue arround this point the bow unfortunately took the current at too great a distance from the rock, she turned her side to the stream and the utmost exertions of all the party were unable to resist the forse with which she was driven by the current, they were compelled to let loose the cord and of course both perogue and cord went a drift with the stream.    the loss of this perogue will I fear compell us to purchase one or more canoes of the indians at an extravegant price.    after breakfast all hands were employed in taking our baggage over the portage.    we caused all the men who had short rifles to carry them,<ref target="n31041201" n="1"/> in order to be prepared for the natives should they make any attempts to rob or injure them. I went up to the head of the rapids and left <name type="person" key="Clark, William">Capt. C.</name> below.    during the day I obtained a vocabulary of the language of the <name type="native_nation" key="Watlala Indians">War-clel-lars</name> &amp;c. I found that their numbers were precisely those of the <name type="native_nation" key="Chinook Indians">Chinnooks</name> but the other parts of their language essentially different.<ref target="n31041202" n="2"/>    by 5 P. M. we had brought up all our baggage and <name type="person" key="Clark, William">Capt. C.</name> joined me from the <name type="place" key="Lower portage camp">lower camp</name> with the <name type="native_nation" key="Cascade Indians">Clahclellah</name> cheif. there is an old village<ref target="n31041203" n="3"/> situated about halfway on the portage road 〈there is an old village〉; the fraim of the houses, which are remarkably large one 160 by 45 feet, remain almost entire.    the covering of the houses appears to have been sunk in a pond back of the village.    this the chief informed us was the residence occasionally of his tribe.    these houses are fraimed in the usual manner but consist of a double set as if oune house had been built within the other.    the floors are on a level with the ground.    the naives did not croud about us in such numbers today as yesterday, and behaved themselves much better; no doubt the precautions which they observed us take had a good effect. I employed sergt. <name type="person" key="Pryor, Nathaniel Hale">Pryor</name> the greater part of the day in reparing and corking the perogue and canoes.    it continued to rain by showers all day.    about 20 of the <name type="native_nation" key="Yehuh Indians">Y-eh-huhs</name> remained with me the greater part of the day and departed in the evening.    they conducted themselves with much propryety and contemned the conduct of their relations towards us. We purchased one sheepskin for which we gave the skin of an Elk and one of a deer.    this animal was killed by the man who sold us the skin near this place; he informed us that they were abundant among the mountains and usually resorted the rocky parts.    the big horned animal<ref target="n31041204" n="4"/> is also an inhabitant of these mountains. I saw several robes of their skins among the natives.— as the evening was rainy cold and far advanced and ourselves wet we determined to remain all night.<ref target="n31041205" n="5"/>    the mountains are high steep and rocky. the rock is principally black.<ref target="n31041206" n="6"/>    they are covered with fir of several speceis and the white cedar.<ref target="n31041207" n="7"/>    near the river we find the Cottonwood, sweet willow, broad leafed ash, a species of maple,<ref target="n31041208" n="8"/> the purple haw,<ref target="n31041209" n="9"/> a small speceis of cherry;<ref target="n31041210" n="10"/> purple currant,<ref target="n31041211" n="11"/> goosberry,<ref target="n31041212" n="12"/> red willow, vining and white burry honeysuckle,<ref target="n31041213" n="13"/> huckkle burry, sacacommis, two speceis of mountain holley,<ref target="n31041214" n="14"/> &amp; common ash.<ref target="n31041215" n="15"/>    for the three last days this inclusive we have made only 7 miles.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-12.02" n="lc.geo.1806-04-12.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Saturday April 12th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+rained the greater part of the last night and this morning untile 10 A. M.    we employed all hands in attempting to take up the lost Canoe. in attempting to pass by a rock against which the Current run with emence force, the bow unfortunately took the Current at too great a distance from the rock, She turned broad Side to the Stream, and the exertions of every man was not Sufficient to hold her.    the men were Compelled to let go the rope and both the Canoe and rope went with the Stream.    the loss of this Canoe will I fear Compell us to purchase another at an extravigent price.    after brakfast all hands who were employed in Carrying the baggage over the portage 1½ miles which they performed by 4 P. M.    the nativs did not visit us in Such Crouds to day as yesterday.    we Caused all the men of the party who ha Short guns to carry them on the portage for fear of Some attempt on the part of the nativs to rob the party. The rain Continued at intervales all day.    in the evening after everry thing was taken from the <name type="place" key="Lower portage camp">lower Camp</name> I Set out myself accompanied by the Cheif of the <name type="native_nation" key="Cascade Indians">Clah-clal lars</name> to the head of the portage.    as we passed the remains of an old Village about half way the portage, this Cheif informed me that this old Village had been the residence of his Tribe dureing the last Salmon Season.    this village I mentiond in decending this river, but did not know the Tribes that had inhabited it that time. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> took a vocabulary of the languge of those people whilst I had all the baggage taken across the portage &amp; we formed a Camp at the place we had encamped on our way down.</p>
+               <p>
+at my arival at the head of the portage found about 20 of the natives of the <name type="native_nation" key="Cascade Indians">
+                     <hi rend="italic">Wy ach hich</hi>
+                  </name> tribe who reside above the rapids, with <name type="person" key="Lewis, Meriwether">Capt Lewis</name>. those people appeared much better disposed towards us than either the <hi rend="italic">
+                     <name type="native_nation" key="Cascade Indians">Clahclallah</name>
+                  </hi> or <hi rend="italic">
+                     <name type="native_nation" key="Watlala Indians">Wahclellah</name>
+                  </hi> and Condemn their Conduct much. Those tribes I believe to be all the Same Nation their Language habits manners dress &amp;c. are presisely alike and differ but little from those below the <name type="place" key="Columbia River, Great Falls of the">Great 〈Falls〉 Narrows</name> of this river. I observed a woman with a Sheep Skin robe on which I purchased for one Elk and one deer Skin.    the father of this woman informed me that he had killed the animal off of which he had taken this Skin on the mountains imediately above his village, and that on those mountains great numbers of those animals were to be found in large flocks among the Steep rocks. I also purchased 2 pieces of Chapellell and Some roots of those people.    as the evening was rainey and ourselves and party wet we Concluded to delay untill the morning and dry our selves. The Indians left us about 6 P M and returned to their Village on the opposit Side.    mountains are high on each Side and Covered with Snow for about ⅓ of the way down.    the growth<ref target="n31041216" n="16"/> is principally fir and White Cedar.    the bottoms and low Situations is Covered with a variety Such as Cotton, large leafed ash, Sweet willow a Species of beech, alder, white thorn, cherry of a Small Speces, Servis berry bushes, Huckleberries bushes, a Speces of Lorel &amp;c. &amp;c. I saw a turkey buzzard which is the 3rd which I have Seen west of the <name type="place" key="Rocky Mountains">rocky mountains</name>.    the 1st was on the 7 inst. above quick <name type="place" key="Sandy (Quicksand) River">Sand river</name>.    for the three last days this inclusive we have made 7 miles only.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-12.03" n="lc.geo.1806-04-12.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Saturday 12th of April 1806.    a rainy wet morning.    all the party except a guard went with <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> to take up the other large canoe.    we got it under way verry well but She took a Swing on us and broke away and rid the high waves down the rapids.    then all hands went at packing the baggage
+past the portage which is 1½ miles.    carried it all up at 4 loads a peace towards evening to everry thing to the head of the portage and Campd. for the night.    our officers finding that the natives do not incline to Sell their canoes So they divided the baggage &amp; men among the 4 canoes.    a number of the natives visited us.    one of the Squaws told us in the Clatsop tongue that She had Slept with the white tradors &amp;c.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-12.04" n="lc.geo.1806-04-12.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 12th.</hi>    This morning was wet. We all set out to take the other canoe over; but after we had fastened the rope to her she swung out into the current, which was so strong, that it pulled the rope out of the men's hands and went down the river.— We then went to carry our baggage across the 
+portage, which was a very fatiguing business; but about sunset, we got all over. It rained at intervals all day; and upon the very high mountains on the south side of the river,<ref target="n31041217" n="17"/> snow fell and continued on the trees and rocks during the whole of the day. We had a number of the natives about us in the day 
+time; but they left us at night. We encamped, all excessively fatigued, at the upper end of the portage.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n31041201" n="1">The U.S. Model 1803 rifle (see <ref n="1804-05-10" type="related">May 10, 1804</ref>); if they were to be carried by men transporting they were probably equipped with slings. Russell (GEF), 176–82; Russell (FTT), 38–41.</note>
+            <note xml:id="n31041202" n="2">The <name type="native_nation" key="Watlala Indians">Watlalas</name> (<name type="native_nation" key="Watlala Indians">Wahclellahs</name>) spoke a Chinookan dialect. See <ref n="1805-11-02" type="related">November 2, 1805</ref>.</note>
+            <note xml:id="n31041203" n="3">Presumably the "old village of verry large houses" on <hi rend="italic">Atlas</hi> maps 78 and 79, in <name type="place" key="Skamania County, Wash.">Skamania County</name>, <name type="place" key="Washington">Washington</name>, in the vicinity of the <name type="place" key="Bridge of the Gods">Bridge of the Gods</name>, noted by <name type="person" key="Clark, William">Clark</name> on <ref n="1805-10-30" type="related">October 30, 1805</ref>. The village corresponds to the <name type="place" key="Ice House Lake site">Ice House Lake archaeological site</name>. Archaeological testing indicates that occupation at this locality began about 500 years ago and continued at least untill 1855, being abandoned after an Indian uprising in 1856. The village was called <name type="place" key="Wahlala village">Wahlala</name> ("their lake"). With the decline in the native population and subsequent amalgamation into fewer groups, the identity of this and other <name type="native_nation" key="Cascade Indians">Chinookan bands (Wy-ach-hich, Clahclellah)</name> was gradually lost, with the survivors becoming known simply as the <name type="place" key="Cascade Indians">Cascades Indians</name>. Minor (IHL); Spier &amp; Sapir, 167, 172.</note>
+            <note xml:id="n31041204" n="4">Bighorn sheep, <hi rend="italic">Ovis canadensis;</hi> see <ref n="1805-05-25" type="related">May 25, 1805</ref>.</note>
+            <note xml:id="n31041205" n="5">Evidently at the camp of October 30-31, 1805, on a small island just above the narrows, in <name type="place" key="Skamania County, Wash.">Skamania County</name>. See <name type="person" key="Clark, William">Clark's</name> entry of this day. <hi rend="italic">Atlas</hi> maps 78, 79.</note>
+            <note xml:id="n31041206" n="6">The rocks in this area are dark brown to black basalts of the Grande Ronde Basalt of lower-middle Miocene age and basalts of a slightly different age. Both types of rock belong to the <name type="place" key="Columbia River">Columbia River</name> Basalt Group. From this to the end of the entry runs a red vertical line, perhaps set down by <name type="person" key="Biddle, Nicholas">Biddle</name>.</note>
+            <note xml:id="n31041207" n="7">The dominant species of this upland forest are, indeed, Douglas fir, western hemlock, and western redcedar.</note>
+            <note xml:id="n31041208" n="8">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> describes the dominant and understory, woody, riparian species of this region of the <name type="place" key="Columbia River">Columbia</name>. The maple may be vine maple, <hi rend="italic">Acer circinatum</hi> Pursh. Hitchcock et al., 3:411–12; Little (MWH), 8.</note>
+            <note xml:id="n31041209" n="9">Black hawthorn, <hi rend="italic">Crataegus douglasii</hi> Lindl., an expedition discovery. Little (MWH), 59-NW; Hitchcock et al., 3:101; Cutright (LCPN), 288–89, 407.</note>
+            <note xml:id="n31041210" n="10">The bitter cherry, <hi rend="italic">Prunus emarginata</hi> Dougl., is the most common cherry west of <name type="place" key="Cascade Range">the Cascades</name>, along with the choke cherry, <hi rend="italic">P. virginiana</hi> L., which is found mostly east of <name type="place" key="Cascade Range">the Cascades</name> within the <name type="place" key="Columbia Gorge">Columbia Gorge</name> region. <name type="person" key="Lewis, Meriwether">Lewis's</name> detailed discussion of the bitter cherry is at <ref n="1806-06-07" type="related">June 7, 1806</ref>. Little (MWH), 122-W, 127-NW; Hitchcock et al., 3:158–59.</note>
+            <note xml:id="n31041211" n="11">Probably the red flowering currant. The present common name derives from the color of the flower, while <name type="person" key="Lewis, Meriwether">Lewis's</name> name may refer to the fruit color.</note>
+            <note xml:id="n31041212" n="12">Again, either canyon gooseberry or straggly gooseberry; see <ref n="1806-03-25" type="related">March 25, 1806</ref>.</note>
+            <note xml:id="n31041213" n="13">The vining honeysuckle is either the western trumpet, or orange, honeysuckle, <hi rend="italic">Lonicera ciliosa</hi> (Pursh) DC., or the California honeysuckle, <hi rend="italic">L. hispidula</hi> (Lindl.) Dougl. ex T. &amp; G. The white berry honeysuckle is probably snowberry. Hitchcock et al., 4:458–59.</note>
+            <note xml:id="n31041214" n="14">Oregon and dull Oregon grape.</note>
+            <note xml:id="n31041215" n="15">Again, the Oregon ash.</note>
+            <note xml:id="n31041216" n="16">
+               <name type="person" key="Clark, William">Clark's</name> listing of plants is similar to <name type="person" key="Lewis, Meriwether">Lewis's</name> of this day, but includes several species not noted by <name type="person" key="Lewis, Meriwether">Lewis</name>: beech is probably red alder; alder is possibly white alder; white thorn (<name type="person" key="Lewis, Meriwether">Lewis's</name> "purple haw") is black hawthorn, <name type="person" key="Clark, William">Clark's</name> name deriving from the clusters of white flowers in the spring; serviceberry; huckleberry is possibly evergreen huckleberry or some other species of <hi rend="italic">Vaccinium;</hi> and laurel possibly refers to the California rhododendron, <hi rend="italic">Rhododendron macrophyllum</hi> G. Don (see <ref n="1805-11-06" type="related">November 6, 1805</ref>) or it may be salal, <hi rend="italic">Gaultheria shallon</hi> Pursh. Hitchcock et al., 4:27.</note>
+            <note xml:id="n31041217" n="17">Part of the <name type="place" key="Cascade Range">Cascade Range</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-04-11" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-04-13" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

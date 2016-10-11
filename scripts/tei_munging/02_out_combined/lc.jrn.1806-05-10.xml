@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-05-10">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+May 10, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 7</title>
+               <title level="m" type="sub">March 23–June 9, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1991</date>
+               <biblScope type="pages">237-241</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">308</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">224-225</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-05-10.01">
+            <placeName/>
+            <geo>46.2167 -116.0167</geo>
+            <note>Camped on Lawyer Creek, Lewis County, ID. Southwest of Kamiah and near Broken Arm's village. Remained at this camp until 05-13.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-10-12</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-05-10">May 10, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-05-10.01" n="lc.geo.1806-05-10.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Saturday May 10th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+This morning the snow continued falling ½ after 6 A. M. when it ceased, the air keen and cold, the snow 8 inches deep on the plain; we collected our horses and after taking a scant breakfast of roots we set out for the village of <name type="person" key="Broken Arm">Tunnachemootoolt</name>; our rout lay through an open plain course S. 35 E. and distance 16 ms.    the road was slippery and the snow clogged to the horses feet, and caused them to trip frequently.    the mud at the sources of the little ravines was deep black<ref target="n34051001" n="1"/> and well supplyed with quawmash. <name type="person" key="Drouillard, George">Drewyer</name> turned off to the left of the road in order to hunt and did not join us this evening.    at 4 in the afternoon we decended the hills to <name type="place" key="Lawyer (Commearp) Creek">Commearp Creek</name> and arrived at the Village of <name type="person" key="Broken Arm">Tunnachemootoolt</name>,<ref target="n34051002" n="2"/> the cheeif at whos lodge we had left a flag last fall.    this flag was now displayed on a staff placed at no great distance from the lodge. underneath the flag the Cheif met my friend <name type="person" key="Clark, William">Capt. C.</name> who was in front and conducted him about 80 yds. to a place on the bank of the creek where he requested we should encamp; I came up in a few minutes and we collected the Cheifs and men of consideration smoked with them and stated our situation with rispect to provision.    the Cheif spoke to his people and they produced us about 2 bushels of the Quawmas roots dryed, four cakes of the bread of <hi rend="italic">cows</hi> and a dryed salmon trout.<ref target="n34051003" n="3"/> We thanked them for this store of provision but informed them that our men not being accustomed to live on roots alone we feared it would make them sick, to obviate which we proposed exchangeing a good horse in reather low order for a young horse in tolerable order with a view to kill.    the hospitality of the cheif revolted at the aydea of an exchange, he told us that his young men had a great abundance of young horses and if we wished to eat them we should by furnished with as many as we wanted.    accordingly they soon produced us two fat young horses one of which we killed, the other we informed them we would pospone killing untill we had consumed the one already killed. This is a much greater act of hospitality than we have witnessed from any nation or tribe since we have passed the <name type="place" key="Rocky Mountains">Rocky mountains</name>.    in short be it spoken to their immortal honor it is the only act which deserves the appellation of hospitallity which we have witnessed in this quarter.<ref target="n34051004" n="4"/>    we informed these people that we were hungry and fatiegued at this moment, that when we had eaten and refreshed ourselves we would inform them who we were, from whence we had come and the objects of our resurches.    a principal Cheif by name <name type="person" key="Hohots Ilppilp">Ho-hâst,-ill-pilp</name>
+                  <ref target="n34051005" n="5"/> arrived with a party of fifty men mounted on eligant horses.    he had come on a visit to us from his village which is situated about six miles distant near the river.    we invited this man into our circle and smoked with him, his retinue continued on horseback at a little distance.    after we had eaten a few roots we spoke to them as we had promised; and gave <name type="person" key="Broken Arm">Tinnachemootoolt</name> and <name type="person" key="Hohots Ilppilp">Hohâstillpilp</name> each a medal; the former one of the small size with the likeness of Mr. <name type="person" key="Jefferson, Thomas">Jefferson</name> and the latter one of the sewing medals struck in the presidency of <name type="person" key="Washington, George">Washington</name>,<ref target="n34051006" n="6"/> we explained to them the desighn and the importance of medals in the estimation of the whites as well as the red men who had been taught their value. The Cheif had a large conic lodge of leather<ref target="n34051007" n="7"/> erected for our reception and a parsel of wood collected and laid at the door after which he invited <name type="person" key="Clark, William">Capt. C.</name> and myself to make that lodge our home while we remained with him.    we had a fire lighted in this lodge and retired to it accompanyed by the Cheifs and as many of the considerate men as could croud in a circcle within it.    here after we had taken a repast on some horsebeef we resumed our council with the indians which together with smoking the pipe occupyed the ballance of the evening. I was surprised to find on decending the hills of <name type="place" key="Lawyer (Commearp) Creek">Commearp Cr.</name> to find that there had been no snow in the bottoms of that stream.    it seems that the snow melted in falling and decended here in rain while it snowed on the plains.    the hills are about six hundred feet high about one fourth of which distance the snow had decended and still lay on the sides of the hills.    as these people had been liberal with is with rispect to provision I directed the men not to croud their lodge surch of food in the manner hunger has compelled them to do at most lodges we have passed, and which the <name type="person" key="Twisted Hair (Walamotinin)">Twisted hair</name> had informed me was disgreeable to the natives.    but their previous want of hospitality had induced us to consult their enclinations but little and suffer our men to obtain provision from them on the best terms they could. The village of the broken arm as I have heretofore termed it consists of one house only which is 150 feet in length built in the usual form of sticks matts and dry grass.    it contains twenty four fires and about double that number of families.    from appearances I presume they could raise 100 fighting men.    the noise of their women pounding roots reminds me of a nail factory. The indians seem well pleased, and I am confident that they are not more so than our men who have their somachs once more well filled with horsebeef and mush of the bread of cows.—    the house of coventry is also seen here.—<ref target="n34051008" n="8"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-05-10.02" n="lc.geo.1806-05-10.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Saturday 10th of May 1806</hi>
+                  </date>
+               </ab>
+               <p>
+This morning the Snow continued falling untill ½ past 6 A M when it Seased.    the air keen and Cold the Snow 8 inches deep on the plain.    we Collected our horses and after takeing a Scanty brackfast of roots, we Set out for the Village of the Chief with a flag, and proceeded on through an open plain.    the road was Slipry and the Snow Cloged and caused the horses to trip very frequently.    the mud at heads of the Streams which we passed was deep and well Supplied with the <hi rend="italic">Car mash.</hi>
+                  <ref target="n34051009" n="9"/>
+                  <name type="person" key="Drouillard, George">Drewyer</name> turned off the road to hunt near the river to our lef and did not join us today.    at 4 P M we arrived at the Village of <hi rend="italic">
+                     <name type="person" key="Broken Arm">Tin nach-e-moo-toolt</name>
+                  </hi>
+                  <ref target="n34051010" n="10"/> the Chief whome We had left a flag.    this flag was hoisted on a pole    unde the flag the Chief met me and Conducted me to a Spot near a Small run about 80 paces from his Lodges here he requested me to halt which I did. Soon after <name type="person" key="Lewis, Meriwether">Cap Lewis</name> who was in the rear Came up and we Smoked with and told this Chief our Situation in respect to provisions.    they brought foward about 2 bushels of quawmash 4 Cakes of bread made of roots and a dried fish.    we informed the Chief that our Party was not accustomed to eate roots without flesh &amp; proposed to exchange Some of our oald horses for young ones to eate.    they Said that they would not exchange horses, but would furnish us with Such as we wished, and produced 2 one of which we killed and informd. them that we did not wish to kill the other at this time.    we gave Medals to the <name type="person" key="Broken Arm">broken arm</name> or <hi rend="italic">
+                     <name type="person" key="Broken Arm">Tin-nach-e-moo tolt</name>
+                  </hi> and <hi rend="italic">
+                     <name type="person" key="Hohots Ilppilp">Hoh-hâst-ill-pitp</name>
+                  </hi>
+                  <ref target="n34051011" n="11"/> two principal Chiefs of the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> Natn. and was informed that there was one other Great Chief (in all 4) who had but one eye.    he would be here tomorrow.    a large Lodge of Leather was pitched and <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> and my Self was envited into it.    we entered and the Chief and principal men came into the lodge and formed a Circle    a parcel of wood was Collected and laid at the dore and a fire made in this Conic lodge before we entered it.    the Chief requested that we might make the Lodge our homes while we remained with him.    here after we had taken a repast on roots &amp; horse beef we resumed our Council with the indians which together with Smokeing took up the ballance of the evening. I was Supprised to find decending the hill to <name type="place" key="Lawyer (Commearp) Creek">
+                     <hi rend="italic">Commearp</hi> Creek</name> to find that there had been no snow in the bottoms of that Stream.    it seams that the Snow melted in falling and decended here in rain while it snowed in the plain.    the hills are about Eight hundred feet high about ¼ of which distance the Snow had decended and Still lay on the Sides of the hill.    as those people had been liberal I directed the men not to croud their Lodge in serch of food the manner hunger has Compelled them to do, at most lodges we have passed, and which the <hi rend="italic">
+                     <name type="person" key="Twisted Hair (Walamotinin)">Twisted Hair</name>
+                  </hi> had informed us was disagreeble to the nativs.    but their previous want of hospitality had enduced us to consult their enclinations but little and Suffer our men to obtain provisions from them on the best terms they could.</p>
+               <p>
+The Village of the <hi rend="italic">
+                     <name type="person" key="Broken Arm">broken Arm</name>
+                  </hi> consists of one house or Lodge only which is 150 feet in length built in the usial form of Sticks, Mats and dry grass.    it contains 24 fires and about double that number of families.    from appearance I prosume they could raise 100 fighting men.    the noise of their women pounding the cows roots remind me of a nail factory. The Indians appear well pleased, and I am Confident that they are not more so than our men who have their Stomach once more well filled with horse beef and the bread of cows. Those people has Shewn much greater acts of hospitallity than we have witnessed from any nation or tribe Since we have passed the <name type="place" key="Rocky Mountains">rocky Mountains</name>.    in Short be it Spoken to their immortal honor it is the only act which diserves the appelation of hospitallity which we have witnessed in this quarter.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-05-10.03" n="lc.geo.1806-05-10.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Saturday 10th of May 1806.    the wind fell and the rain turned to Snow Some time last night and the Snow fell 6 Inches deep &amp; continues chilly &amp; cold this morning, &amp; we had not any thing to eat.    got up our horses &amp; Set out &amp; proced. on over a high Smooth plain no timber. The Snow melts a little but the air cold.    wrode about 20 miles    descended a Steep hill down in a valley and bottom in which a creek runs through, and Camped<ref target="n34051012" n="12"/> near a village of the head chiefs of abt. 15 lodges.    they had their flag hoisted and appeared glad to See us.    gave us Some commass roots which had been Swetted last fall. Some Shapealell and a little dry fish, but have but little    the natives have great numbers of horses    gave us two to kill.    we killed one to eat. Some of the women pitched a leather lodge<ref target="n34051013" n="13"/> and brought wood &amp; made a fire in it and chiefs invited our officers to Stay in it, and talked together    our officers told them our business &amp;C.    in the evening we played the fiddle and danced a while    a number of Indians came from other villages to See us    the Snow is gone in this bottom but lyes on the high plains &amp; hills    considerable of cottonwood and wild or choke cherry along this creek &amp; Scattering pine on the edges of the hills, &amp;C.    we are now as near the Mountains as we can git untill Such times as the Snow is nearly gone of[f] the mountains as we are too eairly to cross.    one of the party purchased a dog this eveng. but the most of their dogs are too poor to eat
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-05-10.04" n="lc.geo.1806-05-10.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 10th.</hi>    At dark last night the weather became cloudy and it rained about an hour, when the rain turned to snow, and it continued snowing all night. In the morning the weather became clear. Where we are lying in the plains the snow is about five inches deep; and amidst snow and frost we have nothing whatever to eat. Without breakfast we started to go to a village of the natives, who live on a branch of the river, about a south course from this place. We travelled through the snow about 12 miles, and then went down a long steep descent to the branch where the village is situated. When we were about half way down the hill there was not a particle of snow nor the least appearance of it. It was about 3 o'clock when we arrived at the village,<ref target="n34051014" n="14"/> and the Commanding Officers held a conversation with the natives, who informed them that they had not more provisions and roots, than they wanted for themselves. They, however, divided their stock with us; and told us what they had given was all they could spare; but drove up some horses and told us to shoot one, which we did. They then offered another, but that was reserved for another time, and we dressed the one we had killed; and in our situation find it very good eating. We remained here all night. One of the hunters who had gone on before the party did not join us yet.<ref target="n34051015" n="15"/>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n34051001" n="1">Snow meltwater or spring discharge of groundwater from snowmelt when mixed with the rich volcanic soil of the area would form a black sandy or silty mud.</note>
+            <note xml:id="n34051002" n="2">In <name type="place" key="Lewis County, Idaho">Lewis County</name>, <name type="place" key="Idaho">Idaho</name>, on <name type="place" key="Lawyer (Commearp) Creek">Lawyer (Commearp) Creek</name>, southwest of present <name type="place" key="Kamiah, Idaho">Kamiah</name>; not shown on <hi rend="italic">Atlas</hi> map 71. "<name type="place" key="Lawyer (Commearp) Creek">Commearp</name>" is <name type="native_nation" key="Nez Perce Indians">Nez Perce</name>
+               <hi rend="italic">qémyex̣p,</hi> the designation for <name type="place" key="Lawyer (Commearp) Creek">Lawyer Creek</name>. They remained here until May 13. Space, 27; Peebles (RLC), 20; Peebles (LT), map. If the party traveled along the historic <name type="place" key="Nez Perce Trail">Nez Perce trail</name> in this area, they followed <name type="place" key="Suzie Creek">Suzie Creek</name> to its junction with <name type="place" key="Lawyer (Commearp) Creek">Lawyer Creek</name> about five miles above its mouth. Peebles places the party approximately one mile farther east, but he is uncertain about this portion of the route. Peebles (LT), map. From the journal description of <ref n="1806-05-13" type="related">May 13, 1806</ref>, the campsite and village was located about three and one-half miles up <name type="place" key="Lawyer (Commearp) Creek">Lawyer Creek</name>. There were a number of historic <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> villages along this portion of <name type="place" key="Lawyer (Commearp) Creek">Lawyer Creek</name>. Several of these have been confirmed as archaeological sites but none have yet been excavated or dated. Shawley, 40; Stapp, Bryan, &amp; Rigg, 43, 67–68.</note>
+            <note xml:id="n34051003" n="3">Steelhead trout, <hi rend="italic">Oncorhynchus mykiss</hi> (formerly <hi rend="italic">Salmo gairdneri</hi>). Kendall. See <ref n="1806-03-14" type="related">March 14, 1806</ref>, for <name type="person" key="Lewis, Meriwether">Lewis's</name> full description.</note>
+            <note xml:id="n34051004" n="4">
+               <name type="person" key="Biddle, Nicholas">Biddle</name> has a comment, perhaps given by <name type="person" key="Clark, William">Clark</name> in their conversations in 1810, that those who had had no contact with whites were much more hospitable than those who had, such as the coastal Indians. <name type="person" key="Biddle, Nicholas">Biddle</name> Notes [ca. April 1810], Jackson (LLC), 2:543–44.</note>
+            <note xml:id="n34051005" n="5">Somewhat more correctly, <name type="person" key="Hohots Ilppilp">Hohots Ilppilp</name>. His name referred to a red, or bleeding, grizzly bear, his spiritual animal helper or guardian. From this, or from his many battle scars, later whites called him "The Bloody Chief." The <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> word is <hi rend="italic">
+                  <seg n="uxu803">x̣</seg>á<seg n="uxu803">x̣</seg>a·c 'ilpílp,</hi> "red grizzly." He was still alive in the early 1840s, when he claimed to be the oldest chief of the <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>, and spoke to whites of having met <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>. He was friendly to the missionaries and his grandson, <name type="person" key="Ellis">Ellis</name>, having received an education in English, was designated "head chief" by U.S. authorities. <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> legend asserts that the sister of <name type="person" key="Red Grizzly Bear">Red Grizzly Bear</name> bore a son by <name type="person" key="Clark, William">William Clark</name>. This man, who had light hair, was proud of his ancestry and would proclaim "Me <name type="person" key="Clark, William">Clark</name>!" He was photographed at least once, in his old age. He was with the famous <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> flight in 1877, and with this group was deported to <name type="place" key="Indian Territory">Indian Territory</name>, where he died. His descendents were known by the name <name type="person" key="Clark, William">Clark</name>. Reportedly a black child was also born after the expedition's passing, but did not live to maturity. Wheeler, 2:267; Josephy (NP), 11, 14, 165, 228, 231, 238; Space, 29; [Toole]; Ronda (LCAI), 233.</note>
+            <note xml:id="n34051006" n="6">A medal showing a man sowing grain, one of a series of three depicting the white man's way of life, to show Indians the attractions of "civilization." They were discontinued because most Indians preferred a likeness of the "Great Father"—the president. See also <ref n="1804-10-29" type="related">October 29, 1804</ref>. Prucha (IPM), 89–90.</note>
+            <note xml:id="n34051007" n="7">A tipi, showing the assimilation of some elements of plains culture.</note>
+            <note xml:id="n34051008" n="8">Again the lodge for menstruating women. This sentence may have been crowded in at the end of the entry later.</note>
+            <note xml:id="n34051009" n="9">Or quamash, which is camas.</note>
+            <note xml:id="n34051010" n="10">His name may have been added to a blank space.</note>
+            <note xml:id="n34051011" n="11">The two names may have been added to blank spaces.</note>
+            <note xml:id="n34051012" n="12">On <name type="place" key="Lawyer (Commearp) Creek">Lawyer Creek</name>, <name type="place" key="Lewis County, Idaho">Lewis County</name>, <name type="place" key="Idaho">Idaho</name>, southwest of <name type="place" key="Kamiah, Idaho">Kamiah</name> and near <name type="person" key="Broken Arm">Broken Arm's</name> village; the party remained here until May 13.</note>
+            <note xml:id="n34051013" n="13">A tipi, showing the influence of Plains Indian culture.</note>
+            <note xml:id="n34051014" n="14">In <name type="place" key="Lewis County, Idaho">Lewis County</name>, <name type="place" key="Idaho">Idaho</name>, southwest of <name type="place" key="Kamiah, Idaho">Kamiah</name>, on <name type="place" key="Lawyer (Commearp) Creek">Lawyer Creek</name>, which they called <name type="place" key="Lawyer (Commearp) Creek">Commearp Creek</name>, from its <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> name. They remained here until May 13.</note>
+            <note xml:id="n34051015" n="15">Apparently <name type="person" key="Drouillard, George">Drouillard</name>, who came in the next day.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-05-09" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-05-11" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

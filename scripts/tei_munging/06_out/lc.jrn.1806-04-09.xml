@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-04-09">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+April 9, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 7</title>
+               <title level="m" type="sub">March 23–June 9, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1991</date>
+               <biblScope type="pages">96-101</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">288-289</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">208</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-04-09.01">
+            <placeName/>
+            <geo>45.6333 -121.95</geo>
+            <note>Camped at present Bonneville, Multnomah County, OR.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-10-01</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-04-09">April 9, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-04-09.01" n="lc.geo.1806-04-09.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday April 9th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+This morning early we commenced the operation of reloading our canoes; at 7 A. M. we departed and proceeded on to the Camp of <name type="person" key="Field, Joseph and Reubin">Reubin and Joseph Fields</name>    they had not killed any game; we made no halt at this place but continued our rout to the <name type="native_nation" key="Watlala Indians">Wah-clel-lah</name> Village<ref target="n31040901" n="1"/> which is situated on the North side of the river about a mile below the beacon rock; here we halted and took breakfast. <name type="person" key="Colter, John">John Colter</name> one of our party observed the tomehawk in one of the lodges which had been stolen from us on the 4th of November last as we decended this river; the natives attempted to wrest the tomahawk from him but he retained it.    they indeavoured afterwards to exculpate themselves from the odium of having stolen it, they alledged that they had bought it from the natives below; but their neighbours had several days previously, informed us that these people had stolen the Tommehawk and then had it at their village.    this village appears to be the winter station of the <name type="native_nation" key="Watlala Indians">Wah-clel-lahs</name> and <name type="native_nation" key="Clahclellar Indians">Clahclellars</name>,<ref target="n31040902" n="2"/> the greater part of the former have lately removed to the <name type="place" key="Multnomah Falls">falls of the Multnomah</name>, and the latter have established themselves a few miles above on the North side of the river opposite the lower point of <name type="place" key="Bradford (Brant) Island">brant island</name>,<ref target="n31040903" n="3"/> being the commencement of the rapids, here they also take their salmon; they are now in the act of removing, and not only take with them their furniture and effects but also the bark and most of the boards which formed their houses.    14 houses remain entire but are at this time but thinly inhabited, nine others appear to have been lately removed, and the traces of ten or twelve others of ancient date were to be seen in the rear of their present village.    they sometimes sink their houses in the earth, and at other times have their floors level with the surface of the earth; they are generally built with boards and covered with Cedar bark.    most of them have a devision in their houses near the entrance wich is at the end or in the event of it's bing a double house is from the center of a narrow passage.    several families inhabit one appartment.    the women of these people piece the cartelage of the nose in which they wear various ornaments in other rispects they do not differ from those in the neighbourhood of the <name type="place" key="Government (Diamond, White Goose, Swan) Island">Diamond island</name>; tho' most of the women brad their hair which hanges in two tresses one hanging over each ear.    these people were very unfriendly, and seemed illy disposed had our numbers not detered them any acts of violence.    with some difficuly we obtained five dogs from them and a few wappetoe.    on our way to this village we passed several beautifull cascades which fell from a great hight over the stupendious rocks which cloles the river on both sides nearly, except a small bottom on the South side in which our hunters were encamped. the most remarkable of these casscades falls about 300 feet perpendicularly over a solid rock into a narrow bottom of the river on the south side.<ref target="n31040904" n="4"/>    it is a large creek, situated about 5 miles above our encampment of the last evening.    several small streams fall from a much greater hight, and in their decent become a perfect mist which collecting on the rocks below again become visible and decend a second time in the same manner before they reach the base of the rocks.    the hills have now become mountains high on each side are rocky steep and covered generally with fir and white cedar.    we saw some turkey buzzards<ref target="n31040905" n="5"/> this morning of the speceis common to the United states which are the first we have seen on this side the <name type="place" key="Rocky Mountains">rocky mountains</name>.    during our halt at this village the grand Cheif and two inferior Cheifs of the <name type="native_nation" key="Wishram-Wasco Indians">Chil-luck-kit-te-quaw</name>
+                  <ref target="n31040906" n="6"/> nation arrived with several men and women of their nation in two large canoes.    these people were on their return up the river, having been on a trading voyage to the <name type="place" key="Columbia River">Columbean</name> vally, and were loaded with wappetoe dryed anchovies, with some beads &amp;c which they had received in exchange for dryed and pounded salmon shappelell beargrass &amp;c.<ref target="n31040907" n="7"/> These people had been very kind to us as we decended the river we therefore smoked with them and treated them with every attention.    at 2 P. M. we renewed our voyage; passed under the beacon rock on the north side, to the left of two small islands situated near the shore.<ref target="n31040908" n="8"/>    at four P.M. we arrived at the <name type="native_nation" key="Clahclellar Indians">Clah-clel-lah</name> village; here we found the natives busily engaged in erecting their new habitations, which appear to be reather of a temperary kind; it is most probable that they only reside here during the salmon season.    we purchased two dogs of these people who like those of the village blow were but sulky and illy disposed; they are great rogues and we are obliged to keep them at a proper distance from our baggage.    as we could not ascend the rapid by the North side of the river with our large canoes, we passed to the oposite side and entered the narrow channel which seperates <name type="place" key="Bradford (Brant) Island">brant Island</name> from the South shore; the evening being far spent and the wind high raining and very cold we thought best not to attempt the rapids this evening, we therefore sought a safe harbour in this narrow channel and encamped on the main shore.<ref target="n31040909" n="9"/>    our small canoe with <name type="person" key="Drouillard, George">Drewyer</name> and the <name type="person" key="Field, Joseph and Reubin">two feildses</name> was unable to pass the river with us in consequence of the waves they therefore toed her up along the N. side of the river and encamped opposite the upper point of <name type="place" key="Bradford (Brant) Island">brant Island</name>.<ref target="n31040910" n="10"/>    after halting this evening I took a turn with my gun in order to kill a deer, but was unsuccessful. I saw much fresh sign.    the fir has been lately injured by a fire near this place and many of them have discharged considerable quantities of rozin.    we directed that <name type="person" key="Collins, John">Collins</name> should hunt a few hours tomorrow morning and that <name type="person" key="Gibson, George">Gibson</name> and his crew should remain at his place untill we returned and employ themselves in collectng rozin which our canoes are now in want of.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-09.02" n="lc.geo.1806-04-09.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday April 9th 1806</hi>
+                  </date>
+               </ab>
+               <p>
+last night at a late hour the old amsiated [emaciated?] Indian who was detected in Stealing a Spoon yesterday, Crept upon his belley with his hands and feet, with a view as I Suppose to take Some of our baggage which was in Several defferent parcels on the bank.    the Sentinal observed the motions of this old amcinated retch untill he got with a fiew feet of the baggage at he hailed him and approached with his gun in a possion as if going to Shoote which allarmed the old retch in Such a manner that he ran with all his power tumbleing over brush and every thing in his way.    at 7 A. M. we Set out and proceeded on to the Camp of <name type="person" key="Field, Joseph and Reubin">Joseph &amp; Reubin Fields</name>.    they had killed nothing.    here we did not delay but proceeded on to <hi rend="italic">
+                     <name type="native_nation" key="Watlala Indians">Wah-clel-lah</name>
+                  </hi> Village on the North Side and brackfast    here one the men <name type="person" key="Colter, John">Colter</name> observed the Tomahawk which was Stolen from on the 4th of Novr. last as we decended the <name type="place" key="Columbia River">Columbia</name>, he took the tomahawk    the natives attempted to wrest it from him, he held fast the Tomahawk. Those people attempted to excuse themselves from odium of Stealing it, by makeing Signs that they had purchased the Tomahawk, but their nighbours informed me otherwise and made Signs that they had taken it. This Village appears to be the wintering Station of two bands of the <hi rend="italic">
+                     <name type="native_nation" key="Watlala Indians">Shah-ha-la</name>
+                  </hi> Nation. One band has already moved the <name type="place" key="Multnomah Falls">Falls of the Multnomah</name> which is the place they take their Salmon.  The other band is now moveing a fiew miles above to the foot of the first rapid on this river, at which place they take their Salmon.    14 houses only appear occupied and the inhabitants of those moveing off hourly, they take with them in their Canoes independent of all their household effects the bark of their houses, and boards.    9 houses has been latterly abandened and 14 others is yet is thinly inhabited at present, and the remains of 10 or 12 others are to be Seen and appears to have been enhabited last fall.    those people were not hospital and with Some dificuelty we precured 5 dogs and a fiew Wappato of them. Soon after we arived at this Village the Grand Cheif and two others of the <hi rend="italic">
+                     <name type="native_nation" key="Wishram-Wasco Indians">Chee-luck-it-te-quar</name>
+                  </hi> Nation arived from below.    they had with them 11 men and 7 womin and had been trading in the <name type="place" key="Columbia River">Columbia</name> Vally for Wappato, beeds, and dried Anchovies &amp;c in exchange for which they had given pounded fish Shappalell, bear grass, acorns boiled berries &amp;c. &amp;c. and are now on their return to their village.    as those people had been very Kind to us as we decended the river we gave them Smoke.    at 2 oClock P. M we Set out and passed under the <name type="place" key="Beacon Rock">Beacon rock</name> on the North Side of two Small Islds. Situated nearest the N. side.    at 4 P. M. we arived at the first rapid at the head of <name type="place" key="Hamilton (Strawberry) Island">Straw berry island</name>
+                  <ref target="n31040911" n="11"/> at which place on the N W. Side of the <name type="place" key="Columbia River">Columbia</name> here we found the nativs from the last village rebuilding their habitations of the bark of 〈from〉 their old Village    16 Huts are already Compleated and appear only temporrary    it is most probable that they only reside here 〈in〉 dureing the Season of the Salmon.    as we Could not pass with the large Canoes up the N. W. Side for the rocks, the wind high and a rainey disagreeable evining.    our Smallest Canoe being too low to cross through the high waves, we Sent her up on the N W. side with <name type="person" key="Drouillard, George">Drewyer</name> and the <name type="person" key="Field, Joseph and Reubin">two Fields</name> and after purchaseing 2 dogs Crossed and into the Sluce of a large high Island seperated from the S. E Side by a narrow chanel, in this chanel we found a good harbor and encamped on the lower Side. We Saw Some deer Sign and <name type="person" key="Collins, John">Collins</name> to hunt in the mornig untill the Canoes were toed above the rapids.    made <hi rend="italic">16</hi> Miles to day. evening wet &amp; disagreeable.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-09.03" n="lc.geo.1806-04-09.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 9th of April 1806.    a fair morning and calm    we bailed our canoes    found Some of them to leak    loaded up &amp; about 9 oClock we departed and proceed on along the South Shore    overtook the <name type="person" key="Field, Joseph and Reubin">2 Fields</name> who had killed nothing    about noon Some of the men killed an eagle.    we crossed over to the North Side &amp; halted at a village of the <name type="native_nation" key="Watlala Indians">wa-cla-lah</name> nation<ref target="n31040912" n="12"/> where we bought 5 or 6 fat dogs.    found <name type="person" key="Clark, William">Capt. Clarks</name> pipe tommahawk
+which was Stole from him last fall, below <name type="place" key="Sandy (Quicksand) River">Quick Sand River</name>.    we took it from them.    they Signd. that they bought it below and appeared to be highly afronted at our taking it but were afraid to Show it    a number of these natives are moveing up to the <name type="place" key="Columbia River, Cascades (Great Rapids, Great Shute)">big Shoote</name>
+                  <ref target="n31040913" n="13"/> to fish &amp;C    a number of an other nation overtook us who belong up near the big falls<ref target="n31040914" n="14"/> &amp;C    a large creek<ref target="n31040915" n="15"/> puts in close above the village which we did not discover last fall.    when we passd. down    we dined and proceed. on    passd <name type="place" key="Hamilton (Strawberry) Island">Strabury Island</name>
+                  <ref target="n31040916" n="16"/> where the Swift water begins.    we halted at a village at the foot of the 1st rapid, on N. Side which was lately erected.    we purchased 2 fat dogs and crossed over to the South Shore and Camped<ref target="n31040917" n="17"/> behind [<hi rend="italic">blank</hi>] Island    commenced raining hard &amp; high winds from N. W.    the River much higher at this time than it was last fall when we passd. down. Some Spots of Snow is now on the tops of these Mountains Near the River.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-04-09.04" n="lc.geo.1806-04-09.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday</hi> 9th.    The morning was plesant; we therefore loaded our canoes and proceeded on till 11 o'clock when we stopped at a large Indian village on the north side; but a number of the huts were unoccupied. They are of the <name type="native_nation" key="Alsea Indians">Al-e-is nation</name>. At the time we halted 3 canoe-loads of them were setting out for the falls to fish. We took breakfast here and bought 5 dogs from them. The women all wear the small leather bandage, but are quite naked otherwise, except what is covered by the small robe they wear round their shoulders. In the afternoon the weather became cloudy and some rain fell. In the evening we came to a large rapid at the lower end of <name type="place" key="Hamilton (Strawberry) Island">Strawberry island</name>; where there are a number of the natives about settling on the north side.<ref target="n31040918" n="18"/> Here we crossed over, after buying two dogs from them, and encamped behind the island. Some rain continued falling.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n31040901" n="1">Probably the Upper Chinookan-language people known as the <name type="native_nation" key="Watlala Indians">Watlalas</name>. See <ref n="1805-11-02" type="related">November 2, 1805</ref>, and <ref n="1805-1806.winter.part2" type="related">Estimate of Western Indians</ref>. <hi rend="italic">Atlas</hi> map 79. The term is a variation of <name type="native_nation" key="Watlala Indians">Watlala</name> or <hi rend="italic">wa<seg n="uluslash">l\</seg>ála,</hi> designating the village. Silverstein, 535.</note>
+            <note xml:id="n31040902" n="2">A branch of the <name type="native_nation" key="Watlala Indians">Watlala Chinookans</name>. See <ref n="1805-1806.winter.part2" type="related">Estimate of Western Indians</ref>. The party visited their village of "4 large houses" on <ref n="1805-10-31" type="related">October 31, 1805</ref>, but did not apply a name to the people. <hi rend="italic">Atlas</hi> map 79. The term is <hi rend="italic">
+                  <seg n="uluslash">l\</seg>á-<seg n="uluslash">l\</seg>ala,</hi> "those of Wa<seg n="uluslash">l\</seg>ála village."</note>
+            <note xml:id="n31040903" n="3">Present <name type="place" key="Bradford (Brant) Island">Bradford Island</name>, <name type="place" key="Multnomah County, Oreg.">Multnomah County</name>, <name type="place" key="Oregon">Oregon</name>, the site of <name type="place" key="Bonneville Dam">Bonneville Dam</name>. It is nameless on <hi rend="italic">Atlas</hi> map 79. See <ref n="1805-11-01" type="related">figures</ref>. Archaeological work on the island was limited to brief excavations in 1934. Phebus, 116–24; Minor, Toepel, &amp; Beckham (Rev), 15–18.</note>
+            <note xml:id="n31040904" n="4">Either <name type="place" key="Multnomah Falls">Multnomah Falls</name>, formed by <name type="place" key="Multnomah Creek">Multnomah Creek</name>, or <name type="place" key="Horsetail Falls">Horsetail Falls</name>, formed by <name type="place" key="Horsetail Creek">Horsetail Creek</name>, both in <name type="place" key="Multnomah County, Oreg.">Multnomah County</name>. Three little unnamed streams are shown falling into the <name type="place" key="Columbia River">Columbia</name> on <hi rend="italic">Atlas</hi> map 79, with the word "Cascades" written to the side.</note>
+            <note xml:id="n31040905" n="5">Turkey vulture, <hi rend="italic">Cathartes aura</hi> [AOU, 325]. Burroughs, 203–4; Holmgren, 28.</note>
+            <note xml:id="n31040906" n="6">The term was evidently mistaken as a tribal designation when it may actually be Upper Chinookan <hi rend="italic">
+                  <seg n="u269">č</seg>-i-l-ktí-g<hi rend="superscript">w</hi>a-x,</hi> "he is pointing at him." They would be the people known as <name type="native_nation" key="Wishram-Wasco Indians">Wishram-Wasco Indians</name> (see <ref n="1805-10-27" type="related">October 27, 1805</ref>).</note>
+            <note xml:id="n31040907" n="7">Beargrass, <hi rend="italic">Xerophyllum tenax</hi> (Pursh) Nutt. Hitchcock et al., 1:812.</note>
+            <note xml:id="n31040908" n="8">The islands are <name type="place" key="Pierce Island">Pierce</name> and <name type="place" key="Ives Island">Ives</name> islands, opposite <name type="place" key="Beacon Rock">Beacon Rock</name>, <name type="place" key="Skamania County, Wash.">Skamania County</name>, <name type="place" key="Washington">Washington</name>. <hi rend="italic">Atlas</hi> map 79.</note>
+            <note xml:id="n31040909" n="9">In <name type="place" key="Multnomah County, Oreg.">Multnomah County</name>, at or near present <name type="place" key="Bonneville, Oreg.">Bonneville</name>. <hi rend="italic">Atlas</hi> map 79.</note>
+            <note xml:id="n31040910" n="10">In <name type="place" key="Skamania County, Wash.">Skamania County</name>, in the eastern part of <name type="place" key="North Bonneville, Wash.">North Bonneville</name>. <hi rend="italic">Atlas</hi> map 79.</note>
+            <note xml:id="n31040911" n="11">Present <name type="place" key="Hamilton (Strawberry) Island">Hamilton Island</name>, in <name type="place" key="Skamania County, Wash.">Skamania County</name>. <hi rend="italic">Atlas</hi> map 79.</note>
+            <note xml:id="n31040912" n="12">
+               <name type="native_nation" key="Watlala Indians">Watlala Chinookans</name>, whose village was in the vicinity of <name type="place" key="Skamania, Wash.">Skamania</name>, <name type="place" key="Skamania County, Wash.">Skamania County</name>,
+<name type="place" key="Washington">Washington</name>, which the group visited on <ref n="1805-11-02" type="related">November 2, 1805</ref>.</note>
+            <note xml:id="n31040913" n="13">
+               <name type="place" key="Columbia River, Cascades (Great Rapids, Great Shute)">Cascades of the Columbia River</name>.</note>
+            <note xml:id="n31040914" n="14">
+               <name type="place" key="Columbia River, Great Falls of the">Celilo Falls</name>.</note>
+            <note xml:id="n31040915" n="15">Perhaps <name type="place" key="Woodward (Beacon Rock) Creek">Woodward Creek</name>, <name type="place" key="Skamania County, Wash.">Skamania County</name>.</note>
+            <note xml:id="n31040916" n="16">
+               <name type="place" key="Hamilton (Strawberry) Island">Hamilton Island</name>, <name type="place" key="Skamania County, Wash.">Skamania County</name>.</note>
+            <note xml:id="n31040917" n="17">The party camped on shore behind <name type="place" key="Bradford (Brant) Island">Bradford Island</name>, site of <name type="place" key="Bonneville Dam">Bonneville Dam</name>, <name type="place" key="Multnomah County, Oreg.">Multnomah County</name>, <name type="place" key="Oregon">Oregon</name>.</note>
+            <note xml:id="n31040918" n="18">Designated by the captains as <name type="place" key="Clahclellar Indians">Clahclellahs</name>, a branch of the <name type="native_nation" key="Watlala Indians">Watlalas</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-04-08" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-04-10" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

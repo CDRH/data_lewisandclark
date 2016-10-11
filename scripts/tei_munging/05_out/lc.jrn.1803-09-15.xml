@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1803-09-15">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">September 15, 1803</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">82-83</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1803-09-15.01">
+            <placeName/>
+            <geo>39.1271 -81.7392</geo>
+            <note>West Virginia shore, around Belleville</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2003-12-10</date>
+            <date/>
+            <name>Laura Weakly</name>
+            <name/>Initial creation Transcribed</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1803-09-15">September 15, 1803</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1803-09-15.01" n="lc.geo.1803-09-15.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">15 September</hi>
+                  </date>
+               </ab>
+               <p>
+Set out this morning at sunrise, passed the mouth of the <name type="place" key="Little Kanawaha River">little Kanaway</name>
+                  <ref target="n02091501" n="1"/> one mile below our encampment of last evening on the <name type="place" key="West Virginia">Virginia</name> shore    it is about 60 yards wide at it's mouth     there is a considerable settlement on this river    it heads with <name type="place" key="Monongahela River">the Monongahela</name>,<ref target="n02091502" n="2"/> passed the mouths of the <name type="place" key="Little Hocking River">little</name> and <name type="place" key="Hocking River">big Hockhockin</name>
+                  <ref target="n02091503" n="3"/> and the settlement of <name type="place" key="Belpre, Ohio">Bellpray</name>—a <hi rend="italic">yanke settlement</hi>
+                  <ref target="n02091504" n="4"/>    passed several bad riffles over which we were obliged to lift the boat, saw and caught by means of my dog several squirrels, attempting to swim the river, one of these, the only instance I have observed, was swiming from the S. E. to the N. W. shore—    one of the canoes fell a considerable distance behind, we were obliged to ly too for her coming up which detained us several hours; it rained very hard on us from 7 this morning untill about three when it broke away and evening as clear with a few flying clouds.    took up on the <name type="place" key="West Virginia">Virginia</name> shore having mad 18 miles this day.—<ref target="n02091505" n="5"/>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n02091501" n="1">The <name type="place" key="Little Kanawaha River">Little Kanawha River</name> joins the <name type="place" key="Ohio River">Ohio</name> just south of <name type="place" key="Parkersburg, W. Va.">Parkersburg</name>, <name type="place" key="Wood County, W. Va.">Wood County</name>, <name type="place" key="West Virginia">West Virginia</name>. The settlement may well have been <name type="place" key="Parkersburg, W. Va.">Parkersburg's</name> predecessor, <name type="place" key="Stokeyville, W. Va.">Stokleyville</name>. The name Kanawha may come from Conoy, the designation of a local <name type="native_nation" key="Algonquian Indians">Algonquian tribe</name> related to the <name type="native_nation" key="Delaware Indians">Delawares</name>. Hodge 1:339–41; Swanton, 57–58.</note>
+            <note xml:id="n02091502" n="2">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> was not quite correct here, but the West Fork of <name type="place" key="Monongahela River">the Monongahela</name> and the <name type="place" key="Little Kanawaha River">Little Kanawha</name> run within a few miles of one another in southern <name type="place" key="Lewis County, W. Va.">Lewis County</name>, <name type="place" key="West Virginia">West Virginia</name>.</note>
+            <note xml:id="n02091503" n="3">The <name type="place" key="Little Hocking River">Little Hocking River</name> flows into the <name type="place" key="Ohio River">Ohio</name> a few miles below <name type="place" key="Belpre, Ohio">Belpre</name>, <name type="place" key="Washington, Ohio">Washington County</name>, <name type="place" key="Ohio">Ohio</name>; the <name type="place" key="Hocking River">Hocking River</name> enters the <name type="place" key="Ohio River">Ohio</name> at <name type="place" key="Hockingport, Ohio">Hockingport</name> on the border of <name type="place" key="Athens County, Ohio">Athens</name> and <name type="place" key="Meigs County, Ohio">Meigs</name> counties, <name type="place" key="Ohio">Ohio</name>. <name type="place" key="Hockingport, Ohio">Hockhocking</name> was the spelling in <name type="person" key="Lewis, Meriwether">Lewis's</name> day, and may mean "above-there-is (arable)-land" in the <name type="native_nation" key="Algonquian Indians">Algonquian</name> language. Stewart (APN), 207.</note>
+            <note xml:id="n02091504" n="4">One of two settlements here: <name type="place" key="Belpre, Ohio">Belpre</name>, <name type="place" key="Ohio">Ohio</name>, just across from the <name type="place" key="Little Kanawaha River">Little Kanawha River</name>, or <name type="place" key="Belleville, W. Va.">Belleville</name>, in <name type="place" key="Wood County, W. Va.">Wood County</name>, <name type="place" key="West Virginia">West Virginia</name>, a few miles below the <name type="place" key="Hocking River">Hocking River</name>. <name type="place" key="Belleville, Ohio">Belleville</name> was called <name type="place" key="Belleville, W. Va.">Bellepre</name> about the time <name type="person" key="Lewis, Meriwether">Lewis</name> passed down the <name type="place" key="Ohio River">Ohio</name>, and since he names the town after mentioning the <name type="place" key="Little Hocking River">Little Hocking</name> and <name type="place" key="Hocking River">Hocking</name> rivers, it seems more likely he means <name type="place" key="Belleville, W. Va.">Belleville</name>, as <name type="place" key="Belleville, W. Va.">Belpre</name> is above those two streams. Thwaites (EWT), 4:127, 131; Quaife (MLJO), 44–45 n. 5.</note>
+            <note xml:id="n02091505" n="5">In the vicinity of <name type="place" key="Belleville, W. Va.">Belleville</name>, about seventeen miles below the <name type="place" key="Little Kanawaha River">Little Kanawha</name>. Quaife (MLJO), 45 n. 1.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1803-09-14" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-09-16" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

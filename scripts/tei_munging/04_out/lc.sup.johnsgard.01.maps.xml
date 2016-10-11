@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.sup.johnsgard.01.maps">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Lewis and Clark on the Great Plains</title>
+            <title type="sub">A Natural History</title>
+            <title type="sub" level="a">Maps</title>
+            <author>Paul A. Johnsgard</author>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title level="m" type="main">Lewis and Clark on the <name type="place" key="Great Plains">Great Plains</name>
+               </title>
+               <title level="m" type="sub">List of Maps</title>
+               <author>Paul A. Johnsgard</author>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <publisher>Center for Great Plains Studies, University of Nebraska–Lincoln</publisher>
+               <date>2003</date>
+               <idno type="ISBN">0-8032-7618-4</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Supplements</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Texts</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2005-10-07</date>
+            <date>2004-10-26</date>
+            <name>Becky Potter</name>
+            <name>Andrew Jewell</name>Split into chapters Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div xml:id="mapList" type="mapList">
+            <head rend="center">Maps</head>
+            <div type="section">
+               <p>
+                  <lb/>
+                  <ref target="n01" n="1"/> Route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="Kansas">Kansas</name> and <name type="place" key="Missouri">Missouri</name>
+                  <lb/>
+                  <ref target="n02" n="2"/> Route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="Nebraska">Nebraska</name> and <name type="place" key="Iowa">Iowa</name>
+                  <lb/>
+                  <ref target="n03" n="3"/> Route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="South Dakota">South Dakota</name>
+                  <lb/>
+                  <ref target="n04" n="4"/> Route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="North Dakota">North Dakota</name>
+                  <lb/>
+                  <ref target="n05" n="5"/> Route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in Eastern <name type="place" key="Montana">Montana</name>
+                  <lb/>
+                  <ref target="n06" n="6"/> Route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in Western <name type="place" key="Montana">Montana</name>
+                  <lb/>
+               </p>
+            </div>
+         </div>
+         <div xml:id="notes" type="notes">
+            <div type="section">
+               <note xml:id="n01" n="1">
+                  <figure n="1">
+                     <head rend="center">Map 1. Route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="Kansas">Kansas</name> and <name type="place" key="Missouri">Missouri</name>
+                     </head>
+                     <p>Outward Route Schedule: June 29 to September 7, 1804</p>
+                     <p>Return Schedule: August 29 to September 15, 1806</p>
+                     <p>River Distance: Mouth of <name type="place" key="Kansas (Decaugh, Kaw) River">Kansas River</name> to northernmost <name type="place" key="Nebraska">Nebraska</name>-<name type="place" key="South Dakota">South Dakota</name> boundary,
+estimated by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> as 691 river miles. Because of recent channelization and
+other river changes, the current distance is now substantially less.</p>
+                     <p>Map of route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="Kansas">Kansas</name> and <name type="place" key="Missouri">Missouri</name>
+                     </p>
+                  </figure>
+               </note>
+               <note xml:id="n02" n="2">
+                  <figure n="2">
+                     <head rend="center">Map 2. Route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="Nebraska">Nebraska</name> and <name type="place" key="Iowa">Iowa</name>
+                     </head>
+                     <p>Outward Route Schedule: June 29 to September 7, 1804</p>
+                     <p>Return Schedule: August 29 to September 15, 1806</p>
+                     <p>River Distance: Mouth of <name type="place" key="Kansas (Decaugh, Kaw) River">Kansas River</name> to northernmost <name type="place" key="Nebraska">Nebraska</name>-<name type="place" key="South Dakota">South Dakota</name> boundary,
+estimated by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> as 691 river miles. Because of recent channelization and
+other river changes, the current distance is now substantially less.</p>
+                     <p>Map of route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="Nebraska">Nebraska</name> and <name type="place" key="Iowa">Iowa</name>
+                     </p>
+                  </figure>
+               </note>
+               <note xml:id="n03" n="3">
+                  <figure n="3">
+                     <head rend="center">Map 3. Route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="South Dakota">South Dakota</name>
+                     </head>
+                     <p>Outward Route Schedule: August 21, 1804, to April 27, 1805</p>
+                     <p>Return Schedule: August 3-5 to September 3, 1806</p>
+                     <p>River Distance: Northernmost <name type="place" key="Nebraska">Nebraska</name>-<name type="place" key="South Dakota">South Dakota</name> boundary to present <name type="place" key="North Dakota">North
+Dakota</name>-<name type="place" key="Montana">Montana</name> boundary, estimated by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> as 830 miles. Because of recent
+impoundments and other river alterations, current river distances are substantially less than
+those encountered by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>.</p>
+                     <p>Map of route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="South Dakota">South Dakota</name>
+                     </p>
+                  </figure>
+               </note>
+               <note xml:id="n04" n="4">
+                  <figure n="4">
+                     <head rend="center">Map 4. Route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="North Dakota">North Dakota</name>
+                     </head>
+                     <p>Outward Route Schedule: August 21, 1804, to April 27, 1805</p>
+                     <p>Return Schedule: August 3-5 to September 3, 1806</p>
+                     <p>River Distance: Northernmost <name type="place" key="Nebraska">Nebraska</name>-<name type="place" key="South Dakota">South Dakota</name> boundary to present <name type="place" key="North Dakota">North
+ Dakota</name>-<name type="place" key="Montana">Montana</name> boundary, estimated by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> as 830 miles. Because of recent
+ impoundments and other river alterations, current river distances are substantially less than
+ those encountered by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>. <name type="person" key="Clark, William">Clark</name> estimated the total river distance from their
+ starting point at <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">Camp Wood</name> to the <name type="native_nation" key="Mandan Indians">Mandan</name> villages as 1,500 miles, but it actually was closer
+ to 1,600 miles.</p>
+                     <p>Map of route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="North Dakota">North Dakota</name>
+                     </p>
+                  </figure>
+               </note>
+               <note xml:id="n05" n="5">
+                  <figure n="5">
+                     <head rend="center">Map 5. Route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in Eastern <name type="place" key="Montana">Montana</name>
+                     </head>
+                     <p>Outward Route Schedule: April 27 to July 27, 1805</p>
+                     <p>Return Schedule: July 7 to August 3 (<name type="person" key="Clark, William">Clark</name>) or August 7 (<name type="person" key="Lewis, Meriwether">Lewis</name>), 1806</p>
+                     <p>River Distance: <name type="place" key="Montana">Montana</name>-<name type="place" key="North Dakota">North Dakota</name> border to <name type="place" key="Missouri River, Three Forks of the">Three Forks</name>, 945 river miles, according
+to <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>. Because of recent impoundments, present-day river distances are
+now substantially less than the original distances calculated by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>.</p>
+                     <p>Map of route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in Eastern <name type="place" key="Montana">Montana</name>
+                     </p>
+                  </figure>
+               </note>
+               <note xml:id="n06" n="6">
+                  <figure n="6">
+                     <head rend="center">Map 6. Route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in Western <name type="place" key="Montana">Montana</name> as Far as <name type="place" key="Missouri River, Three Forks of the">Three Forks</name>
+                     </head>
+                     <p>Outward Route Schedule: April 27 to July 27, 1805</p>
+                     <p>Return Schedule: July 7 to August 3 (<name type="person" key="Clark, William">Clark</name>) and August 7 (<name type="person" key="Lewis, Meriwether">Lewis</name>), 1806</p>
+                     <p>River Distance: <name type="place" key="Montana">Montana</name>-<name type="place" key="North Dakota">North Dakota</name> border to <name type="place" key="Missouri River, Three Forks of the">Three Forks</name>, 945 river miles, according
+to <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>. Because of recent impoundments, present-day river distances are
+now substantially less than the original distances calculated by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>.</p>
+                     <p>Map of route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in Western <name type="place" key="Montana">Montana</name> as Far as <name type="place" key="Missouri River, Three Forks of the">Three Forks</name>
+                     </p>
+                  </figure>
+               </note>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="lc.johnsgard.01.00" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="lc.johnsgard.01.00" type="contents"/>
+               </item>
+               <item>
+                  <ptr n="lc.johnsgard.01.ill" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

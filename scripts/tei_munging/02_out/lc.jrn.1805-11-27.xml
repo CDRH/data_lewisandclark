@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-11-27">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+November 27, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 6</title>
+               <title level="m" type="sub">November 2, 1805–March 22, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1990</date>
+               <biblScope type="pages">90-91</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">257</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">178</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">399-400</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-11-27.01">
+            <placeName/>
+            <geo>46.2 -123.75</geo>
+            <note>Camped on the west side of Tongue Point, Clatsop County, OR. Just east of present Astoria. Most of the group remained here when Lewis went searching for winter camp.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-07-28</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-11-27">November 27, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-11-27.01" n="lc.geo.1805-11-27.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">November 27th Wednesday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+Some rain all the last night &amp; this morning    at day light 3 Canoes and 11 men Came down with roots meat, Skins &amp;c. to Sill, they asked Such high prices we were unable to purchase any thing, and as we were about Setting out, discovered that one of those Indians had Stole an ax, we Serched and found it under the roabe of one man whome we Shamed verry much</p>
+               <p>
+we proceeded on, around <name type="place" key="Tongue Point (Point William)">Point William</name>
+                  <ref target="n26112701" n="1"/>    th Swells became high and rained so hard we Concluded to halt and dry our Selves,<ref target="n26112702" n="2"/> Soon after our landing the wind rose from the East and blew hard accompanied with rain, this rain obliged us to unload &amp; draw up our Canoes, one of which was Split to feet before we got her out of the river, this place the Peninsolely is about 50 yards and 3 miles around this point of Land.    water Salt below not Salt above.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-11-27.02" n="lc.geo.1805-11-27.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday 27th November 1805</hi>
+                  </date>
+               </ab>
+               <p>
+Rained all the last night and this morning it Continues moderately— at day light 3 Canoes and 11 Indians Came from the Village with roots mats, Skins &amp;c. to Sell, they asked Such high prices that we were unable to purchase any thing of them, as we were about to Set out missed one of our axes which was found under an Indians roab    I smamed [<hi rend="italic">NB: Shamed</hi>] this fellow verry much and told them they should not proceed with us—    we proceded on between maney Small Islands passing a Small river<ref target="n26112703" n="3"/> of [<hi rend="italic">blank</hi>] yds wide which the Indians Call—[<hi rend="italic">NB: Kekemar〈qu〉ke</hi>] and around a verry remarkable point which projects about 1½ Miles directly towards the <name type="place" key="Grays (Shallow) Bay">Shallow bay</name>    the isthmus which joins it to the main land is not exceding 50 yards and about 4 Miles around.    we call this <name type="place" key="Tongue Point (Point William)">Point William</name>
+               </p>
+               <p>
+below this point the waves became So high we were Compelled to land unload and traw up the Canoes, here we formed a Camp on the neck of Land which joins <name type="place" key="Tongue Point (Point William)">Point William</name> to the main at an old indian hut. The rain Continued hard all day  we are all Wet and disagreeable.    one Canoe Split before we Got her out of the Water 2 feet—    The water at our Camp Salt that above the isthmus fresh and fine—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-11-27.03" n="lc.geo.1805-11-27.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 27th Nov. 1805.    rained all last night. Several Indians came from the village to trade their wapetoes roots with us.    we went on across a bay then turned a cape &amp; where we could perceive a considerable of current 
+in the River    we went on about one mile further    the waves ran So high that obledged us to halt at an old fishery.<ref target="n26112704" n="4"/>    hard rain.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-11-27.04" n="lc.geo.1805-11-27.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 27th.</hi>    We set out early in a wet morning; coasted round, and turned a sharp cape<ref target="n26112705" n="5"/> about a mile; when we found the swells running so high that we had to halt, unload our canoes, and haul them out on the shore. Here we remained the afternoon, and had a very wet night.<ref target="n26112706" n="6"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-11-27.05" n="lc.geo.1805-11-27.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday Novemr. 27th    A rainey wet morning &amp; cold.    We set out early and coasted along shore round a large Bay.    we then turned a <name type="place" key="Tongue Point (Point William)">Sharp Cape</name>,<ref target="n26112707" n="7"/> &amp; went about one Mile; where the Swell ran so high, that it became dangerous for us to proceed on.    We halted at an old fishing camp,<ref target="n26112708" n="8"/> where we unloaded our Canoes &amp; hawled them up on the Shore.—    The Rain 
+continued hard all this day.—
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n26112701" n="1">Presumably after <name type="person" key="Clark, William">William Clark</name>; present <name type="place" key="Tongue Point (Point William)">Tongue Point</name>, <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>, <name type="place" key="Oregon">Oregon</name>. <hi rend="italic">Atlas</hi> maps 82, 92.</note>
+            <note xml:id="n26112702" n="2">On the west side of the neck of <name type="place" key="Tongue Point (Point William)">Tongue Point</name>, in <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>, just east of present <name type="place" key="Astoria, Oreg.">Astoria</name>. The majority of the party under <name type="person" key="Clark, William">Clark</name> remained here until December 7, while <name type="person" key="Lewis, Meriwether">Lewis</name> and five men scouted for a suitable wintering camp. <hi rend="italic">Atlas</hi> maps 82, 92.</note>
+            <note xml:id="n26112703" n="3">Present <name type="place" key="John Day (Kekemarque) River (Clatsop County, Oreg.)">John Day River</name>, in <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>; <name type="place" key="John Day (Kekemarque) River (Clatsop County, Oreg.)">"Ke ke mar que Creek"</name> on <hi rend="italic">Atlas</hi> maps 81, 82. The term is from the <name type="native_nation" key="Chinook Indians">Chinook</name> language; its phonetic form is uncertain but may be <hi rend="italic">kigimax̣ix.</hi> The river should not be confused with the larger <name type="place"
+                     key="John Day (Lepage's) River (Sherman-Gilliam counties, Oreg.)">John Day River</name> (<name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark's</name>
+               <name type="place"
+                     key="John Day (Lepage's) River (Sherman-Gilliam counties, Oreg.)">River La Page</name>; see above, <ref n="1805-10-21" type="related">October 21, 1805</ref>), reaching the <name type="place" key="Columbia River">Columbia</name> between <name type="place" key="Sherman County, Oreg.">Sherman</name> and <name type="place" key="Gilliam County, Oreg.">Gilliam</name> counties, <name type="place" key="Oregon">Oregon</name>. Both were named for an Astorian who went insane during the overland journey of 1811–12. Coues (HLC), 2:655 n. 2.</note>
+            <note xml:id="n26112704" n="4">The party moved along the shore and crossed the neck of <name type="place" key="Tongue Point (Point William)">Tongue Point</name>, the group's <name type="place" key="Tongue Point (Point William)">Point William</name>, to its west side and camped there, east of <name type="place" key="Astoria, Oreg.">Astoria</name>, <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>, <name type="place" key="Oregon">Oregon</name>. Most of the party, including <name type="person" key="Ordway, John">Ordway</name>, would remain here until December 7, while <name type="person" key="Lewis, Meriwether">Lewis</name> and several men sought a winter camp.</note>
+            <note xml:id="n26112705" n="5">The captains called it <name type="place" key="Tongue Point (Point William)">Point William</name>, probably after <name type="person" key="Clark, William">Clark</name>; it is now <name type="place" key="Tongue Point (Point William)">Tongue Point</name>, <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>, <name type="place" key="Oregon">Oregon</name>.</note>
+            <note xml:id="n26112706" n="6">On the west side of the neck of <name type="place" key="Tongue Point (Point William)">Tongue Point</name>, <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>, just east of <name type="place" key="Astoria, Oreg.">Astoria</name>. Most 
+of the party would remain here under <name type="person" key="Clark, William">Clark</name> until <ref n="1805-12-07" type="related">December 7</ref>.</note>
+            <note xml:id="n26112707" n="7">The captains called it <name type="place" key="Tongue Point (Point William)">Point William</name>, probably after <name type="person" key="Clark, William">Clark</name>; it is now <name type="place" key="Tongue Point (Point William)">Tongue Point</name>, <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>, <name type="place" key="Oregon">Oregon</name>.</note>
+            <note xml:id="n26112708" n="8">On the west side of the neck of <name type="place" key="Tongue Point (Point William)">Tongue Point</name>, <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>, just east of <name type="place" key="Astoria, Oreg.">Astoria</name>. Most of the party would remain here under <name type="person" key="Clark, William">Clark</name> until <ref n="1805-12-07" type="related">December 7</ref>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-11-26" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-11-28" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

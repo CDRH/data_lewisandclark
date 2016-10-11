@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.1806-09-26">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+September 26, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">372</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-12-23</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date>September 26, 1806</date>
+         </head>
+         <div type="entry">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Friday 〈25〉th</hi> [<hi rend="italic">EC: 26</hi>] <hi rend="italic">of September 1806</hi>
+                     <ref target="n40092601" n="1"/>
+                  </date>
+               </ab>
+               <p>
+a fine morning    we commenced wrighting &amp;c.<ref target="n40092602" n="2"/>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n40092601" n="1">This is the last daily entry in Codex N and the last of the captains' daily journal entries for the expedition. Only a small portion of this page (p. 78) is taken up with text for September 25 and 26, the remainder is blank. The remainder of Codex N consists of blank pages (pp. 79–80, 86–121, 143), maps and notes on <name type="place" key="Bon Homme (Good Man's) Island">Bon Homme Island</name> (pp. 81–85), and a number of miscellaneous notes (pp. 122–54, reading backwards), including <name type="person" key="Clark, William">Clark's</name> weather diary for September 1806, <name type="person" key="Clark, William">Clark's</name> summary of <name type="person" key="Lewis, Meriwether">Lewis's</name> journey from <name type="place" key="Travelers' Rest (Idaho)">Travelers' Rest</name> to the <name type="place" key="Missouri River, Great Falls of the">Great Falls of the Missouri</name>, a map of that route, and several other items that are printed in <ref n="1806.postexpedition.introduction" type="related">Postexpeditionary Miscellany</ref>.</note>
+            <note xml:id="n40092602" n="2">The nature of this "wrighting" is not clear. Some of the letters they had begun a few days earlier may not yet have been finished; see <ref n="1806-09-24" type="related">September 24, 1806</ref>. It is likely that they were writing other letters in the next few days; see <name type="person" key="Lewis, Meriwether">Lewis</name> to an Unknown Correspondent, September 29, 1806. Jackson (LLC), 1:335–43. It is possible that <name type="person" key="Clark, William">Clark</name> still had some of his journals to complete, although there are objections to this supposition. See the <ref n="introduction.general" type="related">Introduction to the Journals</ref>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-09-25" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-09-30-1" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

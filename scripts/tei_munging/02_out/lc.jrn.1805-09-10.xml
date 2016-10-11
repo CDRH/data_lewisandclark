@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-09-10">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+September 10, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">196-198</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">221-222</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">140</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">308-310</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-06-14</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-09-10">September 10, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-09-10.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Tuesday September 10th 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+The morning being fair I sent out all the hunters, and directed two of them to procede down the river as far as it's junction with the Eastern fork which heads near the <name type="place" key="Missouri River">missouri</name>, and return this evening.    this fork of the river we determined to name the <name type="place"
+                        key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Valley plain river</name>. [<hi rend="italic">NB: we called the <name type="place"
+                           key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Eastern fork of Clarkes river</name>.</hi>]<ref target="n22091001" n="1"/> I think it most probable that this river continues it's course along the <name type="place" key="Rocky Mountains">rocky Mts.</name> Northwardly as far or perhaps beyond the scources of <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Medecine river</name> and then turning to the West falls into the <name type="place" key="Fraser (Tacoutche-Tesse) River">Tacootchetessee</name>.<ref target="n22091002" n="2"/> The <name type="native_nation" key="Hidatsa Indians">Minetares</name> informed us that there mass [was] a large river west of, and at no great distance from the sources of <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Medecine river</name>, which passed along the <name type="place" key="Rocky Mountains">Rocky Mountains</name> from S. to N.— this evening one of our hunters returned accompanyed by three men of the <name type="native_nation" key="Flathead Indians">Flathead</name> nation whom he had met in his excurtion up <name type="place" key="Lolo (Travelers' Rest) Creek (Mont.)">
+                     <hi rend="italic">travellers rest</hi> Creek.</name>
+                  <ref target="n22091003" n="3"/>    on first meeting him the Indians were allarmed and prepared for battle with their bows and arrows, but he soon relieved their fears by laying down his gun and advancing towards them.    the Indians were mounted on very fine horses of which the <name type="native_nation" key="Flathead Indians">Flatheads</name> have a great abundance; that is, each man in the nation possesses from 20 to a hundred head.    our guide could not speake the language of these people but soon engaged them in conversation by signs or jesticulation, the common language of all the Aborigines of North America, it is one understood by all of them and appears to be sufficiently copious to convey with a degree of certainty the outlines of what they wish to communicate.    in this manner we learnt from these people that two men which they supposed to be of the <name type="native_nation" key="Shoshone Indians">Snake</name> nation had stolen 23 horses from them and that they were in pursuit of the theaves.    they told us they were in great hast, we gave them some boiled venison, of which the eat sparingly.    the sun was now set, two of them departed after receiving a few small articles which we gave them, and the third remained, having agreed to continue with us as a guide, and to introduce us to his relations whom he informed us were numerous and resided in the plain below the mountains on the <name type="place" key="Columbia River">columbia river</name>, from whence he said the water was good and capable of being navigated to the sea; that some of his relation were at the sea last fall and saw an old whiteman who 〈send given〉 resided there by himself and who had given them some handkerchiefs such as he saw in our possession.—    he said it would require five sleeps<ref target="n22091004" n="4"/> wich is six days travel, to reach his relations.    the <name type="native_nation" key="Flathead Indians">Flatheads</name> are a very light coloured people of large stature and comely form.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-09-10.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">September 10th Tuesday 1805—</hi>
+                  </date>
+               </ab>
+               <p>
+A fair morning Concluded to Delay to day and make Some observations, as at this place the rout which we are to prosue will pass up the <hi rend="italic">
+                     <name type="place" key="Lolo (Travelers' Rest) Creek (Mont.)">Travelers rest Creek</name>,</hi> The day proved fair and we took equal altitudes &amp; Some luner observations. The Latd. <hi rend="italic">46° 48' 28"</hi> as the guide report that no game is to be found on our rout for a long ways, ads an addition to the cause of our delay to precure Some meat, despatched all our hunters in different directions, to hunt the Deer which is the only large game to be found    they killed 4 deer a Beaver &amp; 3 Grouse which was divided, one of the hunters <name type="person" key="Colter, John">Colter</name>, met with 3 〈flatheads〉 Tushapaw Indians who were in pursuit of 2 <name type="native_nation" key="Shoshone Indians">Snake</name> Indians that hade taken from 〈the three from〉 ther Camps on the 〈<name type="place" key="Columbia River">Columbia</name>〉 head of <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name> River<ref target="n22091005" n="5"/> 21 horses, Those Indians came with <name type="person" key="Colter, John">Colter</name> to our Camp &amp; informed by Signs of their misfortune &amp; the rout to ther villages &amp;c. &amp;c.    one of them Concluded to return with us. 〈I〉 we gave them a ring fish hook &amp; tied a pece of ribin in the hare of each which appeared to please them verry much, <name type="person" key="Lewis, Meriwether">Cap Lewis</name> gave them a Steel &amp; a little Powder to make fire, after eating 2 of them proceeded on in pursute of their horses.    men all much engaged preparing mockersons &amp;c. &amp;c. The Countrey about this place is already described in that above.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-09-10.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday 10th Sept. 1805.    a fair morning.    we make a Short halt here to wrest and hunt.    all the best hunters turned out to hunt.    the day warm.    towards evening the hunters returned    had killed 4 Deer a faun and Several ducks and geese.    one of the hunters Saw three Indians on horse back    they appeared afraid of him    Signed to him to lay down his gun    he layed it down    they then came to him [in] a friendly manner.    he Signed to them to come with him and they took him on behind one of them and rode down to Camp.    they belong to the <name type="native_nation" key="Flathead Indians">flat head nation</name>    they Signed to us that they lay all day in hearing of our guns but was afraid to come to us.    they Sign to us also that 2 of the <name type="native_nation" key="Shoshone Indians">Snake</name> Nation had Stole 2 of their horses, and they were in pursuit of them—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-09-10.04" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 10th.</hi>    We remained here all this day, which was clear and pleasant, to let our horses rest, and to take an observation. At night our hunters came in, and had killed 5 deer. With one of the hunters, 3 of the <name type="native_nation" key="Flathead Indians">Flathead</name> Indians<ref target="n22091006" n="6"/> came to our camp. They informed us that the rest of their band was over on the <name type="place" key="Columbia River">Columbia river</name>, about 5 or 6 days' journey distant, withpack-horses; that two of the Snake nation had stolen some of their horses, and that they were in pursuit of them. We gave them some presents, and one stayed to go over the mountains with us; the other two continued their pursuit.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-09-10.05" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 10th Sept. 1805</hi>.    a clear pleasant morning.    not So cold as usal.    as our road leads over a mountain to our left, we conclu our Captains conclude to Stay here this day to take observations, and for the hunters to kill meat to last us across the mountain and for our horses to rest &amp;c.    Several men and all the best hunters went out a hunting    considerable of cotton timber on this creek    the choke cherries abound on its bottoms.    the natives has lately gethered an amence quantities of them here for food, as they mooved up.    considerable of Elder<ref target="n22091007" n="7"/> willow and Servis bushes along the Creek &amp;c.    theo the day is warm the Snow does not melt on the mt. a Short distance from us.    considerable of pitch pine on the mountains, but the Snow makes them look like the middle of winter.    the valley and plains are pleasant.    towards evening the hunters all came or returned to Camp    had killed 4 Deer 2 ducks a faun deer and Several geese.    towards evening one of the hunters went up the creek a Short distance    came across three Indians a horseback    they appeared afraid of him untill he lay down his gun    they then came up to him in a friendly manner and took him on behind one of them and rode verry fast down to our Camp.    they belong to the nation of <name type="native_nation" key="Flathead Indians">flat heads</name>.    2 of our hunters was down the River in cite of the forks to day, and allow it to be about 15 miles down the valley.    these three natives tell us that they lay in hearing of our guns all day and was afraid to come to us.    they tell us that two of the <name type="native_nation" key="Shoshone Indians">Snake</name> Indians has Stole 22 of their horses, and these three are in persuit of them.    one Stayed to pilot us over the mout.    the other 2 proceeded on in order to ride all night after them, intending to git their horses if possable.    our guide tells us that these waters runs into <name type="place" key="Mackenzie River">Mackinzees River</name>
+                  <ref target="n22091008" n="8"/> as near as they can give an account, but he is not acquainted that way.    So we go the road he knows.</p>
+               <p>
+Tuesday Septemr. 10th    We had a clear pleasant morning, and the weather moderate, As our Road now lay over a Mountain to our left hand, Our Officers concluded to stay here this day, in Order to take an Observation &amp; attain the latitude of this place &amp; for the hunters to provide us with Meat, sufficient to last us across that mountain; and to rest our horses.—    Several of the Men &amp; our best hunters were sent out a hunting.—</p>
+               <p>
+We found along this Creek, a considerable quantity of Cotton wood timber, &amp; in the bottoms choke cherries.    We found an immense quantities of these berries, which the Natives had lately gathered for food on their way to the <name type="place" key="Missouri River">Mesouri</name>, Elder, Willow &amp; Service berries bushes grow in plenty along this Creek.—    the day continued to grow warm, but the Snow did not melt on the Mountains, which lay a short distance from us.    On these mountains are large Pitch pine Trees.    The Snow on the Mountains have the appearance of the Middle of winter.    The Vallies have a very pleasant appearance.—    Towards evening all our hunters returned to our Camp.—    They had killed 4 Deer, 1 fawn 2 Ducks &amp; several Geese.    The hunters went out again up the Creek a short distance, and came across 3 Indians on horse back, those Indians seemed afraid of our hunters, untill they laid down their Guns, they then came up to them in a friendly manner.    these Indians took our hunters up behind them, and rode very fast down to our Camp, We learnt from our Interpreters &amp; Guide, that those Indians belonged to a Nation of Indians called the <name type="native_nation" key="Flathead Indians">Flatt head</name> Nation.    Some of our hunters that went down the Creek or River, informed us, that they were in sight of the <name type="place" key="Columbia River">Columbia River</name> this day &amp; allow it to be about 15 Miles down the Valley that we are now in.     The three Indians, that came to our Camp with our hunters informed us; that they had lay in the hearing of the firing of our Guns all this day, and that they were afraid to come to us, not knowing what nation we belonged to.    They also informed us, that two of the <name type="native_nation" key="Shoshone Indians">Snake</name> Nation of Indians had stole 22 of their horses &amp; that they were now in pursuit of them.    One of these Indians staid with us to pilot us over the Mountains and the other two started after the theives, intending to ride all the night after them, and to get their horses if possible.—    Our guide, informed us, that these Waters, runs into <name type="place" key="Mackenzie River">Mackenzie's River</name>, as near as 〈they〉 he can guess, or give information, but says that he is not acquainted with that Road or path, Our officers concluded on going the Road that our Interpreter is best acquainted with.—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n22091001" n="1">
+               <name type="person" key="Biddle, Nicholas">Biddle</name> crossed out "we determined to name the Valley plain river" and added the interlineation in red ink. The river is the present <name type="place"
+                     key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark Fork</name> above its junction with the <name type="place" key="Bitterroot (Clark's, Flathead) River">Bitterroot</name>. In the spring of 1806 they decided to name the <name type="place" key="Bitterroot (Clark's, Flathead) River">Bitterroot–Clark Fork "Clark's River</name>," having previously called it the <name type="place" key="Bitterroot (Clark's, Flathead) River">Flathead</name>. Thwaites (LC), 3:60, considers the interlineation <name type="person" key="Lewis, Meriwether">Lewis's</name>, but this is hard to accept. See the Introduction to the <hi rend="italic">Atlas.</hi>
+            </note>
+            <note xml:id="n22091002" n="2">
+               <name type="person" key="Mackenzie, Alexander">Alexander Mackenzie</name> discovered the <name type="place" key="Fraser (Tacoutche-Tesse) River">Tacoutche-Tesse</name>, a large river in <name type="place" key="British Columbia">British Columbia</name> west of the <name type="place" key="Continental Divide">Continental Divide</name>, in 1793. He believed it to be the <name type="place" key="Columbia River">Columbia</name>, or a major tributary thereof, and <name type="person" key="Jefferson, Thomas">Jefferson</name>, <name type="person" key="Lewis, Meriwether">Lewis</name>, and <name type="person" key="Clark, William">Clark</name> shared the assumption. It is in fact the modern <name type="place" key="Fraser (Tacoutche-Tesse) River">Fraser River</name>, neither the <name type="place" key="Columbia River">Columbia</name> nor a tributary, but this was not discovered until 1807 by <name type="person" key="Fraser, Simon">Simon Fraser</name>. The <name type="place"
+                     key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark Fork</name>, after meeting the <name type="place" key="Bitterroot (Clark's, Flathead) River">Bitterroot</name>, does flow northwest to <name type="place" key="Lake Pend Oreille">Lake Pend Oreille</name>, in northern <name type="place" key="Idaho">Idaho</name>, and from thence the <name type="place"
+                     key="Pend Oreille (Clark's, Flathead, Lastaro, Lastaw) River">Pend Oreille River</name> flows into the <name type="place" key="Columbia River">Columbia</name>. Thus the information <name type="person" key="Lewis, Meriwether">Lewis</name> received was essentially correct. Allen (PG), 83–86; Wallace, 445–46, 474–75.</note>
+            <note xml:id="n22091003" n="3">The hunter was <name type="person" key="Colter, John">Colter</name>. The Indians' description of their country matches the <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> homeland in <name type="place" key="Idaho">Idaho</name>, and they were probably of that tribe, not <name type="native_nation" key="Flathead Indians">Flatheads</name> (<name type="native_nation" key="Flathead Indians">Salish</name>). This may be an instance of using the term "<name type="native_nation" key="Flathead Indians">Flathead</name>" broadly, for many tribes west of the <name type="place" key="Continental Divide">Continental Divide</name>. Space, 5.</note>
+            <note xml:id="n22091004" n="4">Codex Fc, as it presently exists, ends here. The remainder of <name type="person" key="Lewis, Meriwether">Lewis's</name> entry of September 10 is found in Codex P, p. 80, indicating that <name type="person" key="Lewis, Meriwether">Lewis</name> wrote Codex Fc while the pages were still in the red notebook. The pages now in Codex Fc were probably removed in 1810, when Codex P was used to copy natural history notes. See <ref n="introduction.general" type="related">Introduction</ref> and <ref n="v02.appendix.c" type="related">Appendix C</ref>.</note>
+            <note xml:id="n22091005" n="5">The use of this term indicates that <name type="person" key="Clark, William">Clark</name> was correcting this journal later, possibly as late as 1810 when he was conferring with <name type="person" key="Biddle, Nicholas">Biddle</name>. The river is the present <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater</name> which the party did not reach for another ten days and which they did not name in the journals until apparently October 6.</note>
+            <note xml:id="n22091006" n="6">Although the party called them <name type="native_nation" key="Flathead Indians">Flatheads</name> (<name type="native_nation" key="Flathead Indians">Salish</name>), they were probably <name type="native_nation" key="Nez Perce Indians">Nez Perces</name>.</note>
+            <note xml:id="n22091007" n="7">Probably blue elderberry, <hi rend="italic">Sambucus cerulea</hi> Raf., which <name type="person" key="Lewis, Meriwether">Lewis</name> mentioned on <ref n="1806-02-07" type="related">February 7, 1806</ref>.</note>
+            <note xml:id="n22091008" n="8">See <name type="person" key="Lewis, Meriwether">Lewis's</name> account of the connections of rivers in his entry for this day.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-09-09" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-09-11" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

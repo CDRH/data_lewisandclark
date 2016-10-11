@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-09-02">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+September 2, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">183-185</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">215-216</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">135</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">296-297</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-09-02.01">
+            <placeName/>
+            <geo>45.5833 -114</geo>
+            <note>Camped near the mouth of Quartz Creek, Gibbonsville, Lemhi County, ID.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-06-10</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-09-02">September 2, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-09-02.01" n="lc.geo.1805-09-02.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">September 2nd Monday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+a Cloudy Mornin, raind Some last night    We set out early and proceeded on up the [<hi rend="italic">EC: <name type="place" key="North Fork Salmon River (Fish Creek)">Fish</name>
+                  </hi>] Creek, Crossed a large fork from the right and one from the left; and at 8 [<hi rend="italic">EC: 7½</hi>] miles left the roade on which we were pursuing and which leads over to the <name type="place" key="Missouri River">Missouri</name>; and proceeded up a West fork [<hi rend="italic">EC: of <name type="place" key="North Fork Salmon River (Fish Creek)">Fish Creek</name>
+                  </hi>] without a roade proceded on thro' thickets in which we were obliged to Cut a road, over rockey hill Sides where our horss were in pitial<ref target="n22090201" n="1"/> danger of Slipping to Ther certain distruction &amp; up &amp; Down Steep hills, where Several horses fell, Some turned over, and others Sliped down Steep hill Sides, one horse Crippeled &amp; 2 gave out. with the greatest dificuelty risque &amp;c. we made five [<hi rend="italic">EC: 7½</hi>] miles &amp; Encamped on The left Side of the Creek in a Small Stoney bottom<ref target="n22090202" n="2"/>    after night Some time before the rear Came up, one Load left, about 2 miles back, the horse on which it was Carried Crippled. Some rain at night</p>
+               <p>
+                  <table rows="35" cols="3">
+                     <head>Course and Distance by land from the <name type="place" key="Columbia River">Columbia</name> [<hi rend="italic">EC: <name type="place"
+                                 key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Salmon</name>
+                        </hi>] River<lb/>
+14 miles below the forks</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">August 31st 1805</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 35° E</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles up <name type="place" key="Tower Creek">Tower Creek</name> to a hill</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° E</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">     do       do       do    passed remarkable rock resem-<lb/>
+bling Pirimids on the Left Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">  4</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">
+                              <hi rend="italic">Septr. 1st Sunday</hi>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° W</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to the top of a high hill</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 65° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to the [top?] of a hill passing the heads of dreans passing<lb/>
+to our left</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 55° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to the top of a high hill    passd. two forks of a Crek,<lb/>
+the first large &amp; bold the 2d. Small</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">mile down to a raveen to a run</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 70° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3 ½</cell>
+                        <cell role="data" rows="1" cols="1">to the top of a high hill passing a branch at ¼ &amp; over a<lb/>
+hill at 1 mile</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 35° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">to the top of a high hill</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 25° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to ditto    passed a branch at ½ mile which passes to the<lb/>
+left</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">decending a Steep winding hill to a large Creek which we<lb/>
+Call <name type="place" key="North Fork Salmon River (Fish Creek)">Fish Creek</name> &amp; runs into the [<hi rend="italic">EC: <name type="place"
+                                    key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Salmon</name>
+                           </hi>] river at<lb/>
+Some lodge 6 miles below South</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 12° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  2</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles up the Creek to a bluff Point.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">20 〈½〉</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">
+                              <hi rend="italic">Septr. 2nd Monday</hi>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to a large fork which falls in on the left in a pine bottom</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 45° E</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a large fork which falls in on the right    Hills<lb/>
+Covd. with Pine</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">  3 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to the [<hi rend="italic">EC: main</hi>] forks of the Creek passed a leavel<lb/>
+pine bottom &amp; pine hills maney beaver Dams across the<lb/>
+Creek</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 60° W</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles up the west fork [<hi rend="italic">EC: of <name type="place" key="North Fork Salmon River (Fish Creek)">Fish Cr.</name>
+                           </hi>] leaving the road<lb/>
+on our right which passes to the <name type="place" key="Missouri River">Missouri</name> [<hi rend="italic">EC: Dalong<lb/>
+Cr.</hi>] by the East fork [<hi rend="italic">X: of <name type="place" key="North Fork Salmon River (Fish Creek)">Fish Cr.</name>
+                           </hi>]</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 35° W</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles up the west fork Crossed it Several times &amp; passing<lb/>
+thro' thickets brush &amp; over rocks.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 50° W</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  2</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles over hills rocks &amp; Steep points &amp; hill Sides on the<lb/>
+left of the [<hi rend="italic">X: West fork of <name type="place" key="North Fork Salmon River (Fish Creek)">Fish</name>
+                           </hi>] Creek crossing a run at<lb/>
+1 mile</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">miles</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">15</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">
+                              <hi rend="italic">Septr. 3rd Tuesday 1805</hi>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 25° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">Miles to a Small fork on the left    Hilley and thick as-<lb/>
+sending</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 15° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">mile to a fork on the right assending</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 22° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a fork on the left passing one on the left Several<lb/>
+Spring runs on the right Stoney hills &amp; falling timber</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 18° E.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles passing over Steep points &amp; winding ridges to a<lb/>
+high Point    passed a run on the right</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 32° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles to the top of a high hill    passed 2 runs from the<lb/>
+left, passing on the Side of a Steep ridge.    no road</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 40° W</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  3</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles leaveing the waters of the Creek to the right &amp;<lb/>
+passing over a high pine Mountn. to the head or a Drean<lb/>
+running to the left</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">14</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">
+                              <hi rend="italic">September 4th Wednesday 1805</hi>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">  6</cell>
+                        <cell role="data" rows="1" cols="1">miles on a Direct Course over a high Snow mountain &amp;<lb/>
+down a Drean of <name type="place" key="Bitterroot (Clark's, Flathead) River">Flat head River</name> [<hi rend="italic">EC: <name type="place" key="Bitterroot (Clark's, Flathead) River">Ross Forks &amp; Clark's</name>
+                              <lb/>
+rivr    Divide of <name type="place" key="Bitterroot (Snow) Mountains">B. R. Mts.</name>
+                           </hi>] to a fork on the right.    (our rout<lb/>
+on a Dividing ridge to the right 9 <hi rend="italic">ms.</hi> about[)]    bad road</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 18° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">down the run [<hi rend="italic">EC: <name type="place" key="Camp Creek (Ravalli County, Mont.)">Camp Creek</name>
+                           </hi>] to a run on the left</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 35° W</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles down the run to the river which Coms from the<lb/>
+East, a wide Vallie. 33 tents of <name type="native_nation" key="Flathead Indians">Flat heads</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">12</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"/>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">ms.</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">53 ½</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-09-02.02" n="lc.geo.1805-09-02.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 2nd Sept. 1805</hi>.    a cloudy wet morning.    we loaded our horses and Set out about 7 oClock, and proceeded on.    the way we had to go was verry bad    Some places thick bushes and logs to pass over.    other places rockey.    our course about N. E.    crossed Several creeks or large Spring runs the water of which was verry cold. Saw a nomber of large beaver dams and beaver ponds on this creek.    the pine and balsom fir timber tall and Strait, and pleanty. Some of the pine is large enofe for canoes or boards &amp;C.    considerable of common alder along the creeks and runs.    we proceeded on up the creek    passed through verry bad thickets where we were oblidged to cut a road for our horses to pass through.    handsom tall strait pine and balsom fir and a little cotton intermixed.    crossed Several branches. Some places muddy.    we call this place <name type="place" key="Dismal Swamp">dismal Swamp</name>.<ref target="n22090203" n="3"/>    Several beaver dams in it &amp;C. Some places Steep along the edge of the mountains and verry rough and rockey.    the mountains make close on each Side of the creek and high covred with pine.    this is a verry lonesome place. Some of our weak horses fell backward climeing the Steep rockey hills, and mountains.    we had considerable of trouble this day carring Several of the horses loads up the steep rockey mont.    one of the horses gave out So that he could not carry his load.    we went 13 miles this day and Camped<ref target="n22090204" n="4"/> in a thicket near the creek.    it was about six miles through the thicket which we call the <name type="place" key="Dismal Swamp">dismal Swamp</name>.    nothing killed this day by the hunters only a fiew fessents.<ref target="n22090205" n="5"/>    no game of any kind to be Seen in these mountains.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-09-02.03" n="lc.geo.1805-09-02.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 2nd.</hi>    The morning was cloudy. We set out early; proceeded up the creek, and passed some part closely timbered with spruce and pine. We went on with difficulty on account of the bushes, the narrowness of the way 
+and stones that injured our horses feet, they being without shoes. In the forenoon we killed some pheasants<ref target="n22090206" n="6"/> and ducks, and a small squirrel. In the afternoon we had a good deal of rain, and the worst road (if road it can be called) that was ever travelled. The creek is become small and the hills come close in upon the banks of it, covered thick with standing timber and fallen trees; so that in some places we were obliged to go up the sides of the hills, which are very steep, and then down again in order to get along at all. In going up these ascents the horses would sometimes fall backwards, which injured them very much; and one was so badly hurt that the driver was obliged to leave his load on the side of one of the hills. In the low ground there are most beautiful tall straight pine trees of different kinds, except of white pine.<ref target="n22090207" n="7"/> Game is scarce; and a small quantity of dried salmon, which we got from the natives is almost our whole stock of provisions. A son of our guide joined us to day and is going on. We went 13 miles and encamped;<ref target="n22090208" n="8"/> but some of the men did not come up till late at night.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-09-02.04" n="lc.geo.1805-09-02.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 2nd Sept. 1805</hi>.    a wet cloudy morning.    we loaded our horses and Set out about 7 oClock and proced on.    the road bad    Some places thick bushes and [logs?] to cross.    other places rockey.    went about a N. E. course up the abo. ment.<ref target="n22090209" n="9"/> Creek.    Crossed Several large Spring runs.    Saw a nomber of large beaver dams &amp; ponds    the pine and bolsom fer timber verry pleanty and thick up this Creek    Some of the Pine is large enofe for boards [<hi rend="italic">several words illegible</hi>]    we proceeded on through a bad thicket of tall Strait pitch pine bolsom fer &amp; cotton timber    we were obledged to cut a road for the horses to go and some places verry Steep and rockey.    we followed the creek up, crossed a nomber of fine Spring branches and waided the creek a nomber of times.    the mountains on each Side of the Creek is verry Steep and high.    the bottoms on the Creek narrow and Swampy a nomber of beaver dams.    we Call this place <name type="place" key="Dismal Swamp">dismal Swamp</name>, and it is a lonesom rough part of the Country.    we were obledged to climb Several hills with our horses, where it was So Steep and rockey that Some of the horses 
+which was weak and their feet Sore, that they fell back    3 or 4 fell over backwards and roled to the foot of the hills.    we were then obledged to carry the loads up the hills and then load again.    one of the horses gave out So that his load was left a little before night.    we Came 13 miles this day and Camped in a thicket of pine and bolsom fir timber near the Creek.    2 of the men came up with their horses and loads after dark.    this horrid bad going where we came up this creek which we Call <name type="place" key="Dismal Swamp">dismal Swamp</name> was six miles and we are not out of it yet, but our guide tells us that we will git on a plain tomorrow.    Several fessons killed this day, but no other kind of game Seen by our hunters.—</p>
+               <p>
+Monday September 2nd    A cloudy wet morning, We set out with our horses &amp; proceeded on our Journey, and about 7 o'Clock A. M. we passed some very bad Roads, some being plains with very thick bushes, and low slashes to cross, other places, very rockey, we went a North east course up the Creek above mention'd.    We recrossed the same Creek near a large spring run,—    where we saw a number of high beaver dams.    We saw also Pitch pine &amp; Balsam fir Trees in great abundance, on the Tops of the Mountains, We passed through a bad thicket of tall strait Pitch pine, balsam fir, &amp; Cotton wood Timber 〈so〉 which grew so close to each other that we were obliged to cut a road for our horses to pass through.—</p>
+               <p>
+Some of those places were very steep &amp; Rockey.—    We continued our course up the side of the Creek already mentioned this day, and crossed a number of fine Spring branches, and waided in the Creek a number of times.    The Mountains that lies on both sides of this Creek are very steep &amp; high; the bottoms on this Creek narrow &amp; swampey, And had a vast number of beaver dams, on them    We named this place <name type="place" key="Dismal Swamp">Dismal swamp</name>, &amp; it was certainly a lonesome rough looking part of the Country.—    We were obliged to Climb several hills with our horses, where the hills was so steep &amp; rockey, 〈which〉 some of the horses that was weak &amp; had sore feet fell backward with their loads; and rolled down to the foot of those hills, we were obliged to carry the loads of our horses, on our backs up many of the hills, &amp; then load them again.    One of our horses gave out, so that we were obliged to leave his load.—    We came about 13 Miles this day, &amp; encamped in a thicket of pine trees, and balsam fir timber; near the Creek.—    Two of our Men came up with their horses &amp; loads after it was dark.—    We came about 
+6 Miles through this bad road, all of which way was very bad travelling, and we are informed by our guide, that we have still further to go, before we get to the plains, which he says will be tomorrow, Our Hunters killed several Pheasants this day, but saw no other kind of Game.—
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n22090201" n="1">Meant for "perpetual" or perhaps "potential."</note>
+            <note xml:id="n22090202" n="2">Northwest of <name type="place" key="Gibbonsville, Idaho">Gibbonsville</name>, <name type="place" key="Lemhi County, Idaho">Lemhi County</name>, <name type="place" key="Idaho">Idaho</name>, near <name type="place" key="U.S. Highway 93">U.S. Highway 93</name>, somewhat above the mouth of <name type="place" key="Hammerean Creek">Hammerean Creek</name>. Peebles (RW), 16, and fig. 13; Majors (LCRM), 101 n. 54; <hi rend="italic">Atlas</hi> map 68. However, a local historical marker places the group farther north as does a researcher who believes they may have camped beyond the mouth of <name type="place" key="Quartz Creek">Quartz Creek</name>. Information of Robert N. Bergantino, <name type="place" key="Butte, Mont.">Butte</name>, <name type="place" key="Montana">Montana</name>.</note>
+            <note xml:id="n22090203" n="3">
+               <name type="person" key="Ordway, John">Ordway</name> and <name type="person" key="Whitehouse, Joseph">Whitehouse</name> use this term (but not <name type="person" key="Clark, William">Clark</name> or <name type="person" key="Gass, Patrick">Gass</name>) for the area around <name type="place" key="Gibbonsville, Idaho">Gibbonsville</name>, <name type="place" key="Lemhi County, Idaho">Lemhi County</name>, <name type="place" key="Idaho">Idaho</name>. They may have been recalling the <name type="place" key="Dismal Swamp">Dismal
+Swamp</name> of southeast <name type="place" key="Virginia">Virginia</name> and northeast <name type="place" key="North Carolina">North Carolina</name>.</note>
+            <note xml:id="n22090204" n="4">Above the mouth of <name type="place" key="Hammerean Creek">Hammerean Creek</name> and northwest of <name type="place" key="Gibbonsville, Idaho">Gibbonsville</name>.</note>
+            <note xml:id="n22090205" n="5">A species of grouse; see <name type="person" key="Lewis, Meriwether">Lewis's</name> entry of <ref n="1805-09-20" type="related">September 20</ref>.</note>
+            <note xml:id="n22090206" n="6">The party noted three species of "pheasants" in the mountains, all species of grouse. 
+They include blue grouse, <hi rend="italic">Dendragapus obscurus,</hi> spruce grouse, <hi rend="italic">D. canadensis,</hi> and Oregon ruffed grouse, <hi rend="italic">Bonasa umbellus sabini,</hi> now classified under <hi rend="italic">B. umbellus.</hi>
+            </note>
+            <note xml:id="n22090207" n="7">
+               <name type="person" key="Gass, Patrick">Gass</name> may be using the term "pine" as a generic designation for evergreen conifers. See listings of area trees at the captains' entries of <ref n="1805-09-09" type="related">September 9</ref>, <ref n="1805-09-14" type="related">14</ref>, and <ref n="1805-09-16" type="related">16</ref>.</note>
+            <note xml:id="n22090208" n="8">Northwest of <name type="place" key="Gibbonsville, Idaho">Gibbonsville</name>, <name type="place" key="Lemhi County, Idaho">Lemhi County</name>, <name type="place" key="Idaho">Idaho</name>, near <name type="place" key="U.S. Highway 93">U.S. Highway 93</name>. See <name type="person" key="Clark, William">Clark's</name> entry for this day for a discussion of the exact location.</note>
+            <note xml:id="n22090209" n="9">That is, "above mentioned," as in the fair copy. The stream is the <name type="place" key="North Fork Salmon River (Fish Creek)">North Fork Salmon River</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-09-01" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-09-03" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

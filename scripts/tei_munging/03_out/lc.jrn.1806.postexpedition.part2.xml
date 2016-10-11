@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xml:id="lc.jrn.1806.postexpedition.part2">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">Part 2: Miscellany</title>
+            <title type="sub"/>
+            <author>Gary E. Moulton</author>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">411-419</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806.postexpedition.part2.01">
+            <placeName/>
+            <geo> </geo>
+            <note>No location. Miscellaneous notes following the end of the expedition.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh" n="category">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2005-01-11</date>
+            <date/>
+            <name>Laura Weakly</name>
+            <name/>Initial creation Transcribed</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="main">Part 2: Miscellany</head>
+         <head type="sub"/>
+         <div type="part">
+            <p>
+The following miscellaneous items do not fit into other sections of this chapter. These notes were apparently made after the party left <name type="place" key="Fort Clatsop (Oreg.)">Fort Clatsop</name> in March 1806 or are related to the period after that time, perhaps being written as late as after the return to <name type="place" key="Saint Louis, Mo.">St. Louis</name> in September 1806.
+</p>
+         </div>
+         <milestone unit="editor_end"/>
+         <div type="entry"
+              xml:id="lc.jrn.1806.postexpedition.part2.02"
+              n="lc.geo.1806.postexpedition.part2.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>[<hi rend="italic">undated</hi>]<ref target="n01" n="1"/>
+                  </date>
+               </ab>
+               <p>
+The navagation of the <name type="place" key="Missouri River">Missouri</name> to the neighbourhood of the falls is only obstructed by a regularly Swift Current, Sand bars &amp; trees unbeaded in the bottom    no rapids or falls of any Consequence and [in?] The 2575 miles</p>
+               <p>
+                  <table rows="17" cols="1">
+                     <head>The large Rivers which fall into the <name type="place" key="Missouri River">Missouri</name> are</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1st    <name type="place" key="Osage (Osarge) River">Osage</name> on S. Side    navagable a long way</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">2    <name type="place" key="Kansas (Decaugh, Kaw) River">Kanzas</name> S. S.                   do       in Canoes long way</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">3    <name type="place" key="Platte River (Nebr.)">R. Plate</name> not nav: one inch</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Little Sioux (Ye-yeau War-da-pon) River">Little</name> &amp; <name type="place" key="Big Sioux River (Rivière des Sioux)">Big R. Scioux</name> &amp; <name type="place" key="James (Jacque) River (S. Dak.)">R. Jacque</name> nav: a Short dists. on N. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Niobrara (Quicurre, Rapid) River">R. Quecurre</name> not navagbe. one inch</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">〈<name type="place" key="Bad (Teton) River (S. Dak.)">Teton River</name> Nav for Ca〉</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="White River">White River</name> Nav. for Canoes Som Distance S. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Bad (Teton) River (S. Dak.)">Teton R.</name>             do       do       do       S. Sd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Cheyenne River">Chyenne</name> large &amp; nav. for boats Some Way S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Cannonball (Bullet) River">Cannon Ball</name> &amp; 2 other on S. Side for Cans a Short dists.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Little Missouri (E-mâh-tark',-Ah'-zhah) River">Little Missouri</name> abov <name type="native_nation" key="Mandan Indians">Mandans</name> Nav. a 〈Short〉 long Dis for Cans S. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="White Earth (Ok-hah-Âh-zhâh) River">White Earth River</name> Small Nav. for Cans Sht Dist. N. Sd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Yellowstone River">Rochejhon (or Yellow rock R.)</name> Navg a long ways    <name type="person" key="Clark, William">Capt. Clark</name> decended this<lb/>
+     river 818 miles in Cans.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Poplar (Porcupine) River">Porcupine River</name> high up on N. Side    Nav. Short dists.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Marias River">Marias River</name> near the falls    navg for boats a Short distance &amp; for Canoes to<lb/>
+     near the mountains    on the N. Side of the <name type="place" key="Missouri River">Missouri</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="place" key="Medicine (Tylor's, Turkey) River">Medicine Ri.</name> 35 abov the falls navigable a few Miles N. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">The 3 forks <name type="place" key="Jefferson River (North, Southwest Fork)">Jefferson</name>
+                           <name type="place" key="Madison River (Middle Fork)">Madisins</name> &amp; <name type="place" key="Gallatin (South, Southeast Fork) River">Galitin</name> Rivers are all navgable for Small<lb/>
+     Canoes to their Source 〈plenty beaver〉</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>   
+☞ The rout which I should propose to carry on this trade across the Continant is from <name type="place" key="Saint Louis, Mo.">St. Louis</name> by the <name type="place" key="Missouri River">Missouri</name> to the <name type="place" key="Missouri River, Great Falls of the">Falls</name> of that river 2575 Miles 〈in Balluax of [<hi rend="italic">blank</hi>] Weight roaling requiring 8 men〉 then by land on horses to the Forks of <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name> West of the Great <name type="place" key="Rocky Mountains">rocky mountains</name> 340 Miles thence Down <name type="place" key="Lewis (Cahwahnakiooks) River">Lewis River</name> &amp; the <name type="place" key="Columbia River">Columbia</name> 640 Miles to the <name type="place" key="Pacific Ocean">Pacific Ocian</name>. The best Situation for a Tradeing Establishment on that River is 125 miles above it's 〈mouth〉 Enterance at the 〈Enterance〉 confluence of <name type="place" key="Willamette (Multnomah) River">Multnomah River</name> from the South    here vestles of any Size may ride in Safty</p>
+               <p>
+The winter Establishments of <name type="person" key="Lewis, Meriwether">Lewis</name> &amp; <name type="person" key="Clark, William">Clark</name> in 1804 &amp; 5 was at <name type="native_nation" key="Mandan Indians">Mandans</name> Nation 1600 miles up the <name type="native_nation" key="Mandan Indians">Mandan</name>
+                  <name type="place" key="Missouri River">Misouri</name> in Latd. 47° 21' 47" North and within 150 miles of the British Tradeing Establishments on the waters of <name type="place" key="Lake Winnipeg">Lake Winnipic</name> &amp; <name type="place" key="Hudson's Bay">Hudsons Bay</name>—    in the Spring of 1805 the party proceded on in large pereogus &amp; Canoes to the <name type="place" key="Missouri River, Great Falls of the">falls of the Missouri</name> 966 Miles in Latd. 47° 8 4 N. <hi rend="italic">Current rapid &amp; muddy</hi>    here the party left the large perogue, and hauled the Canoes acrossed a portage of 18 miles, through an open plain.    here the <name type="place" key="Missouri River">Missouri</name> has a fall within 17 m of about 362 feet in which there are Several pitches are perpendiclr. and fall 〈to an imenc hight〉 one of 97 feet, 19 feet &amp; 47 &amp; 26 feet 5 Inches. 〈above those falls〉 from those falls we view the range of <name type="place" key="Rocky Mountains">Rocky Mountains</name> (so Called) to a great Distance to N W. &amp; South— above those falls the cors <name type="place" key="Missouri River">Missouri</name> is more South    in assending we penetrate the 1st range of <name type="place" key="Rocky Mountains">Rocky Mountains</name> at about 30 Miles on a Direct line, then with the Derection of the Mountains to the East of S. 181 Miles to the 3 forks of <name type="place" key="Jefferson River (North, Southwest Fork)">Jefferson</name>
+                  <name type="place" key="Madison River (Middle Fork)">Madson's</name> &amp; <name type="place" key="Gallatin (South, Southeast Fork) River">Galitines</name> River in Lat. 45° 22' 34" N—    we Proceeded up <name type="place" key="Jefferson River (North, Southwest Fork)">Jeffersons River</name> in a S Westely Direction 276 miles by water to its Source or head Spring in Lat. 44° 33' 22" North—    from thence across to <name type="place" key="Lewis (Cahwahnakiooks) River">Lewis River</name> a Branch of the <name type="place" key="Columbia River">Columbia</name> is 10 mile west (here the <name type="native_nation" key="Shoshone Indians">
+                     <hi rend="italic">Shoshone</hi> or Snake</name> Indians reside)    this river is not navagable &amp; no road in this Direction across to the W. of those Emenc mountains.    〈our Cours〉 we hired a guide and proceded on over Emenc mountains on which there was Snow Augt. &amp; Septr. to <name type="place"
+                        key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clarks River</name> a Branch of the <name type="place" key="Columbia River">Columbia</name>, about 100 miles where we met with the <hi rend="italic">
+                     <name type="native_nation" key="Flathead Indians">Tushepaws</name>
+                  </hi> or <name type="person" key="Flathead Indians">flat head Inds.</name>    then Down that river in a vally about 200 Miles <name type="place" key="Lolo (Travelers' Rest) Creek (Mont.)">Travelers rest Creek</name> Latd. 46 48 26 at a road which passes from the plains East of the Mountains near the <name type="place" key="Missouri River, Great Falls of the">falls of Missouri</name> across those Mountains to the <name type="place" key="Great Columbian Plain">plains of Columbia</name> West of those mountains (and the rout proposed to Carry on the Trade) here Commences the rugid part of those Emenc Mountains, after resting a few Days on <name type="place"
+                        key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clarks River</name> at this Road where we found a fiew deer, we proceded on over those emenc rugid Mountains of Snow (in which the party were Compelled to live on horse flesh) to the Forks <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name> 183 miles 140 miles of which distance was over emenc Mountains 60 ms. of Snow here Canoes were built &amp; decended the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Kooskooske</name> 〈73〉 to <name type="place" key="Lewis (Cahwahnakiooks) River">Lewis's river</name> from the South down that river to the main <name type="place" key="Columbia River">Columbia</name> from the N. in Latd. 46° 15' 13" and down the <name type="place" key="Columbia River">Columbia</name> to its enterance in Lat. 46 19 11 N. and Longt. 124° 57' W. of Greenwich being 640 miles by Water and nearly a West Course. The party arived on the pacific Coast 17 Nov. &amp; built a fort in which they Continued untill the 23 of March following &amp; then Set out on their return by water as far as the <name type="place" key="Columbia River, Great Falls of the">Great falls of the Columbia</name> 268 where Some hors were precured to Carry 〈bagga〉    Some Currents passed 〈3 involands〉 &amp; then on foot through an open County for [<hi rend="italic">blank</hi>] miles to the foot of the Mtn.</p>
+               <p>
+[<hi rend="italic">blank</hi>] miles to the foot of the mountain where the party were obliged to delay from the 9th of May untill the 24th of June for the Snows of the mountain to Subside Sufficient to Cross, and then pased over Snow for 60 ms generally from 3 to 6 or 8 feet deep quit 〈firm &amp;〉 Consolidated, or Sufficiently So to bear a hors    at the Enterance of <name type="place" key="Lolo (Travelers' Rest) Creek (Mont.)">Travelers rest</name> on <name type="place"
+                        key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clarks river</name>
+                  <name type="person" key="Lewis, Meriwether">Capt Lewis</name> &amp; <name type="person" key="Clark, William">Clark</name> Seperated. <name type="person" key="Lewis, Meriwether">Lewis</name> passed imedeately to the <name type="place" key="Missouri River, Great Falls of the">falls of the Missouri</name> on an old indian parth of good road    left a party as that place to prepar 〈Geer &amp; Wheels &amp;c〉 and proceded with 3 men to Explore a large N. fork of the <name type="place" key="Missouri River">Missouri</name> Called <name type="place" key="Marias River">
+                     <hi rend="italic">Marias</hi> River</name> and met with a party of Indians &amp; was Compelled to kill 2 of them. <name type="person" key="Clark, William">Clark</name> with [<hi rend="italic">blank</hi>] men passed up <name type="person"
+                        key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clarks river</name> and across the heads of Several branches of the <name type="place" key="Missouri River">Missouri</name> to the place the Canoes had been left on his outward bound journey at the head of <name type="place" key="Jefferson River (North, Southwest Fork)">Jefferson river</name>, 〈Sent down〉 decended <name type="place" key="Jefferson River (North, Southwest Fork)">Jeffersons river</name> to the <name type="place" key="Missouri River, Three Forks of the">3 forks</name>, and Sent on the Canoes down the <name type="place" key="Missouri River">Missouri</name> under the derection of a Sergt. and proceded himself up <name type="place" key="Gallatin (South, Southeast Fork) River">Galitines River</name> and passed over to the <name type="place" key="Yellowstone River">River Rochejhon or Yellow rock river</name> from the South in Latd. 45° 22 N. and 〈built〉 made Canoes of wood &amp; Buffalow Canoes &amp; decended that river 818 miles to its junction with the <name type="place" key="Missouri River">Missouri</name> 1880 Miles from <name type="place" key="Saint Louis, Mo.">St. Louis</name>.</p>
+               <p>
+The Streams of the <name type="place" key="Missouri River">Missouri</name> near &amp; within those mountains abound in beaver &amp; otter.</p>
+               <p>
+The Muddiness of the <name type="place" key="Missouri River">Missouri</name> is Caused by the Washing in of it's banks— within the <name type="place" key="Rocky Mountains">rocky mountains</name> the Water is Clear</p>
+               <p>
+The Pumies Stone which is found as low as the <name type="place" key="Illinois">Illinois</name> County is formd by the banks or Stratums of Coal taking fire and burning the earth imedeately above it into either pumies Stone or Lavia, this Coal Country is principly above the <name type="native_nation" key="Mandan Indians">Mandans</name>—</p>
+               <p>
+The Country from the <name type="place" key="Mississippi River">Mississippi</name> to the <name type="place" key="Platte River (Nebr.)">River Plate</name> 630 Miles 〈will afford of a good〉 furnishes a Sufficient qty of Wood for Settlements— above that River the 〈wood〉 Country becoms more open, and wood principally Confined to river &amp; Creek bottoms.    the uplands furtile and open, with Some exceptions    on the <name type="place" key="Yellowstone River">Rochejhone R.</name>
+                  <name type="person" key="Clark, William">Capt Clark</name> Saw Some Pine Country and the ranges of low Black mountains are Covered with wood.    most of the large Rivers fall in on the South side of the <name type="place" key="Missouri River">Missouri</name>.</p>
+            </sp>
+         </div>
+         <div type="entry"
+              xml:id="lc.jrn.1806.postexpedition.part2.03"
+              n="lc.geo.1806.postexpedition.part2.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>[<hi rend="italic">undated</hi>]<ref target="n02" n="2"/>
+                  </date>
+               </ab>
+               <p>
+                  <list type="simple">
+                     <item>
+                        <name type="place" key="Cowlitz (Coweliskee) River">Cowe[lis]kee River</name>
+                     </item>
+                     <item>
+                        <name type="place" key="Lewis (Cahwahnakiooks) River">Chah nwah na hi oos River</name>, alter to quathlah potte r.</item>
+                     <item>add Several on <name type="place" key="Sauvie (Wapato) Island">Wappato Island</name>
+                     </item>
+                     <item>The <name type="place" key="Willamette (Multnomah) River">Multnomah</name>
+                     </item>
+                     <item>The <name type="native_nation" key="Watlala Indians">Skillute</name> Nation on The <name type="place" key="Cowlitz (Coweliskee) River">Coweleske River</name>
+                     </item>
+                     <item>
+                        <name type="place" key="Willamette (Multnomah) River">Multnomah River</name> and the tribes on <name type="place" key="Sauvie (Wapato) Island">Wappato Island</name>
+                     </item>
+                     <item>
+                        <name type="place" key="Washougal (Seal) River">Seal</name> &amp; <name type="place" key="Sandy (Quicksand) River">Quicksand</name> Rivers</item>
+                     <item>add Several nations and their names on the <name type="place" key="Columbia River">Columbia</name>
+                     </item>
+                     <item>
+                        <name type="place" key="Mount Jefferson">Mt. Jefferson</name> &amp; <name type="place" key="Clackamas (Clarkamos) River">Clarkamos River</name> &amp;c.</item>
+                     <item>add the <hi rend="italic">
+                           <name type="native_nation" key="Klickitat Indians">Skaddatts—</name>
+                        </hi>  and other nations</item>
+                     <item>a large Creek above <name type="place"
+                              key="John Day (Lepage's) River (Sherman-Gilliam counties, Oreg.)">River la page</name> on North Side</item>
+                     <item>alter the <name type="place" key="Deschutes (Clark's, Towanahiook's) River">Towarnahiooks River</name>
+                     </item>
+                     <item>add a River below the <name type="place" key="Musselshell Rapids">Mucle Shele rapid</name> on South Side<name type="place" key="Umatilla (Youmalolam) River">
+                           <hi rend="italic">You-ma-lol-am</hi>
+                        </name>
+                     </item>
+                     <item>
+                        <name type="place" key="Walla Walla (Waller Waller) River">Walllah wallah River</name> &amp; the road by land</item>
+                     <item>South fork of <name type="place" key="Lewis (Cahwahnakiooks) River">Louises River</name> &amp; the Stream &amp; Nations</item>
+                     <item>
+                        <name type="place"
+                              key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clarks River</name> &amp; the Streams &amp; Nations. Lake &amp;c.</item>
+                     <item>The East and West forrk of <name type="place"
+                              key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clarks River</name> &amp;c. &amp;c.</item>
+                     <item>
+                        <name type="place" key="Big Hole (Sensable, Wisdom) River">Wisdom River</name> and <name type="place" key="Hot Spring Valley">hot Spring Vally</name>. <name type="place" key="Divide (Willard's) Creek">Willards Creek</name> &amp; &amp;c.</item>
+                     <item>
+                        <name type="place" key="Gallatin (South, Southeast Fork) River">Galletins River</name> andn the portage of 48 miles &amp; mountains</item>
+                     <item>
+                        <name type="place" key="Yellowstone River">River Rochejhone</name> and it's waters</item>
+                  </list>
+               </p>
+            </sp>
+         </div>
+         <div type="entry"
+              xml:id="lc.jrn.1806.postexpedition.part2.04"
+              n="lc.geo.1806.postexpedition.part2.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>[<hi rend="italic">undated</hi>]<ref target="n03" n="3"/>
+                  </date>
+               </ab>
+               <p>
+                  <table rows="18" cols="1">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Note. The <hi rend="italic">Lynn</hi> commence about the <name type="place" key="Calumet Bluff (Nebr.)">Calumet Bluffs</name> and downwards.—<lb/>
+      950 Ms. up the <name type="place" key="Missouri River">Missouri</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">The Prairie Fowl common to the <name type="place" key="Illinois">Illinois</name>
+                           </hi> are found as high up as the <name type="place" key="James (Jacque) River (S. Dak.)">River<lb/>
+     Jacque</name> above which the Sharpe tailed Grows commence    950 Ms.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">The Black Walnut</hi> is found as high up as 〈<name type="place" key="Floyd River">Floyds</name>〉 <name type="place" key="Vermillion (White Stone) River (S. Dak.)">White Stone river</name> and<lb/>
+     from thence down on the high rich lands.    900 Ms.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Mulberry</hi> is found as high up as <name type="place" key="Big Sioux River (Rivière des Sioux)">Grand River de Sieoux</name>.    858</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Prickly pear</hi> is not Common below the <name type="place" key="Niobrara (Quicurre, Rapid) River">Queequerre</name>    1000 ms</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Hickory</hi> is to be found below the <name type="native_nation" key="Omaha Indians">Mahars</name> and black birch in the Same<lb/>
+     Country, also the <hi rend="italic">horn beem</hi>    (830 ms.)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Racoons</hi> is found from the <name type="place" key="Calumet Bluff (Nebr.)">Calumet Bluffs</name> downwards &amp; on the <name type="place" key="Pacific Ocean">Pacific</name>
+                           <lb/>
+     Coast also the <hi rend="italic">honey locus</hi> and <hi rend="italic">Coffee nut</hi>    650</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Indian Hen</hi> &amp; Small Species of Kildee which frequent drift is found as<lb/>
+     high up as the Entrance of the <name type="place" key="Little Sioux (Ye-yeau War-da-pon) River">Little Sieux river</name>    733 ms.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">The large <hi rend="italic">Black</hi> and <hi rend="italic">Brindle Wolf</hi> is found as high up  as the <name type="native_nation" key="Omaha Indians">Mahars</name> Vil-<lb/>
+     lage—    the Small burrowing wolf of the prarie is found as low as the<lb/>
+     <name type="native_nation" key="Omaha Indians">Mahars</name> &amp; some fiew near the <name type="place" key="Mississippi River">Missippi</name>    836 Ms.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">The <hi rend="italic">Black Bear</hi> is found in abundance as high as the <name type="place" key="Little Sioux (Ye-yeau War-da-pon) River">little Sioux river</name>, and<lb/>
+     the are found much higher but scerce. The <hi rend="italic">Ass smart</hi> is also found in<lb/>
+
+     the Same neighbourhood.    733 ms.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Parotqueet</hi> is Seen as high as the <name type="native_nation" key="Omaha Indians">Mahar</name> Village    836 ms.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Opossum</hi> is found as high as the <name type="place" key="Platte River (Nebr.)">River platt</name>.    600 ms.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Grey Squrils</hi> are found as high up as <name type="place" key="Little Sioux (Ye-yeau War-da-pon) River">little Sieux R</name>    	733</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Hack berry and Hasel bushes</hi> are found as high up as the <name type="place" key="Council Bluff (Nebr.)">Council bluff</name>    also<lb/>
+     red oake and <hi rend="italic">Sycamore</hi> several species of oake Iron wood    650 mes.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Papaws</hi> arrow wood and [<hi rend="italic">letters crossed out, illegible</hi>] elder are found as high<lb/>
+     as the <name type="place" key="Little Nemaha River">little Nemahaw</name>, also Sugar tree    480 mil</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Buckeye</hi> &amp; 〈Sugartree〉 is found as high up as the old <name type="native_nation" key="Kansa Indians">Kanzas</name> village above<lb/>
+     <name type="place" key="Independence Creek">Independance Creek</name>    285 ms</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Green Bryar</hi> found as high up as [<hi rend="italic">blank</hi>]</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Pacans</hi> are found as high up 〈as <name type="place" key="Osage (Osarge) River">Osarge River</name>〉<ref target="n04" n="4"/>    400</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="17" cols="1">
+                     <head>In decending the <name type="place" key="Missouri River">Missouri</name> &amp; <name type="place" key="Yellowstone River">Rochejhone</name>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">The <hi rend="italic">Grapes</hi> of the Small kind first appear on the <name type="place" key="Yellowstone River">River Rochejhone</name> near<lb/>
+     it's enterance into the <name type="place" key="Rocky Mountains">Rocky mountains</name>   	2700 mils    but are not abun-<lb/>
+     dant on that river, the grape are abundant below <name type="place" key="Cannonball (Bullet) River">cannon ball rivers</name>
+                           <lb/>
+     1500 ms up    and from thence down to the enterance of the river into<lb/>
+     the <name type="place" key="Mississippi River">Mississippi</name>.    no grapes of the large kind</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Wild plumbs</hi> first appear at the cut off or <name type="native_nation" key="Mandan Indians">Mandan</name> Isld.    below the <name type="place" key="Mandan Indians">man-<lb/>
+     dans</name> tho' they are Scerce and Small    they becom abundant and fine in<lb/>
+     the neighbourhood of the enterance of <name type="place" key="White River">White River</name>.    1580 ms</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">white oake</hi> first appear 60 miles below the <name type="native_nation" key="Arikara Indians">Ricaras</name> Vilg. and are found in<lb/>
+     considerable quantity in the river bottoms just above the enterance of<lb/>
+     <name type="place" key="American (Corvus) Creek">Corvus Creek</name>.    1370 mes up</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">white ash</hi> at ash rapid on the <name type="place" key="Missouri River">Missouri</name> up and on the <name type="place" key="Yellowstone River">River rochejhone</name> 60<lb/>
+     miles above it's enterance.    2443 ms. up</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Elm</hi> is found Something higher up the rivers than the ash    2500</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Prickly ash</hi> first appears a fiew miles above <name type="place" key="Bull Island">Bull Island</name> in the river bot-<lb/>
+     toms. Shoemate commences—    2500</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Turkeys</hi> first appear at the enterance of <name type="place" key="Medicine (Tylor's, Turkey) River">Tylors Rivr</name> above the <name type="place" key="Missouri River, Big Bend of the">big bend</name>
+                           <lb/>
+     1200 miles up this 〈river〉 <name type="place" key="Missouri River">Missouri</name>    1206</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">The pointed tail Prarie fowl</hi> are found above the <name type="place" key="Missouri River, Big Bend of the">Big bend</name> upwards.    1200<lb/>
+     ms. up    box elder as high as the <name type="native_nation" key="Mandan Indians">Mandans</name>    1600</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">The party coloured Corvus</hi> or <hi rend="italic">Magpy</hi> Commence at or about <name type="place" key="American (Corvus) Creek">Corvus Creek</name>
+                           <lb/>
+     and from thence upwards.    1130</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">The Fox Squirel</hi> first appear a fiew miles above <name type="place" key="Old Baldy (Dome)">the Dome</name> where we first<lb/>
+     met with the <hi rend="italic">burrowing or Barking Squirels</hi>    1030 Mils. up the [<name type="place" key="Missouri River">Missouri</name>]<lb/>
+     Missouri whipperwill is the common attendant of those squirels.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">The Big horn</hi> animal is found as low as the Beaver bend a fiew miles below<lb/>
+     the enterance of the <name type="place" key="Yellowstone River">rochejhone</name>.    1800 ms. up</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">The Antilope</hi> or Cabra are found in great abundance as low as the <name type="place" key="Cheyenne River">Chyenne<lb/>
+     River</name>, and are seen scattering as low down as the neighbourhood of<lb/>
+     the <name type="native_nation" key="Omaha Indians">Mahar</name> village.    or 800 ms up</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Mule or Black tail Deer</hi> is met with 〈at〉 on the Snowey mts. up and are<lb/>
+     found as low down the <name type="place" key="Missouri River">Missouri</name> as the antient fortification &amp; on <name type="place" key="Bon Homme (Good Man's) Island">Boon<lb/>
+     homm Island</name> or <name type="place" key="Bon Homme (Good Man's) Island">good mans Islands</name>    1000 m</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Brarow</hi> are found as low as <name type="place" key="Council Bluff (Nebr.)">Council Bluff</name>    650 ms. up</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">
+                              <name type="place" key="Brush (Yellow Ochre) Creek">Yellow Oker</name>
+                           </hi> above the upper old <name type="native_nation" key="Kansa Indians">Kanzas</name> Village in a ben on the S side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Chock Cherry</hi> found between the 2 <name type="place" key="Big Nemaha River">Nemahars Rivers</name> 500 miles up the <name type="place" key="Missouri River">Mis-<lb/>
+     souri</name> also another species of Cherry</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="italic">Sycamore</hi> is found at <name type="place" key="Bald-pated Prairie">Ball pated prarie</name>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry"
+              xml:id="lc.jrn.1806.postexpedition.part2.05"
+              n="lc.geo.1806.postexpedition.part2.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>From <name type="place" key="Saint Louis, Mo.">St. Louis</name> 1806<ref target="n05" n="5"/>
+                  </date>
+               </ab>
+               <p>
+Memorandum of articles fowarded to <name type="place" key="Louisville, Ky.">Louisville</name> by <name type="person" key="Clark, William">Capt. Clark</name> in care of <name type="person" key="Woolford (Wolpard), Adam">Mr. Wolpards</name>
+                  <ref target="n06" n="6"/> 1s.</p>
+               <p>
+                  <table rows="17" cols="2">
+                     <head>one large Box Containing</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">large Horns of the Bighorn animal</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">Sceletens    do         do         do</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">Skins horns &amp; bons of    do</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="native_nation" key="Mandan Indians">Mandan</name> Robes of Buffalow</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">Indian Blanket of the Sheep</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">Sheep Skin of the <name type="place" key="Rocky Mountains">rocky mountains</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">Brarow Skin</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">Bear Skins of the White Speces</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">barking Squirls</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">Skins of the big horn</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">Mule or black tail Deer Skin</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">Hat made by the <name type="native_nation" key="Clatsop Indians">Clatsops Indians</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">Indian Baskets</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">buffalow horns</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">Tigor Cat Skin Coat</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">long box of sundery articles</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">Tin box containing Medicine &amp;c &amp;c. &amp;c.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="3" cols="1">
+                     <head>a Small Box of papers</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">Books and Sundery Small articles</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">a Hat Box containing the 4 vols. of the Deckinsery of arts an ciences<ref target="n07" n="7"/>    two<lb/>
+Indian wallets a tale of the black taile Deer of the Ocean &amp; a Vulters quill with a buffalow Coat.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> forward to <name type="place" key="Washington D.C.">Washington</name> by <name type="person" key="Peter, George">Lieut. Peters</name>
+                           <ref target="n08" n="8"/> in</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="14" cols="2">
+                     <head>Box No. 1</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">6</cell>
+                        <cell role="data" rows="1" cols="1">Skins and Sceletens complete of the mountain ram, three male and 3 female</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">Blacktail Deer Skin</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">Sheep Skin</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">Barking Squirels</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">Bear Skins</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">White Wolf</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">beaver tales</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="desc" cols="2" rows="1">
+                           <hi rend="center">No. 2</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">Boxes Containing Various articles</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">Tin Case                   do    do</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">air gun</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">Robins</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <name type="native_nation" key="Clatsop Indians">Clat sop</name> hat</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="notes">
+            <note xml:id="n01" n="1">This brief summary of the expedition's route and its major features may have been started at <name type="place" key="Fort Clatsop (Oreg.)">Fort Clatsop</name> but includes discussions of terrain that was explored after that time. It may have been a preliminary draft for the descriptions of the party's trip that the captains sent to <name type="place" key="Jefferson River (North, Southwest Fork)">Jefferson</name> and others in September 1806; see Jackson (LLC), 1:317–43. The document as printed here is a combination of two items at the American Philosophical Society. The first part is from the little field book containing <name type="person" key="Clark, William">Clark's</name> draft of his side trip from <name type="place" key="Fort Clatsop (Oreg.)">Fort Clatsop</name> to the coast, January 6–10, 1806, and other miscellaneous items such as this one. The second part is from Codex T, beginning with the paragraph "[<hi rend="italic">blank</hi>] miles to the foot of the mountain." The first words of Codex T repeat the last words from this section of the field draft and the two clearly belong together. See <ref n="v02.appendix.b" type="related">Appendices B</ref> and <ref n="v02.appendix.c" type="related">C</ref>; Moulton (SJ), 198–99.</note>
+            <note xml:id="n02" n="2">This document is a loose sheet in the Voorhis collection, written by <name type="person" key="Clark, William">Clark</name> some time after he completed his exploration of the <name type="place" key="Yellowstone River">Yellowstone River</name>. This list of Indian tribes and locations was apparently intended as an aid in the creation of a map of the explorers' route and the placement of Indian tribes.</note>
+            <note xml:id="n03" n="3">This document is found in Codex N, pp. 153–54 (reading backwards). The last three entries (yellow oker, chock cherry, and sycamore) are found only in another copy, in the notebook Voorhis No. 4; it also contains other slight variations that are omitted here. The species may be identified as: lynn, American linden; prairie fowl common to the <name type="place" key="Illinois">Illinois</name>, greater prairie-chicken; sharp-tailed grouse; black walnut; red mulberry; prickly pear; hickory, either bitternut hickory or shagbark hickory; black birch, perhaps river birch, <hi rend="italic">Betula nigra</hi> L.; American hornbeam; raccoon; honey locust, <hi rend="italic">Gleditsia triancanthos</hi> L.; coffeenut, Kentucky coffee-tree, <hi rend="italic">Gymnocladus dioica</hi> (L.) K. Koch; Indian hen, greater prairie-chicken; killdeer, <hi rend="italic">Charadrius vociferus</hi> [AOU, 273]; black wolf, gray wolf; small wolf, coyote; black bear; ass smart, perhaps smartweed, <hi rend="italic">Polygonum</hi> sp.; parroquet, Carolina parakeet, <hi rend="italic">Conuropsis carolinensis</hi> [AOU, 382]; opossum, <hi rend="italic">Didelphis virginiana;</hi> gray squirrel; hackberry, <hi rend="italic">Celtis occidentalis</hi> L.; hazelnut, <hi rend="italic">Corylus americana</hi> Walt.; red oak, <hi rend="italic">Quercus borealis</hi> Michx.; sycamore; iron wood, hop-hornbeam, <hi rend="italic">Ostrya virginiana</hi> (Mill.) K. Koch; pawpaw; arrowwood, black haw; elder, common elderberry; sugar tree, sugar maple, <hi rend="italic">Acer saccharum</hi> Marsh.; western buckeye, <hi rend="italic">Aesculus glabra</hi> Willd.; green briar, probably bristly greenbriar, <hi rend="italic">Smilax hispida</hi> Muhl.; pecan, <hi rend="italic">Carya illinoensis</hi> (Wang.) K. Koch; small grape, probably river-bank grape, <hi rend="italic">Vitis riparia</hi> Michx.; large grape, <hi rend="italic">Vitis</hi> sp.; wild plum; white oak, probably bur oak (see <ref n="1806-09-02" type="related">September 2, 1806</ref>); white ash, probably green ash (see <ref n="1806-09-02" type="related">September 2, 1806</ref>); American elm; prickly ash; shoemate, perhaps smooth sumac (see <ref n="1806-06-10" type="related">June 10, 1806</ref>); turkey; pointed tail prairie fowl, sharp-tailed grouse; boxelder, <hi rend="italic">Acer negundo</hi> L.; black-billed magpie; fox squirrel; barking squirrel, prairie dog; Missouri whip-poor-will, common poorwill; bighorn sheep; antelope, pronghorn; mule deer; brarow, badger; yellow ocher, the mineral limonite (see <ref n="1804-07-05" type="related">July 5, 1804</ref>); choke cherry.</note>
+            <note xml:id="n04" n="4">Another word was substituted for these crossed out ones but is not legible. The Voorhis version is no help. The word begins with "N" and both the <name type="place" key="Big Nemaha River">Nemaha</name> and <name type="place" key="Nodaway River">Nodaway</name> rivers are in the area of four hundred miles up the <name type="place" key="Missouri River">Missouri</name> by <name type="person" key="Clark, William">Clark's</name> calculations, but the letters do not appear to form those words.</note>
+            <note xml:id="n05" n="5">This list appears in Codex N, pp. 1–2. A dark vertical line runs the length of the text.</note>
+            <note xml:id="n06" n="6">Probably <name type="person" key="Woolford (Wolpard), Adam">Adam Woolford, or Woodford</name>, who operated a boat between <name type="place" key="Saint Louis, Mo.">St. Louis</name> and <name type="place" key="Louisville, Ky.">Louisville</name>; see <ref n="1806-04-15" type="related">April 15, 1804</ref>.</note>
+            <note xml:id="n07" n="7">Jackson (SBLC), 11–13, discusses what these volumes may be. One possibility is Ephraim Chambers' <hi rend="italic">Cyclopedia: or, An Universal Dictionary of Arts and Sciences.</hi> Another is Owen's <hi rend="italic">Dictionary,</hi> so called after the publisher.</note>
+            <note xml:id="n08" n="8">
+               <name type="place" key="Peter, George">George Peter</name>; see <ref n="1806-09-22" type="related">September 22, 1806</ref>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806.postexpedition.part1" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-08-30" type="next"/>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-02-01">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+February 1, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 6</title>
+               <title level="m" type="sub">November 2, 1805–March 22, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1990</date>
+               <biblScope type="pages">262-273</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">269</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">191</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">416-417</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-08-17</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-02-01">February 1, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-02-01.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Saturday February 1st 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+This morning a party of four men set out with <name type="person" key="Field, Joseph">Joseph Fields</name>; Sergt. <name type="person" key="Gass, Patrick">Gass</name> with a party of five men again set out up the <name type="place" key="Lewis and Clark (Fort, Netul) River">Netul river</name> in surch of the Elk which had been killed some days since, and which could not be found in consequence of the snow. The Canoes of the naives inhabiting the lower portion of the <name type="place" key="Columbia River">Columbia River</name> make their canoes remarkably neat light and well addapted for riding high waves. I have seen the natives near the coast riding waves in these canoes with safety and apparently without concern where I should have thought it impossible for any vessel of the same size to lived a minute.    they are built of whitecedar or Arborvita generally, but sometimes of the firr.    they are cut out of a solid stick of timber, the gunwals at the upper edge foald over outwards and are about ⅝ of an inch thick and 4 or five broad, and stand horrizontally forming a kind of rim to the canoe to prevent the water beating into it.    they are all furnished with more or less crossbars in proportion to the size of the canoe.    these bars are round sticks about half the size of a man's arm, which are incerted through holes 〈just〉 made in either side of the canoe just below the rim of the gunwall and are further secured with strings of waytape;<ref target="n28020101" n="1"/> these crossbars serve to lift and manage the canoe on land.    when the natives land they invariably take their canoes on shore, unless they are heavily laden, and then even, if they remain all night, they discharge their loads and take the canoes on shore.    some of the large canoes are upwards of 50 feet long and will carry from 8 to 10 thousand lbs. or from 20 to thirty persons and some of them particularly on the sea coast are waxed painted and ornimented with curious images at bough and Stern; those images sometimes rise to the hight of five feet; the pedestals on which these immages are fixed are sometimes cut out of the solid stick with the canoe, and the imagary is formed of seperate small peices of timber firmly united with tenants and motices without assistance of a single spike of any kind.    when the natives are engaged in navigating their canoes one sets in the stern and steers with a paddle the others set by pears and paddle over the gunwall next them, they all kneel in the bottom of the canoe and set on their feet.    their paddles are of a uniform shape of which this is an imitation<ref target="n28020102" n="2"/>    these paddles are made very thin and the middle of the blade is thick and hollowed out siddonly and made thin at the sides while the center forms a kind of rib.    the blade occupys about one third of the length of the paddle which is usually from 4½ to 5 feet. I have observed four forms of canoe only in uce among the nations below the grand chatarac of this river    they are as follows.    this is the smallest size<ref target="n28020103" n="3"/> about 15 feet long and calculated for one or two persons, and are most common among the <name type="native_nation" key="Cathlamet Indians">Cathlahmahs</name> and <name type="native_nation" key="Wahkiakum Indians">Wâck ki a cums</name> among the <name type="place" key="Marsh (Seal) Island">marshey Islands</name>. A the bow; B, the stern; these<ref target="n28020104" n="4"/> are from twenty to thirty five feet and from two ½ to 3 feet in the beam and about 2 feet in the hole; this canoe is common to all the nations below the <name type="place" key="Columbia River, Cascades (Great Rapids, Great Shute)">grand rappids</name>.    it is here made deeper and shorter in proportion than they really are.—    the bowsprit from C, to D is brought to a sharp edge tapering gradually from the sides.</p>
+               <p>
+This is the most common form<ref target="n28020105" n="5"/> of the canoe in uce among the Indians from; the <name type="native_nation" key="Wishram-Wasco Indians">Chil-luck-kit-te-quaw</name> inclusive to the Ocean and is usually about 30 or 35 feet long, and will carry from ten to twelve persons.    4 men are competent to carry them a considerable distance say a mile without resting. A is the end which they use as the bow, but which on first sight I took to be the stern    C. D. is a comb cut of the sollid stick with the canoe and projects from the center of the end of the canoe being about 1 inch thirck it's sides parallel and edge at C D. sharp.    it is from 9 to 11 Inches in length and extends from the underpart of the bowsprit at A to the bottom of the canoe at D.—    the stern B. is mearly rounding and graduly ascending.    1 2 3 represents the rim of the gunwalls about 4 Inches wide, reather ascending as they recede from the canoe.    4 5 6 7 8 are the round holes through which the cross bars are inserted.—</p>
+               <p>
+                  <figure rend="aps">
+                     <p>Paddle, Small Canoe, Canoe with High Bow,<lb/>
+and Most Common Canoe, February 1, 1806, Codex J, p. 52
+<bibl>
+                           <orgName>(American Philosophical Society library, </orgName>
+                           <note place="inline"> used with permission.)</note>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+               <p>
+This form of canoe<ref target="n28020106" n="6"/> we did not meet with untill we reached tidewater or below the <name type="place" key="Columbia River, Cascades (Great Rapids, Great Shute)">grand rappids</name>.    from thence down it is common to all the nations but more particularly the <name type="native_nation" key="Tillamook Indians">Killamucks</name> and others of the coast. these are the largest canoes. B. is the bow and comb. C. the stern and comb.    their immages are representations of a great variety of grotesque figures, any of which might be safely worshiped without committing a breach of the commandments.<ref target="n28020107" n="7"/>
+               </p>
+               <p>
+They have but few axes among them, and the only too usually imployed in felling the trees or forming the canoe, carving &amp;c is a chiseel formed of an old file about an Inch or an Inch and a half broad.    this chissel has sometimes a large block of wood for a handle; they grasp the chissel just below the block with the right hand holding the edge down while with the left they take hold of the top of the block and strick backhanded against the wood with the edge of the chissel.<ref target="n28020108" n="8"/>    a person would suppose that the forming of a large canoe with an instrument like this was the work of several years; but these people make them in a few weeks. they prize their canoes very highly; we have been anxious to obtain some of them, for our journey up the river but have not been able to obtain one as yet from the natives in this neighbourhood.—    today we opened and examined all our ammunition, which had been secured in leaden canesters.    we found twenty seven of the best rifle powder, 4 of common rifle, three of glaized and one of the musqut powder in good order,<ref target="n28020109" n="9"/> perfectly as dry as when first put in the canesters, altho' the whole of it from various accedents has been for hours under the water.    these cannesters contain four lbds. of powder each and 〈contain〉 8 of lead.    had it not have been for that happy expedient which I devised of securing the powder by means of the lead, we should not have had a single charge of powder at this time.    three of the canesters which had been accedentally bruized and cracked, one which was carelessly stoped, and a fifth that had been penetrated with a nail, were a little dammaged; these we gave to the men stock to last us back; and we always take care to put a proportion of it in each canoe, to the end that should one canoe or more be lost we should still not be entirely bereft of ammunition, which is now our only hope for subsistence and defence in a rout of 4000 miles through a country exclusively inhabited by savages.—
+</p>
+               <p>
+                  <figure rend="aps">
+                     <p>Canoe with Carved Images,<lb/>
+February 1, 1806, Codex J, p. 53
+<bibl>
+                           <orgName>(American Philosophical Society library, </orgName>
+                           <note place="inline"> used with permission.)</note>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-02-01.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Saturday February 1st 1806</hi>
+                  </date>
+               </ab>
+               <p>
+This morning a party of four men Set out with <name type="person" key="Field, Joseph">Jo. Field</name>; and Sergt. <name type="person" key="Gass, Patrick">Gass</name> with a party of five men again Set out up the <name type="place" key="Lewis and Clark (Fort, Netul) River">Netul river</name> in Serch of the Elk which had been killed Some days since, and which Could not be found in Consequence of the Snow.</p>
+               <p>
+The Canoes of the nativs inhabitting the lower part of the <name type="place" key="Columbia River">Columbia River</name> from the <name type="place" key="Columbia River, The Dalles of the (Great Narrows)">Long narrows</name> down make their canoes remarkably neat light and well addapted for rideing high waves. I have Seen the nativs near the Coast rideing waves in these Canoes in Safty and appearantly without Concern when I Should it impossible for any vessel of the Same Size to have lived or kept above water a minute.    they are built of Arborvitia or white Cedar generally, but Sometimes of fir.    they are cut out of a solid Stick of timber, the gunnals at the upper edge fold over outwards and are about ⅝ of an inch thick and 4 or 5 broad, and Stand out nearly Horizontially forming a kind of rim to the Canoe to prevent the water beating into it.    they are all furnished with more or less Cross bars agreeably to thier sizes of the Canoe, those bars are round Sticks about 1 inch and ½ diameter which are atached to the iner Side of the canoes a little below the rim on either Side with throngs of Cedar bark which is incerted through holes and made fast to the ends of the Stick, which is made Smaller than the other part of the stick to prevent the cord Slipping off    these cross bears Serve to Strengthen the canoe, and by which they lift and manage her on land.    when the nativs land the[y] invariably take their Canoes on Shore unless they are heavily ladined, and then even, if they remain all night, they discharge their loads and take the Canoe on Shore.</p>
+               <p>
+Some of the large Canoes are upwards of 50 feet long and will Carry from 8 to 12 thousand lbs. or from 20 to 30 persons, and Some of them particularly on the Sea Coast are waxed painted and ornimented with curious images on bow and Stern; those images sometimes rise to the hight of five feet; the pedestile on which these images are fixed, are Sometimes cut out of the Solid Stick with the Canoe, and the image is formed of Seperate pieces of timber firmly united with tenants and mortices without the appearance of a Single Spike or nail of any kind.    when the nativs are engaged in navigateing their Canoes, one Sets in the Stern and Stears with a paddle the others Set by pars and paddle over their gunnals next them, they all kneel in the bottom of the Canoe and Set on their feet. their paddles are of an uniform shape which this is an imitation<ref target="n28020110" n="10"/>    those paddles are made verry thin and the middle of the blade is thick and hollowed out Suddenly, and made thin on the Sides, the center forming a kind of ridge.    the [handle] occupies about ⅓ of the length of the paddle which is usually 4 to 4½ feet in length. I have observed five forms of Canoes only in use among the nativs below the <name type="place" key="Klickitat (Cataract) River">Grand Cataract</name> of this river.    they are as follows.<ref target="n28020111" n="11"/>    this is the Smallest Size about 15 feet long,<ref target="n28020112" n="12"/> and Calculated for one two men mearly to cross creeks, take over Short portages to navagate the ponds and Still water, and is mostly in use amongst the <name type="native_nation" key="Clatsop Indians">Clatsops</name> and <name type="native_nation" key="Chinook Indians">Chinnooks</name>.<ref target="n28020113" n="13"/>    this is the next Smallest and from 16 to 20 feet long and calculated for two or 3 persons and are most Islands, near their villages.<ref target="n28020114" n="14"/> A the bow; B the stern; those are from 20 to 40 feet in length and from 2½ to 3½ feet in the beam and about 2 feet deep; this Canoe is common to all the nations below the <name type="place" key="Columbia River, Cascades (Great Rapids, Great Shute)">grand Rapids</name>    it here made deeper and Shorter in pertotion than the canoe realy is, the bow sprit from C. to D. is brought to a Sharp edge tapering gradually from the Sides.<ref target="n28020115" n="15"/> This is the most common form of the Canoes in use among the indians from the <name type="place" key="Wishram-Wasco Indians">Chil-luck-kit-te quaw</name> inclusive to the ocian and is commonly from about 30 to 35 feet long, and will carry from 10 to 12 persons.    4 men are competent to carry them a considerable distance Say a mile without resting. A is the end the nativs use as the bow, but which on first Sight I took to be the Stern    c. d. is a comb cut of the solid wood with the Canoe, and projects from the Center of the end of the Canoe being about 1 inch thick, it's Sides parallel and edge at c, d, Sharp    it is from 9 to 11 inches in debth and extends from the under part of the bow sprit at A to the bottom at, d,.    the Stern B is nearly rounding and gradually assending.    1, 2, 3, represents the rim of the gunnals about 4 inches wide, reather ascending as they recede from the Canoe.    4, 5, 6, 7, 8, are the holes through which the String pass to fasten the round pieces which pass Crosswise the Canoe to Strengthen &amp; lift her.<ref target="n28020116" n="16"/> This form of a canoe we did not meet with untill we reached tide water or below the <name type="place" key="Columbia River, Cascades (Great Rapids, Great Shute)">Great Rapids</name>.    from thence down it is common to all the nations but more particularly the <hi rend="italic">
+                     <name type="native_nation" key="Tillamook Indians">Kil a mox</name>
+                  </hi> and others of the Coast.    these are the largest Canoes, I measured one at the <name type="native_nation" key="Tillamook Indians">Kilamox</name> villag S S W of us which was [<hi rend="italic">blank</hi>] feet long [<hi rend="italic">blank</hi>] feet wide and [<hi rend="italic">blank</hi>] feet deep, and they are most Commonly about that Size. B is the bow, and Comb. C, the stern and Comb. Their images are representations of a great variety of grotesque figures, any of which might be Safely worshiped without commiting a breach of the Commandments.</p>
+               <p>
+                  <figure rend="mhs">
+                     <p>Paddle, Small Canoe, and Sharp-pointed Paddle,<lb/>
+February 1, 1806, Voorhis No. 2
+<bibl>
+                           <orgName>Missouri Historical Society</orgName>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+               <p>
+                  <figure rend="mhs">
+                     <p>Another Small Canoe, Canoe with High Bow, and<lb/>
+Most Common Canoe, February 1, 1806, Voorhis No. 2
+<bibl>
+                           <orgName>Missouri Historical Society</orgName>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+               <p>
+They have but fiew axes among them, and the only tool usially employd in forming the Canoe, carveing &amp;c is a 
+chiseel formed of an old file about an inch of 1½ inchs broad, this chissel has Sometimes a large block of wood for a handle; they grasp the chissel just below he block with the right hand holding the top of the block, and strikes backwards against the wood with the edge of the Chissel.    a person would Suppose that forming a large Canoe with an enstriment like this was the work of several years; but those people make them in a fiew weeks. They prize their Canoes very highly; we have been anxious to obtain Some of them, for our journy up the river but have not been able to obtain one as yet from the nativs in this neighbourhood.</p>
+               <p>
+To day we opened and examined all our Ammunition, which has been Secured in leaden Canistirs.    we found twenty Sevin of the best Rifle powder, 4 of Common rifle, 3 of Glaize and one of Musquet powder in good order, perfectly as dry as when first put in the Canisters, altho the whole of it from various accidince have been for hours under the water. these Cannisters Contain 4 pounds of powder each and 8 of Lead.    had it not been for that happy expedient which <name type="person" key="Lewis, Meriwether">Capt Lewis</name> devised of securing the powder by means of the Lead, we Should have found great dificuelty in keeping dry powder untill this time—; those Cannisters which had been acidently brused and cracked, one which was carelessly Stoped, and a fifth which had been penetrated with a nail; were wet and damaged; those we gave to the men to Dry; however exclusive of those 5 we have an abundant Stock to last us back; and we always take Care to put a purpotion of it in each canoe, to the end that Should one Canoe or more be lost we Should Still not be entirely bereft of ammunition, which is now our only hope for Subsistance and defences in the rout of 4,000 miles through a Country exclusively inhabited by Indians—many bands of which are Savage in every Sense of the word—.
+</p>
+               <p>
+                  <figure rend="mhs">
+                     <p>Canoe with Carved Images,<lb/>
+February 1, 1806, Voorhis No. 2
+<bibl>
+                           <orgName>Missouri Historical Society</orgName>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-02-01.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Saturday 1st February 1806.    a clear cold morning. Sergt. <name type="person" key="Gass, Patrick">Gass</name> and five more of the party Set out a hunting, and 4 men Set out with a hunter<ref target="n28020117" n="17"/> to help with the meat to the <name type="place" key="Saltmaking Camp (Oreg.)">Salt works</name>.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-02-01.04" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 1st</hi> Feb. 1806.    We had a fine clear cold morning. A number of the men<ref target="n28020118" n="18"/> went out to bring meat to the fort, and to take some to the <name type="place" key="Saltmaking Camp (Oreg.)">saltworks</name>.<ref target="n28020119" n="19"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-02-01.05" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Saturday Febry 1st    A clear cold morning.    Serjeant <name type="person" key="Gass, Patrick">Gass</name> &amp; five of our Men left the fort to go on a hunting party, four Men also left the fort with the hunter,<ref target="n28020120" n="20"/> in order to help him to carry the meat of the 2 Elk he had killed to the <name type="place" key="Saltmaking Camp (Oreg.)">Salt Camp</name>.—
+
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n28020101" n="1">Or watap, the stringy roots of trees used in construction, particularly of canoes.</note>
+            <note xml:id="n28020102" n="2">Here in <name type="person" key="Lewis, Meriwether">Lewis's</name> Codex J, p. 52, appears a sketch of the paddle (fig. 24).</note>
+            <note xml:id="n28020103" n="3">A sketch of the first (small) type of canoe appears about here in <name type="person" key="Lewis, Meriwether">Lewis's</name> Codex J, p. 52 (fig. 24). Probably the so-called shovel-nose canoe of the <name type="native_nation" key="Chinook Indians">Chinooks</name>. Ruby &amp; Brown (CITC), 17; Waterman, 10–11; Olson, 19; Waterman &amp; Coffin, plate 2.</note>
+            <note xml:id="n28020104" n="4">About here in <name type="person" key="Lewis, Meriwether">Lewis's</name> Codex J, p. 52, appears a sketch of the second (high bow) type of canoe (fig. 24). It appears to be the so-called "Chinook" canoe, actually made by the <name type="native_nation" key="Nootka Indians">Nootkas</name> of <name type="place" key="Vancouver Island">Vancouver Island</name>, <name type="place" key="British Columbia">British Columbia</name>, and traded south to the <name type="native_nation" key="Chinook Indians">Chinooks</name>; it was considered an excellent, sea-worthy craft. Ruby &amp; Brown (CITC), 18; Waterman, 9–11, 16–19, plate 2, clearly illustrating he same general type; Olson, 19.</note>
+            <note xml:id="n28020105" n="5">A sketch of the third (most common) type of canoe in <name type="person" key="Lewis, Meriwether">Lewis's</name> Codex J, p. 52 (fig. 24). Perhaps a so-called freight canoe. Waterman &amp; Coffin, 17–18, plate 1.</note>
+            <note xml:id="n28020106" n="6">A sketch of the fourth (carved images) type of canoe in <name type="person" key="Lewis, Meriwether">Lewis's</name> Codex J, p. 53 (fig. 25), apparently less widely distributed than the previous types. Drucker, 76.</note>
+            <note xml:id="n28020107" n="7">One of the rare Biblical references in the journals, citing the injunction against making or worshipping an image of anything in the heavens, on the earth, or in the waters under the earth. Exodus, 20:4.</note>
+            <note xml:id="n28020108" n="8">Olson, 13–14, plate 1, cites this passage.</note>
+            <note xml:id="n28020109" n="9">Gunpowder was graded for use according to the fineness of the grains. Rifle powder was finer than musket powder, which was again finer than that used for cannon. "Glazed" powder grains had a hard, smooth surface, making them more resistant to moisture. Russell (GEF), 222.</note>
+            <note xml:id="n28020110" n="10">A sketch of the paddle in <name type="person" key="Clark, William">Clark's</name> Voorhis No. 2 journal (fig. 26).</note>
+            <note xml:id="n28020111" n="11">A sketch of the first (small) type of canoe in <name type="person" key="Clark, William">Clark's</name> Voorhis No. 2 journal (fig. 26).</note>
+            <note xml:id="n28020112" n="12">Another paddle with a sharp point is shown here in <name type="person" key="Clark, William">Clark's</name> Voorhis No. 2 at the bottom of the page; it is not discussed in the text (fig. 26).</note>
+            <note xml:id="n28020113" n="13">A sketch of the next (another small) type of canoe in <name type="person" key="Clark, William">Clark's</name> Voorhis No. 2 journal (fig. 27), not shown or described in <name type="person" key="Lewis, Meriwether">Lewis's</name> entry for this date, above.</note>
+            <note xml:id="n28020114" n="14">A sketch of the third (high bow) tpe of canoe in<name type="person" key="Clark, William">Clark's</name> Voorhis No. 2 journal (fig. 27), <name type="person" key="Lewis, Meriwether">Lewis's</name> second type.</note>
+            <note xml:id="n28020115" n="15">A sketch of the fourth (most common) type of canoe in <name type="person" key="Clark, William">Clark's</name> Voorhis No. 2 journal (fig. 27), <name type="person" key="Lewis, Meriwether">Lewis's</name> third type.</note>
+            <note xml:id="n28020116" n="16">A sketch of the last (carved images) type of canoe in <name type="person" key="Clark, William">Clark's</name> Voorhis No. 2 journal (fig. 28), <name type="person" key="Lewis, Meriwether">Lewis's</name> fourth type.</note>
+            <note xml:id="n28020117" n="17">
+               <name type="person" key="Field, Joseph">Joseph Field</name> again, record the captains.</note>
+            <note xml:id="n28020118" n="18">
+               <name type="person" key="Gass, Patrick">Gass</name> with a party of five men, according to <name type="person" key="Lewis, Meriwether">Lewis</name>.</note>
+            <note xml:id="n28020119" n="19">
+               <name type="person" key="Field, Joseph">Joseph Field</name> and the party he had come for the previous day.</note>
+            <note xml:id="n28020120" n="20">
+               <name type="person" key="Field, Joseph">Joseph Field</name>, write the captains.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-01-31-1" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-02-02" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

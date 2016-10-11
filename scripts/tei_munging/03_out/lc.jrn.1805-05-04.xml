@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-05-04">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+May 4, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 4</title>
+               <title level="m" type="sub">April7–July 27, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">108-111</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">142</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">85-86</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">145</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-05-04.01">
+            <placeName/>
+            <geo>48.0692 -105.5388</geo>
+            <note>In Roosevelt County, MT</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="lcsh" n="category">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term/>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-05-11</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-05-04">May 4, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-05-04.01" n="lc.geo.1805-05-04.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Saturday May 4th 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+We were detained this morning untill about 9 OCk. in order to repare the rudder irons of the red perogue which were broken last evening in landing; we then set out, the wind hard against us. I walked on shore this morning, the weather was more pleasant, the snow has disappeared; the frost seems to have effected the vegetation much less than could have been expected    the leaves of the cottonwood the grass the box alder willow and the yellow flowering pea seem to be scarcely touched; the rosebushes and honeysuckle seem to have sustaned the most considerable injury. The country on both sides of the <name type="place" key="Missouri River">Missouri</name> continues to be open level fertile and beautifull as far as the eye can reach which from some of the eminences is not short of 30 miles.    the river bottoms are very extensive and contain a much greater proportion of timber than usual; the fore part of this day the river was bordered with timber on both sides, a circumstance which is extreemly rare and the first which has occurred of any thing like the same extent since we left the <name type="native_nation" key="Mandan Indians">Mandans</name>, in the after part of the day we passed an extensive beautifull plain on the Stard. side which gradually ascended from the river. I saw immence quantities of buffaloe in every direction, also some Elk deer and goats; having an abundance of meat on hand I passed them without firing on them; they are extreemly gentle    the bull buffaloe particularly will scarcely give way to you. I passed several in the open plain within fifty paces, they viewed me for a moment as something novel and then very unconcernedly continued to feed. <name type="person" key="Clark, William">Capt. Clark</name> walked on shore this evening and did not rejoin us untill after dark, he struck the river several miles above our camp<ref target="n12050401" n="1"/> and came down to us.    we saw many beaver some which the party shot, we also killed two deer today.    much sign of the brown bear.    passed several old Indian hunting camps in the course of the day    one of them contained two large lodges which were fortifyed with old driftwood and fallen timber; this fortification consisted of a circular fence of timber lade horizontally 〈and〉 laping on and over laying each other to the hight of 5 feet.    these pounds are sometimes built from 20 to 30 feet in diameter and covered over with the trunks and limbs of old timber.    the usual construction of the lodges we have lately passed is as follows.    three or more strong sticks the thickness of a man's leg or arm and about 12 feet long are attatched together at one end by a with of small willows, these are then set on end and spread at the base, 〈to〉 forming a circle of ten twelve or 14 feet in diameter; sticks of driftwood and fallen timber of convenient size are now placed with one end on the ground and the other resting against those which are secured together at top by the with and which support and give the form to the whole, thus the sticks are laid on untill they make it as thick as they design, usually about three ranges, each piece breaking or filling up the interstice of the two beneath it, the whole forming a connic figure about 10 feet high with a small apperture in one side which answers as a door.    leaves bark and straw are sometimes thrown over the work to make it more complete, but at best it affords a very imperfect shelter particularly without straw which is the state in which we have most usually found them.<ref target="n12050402" n="2"/>
+               </p>
+               <p>
+                  <table rows="7" cols="3">
+                     <head>
+                        <hi rend="italic">Courses and distances of the 4th of May</hi>.<ref target="n12050403" n="3"/>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timber on the Stard. side</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 72° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of woodland on the Stard. side river wide and<lb/>
+filled with sandbars</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  5</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 50° W.</cell>
+                        <cell role="data" rows="1" cols="1">to the mouth of a small creek in a deep bend on Lard. side,<lb/>
+a sand Island opposite</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  1 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of woodland on the Lard. side passing a Stard.<lb/>
+Stard. point at 1¼ miles</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  3</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a willow point on the Stard. side, the river making a<lb/>
+considerable bend to the N. an open plain on the Stard.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>  4</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 70° W.</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timbered land on the Strd. where we en-<lb/>
+camped.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <lb/>
+                           <hi rend="underline">  1 ½</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Miles</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">18</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+At noon the sun was so much obscured that I could not obtain his maridian Altitude which I much wished in order to fix the latitude of the entrance of <name type="place" key="Poplar (Porcupine) River">Porcupine river</name>. <name type="person" key="Field, Joseph">Joseph Fields</name> was very sick today with the disentary had a high fever    I gave him a doze of Glauber salts, which operated very well, in the evening his fever abated and I gave him 30 drops of laudnum.—<ref target="n12050404" n="4"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-04.02" n="lc.geo.1805-05-04.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">May 4th Satturday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+The rudder Irons of our large Perogue broke off last night, the replaceing of which detained us this morning untill 9 oClock at which time we Set out    the wind a head from the west, The Countrey on each Side of the <name type="place" key="Missouri River">Missouri</name> is a rich high and butifull 〈Containing〉    the bottoms are extencive with a great deal of timber on them    all the fore part of this day the wood land bordered the river on both Sides, in the after part a butifull assending plain on the Std Side    we Camped on the Std. Side a little above    we passed a Small Creek on the L. Side near which I Saw where an Indian lodge had been fortified many year past. Saw great numbers of anamals of different kinds on the banks, I Saw the black martin to day—<ref target="n12050405" n="5"/>    in the evening I walkd. on Shore on the Std Side &amp; Struck the river Several miles above our Camp &amp; did not get to Camp untill Some time after night—    we have one man Sick, The river has been falling for Several days passed; it now begins to rise a little; the rate of rise &amp; fall is from one to 3 inches in 24 hours.</p>
+               <p>
+                  <table rows="8" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">miles</cell>
+                        <cell role="data" rows="1" cols="1">     <hi rend="italic">Course &amp; Distance the 4th</hi> of May</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">to a point of timber on the Stard. side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 72° W.</cell>
+                        <cell role="data" rows="1" cols="1">  5</cell>
+                        <cell role="data" rows="1" cols="1">to a point of wood land on the Std. Side    river wide &amp; maney Sand bars</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 50° W </cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">to the mouth of a creek in a Deep bend to the Lard. Side.    a<lb/>
+Sand Isd. opsd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">to a point of wood Land on the Lard. Side passing a point<lb/>
+S Side 1¼ miles</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">  4</cell>
+                        <cell role="data" rows="1" cols="1">to a willow point on the Stard. Side, the river makeing a<lb/>
+considerable [bend] arround to the North an open plain</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 70° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  1 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">to a point of timbered land on the Stard. Side, where we<lb/>
+encamped</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">miles</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">18</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-04.03" n="lc.geo.1805-05-04.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 4th May 1805</hi>.    clear and moderate this morning.    the Snow is all melted off the hills.    we delayed Some time to mend the rudder of the red perogue which got broke landing last evening.    we Set off about 9 oCock and proceeded on    passed large bottoms covered with timber on each Side of the River and high Smoth plains back from the River.    at 11 oC. we passed the Mouth of a Creek came in on the S. S.    proceeded on    passed a beautiful large plains on the N. S. Saw buffaloe and Elk passed large bottoms on S. S. Came 22 miles and Camped on a bottom of timber on the N. S.    one of the party killed two deer in a fiew minutes. Came 22 miles
+today.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-04.04" n="lc.geo.1805-05-04.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 4th.</hi>    This day was more pleasant: in the forenoon we passed a creek<ref target="n12050406" n="6"/> on the South side, about 40 yards wide. The river has been more straight for two or three days than it was before; the bottoms larger and more timber on them. We went about eighteen miles and encamped on the North side. One of the men<ref target="n12050407" n="7"/> became sick this morning and has remained so all day.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-05-04.05" n="lc.geo.1805-05-04.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 4th May 1805</hi>.    clear &amp; pleasant.    we delayed Some time to mend the rudder which Got broke last night.    we Set off about 9 Oclock, and proceeded on.    passed large bottoms covered with timber on each Side and Smoth high plains back from the River.    at a 11 oC. we passed the mouth of a Creek which came in on S. Side of the <name type="place" key="Missouri River">Missourie</name>.    proceeded on    passed a beautiful plain on the N. S. where we Saw large Gangs of buffaloe Elk &amp; Cabberee or Goats.    Camped in a bottom on the N. S.    Came 22 miles to day.    we killed two Deer today.</p>
+               <p>
+Saturday May 4th    This morning we had clear, pleasant Weather, we delayed some time, to mend the Rudder Irons broke last night; We set off, and proceeded on our Voyage at 9 oClock A. M. and passed some bottoms cover'd with timber, and high plains, lying on both sides of the River.    At 11 o'Clock A. M. we passed by the Mouth of a creek, that came in on the South side of the River, we proceeded on &amp; passed a beautiful plain lying on the North side of the River.—</p>
+               <p>
+We saw in this plain, large Gangs of Buffalo, Elk, &amp; Goats; our hunters that went out this Morning kill'd two Deer, which they brought to the bank of the River, and we took them in.—    We encamped in the Evening in a bottom lying on the North side of the River, having come this day 22 Miles.—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n12050401" n="1">This camp was in <name type="place" key="Roosevelt County, Mont.">Roosevelt County</name>, <name type="place" key="Montana">Montana</name>. On <hi rend="italic">Atlas</hi> map 57 the usual camp symbol has been misplaced, while the legend "Encamped the 4th May 1805" is in approximately the right place. <hi rend="italic">Atlas</hi> maps 36, 49; MRC map 63.</note>
+            <note xml:id="n12050402" n="2">Apparently a description of a <name type="native_nation" key="Blackfeet Indians">Blackfeet</name> war lodge, a structure which served <name type="native_nation" key="Blackfeet Indians">Blackfeet</name> war parties as a fortification, shelter from the weather, base for scouting, supply base, and a place to leave messages. From this structure, <name type="person" key="Clark, William">Clark</name> named "<name type="place" key="Nickwall (Indian Fort) Creek">Indian Fort Creek</name>." <name type="place" key="Nickwall (Indian Fort) Creek">Antelope</name>, or later <name type="place" key="Nickwall (Indian Fort) Creek">Nickwall</name>, Creek in <name type="place" key="McCone County, Mont.">McCone County</name>, <name type="place" key="Montana">Montana</name>. Ewers (ILUM), 117–30; <hi rend="italic">Atlas</hi> maps 36, 57; MRC map 63.</note>
+            <note xml:id="n12050403" n="3">Also given on <hi rend="italic">Atlas</hi> map 36, in both captains' hands.</note>
+            <note xml:id="n12050404" n="4">Glauber's Salts is the crystalline decahydrate of sodium sulfate, used as a laxative; the theory behind administering it to a man with dysentery was that disease was caused by poisons in the body that had to be flushed out. Laudanum is a tincture of opium, which would help Field sleep.</note>
+            <note xml:id="n12050405" n="5">The purple martin, <hi rend="italic">Progne subis</hi> [AOU, 611].</note>
+            <note xml:id="n12050406" n="6">Probably <name type="place" key="Nickwall (Indian Fort) Creek">Antelope</name>, or later <name type="place" key="Nickwall (Indian Fort) Creek">Nickwall</name>, Creek, <name type="place" key="McCone County, Mont.">McCone County</name>, <name type="place" key="Montana">Montana</name>.</note>
+            <note xml:id="n12050407" n="7">
+               <name type="person" key="Field, Joseph">Joseph Field</name>; see <name type="person" key="Lewis, Meriwether">Lewis's</name> entry of this day for the symptoms and treatment.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-05-03" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-05-05" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

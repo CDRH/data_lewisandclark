@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-01-09">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+January 9, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">153-154</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2003-12-23</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-01-09">January 9, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-01-09.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Mon. 9th Jany—    Some Snow last night, a hard wind this morning from W, N W, river Rises with large Sheets of Ice out of <name type="place" key="Mississippi River">Mississippi</name>, the morning is fair (the man <hi rend="italic">
+                     <name type="person" key="Ramey, Matthew or William">Ramey</name>
+                  </hi> gives me much trouble)    I took <name type="person" key="Collins, John">Collins</name> &amp; went to the place he found a Hog Skined &amp; Hung up, the Crows<ref target="n03010901" n="1"/> had devoured the meet, Killed Prary fowl<ref target="n03010902" n="2"/> and went across a Prary to a 2nd Bank where I discovered an Indian Fortification,<ref target="n03010903" n="3"/> near the Second bank I attempted to cross a Bond [pond] of about 400 yds wide on the Ice &amp; Broke in    this fortress is 9 mouns forming a Circle    two of them is about 7 foot above the leavel of the plain on the edge of the first bank and 2 m from the woods &amp; about the Same distance from the main high land, about this place I found great quantities of Earthen ware &amp; flints—    about ½ m. N. is a Grave on an Emenince    I returned before Sun Set, and found that my feet, which were wet had frozed to my Shoes, which rendered precaution necessary to prevent a <hi rend="italic">frost bite,</hi> the Wind from the W, across the <name type="place" key="Sand Island">Sand Island</name>s in the Mouth of the <name type="place" key="Missouri River">Missouries</name>, raised Such a dust that I could not See in that derection, the Ice Continue to run &amp; river rise Slowly—    exceeding Cold day
+
+	
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n03010901" n="1">The common, or American, crow is <hi rend="italic">Corvus brachyrhynchos</hi> [AOU, 488].</note>
+            <note xml:id="n03010902" n="2">Probably the greater prairie chicken, first noticed <ref n="1803-11-16" type="related">November 16, 1803</ref>.</note>
+            <note xml:id="n03010903" n="3">
+               <name type="person" key="Clark, William">Clark</name> had reached the northwest edge of the <name type="place" key="Cahokia Mounds">Cahokia Mounds</name>, at present <name type="place" key="Mitchell, Ill.">Mitchell</name>, <name type="place" key="Madison County, Ill.">Madison County</name>, <name type="place" key="Illinois">Illinois</name>, about eight miles north of <name type="place" key="Cahokia, Ill.">Cahokia</name>. The mounds apparently served as foundations for ceremonial structures and were built between 900 and 1300 A.D. all except one of this northern group of mounds have been obliterated, but those farther south are now within <name type="place" key="Cahokia Mounds">Cahokia Mounds</name> State Park. Bareis &amp; Porter; <hi rend="italic">
+                  <name type="place" key="Illinois">Illinois</name> Guide,</hi> 15–16, 610, 612.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-01-08" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-01-10" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

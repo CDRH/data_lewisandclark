@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-09-19">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+September 19, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">88-91</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">62</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">41</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">77-78</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-09-19.01">
+            <placeName/>
+            <geo>44.0761 -99.578</geo>
+            <note>Hard to find exactly the area where the camp was located, with many name changes to rivers and creeks in the area. In Lyman County, SD</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-03-11</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-09-19">September 19, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-09-19.01" n="lc.geo.1804-09-19.01">
+            <sp who="wc">
+               <speaker>
+                  <name type="person" key="Clark, William">Clark</name>
+                  <ref target="n06091901" n="1"/>
+               </speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Septr. 19th Wednesday 1804, Set out early.    a Cool morning clear &amp; Still</p>
+               <p>
+                  <table rows="8" cols="3">
+                     <head>Course</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 50° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">me. to a pt. of wood on the S. S.    A Bluff on the L. S.<lb/>
+opposit.    here Commences a butifull Countrey on both<lb/>
+Sides of the river</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">  4</cell>
+                        <cell role="data" rows="1" cols="1">miles to the mouth of a River S. S. (1)—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30 W</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to the upper pt. of the Island S. S. 〈in the middle of<lb/>
+the river〉 (2)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 43° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">on the L. S.    Passed a creek (3)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 54° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">me. to a pt. of wood on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 70 W.</cell>
+                        <cell role="data" rows="1" cols="1">  5</cell>
+                        <cell role="data" rows="1" cols="1">mes. to a Bluff on the L. S.    passed a creek (4)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  3 ½</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles to some timber on the L. S.    passed a creek (5)<lb/>
+Camped</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">23</hi> miles</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+(1) &amp; (2) passed a large Island<ref target="n06091902" n="2"/> Situated nearest the S. S. ½ a mile from the Lower pt. of this Island, the 1st of the 3 rivers mouths which is about 35 yards wide, running from the N E.    one mile above the 2nd Comes in    this is Small not more that [than] 15 yards wide    a Short Distance above a 3d comes in scattering its waters thro a bottom. I walked on Shore to See this <name type="place" key="Three Rivers of the Sioux Pass">great Pass of the Sioux and Calumet ground</name>, found it a handsom Situation, and Saw the remains of their Campt on the 2d river, for many years passed—    (3) passed a Creek on the L. S. 15 yds wide    we (4) passed a Creek 20 yds wide (5) passed a Creek 20 yd. wide on the L. S. I call <name type="place" key="Counselor (Camel, Elm, Night) Creek">Night C.</name> as I did not get to it untill late at night, above the mouth of this Creek we camped,<ref target="n06091903" n="3"/> the wind being favourable, for the boat    I Killed a fat Buffalow Cow, and a fat Buck elk, <name type="person" key="York">york</name> my Servent Killed a Buck, the Huntes Killed 4 Deer,<ref target="n06091904" n="4"/> &amp; the boat Crew killed 2 Buffalow Swiming the river, handsom Countrey of Plains, I saw many trovs of Buffalow &amp; a Gangue of 30 or 40 Elk and othr Scattering elk &amp;c.    a find evening    I hurt my hands &amp; feet last night—</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-19.02" n="lc.geo.1804-09-19.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>Sept. 19th</date>
+               </ab>
+               <p>
+                  <table rows="9" cols="3">
+                     <head>
+                        <hi rend="italic">Course Distance &amp; refferenc</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 50° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">miles to a pt. of wood on the S. S.    opposit is a Bluff on<lb/>
+L. S. (1)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">North</cell>
+                        <cell role="data" rows="1" cols="1">  4</cell>
+                        <cell role="data" rows="1" cols="1">miles to the Lower pt. of prospect Island opsd. the 3 rivers<lb/>
+on the S. S. (2)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 30° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to the upper pt. of the Island    psd. the 3 rivers—<lb/>
+(2)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 43° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles on the L. S.    passd. a Creek (3)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 54° W</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">mes. to a pt. on the S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 70° W.</cell>
+                        <cell role="data" rows="1" cols="1">  5</cell>
+                        <cell role="data" rows="1" cols="1">mes. to a Bluff on the L. S.    passed a Creek (4)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  3 ¼</cell>
+                        <cell role="data" rows="1" cols="1">mes. to a timber on the L. S.    passed a Creek (5)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 50° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  3 ¼</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">mes. to the upper pt. of an Island at (6) the Commencemt<lb/>
+of the <name type="place" key="Missouri River, Big Bend of the">Big bend</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">26 ¼<ref target="n06091905" n="5"/>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi rend="right">
+                     <hi rend="italic">19th of September</hi> Wednesday 1804</hi>
+               </p>
+               <p>
+Set out early, a Cool morning verry Clear the wind from the S. E    a Bluff on the L. S.—    here Commences a Butifull Countrey on both Sides of the <name type="place" key="Missouri River">Missourie</name>, (2) passed a large Island Called <name type="place" key="Des Laurien's (Prospect) Island">Prospect Island</name>    opposit this Isd. the 3 rivers Coms in, passing thro a butifull Plain, here I walked on Shore &amp; Killed a fat Cow &amp; Sent her to the boat and proceeded on to the first of the 3 rivers, this river is about 35 yards wide Contains a good deel of water, I walked up this river 2 miles &amp; Cross, the bottom is high and rich Some timber, I crossed &amp; returned to the mouth, &amp; proceeded up one mile to the 2d river which is Small 12 yards wide, and on it but little timber, on this Creek the <name type="native_nation" key="Sioux Indians">Seaux</name> has frequently Camped, as appears by the Signs—    the lands betwen those two Creeks in a purpindicular bluff of about 80 feet with a butifull Plain &amp; gentle assent back—    a Short distance above the 2nd a 3rd Creek Comes into the river in 3 places Scattering its waters over the large timbered bottom, this Creek is near the Size of the middle Creek Containing a greater quantity of water, those rivers is the place that all nations who meet are at peace with each other, Called the <name type="place" key="Three Rivers of the Sioux Pass">Seaux pass of the 3 rivers</name>.</p>
+               <p>
+The boat proceeded on passd. the Island    (3) passed a Creek 15 yds wide on the L. Side    (4) passed a Creek on the L. S. 20 yards wide which I Call <name type="place" key="Counselor (Camel, Elm, Night) Creek">Elm Creek</name> passing thro a high Plain    (5) passed a Creek on the L. S. 18 yds. wide above which the boat Came too, I joined them late at night, and Call this Creek <name type="place" key="Counselor (Camel, Elm, Night) Creek">Night Creek</name>    the winds favourable all Day, I killed a fat buck Elk late and could only get his Skin and a Small part of his flesh to Camp. My Servent Killed a Buck, the Crew in the boat Killed 2 buffalow in the river—    The Hunters on Shore Killed 4 Deer with black tails one of which was a Buck with two 〈men〉  [<hi rend="italic">NB: main</hi>] Prongs on each Side forked equally, which I never before Seen. I saw Several large gangs of Buffalow 2 large Herds of Elk &amp; goats &amp;c.    (6) pass a Small Island on the S. S.    opposit to this Island on the L. S. a Creek of about 10 yards wide Coms in passing thro a plain in which great quantities of the Prickley Pear grows.<ref target="n06091906" n="6"/> I call this Creek <name type="place" key="Fish (Brule) Creek">
+                     <hi rend="italic">Prickley Pear Creek</hi>
+                  </name>, This Isld. is Called the lower Island    it is Situated at the Commencement of what is Called &amp; Known by the <name type="place" key="Missouri River, Big Bend of the">
+                     <hi rend="italic">Grand de Tortu</hi> [<hi rend="italic">NB: Detour</hi>]</name> or <name type="place" key="Missouri River, Big Bend of the">Big Bend of the Missourie.</name>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-19.03" n="lc.geo.1804-09-19.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="right">
+                        <hi rend="italic">Point of observation No. 43.<lb/>
+Wednesday September 19th 1804</hi>
+                        <ref target="n06091907" n="7"/>
+                     </hi>
+                  </date>
+               </ab>
+               <p>
+On the Lard. shore opposite to the mouth of the lower of the two rivers of the <name type="place" key="Missouri River, Three Forks of the">Siouxs pass</name>.</p>
+               <p>
+Observed Meridian Altd. of <seg n="u9737">☉</seg>'s U. L. with Sextant by the fore observation 95° 30' 15 
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-19.04" n="lc.geo.1804-09-19.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 19th Sept. 1804</hi>.    a pleasant morning.    we Set off eairly.    proceeded on    passed a Steep clay Bluff on S. S. Some ceeder on the edge of the Bluffs—    a fine Timbered Bottom opposite on N. Side. <name type="person" key="Field, Joseph">Jo. Fields</name> who was with the horse killed a black tailed Deer &amp; hung it on the Bank.    we took it on board.    we landed for Breakfast on N. S. <name type="person" key="Clark, William">Capt. Clark</name> &amp; 3 men went out hunting.    we proceeded on    passed a Timbered Bottom on S. S. about 11 oC. <name type="person" key="Clark, William">Capt. Clark</name> Shot a fat Brown Buffalow cow opposite to us on the N. S.    a large Gang of them Swam the river near the Boats    we Shot a fat Cow likewise &amp; a Small Bull.    took the meat &amp; hides on bord the pearogues.    we proceeded on under a fine Sailing Breeze from E. S. E.    passed <name type="place" key="Missouri River, Three Forks of the">3 large Creeks (called the Sioux 3 river pass)</name>
+                  <ref target="n06091908" n="8"/> on N. S. which came in behind an Island (along a Bluff), passed a long Timbered bottom on N. S.    passd a large Creek on S. S. &amp; Camped<ref target="n06091909" n="9"/> after Sailing 24 miles on S. S. above Sd. Creek. <name type="person" key="Clark, William">Capt. Clark</name> joined us late in the evening    had killed an Elk &amp; a Deer, the men who went with him returned also much fatigued &amp;.C.—    <name type="person" key="Drouillard, George">Drewyer</name> killed 2 Black taild Deer on S S near a range of Bluffs &amp;.C;—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-19.05" n="lc.geo.1804-09-19.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 19th.</hi>    We set out early and had a clear day passed large bottoms on both sides of the river covered with timber. We saw some buffaloe swimming the river and killed two of them. There is an island here, opposite which a river flows in on the north side.<ref target="n06091910" n="10"/> This river is formed of three, which unite their waters just above its mouth; and immediately above the confluence is a crossing place, called the <name type="place" key="Missouri River, Three Forks of the">Sioux-crossing-place of the three rivers</name>. At the upper end, a creek called, <name type="place" key="Counselor (Camel, Elm, Night) Creek">Elm creek</name>,<ref target="n06091911" n="11"/> comes in on the south side, and two miles above another creek called <name type="place" key="Counselor (Camel, Elm, Night) Creek">Wash creek</name>,<ref target="n06091912" n="12"/> falls in on the same side. About two miles further we passed another creek called <name type="place" key="Counselor (Camel, Elm, Night) Creek">Night creek</name> where we encamped on the south side. Three black tailed deer were killed this day.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-19.06" n="lc.geo.1804-09-19.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 19th Sept.    we Set off eairly.    a clear day.    we passed handsom large bottoms on Each Side covered with timber    <name type="person" key="Field, Joseph">Jo. Fields</name> killed a black tailed Deer &amp; hung it up on the bank of the river.    <name type="person" key="Clark, William">Capt. Clark</name> &amp; 2 men went out to hunt on N. S.    at noon we Saw Some buffaloe Swimming the river.    we Stoped and Killed 2 of them.    proceeded on    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> and <name type="person" key="Drouillard, George">Drewyer</name> went to hunt on an Island    opposit to this Isld. comes in River called the <name type="place" key="Missouri River, Three Forks of the">Souix pass over of the three Rivers</name>.    at the upper end of the Same Isd. comes in a creek called <name type="place" key="Counselor (Camel, Elm, Night) Creek">Elm Creek</name>    up the bluffs abt 2 miles comes in another Creek called <name type="place" key="Counselor (Camel, Elm, Night) Creek">wash creek</name>.    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> and <name type="person" key="Drouillard, George">Drewyer</name> Came to the Boat again.    about 2 miles we passd another Creek called <name type="place" key="Counselor (Camel, Elm, Night) Creek">night Creek</name>, at which place we Camped on the South Side.    Here <name type="person" key="Drouillard, George">Drewyer</name> came to us had killed 2 deer of the black tald kind.—</p>
+               <p>
+Wednesday September 19th    We set out early this morning having fine Clear weather.—    We passed some fine bottoms of land, lying on each side of the River, well covered with Timber, One of our hunters killed a black Tailed deer, and hung it on the bank of the River, we put too, and took it aboard, At Noon, <name type="person" key="Clark, William">Captain Clark</name> and two of our men went out a hunting on the North side of the River.—</p>
+               <p>
+At noon, we saw some buffalo swimming across the River; we stopped the boat, and shot 2 of them, which we took on board and proceeded on.—    <name type="person" key="Lewis, Meriwether">Captain Lewis</name> and <name type="person" key="Drouillard, George">George Drewyer</name> went out to hunt on an Island, opposite to which Island, is a River called the <name type="place" key="Missouri River, Three Forks of the">Souix Passover, of the Three Rivers</name>; at the upper end of the same Island, comes in a Creek, called <name type="place" key="Counselor (Camel, Elm, Night) Creek">Elm Creek</name>, up the Bluffs about 2 Miles, we paesed a Creek called <name type="place" key="Counselor (Camel, Elm, Night) Creek">Wash Creek</name>.—    <name type="person" key="Lewis, Meriwether">Captain Lewis</name> &amp; <name type="person" key="Drouillard, George">George Drewyer</name> came to the boat, we proceeded on two Miles; and passed another Creek, called <name type="place" key="Counselor (Camel, Elm, Night) Creek">Night Creek</name>; lying on the South side of the River, at which place we encamped, <name type="person" key="Drouillard, George">George Drewyer</name> return'd to us, having kill'd 2 deer of the black tail'd kind
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n06091901" n="1">On September 19 the captains recorded temperature readings and other meteorological data for the first time since May 14, except for one reading in the Field Notes on August 25. See Weather Diary, <ref n="1804-09-30-1" type="related">September 1804</ref>.</note>
+            <note xml:id="n06091902" n="2">The island is the <name type="place" key="Des Laurien's (Prospect) Island">Prospect Island</name> of the Codex B entry; evidently it retained that name for some time—it appears by that name in Nicollet—but was also known as <name type="place" key="Des Laurien's (Prospect) Island">Des Laurien's</name> or <name type="place" key="Des Laurien's (Prospect) Island">Des laurier's</name>. It is also "Prospect I" on Evans's map 2 (<hi rend="italic">Atlas</hi> map 8), but may be a later addition to the sheet. The three rivers are probably <name type="place" key="Crow Creek (S. Dak.)">Crow</name>, <name type="place" key="Elm (Wolf) Creek">Elm (or Wolf)</name>, and <name type="place" key="Campbell Creek (Buffalo County, S. Dak.)">Campbell</name> creeks. This place was called the "<name type="place" key="Missouri River, Three Forks of the">Sioux Pass of the Three Rivers</name>" because the <name type="native_nation" key="Sioux Indians">Sioux</name> commonly crossed the <name type="place" key="Missouri River">Missouri</name> there. <name type="person" key="Clark, William">Clark's</name> use of the term "Calumet ground" is meant to relate to the pipestone quarry in present <name type="place" key="Minnesota">Minnesota</name>, a neutral ground. See <ref n="1804-08-21" type="related">August 21, 1804</ref>. The three streams are in <name type="place" key="Buffalo County, S. Dak.">Buffalo County</name>, <name type="place" key="South Dakota">South Dakota</name>, within the <name type="place" key="Crow Creek Indian Reservation">Crow Creek Indian Reservation</name> (<name type="native_nation" key="Sioux Indians">Sioux</name>). Just below the island, in <name type="place" key="Lyman County, S. Dak.">Lyman County</name> and within <name type="place" key="Lower Brule Reservation">Lower Brule Reservation</name>, the <name type="person" key="Clark, William">Clark</name>-<name type="person" key="Maximilian, Alexander Philip">Maximilian</name> map (<hi rend="italic">Atlas</hi> map 22) shows the location of "U. S. <name type="native_nation" key="Sioux Indians">Sioux</name> Agency"; this was located at the American Fur Company post of Fort Lookout. <name type="person" key="Maximilian, Alexander Philip">Maximilian</name> visited the place in 1833, and probably wrote in the notation then. The location of the post has been in doubt, but this map would seem to settle the question. Nicollet shows "Old Fort Lookout" and an unnamed site a little to the north of the first; the latter, opposite the lower point of <name type="place" key="Des Laurien's (Prospect) Island">Prospect Island</name>, appears to correspond to <name type="person" key="Maximilian, Alexander Philip">Maximilian's</name> site. Mattes, 533–41, 548–49, 556–57; Coues (HLC), 1:122–23 and nn. 55, 56; <hi rend="italic">South Dakota Guide</hi>, 252; Nicollet (MMR), 413–14; MRC map 37. </note>
+            <note xml:id="n06091903" n="3">The location of the creeks is not aided by various name changes over the years. The fifteen-yard creek is perhaps a nameless stream that appears on <hi rend="italic">Atlas</hi> map 22 and MRC map 38, but it may be <name type="place" key="Good Soldier (Elm) Creek">Good Soldier (Badger) Creek</name>, with present <name type="place" key="Big Bend Dam">Big Bend Dam</name> just above. <name type="person" key="Clark, William">Clark's</name>
+               <name type="place" key="Counselor (Camel, Elm, Night) Creek">Elm Creek</name> may be <name type="place" key="Good Soldier (Elm) Creek">Good Soldier Creek</name> or possibly <name type="place" key="Counselor (Camel, Elm, Night) Creek">Counselor (Camel) Creek</name>. <name type="place" key="Counselor (Camel, Elm, Night) Creek">Night Creek</name> may be <name type="place" key="Counselor (Camel, Elm, Night) Creek">Counselor</name> or <name type="place" key="Fish (Brule) Creek">Fish (Brule) Creek</name>. Adopting the latter solution in each case leaves a problem in identifying the "<name type="place" key="Fish (Brule) Creek">Lower Island Creek</name>" of <hi rend="italic">Atlas</hi> map 22, <name type="place" key="Prickly Pear (Pryor's) Creek">Prickly Pear Creek</name>" of <name type="person" key="Clark, William">Clark's</name> journal, which might otherwise be <name type="place" key="Fish (Brule) Creek">Fish Creek</name>. The camp was in <name type="place" key="Lyman County, S. Dak.">Lyman County</name>, <name type="place" key="South Dakota">South Dakota</name>. Mattes, 562–63; Mattison (BB), 249.</note>
+            <note xml:id="n06091904" n="4">
+               <name type="person" key="Ordway, John">Ordway</name> says that <name type="person" key="Drouillard, George">George Drouillard</name> and <name type="person" key="Field, Joseph">Joseph Field</name> were among them.</note>
+            <note xml:id="n06091905" n="5">The shifting of the first and last distances over the next few days gives differences in the totals of the entries.</note>
+            <note xml:id="n06091906" n="6">Perhaps <hi rend="italic">Opuntia fragilis</hi> (Nutt.) Haw., brittle prickly pear, a small, common species in the area. Other possibilities include <hi rend="italic">O. polyacantha</hi> Haw., plains prickly pear, or <hi rend="italic">O. macrorhiza</hi> Englem., bigroot prickly pear, both of which reach their northern and eastern limit in this area. Barkley, 48–49.</note>
+            <note xml:id="n06091907" n="7">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> observation from Codex O.</note>
+            <note xml:id="n06091908" n="8">Probably <name type="place" key="Crow Creek (S. Dak.)">Crow</name>, <name type="place" key="Counselor (Camel, Elm, Night) Creek">Elm</name>, and <name type="place" key="Campbell Creek (Buffalo County, S. Dak.)">Campbell</name> creeks, <name type="place" key="Buffalo County, S. Dak.">Buffalo County</name>, <name type="place" key="South Dakota">South Dakota</name>.</note>
+            <note xml:id="n06091909" n="9">The difficulty in identifying this creek is discussed with <name type="person" key="Clark, William">Clark's</name> entry for this day; likewise, the problem in establishing the day's campsite, which was in <name type="place" key="Lyman County, S. Dak.">Lyman County</name>, <name type="place" key="South Dakota">South
+Dakota</name>.</note>
+            <note xml:id="n06091910" n="10">The "<name type="place" key="Missouri River, Three Forks of the">Sioux Pass of the Three Rivers</name>"; the streams are <name type="place" key="Crow Creek (S. Dak.)">Crow</name>, <name type="place" key="Elm (Wolf) Creek">Elm (or Wolf)</name>, and <name type="place" key="Campbell Creek (Buffalo County, S. Dak.)">Campbell</name> creeks, behind <name type="place" key="Des Laurien's (Prospect) Island">Des Lauriens Island</name>, all in <name type="place" key="Buffalo County, S. Dak.">Buffalo County</name>, <name type="place" key="South Dakota">South Dakota</name>.</note>
+            <note xml:id="n06091911" n="11">See note to <name type="person" key="Clark, William">Clark's</name> entry of this day for the problems about creek names. <name type="place" key="Counselor (Camel, Elm, Night) Creek">Elm Creek</name> is perhaps <name type="place" key="Good Soldier (Elm) Creek">Good Soldier Creek</name> or <name type="place" key="Counselor (Camel, Elm, Night) Creek">Counselor (Camel) Creek</name>, <name type="place" key="Lyman County, S. Dak.">Lyman County</name>, <name type="place" key="South Dakota">South Dakota</name>.</note>
+            <note xml:id="n06091912" n="12">Not named by <name type="person" key="Clark, William">Clark</name>; it may be <name type="place" key="Counselor (Camel, Elm, Night) Creek">Counselor (Camel) Creek</name>, in which case <name type="place" key="Counselor (Camel, Elm, Night) Creek">Night Creek</name>, where they camped, would be <name type="place" key="Fish (Brule) Creek">Fish (Brule) Creek</name>, <name type="place" key="Lyman County, S. Dak.">Lyman County</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-09-18" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-09-20" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

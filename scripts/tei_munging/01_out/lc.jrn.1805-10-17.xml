@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-10-17">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+October 17, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">284-291</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">240</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">157</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">356-358</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-07-06</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-10-17">October 17, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-10-17.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="right">
+                        <hi rend="italic">October 17th Thursday [over Tuesday] 1805</hi>
+                        <lb/>
+                        <hi rend="italic">Forks of <name type="place" key="Columbia River">Columbia</name>
+                        </hi>
+                     </hi>
+                  </date>
+               </ab>
+               <p>
+Took altitude with Sextant as follows</p>
+               <p>
+                  <table rows="4" cols="5">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h</cell>
+                        <cell role="data" rows="1" cols="1">m</cell>
+                        <cell role="data" rows="1" cols="1"> s</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">A M.</cell>
+                        <cell role="data" rows="1" cols="1">7</cell>
+                        <cell role="data" rows="1" cols="1">40</cell>
+                        <cell role="data" rows="1" cols="1">13</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">42</cell>
+                        <cell role="data" rows="1" cols="1">58</cell>
+                        <cell role="data" rows="1" cols="1">altitude produced 22° 25' 15"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">43</cell>
+                        <cell role="data" rows="1" cols="1">44</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+Observed time and distance of Son and moon nearest Limbs the Sun East (<hi rend="italic">at the Point</hi>)</p>
+               <p>
+                  <table rows="14" cols="4">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">Time</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">     </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">distance</hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">H.    M.    S.</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">A M.</cell>
+                        <cell role="data" rows="1" cols="1">7    51    43</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">60°   47'   15"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"     53    33</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> "      46    30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"     54    35</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> "      45    45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"     55    55</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> "      45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"     57    37</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> "      45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"     58    29</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> "      44</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">8            26</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> "      43    45</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       1    22</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> "      43    15</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       3      8</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> "      43</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       4    43</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> "      42    30</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       6      5</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> "      43</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"       7    52</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> "      41    30</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+Magnetick azmoth. Time and distance of the Sun &amp;c.</p>
+               <p>
+                  <table rows="4" cols="5">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">azmth.</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">     </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">Time</hi>
+                           </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">     </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="center">
+                              <hi rend="italic">distance</hi>
+                           </hi>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">H.    m.    S</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 75° 〈W〉 E</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">8    15    45</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">33°    4'    30"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 74° 〈W〉 E</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">8    19    43</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">34    13</cell>
+                     </row>
+                  </table>
+               </p>
+               <p> 
+Took Equal altitudes</p>
+               <p>
+                  <table rows="4" cols="5">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">H.    m    S</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">h    m      s</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">A M.</cell>
+                        <cell role="data" rows="1" cols="1">8    23</cell>
+                        <cell role="data" rows="1" cols="1">     </cell>
+                        <cell role="data" rows="1" cols="1">P M</cell>
+                        <cell role="data" rows="1" cols="1">3    21    53</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    24    55</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"     23    50</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"    26    49</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">"     25    42</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>	
+altitude produced is 35° 9 30</p>
+               <p>
+This morning after the Luner observations, the old chief came down, and Several men with dogs to Sell &amp; womin with fish &amp;c.    the Dogs were purchased the fish not good.</p>
+               <p>
+I took 2 men and Set out in a Small Canoe with a view to go as high up the <name type="place" key="Columbia River">Columbia river</name> as the 1st forks which the Indians made Signs was but a Short distance, I set out at 2 oClock    firs course was N. 83° W 6 miles to the lower point of a Island on the Lard. Side, passed an Island in the middle of the river at 5 miles, at the head of which is a rapid not bad    at this rapid 3 Lodges of mats on the Lard emenc quantites of dried fish, then West 4 miles to the Lower point of an Island on the Stard. Side, 2 lodges of Indians large and built of mats—    passed 3 verry large mat lodges at 2 mile on the Stard Side large Scaffols of fish drying at every lodge, and piles of Salmon lying.    the Squars engaged prepareing them for the Scaffol—    a Squar gave me a dried Salmon    from those lodes on the Island an Indian Showed me the mouth of the river which falls in below a high hill on the Lard. N. 80° W. 8 miles from the Island.<ref target="n23101701" n="1"/> The river bending 〈Star〉 Lard.—    This river is remarkably Clear and Crouded with Salmon in maney places, I observe in assending great numbers of Salmon <hi rend="italic">dead</hi> on the Shores, floating on the water and in the Bottoms which can be seen at the debth of 20 feet.    the Cause of the emence numbers of dead Salmon I can't account for<ref target="n23101702" n="2"/>    So it is I must have seen 3 or 400 dead and maney living    the Indians, I believe make us[e] of the [<hi rend="italic">illegible, crossed out</hi>] fish which is not long dead as, I Struck one nearly dead and left him floating, Some Indians in a canoe behind took the fish on board his canoe</p>
+               <p>
+The bottoms on the 〈West〉 South Side as high as the <name type="place" key="Fraser (Tacoutche-Tesse) River">Tarcouche tesse</name>
+                  <ref target="n23101703" n="3"/> is from 1 to 2 miles wide, back of the bottoms rises to hilly countrey, the Plain is low on the North &amp; Easte for a great distance    no wood to be Seen in any direction.</p>
+               <p>
+The <name type="place" key="Fraser (Tacoutche-Tesse) River">Tarcouche tesse</name> bears South of West, the <name type="place" key="Columbia River">Columbia</name> N W above range of hills on the West    Parrelel a range of mountains to the East which appears to run nearly North &amp; South distance not more than 50 miles—<ref target="n23101704" n="4"/>    I returned to the point at Dusk followed by three canoes of Indians 20 in number—    I killed a Fowl of the Pheasent kind as large as a 〈Small〉 turkey.<ref target="n23101705" n="5"/> The length from his Beeck to the end of its tail 2 feet 6¾ Inches, from the extremity of its wings across 3 feet 6 Inches.    the tail feathers 13 Inches long, feeds on grass hoppers, and the Seed of wild Isoop<ref target="n23101706" n="6"/>
+               </p>
+               <p>
+Those Indians are orderly, badly dressed in the Same fashions of those above except the women who wore Short Shirts and a flap over them    22 Fishing houses of Mats robes of Deer, Goat &amp; Beaver.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-17.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">October 17th Thursday 1805</hi>
+                     <ref target="n23101707" n="7"/>
+                  </date>
+               </ab>
+               <p>
+A fair morning    made the above observations during which time the principal Chief came down with Several of his principal men and Smoked with us. Several men and woman offered Dogs and fish to Sell, we purchased all the dogs we could, the fish being out of Season and dieing in great numbers in the river, we did not think prper to use them, Send out Hunters to Shute the Prarie Cock a large fowl which I have only Seen on this river; Several of which I have killed, they are the Size of a Small turkey, of the pheasant kind, one I killed on the water edge to day measured from the Beek to the end of the toe 2 feet 6 &amp; ¾ Inches; from the extremities of its wings 3 feet 6 inches; the tale feathers is 13 inches long: they feed on grasshoppers and the Seed of the wild plant which is also peculiar to this river and the upper parts of the <name type="place" key="Missouri River">Missoury</name> somewhat resembling the whins—.<ref target="n23101708" n="8"/>
+                  <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> took a vocabelary of the Language of those people who call themselves <hi rend="italic">
+                     <name type="native_nation" key="Wanapam Indians">So kulk</name>,</hi> and also one of the language of a nation resideing on a Westerly fork of the <name type="place" key="Columbia River">Columbia</name> which mouthes a fiew miles above this place who Call themselves <hi rend="italic">
+                     <name type="native_nation" key="Yakima Indians">Chim nâ pum</name>
+                  </hi>    Some fiew of this nation reside with the <hi rend="italic">
+                     <name type="native_nation" key="Wanapam Indians">So kulks</name>
+                  </hi> nation, Their language differ but little from either the <name type="native_nation" key="Wanapam Indians">Sokulks</name> or the <hi rend="italic">
+                     <name type="native_nation" key="Nez Perce Indians">Chô-pun-nish</name>
+                  </hi> (or <name type="native_nation" key="Nez Perce Indians">pierced nose</name>) nation which inhabit the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Koskoskia river</name> and <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Lewis's R</name>
+                  <ref target="n23101709" n="9"/> below.</p>
+               <p>
+I took two men in a Small Canoe and assended the <name type="place" key="Columbia River">Columbia river</name> 10 miles to an Island near the Stard. Shore on which two large Mat Lodges of Indians were drying Salmon, (as they informed me by Signs for the purpose of food and fuel, &amp; I do not think at all improbable that those people make use of Dried fish as fuel,[)] The number of dead Salmon on the Shores &amp; floating in the river is incrediable to Say and at this Season they have only to collect the fish Split them open and dry them on their Scaffolds on which they have great numbers, how far they have to raft their timber they make their Scaffolds of I could not lern; but there is no timber of any Sort except Small willow bushes in Sight in any direction— from this Island the natives showed me the enterance of a large Westerly fork which they Call <name type="place" key="Yakima (Tapteete) River">Tâpetêtt</name> at about 8 miles distant, the evening being late I deturmined to return to the forks, at which place I reached at Dark.    from the point up the <name type="place" key="Columbia River">Columbia River</name> is N. 83° W. 6 miles to the lower point of an Island near the Lard. Side    passed a Island in the middle of the river at 5 miles at the head of which is a rapid, not dangerous    on the Lard Side opposite to this rapid is a fishing place 3 Mat Lodges, and great quants. of Salmon on Scaffolds drying. Saw great numbers of Dead Salmon on the Shores and floating in the water, great numbers of Indians on the banks viewing me and 18 canoes accompanied me from the point—    The Waters of this river is Clear, and a Salmon may be Seen at the deabth of 15 or 20 feet. West 4 miles to the lower point of a large island near the Stard. Side at 2 Lodges, passed three large lodges<ref target="n23101710" n="10"/> on the Stard Side near which great number of Salmon was drying on Scaffolds    one of those Mat lodges I entered found it crouded with men women and children and near the enterance of those houses I saw maney Squars engaged Splitting and drying Salmon. I was furnished with a mat to Sit on, and one man Set about prepareing me Something to eate, first he brought in a piece of a Drift log of pine and with a wedge of the elks horn, and a malet of Stone curioesly Carved he Split the log into Small pieces and lay'd it open on the fire on which he put round Stones, a woman handed him a basket of water and a large Salmon about half Dried, when the Stones were hot he put them into the basket of water with the fish which was Soon Suficently boiled for use.    it was then taken out put on a platter of rushes neetly made, and Set before me    they boiled a Salmon for each of the men with me, dureing those preperations, I Smoked with those about me who Chose to Smoke which was but fiew, this being a custom those people are but little accustomed to and only Smok thro form.    after eateing the boiled fish which was delicious, I Set out &amp; halted or came too on the Island at the two Lodges. Several fish was given to me, in return for Which I gave Small pieces of ribbond from those Lodges the natives Showed me the mouth of <hi rend="italic">Tap teel</hi> River about 8 miles above on the west Side    this western fork appears to beare nearly West, The main <name type="place" key="Columbia River">Columbia river</name> N W.—    a range of high land to the S W and parralal to the river and at the distance of 2 miles on the Lard. Side, the countrey low on the Stard. Side, and all Coverd. with a weed or plant about 2 &amp; three feet high and resembles the whins. I can proceive a range of mountains to the East which appears to bare N. &amp; South distant about 50 or 60 miles.    no wood to be Seen in any derection—    On my return I was followd. by 3 canoes in which there was 20 Indians    I shot a large Prairie Cock Several Grouse, Ducks and fish.    on my return found Great Numbr. of the nativs with <name type="person" key="Lewis, Meriwether">Capt Lewis</name>, men all employd in dressing ther Skins mending their clothes and putting ther arms in the best order the latter being always a matter of attention with us. The Dress of those natives differ but little from those on the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Koskoskia</name> and <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Lewis's</name>
+                  <ref target="n23101711" n="11"/> rivers, except the women who dress verry different in as much as those above ware long leather Shirts which highly ornimented with beeds Sheels &amp;c. &amp;c. and those on the main <name type="place" key="Columbia River">Columbia river</name> only ware a truss or pece of leather tied around them at their hips and drawn tite between ther legs and fastened before So as barly to hide those parts which are So Sacredly hid &amp; Scured by our women. Those women are more inclined to Copulency than any we have yet Seen, with low Stature broad faces, heads flatened 〈the eyes back〉 and the forward compressed so as to form a Streight line from the nose to the Crown of the head,<ref target="n23101712" n="12"/> their eyes are of a Duskey black, their hair of a corse black without orniments of any kind braded as above.</p>
+               <p>
+The orniments of each Sect are Similar, Such as large blue &amp; white beeds, either pendant from their ears or encircling their necks, or wrists &amp; arms.    They also ware bracelets Of Brass, Copper &amp; horn, and trinkets of Shells, fish bones and curious feathers. Their 〈Dress are as follows viz〉 garments Conists of a short Shirt of leather and a roabe of the Skins of Deer or the Antilope but fiew of them ware Shirts all have Short robes. Those people appears to live in a State of comparitive happiness: they take a greater Share labor of the woman, than in common among Savage tribes, and as I am informd. Content with one wife (as also those on the <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Ki moo e nim river</name>)    Those people respect the aged with veneration, I observed an old woman in one of the Lodges which I entered    She was entirely blind as I was informed by Signs, had lived more than 100 winters, She occupied the best position in the house, and when She Spoke great attention was paid to what She Said—. Those people as also those of the <hi rend="italic">
+                     <name type="native_nation" key="Flathead Indians">flat heads</name>
+                  </hi> which we had passed on the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Koskoske</name> and <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Lewis's</name>
+                  <ref target="n23101713" n="13"/> rivers are Subject to Sore eyes, and maney are blind of one and Some of both eyes.    this misfortune must be owing to the reflections of the Sun &amp;c. on the waters in which they are continually fishing during the Spring Summer &amp; fall, &amp; the Snows dureing the, winter Seasons, in this open countrey where the eye has no rest.<ref target="n23101714" n="14"/> I have observed amongst those, as well in all other tribes which I have passed on these waters who live on fish maney of different Sectes who have lost their teeth 〈quit〉 about middle age, Some have their teeth worn to the gums, perticelar hose of the upper jaws, and the tribes generally have bad teeth    the cause of it I cannot account    sand attachd. to the roots &amp;c the method they have of useing the dri'd Salmon, which is mearly worming it and eating the rine &amp; Scales with the flesh of the fish, no doubt contributes to it<ref target="n23101715" n="15"/>
+               </p>
+               <p>
+The House or Lodges of the tribes of the main <name type="place" key="Columbia River">Columbia river</name> is of large mats made of rushes, Those houses are from 15 to 60 feet in length generally of an Oblong Squar form, Suported by poles on forks in the iner Side, Six feet high, the top is covered also with mats leaveing a Seperation in the whole length of about 12 or 15 inches wide, left for the purpose of admitting light and for the Smok of the fire to pass which is made in the middle of the house.— The roughfs are nearly flat, which proves to me that rains are not common in this open Countrey</p>
+               <p>
+Those people appeare of a mild disposition and friendly disposed— They have in their huts independant of their nets gigs &amp; fishing tackling each bows &amp; large quivers of arrows on which they use flint Spikes. Theire ammusements are Similar to those of the <name type="place" key="Missouri River">Missouri</name>.    they are not beggerley and receive what is given them with much joy.</p>
+               <p>
+I saw but fiew horses    they appeared make but little use of those animals principally useing Canoes for their uses of procureing food &amp;c.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-17.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Thursday 17th Oct. 1805.    a clear pleasant morning.    we delay here this day for our officers to take observations &amp;C.    the natives Stole a large ax from us last night.    we bought Several more dogs from them as we can git no other meat to eat, &amp;C.    a number of the Savages have red and blew cloth, but no buffalow Robes among them.    the River which we came down looses its name and is now Called <name type="place" key="Tucannon River (Ki-moo-e-nim Creek)">Kimo e num</name>
+                  <ref target="n23101716" n="16"/>    the North fork which is the largest is Called the <name type="place" key="Columbia River">Calumbia River</name>. <name type="person" key="Clark, William">Capt. Clark</name> and 2 men went up it abt. three miles to the Indian lodges.    they Saw a great quantity of Sammon in the R.    they giged a verry large Sammon.    they Saw a great number lay dead on the Shores which the Indians had giged.    a great number of large fowls in the praries a Size larger than haith [heath] hens.<ref target="n23101717" n="17"/>    Some of the men killed Several of them.    our officers took down Some of the language    found these to be of the flat head nation but another tribe.<ref target="n23101718" n="18"/>    our officers gave Some of the principal men meddles &amp; flags and Some other Small articles    these Savages are verry poor but peacable. Some of them naked and Some have dressed Elk and Deer Skins with the hair on. Some fiew rabit Skins also.    they have a numbr of horses among them.    their grave yards are picketed in.    and the place about these forks is verry pleasant—    and 
+Smooth &amp;C—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-17.04" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Thursday 17th.</hi>    We remained here all day for the purpose of taking an observation. We got a number of dogs from the natives. Salmon are very plenty but poor and dying, and therefore not fit for provisions. In the plains 
+are a great many hares and a number of fowls, between the size of a pheasant and turkey, called heath hens or grous. We killed a great many of these fowls which are very good eating. The small river, which we called <name type="native_nation" key="Flathead Indians">Flathead</name> and afterwards <name type="person" key="Clark, William">Clarke's</name> river, is a branch of the <name type="place" key="Columbia River">Great Columbia</name>, and running a northwest course, falls into it a considerable distance above this place; we 
+therefore never passed the mouth of that river.<ref target="n23101719" n="19"/>
+               </p>
+               <p>
+The <name type="place" key="Columbia River">Columbia</name> here is 860 yards wide, and the <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Ki-moo-ee-nem (called Lewis's river</name> from its junction with the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Koos-koos-ke</name>) 475 yards.<ref target="n23101720" n="20"/> They are both very low at this place. Our course since we took water has been a few 
+degrees south of west: here the <name type="place" key="Columbia River">Columbia</name> turns to the east of south.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-10-17.05" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+〈<hi rend="italic">Tuesday</hi>〉 Thursday <hi rend="italic">17th Oct</hi>. <hi rend="italic">1805</hi>.    a clear pleasant morning.    we delay here to day for our officers to take observations &amp;c.    the natives Sold us a nomber more dogs and fresh Sammon &amp;c.    these Savages have but verry fiew buffalow Robes, but are dressed in deer &amp; Elk Skins.    the deer Skins are dressed with the hair on and Sowed together in robes.    Some of them have red and blew cloath and a nomber of articles which came from Some white people.    they have Some horses.    they Sign to us that their is deer and Elk below this.    we Saw an emence Site of fowls on the plain considerable la[r]ger than the prarie or haith hens.    Some of the party went out and 
+killed 3 of them.    we now call the north fork as it is the largest the <name type="place" key="Columbia River">Columbian River</name>, and the other which we came down loose it name from <name type="place" key="Columbia River">Columba</name>. and we call it after the Indian name <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">kimoo-e-nem</name>—    the <name type="place" key="Columbia River">columbia River</name> is more Smooth and the current gentle the Natives have a great nomber of canoes, and fishing camps along the Shores.    <name type="person" key="Clark, William">Capt. Clark</name> and two men went up the <name type="place" key="Columbia River">Columb. River</name> in a canoe 3 or 4 miles to the Indians lodges    they Saw a vast quantitys of live Sammon in the River they giged one which was verry larg    they Saw a great nomber lay dead on Shores.    Some of the men killed Several more haith hens most as large as Turkeys.    〈our officers gave the chiefs〉 of these bands 〈which is not greatly〉 like 〈the first〉 flat 〈heads we Saw but we Still call them.    So we cannot〉 we cannot find out what nation these are as yet, but our officers gave the principal men meddles a flag and Some other Small articles &amp;c.    we bought in all 26 dogs from the natives this day.    these Savages are peaceable but verry poor.    they have nothing of any account to trade.    a nomber of them have not any thing to cover their nakedness, but the greater part of them have dressed deer &amp; Elk Some rabit Skins &amp;c. to cover themselves.    Saw a nomber of horses on the 
+opposite Shore.    we have late[ly] Seen a nomber of their grave yards pickeded in &amp;c</p>
+               <p>
+Thursday October 17th    We had a clear pleasant morning.    Our officers delayed this day here, in order to ascertain the latitude of this place &amp;ca.    The Natives sold us several more dogs &amp;ca    They had very few buffalo robes among them, &amp; were cloathed in deer &amp; Elk skins dressed with the hair on &amp; sewed together, &amp; made into Robes.    Some of these Indians had Red &amp; blue Cloth &amp; a number of articles that must have been procured from some Civilized 〈people〉 nation.    They also had some horses.    They made signs to us that there is deer &amp; Elk below this place.—    We saw an immense quantity of Fowls in the plains, they were considerable larger than the Priari or heath hen.    Some of our party went out with Guns &amp; killed 3 of them.—    Our officers were of the opinion that the River which we descended, &amp; which we all took, to be the <name type="place" key="Columbia River">Columbia River</name> should lose its name at this place and that the North fork being the largest should be called the <name type="place" key="Columbia River">Columbia River</name>,<ref target="n23101721" n="21"/> &amp; the South fork of the River (or rather River) which we had descended, should be named <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Lewis's River</name> or after the name it bears among the Indians which is <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Ki-o-me-num River</name>.—    The water in <name type="place" key="Columbia River">Columbia</name>
+                  <ref target="n23101722" n="22"/> River (or North fork) is much smoother &amp; the current more gentle here than the <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Ki-o-me-num</name> or <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Lewis's River</name>.    The <name type="place" key="Columbia River">Columbia River</name> only bearing the name up the North Fork, of these two rivers.—    The natives here had a great number of Canoes, &amp; fishing Camps, along the shores, of both these Rivers.—    <name type="person" key="Clark, William">Captain Clark</name> took a party of our Men, and went up the <name type="place" key="Columbia River">Columbia</name>
+                  <ref target="n23101723" n="23"/> River in a Canoe, between 3 &amp; 4 Miles, to where these Indians had their lodges.    They saw vast quantities of live Salmon in that River.    They gigged one of them which was very large, They also saw a great number of Salmon which lay dead on the shores, Some of our Men went out into the plains, &amp; killed 〈some〉 several more of the Priari or heath hens, which were nearly as large as a hen Turkey,—    &amp; good eating.    Our party were all at a loss to know what Nation of Indians the Band which we are among belong to.    Our officers gave the principal Men among them Medals, a Flag, &amp; some other presents.—    We purchased 26 dogs from these Indians to eat, The Indians that are among us, are handsome, well made &amp; light brown color'd sett of Men, and are very peacable.    They have not any thing to Trade amongst them with us, but 
+Salmon, Dogs &amp; a few Elk skins.    We saw a number of horses on the opposite shore, and a number of their Grave Yards, which were picketed in.    Our Officers took a Meridinal Oservation, &amp; found the Forks of these Two Rivers 
+at their Confluence to lay in Latitude 46° 15' 13 7/10S North.
+
+
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n23101701" n="1">The <name type="place" key="Yakima (Tapteete) River">Yakima River</name>, "Tape-tett" on <hi rend="italic">Atlas</hi> map 75, meeting the <name type="place" key="Columbia River">Columbia</name> at modern <name type="place" key="Richland, Wash.">Richland</name>, <name type="place" key="Benton County, Wash.">Benton County</name>, <name type="place" key="Washington">Washington</name>. The name <hi rend="italic">táptat</hi> refers to a <name type="native_nation" key="Yakima Indians">Yakima</name> village on the <name type="place" key="Yakima (Tapteete) River">Yakima River</name>, near <name type="place" key="Prosser, Wash.">Prosser</name>, <name type="place" key="Benton County, Wash.">Benton County</name>.</note>
+            <note xml:id="n23101702" n="2">
+               <name type="person" key="Clark, William">Clark</name> was seeing the end of the annual salmon migration up the rivers from the sea; the fish were dying after having laid and fertilized their eggs. They were probably either coho (silver) salmon, <hi rend="italic">Oncorhynchus kisutch,</hi> or sockeye (blue-backed) salmon, <hi rend="italic">O. nerka,</hi> which are both fall breeders. Cf. Clemens &amp; Wilby, 81–89; Cutright (LCPN), 225.</note>
+            <note xml:id="n23101703" n="3">See above, <ref n="1805-09-10" type="related">September 10, 1805</ref>.</note>
+            <note xml:id="n23101704" n="4">The <name type="place" key="Horse Heaven Hills">Horse Heaven Hills</name> to the west and the <name type="place" key="Blue (Southwest, Southeast) Mountains">Blue Mountains</name> to the east. See above, <ref n="1805-10-15" type="related">October 15, 1805</ref>.</note>
+            <note xml:id="n23101705" n="5">Their first specimen of the sage grouse, a species new to science which they had seen earlier (June 5 and August 12, 1805), and which <name type="person" key="Lewis, Meriwether">Lewis</name> describes more fully on <ref n="1806-03-02" type="related">March 2, 1806</ref>. Burroughs, 213–15.</note>
+            <note xml:id="n23101706" n="6">Big sagebrush.</note>
+            <note xml:id="n23101707" n="7">
+               <name type="person" key="Clark, William">Clark</name> places the observations of both October 17 and 18 together before the first day's entry in Codex H. Being nearly identical to the ones in the Elkskin-bound Journal, we do not print them here. On the eighteenth, however, <name type="person" key="Clark, William">Clark</name> uses the term "<name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Lewis's River</name>" for the "<hi rend="italic">
+                  <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Ki-moo-e nim</name>
+               </hi>" as he has it in the elkskin book. The words appear to have been substituted for some erased words.</note>
+            <note xml:id="n23101708" n="8">Whins refers to gorse, furze, and other prickly, thorny shrubs. It is the "wild Isoop" of the other entry (big sagebrush). Since sagebrush was new to the explorers they used a variety of terms in identifying it.</note>
+            <note xml:id="n23101709" n="9">Again, "<name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Lewis's R</name>" appears to have replaced some erased words.</note>
+            <note xml:id="n23101710" n="10">Perhaps a <name type="native_nation" key="Palouse Indians">Palouse</name> village in <name type="place" key="Franklin County, Wash.">Franklin County</name>, <name type="place" key="Washington">Washington</name>, above <name type="place" key="Pasco, Wash.">Pasco</name>. Trafzer &amp; Scheuerman, 5; <hi rend="italic">Atlas</hi> map 75.</note>
+            <note xml:id="n23101711" n="11">"Lewis's" apparently replaces an erased word.</note>
+            <note xml:id="n23101712" n="12">Here was their first encounter with a custom and its results which for whites were among the most striking cultural traits of the <name type="place" key="Columbia River">Columbia</name> and Northwest Coast peoples. These lower <name type="place" key="Columbia River">Columbia</name> tribes placed infants in a special cradleboard with an angled board compressing the forehead; in some cases a tight headband was apparently used instead. Later, <name type="person" key="Clark, William">Clark</name> sketched the headboard apparatus and examples of the results (see <ref n="1806-01-30" type="related">figure</ref>). The eventual effect on the soft skull of the child was the shape noted by <name type="person" key="Clark, William">Clark</name>, the head becoming decidedly pointed. Many whites applied the term "flathead" to those who practiced head deformation, although the Indians themselves apparently reserved the term for tribes in the interior who left their heads naturally "flat" on top. The deformed head shape was considered a mark of distinction, beauty, and superior status. Slaves were not allowed to deform the heads of their children. Hodge, 1:96–97; Ruby &amp; Brown (CITC), 47–49.</note>
+            <note xml:id="n23101713" n="13">Again, the substitution of "Lewis's" for an erased word.</note>
+            <note xml:id="n23101714" n="14">These disorders may have been due to trachoma, gonorrhea, and perhaps also glaucoma. Chuinard (OOMD), 360–61; Cutright (LCPN), 223–24.</note>
+            <note xml:id="n23101715" n="15">
+               <name type="person" key="Clark, William">Clark</name> was probably right in his surmise. Cutright (LCPN), 224.</note>
+            <note xml:id="n23101716" n="16">This is the name the captains gave to the <name type="place" key="Tucannon River (Ki-moo-e-nim Creek)">Tucannon River</name>, but which they seem to have 
+attached to the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake</name> in error for a time. See <name type="person" key="Clark, William">Clark's</name> entries of <ref n="1805-10-10" type="related">October 10</ref>, <ref n="1805-10-13" type="related">13</ref>, and <ref n="1805-10-16" type="related">16</ref>, 1805. The river they came down was the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake</name> which the leaders named the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Lewis</name> in honor of the 
+captain.</note>
+            <note xml:id="n23101717" n="17">The party's first specimen of the sage grouse, <hi rend="italic">Centrocercus urophasianus</hi>.</note>
+            <note xml:id="n23101718" n="18">The <name type="native_nation" key="Flathead Indians">Flatheads</name> are <name type="native_nation" key="Flathead Indians">Salish</name> speakers, whereas the <name type="native_nation" key="Yakima Indians">Yakimas</name> and <name type="native_nation" key="Wanapam Indians">Wanapams</name> are of the Shahaptian-language family and totally unrelated. Perhaps the word "not" was left out of the sentence or <name type="person" key="Ordway, John">Ordway</name> may have been using the term "flat head" for all the Indians they had met since descending from the <name type="place" key="Rocky Mountains">Rocky Mountains</name>.</note>
+            <note xml:id="n23101719" n="19">The captains' concept of <name type="place"
+                     key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark's River</name> is in fact a combination of the <name type="place" key="Bitterroot (Clark's, Flathead) River">Bitterroot</name>, <name type="place"
+                     key="Clark Fork (Clark's, East Fork Clark's, Flathead) River">Clark Fork</name>, and <name type="place"
+                     key="Pend Oreille (Clark's, Flathead, Lastaro, Lastaw) River">Pend Oreille</name> rivers, the last of which does flow into the <name type="place" key="Columbia River">Columbia</name> well above the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake</name>. See <name type="person" key="Lewis, Meriwether">Lewis's</name> entry of <ref n="1805-09-10" type="related">September 10, 1805</ref>.</note>
+            <note xml:id="n23101720" n="20">
+               <name type="person" key="Gass, Patrick">Gass</name> agrees with <name type="person" key="Ordway, John">Ordway</name>, and <name type="person" key="Whitehouse, Joseph">Whitehouse</name> disagrees with <name type="person" key="Clark, William">Clark</name>. <name type="person" key="Clark, William">Clark</name> gives distances of 
+960¾ yards for the <name type="place" key="Columbia River">Columbia</name> and 575 yards for the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake</name>.</note>
+            <note xml:id="n23101721" n="21">"Columbia" is written over an erasure that is illegible.</note>
+            <note xml:id="n23101722" n="22">Again the word is written over an illegible erasure.</note>
+            <note xml:id="n23101723" n="23">Another substitution.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-10-16" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-10-18" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

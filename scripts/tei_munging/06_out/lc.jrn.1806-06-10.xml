@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-06-10">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+June 10, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">7-13</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">321</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">237-238</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-06-10.01">
+            <placeName/>
+            <geo>46.3281 -115.6193</geo>
+            <note>Camped where they met the Nez Perces on 09-20-1805. Remained at this camp until 06-15.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-11-01</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-06-10">June 10, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-06-10.01" n="lc.geo.1806-06-10.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Tuesday June 10th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+This morning we arose early and had our horses collected except one of <name type="person" key="Cruzatte, Pierre">Cruzatt's</name> and one of <name type="person" key="Whitehouse, Joseph">Whitehouse's</name>, which were not to be found; after a surch of some hours <name type="person" key="Cruzatte, Pierre">Cruzatt's</name> horse was obtained and the indians promised to find the other and bring it to us at the <name type="place" key="Weippe Prairie (Camas Flats, Quawmash Flats)">quawmash flatts</name>
+                  <ref target="n36061001" n="1"/> where we purpose encamping a few days.    at 11 A. M. we set out with the party each man being well mounted and a light load on a second horse, beside which we have several supenemary [supernumerary] horses in case of accedent or the want of provision, we therefore feel ourselves perfectly equiped for the mountains.    we ascended the river hills which are very high and about three miles in extent our sourse being N. 22° E. thence N. 15 W. 2 m to <name type="place" key="Lolo (Collins's) Creek (Idaho)">Collins's creek</name>.<ref target="n36061002" n="2"/>    thence due North 5 m. to the Eastern border of the <name type="place" key="Weippe Prairie (Camas Flats, Quawmash Flats)">quawmash flatts</name> where we encamped near the place we first met with the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> last fall.<ref target="n36061003" n="3"/>    the pass of <name type="place" key="Lolo (Collins's) Creek (Idaho)">Collins's Creek</name> was deep and extreemly difficult tho' we passed without sustaining further injury than weting some of our roots and bread.<ref target="n36061004" n="4"/>    the country through which we passed is extreemly fertile and generally free of stone, is well timbered with several speceis of fir, long leafed pine and larch.<ref target="n36061005" n="5"/>    the undergrowth is chooke cherry<ref target="n36061006" n="6"/> near the water courses, black alder,<ref target="n36061007" n="7"/> a large speceis of redroot<ref target="n36061008" n="8"/> now in blume, a growth<ref target="n36061009" n="9"/> which resembles the pappaw in it's leaf and which bears a burry with five valves of a deep perple colour, two speceis of shoemate<ref target="n36061010" n="10"/> sevenbark,<ref target="n36061011" n="11"/> perple haw,<ref target="n36061012" n="12"/> service berry,<ref target="n36061013" n="13"/> goosburry,<ref target="n36061014" n="14"/> a wild rose honeysuckle<ref target="n36061015" n="15"/> which bears a white berry, and a species of dwarf pine<ref target="n36061016" n="16"/> which grows about ten or twelve feet high.    bears a globular formed cone with small scales, the leaves are about the length and much the appearance of the common pitch pine having it's leaving in fassicles of two; in other rispects they would at a little distance be taken for the young plants of the long leafed pine.    there are two speceis of the wild rose<ref target="n36061017" n="17"/> both quinqui petallous and of a damask red but the one is as large as the common red rose of our gardens. I observed the apples of this speceis last fall to be more than triple the size of those of the ordinary wild rose; the stem of this rose is the same with the other tho' the leaf is somewhat larger.    after we encamped this evening we sent out our hunters; <name type="person" key="Collins, John">Collins</name> killed a doe on which we suped much to our satisfaction.    we had scarcely reached <name type="place" key="Lolo (Collins's) Creek (Idaho)">Collins's Creek</name> before we were overtaken by a party of Indians who informed us that they were going to the <name type="place" key="Weippe Prairie (Camas Flats, Quawmash Flats)">quawmash flatts</name> to hunt; their object I beleive is the expectation of bing fed by us in which how ever kind as they have been we must disappoint them at this moment as it is necessary that we should use all frugallaty as well as employ every exertion to provide meat for our journey.    they have encamped with us.    we find a great number of burrowing squirels<ref target="n36061018" n="18"/> about our camp of which we killed several; I eat of them and found them quite as tender and well flavored as our grey squirel.    saw many sand hill crains<ref target="n36061019" n="19"/> and some ducks in the slashey glades about this place.—
+</p>
+               <p>
+                  <figure rend="map">
+                     <p>The Expedition's Route, June 10–September 23, 1806
+<bibl>
+                           <title>(<hi rend="italic">Journals</hi>
+                           </title>
+                           <biblScope type="volume"> 8</biblScope>
+                           <orgName> University of Nebraska Press,</orgName>
+                           <note place="inline"> used with permission.)</note>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-06-10.02" n="lc.geo.1806-06-10.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Tuesday June 10th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+rose early this morning and had all the horses Collected except one of <name type="person" key="Whitehouse, Joseph">Whitehouses</name> horses which could not be found, an Indian promised to find the horse and bring him on to us at the <name type="place" key="Weippe Prairie (Camas Flats, Quawmash Flats)">quawmash fields</name> at which place we intend to delay a fiew days for the laying in Some meat by which time we Calculate that the Snows will have melted more off the mountains and the grass raised to a sufficient hight for our hoses to live.    we packed up and Set out at 11 A M    we Set out with the party each man being well mounted and a light load on a 2d horse, besides which we have several supernumary horses in case of accident or the want of provisions, we therefore feel ourselves perfectly equiped for the Mountains.    we assended the hills which are very high and about three miles in extent our course being N. 22° E, thence N. 15° W 2 ms: to <name type="place" key="Lolo (Collins's) Creek (Idaho)">Collins Creek</name>. Thence North 5 Miles to the Eastern boarders of the <name type="place" key="Weippe Prairie (Camas Flats, Quawmash Flats)">Quawmash flatts</name> where we encamped near the place I first met with the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> Nation last fall.    the pass of <name type="place" key="Lolo (Collins's) Creek (Idaho)">Collins Creek</name> was deep and extreemly difficult tho' we passed without sustaining further injury than wetting some of our roots and bread. The Country through which we passed is extreemly fertile and generally free from Stone, is well timbered with several Species of fir, long leafed pine and Larch.<ref target="n36061020" n="20"/>    the undergrowth is choke cherry near the watercourses, black alder, a large species of red root now in blume, a Growth which resembles the poppaw in it's leaf and which bears a berry with five valves of a deep purple colour, two species of Shoemate, Seven bark, perple haw, Service berry, Goose berry, wildrose, honey suckle which bears a white berry, and a Species of dwarf pine which grows about 10 or 12 feet high, bears a globarlar formed cone with Small Scales, the leaf is about the length and much the appearance of the pitch pine having it's leaves in fassicles of two; in other respects they would at a little distance be taken for the young plants of the long leafed pine. There are two Species of the wild rose both quinque petallous and of a damask red, but the one is as large as the common red rose of our guardens. I observed the apples of these Species last fall to be more than triple the Size of those of the ordinary wild rose; the Stem of this rose is the Same with the other tho' the leaf is somewhat larger.    after we encamped this evening we Sent out our hunters; <name type="person" key="Collins, John">Collins</name> killed a doe on which we Suped much to our Satisfaction, we had not reached the top of the river hills before we were overtaken by a party of 8 Indians who informed me that they were gowing to the <name type="place" key="Weippe Prairie (Camas Flats, Quawmash Flats)">quawmash flatts</name> to hunt; their object I belive is the expectation of being fed by us in which however <hi rend="italic">kind as they have been</hi> we must disappoint them at this moment as it is necessary that we Should use all frugallaty as well as employ every exertion to provide meat for our journey.    they have encamped with us.    we find a great number of burrowing Squirels about our camp of which we killed Several; I eate of them and found them quit as tender and well flavd. as our grey squirel. Saw many Sand hill crains and Some ducks in the Slashey Glades about this place—.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-06-10.03" n="lc.geo.1806-06-10.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday 10th June 1806.    clear &amp; pleasant.    we went eairly for our horses    found all except 2.    about 10 A. M. we Set out and proced. on    ascended a high hill then decended it down on <name type="place" key="Lolo (Collins's) Creek (Idaho)">Collins Creek</name>    forded it and ascended a high hill on to a livel timbred country    2 or 3 men was left to look for the lost horses.    proced. thro. thickets of young slim pines &amp; balsom fer timber    about 4 P M. we arived at the Commass ground<ref target="n36061021" n="21"/> where we Camped 22 Sept last but no villages here now.    we Camped here for a fiew days to kill some deer to take Some meat for the mountains.    this level consists of about 2000 ackers of level Smooth prarie on which is not a tree or Shreub, but the lowest parts is covred with commass which is now all in blossom, but is not good untill the Stalk is dead, then the natives assemble and collect their winters food in a short time as it is verry convenient for their villages as points of timber runs out in the praries of higher ground &amp; covred with pitch pine.    a fine timbred country all around this rich land the Soil is deep black &amp; verry rich &amp; easy for cultervation    our men all came up    had found only one of the 2 lost horses. Several of the natives accompanied us. Several of our hunters went out this evening a hunting.    they all returned at dark    <name type="person" key="Collins, John">Collins</name> had killed one deer. Some of the rest wounded Several others &amp;C.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-06-10.04" n="lc.geo.1806-06-10.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 10th.</hi>    We collected all our horses, but one, and set out accompanied by several of the natives, travelled about twelve miles and arrived at what we call the <name type="place" key="Weippe Prairie (Camas Flats, Quawmash Flats)">Com-mas flat</name>, where we first met the natives after crossing the <name type="place" key="Rocky Mountains">Rocky mountains</name> last fall. Here we encamped<ref target="n36061022" n="22"/> and some hunters<ref target="n36061023" n="23"/> went out. The com-mas grows in great abundance on this plain; and at this time looks beautiful, being in full bloom with flowers of a pale blue colour.— At night our hunters came in and had killed one deer.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n36061001" n="1">On <name type="place" key="Weippe Prairie (Camas Flats, Quawmash Flats)">Weippe Prairie</name>, in <name type="place" key="Clearwater County, Idaho">Clearwater County</name>, <name type="place" key="Idaho">Idaho</name>, near the western bank of <name type="place" key="Jim Ford (Village) Creek">Jim Ford Creek</name> ("<name type="place" key="Jim Ford (Village) Creek">Village Creek</name>" on <hi rend="italic">Atlas</hi> map 71) and about two miles southeast of present <name type="place" key="Weippe, Idaho">Weippe</name>. Space, 30; Peebles (LT), map. The "quawmash" is camas, <hi rend="italic">Camassia quamash</hi> (Pursh) Greene; see <ref n="1805-09-20" type="related">September 20, 1805</ref>, and the next entry, <ref n="1806-06-11" type="related">June 11, 1806</ref>.</note>
+            <note xml:id="n36061002" n="2">Present <name type="place" key="Lolo (Collins's) Creek (Idaho)">Lolo Creek</name>, in <name type="place" key="Clearwater County, Idaho">Clearwater County</name>. <hi rend="italic">Atlas</hi> map 71.</note>
+            <note xml:id="n36061003" n="3">They were about a mile southeast of the first Indian village they had come to when meeting the <name type="native_nation" key="Nez Perce Indians">Nez Perces</name> on <ref n="1805-09-20" type="related">September 20, 1805</ref>. Space, 30; Peebles (LT), map; Appleman (LC), 284–85.</note>
+            <note xml:id="n36061004" n="4">Probably meaning the roots of either camas or cous, <hi rend="italic">Lomatium cous</hi> (Wats.) Coult. &amp; Rose, and the bread made from these plants. Hitchcock et al., 3:548–49. On <ref n="1806-06-17" type="related">June 17</ref>
+               <name type="person" key="Lewis, Meriwether">Lewis</name> specifically mentions "roots and bread of cows [cous]."</note>
+            <note xml:id="n36061005" n="5">The species of "fir" along the route include Douglas fir, <hi rend="italic">Pseudotsuga menziesii</hi> (Mirb.) Franco, grand fir, <hi rend="italic">Abies grandis</hi> (Dougl.) Lindl., and Engelmann spruce, <hi rend="italic">Picea engelmannii</hi> Parry. See <ref n="1806-02-06" type="related">February 6, 1806</ref>. The pine with long leaves is Ponderosa pine, <hi rend="italic">Pinus ponderosa</hi> Laws., and the larch is western, <name type="place" key="Montana">Montana</name>, or mountain, larch, also called hackmatack, and tamarack, <hi rend="italic">Larix occidentalis</hi> Nutt. Hitchcock et al., 1:131–32, 117, 122, 129, 121.</note>
+            <note xml:id="n36061006" n="6">
+               <hi rend="italic">Prunus virginiana</hi> L.</note>
+            <note xml:id="n36061007" n="7">The alder of this region is thinleaf alder, <hi rend="italic">Alnus incana</hi> (L.) Moench. Hitchcock et al., 2:73–74. <name type="person" key="Lewis, Meriwether">Lewis</name> uses the common name of the closely related European species, <hi rend="italic">Alnus glutinosa</hi> (L.) Gaertn. Bailey, 327.</note>
+            <note xml:id="n36061008" n="8">Redroot is an eastern North American shrub also called New Jersey tea, <hi rend="italic">Ceanothus americanus</hi> L., with reputed medicinal value as a blood coagulant. <name type="person" key="Lewis, Meriwether">Lewis</name> clearly realizes that he is seeing a different, "large" species, now called redstem ceanothus, buckbrush, or buckthorn, <hi rend="italic">C. sanguineus</hi> Pursh. The species was new to science, but the captain did not collect the type specimen until possibly June 27. Uphof, 115; Hitchcock et al., 3:418; Cutright (LCPN), 306–7, 405–6.</note>
+            <note xml:id="n36061009" n="9">The purple berry helps identify this as cascara, chittam bark, <hi rend="italic">Rhamnus purshiana</hi> DC. <name type="person" key="Lewis, Meriwether">Lewis</name> wrote a similar description of the berry on the label of the type specimen he collected in the vicinity on <ref n="1806-05-29" type="related">May 29, 1806</ref>. Hitchcock et al., 3:420; Cutright (LCPN), 307–8, 416–17. He compares its leaves to the leaf of the pawpaw, <hi rend="italic">Asimina triloba</hi> (L.) Dun. Bailey, 420; Barkley, 14. See references to pawpaw and its possible effects on <ref n="1806-09-11" type="related">September 11</ref> and <ref n="1806-09-19" type="related">19</ref>, 1806.</note>
+            <note xml:id="n36061010" n="10">One species of the "shoemate" is probably smooth sumac, <hi rend="italic">Rhus glabra</hi> L., which is common in the area. The second could be poison ivy, <hi rend="italic">R. radicans</hi> L., which occurs at lower elevations around Camp <name type="native_nation" key="Nez Perce Indians">Chopunnish</name>. Since this plant was certainly known to the men, it is curious that it is not named specifically. Thus, <name type="person" key="Lewis, Meriwether">Lewis</name> could have been seeing Greene mountain ash, <hi rend="italic">Sorbus scopulina</hi> Greene, which without flowers could be confused for sumac. See <ref n="1805-09-20" type="related">September 20, 1805</ref>, where he calls another mountain ash "shoemake." Hitchcock et al., 3:407, 189; Little (MWH), 193-W.</note>
+            <note xml:id="n36061011" n="11">Identified previously as ninebark, <hi rend="italic">Physocarpus capitatus</hi> (Pursh) Kuntze (see <ref n="1805-12-01" type="related">December 1, 1805</ref>), it now seems certain that Lewis's "sevenbark" is another plant. Sevenbark is an old common name for the eastern North American shrub, <hi rend="italic">Hydrangea arborescens</hi> L., probably known to <name type="person" key="Lewis, Meriwether">Lewis</name> because of its importance as a medicinal. Lewis's syringa or Lewis's mock orange, <hi rend="italic">Philadelphus lewisii</hi> Pursh, is the only member of the Hydrangea family in the region, and it would have looked very similar to sevenbark (<hi rend="italic">Hydrangea arborescens</hi>) at this time of year, prior to its midsummer flowering season. Syringa is common in the area, and <name type="person" key="Lewis, Meriwether">Lewis</name> had pressed a specimen of it four days earlier. He collected it again when he saw it in bloom on <ref n="1806-07-04" type="related">July 4, 1806</ref>. Based on these specimens, Frederick Pursh honored <name type="person" key="Lewis, Meriwether">Lewis</name> by attaching his name to it, one of the most attractive flowering shrubs in the <name type="place" key="Rocky Mountains">Rocky Mountains</name>, now the state flower of <name type="place" key="Idaho">Idaho</name>. Uphof, 274; Hitchcock et al., 3:86–87; Cutright (LCPN), 299, 363, 413–14.</note>
+            <note xml:id="n36061012" n="12">Purple haw is black hawthorn, <hi rend="italic">Crataegus douglasii</hi> Lindl. Hitchcock et al., 3:101; Cutright (LCPN), 288–89, 407.</note>
+            <note xml:id="n36061013" n="13">Serviceberry, <hi rend="italic">Amelanchier alnifolia</hi> Nutt. Hitchcock et al., 3:93–95.</note>
+            <note xml:id="n36061014" n="14">Two species of gooseberry could have been seen on this day, snow gooseberry, <hi rend="italic">Ribes niveum</hi> Lindl., which occurs at lower elevations in the vicinity of <name type="place" key="Camp Chopunnish (Idaho)">Camp Chopunnish</name>, and Idaho gooseberry, <hi rend="italic">R. irriguum</hi> Dougl., which could have been encountered at higher elevations as they ascended the slope. Ibid., 3:80, 75.</note>
+            <note xml:id="n36061015" n="15">The honeysuckle with a white berry is common snowberry, <hi rend="italic">Symphoricarpos albus</hi> (L.) Blake. Ibid., 4:464–65; see also <ref n="1805-08-13" type="related">August 13, 1805</ref>. Roses are discussed in detail a few lines below.</note>
+            <note xml:id="n36061016" n="16">Lodgepole pine, <hi rend="italic">Pinus contorta</hi> Dougl. ex Loud; not a dwarf pine, <name type="person" key="Lewis, Meriwether">Lewis</name> was simply observing young trees here. Ibid., 1:125–27. The species somewhat resembles the pitch pine (<hi rend="italic">P. rigida</hi> Mill.) of eastern North America.</note>
+            <note xml:id="n36061017" n="17">The wild rose with large flowers and "apples" (hips) is Nootka rose, <hi rend="italic">Rosa nutkana</hi> Presl. The other species with smaller flowers but similar stems is western wild, or Wood's, rose, <hi rend="italic">R. woodsii</hi> Lindl. Both were undescribed species at the time. Ibid., 3:169–71; Cutright (LCPN), 418. <name type="person" key="Lewis, Meriwether">Lewis</name> exhibits some of his botanical training by using the latin term "quinqui petallous," meaning that the two species, like most wild roses, have flowers with five petals, in contrast to cultivated forms that are bred to have many petals. It was probably <name type="person" key="Biddle, Nicholas">Biddle</name> was marked a red vertical line through this passage about roses.</note>
+            <note xml:id="n36061018" n="18">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> commonly applied this term to the prairie dog, <hi rend="italic">Cynomys ludovicianus</hi> (see <ref n="1804-09-07" type="related">September 7, 1804</ref>, and <ref n="1806-07-01" type="related">July 1, 1806</ref>); here he may be referring to the Columbian ground squirrel, <hi rend="italic">Spermophilus columbianus</hi> (see <ref n="1806-05-23" type="related">May 23</ref> and <ref n="1806-05-27" type="related">27</ref>, 1806). The gray squirrel mentioned for comparison is <hi rend="italic">Sciurus carolinensis.</hi> Burroughs, 99–101, 102–6; Cutright (LCPN), 306, 445.</note>
+            <note xml:id="n36061019" n="19">Sandhill crane, <hi rend="italic">Grus canadensis</hi> [AOU, 206].</note>
+            <note xml:id="n36061020" n="20">Beginning with this sentence a light red vertical line runs through this botanical material, probably done by <name type="person" key="Biddle, Nicholas">Biddle</name>.</note>
+            <note xml:id="n36061021" n="21">
+               <name type="place" key="Weippe Prairie (Camas Flats, Quawmash Flats)">Weippe Prairie</name>, <name type="place" key="Clearwater County, Idaho">Clearwater County</name>, <name type="place" key="Idaho">Idaho</name>. The party now camped near the location
+where they had met the <name type="native_nation" key="Nez Perce Indians">Nez Perces</name> on <ref n="1805-09-20" type="related">September 20, 1805</ref>.</note>
+            <note xml:id="n36061022" n="22">Near the western bank of <name type="place" key="Jim Ford (Village) Creek">Jim Ford Creek</name>, about two miles southeast of <name type="place" key="Weippe, Idaho">Weippe</name>, <name type="place" key="Clearwater County, Idaho">Clearwater County</name>.</note>
+            <note xml:id="n36061023" n="23">
+               <name type="person" key="Collins, John">Collins</name> is the only one named, by the captains and <name type="person" key="Ordway, John">Ordway</name>; he killed the one deer 
+mentioned later.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-06-09" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-06-11" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

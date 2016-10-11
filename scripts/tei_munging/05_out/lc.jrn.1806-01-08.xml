@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-01-08">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+January 8, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 6</title>
+               <title level="m" type="sub">November 2, 1805–March 22, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1990</date>
+               <biblScope type="pages">179-186</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">265</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages"/>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">411</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-01-08.01">
+            <placeName/>
+            <geo>45.8833 -123.9333</geo>
+            <note>Clark camped on the north side of Ecola Creek, north part of Cannon Beach, Clatsop County, OR.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-08-04</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-01-08">January 8, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-01-08.01" n="lc.geo.1806-01-08.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Tuesday</hi> [<hi rend="italic">NB: Wednesday</hi>] <hi rend="italic">January 8th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+Our meat is begining to become scarse; sent <name type="person" key="Drouillard, George">Drewyer</name> and <name type="person" key="Collins, John">Collins</name> to hunt this morning.    the guard duty being hard on the men who now remain in the fort I have for their relief since the departure of <name type="person" key="Clark, William">Capt. Clark</name> made the Cooks mount guard. <name type="person" key="Gass, Patrick">Sergt. Gass</name> and <name type="person" key="Shannon, George">Shannon</name> have not yet returned, nor can I immajen what is the cause of their detention. In consequence of the clouds this evening I lost my P. M. observation for Equal Altitudes,<ref target="n27010801" n="1"/> and from the same cause have not been able to take a single observation since we have been at this place.    nothing extraordinary happened today.</p>
+               <p>
+The <name type="native_nation" key="Clatsop Indians">Clatsops</name>
+                  <name type="native_nation" key="Chinook Indians">Chinnooks</name> and others inhabiting the coast and country in this neighbourhood, are excessively fond of smoking tobacco.    in the act of smoking they appear to swallow it as they dran it from the pipe, and for many draughts together you will not perceive the smoke which they take from the pipe; in the same manner also they inhale it in their lungs untill they become surcharged with this vapour when they puff it out to a great distance through their nostils and mouth; I have no doubt the smoke of the tobacco in this manner becomes much more intoxicating and that they do possess themselves of all it's virtues in their fullest extent; they freequently give us sounding proofs of it's creating a dismorallity of order in the abdomen, nor are those light matters thought indelicate in either sex, but all take the liberty of obeying the dictates of nature without reserve.    these people do not appear to know the uce of sperituous liquors, they never having once asked us for it; I presume therefore that the traders who visit them have never indulged them with the uce of it; from what ever cause this may proceede, it is a very fortunate occurrence, as well for the natives themselves, as for the quiet and safety of thos whites who visit them.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-08.02" n="lc.geo.1806-01-08.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Jany 8 Wednes</hi>
+                  </date>
+               </ab>
+               <p>
+Set out at Day    a fine morning wind hard from S. E  at 1½ miles arived at a Open where I had a view of the Seas Coast for along Distance rocks in every direction. Struck a branch and come down to the Sea at which place an old village between 2 Creeks of the <name type="native_nation" key="Tillamook Indians">Colemix</name> Nation<ref target="n27010802" n="2"/> which inhabits this Coast, grave yard deposed of in Canoes in which the bodies are laid in boxes in the Canoe, Paddles &amp;c    thos poople must use thos Canoes in the higher Seas of which then ever I Saw on a cost ruding Countrey    Crossed 〈great〉 3 points rocks great Distanc in the Sea, hill Sides Sliping from emins ravins which appears to [<hi rend="italic">illegible</hi>] the [<hi rend="italic">blank</hi>] proceeded on to the mouth of a Creek<ref target="n27010803" n="3"/> about 80 yards wide at which Place I saw 5 Lodges of Indian of the <hi rend="italic">
+                     <name type="native_nation" key="Tillamook Indians">Ca la mix</name>
+                  </hi> nation,<ref target="n27010804" n="4"/> boiling whale in a trough of aout 20 gallons with hot Stones, and the oyle they put into a Canoe    I proceded on a Short distance to the whale<ref target="n27010805" n="5"/> which was noting more than the Sceleton, of 105 feet long, we tok out a few bones and returned to the Cabins at the mouth of the Creek, and attempted to trade with thos people who I found Close and Capricious, would not trade the Smallest piece except they thought they got an advantage of the bargain, their disposition is averitious, &amp; independant in trade, they offered to trade for Elk of which we had not    I purchased some oile and about 120 w of 〈fish〉 Blubber after rendered, finding they would not trade I Deturmined to return home with what we have    The Houses of these people appear temporary    a ridge pole on 2 forks Supported a Certain number of Split boards of the red Cedar &amp; pine, Set on the end the gable ends of the Same materials and Calculated for 2 families first, The Dress and appearenc of the nativs as also the language is procisely that of the <name type="native_nation" key="Clatsop Indians">Clopsots</name> &amp; <hi rend="italic">Chinnooks,</hi> those people Save their oile in bladder Guts &amp;c.</p>
+               <p>
+Their food is principally fish that is thrown on the Shores by the Seas &amp; left by the tide,</p>
+               <p>
+This Cost is rockey, the mountains high &amp; rugged, They inform me that their nation lives in 5 villages to the S E of this place at the mouths of Creek in which they catch Samn. in the Season, I got of those people a few roots Some Sturgeon whale—[<hi rend="italic">blank</hi>] &amp;. They Call a whale <hi rend="italic">E cu-la</hi> a Creek <hi rend="italic">Shu man,</hi>
+                  <ref target="n27010806" n="6"/> they have Some fiew Sea ortter for which they ask Such prices I could not purchase any of them</p>
+               <p>
+Th party much fatigued in crossing 1 mountain &amp; 4 high Points Steep &amp; Slipery, also Stony Beach Slippery and tiresom</p>
+               <p>
+The high tide obliged me to delay untill late before the tide put out, I Shot a raven &amp; a gul with my Small riffle which Suppised these people a little    They are fond of blue &amp; white large beed only, files &amp; fish Hooks which are large—    after Diner we Set out Crossed the Creek in a Small Canoe    The tide out and Encamped on the opposit Side,<ref target="n27010807" n="7"/> I was asked for ferrage and paid a pin, one hut on the Side in which I Camped &amp; Village a Short distance above which I did not See last night, all the men came over &amp; Smoked with me, about bed time I herd a hollowing on the opposit Side of the river which allarmed all the Indian men about me, they run across the Creek, I Suspected perhaps Some of my party was over after the Squars, by exemening found that <hi rend="italic">
+                     <name type="person" key="McNeal, Hugh">McNeal</name>
+                  </hi> was not in Camp, 〈I was〉 my guide who Staid with me told me Some body throat was Cut. I emediately Sent <name type="person" key="Pryor, Nathaniel Hale">Serjt Pryor</name> &amp; 〈4〉 2 men across for <hi rend="italic">
+                     <name type="person" key="McNeal, Hugh">McNeal</name>,</hi> they Soon returned haveing met the person    I was anxious to find out the Cause of the allarm, <name type="person" key="McNeal, Hugh">McNeal</name> Said that a man envited him to go across and get Some fish, locked arms of which he Contd to hold    he took him into a lodge and the woman gave him a Small piec    the man then invited him to another, the woman of the lodge puled his blanket, &amp; Sent out a Squar to hollow across, to inform of Something which ald. [alarmed?] <name type="person" key="McNeal, Hugh">McNeal</name> I Sent over <name type="person" key="Pryor, Nathaniel Hale">Sergt. Pryor</name> to Know the Cause of the allarm which he was informed that a Plot was laid to <hi rend="italic">kill</hi>
+                  <name type="person" key="McNeal, Hugh">McNeal</name> for his Blanket &amp; Clothes by this Indian who was from another Villg at Some distance, and that She had attempted to Stop <name type="person" key="McNeal, Hugh">McNeal</name> &amp; findeing She Could not that She then allarmed the men, Several of the mans Band was with me who imedeately Cleared out, 2 men Came over &amp; Slept at my feet. I kept a guard &amp; Sentinel all night    a fair night wind blew from S. E.    during the evening I acquired all the information possiable respecting the Coast to the S. E. got the name of many nations &amp; the Nos. of their houses, a map of the Coast in their way. I am very pore &amp; weak for want of Sufficient food and fear much that I shall require more assistance to get back than I had to get to this place.    a deturmined [purcistance?] will as it has done carry me through
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-08.03" n="lc.geo.1806-01-08.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday 8th January 1805</hi> [1806]
+</date>
+               </ab>
+               <p>
+The last night proved fair and Cold wind hard from the S. E.    we Set out early and proceeded to the top of the mountain next to the which is much the highest part and that part faceing the Sea is open, from this point I beheld the grandest and most pleasing prospects which my eyes ever surveyed, in my frount a boundless Ocean; to the N. and N. E. the coast as as far as my sight Could be extended, the Seas rageing with emence wave and brakeing with great force from the rocks of <name type="place" key="Cape Disappointment">Cape Disapointment</name> as far as I could See to the N. W. The <name type="native_nation" key="Clatsop Indians">Clatsops</name>
+                  <name type="native_nation" key="Chinook Indians">Chinnooks</name> and other villagers on each Side of the <name type="place" key="Columbia River">Columbia river</name> and in the Praries below me, the meanderings of 3 handsom Streams heading in Small lakes at the foot the high Country; The <name type="place" key="Columbia River">Columbia River</name> for a 〈long〉 Some distance up, with its Bays and Small rivers and on the other Side I have a view of the Coast for an emence distance to the S. E. by S.    the nitches and points of high land which forms this Corse for a long ways aded to the inoumerable rocks of emence Sise out at a great distance from the Shore and against which the Seas brak with great force gives this Coast a most romantic appearance.<ref target="n27010808" n="8"/>    from this point of View my guide pointed to a village at the mouth fo a Small river near which place he Said the whale was, he also pointed to 4 other places where the princpal Villages of the <hi rend="italic">
+                     <name type="native_nation" key="Tillamook Indians">Kil la mox</name>
+                  </hi> were Situated, I could plainly See the houses of 2 of those Villeges &amp; the Smoke of a 3rd which was two far of for me to disern with my naked eye—<ref target="n27010809" n="9"/>    after taking the Courses and computed the Distances in my own mind, I proceeded on down a Steep decent to a Single house the remains of an old <hi rend="italic">
+                     <name type="native_nation" key="Tillamook Indians">Kil a mox</name>
+                  </hi> Town<ref target="n27010810" n="10"/> in a nitch imediately on the Sea Coast, at which place great no. of eregular rocks are out and the waves comes in with great force. Near this old Town I observed large Canoes of the neetest kind on the ground Some of which appeared nearly decayed others quit Sound, I examoned those Canoes and found they were the repository of the dead—    This Custom of Secureing the Dead differs a little from the <name type="native_nation" key="Chinook Indians">Chinnooks</name>.  the <name type="native_nation" key="Tillamook Indians">Kil a mox</name> Secure the dead bdies in an oblong box of Plank, which is placed in an open Canoe resting on the ground, in which is put a paddle and Sundery other articles the property of the disceased.<ref target="n27010811" n="11"/> The Coast in the neighbourhood of this old village is slipping from the Sides of the high hills, in emence masses; fifty or a hundred acres at a time give way and a great proportion of an instant precipitated into the Ocean.    those hills and mountains are principally composed of a yellow Clay; their Slipping off or Spliting assunder at this time is no doubt Caused by the incessant rains which has fallen within the last two months.<ref target="n27010812" n="12"/>    the mountains Covered with a verry heavy Croth of pine &amp; furr, also the white Cedar or <hi rend="italic">arbor vita</hi> and a Small proportion of the black alder, this alder grows to the hight of Sixty or Seventy feet and from 2 to 3 feet in diamiter. Some Speies of pine [<hi rend="italic">NB: or fur</hi>] on the top of the Point of View rise to the emmence hight of 210 feet and from 8 to 12 feet in diameter, and are perfectly Sound and Solid.<ref target="n27010813" n="13"/> Wind hard from the S. E and See looked [<hi rend="italic">blank</hi>] in the after part of the Day breaking with great force against the Scattering rocks at Some distance from Shore, and the ruged rockey points under which we were obleged to pass and if we had unfortunately made one false Stet we Should eneviateably have fallen into the Sea and dashed against the rocks in an instant, fortunately we passed over 3 of those dismal points and arived on a butifull Sand Shore on which we Continued for 2 miles, Crossed a Creek 80 yards near 5 Cabins, andproceeded to the place the whale had perished, found only the Skelleton of this monster on the Sand between 2 of <hi rend="italic">NB: 2 of</hi>] the villages of the <hi rend="italic">
+                     <name type="native_nation" key="Tillamook Indians">Kil a mox</name>
+                  </hi> nation; the Whale was already pillaged of every valuable part by the <name type="native_nation" key="Tillamook Indians">Kil a mox</name> Inds. in the vecinity of whose village's it lay on the Strand where the waves and tide had driven up &amp; left it.    this Skeleton [<hi rend="italic">NB: of the Whale <name type="person" key="Clark, William">Capt. Clark</name>
+                  </hi>] measured 105 feet.<ref target="n27010814" n="14"/> I returned to the village of 5 Cabins on the Creek which I shall call <name type="place" key="Ecola Creek (McNeal's Folly)">
+                     <hi rend="italic">E co-la</hi> or whale Creek</name>, found the nativs busily engaged boiling the blubber, which they performed in a large Squar wooden trought by means of hot Stones; the oil when extracted was Secured in bladders and the Guts of the whale; the blubber from which the oil was only partially extracted by this process, was laid by in their Cabins in large flickes<ref target="n27010815" n="15"/> for use; those flickes they usially expose to the fire on a wooden Spit untill it is prutty well wormed through and then eate it either alone or with roots of the rush, <hi rend="italic">Shaw na tâk we</hi> or diped in the oil. The <hi rend="italic">
+                     <name type="native_nation" key="Tillamook Indians">Kil a mox</name>
+                  </hi> although they possessed a large quantities of this blubber and oil were so prenurious that they disposed of it with great reluctiance and in Small quantities only; insomuch that my utmost exertion aided by the party with the Small Stock of merchindize I had taken with me were not able to precure more blubber than about 300 wt. and a fiew gallons of oil; Small as this Stock is I prise it highly; and thank providence for directing the whale to us; and think him much more kind to us than he was to jonah, having Sent this monster to be <hi rend="italic">Swallowed by us</hi> in Sted of <hi rend="italic">Swallowing of us</hi> as jonah's did. I recrossed <name type="place" key="Ecola Creek (McNeal's Folly)">
+                     <hi rend="italic">E co la</hi> Creek</name> and Encamped on the bank at which place we observed an ebundance of fine wood  the Indian men followed me for the purpose of Smokeing. I enquired of those people as well as I could by Signs the Situation, mode of liveing &amp; Strength of their nation  They informed  me that the bulk of their nation lived in 3 large villages Still further along the Sea coast to the S, S, W. at the enterencen of 3 Creek which fell into a bay,<ref target="n27010816" n="16"/> and that other houses were Scattered about on the Coast, Bay and on a Small river which fell into the Bay in which they Cought Salmon, and from this Creek (which I call <name type="native_nation" key="Tillamook (Kilamox) River">
+                     <hi rend="italic">Kil a mox</hi> River</name>)<ref target="n27010817" n="17"/> they crossed over to the <hi rend="italic">
+                     <name type="place" key="Sauvie (Wapato) Island">Wappato I.</name>
+                  </hi> on the <hi rend="italic">
+                     <name type="person" key="Shocatilicum">Shock-ah-lil com</name>
+                  </hi> [<hi rend="italic">NB?: lil com</hi>] (which is the Indian name for the <name type="place" key="Columbia River">Columbia river</name>)<ref target="n27010818" n="18"/> and purchased Wappato &amp;c. that the nation was once verry large and that they had a great maney houses, In Salmon Season they Cought great numbers of that fish in the Small Creeks, when the Salmon was Scerce they found Sturgion and a variety of other fish thrown up by the waves and left by the tide which was verry fine, Elk was plenty in the mountains, but they Could not Kill maney of them with their arrows. The <hi rend="italic">
+                     <name type="native_nation" key="Tillamook Indians">Kil â mox</name>
+                  </hi> in their habits Customs manners dress &amp; language<ref target="n27010819" n="19"/> differ but little from the <name type="native_nation" key="Clatsop Indians">Clatsops</name>, <name type="native_nation" key="Chinook Indians">Chinnooks</name> and others in this neighbourhood are of the Same form of those of the <name type="native_nation" key="Clatsop Indians">Clatsops</name> with a Dore at each end &amp; two fire places i, e the house is double as long as wide and divided into 2 equal parts with a post in the middle Supporting the ridge pole, and in the middle of each of those divisions they make their fires, dores Small &amp; houses Sunk 5 feet
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-08.04" n="lc.geo.1806-01-08.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 8th Jany. 1806.    a clear warm morning—    two men<ref target="n27010820" n="20"/> went out from the fort a hunting.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-01-08.05" n="lc.geo.1806-01-08.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday Janry 8th    A fine warm morning.    two of our Men<ref target="n27010821" n="21"/> went out from the Fort to hunt.    The Crows &amp; Ravens are very plenty about this place, &amp; Geese, Brants, Cranes &amp; Ducks are plenty in the Marshes a short distance from the Fort.
+
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n27010801" n="1">A partial observation for the morning may be in another journal. See below, <ref n="1805-1806.winter.part3" type="related">part 3</ref> of <name type="place" key="Fort Clatsop (Oreg.)">Fort Clatsop</name> Miscellany.</note>
+            <note xml:id="n27010802" n="2">The <name type="native_nation" key="Tillamook Indians">Tillamooks</name> lived below the <name type="place" key="Necanicum (Clatsop) River">Clatsop</name> in southern <name type="place" key="Clatsop County, Oreg.">Clatsop</name> and <name type="place" key="Tillamook County, Oreg.">Tillamook</name> counties, and northern <name type="place" key="Lincoln County, Oreg.">Lincoln County</name> on the northern <name type="place" key="Oregon">Oregon</name> coast. <hi rend="italic">Atlas</hi> maps 84, 85, <name type="place" key="Tillamook Head (Clark's Point of View)">Tillamook Head</name> and <name type="place" key="Tillamook (Kilamox) Bay">Tillamook Bay</name> also commemorate them. Their name is from <name type="native_nation" key="Chinook Indians">Chinookan</name>
+               <hi rend="italic">(i)t'ilimuk<seg n="u353">š</seg>.</hi> Their northernmost settlement was at the mouth of <name type="place" key="Necanicum (Clatsop) River">Necanicum Creek</name> at modern <name type="place" key="Seaside, Oreg.">Seaside</name>, <name type="place" key="Tillamook County, Oreg.">Tillamook County</name>, and was apparently shared with the <name type="native_nation" key="Clatsop Indians">Clatsop</name>. They belonged to the coastal branch of the <name type="native_nation" key="Flathead Indians">Salishan</name>-language family. As noted by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>, the <name type="native_nation" key="Tillamook Indians">Tillamooks</name> shared a number of outward cultural traits with the neighboring <name type="native_nation" key="Clatsop Indians">Clatsops</name>, in spite of the language difference. Hodge, 2:750–51; Suphan; Taylor (TI); Ronda (LCAI), 186, 206.</note>
+            <note xml:id="n27010803" n="3">Present <name type="place" key="Ecola Creek (McNeal's Folly)">Ecola (formerly Elk) Creek</name>, <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>, "<name type="place" key="Ecola Creek (McNeal's Folly)">
+                  <hi rend="italic">E-cu-lah</hi> or Whale Creek</name>" on <hi rend="italic">Atlas</hi> map 84, and unnamed on fig. 13. See note below for linguistic information.</note>
+            <note xml:id="n27010804" n="4">At the present city of <name type="place" key="Cannon Beach, Oreg.">Cannon Beach</name>, <name type="place" key="Clatsop County, Oreg.">Clatsop County</name>. <hi rend="italic">Atlas</hi> map 84.</note>
+            <note xml:id="n27010805" n="5">Only the blue whale, <hi rend="italic">Balaenoptera musculus,</hi> the largest of all living animals, is known to attain the length given by <name type="person" key="Clark, William">Clark</name>. Conditions may not have been conducive to exact measurement. Cutright (LCPN), 253.</note>
+            <note xml:id="n27010806" n="6">The Lower <name type="native_nation" key="Chinook Indians">Chinookan</name> term for "whale," <hi rend="italic">íkuli.</hi> Gibbs (AVC), 20; Boas (Ch), 608. <name type="person" key="Clark, William">Clark's</name> "Shu man" is <name type="native_nation" key="Chinook Indians">Chinookan</name>
+               <hi rend="italic">
+                  <seg n="u353">š</seg>ux̣mn,</hi> for the creek's name rather than the word for creek; its meaning is not known, nor is the creek to which the natives may have been referring.</note>
+            <note xml:id="n27010807" n="7">On the north side of <name type="place" key="Ecola Creek (McNeal's Folly)">Ecola Creek</name>, in the north part of <name type="place" key="Cannon Beach, Oreg.">Cannon Beach</name>. <hi rend="italic">Atlas</hi> map 84; fig. 13.</note>
+            <note xml:id="n27010808" n="8">
+               <name type="person" key="Clark, William">Clark</name> was probably seeing formations such as <name type="place" key="Haystack Rock">Haystack Rock</name> and <name type="place" key="The Needles">The Needles</name> southwest of <name type="place" key="Cannon Beach, Oreg.">Cannon Beach</name>.</note>
+            <note xml:id="n27010809" n="9">A vertical line runs through this passage, from "the whale was" to "my naked eye."</note>
+            <note xml:id="n27010810" n="10">This <name type="native_nation" key="Tillamook Indians">Tillamook</name> village corresponds with a known archaeological site. Minor (EAS), 13–16. One of the <name type="native_nation" key="Tillamook Indians">Tillamook</name> villages that the captain observed from a distance was almost certainly at <name type="place" key="Cronin Point">Cronin Point</name> on the north shore of <name type="place" key="Nehalem Bay">Nehalem Bay</name>. Archaeological work indicates that occupation of this village began at least 400 yards ago and continued into the early historic period. Woodward (PSOC). A similar span of occupation has been documented at a site on <name type="place" key="Netarts Bay">Netarts Bay</name>. Newman. Farther south in <name type="native_nation" key="Tillamook Indians">Tillamook</name> territory, excavations at the <name type="place" key="Three Rox site">Three Rox site</name> in the <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Salmon River</name> estuary encountered slightly earlier evidence of occupation extending back to about 900 years ago. Murray &amp; Marrant. The burial canoes observed by <name type="person" key="Clark, William">Clark</name> represent a variation on this common Northwest Coast mortuary custom.</note>
+            <note xml:id="n27010811" n="11">A vertical line begins at "This custom" and runs to about here.</note>
+            <note xml:id="n27010812" n="12">Most of the hills in this area are formed of sandstone and mudstone of the Miocene-age <name type="place" key="Cannon Beach Member">Cannon Beach Member</name> of the <name type="place" key="Astoria Formation">Astoria Formation</name>. Landslides often result when excess water (generally winter precipitation) saturates these soft rocks or the deep soil formed form them. Wave action is responsible for many of the landslides adjacent to the shore. The erosive action continues today in the <name type="place" key="Ecola State Park">Ecola State Park</name> area.</note>
+            <note xml:id="n27010813" n="13">Again a vertical line beginning at "this alder" and running to about here, done in red ink, perhaps by <name type="place" key="Biddle, Nicholas">Biddle</name>.</note>
+            <note xml:id="n27010814" n="14">This sentence and a part of the preceding one is marked out with a red vertical line, perhaps by <name type="person" key="Biddle, Nicholas">Biddle</name>.</note>
+            <note xml:id="n27010815" n="15">A form of "flitches," the side of an animal, later used only of a hog; here perhaps meaning strips. Criswell, 40.</note>
+            <note xml:id="n27010816" n="16">
+               <name type="place" key="Tillamook (Kilamox) Bay">Tillamook Bay</name>, in <name type="place" key="Tillamook County, Oreg.">Tillamook County</name>, into which flow <name type="place" key="Kilchis River">Kilchis</name>, <name type="place" key="Wilson (Kilamox) River">Wilson</name>, and <name type="place" key="Trask River">Trask</name> rivers. <hi rend="italic">Atlas</hi> map 85.</note>
+            <note xml:id="n27010817" n="17">Perhaps <name type="place" key="Wilson (Kilamox) River">Wilson River</name>. <hi rend="italic">Atlas</hi> map 85.</note>
+            <note xml:id="n27010818" n="18">
+               <name type="person" key="Smith, Silas B.">Silas B. Smith</name>, grandson of Chief <name type="person" key="Coboway">Coboway</name>, declared that <name type="person" key="Clark, William">Clark</name> misunderstood the Indians, who did not give distinguishing names to rivers. <name type="person" key="Shocatilicum">Shocatilicum</name> was the name of the chief of the <name type="native_nation" key="Cathlamet Indians">Cathlamets</name>, who lived in the direction from which they obtained the wapato. Wheeler, 2:224. On the other hand, linguistic analsis has the phrase in <name type="native_nation" key="Chinook Indians">Chinookan</name> as <hi rend="italic">saxal ilxam,</hi> "upriver country" suggesting that the speaker was pointing upriver and not giving a proper name at all. For <name type="place" key="Sauvie (Wapato) Island">Wapato Island</name> (present <name type="place" key="Sauvie (Wapato) Island">Sauvie's Island</name>), see <hi rend="italic">Atlas</hi> map 80. The word "Wappato" was apparently substituted for an erased word. "Shock-ah-lil com" appears to have been added to a blank space. Wheeler, 2:224.</note>
+            <note xml:id="n27010819" n="19">Perhaps the <name type="native_nation" key="Tillamook Indians">Tillamooks</name> (<name type="native_nation" key="Flathead Indians">Salishan</name> speakers) were speaking <name type="native_nation" key="Chinook Indians">Chinook</name> trade jargon to <name type="person" key="Clark, William">Clark</name>.</note>
+            <note xml:id="n27010820" n="20">
+               <name type="person" key="Drouillard, George">Drouillard</name> and <name type="person" key="Collins, John">Collins</name>, according to <name type="person" key="Lewis, Meriwether">Lewis</name>.</note>
+            <note xml:id="n27010821" n="21">
+               <name type="person" key="Drouillard, George">Drouillard</name> and <name type="person" key="Collins, John">Collins</name>, says <name type="person" key="Lewis, Meriwether">Lewis</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-01-07" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-01-09" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

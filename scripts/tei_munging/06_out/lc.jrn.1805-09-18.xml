@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-09-18">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+September 18, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">211-215</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">225-226</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">143-144</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">320-321</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-09-18.01">
+            <placeName/>
+            <geo>46.4 -115.5776</geo>
+            <note>Clark split from the group with a few hunters. Clark camped on Hungery Creek, just above the entrance of Doubt Creek, Idaho County, ID.</note>
+         </geoDecl>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-09-18.02">
+            <placeName/>
+            <geo>45.4 -116.4667</geo>
+            <note>The group camped about three miles west of Bald Mountain, Idaho County, ID.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-06-15</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-09-18">September 18, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-09-18.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday September 18th 1805.</hi>
+                     <ref target="n22091801" n="1"/>
+                  </date>
+               </ab>
+               <p>
+                  <name type="person" key="Clark, William">Cap Clark</name> set out this morning to go a head with six hunters.<ref target="n22091802" n="2"/>    there being no game in these mountains we concluded it would be better for one of us to take the hunters and hurry on to the leavel country a head and there hunt and provide some provision 〈for〉 while the other remained with and brought on the party    the latter of these was my part; accordingly I directed the horses to be gotten up early being determined to force my march as much as the abilities of our horses would permit. the negligence of one of the party <name type="person" key="Willard, Alexander">Willard</name> who had a spare horse 〈in〉 not attending to him and bringing him up last evening was the cause of our detention this morning untill ½ after 8 A M when we set out. I sent <name type="person" key="Willard, Alexander">Willard</name> back to serch for his horse, and proceeded on with the party    at four in the evening he overtook us without the horse, we marched 18 miles this day and encamped on the side of a steep mountain;<ref target="n22091803" n="3"/> we suffered for water this day passing one rivulet only; we wer fortunate in finding water in a steep raviene about ½ maile from our camp.    this morning we finished the remainder of our last coult.    we dined &amp; suped on a skant proportion of portable soupe,<ref target="n22091804" n="4"/> a few canesters of which, a little bears oil and about 20 lbs. of candles form our stock of provision, the only resources being our guns &amp; packhorses.    the first is but a poor dependance in our present situation where there is nothing upon earth exept ourselves and a few small pheasants, small grey Squirrels, and a blue bird of the vulter kind about the size of a turtle dove or jay bird.<ref target="n22091805" n="5"/>    our rout lay along the ridge of a high mountain course S. 20 W. 18 m.    used the snow for cooking.—</p>
+               <p>
+                  <figure rend="mhs">
+                     <p>On the <name type="place" key="Lolo Trail">Lolo Trail</name>, <name type="place" key="Idaho">Idaho</name>, September 16–18, 1805,<lb/>
+Elkskin-bound Journal
+<bibl>
+                           <orgName>Missouri Historical Society</orgName>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-09-18.02" n="">
+            <sp who="wc">
+               <speaker>
+                  <name type="person" key="Clark, William">Clark</name>
+                  <ref target="n22091806" n="6"/>
+               </speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <table rows="1" cols="3">
+                     <head>
+                        <hi rend="italic">Course Distance 18th Septr. 1805 Monday</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 85 W</cell>
+                        <cell role="data" rows="1" cols="1">32<ref target="n22091807" n="7"/>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles nearly    I proceeded on with the hunters to a Creek<lb/>
+running from the right which I call <name type="place" key="Hungery Creek">hungary Creek</name> as we have<lb/>
+nothing to eate    passed a run &amp; Several Springs which pass to<lb/>
+the right, Keep on a Dividg ridge &amp; Crossed Several high and<lb/>
+Steep Knobs    a great quantity of falling timber    at 20 miles I<lb/>
+beheld a wide and extencive vallie in a West &amp; S W Direction<lb/>
+about [<hi rend="italic">blank</hi>] miles.    a high mountain beyond    <name type="person" key="Drouillard, George">Drewyer</name> shot<lb/>
+at a Deer    we did not get it.    Killed nothing in those emence<lb/>
+mountains of stones falling timber &amp; brush</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-09-18.03" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Monday [NB: Wednesday] 18th Septr. 1805</hi>
+                     <ref target="n22091808" n="8"/>
+                  </date>
+               </ab>
+               <p>	      
+[<hi rend="italic">WC: The want of provisions together with the dificuely of passing those emence mountains dampened the Spirits of the party which induced us to resort to Some plan of reviving ther Sperits. I deturmined to take a party of the hunters and proceed on in advance to Some leavel Country, where there was game kill Some meat &amp; Send it back, &amp;c.</hi>]    a fair morning cold    I proceded on in advance with Six hunters [<hi rend="italic">WC: and let it be understood that my object was</hi>] to try and find deer or Something to kill [<hi rend="italic">WC: &amp; Send back to the party</hi>]    we passed over a countrey Similar to the one of yesterday more falling timber passed Several runs &amp; Springs passing to the right    from the top of a high part of the mountain at 20 miles I had a view of an emence Plain and leavel Countrey to the S W. &amp; West at a great distance<ref target="n22091809" n="9"/>    a high mountain in advance beyond the Plain,<ref target="n22091810" n="10"/> Saw 〈but little〉 [<hi rend="italic">WC: no</hi>] Sign of deer and nothing else, much falling timber, made 32 miles and Encamped on a bold running Creek passing to the left which I call <hi rend="italic">
+                     <name type="place" key="Hungery Creek">Hungery Creek</name>
+                  </hi>
+                  <ref target="n22091811" n="11"/> as at that place we had nothing to eate. I halted only one hour to day to let our horses feed on Grass 〈and rest〉 [<hi rend="italic">WC: hill side</hi>] and rest
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-09-18.04" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>	
+Wednesday 18th Sept. 1805.    a clear pleasant morning. <name type="person" key="Clark, William">Capt. Clark</name> and Six hunters<ref target="n22091812" n="12"/> Set out at Sunrise to go on a head expecting to kill Some game.    one of our horses lost.    we Set out and proceeded on    the Mountains rough and rockey up and Steep places    Some logs and bushes &amp;C.    about 3 oClock P. M. we halted on a ridge<ref target="n22091813" n="13"/> to let our horses graze a little and melt a little Snow and made a little portable Soup.    the Mountains continue as fer as our eyes could extend.    they extend much further than we expeted.    we proceeded on untill dark before we found any water then Camped on the Side of a Mountain.    had come 14 miles this day.    took our horses down a Steep gulley to a run to water them.    we Supped on a little portable
+Soup and Slept on this Sidling Mountain.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-09-18.05" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 18th.</hi>    This was a clear cold frosty morning. All our horses except one were collected early: Six hunters<ref target="n22091814" n="14"/> went on ahead; one man<ref target="n22091815" n="15"/> to look for the horse; and all the rest of us proceeded on our journey over the mountains, which are very high and rough. About 12 we passed a part where the snow was off, and no appearance that much had lately fallen. At 3 we came to snow again, and halted to take some soup, which we made with snow water, as no other could be found. Here the man, who had been sent for the 
+horse came up, but had not found him. Except on the sides of hills where it has fallen, the country is closely timbered with pitch and spruce pine, and what some call balsam-fir.<ref target="n22091816" n="16"/> We can see no prospect of getting off these desert mountains yet, except the appearance of a deep cove on each side of the ridge we are passing along. We remained here an hour and an half, and then proceeded on down a steep mountain, and encamped after travelling 18 miles. We had great difficulty in getting water, being obliged to go half a mile for it down a very steep precipice.
+
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-09-18.06" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 18th Sept. 1805</hi>.    a clear pleasant morning    <name type="person" key="Clark, William">Capt. Clark</name> and Six hunters Set out at Sunrise to go on a head to try to kill Some game if 
+possable.    we got up all our horses except one which we expect is lost.    one man Sent back Some distance to hunt him.    we Set out about 7 oClock and proceeded on a ridge of the mountains Some distance, then went up and down rough rockey mountains as usal.    but verry little water.    about 3 oClock P. m. we halted on a ridge of the mountn. to let our horses feed a little, and melt a little Snow as we found no water to make a little Port. Soup 
+as we have nothing else to eat.    the day moderate the Snow melts a little.    the mountains appear a head as fer as we can See.    they continue much further than we expected.    we proceeded on down a verry Steep part of the mount. then up on the side of another before we found any water, and Campd at dark on the Side of the motn. where we found a Spring by going down a Steep hill where it was dangerous to take our horses to water.    we Suped on a little portable Soup and lay down on this Sideling mount.    Came 14 miles day</p>
+               <p>
+Wednesday Septemr 18th    This morning clear pleasant weather, <name type="person" key="Clark, William">Captain Clark</name> &amp; Six of our best hunters, set out at sunrise to go on a head; to try &amp; kill some Game if possible, We got up all our horses excepting one, which we expect we have lost, One of the party was sent back to hunt him.    We 
+then set out &amp; proceeded on our Journey, about 7 oClock A. M. we passed on a ridge of mountains, some distance, then ascended &amp; descended rough rockey Mountains as usual, &amp; found but very little Water.    About 3 o'Clock 
+P. M. we halted on a ridge of the Mountains to let our horses feed, and to melt some Snow to make a little portable Soup, having nothing else to eat.    The weather moderated, &amp; the snow melted a little.    The Mountains appear a head of us as far as we can see &amp; continue much further than we expected.—</p>
+               <p>
+We proceeded on down a very steep part of the Mountain, then ascended the side of another mountain; where we found water.    We encamped on the side of this mountain at dark, &amp; found a spring, which was down a steep hill, which was so dangerous to descend, that we did not take our horses to it for water.    We supped on a little portable Soup, &amp; lay down on a Sideling mountain.    We came about 14 Miles this day.—
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n22091801" n="1">Here begins <name type="person" key="Lewis, Meriwether">Lewis's</name> fragmentary Codex Fd, consisting of eight pages from one of the red books, covering September 18–22, 1805, dates on which the captains were separated while <name type="person" key="Clark, William">Clark</name> was scouting ahead of the main party. See <ref n="introduction.general" type="related">Introduction</ref> and <ref n="v02.appendix.c" type="related">Appendix C</ref>.</note>
+            <note xml:id="n22091802" n="2">Including <name type="person" key="Field, Reubin">Reubin Field</name> and <name type="person" key="Shields, John">John Shields</name>.</note>
+            <note xml:id="n22091803" n="3">About three miles west of <name type="place" key="Bald Mountain">Bald Mountain</name>, in <name type="place" key="Idaho County, Idaho">Idaho County</name>, <name type="place" key="Idaho">Idaho</name>. Space, 13. It is marked "Party Camped 18th" on <hi rend="italic">Atlas</hi> map 70. On <hi rend="italic">Atlas</hi> maps 70 and 71, during this period of separation, <name type="person" key="Clark, William">Clark</name> notes both the campsites of his advance party and the main body under <name type="person" key="Lewis, Meriwether">Lewis</name>, with dates. <name type="person" key="Clark, William">Clark's</name> camps are noted with "Encamped" and the others with "Party camped" or simply "Camped." <name type="person" key="Lewis, Meriwether">Lewis's</name> camps were, of course, considerably behind <name type="person" key="Clark, William">Clark's</name> for the same date.</note>
+            <note xml:id="n22091804" n="4">The soup, purchased by <name type="person" key="Lewis, Meriwether">Lewis</name> in <name type="place" key="Philadelphia, Pa.">Philadelphia</name>, may have been either in the form of dry powder or a thick liquid. Such preparations had apparently been in use by armies for some years. Presumably water was added. Supplies from Private Vendors [June 1803], Jackson (LLC), 1:81–82; Summary of Purchases [June 1803], ibid., 1:97; Chuinard (OOMD), 160–62.</note>
+            <note xml:id="n22091805" n="5">The squirrel may be Richardson's red squirrel, <hi rend="italic">Tamiasciurus hudsonicus richardsoni;</hi> see below, <ref n="1806-02-24" type="related">February 24</ref> and <ref n="1806-02-25" type="related">25</ref>, 1806. Buroughs, 98–99; Coues (HLC), 2:600 n. 32. The blue bird may be the pinyon jay of <ref n="1805-08-01" type="related">August 1, 1805</ref>, but some sources give it as the scrub jay, <hi rend="italic">Aphelocoma coerulescens</hi> [AOU, 481], or Steller's jay, <hi rend="italic">Cyanocitta stelleri</hi> [AOU, 478]. Holmgren, 31; Space, 13. Each choice creates problems when compared with <name type="person" key="Lewis, Meriwether">Lewis's</name> entry of <ref n="1805-09-20" type="related">September 20</ref> (see below), but the scrub jay seems the least likely possibility. The turtle dove used for comparison is the mourning dove, <hi rend="italic">Zenaida macroura</hi> [AOU, 316].</note>
+            <note xml:id="n22091806" n="6">The entries in <name type="person" key="Clark, William">Clark's</name> Elkskin-bound Journal expand each day from simple courses and distances; this is particularly noticeable from this date, when the two captains separated. It seems likely that <name type="person" key="Clark, William">Clark</name> was using the sheets later bound in elkskin as the first draft for his notebook journals, but at what point he ceased writing in the notebook Codex G is not clear. See <ref n="introduction.general" type="related">Introduction</ref>.</note>
+            <note xml:id="n22091807" n="7">This was "36," the latter number converted to "2."</note>
+            <note xml:id="n22091808" n="8">For the next few entries of <name type="person" key="Clark, William">Clark</name> in Codex G, there is much writing by him in red ink. These words may have been added in 1810 to assist <name type="person" key="Biddle, Nicholas">Biddle</name>. This material is here set off with brackets and <name type="person" key="Clark, William">Clark's</name> initials. Some slight rearrangement has been made for clarity.</note>
+            <note xml:id="n22091809" n="9">Standing on <name type="place" key="Sherman Peak">Sherman Peak</name>, <name type="person" key="Clark, William">Clark</name> was viewing the open prairies in <name type="place" key="Lewis County, Idaho">Lewis</name> and <name type="place" key="Idaho County, Idaho">Idaho</name> counties. <name type="place" key="Idaho">Idaho</name>, northwest of <name type="place" key="Grangeville, Idaho">Grangeville</name>, including <name type="place" key="Camas, Idaho">Camas Prairie</name> and <name type="place" key="Nez Perce Prairie">Nez Perce</name> prairies. Space, 13; <hi rend="italic">Atlas</hi> maps 70, 71.</note>
+            <note xml:id="n22091810" n="10">Probably <name type="place" key="Cottonwood Butte">Cottonwood Butte</name>, but perhaps also the <name type="place" key="Blue (Southwest, Southeast) Mountains">Blue Mountains</name> in <name type="place" key="Oregon">Oregon</name>. Space, 13.</note>
+            <note xml:id="n22091811" n="11">
+               <name type="person" key="Clark, William">Clark</name> camped on <name type="place" key="Hungery Creek">Hungery Creek</name>, just above the entrance of <name type="place" key="Doubt Creek">Doubt Creek</name>, in <name type="place" key="Idaho County, Idaho">Idaho County</name>. <name type="place" key="Hungery Creek">Hungery Creek</name> was for many years known as <name type="place" key="Hungery Creek">Obia Creek</name>, but <name type="person" key="Clark, William">Clark's</name> name has been restored. Only <name type="person" key="Clark, William">Clark's</name> campsites, not those of the main party during the separation period, appear on the sketch maps in the Elkskin-bound Journal; see fig. 7. Space, 13; <hi rend="italic">Atlas</hi> map 70.</note>
+            <note xml:id="n22091812" n="12">Including <name type="person" key="Field, Reubin">Reubin Field</name> and <name type="person" key="Shields, John">Shields</name>.</note>
+            <note xml:id="n22091813" n="13">Probably <name type="place" key="Bald Mountain">Bald Mountain</name>, <name type="place" key="Idaho County, Idaho">Idaho County</name>, <name type="place" key="Idaho">Idaho</name>.</note>
+            <note xml:id="n22091814" n="14">
+               <name type="person" key="Gass, Patrick">Gass</name>, or <name type="person" key="McKeehan, David">McKeehan</name>, omits mentioning that <name type="person" key="Clark, William">Clark</name> headed this advance party, which included <name type="person" key="Field, Reubin">Reubin Field</name> and <name type="person" key="Shields, John">Shields</name>.</note>
+            <note xml:id="n22091815" n="15">
+               <name type="person" key="Willard, Alexander">Willard</name>.</note>
+            <note xml:id="n22091816" n="16">Probably grand fir, <hi rend="italic">Abies grandis</hi> (Dougl.) Lindl. See <name type="person" key="Lewis, Meriwether">Lewis's</name> entry of <ref n="1806-02-06" type="related">February 6, 1806</ref>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-09-17" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-09-19" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-05-31-1">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+Weather, May 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">216-217</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-05-31-1.01">
+            <placeName/>
+            <geo> </geo>
+            <note>No location. Daily weather record for the month of May.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-01-07</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-05-31">Weather, May 1804</date>
+         </head>
+         <div type="entry"
+              xml:id="lc.jrn.1804-05-31-1.01"
+              n="lc.geo.1804-05-31-1.01">
+            <sp who="mlwc">
+               <speaker>Lewis and <name type="person" key="Clark, William">Clark</name>
+               </speaker>
+               <ab>
+                  <date>[<hi rend="italic">Weather, May 1804</hi>]<ref target="n030531-101" n="1"/>
+                  </date>
+               </ab>
+               <p>
+                  <table rows="15" cols="10">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">day of<lb/>the<lb/>month</cell>
+                        <cell role="data" rows="1" cols="1">Ther-<lb/>mometer<lb/>at <seg n="u9737">☉</seg>
+                           <lb/>rise</cell>
+                        <cell role="data" rows="1" cols="1">Weather</cell>
+                        <cell role="data" rows="1" cols="1">Wind<lb/>at  <seg n="u9737">☉</seg>
+                           <lb/>Rise</cell>
+                        <cell role="data" rows="1" cols="1">Ther-<lb/>mometer<lb/>at 4oCk.<lb/>P M</cell>
+                        <cell role="data" rows="1" cols="1">Weather</cell>
+                        <cell role="data" rows="1" cols="1">Wind at<lb/>4 oCk.<lb/>P.M</cell>
+                        <cell role="data" rows="1" cols="1">raise<lb/> or fall</cell>
+                        <cell role="data" rows="1" cols="1">River<lb/>Feet</cell>
+                        <cell role="data" rows="1" cols="1">Inchs</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">May 1S</cell>
+                        <cell role="data" rows="1" cols="1">28 a</cell>
+                        <cell role="data" rows="1" cols="1">f.</cell>
+                        <cell role="data" rows="1" cols="1">S E</cell>
+                        <cell role="data" rows="1" cols="1">62 a</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1">N. E.</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">4 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">27 a</cell>
+                        <cell role="data" rows="1" cols="1">f.</cell>
+                        <cell role="data" rows="1" cols="1">S E</cell>
+                        <cell role="data" rows="1" cols="1">76 a</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1">S S E</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">6</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">32 a</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1">S S E</cell>
+                        <cell role="data" rows="1" cols="1">80 a</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1">S S W</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">4 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">48 a</cell>
+                        <cell role="data" rows="1" cols="1">t.l.c.r</cell>
+                        <cell role="data" rows="1" cols="1">S.</cell>
+                        <cell role="data" rows="1" cols="1">64 a</cell>
+                        <cell role="data" rows="1" cols="1">C a r</cell>
+                        <cell role="data" rows="1" cols="1">S</cell>
+                        <cell role="data" rows="1" cols="1">r</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">5</cell>
+                        <cell role="data" rows="1" cols="1">50 a</cell>
+                        <cell role="data" rows="1" cols="1">t l. r</cell>
+                        <cell role="data" rows="1" cols="1">W</cell>
+                        <cell role="data" rows="1" cols="1">66 a</cell>
+                        <cell role="data" rows="1" cols="1">c a r</cell>
+                        <cell role="data" rows="1" cols="1">W</cell>
+                        <cell role="data" rows="1" cols="1">r</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">6</cell>
+                        <cell role="data" rows="1" cols="1">42 a</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1">S. W</cell>
+                        <cell role="data" rows="1" cols="1">78 a</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1">S W</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">7</cell>
+                        <cell role="data" rows="1" cols="1">46 a</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1">S E</cell>
+                        <cell role="data" rows="1" cols="1">60 a</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1">S S W</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">4 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">8</cell>
+                        <cell role="data" rows="1" cols="1">52 a</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1">N. E</cell>
+                        <cell role="data" rows="1" cols="1">70 a</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1">S W</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">9</cell>
+                        <cell role="data" rows="1" cols="1">50 a</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1">E.</cell>
+                        <cell role="data" rows="1" cols="1">84 a</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1">S W</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">10</cell>
+                        <cell role="data" rows="1" cols="1">54 a</cell>
+                        <cell role="data" rows="1" cols="1">C</cell>
+                        <cell role="data" rows="1" cols="1">N. E</cell>
+                        <cell role="data" rows="1" cols="1">75 a</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1">N. W</cell>
+                        <cell role="data" rows="1" cols="1">f.</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">3 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">11</cell>
+                        <cell role="data" rows="1" cols="1">48 a</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1">E</cell>
+                        <cell role="data" rows="1" cols="1">78 a</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1">S. W</cell>
+                        <cell role="data" rows="1" cols="1">f.</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">12</cell>
+                        <cell role="data" rows="1" cols="1">44 a</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1">E</cell>
+                        <cell role="data" rows="1" cols="1">80 a</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1">W</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">13</cell>
+                        <cell role="data" rows="1" cols="1">50</cell>
+                        <cell role="data" rows="1" cols="1">C. a. r.</cell>
+                        <cell role="data" rows="1" cols="1">W</cell>
+                        <cell role="data" rows="1" cols="1">48 a</cell>
+                        <cell role="data" rows="1" cols="1">C a r</cell>
+                        <cell role="data" rows="1" cols="1">N W</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">14</cell>
+                        <cell role="data" rows="1" cols="1">42 a</cell>
+                        <cell role="data" rows="1" cols="1">C</cell>
+                        <cell role="data" rows="1" cols="1">S E</cell>
+                        <cell role="data" rows="1" cols="1">64</cell>
+                        <cell role="data" rows="1" cols="1">f</cell>
+                        <cell role="data" rows="1" cols="1">N.</cell>
+                        <cell role="data" rows="1" cols="1">〈f〉</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">0</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table rows="10" cols="2">
+                     <head>
+                        <hi rend="center">[<hi rend="italic">Remarks</hi>]<ref target="n030531-102" n="2"/>
+                        </hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">5</cell>
+                        <cell role="data" rows="1" cols="1">The thunder and lightning excessively heard this morning</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">10</cell>
+                        <cell role="data" rows="1" cols="1">distant thunder, sutery this evening</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">12</cell>
+                        <cell role="data" rows="1" cols="1">the wind at 4 was uncomly hard.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">14</cell>
+                        <cell role="data" rows="1" cols="1">end of observations at the <name type="place" key="Dubois River">river Dubois</name>
+                           <ref target="n030531-103" n="3"/>    Set out from the <name type="place" key="Dubois River">River<lb/> Dubois</name> up the <name type="place" key="Missouri River">Missouri</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">16th</cell>
+                        <cell role="data" rows="1" cols="1">arrived at <name type="place" key="Saint Charles, Mo.">St. Charles</name>
+                           <ref target="n030531-104" n="4"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">20th</cell>
+                        <cell role="data" rows="1" cols="1">rained the after part of the Day    Capt. and Several gentlemen<lb/> arrive from <name type="place" key="Saint Louis, Mo.">St. Louis</name>.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">21st</cell>
+                        <cell role="data" rows="1" cols="1">leave <name type="place" key="Saint Charles, Mo.">St. Charles</name>    heavy rain in the evening with wind.    great<lb/> number of Muscators</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">25h</cell>
+                        <cell role="data" rows="1" cols="1">strawbury in the praries ripe and abundant<ref target="n030531-105" n="5"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">27h</cell>
+                        <cell role="data" rows="1" cols="1">servisburries or wild Courants, ripe and abundant<ref target="n030531-106" n="6"/>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">30th</cell>
+                        <cell role="data" rows="1" cols="1">Mulburies begin to ripen, very abundant in the bottom<ref target="n030531-107" n="7"/>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n030531-101" n="1">This table for May is based on <name type="person" key="Lewis, Meriwether">Lewis's</name> Weather Diary, kept by <name type="person" key="Lewis, Meriwether">Lewis</name>. Its temperature readings are consistently eight degrees above those in <name type="person" key="Clark, William">Clark's</name> Codex C. No observations were tabulated by either captain after May 14 until September 1804, or at least no such tables have been found.</note>
+            <note xml:id="n030531-102" n="2">Both captains' remarks for the month of May are substantially the same; here I have followed <name type="person" key="Lewis, Meriwether">Lewis's</name> Weather Diary, noting substantive differences. Although tabled observations ceased after May 14, both men continued intermittent remarks on the weather and natural phenomena in the Weather Diary and Codex C weather tables into July. Those are found with the appropriate months.</note>
+            <note xml:id="n030531-103" n="3">The first part of this remark, as far as the note, is <name type="person" key="Lewis, Meriwether">Lewis's</name>, in his Weather Diary; the latter part is <name type="person" key="Clark, William">Clark's</name>, in Codex C.</note>
+            <note xml:id="n030531-104" n="4">
+               <name type="person" key="Clark, William">Clark</name> wrote remarks for May 16, 20, and 21 in his Codex C weather table, then later crossed them out. There are no remarks for those dates in <name type="person" key="Lewis, Meriwether">Lewis's</name> Weather Diary.</note>
+            <note xml:id="n030531-105" n="5">
+               <hi rend="italic">Fragaria virginiana</hi> var. <hi rend="italic">illinoensis</hi> (Prince) Gray, wild strawberry. Steyermark, 824.</note>
+            <note xml:id="n030531-106" n="6">
+               <hi rend="italic">Amelanchier arborea</hi> (Michx.) Fern., serviceberry, shadbush, sarviceberry, juneberry. Ibid., 800.</note>
+            <note xml:id="n030531-107" n="7">The common native red mulberry, <hi rend="italic">Morus rubra</hi> L. It is often confused with <hi rend="italic">Morus alba</hi> L., white mulberry, a native species of eastern Asia, which is now common in northern and central <name type="place" key="Missouri">Missouri</name>. Ibid., 562.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-05-31" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-06-01" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

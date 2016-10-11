@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-05-27">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+May 27, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 7</title>
+               <title level="m" type="sub">March 23–June 9, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1991</date>
+               <biblScope type="pages">290-297</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">315</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">233</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-05-27.01">
+            <placeName/>
+            <geo>46.05 -116.5333</geo>
+            <note>A few men left camp to go hunting and exploring. Camped at a Nez Perce village on  Lawyer Creek, near Orofino ID.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-10-22</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-05-27">May 27, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-05-27.01" n="lc.geo.1806-05-27.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Tuesday May 27th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+Early this morning we sent <name type="person" key="Field, Reubin">Reubin Fields</name> in surch of the horse which the indians had given us to kill.    at 10 in the morning he returned with the horse and we killed and butchered him; he was large and in good order. <name type="person" key="Hohots Ilppilp">Hohâstillpilp</name> told us that most of the horses we saw runing at large in this neighbourhood belonged to himself and his people, and whenever we were in want of meat he requested that we would kill any of them we wished; this is a peice of liberallity which would do honour to such as bost of civilization; indeed I doubt whether there are not a great number of our countrymen who would see us fast many days before their compassion would excite them to a similar act of liberallity. <name type="person" key="Pryor, Nathaniel Hale">Sergt. Pryor</name> and the party ordered to the indian Village set out early this morning.    in the evening he returned with <name type="person" key="Gibson, George">Gibson</name> and <name type="person" key="Shields, John">Sheilds</name>.    the others remained at the village all night; they brought a good store of roots and bread.    we also sent <name type="person" key="Ordway, John">Sergt. ordway</name> and 2 men<ref target="n35052701" n="1"/> this morning over to <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Lewis's river</name> for salmon, which the indians inform us may be procured in abundance at that place, and that it is but half a days ride, nearly south.—    <name type="person" key="Drouillard, George">Drewyer</name>, <name type="person" key="Cruzatte, Pierre">Cruzatte</name>, and <name type="person" key="Labiche, François">Labuish</name> returned at 4 P. M. with five deer which they had killed at some distance up <name type="place" key="Lolo (Collins's) Creek (Idaho)">Collins's Creek</name> on this side; that stream still continues so high that they could not pass it.—    <name type="person" key="Charbonneau, Jean Baptiste">Charbono's son</name> is much better today, tho' the swelling on the side of his neck I believe will terminate in an ugly imposthume a little below the ear.<ref target="n35052702" n="2"/>    the indians were so anxious that the sick Cheif should be sweated under our inspection that they requested we would make a second attept today; accordingly the hole was somewhat enlarged and his father a very good looking old man, went into the hole with him and sustained him in a proper position during the operation; we could not make him sweat as copiously as we wished.    after the operation he complained of considerable pain, we gave him 30 drops of laudanum which soon composed him and he rested very well.—    this is at least a strong mark of parental affection.    they all appear extreemly attentive to this sick man nor do they appear to relax in their asceduity towards him notwithstand he has been sick and helpless upwards of three years.    the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> appear to be very attentive and kind to their aged people and treat their women with more rispect than the nations of the <name type="place" key="Missouri River">Missouri</name>.—    There is a speceis of Burrowing squirrel [<hi rend="italic">EC: Spermophilus columbianus</hi>]<ref target="n35052703" n="3"/> common in these plains which in their habits somewhat resemble those of the <name type="place" key="Missouri River">missouri</name> but are a distinct speceis.    this little animal measures one fot five and ½ inches from the nose to the extremity of the tail, of which the tail occupys 2¼ inches only; in the girth it is 11 In.    the body is proportionably long, the neck and legs short; the ears are short, obtusely pointed, and lie close to the head; the aperture of the ear is larger proportionably than most animals which burrow.    the eyes are of moderate size, the puple black and iris of a dark sooty brown.    the teeth are like those of the squirrel as is it's whole contour.    the whiskers are full, long and black; it also has some long black hairs above the eyes.    it has five toes on each foot; the two inner toes of the fore feet are remarkably short, and have short blont nails.    the remaining toes on those feet are long, black, slightly curved, and sharply pointed.    the outer and inner toes of the hind feet are not short yet they are by no means as long as the three toes in the center of the foot which are remarkably long but the nails are not as long as those of the fore feet tho' of the same form and colour.    the hair of the tail tho' of the same form and colour.    the hair of the tail tho' thickly inserted on every part rispects the two sides only.    this gives it a flat appearance and a long ovol form.    the tips of the hair which form the outer edges of the tail are white.    the base of the hairs are either black or a fox red.    the under disk of the tail is an iron grey, the upper a redish brown.    the lower part of the jaws, under part of the neck, legs and feet from the body down and belley are of a light brick red.    the nose as high as the eyes is of a darker brick red.    the upper part of the head neck and body are of a curious brownish grey colour with a cast of the brick red.    the longer hair of these parts being of a redish white colour at their extremities, fall together in such manner as to give it the appearance of being speckled at a little distance.    these animals form large ascociations as those of the <name type="place" key="Missouri River">Missouri</name>, occupying with their burroughs one or sometimes 200 acres of land.    the burrows are seperate and are each occupyed perhaps by ten or 12 of those animals.    there is a little mound in front of the hole formed of the earth thrown out of the burrow and frequently there are three or four distinct holes forming what I term one burrow with their mouths arround the base of this little mound which seems to be occupyed as a watch-tower in common by the inhabitants of those several holes. these mounds are sometimes as much as 2 feet high and 4 feet in diameter, and are irregularly distributed over the tract they occupy at the distance of from ten to thirty or 40 yds.    when you approach a burrow the squirrels, one or more, usually set erect on these mounds and make a kind of shrill whistleing nois, something like <hi rend="italic">tweet, tweet, tweet,</hi> &amp;c.    they do not live on grass as those of the <name type="place" key="Missouri River">missouri</name> but on roots.    one which I examined had in his mouth two small bulbs of a speceis of grass,<ref target="n35052704" n="4"/> which resemble very much what is sometimes called the grassnut.    the intestins of those little animals are remarkably large for it's size.    fur short and very fine.—    the grass in their villages is not cut down as in those of the plains of the <name type="place" key="Missouri River">missouri</name>. I preserved the skins of several of these animals with the heads feet and legs entire. The Black woodpecker<ref target="n35052705" n="5"/> which I have frequently mentioned and which is found in most parts of the <name type="place" key="Rocky Mountains">roky Mountains</name> as well as the Western and S. W. mountains. I had never an opportunity of examining untill a few days since when we killed and preserved several of them.    this bird is about the size of the lark woodpecker of the turtle dove, tho' it's wings are longer than either of those birds. the beak is black, one inch long, reather wide at the base, somewhat curved, and sharply pointed; the chaps are of equal length.    arround the base of the beak including the eye and a small part of the throat is of a fine crimson red.    the neck and as low as the croop in front is of an iron grey.    the belly and breast is a curious mixture of white and blood reed which has much the appearance of having been artifically painted or stained of that colour.    the red reather predominates.    the top of the head back, sides, upper surface of the wings and tail are black, with a gossey tint of green in a certain exposure to the light.    the under side of the wings and tail are of a sooty black.    it has ten feathers in the tail, sharply pointed, and those in the center reather longest, being 2½ inches in length.    the tongue is barbed, pointed, and of an elastic cartelaginous substance.    the eye is moderately large, puple black and iris of a dark yellowish brown.    this bird in it's action when flying resembles the small redheaded woodpecke common to the Atlantic states;<ref target="n35052706" n="6"/> it's note also somewhat resembles that bird.    the pointed tail seems to assist it in seting with more eas or retaining it its resting position against the perpendicular side of a tree.    the legs and feet are black and covered with wide imbricated scales.    it has four toes on each foot of which two are in rear and two in front; the nails are much curved long and remarkably keen or sharply pointed.    it feeds on bugs worms and a variety of insects.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-05-27.02" n="lc.geo.1806-05-27.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Tuesday 27th May 1806</hi>
+                  </date>
+               </ab>
+               <p>
+A cloudy morning <name type="person" key="Pryor, Nathaniel Hale">Serjt. Pryor</name> and party Set out at 7 A. M. Serjt. <name type="person" key="Ordway, John">Ordway</name> and two men are ordered to cross this river and proceed on through the plains to <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Lewis's</name> and precure Some Salmon on that river, and return tomorrow if possible    he Set out at 8 A. M.    we Sent <name type="person" key="Field, Reubin">Rub: Field</name> in Serch of the horse which the indians had given us to kill.    at 10 A. M he returned with the horse and he was killed and butchered; he was large and in good order.    <name type="person" key="Hohots Ilppilp">hohâstillpilp</name> told us that most of the horses which we Saw running in those plains in this neighbourhood at large belonged to himself and his people, and whenever we were in want of meet, he requested that would kill any of them we wished; this is a piece of liberallity which would do honour to Such as bost of civilization. <name type="person" key="Pryor, Nathaniel Hale">Serjt. Pryor</name>, <name type="person" key="Gibson, George">Gibson</name> &amp; <name type="person" key="Shields, John">Shields</name> returned from the Village with a good Stock of roots and bread. <name type="person" key="Charbonneau, Toussaint">Shabono</name>
+                  <name type="person" key="Lepage, Jean Baptiste">Lapage</name> &amp; <name type="person" key="York">Yourk</name> whome we had Sent to purchase roots for ourselves remained at the Village all night.    <name type="person" key="Drouillard, George">Drewyer</name>, <name type="person" key="Labiche, François">Labiech</name> &amp; <name type="person" key="Cruzatte, Pierre">Crusat</name> return at 4 P. M. with 5 Deer which they had killed at Some distance up <name type="place" key="Lolo (Collins's) Creek (Idaho)">Collin's Creek</name> on this Side, that Stream Still continue So high that they could not pass it.—</p>
+               <p>
+                  <name type="person" key="Charbonneau, Jean Baptiste">Shabono's child</name> is much better to day; tho' the Swelling on the Side of his neck I believe will termonate in an ugly imposthume a little below the ear. The Indians were so anxious that the Sick Chief (who has lost the use of his limbs) Should be Sweted under our inspection they requested me to make a 2d attempt to day; accordingly the hole was enlargened and his father a very good looking old man performed all the drugery &amp;c.    we could not make him Swet as copously as we wished.    being compelled to keep him erect in the hole by means of Cords.    after the oppiration he complained of Considerable pain, I gave him 30 drops of Laudnom which Soon composed him and he rested very well—. I observe the Strongest marks of parental affection.    they all appear extreemly attentive to this Sick man, no do they appear to relax in their ascituity towards him not withstanding he has been Sick and helpless for near 5 years. The <name type="native_nation" key="Nez Perce Indians">Chopunnish</name> appeare to be very attentive &amp; kind to their aged people and treat their women with more respect than the nativs on the <name type="place" key="Missouri River">Missouri</name>.—</p>
+               <p>
+There is a Species of whistleing Squirel common in these plains which in their habit Somewhat resembles those of the <name type="place" key="Missouri River">Missouri</name> but are a distinct Species.    this little animale measures 1 foot 5 inches &amp; a half from the nose to the extremity of the tail, of which the tail occupies 2 ¼ inches only; in the girth it is 11 inches the body is perpotionably long, the neck and legs Short; the ears are Short, obtusely pointed, and lye close to the head; the aperture of the ear is larger proportionably than most animals which burrow.    the eyes are of Moderate Size, the puple black and iris of a dark dusky brown.    the teeth are like those of the Squirel as is it's whole contour.    the whiskers are full, long and black; it has also Some long black hars above the eye—.    it has five toes on each foot; the 2 iner toes of the fore feet are remarkably Short, and have Short blut nails.    the remaining toes on these feet are long Slightly Curved, black and Sharply pointed.    the outer and inner toes of the hind feet are not Short yet they are by no means as long as the three toes in the Center of the foot which are remarkably long but the nails are not as long as those of the fore feet tho' of the Same form and colour.    the hars of the tail tho thickly inserted on every part respects the two Sides only.    this givs it a flat appearance and a long oval form.    the tips of the hair which forms the outer edges of the tail are white.    the bace of the hair are either black or a fox red.    the under disk of the tail is an iron gray, the upper a redish brown.    the lower part of the jaws, under part of the neck, legs and feet from the body down and belly are of a light brick red.    the nose as high as the eyes is of a darker brick red.    the upper part of the head neck and body are of a curious brownish gray colour with a cast of the brick red.    the longer hairs of these parts being of a redish white colour at their extremities fall together in Such a Manner as to give it to the appearance of being Spekled at a little distance.    these animals form large ascoations as those of the <name type="place" key="Missouri River">Missouri</name>, occupying with their burroughs one or Sometimes 200 acres of Land.    the burrows are Seperate and are each occupyed perhaps by 10 or 12 of those Animals.    there is a little Mound in front of the hole formed of the earth thrown out of the burrow and frequently there are three or four distinct holes forming what I call one burrow, around the base of the mound, which Seams to be occupied as a watch tower in common by the inhabitents of those Several holes.    these Mounds are Sometimes as much as 2 feet high, and 4 feet in diameter, and are irregularly distributed over the tract they occupy at the distance of from ten to 30 or forty yards. When you approach a burrow the Squirels one, or more, usially Set erect on these Mounds and make a kind of Shrill whisteling nois, Something like <hi rend="italic">tweet, tweet, tweet</hi> &amp;c.    they do not live on grass as those of the <name type="place" key="Missouri River">Missouri</name> but on roots.    one which I examoned had in his mouth two Small bulbs of a Species of grass, which resembles very much what is Sometimes Called the Grass Nut.    the intestins of these little animals are remarkably large for it's Size; fur Short and very fine.    the grass in their village is not Cut down as in these of the plains of the <name type="place" key="Missouri River">Missouri</name>. I preserved the Skins of Several of these animals with the heads feet and legs entire—.—. The <hi rend="italic">Black Wood pecker</hi> which is found in most parts of the <name type="place" key="Rocky Mountains">rocky Mountains</name> as will as the Western and <name type="place" key="Blue (Southwest, Southeast) Mountains">S W. mountains</name>, I had never an oppertunity of examineing, untill a fiew days Since when we killed and preserved Several of them.    this bird is about the Size of the lark woodpecker or the turtle dove, tho' it's wings are longer than either of these birds.    the beak is black, one inch long reather wide at the base, Somewhat cirved, and Sharply pointed; the chaps are of equal length.    around the bace of the beak including the eye and a Small part of the throat is of a crimson red.    the neck and as low as the croop in front is of an iron gray.    the belly and breast is of a curious mixture of white and blood red which has much the appearance of having been artifically painted or Stained of that colour, the red reather predominates.    the top of the head, back, Sides, upper Surface of the wings and tail are black, the under Side of the wings and tail are black.    it has ten feathers in the tail, Sharply pointed, and those in the center reather longest, being 2½ inches in Length    the tongue is barbed, pointed, and of an elastic cartalaginous Substance.    the eye is moderately large, puple black and iris of a dark yellowish brown.    this bird in it's actions when flying resemble the Small redish woodpecker common to the altantic States; it's note also Somewhat resembles that bird.    the pointed tail Seems to assist it in sitting with more ease or retaining it, in it's resting position against the perpendicular Side of a tree.    the legs and feet are black, and covered with imbricated scales.    it has four toes on each foot, of which two are in rear and two in front; the nails are much curved long and remarkably Keen or Sharply pointed.    it feeds on bugs, worms and a variety of insects.—.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-05-27.03" n="lc.geo.1806-05-27.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday 27th of May 1806. J. <name type="person" key="Frazer, Robert">Frazer</name> and <name type="person" key="Weiser, Peter">wiser</name> Set out to go over to the <name type="place"
+                        key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">ki-mooenim river</name>
+                  <ref target="n35052707" n="7"/> for fish &amp; [<hi rend="italic">page torn, word missing</hi>]    Swam our horses and
+waidd on to [the?] village on <name type="place" key="Lawyer (Commearp) Creek">commeap cre[ek]</name>
+                  <ref target="n35052708" n="8"/>    three young men went on with [us] up Sd. creek about 5 miles    left this creek ascended a high hill on a plain and proced. on    passd. a lodge where we Struck the creek again    followed up Said creek about 8 miles farther and came to the chiefs village<ref target="n35052709" n="9"/> which took care of our horses.    the [<hi rend="italic">word illegible</hi>] chief, and as the old man said he was a going on with us in the morning the young men returned and we camped here, and had a hard Thunder Shower.    the Indians grass
+houses leak.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-05-27.04" n="lc.geo.1806-05-27.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 27th.</hi>    The morning was fair and pleasant, and several of our men<ref target="n35052710" n="10"/> went to the villages around us to procure roots. These roots are a good diet, but in general we do not relish them so well as meat. We therefore killed another horse to-day, which one of the natives gave us sometime ago for that purpose. He was so wild and vicious that we could not manage him, or do any thing with him.</p>
+               <p>
+Our sick man<ref target="n35052711" n="11"/> is getting somewhat better, and the <name type="person" key="Charbonneau, Jean Baptiste">interpreter's child</name>
+                  <ref target="n35052712" n="12"/> is recovering fast. The Indian, that we have under cure, had another sweat to 
+day; and our horses, that have had the quieting operation performed on them are all mending. In the afternoon some rain fell, and three of our hunters<ref target="n35052713" n="13"/> came in, and brought with them five deer, they had killed: three men<ref target="n35052714" n="14"/> also came in from the villages and brought a good supply of roots; six yet remained out.
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n35052701" n="1">
+               <name type="person" key="Frazer, Robert">Frazer</name> and <name type="person" key="Weiser, Peter">Weiser</name>.</note>
+            <note xml:id="n35052702" n="2">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> concern suggests that he had some knowledge of similar cases. The site is the location of a lymph node that, before chemotherapy, often abscessed and broke through the skin. Cutright (LCPN), 296.</note>
+            <note xml:id="n35052703" n="3">The first description of the Columbian ground squirrel; see <name type="person" key="Clark, William">Clark's</name> brief mention at <ref n="1806-05-23" type="related">May 23, 1806</ref>. Evidently <name type="person" key="Lewis, Meriwether">Lewis</name> compares the animal to Richardson's ground squirrel, <hi rend="italic">Spermophilus richardsonii,</hi> but there may be some confusion with the prarie dog, <hi rend="italic">Cynomys ludovicianus,</hi> "of the <name type="place" key="Missouri River">missouri</name>;" see <ref n="1805-04-09" type="related">April 9</ref> and <ref n="1805-06-05" type="related">June 5, 1805</ref>. Coues has penciled in the scientific name. However, it was probably <name type="person" key="Biddle, Nicholas">Biddle</name> who drew a red vertical line through the passage beginning with this sentence and going to the words "on those feet." Two other red vertical lines begin later and go through most of the descriptive material.</note>
+            <note xml:id="n35052704" n="4">Probably oniongrass, <hi rend="italic">Melica bulbosa</hi> Geyer ex Porter &amp; Coult., or showy oniongrass, <hi rend="italic">M. spectabilis</hi> Scribn. Both species have enlarge succulent bulbs along a slender rhizome similar to the more widespread yellow nutgrass, <hi rend="italic">Cyperus esculentus</hi> L. <name type="person" key="Lewis, Meriwether">Lewis</name> would have been familiar with the latter as a weedy species in the East, but it is unlikely to have been present in Idaho in 1806. Hitchcock et al., 1:616, 619, 347; Fernald, 244.</note>
+            <note xml:id="n35052705" n="5">Lewis's woodpecker, previously noted but now fully described for the first time. This may be the specimen at Harvard University, probably the expedition's only zoological specimen to survive. Cutright (LCPN), 173, 296, 430, 453. The "lark woodpecker" is the northern flicker, <hi rend="italic">Colaptes auratus</hi> [AOU, 412], and the "turtle dove" is the mourning dove, <hi rend="italic">Zenaida macroura</hi> [AOU, 316].</note>
+            <note xml:id="n35052706" n="6">Presumably the red-headed woodpecker, <hi rend="italic">Melanerpes erythrocephalus</hi> [AOU, 406], which <name type="person" key="Lewis, Meriwether">Lewis</name> would have known in the East. Burroughs, 242; Holmgren, 34.</note>
+            <note xml:id="n35052707" n="7">Here meaning the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake River</name>, <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Lewis's River</name> to the party, while the term "<name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Kimooenem</name>" (variously spelled) was applied to the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Tucannon River</name>.</note>
+            <note xml:id="n35052708" n="8">
+               <name type="place" key="Lawyer (Commearp) Creek">Lawyer Creek</name>, <name type="place" key="Idaho County, Idaho">Idaho County</name>, <name type="place" key="Idaho">Idaho</name>.</note>
+            <note xml:id="n35052709" n="9">A <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> village on <name type="place" key="Lawyer (Commearp) Creek">Lawyer Creek</name> but not necessarily the home village of <name type="place" key="Twisted Hair (Walamotinin)">Twisted
+Hair</name>, who had cared for the horses and who lived to the north near <name type="place" key="Orofino, Idaho">Orofino</name>, <name type="place" key="Idaho">Idaho</name>. Here the men camped for the night.</note>
+            <note xml:id="n35052710" n="10">Including <name type="person" key="Pryor, Nathaniel Hale">Pryor</name>, <name type="place" key="Charbonneau, Toussaint">Charbonneau</name>, and <name type="person" key="York">York</name>, say the captains. <name type="person" key="Ordway, John">Ordway</name> also set out with 
+<name type="person" key="Frazer, Robert">Frazer</name> and <name type="person" key="Weiser, Peter">Weiser</name> to the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake River</name> for salmon.</note>
+            <note xml:id="n35052711" n="11">
+               <name type="person" key="Bratton, William E.">Bratton</name>.</note>
+            <note xml:id="n35052712" n="12">
+               <name type="person" key="Charbonneau, Jean Baptiste">Jean Baptiste Charbonneau</name>; see the captains' entries.</note>
+            <note xml:id="n35052713" n="13">
+               <name type="person" key="Drouillard, George">Drouillard</name>, <name type="person" key="Cruzatte, Pierre">Cruzatte</name>, and <name type="person" key="Labiche, François">Labiche</name>.</note>
+            <note xml:id="n35052714" n="14">
+               <name type="person" key="Pryor, Nathaniel Hale">Pryor</name>, <name type="person" key="Gibson, George">Gibson</name>, and <name type="person" key="Shields, John">Shields</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-05-26" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-05-28" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

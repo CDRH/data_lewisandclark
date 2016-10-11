@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1803-09-01">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">September 1, 1803</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska
+     Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">67-68</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1803-09-01.01">
+            <placeName>Woollery's Trap</placeName>
+            <geo>40.5206 -80.1571</geo>
+            <note>Camped just downstream from Woollery's Trap</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2003-12-09</date>
+            <date/>
+            <name>Brian L. Pytlik Zillig</name>
+            <name/>Initial creation Transcribed</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1803-09-01">September 1, 1803</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1803-09-01.01" n="lc.geo.1803-09-01.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>September 1st—</date>
+               </ab>
+               <p> The Pilott informed me that we were not far from a ripple which was much worse than any we
+      had yet passed, and as there was so thick a fogg on the face of the water that no object was
+      visible 40 paces he advised remaining untill the sun should acquire a greater altitude when
+      the fogg would asscend and disappear; I conscented; we remained untill eight Oclock this
+      morning when we again set out—    these Foggs are very common on
+      the <name type="place" key="Ohio River">Ohio</name> at this season of the year as also in the
+      spring but do not think them as freequent or thick in the spring.    perhaps
+      this may in some measure assist us to account for the heavy dues which are mor remarkable for
+      their freequency and quantity than in any country I was ever in—
+         they are so heavy the drops falling from the trees from about midknight
+      untill sunrise gives you the eydea of a constant gentle rain, this continues untill the sun
+      has acquired sufficient altitude to dessipate the fogg by it's influence, and it then ceases.
+         the dues are likewise more heavy during summer than elsewhere but not so
+      much so as at this season.—    the Fog appears to owe it's orrigin
+      to the difference of temperature between the <hi rend="italic">air</hi> and <hi rend="italic">water</hi> the latter at this seson being much warmer than the former; the water being
+      heated by the summer's sun dose not undergo so rapid a change from the absence of the sun as
+      the air dose consiquently when the air becomes most cool which is about sunrise the fogg is
+      thickest and appears to rise from the face of the water like the steem from boiling
+       water—<ref target="n02090101" n="1"/>    we passed the <hi rend="italic">little horsetale</hi> ripple or riffle with much deficulty, all hands laboured
+      in the water about two hours before we effected a passage; the next obstruction we met was the
+       <name type="place" key="Big Horsetail Ripple">
+                     <hi rend="italic">big-horse tale</hi>
+       riffle</name>,<ref target="n02090102" n="2"/> here we wer obliged to unload all our goods and
+      lift the emty Boat over, about 5 OCock we reach the riffle called <name type="place" key="Woolery's Ripple">Woollery's trap</name>,<ref target="n02090103" n="3"/> here after
+      unloading again and exerting all our force we found it impracticable to get over, I therefore
+      employed a man with a team of oxen with the assistance of which we at length got off
+         we put in and remained all night having made only ten miles this
+       day.—<ref target="n02090104" n="4"/>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n02090101" n="1">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name>
+     reflections on fog and dew and their determinants over the next several days bring him to posit
+     a theory for the occurrence and to test his hypothesis by taking temperature readings of air
+     and river during the time. Apparently cold air is moving down the valley sides and passing
+     across the warm water of the <name type="place" key="Ohio River">Ohio River</name> in a
+     situation known as cold air drainage. Since the air is heated from below as well as moistened,
+     the fog takes the form of rising streamers, and the phenomenon is generally called steam fog.
+     Neiburger, Edinger, &amp; Bonner, 123–24.</note>
+            <note xml:id="n02090102" n="2">
+               <name type="person" key="Cramer, Zadoc">Zadoc Cramer's</name> guide
+     to the <name type="place" key="Ohio River">Ohio River</name> refers to the first ripple and the
+     second, which he calls <name type="place" key="Big Horsetail Ripple">Horsetail ripple</name>;
+     he places them along today's <name type="place" key="Neville Island">Neville Island</name>, in
+      <name type="place" key="Allegheny County, Pa.">Allegheny County</name>, <name type="place" key="Pennsylvania">Pennsylvania</name>. Cramer (5th), 29–30.</note>
+            <note xml:id="n02090103" n="3">
+               <name type="person" key="Cramer, Zadoc">Cramer</name> calls this
+      <name type="place" key="Woolery's Ripple">Woolery's ripple</name>. Ibid., 30; Baily,
+     55.</note>
+            <note xml:id="n02090104" n="4">Apparently just downstream from <name type="place" key="Woolery's Ripple">Woollery's Trap</name>, in <name type="place" key="Allegheny County, Pa.">Allegheny County</name>. </note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1803-08-30" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1803-09-02" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

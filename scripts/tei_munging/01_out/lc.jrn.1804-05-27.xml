@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-05-27">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+May 27, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">259-261</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">8, 375</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">9-10</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">14</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-05-27.01">
+            <placeName/>
+            <geo>38.6795 -91.5492</geo>
+            <note>Shore opposite mouth of the Gasconade River, MO. Remained here until 1804-05-29</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-01-12</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-05-27">May 27, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-05-27.01" n="lc.geo.1804-05-27.01">
+            <sp who="wc">
+               <speaker>
+                  <name type="person" key="Clark, William">Clark</name>
+                  <ref target="n04052701" n="1"/>
+               </speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday May 27th</hi>    as we were Setting out this morning two Canoos loaded with Bever elk Deer Skins &amp; Buffalow Robes, from the <name type="native_nation" key="Omaha Indians">Mahars</name> [<name type="native_nation" key="Omaha Indians">Omaha</name>] nation, they inform that they left that place 2 months, a gentle Breese from the S. E,</p>
+               <p>
+                  <table rows="4" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N: 71 W.</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">Miles to a point on the Labd Side opposit the lower point of<lb/>
+[<hi rend="italic">blank</hi>] Island, passed a willow Island on the L. Sd opposit<lb/>
+the upper Point of the Isd we Camped on last night</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 82° W</cell>
+                        <cell role="data" rows="1" cols="1">6</cell>
+                        <cell role="data" rows="1" cols="1">ms to a pt: on Lbd Side    passed the lower pt. of a Isd<lb/>
+Passed 4 <hi rend="italic">Casiex</hi> [cajeux]<ref target="n04052702" n="2"/> 3 from <name type="native_nation" key="Great Osage Indians">Grand Osage</name> one form the<lb/>
+                           <name type="native_nation" key="Pawnee Indians">Parnees</name> [<name type="native_nation" key="Pawnee Indians">Pawnees</name>], Passed two Isd. on the S Side a Creek of<lb/>
+20 yrds Wide on the Lb. Side near the upper point,<ref target="n04052703" n="3"/> this<lb/>
+Creek is Called <name type="place" key="Frame Creek">Ash Creek</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 74° W</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">Miles to pt. on Lbd. Sd nearly opst. the upper pt. of the big<lb/>
+Island called [<hi rend="italic">blank</hi>] Isle, on the Stbd Side    back of this Isd.<lb/>
+Coms in <name type="place" key="Rivière à la Loutre (Otter River)">Otter R</name> &amp; two other Creeks,</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 70° W.</cell>
+                        <cell role="data" rows="1" cols="1">5</cell>
+                        <cell role="data" rows="1" cols="1">M: to a Pt. on St Sd opposit <name type="place" key="Gasconade River">Gasconnade River</name> passing a pt.<lb/>
+on Lbd Side</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+we camped on an Isd in the mouth of <name type="place" key="Gasconade River">Gasconade R</name> ,<ref target="n04052704" n="4"/> this river is 157 yards wide    a butifull stream of clear water.    19' foot Deep    Hills on the lower Side</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-27.02" n="lc.geo.1804-05-27.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">May</hi> 27th <hi rend="italic">Sunday</hi> 1804</date>
+               </ab>
+               <p>
+as we were pushing off this Morning two Canoos Loaded with fur &amp;c. Came to from the <name type="native_nation" key="Omaha Indians">Mahars</name> [<hi rend="italic">NB: <name type="native_nation" key="Omaha Indians">Mahar</name>
+                  </hi>] nation, [<hi rend="italic">NB: living 730 miles above on the <name type="place" key="Missouri River">Missouri</name>
+                  </hi>] which place they had left two months, at about 10 oClock 4 <hi rend="italic">Cajaux</hi> or rafts loaded with furs and peltres came too one from the <name type="native_nation" key="Pawnee Indians">
+                     <hi rend="italic">Paunees</hi>
+                  </name>, [<hi rend="italic">NB: <name type="native_nation" key="Pawnee Indians">Paunees</name> on the <name type="place" key="Platte (Little Platte) River (Mo.)">river Platt</name>
+                  </hi>] the other from <name type="native_nation" key="Great Osage Indians">Grand Osage</name>,<ref target="n04052705" n="5"/> they informed nothing of Consequence, passed a Creek on the Lbd Side Called <hi rend="italic">
+                     <name type="place" key="Frame Creek">ash Creek</name>
+                  </hi>
+                  <ref target="n04052706" n="6"/> 20 yds wide, passed the upper point of a large Island<ref target="n04052707" n="7"/> on the Stbd Side back of which Comes in three Creeks one Called <name type="place" key="Rivière à la Loutre (Otter River)">Orter Creek</name>,<ref target="n04052708" n="8"/> her[e] the men<ref target="n04052709" n="9"/> we left hunting Came in    we camped on a Willow Island in the mouth of <name type="place" key="Gasconade River">Gasconnade River</name>. <name type="person" key="Shannon, George">George Shannon</name> Killed a Deer this evening</p>
+               <p>
+                  <hi rend="center">
+                     <hi rend="italic">Course &amp; Distance</hi> 27th May.</hi>
+               </p>
+               <p>
+                  <table rows="5" cols="3">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 71°W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">ms to pt. Lbd. Sd.    pd. an Isd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 82°W.</cell>
+                        <cell role="data" rows="1" cols="1">  6</cell>
+                        <cell role="data" rows="1" cols="1">ms. to pt Lbd. Sd.    pd. 2 Isd. a Creek</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 74°W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">ms. to pt Lbd. Sd.    pd. upr. pt by Isd. &amp; 2 Creeks</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 70°W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  5</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">ms. to pt. opsd. the <name type="place" key="Gasconade River">Gasconnade R</name>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">15 ½</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-27.03" n="lc.geo.1804-05-27.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date>Sunday May the 27th 1804</date>
+               </ab>
+               <p>
+passed <name type="place" key="Frame Creek">Ash Creek</name>    high Clifts on S. Side    Arrived at the Mouth of the <name type="place" key="Gasconade River">Gasganade River</name>
+                  <ref target="n04052710" n="10"/> at 5 o. C. P. M. on S Side    <name type="person" key="Shannon, George">Shannon</name> killed a Deer<ref target="n04052711" n="11"/>    encamped on an Island opposite to the Mouth of the River, which is a handsome place, the Soil is good, the Country pleasant &amp;C.    arms &amp; ammunition Inspected—</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-27.04" n="lc.geo.1804-05-27.01">
+            <sp who="cf">
+               <speaker>Floyd</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Sunday may 27th 1804    pased <name type="place" key="Frame Creek">ash Creek</name>— on the South Side    high Clifts on S Side    arrived at the mouth of the <name type="place" key="Gasconade River">Gasganade Rivber</name> at 5 ock P. m on the South Side    encamped on an Island oppeset the mouth of the River
+which is a handsom Situation    high hiles on the Left Side    the Bottom is of Good quallity &amp;c.    armes and ammunition Inspected—
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-27.05" n="lc.geo.1804-05-27.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday 27th.</hi>    We passed <name type="place" key="Frame Creek">Ash creek</name> where there are high cliffs on the south side, and at five in the afternoon arrived at the mouth of <name type="place" key="Gasconade River">Gaskenade river</name>. On the south side one of our party killed a deer. We encamped for the night on an island opposite the mouth of <name type="place" key="Gasconade River">Gaskenade river</name>. This is a very handsome place,—a rich soil and pleasant country:
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-05-27.06" n="lc.geo.1804-05-27.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Sunday 27th May 1806.<ref target="n04052712" n="12"/>    a fair morning.    we Set out eairly.    passed a creek called <name type="place" key="Frame Creek">ash Creek</name>, on the N. Side    high clifts on the South Side.    proceeded on    in the afternoon we arived at the Mouth of <name type="place" key="Gasconade River">Gasganade River</name> on South Side, and camped on an Island opposite the mouth of Sd. River.—</p>
+               <p>
+Sunday May 27th    This morning we set out early, having fine weather, passed a creek, called <name type="place" key="Frame Creek">Ash Creek</name>, laying on the North side of the River.    On the south side of the River lay high Clifts.    we proceeded on, and in the afternoon we arrived at the Mouth of the <name type="place" key="Gasconade River">Gasconade River</name>; laying on the south side of the <name type="place" key="Missouri River">Mesouri</name>.    We encamped on an Island opposite the Mouth of said River.    The <name type="place" key="Gasconade River">Gasconade River</name> lies in Latitude 38° 44' 35 North, and course of the River <name type="place" key="Missouri River">Mesouri</name> being still nearly West.    The <name type="place" key="Gasconade River">Gasconade River</name> is 104 Miles from the <name type="place" key="Dubois River">River due De Bois</name> (or <name type="place" key="Dubois River">Wood River</name>) &amp; lies in Latitude 38° 44' 35S North.<ref target="n04052713" n="13"/>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n04052701" n="1">To the side of this entry and covered by it is a column of barely legible numbers that appear to be the previous day's distances, with a total of 18.</note>
+            <note xml:id="n04052702" n="2">
+               <hi rend="italic">Cajeu</hi> (plural, <hi rend="italic">cajeux</hi>) was a French-Canadian term for a small raft, especially one made by lashing together two canoes. McDermott (GMVF), 41.</note>
+            <note xml:id="n04052703" n="3">At this point there is a small sketch under the entry, of document 15, showing a river bend and an island.</note>
+            <note xml:id="n04052704" n="4">The <name type="place" key="Gasconade River">Gasconade River</name> enters the <name type="place" key="Missouri River">Missouri</name> at present <name type="place" key="Gasconade, Mo.">Gasconade</name>, <name type="place" key="Gasconade County, Mo.">Gasconade County</name>, <name type="place" key="Missouri">Missouri</name>. MRC map 5; MRM map 13.</note>
+            <note xml:id="n04052705" n="5">These men had been trading with the <name type="native_nation" key="Great Osage Indians">Great (or Grand) Osages</name>, probably on the <name type="place" key="Osage (Osarge) River">Osage River</name> in <name type="place" key="Missouri">Missouri</name>.</note>
+            <note xml:id="n04052706" n="6">Probably later <name type="place" key="Frame Creek">Frame, or Frene, Creek</name>, entering the <name type="place" key="Missouri River">Missouri</name> at present <name type="place" key="Hermann, Mo.">Hermann</name>, <name type="place" key="Gasconade River">Gasconade County, Mo.</name> . MRC map 5; MRM map 13.</note>
+            <note xml:id="n04052707" n="7">Probably <name type="place" key="La Loutre Island">L'Outre</name> (more properly <hi rend="italic">
+                  <name type="place" key="La Loutre Island">la loutre</name>
+               </hi> in French) Island. MRC map 5.</note>
+            <note xml:id="n04052708" n="8">The literal translation of its early name, <name type="place" key="Rivière à la Loutre (Otter River)">Rivière à la Loutre</name>, in <name type="place" key="Montgomery County, Mo.">Montgomery County</name>, <name type="place" key="Missouri">Missouri</name>. Ibid.</note>
+            <note xml:id="n04052709" n="9">
+               <name type="person" key="Drouillard, George">George Drouillard</name> and <name type="person" key="Shields, John">John Shields</name>; see above, <ref n="1804-05-26" type="related">May 26</ref>.</note>
+            <note xml:id="n04052710" n="10">
+               <name type="place" key="Gasconade River">Gasconade River</name> at <name type="place" key="Gasconade, Mo.">Gasconade</name>, <name type="place" key="Gasconade County, Mo.">Gasconade County</name>.</note>
+            <note xml:id="n04052711" n="11">White-tailed deer, <hi rend="italic">Odocoileus virginianus</hi>.</note>
+            <note xml:id="n04052712" n="12">There is no ready explanation for <name type="person" key="Whitehouse, Joseph">Whitehouse</name> using this later date. It seems inconceivable that he would be rewriting the journal in 1806 and get his dates confused.</note>
+            <note xml:id="n04052713" n="13">The latitude and mileage do not appear in the original version of <name type="person" key="Whitehouse, Joseph">Whitehouse's</name> journal, but they agree with <name type="person" key="Clark, William">Clark's</name> figures; see <name type="person" key="Clark, William">Clark's</name> Field Notes entry for <ref n="1804-08-17" type="related">August 17, 1804</ref>. The sentence appears to have been crowded in between entries.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-05-26" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-05-28" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

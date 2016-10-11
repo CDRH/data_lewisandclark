@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-06-14">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+June 14, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 4</title>
+               <title level="m" type="sub">April7–July 27, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">289-296</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">167</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">102</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">196-198</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-06-14.01">
+            <placeName/>
+            <geo>47.7289 -110.9471</geo>
+            <note>Clark and his party camp near Black Coulee, where Lewis camped only two days earlier. In Chouteau County, MT</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-02-04</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-06-14">June 14, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-06-14.01" n="lc.geo.1805-06-14.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Friday June 14th 1805.</hi>
+                  </date>
+               </ab>
+               <p>This morning at sunrise I dispatched <name type="person" key="Field, Joseph">Joseph Fields</name> with a letter to <name type="person" key="Clark, William">Capt. Clark</name> and ordered him to keep sufficiently near the river to observe it's situation in order that he might be enabled to give <name type="person" key="Clark, William">Capt. Clark</name> an idea of the point at which it would be best to halt to make our portage. I set one man about preparing a saffold and collecting wood to dry the meat    Sent the others to bring in the ballance of the buffaloe meat, or at least the part which the wolves had left us, for those fellows are ever at hand and ready to partake with us the moment we kill a buffaloe; and there is no means of puting the meat out of their reach in those plains; the two men shortly after returned with the meat and informed me that the wolves had devoured the greater part of the meat.    about ten OClock this morning while the men were engaged with the meat I took my Gun and espontoon and thought I would walk a few miles and see where the rappids termineated above, and return to dinner.    accordingly I set out and proceeded up the river about S. W.    after passing one continued rappid and three small cascades of abut for or five feet each at the distance of about five miles I arrived at a fall of about 19 feet; the river is here about 400 yds. wide.    this pitch which I called the <ref target="n15061401" n="1">
+                     <name type="place" key="Crooked Falls">crooked falls</name>
+                  </ref> occupys about three fourths of the width of the river, commencing on the South side, extends obliquly upwards about 150 yds. then forming an accute angle extends downwards nearly to the commencement of four small Islands lying near the N. shore; among these Islands and between them and the lower extremity of the perpendicular pitch being a distance of 100 yards or upwards, the water glides down the side of a sloping rock with a volocity almost equal to that of it's perpendicular decent.    just above this rappid the river makes a
+suddon bend to the right or Northwardly. I should have returned from hence but hearing a tremendious roaring above me I continued my rout across the point of a hill a few hundred yards further and was again presented by one of the most beatifull objects in nature, a <ref target="n15061402" n="2">cascade of about fifty feet perpendicular streching at rightangles across the river from side to side to the distance of at least a quarter of a mile.</ref>    here the river pitches over a shelving rock, with an edge as regular and as streight as if formed by art, without a nich or brake in it; the water decends in one even and uninterupted sheet to the bottom wher dashing against the rocky bottom rises into foaming billows of great hight and rappidly glides away, hising flashing and sparkling as it departs the sprey rises from one extremity to the other to 50 f. I now thought that if a skillfull painter had been asked to make a beautifull cascade that he would most probably have pesented the precise immage of this one; nor could I for some time determine on which of those two great cataracts to bestoe the palm, on this or that which I had discovered yesterday; at length I determined between these two great rivals for glory that this was <hi rend="italic">pleasingly beautifull,</hi> while the other was <hi rend="italic">sublimely grand.</hi> I had scarcely infixed my eyes from this pleasing object before I discovered <ref target="n15061403" n="3">another fall above at the distance of half a mile;</ref> thus invited I did not once think of returning but hurried thither to amuse myself with this newly discovered object. I found this to be a cascade of about 14 feet possessing a perpendicular pitch of about 6 feet.    this was tolerably regular streching across the river from bank to bank where it was about a quarter of a mile wide; in any other neighbourhood but this, such a cascade would probably be extoled for it's beaty and magnifficence, but here I passed it by with but little attention, determining as I had proceded so far to continue my rout to the head of the rappids if it should even detain me all night.    at every rappid cateract and cascade I discovered that the bluffs grew lower or that the bed of the river rose nearer to a level with the plains.    still pursuing the river with it's course about S. W. passing a continued sene of rappids and small cascades, at the distance of 2½ miles I arrived at <ref target="n15061404" n="4">another cataract of 26 feet.</ref>    this is not immediately perpendicular, a rock about ⅓ of it's decent seems to protrude to a small distance and receives the water in it's passage downwards and gives a curve to the water tho' it falls mostly with a regular and smoth sheet.    the river is near six hundred yards wide at this place, a beatifull level plain on the S. side only a few feet above the level of the pitch; on the N. side where I am the country is More broken and immediately behind me near the river a high hill.    below this fall at a little distance a beatifull little Island well timbered is situated about the middle of the river.    in this Island on a Cottonwood tree an Eagle has placed her nest; a more inaccessable spot I beleive she could not have found; for neither man nor beast dare pass those gulphs which seperate her little domain from the shores.     the water is also broken in such manner as it decends over this pitch that the mist or sprey rises to a considerable hight.    this fall is certainly much the greatest I ever behald except those two which I have mentioned below.    it is incomparably a geater cataract and a more noble interesting object than the celibrated falls of <name type="place" key="Potomac River">Potomac</name> or <ref target="n15061405" n="5">
+                     <name type="place" key="Schuylkill River">Soolkiln</name>
+                  </ref> &amp;c.    just above this is another cascade of about 5 feet, above which the water as far as I could see began to abate of it's valosity, and I therefore determined to ascend the hill behind me which promised a fine prospect of the adjacent country, nor was I disappointed on my arrival at it's summit.    from hence I overlooked a most beatifull and extensive plain reaching from the river to the base of the Snowclad mountains to the S. and S. West; I also observed the missoury streching it's meandering course to the South through this plain to a great distance filled to it's even and grassey brim; another large river flowed in on it's Western side about four miles above me and extended itself though a level and fertile valley of 3 miles in width a great distance to the N. W. rendered more conspicuous by the timber which garnished it's borders. in these plains and more particularly in the valley just below me immence herds of buffaloe are feeding.    the <name type="place" key="Missouri River">missouri</name> just above this hill makes a bend to the South where it lies a smoth even and unruffled sheet of water of nearly a mile in width bearing on it's watry bosome vast flocks of geese which feed at pleasure in the delightfull pasture on either border.    the young geese are now completely feathered except the wings which both in the young and old are yet deficient.    after feasting my eyes on this ravishing prospect and resting myself a few minutes I determined to procede as far as the river which I saw discharge itself on the West side of the <name type="place" key="Missouri River">Missouri</name> convinced that it was <ref target="n15061406" n="6">the river which the Indians call <hi rend="italic">
+                        <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">medicine river</name>
+                     </hi>
+                  </ref> and which they informed us fell into the <name type="place" key="Missouri River">Missouri</name> just above the <name type="place" key="Missouri River, Great Falls of the">falls</name>    I decended the hills and directed my course to the bend of the <name type="place" key="Missouri River">Missouri</name> near which there was a herd of at least a thousand buffaloe; here I thought it would be well to kill a buffaloe and leave him untill my return from the river and if I then found that I had not time to get back to camp this evening to remain all night here there being a few sticks of drift wood lying along shore which would answer for my fire, and a few sattering cottonwood trees a few hundred yards below which would afford me at least a semblance of a shelter.    under this impression I scelected a fat buffaloe and shot him very well, through the lungs; while I was gazeing attentively on the poor anamal discharging blood in streams from his mouth and nostrils, expecting him to fall every instant, and having entirely forgotton to reload my rifle, a large white, or reather brown bear, had perceived and crept on me within 20 steps before I discovered him; in the first moment I drew up my gun to shoot, but at the same instant recolected that she was not loaded and that he was too near for me to hope to perform this opperation before he reached me, as he was then briskly advancing on me; it was an open level plain, not a bush within miles nor a tree within less than three hundred yards of me; the river bank was sloping and not more than three feet above the level of the water; in short there was no place by means of which I could conceal myself from this monster untill I could charge my rifle; in this situation I thought of retreating in a brisk walk as fast as he was advancing untill I could reach a tree about 300 yards below me, but I had no sooner terned myself about but he pitched at me, open mouthed and full speed, I ran about 80 yards and found he gained on me fast, I then run into the water    the idea struk me to get into the water to such debth that I could stand and he would be obliged to swim, and that I could in that situation defend myself with my
+espontoon; accordingly I ran haistily into the water about waist deep, and faced about and presented the point of my espontoon, at this instant he arrived at the edge of the water within about 20 feet of me; the moment I put myself in this attitude of defence he sudonly wheeled about as if frightened, declined the combat on such unequal grounds, and retreated with quite as great precipitation as he had just before pursued me.    as soon as I saw him run of[f] in that manner I returned to the shore and charged my gun, which I had still retained in my hand throughout this curious adventure. I saw him run through the level open plain about three miles, till he disappeared in the woods on <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">medecine river</name>; during the whole of this distance he ran at full speed, sometimes appearing to look behind him as if he expected pursuit. I now began to reflect on this novil occurrence and indeavoured to account for this sudden retreat of the bear. I at first thought that perhaps he had not smelt me before he arrived at the waters edge so near me, but I then reflected that he had pursued me for about 80 or 90 yards before I took the water and on examination saw the grownd toarn with his tallons immediately on the impression of my steps; and the cause of his allarm still remains with me misterious and unaccountable.—    so it was and I feelt myself not a little gratifyed that he had declined the combat. My gun reloaded I felt confidence once more in my strength; and determined not to be thwarted in my design of visiting <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">medicine river</name>, but determined never again to suffer my peice to be longer empty than the time she necessarily required to charge her. I passed through the plain nearly in the direction which the bear had run to <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">medecine river</name>, found it a handsome stream, about 200 yds. wide with a gentle current, apparently deep, it's waters clear, and <ref target="n15061407" n="7">banks which were formed principally of darkbrown and blue clay</ref> were about the hight of those of the <name type="place" key="Missouri River">Missouri</name> or from 3 to 5 feet; yet they had not the appearance of ever being overflown, a circumstance, which I did not expect so immediately in the neighbourhood of the mountains, from whence I should have supposed, that sudden and immence torrants would issue at certain seasons of the year; but the reverse is absolutely the case. I am therefore compelled to beleive that the <name type="place" key="Lewis (Snowy) Range">snowey mountains</name> yeald their warters slowly, being partially effected every day by the influence of the sun only, and never suddonly melted down by haisty showers of rain.—</p>
+               <p>having examined <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Medecine river</name> I now determined to return, having by my estimate about 12 miles to walk. I looked at my watch and found it was half after six P. M.—    in returning through the level bottom of <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Medecine river</name> and about 200 yards distant from the <name type="place" key="Missouri River">Missouri</name>, my direction led me directly to <ref target="n15061408" n="8">an anamal that I at first supposed was a wolf;</ref> but on nearer approach or about sixty paces distant I discovered that it was not, it's colour was a brownish yellow; it was standing near it's burrow, and when I approached it thus nearly, it couched itself down like a cat looking immediately at me as if it designed to spring on me. I took aim at it and fired, it instantly disappeared in it's burrow; I loaded my gun and exmined
+the place which was dusty and saw the track from which I am still further convinced that it was of the tiger kind.    whether I struck it or not I could not determine, but I am almost confident that I did; my gun is true and I had a steady rest by means of my espontoon, which I have found very serviceable to me in this way in the open plains. It now seemed to me that all the beasts of the neighbourhood had made a league to distroy me, or that some fortune was disposed to amuse herself at my expence, for I had not proceded more than three hundred yards from the burrow of this tyger cat, before three bull buffaloe, which wer feeding with a large herd about half a mile from me on my left, 〈singled〉 seperated from the herd and ran full speed towards me, I thought at least to give them some amusement and altered my direction to meet them; when they arrived within a hundred yards they mad a halt, took a good view of me and retreated with precipitation. I then continued my rout homewards passed the buffaloe which I had killed, but did not think it prudent to remain all night at this place which really from the succession of curious adventures wore the impression on my mind of inchantment; at sometimes for a moment I thought it might be a dream, but the prickley pears which pierced my feet very severely once in a while, particularly after it grew dark, convinced me that I was really awake, and that it was necessary to make the best of my way to <ref target="n15061409" n="9">camp.</ref>    it was sometime after dark before I returned to the party; I found them extremely uneasy for my safety; they had formed a thousand conjectures, all of which equally forboding my death, which they had so far settled among them, that they had already agreed on the rout which each should take in the morning to surch for me. I felt myself much fortiegued, but eat a hearty supper and took a good night's rest.—    the weather being warm I had left my leather over shirt and had woarn only a yellow flannin one. </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-06-14.02" n="lc.geo.1805-06-14.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">June 14th Friday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+a fine morning, <name type="person" key="Sacagawea">the Indian woman</name> complaining all night &amp; excessively bad this morning—    her case is Somewhat dangerous—    two men with the Tooth ake 2 with Tumers, &amp; one man with a Tumor &amp; Slight fever passed the Camp <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> made the 1st night at which place he had left part of two bear their skins &amp;c    three men with Tumers went on shore and Stayed out all night    one of them killed 2 buffalow, a part of which we made use of for brackfast, the Current excesevely rapid more So as we assend    we find great difficuelty in getting the Perogue &amp; Canoes up in Safety, Canoes take in water frequently, at 4 oClock this evening <name type="person" key="Field, Joseph">Jo: Fields</name> returned from <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> with a letter for me, <name type="person" key="Lewis, Meriwether">Capt Lewis</name> dates his letter from the Great <name type="place" key="Missouri River, Great Falls of the">falls of the Missouri</name>, which Fields informs me is about 20 miles in advance &amp; about 10 miles above the place I left the river the time I was up last week    <name type="person" key="Lewis, Meriwether">Capt. L.</name> informs the [party?] that those falls; in part answer the discription given of them by the Indians, much higher    the Eagles nest which they describe is there, from those Signs he is Convinced of this being the river the Indians call the <name type="place" key="Missouri River">Missouri</name>, he intends examineing the river above untill my arrival at a point from which we can make a portage, which he is apprehensive will be at least 5 miles &amp; both above &amp; below there is Several Small pitches, &amp; Swift troubled water    we made only 10 miles to day and <ref target="n15061410" n="10">Camped on the Lard Side,</ref>
+                  <ref target="n15061411" n="11">much hard Slate in the Clifts</ref> &amp; but a Small quantity of timber. </p>
+               <p>
+                  <table rows="14" cols="3">
+                     <head>
+                        <hi rend="italic">Course &amp; Distance June 14th</hi>
+                        <ref target="n15061412" n="12"/>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">miles</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 35° W.</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">to a Small Island in the Lard bend passing Sundery bad<lb/>
+places</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 55° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to a tree on the Lard Side opsd. 〈an Island〉 a bluff    passed<lb/>
+a Island near Std. Side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 70° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to the Lard point passing an Island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to a tree in the bend Stard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a clift on the Lard. Side at a rapid</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  1</cell>
+                        <cell role="data" rows="1" cols="1">to the 〈upper〉 pt. 〈of a small Island in a〉 on the Lard Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 45° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to the upper pt. of a small Isld. 〈in a bend〉 in a Stard.<lb/>
+bend opposit a large Island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 10° W.</cell>
+                        <cell role="data" rows="1" cols="1">  1 ¼</cell>
+                        <cell role="data" rows="1" cols="1">to naked point on the Stard. Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 70° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to my old Camp of the 4th inst: on the Stard Side opsd. a<lb/>
+large gravely Bar.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">South</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">the upper point of an <ref target="n15061413" n="13">Island</ref>
+                        </cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 56° W.</cell>
+                        <cell role="data" rows="1" cols="1">     ½</cell>
+                        <cell role="data" rows="1" cols="1">on the Stard Side to a bluff</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 60° W.</cell>
+                        <cell role="data" rend="underline" rows="1" cols="1">     ¼</cell>
+                        <cell role="data" rows="1" cols="1">to a wood on the Lard point &amp; Campd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">miles </hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">10 ¼</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-06-14.03" n="lc.geo.1805-06-14.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 14 June 1805</hi>.    a fare pleasant morning    3 men lay out last    2 of them had Sore hands the other Sick.    proceeded on    passed a bottom on N. S. where <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> &amp; men had Camped 1 night &amp; killed 2 bears &amp; one Deer &amp; left the Skins &amp; fat for us to take on board.    the 2 men who lay out on that Side we found here.    at breakfast we came up with the other man who had killed the evening before 2 buffalow &amp; 2 Deer.    we proceeded on passed verry high bluffs on each Side of the River and Several Islands covered with cotton timber.    the current verry rapid all day.    our Intrepter wife verry Sick.    one of the men a light feaver.    we Came 10 miles to day through a verry rapid current, and Camped<ref target="n15061414" n="14"/> on the Lard. Side at a Small bottom of cotton timber.—
+
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-06-14.04" n="lc.geo.1805-06-14.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 14th.</hi>    We embarked early, and the morning was pleasant. About 7 o'clock A. M. we passed a place where <name type="person" key="Lewis, Meriwether">Captain Lewis</name> and his men had killed two bears, and had left a note directing us where to find them. About 2 one of <name type="person" key="Lewis, Meriwether">Captain Lewis's</name> men met us,<ref target="n15061415" n="15"/> and informed us that the falls were about 20 miles above; and that <name type="person" key="Lewis, Meriwether">Captain Lewis</name> and the other three men, were gone on to examine what the distance was above the falls, before we could take the water again. We went 10 miles and encamped in a small bottom on the south side.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-06-14.05" n="lc.geo.1805-06-14.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 14th June 1805</hi>.    a fare pleasant morning.    2 men lay out all last night, which walked on Shore    one a lame hand the other 2 sick.    we proceeded on.    passed the place where <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> had camped as he went up.    had left 2 bear Skins &amp; [<hi rend="italic">illegible word</hi>] one Deer Skin which they had killed.    2 of the men lay by it last night.    at breakfast we came up to the other man which had killed 2 buffalow &amp; a deer.    we proceeded on    passed verry high bluffs on each Side, &amp; Several Islands of cotton timber.    the current verry rapid all day.    our Intrepters wife verry Sick &amp; I am verry Sick myself    about 4 oC. P. M. we met one man which <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> Sent back to meet us.    he informed us that he came from <name type="place" key="Missouri River, Great Falls of the">the falls</name> to day, &amp; that they were verry bad, &amp;c. about 20 miles from us above, &amp; that <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> &amp; the other three men was a going to the head of the falls, in order to examine how far it was before we could take water again.    we went 10 miles to day through a verry rapid current, and Camped at a Small bottom on the Lard. Side.    we Saw a nomber of dead buffalow floating down the River which we expect was killed in the falls.</p>
+               <p>
+Friday June 14th    This morning, we had pleasant weather.    Two of our Men, 〈that had〉 laid out all night; they had walked along shore Yesterday; came to us, the one had a lame hand, and the other was very sick; we proceeded on our Voyage, &amp; passed a place, where <name type="person" key="Lewis, Meriwether">Captain Lewis</name> had encamped at, on his way to the falls of this River, he had left there, 2 bear, &amp; One deer, that his party had killed; we found 2 of his party at that place, who were left to take care of it, till we came on</p>
+               <p>
+At 9 oClock A. M we halted to break fast, here we found another of <name type="person" key="Lewis, Meriwether">Captain Lewis's</name> party, who had killed 2 Buffalo, and one deer, which we had brought to our Crafts, by some of our party, At 11 o'Clock A. M. we proceeded on, and passed very high bluffs lying on each side of the River, and several Islands, cover'd with Cotton wood Timber, We found the current of the River run very rapid all this day, Our Interpreters Wife (an Indian) and one of our party was very sick all this day.—    About 4 o'Clock P. M. we met one of <name type="person" key="Lewis, Meriwether">Captain Lewis's</name> party which was sent back to us; who inform'd us, that he had come from <name type="place" key="Missouri River, Great Falls of the">the falls</name> of this River to day, and that they were very bad
+to assend &amp; that they lay 30 Miles above us, He likewise mentioned that <name type="person" key="Lewis, Meriwether">Captain Lewis</name> and the remainder of his party had gone on to the head of <name type="place" key="Missouri River, Great Falls of the">the falls</name>, in order to find out, how far the distance was; before we could  undertake, to go by water again.—    We came only ten Miles this day; having a very rapid Current setting against us, and encamped in a small bottom, lying on the South side of the River, where we saw a number of dead buffalo 〈dead〉 floating down the River, which we expected had been killed in the falls of this River.—
+
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n15061401" n="1">
+               <name type="place" key="Crooked Falls">Crooked Falls</name> still bears that name. <hi rend="italic">Atlas</hi> maps 44, 54, 61; MRC map 77.</note>
+            <note xml:id="n15061402" n="2">
+               <name type="place" key="Rainbow (Handsome, Beautiful) Falls">Rainbow Falls</name>, <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark's</name> "<name type="place" key="Rainbow (Handsome, Beautiful) Falls">Handsom Falls</name>," now greatly altered by <name type="place" key="Rainbow Dam">Rainbow Dam</name>. <hi rend="italic">Atlas</hi> maps 44, 54, 61; MRC map 77.</note>
+            <note xml:id="n15061403" n="3">
+               <name type="place" key="Colter Falls">Colter Falls</name> (now submerged), it does not appear on <hi rend="italic">Atlas</hi> maps 42, 54 and 61. MRC map 77.</note>
+            <note xml:id="n15061404" n="4">
+               <name type="place" key="Black Eagle (Upper) Falls">Black Eagle Falls</name>, just below the present town of <name type="place" key="Black Eagle, Mont.">Black Eagle</name>, <name type="place" key="Cascade County, Mont.">Cascade County</name>, <name type="place" key="Montana">Montana</name>. The eagle's nest on the island below the falls, a distinguishing feature referred to by the <name type="native_nation" key="Hidatsa Indians">Hidatsas</name> in their directions to the captains, was still there in 1860. Wheeler, 1:322–23; <hi rend="italic">Atlas</hi> maps 42, 54, 61; MRC map 77.</note>
+            <note xml:id="n15061405" n="5">Probably the <name type="place" key="Schuylkill River">Schuylkill River</name> in <name type="place" key="Pennsylvania">Pennsylvania</name>.</note>
+            <note xml:id="n15061406" n="6">Today's <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Sun River</name>, which meets the <name type="place" key="Missouri River">Missouri</name> at the present city of <name type="place" key="Missouri River, Great Falls of the">Great Falls</name>. <hi rend="italic">Atlas</hi> maps 54, 61; MRC map 77.</note>
+            <note xml:id="n15061407" n="7">The north bank of the <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Sun River</name> is alluvium derived from dark-gray shales of the
+<name type="place" key="Blackleaf Formation">Blackleaf Formation</name>. The south bank is composed of clay, silt, and sand deposited in <name type="place" key="Glacial Lake (Mont.)">Glacial Lake</name>, <name type="place" key="Missouri River, Great Falls of the">Great Falls</name>, during the glacial period.</note>
+            <note xml:id="n15061408" n="8">Perhaps a wolverine, <hi rend="italic">Gulo luscus</hi> (or <hi rend="italic">G. gulo</hi>). Burroughs, 82–83; Hall, 2:1006–9; Jones et al., 297–98.</note>
+            <note xml:id="n15061409" n="9">Evidently the same as the previous night's camp.</note>
+            <note xml:id="n15061410" n="10">The campsite, in <name type="place" key="Chouteau County, Mont.">Chouteau County</name>, <name type="place" key="Montana">Montana</name>, is on the wrong side of the river on <hi rend="italic">Atlas</hi> map 61. It was near the entrance of <name type="place" key="Black Coulee (Lark Creek)">Black Coulee</name>. <hi rend="italic">Atlas</hi> maps 42, 54; MRC map 76; USGS map <name type="place" key="Fort Benton, Mont.">Fort Benton</name>.</note>
+            <note xml:id="n15061411" n="11">The "slate" is dark gray shale and siltstone of the <name type="place" key="Marias River">Marias River</name> Shale and <name type="place" key="Blackleaf Formation">Blackleaf
+Formation</name>.</note>
+            <note xml:id="n15061412" n="12">Also given on <hi rend="italic">Atlas</hi> map 42, in <name type="person" key="Clark, William">Clark's</name> hand.</note>
+            <note xml:id="n15061413" n="13">Perhaps later <name type="place" key="Black Bluff Island">Black Bluff Island</name>, that has since disappeared. <hi rend="italic">Atlas</hi> maps 42, 54, 61; MRC map 76.</note>
+            <note xml:id="n15061414" n="14">Near the entrance of <name type="place" key="Black Coulee (Lark Creek)">Black Coulee</name>, <name type="place" key="Chouteau County, Mont.">Chouteau County</name>, <name type="place" key="Montana">Montana</name>.</note>
+            <note xml:id="n15061415" n="15">
+               <name type="person" key="Field, Joseph">Joseph Field</name>; <name type="person" key="Clark, William">Clark</name> and <name type="person" key="Whitehouse, Joseph">Whitehouse</name> put the time at four o'clock.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-06-13" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-06-15" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

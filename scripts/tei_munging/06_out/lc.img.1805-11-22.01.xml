@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.img.1805-11-22.01">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">University of Nebraska Press Map Images</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2005</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>University of Nebraska Press</title>
+               <note>http://www.nebraskapress.unl.edu/</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Images</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Map Images</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term n="image">Map</term>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2005-03-23</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <list type="simple">
+            <item>
+               <figure n="n1805-11-22.01.jpg">
+                  <p>
+                     <label>Fort Clatsop Environs</label>
+                     <caption>Fort Clatsop Environs,<lb/>
+December 7, 1805–March 23, 1806</caption>
+                     <bibl>
+                        <title>Journals</title>
+                        <biblScope type="volume">6</biblScope>
+                        <date>1990</date>
+                        <orgName>University of Nebraska Press</orgName>
+                        <note>Permission to reproduce image required.</note>
+                        <note>
+                           <ref target="http://www.nebraskapress.unl.edu/">http://www.nebraskapress.unl.edu/</ref>
+                        </note>
+                     </bibl>
+                  </p>
+               </figure>
+            </item>
+         </list>
+      </body>
+   </text>
+</TEI>

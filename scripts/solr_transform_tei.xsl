@@ -32,7 +32,7 @@
         
 
   <!-- ==================================================================== -->
-  <!--                            OVERRIDES    - individual fields                             -->
+  <!--              OVERRIDES    - individual fields                        -->
   <!-- ==================================================================== -->
   
   <xsl:template name="title">
@@ -185,8 +185,26 @@
    
       
       <!-- ==============================
-        resource identification 
+        resource identification (I have removed the fields that need to be treated individually and added them above -kmd)
         ===================================-->
+    
+      <!-- lc_previous_s -->
+      
+      <xsl:if test="//back//ptr[@type='prev']/@n">
+        <field name="lc_previous_s">
+          <xsl:text>lc.jrn.</xsl:text>
+          <xsl:value-of select="//back//ptr[@type='prev']/@n"/>
+        </field>
+      </xsl:if>
+      
+      <!-- lc_next_s -->
+    
+      <xsl:if test="//back//ptr[@type='next']">
+        <field name="lc_next_s">
+          <xsl:text>lc.jrn.</xsl:text>
+          <xsl:value-of select="//back//ptr[@type='next']/@n"/>
+        </field>
+      </xsl:if>
       
       <!-- lc_filename_s -->
       <!-- filename (because entries may be different ID) -->

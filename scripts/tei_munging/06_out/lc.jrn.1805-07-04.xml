@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-07-04">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+July 4, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 4</title>
+               <title level="m" type="sub">April7–July 27, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">359-362</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">179</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">109</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">217-218</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-02-06</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-07-04">July 4, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-07-04.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Thursday July 4th 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+Yesterday we permitted <name type="person" key="Gass, Patrick">Sergt. Gass</name>
+                  <name type="person" key="McNeal, Hugh">McNeal</name> and several others who had not yet seen <name type="place" key="Missouri River, Great Falls of the">the falls</name> to visit them.    no appearance of tar yet and I am now confident that we shall not be able to obtain any; a serious misfortune. I employed a number of hands on the boat today and by 4 P. M. in the evening completed her except the most difficult part of the work that of making her seams secure. I had her turned up and some small fires kindled underneath to dry her. <name type="person" key="Clark, William">Capt. C.</name> completed a draught of the river from <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name> to this place which we intend depositing at this place in order to guard against accedents.    not having seen the <name type="native_nation" key="Shoshone Indians">Snake</name> Indians or knowing in fact whether to calculate on their friendship or hostility or friendship we have conceived our party sufficiently small and therefore have concluded not to dispatch a canoe with a part of our men to <name type="place" key="Saint Louis, Mo.">St. Louis</name> as we had intended early in the spring.    we fear also that such a measure might possibly discourage those who would in such case remain, and might possibly hazzard the fate of the expedition.    we have never once hinted to any one of the party that we had such a scheme in contemplation, and all appear perfectly to have made up their minds to suceed in the expedition or purish in the attempt.    we all beleive that we are now about to enter on the most perilous and difficult part of our voyage, yet I see no one repining; all appear ready to met those difficulties which wait us with resolution and becoming fortitude.    we had a heavy dew this morning.    the clouds near these mountains rise suddonly and <ref target="n16070401" n="1">discharge their</ref> contents partially on the neighbouring plains; the same cloud will discharge hail alone in one part hail and rain in another and rain only in a third all within the space of a few miles; and on the Mountains to the S. E. of us sometimes snow.    at present there is no snow on those mountains; that which covered them when we first saw them and which has fallen on them several times since has all disappeared.    the Mountains to the N. W. &amp; W. of us are still entirely covered are white and glitter with the reflection of the sun. I do not beleive that the clouds which prevail at this season of the year reach the summits of those lofty mountains; and if they do the probability is that they deposit snow only for there has been no perceptible deminution of the snow which they contain since we first saw them. I have thought it probable that these mountains might have derived their appellation of <hi rend="italic">
+                     <name type="place" key="Rocky Mountains">shining Mountains</name>
+                  </hi>, from their glittering appearance when the sun shines in certain directions on the snow which covers them.    since our arrival at the falls we have repeatedly witnessed a nois which proceeds from a direction a little to the N. of West as loud and resembling precisely the discharge of a piece of ordinance of 6 pounds at the distance of three miles. I was informed of it by the men several times before I paid any attention to it, thinking it was thunder most probably which they had mistaken    at length walking in the plains the other day I heard this noise very distictly, it was perfectly calm clear and not a cloud to be seen, I halted and listened attentively about an hour during which time I heard two other discharges and tok the direction of the sound with my pocket compass. I have no doubt but if I had leasure I could find from whence it issued. I have thout it probable that it might be caused by runing water in some of the caverns of those immence mountains, on the principal of the <name type="place" key="Blowing Cave">blowing caverns</name>; but in such case the sounds would be periodical &amp; regular, which is not the case with this, being sometimes heard once only and at other times, six or seven discharges in quick succession.    it is heard also at different seasons of the day and night. I am at a loss to account for this  phenomenon.    our work being at an end this evening, we gave the men a drink of sperits, it being the last of our stock, and some of them appeared a little sensible of it's effects    the fiddle was plyed and they danced very merrily untill 9 in the evening when a heavy shower of rain put an end to that part of the amusement tho' they continued their mirth with songs and festive jokes and were extreemly merry untill late at night.    we had a very comfortable dinner, of bacon, beans, suit dumplings &amp; buffaloe beaf &amp;c.    in short we had no just cause to covet the sumptuous feasts of our countrymen on this day.—    one Elk and a beaver were all that was killed by the hunters today; the buffaloe seem to have withdrawn themselves from this neighbourhood; tho the men inform us that they are still abundant about <name type="place" key="Missouri River, Great Falls of the">the falls</name>.—</p>
+               <p>
+                  <figure rend="aps">
+                     <p>
+                        <name type="place" key="Missouri River, Great Falls of the">Falls</name> and Portage of the <name type="place" key="Missouri River">Missouri River</name>, ca. July 4, 1805, Codex E, pp. 132–33
+<bibl>
+                           <orgName>(American Philosophical Society library, </orgName>
+                           <note place="inline"> used with permission.)</note>
+                        </bibl>
+                     </p>
+                  </figure>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-07-04.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">July the 4th Thursday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+A fine morning, a heavy dew last night, all hands employed in Completeing the leather boat, gave the Party a dram which made Several verry lively, a black Cloud came up from the S. W, and rained a fiew drops    I employ my Self drawing a Copy of the river to be left at this place for fear of Some accident in advance, I have left buried below the falls a Map of the Countrey below <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name> with Sundery private papers    the party amused themselves danceing untill late when a Shower of rain broke up the amusement, all lively and Chearfull, one Elk and a beaver kill'd to day.    our Tar kill like to turn out nothing from the following cause.</p>
+               <p>
+The climate about the <name type="place" key="Missouri River, Great Falls of the">falls of Missouri</name> appears to be Singular Cloudy every day (Since our arrival near them) which rise from defferent directions and discharge themselves partially in the plains &amp; mountains, in Some places rain others rain &amp; hail, hail alone, and on the mountains in Some parts Snow.    a rumbling like Cannon at a great distance is heard to the west if us; the Cause we Can't account</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-07-04.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">July 4th Thursday</hi> 1805.    a beautiful clear pleasant warm morning.    the most of the men employed putting the sections of the Iron boat together &amp;C.    one of the hunters went on bear Island a Short time and killed an Elk and a beaver.    we Saved the Skins and Some of the meat.    we finished puting the Iron boat together and turned hir on one side to dry.    it being the 4th of Independence we drank the last of our ardent Spirits except a little reserved for Sickness.    the fiddle put in order and the party amused themselves dancing all the evening untill about 10 oClock in a Sivel &amp; jovil manner.    late in the evening we had a light Shower of rain but did not last long.—
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-07-04.04" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Thursday 4th.</hi>  A fine day. A part of the men were busily engaged at the boat, and other in dressing skins for clothing, until about 4 o'clock in the afternoon, when we drank the last of our spirits in celebrating the day, and amused ourselves with dancing till 9 o'clock at night, when a shower of rain fell and we retired to rest.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-07-04.05" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">July 4th Thursday 1805</hi>.    a clear beautiful morning.    the most of the men employed putting the Sections of the Iron boat together &amp;c. &amp;c.    one of the hunters went on <name type="place" key="White Bear Islands">bear Island</name>
+                  <ref target="n16070402" n="2"/> and killed an Elk and a beaver.    we finished putting the Iron boat together and turned hir up to dry.    towards evening our officers gave the party the last of the ardent Spirits except a little reserved for Sickness.    we all amused ourselved dancing untill 10 oClock in the evening.    at which time we had a light Shower of rain, the party all in good Spirits keeping up the 4th of July &amp;c. as Independence.—</p>
+               <p>
+Thursday July 4th    This morning we had Clear weather, the most of the party were employed, putting the Sections of the Iron boat together &amp;ca—.    One of the hunters went over to <name type="place" key="White Bear Islands">bear Island</name>, and killed an Elk, and one Beaver; we finished putting the Iron boat together, and turned her bottom up to dry.—    Towards evening Our officers gave the party the last of the ardent Spirit that we had (excepting a little that they reserved for sickness)—    We amused ourselves with frolicking, dancing &amp;ca. untill 9 o'Clock P. M. in honor of the day.    In the Evening we had a slight shower of Rain, but it soon cleared away, &amp; we had fine weather—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n16070401" n="1">At this point in Codex E is the sketch "Draught of <name type="place" key="Missouri River, Great Falls of the">the Falls</name> and Portage" (see figure).</note>
+            <note xml:id="n16070402" n="2">The <name type="place" key="White Bear Islands">White Bear Islands</name>, opposite the <name type="place" key="Upper portage camp (Mont.)">upper portage, or White Bear Islands, camp</name>, have
+virtually disappeared under the <name type="place" key="Missouri River">Missouri's</name> waters.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-07-03" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-07-05" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

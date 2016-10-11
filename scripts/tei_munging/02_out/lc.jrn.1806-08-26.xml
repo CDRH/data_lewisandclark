@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-08-26">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 26, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">323-325</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">354</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">272</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-08-26.01">
+            <placeName/>
+            <geo>44.05 -99.45</geo>
+            <note>Camped in Lyman County, SD, four miles above the mouth of Medicine River. Now inundated by Lake Sharpe.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-12-17</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-08-26">August 26, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-08-26.01" n="lc.geo.1806-08-26.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Tuesday 26th of August 1806</hi>
+                  </date>
+               </ab>
+               <p>
+a heavy dew this morning    the hunters or <name type="person" key="Shannon, George">Shannon</name> &amp; the <name type="person" key="Field, Joseph and Reubin">2 fields</name> came up at Sunrise and we Set out, they had killed only 2 Small deer one of which they had eat    at 8 passed the place the <name type="native_nation" key="Sioux Indians, Teton">Tetons</name> were encamped at the time they attempted to Stop us in Septr. 1804,<ref target="n39082601" n="1"/> and at 9 A. M. passed the enterance of <name type="place" key="Bad (Teton) River (S. Dak.)">Teton River</name>.<ref target="n39082602" n="2"/> Saw Several black tail or Mule deer and Sent out to kill them but they were wild and the hunters Could not get a Shot at either of them.    a fiew miles below the <name type="place" key="Bad (Teton) River (S. Dak.)">Teton river</name> I observed a buffalow Skin Canoe lying on the S Shore and a Short distance lower a raft which induces me to Suspect that the <name type="native_nation" key="Sioux Indians, Teton">Tetons</name> are not on the <name type="place" key="Missouri River, Big Bend of the">Missouri at the big bend</name> as we were informed by the <name type="native_nation" key="Arikara Indians">Ricaras</name>, but up the <name type="place" key="Bad (Teton) River (S. Dak.)">Teton river</name>.    at Meridn. we halted on the N E. Side opposit a handsom leavel plain in which there is great quantities of plumbs<ref target="n39082603" n="3"/> which are not yet ripe.    we passed the enteranc of <name type="place" key="La Chapelle (Smoke) Creek">Smoke Creek</name>
+                  <ref target="n39082604" n="4"/> and landed and Continued two hours to Stop a leak in the perogue and fix the Stearing oare, Saw great quantities of Grapes,<ref target="n39082605" n="5"/> they are black tho' not thurerly ripe.    at 5 P M. we landed a <name type="place" key="Fort aux Cedres (S. Dak.)">Louisells fort</name> on <name type="place" key="Dorion Island No. 2 (Cedar Island)">Ceder Island</name>,<ref target="n39082606" n="6"/> this fort is entire and every part appears to be in the Same state it was when we passed it in Septr. 1804. I observed the appearance of 3 fires in the houses which appeared to have been made 10 or 12 days past.    we proceeded on about 10 miles lower and encamped on the S. W. Side opposit our outward bound encampment of the 21st of Septr. 1804, a fiew miles above <name type="place" key="Medicine (Tylor's, Turkey) River">Tylors River</name>.<ref target="n39082607" n="7"/>    we had a Stiff breeze from the S. E. which continued to blow the greater part of the night dry and pleasent.    as we were now in the Country where we were informed the <name type="native_nation" key="Sioux Indians">Sceoux</name> were assembled we were much on our guard deturmined to put up with no insults from those bands of <name type="native_nation" key="Sioux Indians">Seioux</name>, all the arms &amp;. in perfect order. <name type="person" key="Lewis, Meriwether">Capt. L.</name> is Still on the mending hand    he walks a little. I have discontinued the tent in the hole where the ball entered, agreeable to his request.    he tells me that he is fully Convinced that the wound is sufficiently heeled for the tents to be discontinued.    we made <hi rend="italic">60</hi> miles to day with the wind ahead greater part of the day—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-26.02" n="lc.geo.1806-08-26.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday 26th August 1806.    a fair morning.    we set out as usal and procd on verry well    passd the Mouth of <name type="place" key="Bad (Teton) River (S. Dak.)">Teton River</name> about 9 A. M.    procd on verry well without halting to cook this day and Camped at a bluff Some distance below <name type="place" key="Fort aux Cedres (S. Dak.)">Louisells fort</name> and <name type="place" key="Dorion Island No. 2 (Cedar Island)">cedders Island</name> which we passd. little before night.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-26.03" n="lc.geo.1806-08-26.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 26th.</hi>    We set out early, and had a pleasant morning; passed <name type="place" key="Bad (Teton) River (S. Dak.)">Teeton river</name>, but saw no signs of the <name type="native_nation" key="Sioux Indians, Teton">Teeton</name> band of the <name type="native_nation" key="Sioux Indians">Sioux</name> nation. In the evening we passed <name type="person" key="Fort aux Cedres (S. Dak.)">Landselle's fort</name>; but found no persons inhabiting it. At dark we encamped after coming about sixty miles.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n39082601" n="1">This area is in <name type="place" key="Stanley County, S. Dak.">Stanley County</name>, <name type="place" key="South Dakota">South Dakota</name>, above the mouth of <name type="place" key="Bad (Teton) River (S. Dak.)">Bad "Teton" River</name>. See the description of this episode in the entries for <ref n="1804-09-26" type="related">September 26</ref>, <ref n="1804-09-27" type="related">27</ref>, and <ref n="1804-09-28" type="related">28</ref>, 1804. Mattison (OR), 30–33; <hi rend="italic">Atlas</hi> map 23; MRC maps 40, 41.</note>
+            <note xml:id="n39082602" n="2">The party first reached the <name type="place" key="Bad (Teton) River (S. Dak.)">Bad "Teton" River</name>, where they had an unpleasant encounter with the <name type="native_nation" key="Sioux Indians, Teton">Teton Sioux</name>, on <ref n="1804-09-24" type="related">September 24, 1804</ref>. It enters the <name type="place" key="Missouri River">Missouri</name> in <name type="place" key="Stanley County, S. Dak.">Stanley County</name>, <name type="place" key="South Dakota">South Dakota</name>, opposite <name type="place" key="Pierre, S. Dak.">Pierre</name>. <hi rend="italic">Atlas</hi> map 23; MRC map 40.</note>
+            <note xml:id="n39082603" n="3">The wild plum, <hi rend="italic">Prunus americana</hi> Marsh., does not ripen until September. Barkley, 146.</note>
+            <note xml:id="n39082604" n="4">
+               <name type="place" key="La Chapelle (Smoke) Creek">Smoke Creek</name> is now <name type="place" key="La Chapelle (Smoke) Creek">La Chapelle</name>, or <name type="place" key="La Chapelle (Smoke) Creek">Chapelle Creek</name>, in <name type="place" key="Hughes County, S. Dak.">Hughes County</name>, <name type="place" key="South Dakota">South Dakota</name>. The party first passed it on <ref n="1804-09-23" type="related">September 23, 1804</ref>. Mattison (BB), 263–65; <hi rend="italic">Atlas</hi> map 22; MRC map 39.</note>
+            <note xml:id="n39082605" n="5">River-bank grape again.</note>
+            <note xml:id="n39082606" n="6">
+               <name type="person" key="Loisel, Régis">Régis Loisel's</name>
+               <name type="place" key="Fort aux Cedres (S. Dak.)">Fort aux Cedres</name>, on the later <name type="place" key="Dorion Island No. 2 (Cedar Island)">Dorion Island No. 2</name>; see <ref n="1804-05-25" type="related">May 25</ref> and <ref n="1804-09-22" type="related">September 22, 1804</ref>. Mattison (BB), 261–63; <hi rend="italic">Atlas</hi> map 22; MRC map 39; MRY map 62.</note>
+            <note xml:id="n39082607" n="7">The camp of <ref n="1804-09-21" type="related">September 21, 1804</ref>, was in <name type="place" key="Hughes County, S. Dak.">Hughes County</name>, at or just below the "<name type="place" key="Mock Island">Mock Island</name>" of <hi rend="italic">Atlas</hi> map 22; the present camp was opposite in <name type="place" key="Lyman County, S. Dak.">Lyman County</name>, <name type="place" key="South Dakota">South Dakota</name>, some four miles above the mouth of <name type="place" key="Medicine (Tylor's, Turkey) River">Medicine River, or Creek</name> (<name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark's</name> "<name type="place" key="Medicine (Tylor's, Turkey) River">Tylors River</name>"). The site would now be inundated by <name type="place" key="Lake Sharpe">Lake Sharpe (Big Bend Reservoir)</name>. Mattison (BB), 260–61; MRC map 39.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-08-25" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-08-27" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-09-03">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+September 3, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">346-348</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">358</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">275</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-09-03.01">
+            <placeName/>
+            <geo>42.5167 -96.4667</geo>
+            <note>Camped either in Union County, SD, or Dakota County, NE, some miles up the Missouri from present Sioux City.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-12-21</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-09-03">September 3, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-09-03.01" n="lc.geo.1806-09-03.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday 3rd of September 1806</hi>
+                  </date>
+               </ab>
+               <p>
+Wind Continued to blow very hard this morning.    it Shifted last night to the S. W. and blew the Sand over us in Such a manner as to render the after part of the night very disagreeable.    the wind luled a little and we Set out and proceeded on with the wind a head    passed the enterance of <name type="place" key="Vermillion (White Stone) River (S. Dak.)">redstone River</name>
+                  <ref target="n40090301" n="1"/> on the N E. Side at 11 A M. and at half past 4 P. M we Spied two boats<ref target="n40090302" n="2"/> &amp; Several men, our party peyed their Ores and we Soon landed on the Side of the Boats    the men of these boats Saluted us with their Small arms I landed &amp; was met by a <name type="person" key="Aird, James">Mr. James Airs</name>
+                  <ref target="n40090303" n="3"/> from Mackanaw by way of <name type="place" key="Prairie du Chien">Prarie Dechien</name> and <name type="place" key="Saint Louis, Mo.">St. Louis</name>.    this Gentleman is of the house of <name type="person" key="Dickson, Joseph">Dickson</name> &amp; Co: of <name type="place" key="Prairie du Chien">Prarie de Chian</name> who has a Licence to trade for one year with the <name type="native_nation" key="Sioux Indians">Sieoux</name>    he has 2 Batteaux loaded with Merchendize for that purpose. This Gentleman receved both <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> and my Self with every mark of friendship he was himself at the time with a chill of the agu on him which he has had for Several days.    our first enquirey was after the President of our country and then our friends and the State of the politicks of our country &amp;c. and the State Indian affairs to all of which enquireys <name type="person" key="Aird, James">Mr. Aires</name> gave us as Satisfactory information as he had it in his power to have Collected in the <name type="place" key="Illinois">Illinois</name> which was not a great deel. soon after we Landed a violent Storm of Thunder Lightning and rain from the N W. which was violent with hard Claps of thunder and Sharp Lightning which continued untill 10 P M after which the wind blew hard. I set up late and partook of the tent of <name type="person" key="Aird, James">Mr. Aires</name> which was dry. <name type="person" key="Aird, James">Mr. Aires</name> unfortunately had his boat Sunk on the 25 of July last by a violent Storm of Wind and hail by which accident he lost the most of his usefull articles as he informed. us.    this Gentleman informed us of maney Changes &amp; misfortunes which had taken place in the <name type="place" key="Illinois">Illinois</name> amongst others the loss of <name type="place" key="Chouteau, Jean Pierre">Mr. Cady Choteaus</name> house and furniture by fire.<ref target="n40090304" n="4"/>    for this misfortune of our friend <name type="place" key="Chouteau, Jean Pierre">Choteaus</name> I feel my Self very much Concernd &amp;c.    he also informed us that <name type="person" key="Wilkinson, James">Genl. Wilkinson</name>
+                  <ref target="n40090305" n="5"/> was the governor of the <name type="place" key="Louisiana">Louisiana</name> and at <name type="place" key="Saint Louis, Mo.">St. Louis</name>.    300 of the american Troops had been Contuned on the <name type="place" key="Missouri River">Missouri</name> a fiew miles above it's mouth, Some disturbance with the Spaniards in the <name type="place" key="Natchitoches, La.">Nackatosh Country</name>
+                  <ref target="n40090306" n="6"/> is the Cause of their being Called down to that Country, the Spaniards had taken one of the U, States frigates in the Mediteranean,<ref target="n40090307" n="7"/> Two British Ships of the line had fired on an American Ship in the port of <name type="place" key="New York">New York</name>, and killed the Capts. brother.<ref target="n40090308" n="8"/>    2 Indians had been hung in <name type="place" key="Saint Louis, Mo.">St. Louis</name> for murder and several others in jale.<ref target="n40090309" n="9"/> and that <name type="person" key="Burr, Aaron">Mr. Burr</name> &amp; <name type="person" key="Hamilton, Alexander">genl. Hambleton</name> fought a Duel, the latter was killed &amp;c. &amp;c.<ref target="n40090310" n="10"/> I am happy to find that my worthy friend <name type="person" key="Lewis, Meriwether">Capt L's</name> is so well as to walk about with ease to himself &amp;c., we made <hi rend="italic">60</hi> Miles to day    the river much crowded with Sand bars, which are very differently Situated from what they were when we went up.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-09-03.02" n="lc.geo.1806-09-03.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 3rd Sept. 1806.    we Set out and procd. on as usal.    the day warm &amp; Sultry.    towards evening we passd. the <name type="place" key="Calumet Bluff (Nebr.)">Calimet bluffs</name>    a Short distance below we met an American trador by the name of <name type="person" key="Aird, James">Herd</name>.    he had two Batteaux and 18 hands and are on their way to the <name type="native_nation" key="Sioux Indians, Brulé or Bois Brule">babruleys</name> and <name type="native_nation" key="Sioux Indians, Yankton">yanktons</name> near <name type="place" key="Vermillion (White Stone) River (S. Dak.)">white Stone River</name>
+                  <ref target="n40090311" n="11"/> in order to trade with those nations and the <name type="native_nation" key="Omaha Indians">Mahars</name> also—    <name type="person" key="Aird, James">Mr. Herd</name> informed us of the news of the States &amp;C    a verry hard Storm of wind and hard rain this evening.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-09-03.03" n="lc.geo.1806-09-03.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 3rd.</hi>    In a pleasant morning we got early under way, and went very well all day. About 5 o'clock in the afternoon, we met a <name type="person" key="Aird, James">Mr. Aird</name>, a trader, who was going up the <name type="place" key="Missouri River">Missouri</name>, and we encamped with him. At sunset a violent gust of wind and rain, with thunder and lightning came on and lasted two hours.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n40090301" n="1">
+               <name type="place" key="Vermillion (White Stone) River (S. Dak.)">Vermillion River</name>, first reached on <ref n="1804-08-24" type="related">August 24, 1804</ref>, joins the <name type="place" key="Missouri River">Missouri</name> in <name type="place" key="Clay County, S. Dak.">Clay County</name>, <name type="place" key="South Dakota">South Dakota</name>, southeast of present <name type="place" key="Vermillion, S. Dak.">Vermillion</name>. <name type="person" key="Clark, William">Clark</name> called it the "<name type="place" key="Vermillion (White Stone) River (S. Dak.)">White Stone River</name>" on the westbound trip. <hi rend="italic">Atlas</hi> map 17; MRC map 29.</note>
+            <note xml:id="n40090302" n="2">This location, where they apparently camped for the night, is particularly vauge. From the mileage given below it would seem to have been in <name type="place" key="Union County, S. Dak.">Union County</name>, <name type="place" key="South Dakota">South Dakota</name>, or <name type="place" key="Dakota County, Nebr.">Dakota County</name>, <name type="place" key="Nebraska">Nebraska</name>, some miles up the <name type="place" key="Missouri River">Missouri</name> from present <name type="place" key="Sioux City, Iowa">Sioux City</name>.</note>
+            <note xml:id="n40090303" n="3">
+               <name type="person" key="Aird, James">James Aird</name>, a Scotsman, had been a trader at <name type="place" key="Mackinac, Mich.">Mackinac</name> by 1779 and one of the earliest settlers at <name type="place" key="Prairie du Chien">Prairie du Chien</name>, in modern <name type="place" key="Wisconsin">Wisconsin</name>, where he was employed by <name type="person" key="Dickson, Robert">Robert Dickson</name>, one of the leading traders on the upper <name type="place" key="Mississippi River">Mississippi</name>. He is described as a large man, much respected by the Indians. Technically, he declared himself an American citizen for trading purposes in 1805. He seems to have made more than one trip up the <name type="place" key="Missouri River">Missouri</name>; <name type="person" key="Bradbury, John">John Bradbury</name> met him in <name type="place" key="Saint Louis, Mo.">St. Louis</name> and again at the <name type="native_nation" key="Omaha Indians">Omaha</name> village in 1810. During the War of 1812 he served as a British agent, encouraging the Indians of the upper <name type="place" key="Mississippi River">Mississippi</name> to fight against the Americans. After the war he remained at <name type="place" key="Prairie du Chien">Prairie du Chien</name>, where he died in 1819, apparently working for the American Fur Company. Thwaites (LC), 5:374 n. 2; Bradbury, 87 and n. 50; Cruikshank, 137, 151, 154; Lavender (FW), 58–62, 65–67, 285–86, 290, 439–40 n. 2, 444 n. 13, and passim.</note>
+            <note xml:id="n40090304" n="4">This was the house of <name type="person" key="Chouteau, Jean Pierre">Jean Pierre Chouteau</name>, the <name type="place" key="Saint Louis, Mo.">St. Louis</name> fur trader and friend and host of the captains; see <ref n="1804-03-21" type="related">March 21</ref>, <ref n="1804-05-03" type="related">May 3</ref> and <ref n="1804-05-20" type="related">20</ref>, 1804. His house burned on the night of February 15, 1805. Thwaites (LC), 5:375 n. 1, erroneously identified the man as <name type="person" key="Chouteau, Pierre Jr.">Pierre Chouteau, Jr.</name> Such confusion is understandable since family members at various times called both <name type="person" key="Chouteau, Jean Pierre">Jean Pierre</name> and his son, <name type="person" key="Chouteau, Jean Pierre Jr.">Pierre, Jr.</name>, by the name Cadet, a French term occasionally used for a younger or second-born son. Foley &amp; Rice, 44, 114, 211.</note>
+            <note xml:id="n40090305" n="5">
+               <name type="person" key="Wilkinson, James">James Wilkinson</name>, after serving in the Revolutionary War, moved to <name type="place" key="Kentucky">Kentucky</name> in 1784 and became active in politics and business at <name type="place" key="New Orleans, La.">New Orleans</name>. He entered the regular army in 1791 and soon became a brigadier general, serving in <name type="person" key="Wayne, Anthony">Anthony Wayne's</name> campaign against the Northwest Territory Indians, during which time <name type="person" key="Clark, William">Clark</name> served under him and apparently admired him. After <name type="person" key="Wayne, Anthony">Wayne's</name> death in 1796 he became the ranking officer in the U.S. Army; at the same time he was a secret agent in the pay of the Spanish governor of <name type="place" key="Louisiana">Louisiana</name>. During his service in the West he was engaged in various intrigues in the Spanish borderlands which have never been entirely unraveled. He was governor of <name type="place" key="Louisiana">Louisiana</name> Territory from 1805 to 1807. He was involved with <name type="person" key="Burr, Aaron">Aaron Burr</name> in whatever conspiracies <name type="person" key="Burr, Aaron">Burr</name> had in progress, but when Burr was tried for treason in 1807 <name type="person" key="Wilkinson, James">Wilkinson</name> was the chief witness against him, narrowly escaping indictment himself. <name type="person" key="Wilkinson, James">Wilkinson</name> held an important command on the Canadian border in the War of 1812 and was notably unsuccessful. He died in <name type="place" key="Mexico">Mexico</name> in 1825 and was remembered as the general who never won a battle or lost a court martial. Hay &amp; Werner; Weems.</note>
+            <note xml:id="n40090306" n="6">The region between <name type="place" key="Natchitoches, La.">Natchitoches</name>, <name type="place" key="Louisiana">Louisiana</name>, which became part of the United States by the Louisiana Purchase, and <name type="place" key="Nacogdoches, Tex.">Nacogdoches</name>, in eastern <name type="place" key="Texas">Texas</name>, still Spanish territory, was an area of political intrigues, smuggling, and illegal border crossings. In February 1806 American troops took over a Spanish post a few miles west of <name type="place" key="Natchitoches, La.">Natchitoches</name> in <name type="place" key="Louisiana">Louisiana</name>; the following July a Spanish force of 400 men moved across the <name type="place" key="Sabine River">Sabine River</name> boundary into the area northwest of <name type="place" key="Natchitoches, La.">Natchitoches</name>. <name type="person" key="Wilkinson, James">General Wilkinson's</name> mission was to expel the intruders, but the Spanish governor of <name type="place" key="Texas">Texas</name> withdrew his forces west of the <name type="place" key="Sabine River">Sabine</name>, and he and <name type="person" key="Wilkinson, James">Wilkinson</name> negotiated an agreement recognizing a "neutral ground" east of the river. Expansionists like <name type="person" key="Burr, Aaron">Aaron Burr</name>, who had hoped for war as an opportunity to seize <name type="place" key="Texas">Texas</name> and West <name type="place" key="Florida">Florida</name> for the United States, were greatly disappointed. Cook, 476, 486, and passim; Nasatir (BR), 128–29.</note>
+            <note xml:id="n40090307" n="7">The U.S. frigate <hi rend="italic">President</hi> was fired on by Spanish gunboats near <name type="place" key="Algeciras, Spain">Algeciras</name>, <name type="place" key="Spain">Spain</name>, in the fall of 1804, but was not captured.</note>
+            <note xml:id="n40090308" n="8">The British warship <hi rend="italic">Leander</hi> fired on the American merchant ship <hi rend="italic">Richard</hi> off <name type="place" key="New York">New York</name> on April 25, 1806, killing one seaman. This was one of the various incidents arising from <name type="place" key="Britain">Britain's</name> policy of impressment of American seamen and seizure of American ships during the Napoleonic wars which eventually led to the War of 1812.</note>
+            <note xml:id="n40090309" n="9">The two Indians were probably the <name type="native_nation" key="Kickapoo Indians">Kickapoos</name> called <name type="person" key="Ouabesca">Ouabesca</name> and <name type="person" key="Ouifumcaka">Ouifumcaka</name> (variously spelled) who were accused of murdering an unidentified white man on December 30, 1805, in <name type="place" key="Louisiana">Louisiana</name> territory on a prairie opposite the <name type="place" key="Osage (Osarge) River">Osage River</name>. In June 1806 a jury found them guilty, and on the following day the two men were sentenced to be hanged by the neck on June 10 "until they be dead, dead, dead." The two men were executed, but <name type="place" key="Wilkinson, James">Governor Wilkinson</name> pardoned a third <name type="native_nation" key="Kickapoo Indians">Kickapoo</name>, <name type="person" key="Hononquise">Hononquise</name>, who was implicated in the crime. Information provided by William E. Foley, December 1991.</note>
+            <note xml:id="n40090310" n="10">
+               <name type="person" key="Burr, Aaron">Aaron Burr</name>, <name type="person" key="Jefferson, Thomas">Jefferson's</name> vice president, and <name type="person" key="Hamilton, Alexander">Alexander Hamilton</name>, the Federalist leader and <name type="place" key="Washington D.C.">Washington's</name> Secretary of the Treasury, fought the most famous duel in American history on July 11, 1804, at <name type="place" key="Weehawken, New Jersey">Weehawken</name>, <name type="place" key="New Jersey">New Jersey</name>. <name type="person" key="Hamilton, Alexander">Hamilton</name> died of his wound.</note>
+            <note xml:id="n40090311" n="11">The <name type="place" key="Vermillion (White Stone) River (S. Dak.)">Vermillion River</name> reaches the <name type="place" key="Missouri River">Missouri</name> in <name type="place" key="Clay County, S. Dak.">Clay County</name>, <name type="place" key="South Dakota">South Dakota</name>, southeast of
+the town of <name type="place" key="Vermillion (White Stone) River (S. Dak.)">Vermillion</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-09-02" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-09-04" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

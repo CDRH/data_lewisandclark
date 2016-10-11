@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-06-08">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+June 8, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">285-288</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">11, 378-379</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">12-13</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">20-21</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-06-08.01">
+            <placeName/>
+            <geo>39.05 -92.928</geo>
+            <note>Close to the county line between Saline and Cooper counties, MO. Most likely on the east side of the line</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-01-13</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-06-08">June 8, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-06-08.01" n="lc.geo.1804-06-08.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">June</hi> 8th Friday<ref target="n04060801" n="1"/>
+                  </date>
+               </ab>
+               <p>
+Set out at Daylight    proceeded on the Course of last night S 87° W 3 ms    passed a Willow Island, from the Point of last Course S 81° W. 3 ms. to a pt. on S. S: passd a [<hi rend="italic">blank</hi>] Isd. in the middle of the river, passd a run<ref target="n04060802" n="2"/> on the Ld S: above a pt. of rocks 3 ms. on which thir is a number of Deer Licks, N 88° W. 3 Ms. to a pt L S: N. 83° W 2 ms. to the Mo of <name type="place" key="Lamine (Mine) River">Mine River</name>,<ref target="n04060803" n="3"/> psd an Isd.—    This river is 90 yards wide &amp; navagable for Perogues about 90 Ms.    I went out on the L S. about 4 ms. below this R. and found the Countrey for one mile back good Land and well watered    the hills not high with a gentle assent from the river, well timbered with oake, walnit Hickory ash, &amp;c.    the land Still further back becoms thin and open, with Black &amp; rasp Berries,<ref target="n04060804" n="4"/> and Still further back the Plains Commence, The french inform that Lead ore is found on this river in Several places, it heads up between the <name type="place" key="Osage (Osarge) River">Osagees</name> &amp; <name type="place" key="Kansas (Decaugh, Kaw) River">Kansas River</name> the right hand folk [fork] passes in a Short distance of the <name type="place" key="Missouri River">Missourie</name> at the antient <name type="native_nation" key="Little Osage Indians">Little Ozages</name> Village<ref target="n04060805" n="5"/>    our hunter<ref target="n04060806" n="6"/> Killed, 2 Deer, after Stayingd one hour at the mouth of this River, <name type="person" key="Lewis, Meriwether">Cap Lewis</name> went out &amp; proceede on one Mile &amp; came in, he fount the land in the point high and fine    Course N. 64° W 1 Ms. to a pt. on S. S.    N. 80° W to the Lower pot a Id. on L. S.    passed a 〈large〉 Small Isd. in the m: R. at (3 Ms.)    met 3 men on a <hi rend="italic">Caussee</hi> from <name type="place" key="Big Sioux River (Rivière des Sioux)">R Dis Soux</name>,<ref target="n04060807" n="7"/> above <hi rend="italic">The <name type="native_nation" key="Omaha Indians">Mahar</name>
+                  </hi> [<name type="native_nation" key="Omaha Indians">Omaha</name>] Nation loaded with fur. 〈N 39 W 3½ Ms. to pt on S. S. opsd. a Prarie〉    Camped on the Lower point of an Id. L. S. called <name type="place" key="Rock (Mills) Island">Rock Island the Mills</name>,<ref target="n04060808" n="8"/> here I found Kegs an Pummey [pumice] stone, and a place that fur or Skins had been burred [buried] by the hunters    our Hunters Killed 5 Deer, Some rain, the Countrey on the S. S. is Verry fine
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-08.02" n="lc.geo.1804-06-08.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>8th of <hi rend="italic">June, Friday 1804</hi>
+                  </date>
+               </ab>
+               <p>
+Set out this morning at Daylight    proceeden on the Course of last night    Passed two willow Islands &amp; a Small Creek above a Rock point on the L. S. at 6 miles on which there is a number of Deer Licks, passed the <name type="place" key="Lamine (Mine) River">
+                     <hi rend="italic">Mine</hi> River</name> at 9 ms.    this river is about 70 yards wide at its mouth and is Said to be navagable for Perogues 80 or 90 ms.    the 〈main〉 [<hi rend="italic">NB: West</hi>]<ref target="n04060809" n="9"/> branch passes near the place where the <name type="native_nation" key="Little Osage Indians">Little osage</name> Village formerly Stood on the <name type="place" key="Missouri River">Missouries</name>, &amp; heads between the Osarge &amp; Kansias Rivers, the left hand fork<ref target="n04060810" n="10"/> head with nearer Branches of the <name type="place" key="Osage (Osarge) River">Osage River</name>, The french inform that Lead Ore has been found in defferent parts of this river, I took <name type="person" key="Floyd, Charles">Sjt. Floyd</name> and went out 4 Ms. below this river, I found the land Verry good for a Mile or 1 ½ Ms. back and Sufficiently watered with Small Streams which lost themselves in the <name type="place" key="Missouri River">Missouries</name> bottom, the Land rose gradeuelly from the river to the Summit of the high Countrey which is not more that 120 foot above High Water mark, we joined the Boat &amp; Dined in the point above the mouth of this River, <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> went out above the river &amp; proceeded on one mile, finding the Countrey rich, the wedes &amp; Vines So thick &amp; high he came to the Boat—    proceeded on passed an Island 〈about〉 and Camped at the lower point of an Island on the L. S. Called the <name type="place" key="Rock (Mills) Island">Island of mills</name> [<hi rend="italic">NB: mills</hi>] about 4 ms. above <name type="place" key="Lamine (Mine) River">Mine River</name>    at this place I found Kanteens, Axs, Pumey Stone &amp; peltrey hid &amp; buried (I suppose by some hunters) none of them (except the pumey Stone) was teched by one of our party, our hunters Killed 5 Deer to day, Commenced raining Soon after we Came too which prevented the party Cooking their provisions—    our Spies inform that the Countrey they passed thro: on S. S. is a fine high bottom, no water.</p>
+               <p>
+                  <table rows="6" cols="3">
+                     <head>
+                        <hi rend="italic">Course &amp; Distance 8th June</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S 81° W.</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. on S. S.    psd. Deer L. Creek L. S</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 88° W,</cell>
+                        <cell role="data" rows="1" cols="1">3</cell>
+                        <cell role="data" rows="1" cols="1">ms. to a pt. on L Side</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 83° W.</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">ms. to mouth of <name type="place" key="Lamine (Mine) River">Mine Rivr.</name> L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 64° W.</cell>
+                        <cell role="data" rows="1" cols="1">1</cell>
+                        <cell role="data" rows="1" cols="1">Ms. to a pt. on S. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 80° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">3</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">ms. to the Lower pt. of Isd. of Mills</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">12</cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>                 
+This day we met 3 men on a Cajaux from the <name type="place" key="Big Sioux River (Rivière des Sioux)">River of the Soux</name> above the <hi rend="italic">
+                     <name type="native_nation" key="Omaha Indians">Mahar</name> nation</hi>    those men had been hunting 12 mo: &amp; made about 900$ in pelts. &amp; furs    they were out of Provesions and out of Powder.    rained this night
+
+	
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-08.03" n="lc.geo.1804-06-08.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Friday June 8th 1804.    we Set out at 4. OC.    proceeded on    passed a run on left Side above a point of rocks on 3 miles on which their is a nomber of Deer licks, 3 miles to the mo. of <name type="place" key="Lamine (Mine) River">mine River</name>, this River is navagable for Perogues—    we met 3 Frenchman in 2 canoes from <name type="place" key="Big Sioux River (Rivière des Sioux)">R. des Soud</name> above this Nation loaded with fur.    we encamped on the Lower point of an Island called mills Island.    our hunters killed 5 Deer.    Some rain    the Country on the right is verry fine—</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-08.04" n="lc.geo.1804-06-08.01">
+            <sp who="cf">
+               <speaker>Floyd</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+
+Friday June 8th    Set out erley this morning    the day Clear wind from the west    Came 5 miles    past 2 Canoes Lasht to Gather Loaded with Bever Skins otter Skins from the <name type="place" key="Big Sioux River (Rivière des Sioux)">Littel River</name>
+                  <ref target="n04060811" n="11"/>    mean thay ar 30 day coming from that place 5 miles past the mouth of the <name type="place" key="Lamine (Mine) River">Big River mine</name>    it is about 100 and 50 yardes wide a butifull 〈S〉 River on the South Side    the Land is Good first Rate Land well timberd    this River is navagbl for Som hundreds miles aperintley    water Strong    past Several Isd. Came 10 miles    ouer hunters Kild 5 Deer    encamped on 〈an〉 the Loer pint of an Isd and on the South Side of the River
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-08.05" n="lc.geo.1804-06-08.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 8th.</hi>    We embarked and proceeded five miles, when we met four canoes loaded with fur and peltry: and passed the <name type="place" key="Lamine (Mine) River">Mine river</name> on the south side, which is 150 yards wide. The land here is also good and well timbered.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-06-08.06" n="lc.geo.1804-06-08.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Friday 8th    Got on our way at the usal hour    had strong Watter to Goe throug    〈We had〉 the white pierogue had hard Crossing the River to bring the Meat from the hunters, <name type="person" key="Drouillard, George">Druyer</name> Killd 5 deer before 12 Oclock.    met two Connooes loaded with furr from the <name type="place" key="Big Sioux River (Rivière des Sioux)">Zotte River</name>
+                  <ref target="n04060812" n="12"/> neer the <name type="native_nation" key="Mandan Indians">Mandens</name>.    Got to the 〈imun〉 <name type="place" key="Lamine (Mine) River">Amens River</name>
+                  <ref target="n04060813" n="13"/> at three Oclock but did not remain at it any times    Roed. 16 mile</p>
+               <p>
+Thursday June 8th    We started early this Morning, and found the current of the River very strong against us, we sent a Pettiauger to bring the bear meat to the boat, but the hands had very great difficulty in crossing the River to us.    The hunters being left, they proceeded a hunting; and one of them (<name type="person" key="Drouillard, George">G Drewer</name>) killed five deer by 12 oClock A. M.    We proceeded on and met with Two canoes loaded with Furr, which had come from Oto River, near the <name type="native_nation" key="Oto Indians">Zotto</name>
+                  <ref target="n04060814" n="14"/> nation.    At 3oClock P. M. got to the <name type="place" key="Lamine (Mine) River">River L'mine</name> or <name type="place" key="Mud (Lead, Big Rock) Creek">lead River</name> and remained there but a short time.    We proceeded on &amp; encamped on the North side of the <name type="place" key="Missouri River">River Mesouri</name>, the distance come this day being 16 Miles
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n04060801" n="1">These figures are beside the June 8 date: 3, 3, 2. Other figures here are crossways on this sheet of the Field Notes (document 19):<lb/>
+
+				      3 ¼<lb/>
+				   18<lb/>
+				      9<lb/>
+				   10<lb/>
+				   10<lb/>
+				   18<lb/>
+               <hi rend="underline">   15 ½</hi>
+               <lb/>
+				   83 ¾<lb/>
+
+				      4<lb/>
+				   17<lb/>
+               <hi rend="underline">   13</hi>
+               <lb/>
+			       117 ¾<lb/>
+				      5<lb/>
+				   17 ½<lb/>
+				   12 ½<lb/>
+				   14<lb/>
+				   14<lb/>
+               <hi rend="underline">   12</hi>
+               <lb/>
+			       192 ¾<lb/>
+               <hi rend="underline">   24</hi>
+               <lb/>
+			       216<lb/>
+               <hi rend="underline">     5</hi>
+               <lb/>
+			       221</note>
+            <note xml:id="n04060802" n="2">Perhaps <name type="place" key="Loupes Branch">Loupes Branch</name>, at present <name type="place" key="Booneville, Mo.">Booneville</name>, <name type="place" key="Cooper County, Mo.">Cooper County</name>, <name type="place" key="Missouri">Missouri</name>. MRC map 9.</note>
+            <note xml:id="n04060803" n="3">The <name type="place" key="Lamine (Mine) River">Lamine River</name> reaches the <name type="place" key="Missouri River">Missouri River</name> in <name type="place" key="Cooper County, Mo.">Cooper County</name>. The name is thought to derive from the report in 1714 by <name type="person" key="Bourgmont, Etienne Véniard de">Sieur de Bourgmont</name> that the Indians mined leads on its banks. See fig. 14. <hi rend="italic">Missouri Guide,</hi> 359; MRC map 9.</note>
+            <note xml:id="n04060804" n="4">Probably <hi rend="italic">Rubus occidentalis</hi> L., black raspberry, one of the most common raspberries in <name type="place" key="Missouri">Missouri</name>. A number of other <hi rend="italic">Rubus</hi> species, however, blackberry and raspberry, also occur along the <name type="place" key="Missouri River">Missouri River</name>. Steyermark, 835–36.</note>
+            <note xml:id="n04060805" n="5">The fork is the <name type="place" key="Blackwater River">Blackwater River</name>, which meets the <name type="place" key="Lamine (Mine) River">Lamine</name> in northwest <name type="place" key="Cooper County, Mo.">Cooper County</name>. The <name type="native_nation" key="Little Osage Indians">Little Osage</name> village on the <name type="place" key="Missouri River">Missouri River</name> is identified as the Plattner site, which is about three miles northeast of the town of <name type="place" key="Malta Bend, Mo.">Malta Bend</name>, in <name type="place" key="Saline County, Mo.">Saline County</name>. It was occupied in the mid-eighteenth century. Chapman (AM), 6–38.</note>
+            <note xml:id="n04060806" n="6">
+               <name type="person" key="Drouillard, George">Drouillard</name>, according to <name type="person" key="Whitehouse, Joseph">Whitehouse</name>.</note>
+            <note xml:id="n04060807" n="7">Probably the <name type="place" key="Big Sioux River (Rivière des Sioux)">Big Sioux River</name>, which forms the boundary between <name type="place" key="Iowa">Iowa</name> and <name type="place" key="South Dakota">South Dakota</name>.</note>
+            <note xml:id="n04060808" n="8">Near the <name type="place" key="Saline County, Mo.">Saline</name>-<name type="place" key="Cooper County, Mo.">Cooper</name> county line, probably east of the line and perhaps on the second of two islands later called <name type="place" key="Arrow Rock (Mills) Island">Arrow Rock Island</name>. MRC map 9.</note>
+            <note xml:id="n04060809" n="9">
+               <name type="person" key="Biddle, Nicholas">Biddle</name> apparently crossed out "main" when he substituted "West."</note>
+            <note xml:id="n04060810" n="10">The <name type="place" key="Lamine (Mine) River">Lamine River</name> itself.</note>
+            <note xml:id="n04060811" n="11">The traders were apparently coming from the <name type="place" key="Big Sioux River (Rivière des Sioux)">Big Sioux River</name>, which forms a boundary between <name type="place" key="Iowa">Iowa</name> and <name type="place" key="South Dakota">South Dakota</name>.</note>
+            <note xml:id="n04060812" n="12">Evidently No. 2's effort to write <name type="place" key="Big Sioux River (Rivière des Sioux)">Rivière des Sioux</name>, the present <name type="place" key="Big Sioux River (Rivière des Sioux)">Big Sioux River</name> on the <name type="place" key="Iowa">Iowa</name>–<name type="place" key="South Dakota">South Dakota</name> border, which the other journal keepers indicate was the stream mentioned, although it was not near the <name type="native_nation" key="Mandan Indians">Mandans</name>.</note>
+            <note xml:id="n04060813" n="13">No. 2's attempt at <name type="place" key="Lamine (Mine) River">Mine River</name>, present <name type="place" key="Lamine (Mine) River">Lamine River</name>, <name type="place" key="Cooper County, Mo.">Cooper County</name>, <name type="place" key="Missouri">Missouri</name>.</note>
+            <note xml:id="n04060814" n="14">"Zotto" and "L'mine" in the next sentence are written over erasures. In the second 
+instance apparently over the word "Amens," as in the original notebook.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-06-07" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-06-09" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

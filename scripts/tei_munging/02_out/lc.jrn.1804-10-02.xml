@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-10-02">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+October 2, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">138-140</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">75</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">49-50</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">93-94</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-10-02.01">
+            <placeName/>
+            <geo>44.8 -100.4833</geo>
+            <note>Plum Island, which is now inundated by the river. Sully County, SD</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-03-16</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-10-02">October 2, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-10-02.01" n="lc.geo.1804-10-02.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">2nd of October</hi> Tuesday 1804,    <name type="person" key="Vallé, Jean">Mr. Vallie</name> Came on board, Lat. 44° 19' 36 N.    we observed Some Indians on a hill on the S. S.    one Came to the river &amp; fired off his gun and asked us to come [<hi rend="italic">hole</hi>] he wish us to go to his Camp near at hand<ref target="n07100201" n="1"/>    we refused, passed a large Island<ref target="n07100202" n="2"/> on the S. S., here we expected the <name type="native_nation" key="Sioux Indians, Teton">Tetons</name> would attempt to Stop us, and prepared for action, &amp;c.    opposit this Island on the L. S. a Small Creek comes in, w[e] call this <name type="place" key="Plum (Caution) Island">Caution Island</name>, Camped on a Sand bar ½ mile from the main Shore<ref target="n07100203" n="3"/>    the wind hard from the N W.    Cold, the current of the river less rapid, &amp; retains less Sediment than below.</p>
+               <p>
+                  <table rows="5" cols="3">
+                     <head>Course &amp; Distance</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 70° E.</cell>
+                        <cell role="data" rows="1" cols="1">2 ½</cell>
+                        <cell role="data" rows="1" cols="1">m. to a wood on the L. S.—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° E.</cell>
+                        <cell role="data" rows="1" cols="1">1 ½</cell>
+                        <cell role="data" rows="1" cols="1">m. on the L. S.—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N 62° E.</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">m on the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 15° E</cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">m. to the L. S. of an Island Situated near the S. S.—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 28 E.</cell>
+                        <cell role="data" rows="1" cols="1">2</cell>
+                        <cell role="data" rows="1" cols="1">m. to the upper pt. of the Sand bar abov the Island.</cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-02.02" n="lc.geo.1804-10-02.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>2nd of Octr.</date>
+               </ab>
+               <p>
+                  <table rows="6" cols="3">
+                     <head>
+                        <hi rend="italic">Course Distance and refferuns</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 70° E</cell>
+                        <cell role="data" rows="1" cols="1">  2 ½</cell>
+                        <cell role="data" rows="1" cols="1">miles to a wood on the L. Side    pass a large Sand bar in<lb/>
+the middle &amp; a willow Isd. close under the L. S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 80° E</cell>
+                        <cell role="data" rows="1" cols="1">  1 ½</cell>
+                        <cell role="data" rows="1" cols="1">me. on the L. S. 〈a willow〉</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 62 E</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">miles on the L. S. a willow bottom opposit on the S S.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 15° E</cell>
+                        <cell role="data" rows="1" cols="1">  4</cell>
+                        <cell role="data" rows="1" cols="1">miles to the L. Side of an Island Situated near the S S. &amp; 1<lb/>
+me. above the lower point of the Sd. Island (1)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 28° E</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  2</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">miles to the pt. of a Sand bar makeing from the head of<lb/>
+the Island &amp; Camped (2)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">12</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi rend="right">2nd of <hi rend="italic">October Tuesday 1804</hi>
+                  </hi>
+               </p>
+               <p>
+a Violent wind all night from the S. E.    Slackened a little and we proceeded on. <hi rend="italic">
+                     <name type="person" key="Vallé, Jean">Mr. Jon Vallee</name>
+                  </hi> Came on board and proceeded on 2 miles with us, a verry Cold morning    Some black clouds flying    took a meridian altitude &amp; made the Lattitude    <hi rend="italic">44° 19' 36"</hi> North    this was taken at the upper part of the gouge of the <name type="place" key="Lookout Bend">Lookout bend</name>, the Sentinal heard a Shot over the hills to the L. S. dureing the time we were Dineing on a large Sand bar.    the after part of this day is pleasent, at 2 oClock opposit a wood on the L. S. we observed some Indians on a hill on the S. S.    one Came down to the river opposit to us and fired off his gun, &amp; beckind. to us to Come too, we payed no attention to him    he followed on Some distance, we Spoke a few words to him, he wished us to go a Shore and to his Camp which was over the hill and Consisted of 20 Lodges, we excused our Selves advised him to go and here our talk of <name type="person" key="Dorion, Pierre, Sr.">Mr. Durion</name>    he enquired for traders    we informed him one was in the next bend below &amp; parted, he returned—    &amp; we proceeded on (1) passed a large Island, 〈on〉 the S. S.    here we expected the <name type="native_nation" key="Sioux Indians, Teton">Tetons</name> would attempt to Stop us and under that idear we prepared our Selves for action which we expected every moment.    opsd. this Island on the L. S. a Small Creek Comes in, This Island we call Isd. of <hi rend="italic">Caution</hi>    we took in Some wood on a favourable Situation where we Could defend our men on Shore &amp; (2) Camped on a Sand bar ½ a mile from the main Shore.    the wind changed to the N. W. &amp; rose verry high and Cold which Continud. The Current of the <name type="place" key="Missouri River">Missourie</name> is less rapid &amp; contains much less Sediment of the Same Colour.—</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-02.03" n="lc.geo.1804-10-02.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>2nd of <hi rend="italic">〈September〉 October Tuesday</hi> 1804</date>
+               </ab>
+               <p>
+Proceeded on as mentioned in journal No. 2<ref target="n07100204" n="4"/>    <hi rend="italic">twelve</hi> miles    <hi rend="italic">Camped</hi> above a large Island on a Sand bar, verry windy and Cold the after part of this day, the mid day verry worm, The Lattitude as taken to day is <hi rend="italic">44° 19' 36"</hi>—    observe great Caution this day expecting the <hi rend="italic">
+                     <name type="native_nation" key="Sioux Indians">Seaux</name>
+                  </hi> intentions Some what hostile towards our progression, The river not So rapid as below the <name type="place" key="Cheyenne River">Chien</name>, its width nearly the Same    <hi rend="double underline">12</hi> miles
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-02.04" n="lc.geo.1804-10-02.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="right">
+                        <hi rend="italic">Point of observation No. 46.<lb/>
+Tuesday October 2nd 1804.</hi>
+                        <ref target="n07100205" n="5"/>
+                     </hi>
+                  </date>
+               </ab>
+               <p>
+On a large sand bar Lard. shore, opposite to the gorge of the <name type="place" key="Lookout Bend">bend <hi rend="italic">look-out</hi>
+                  </name>.</p>
+               <p>
+Observed the meridian altd. of <seg n="u9737">☉</seg>'s U. L. with Sextant by the fore observation.    84° 45' 15"</p>
+               <p>
+Latitude deduced from this observation.    N. 44° 19' 36.3"
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-02.05" n="lc.geo.1804-10-02.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday 2nd Oct. 1804    (we Set off as usal)    a frenchman came over to us this morning, we found him to be <name type="person" key="Vallé, Jean">Mr. Valley</name>, the Trador among the <name type="native_nation" key="Sioux Indians">Souix</name> nation    he could talk English.    he informed us that we Should not See many more of the <name type="native_nation" key="Sioux Indians">Souix</name> to Trouble us.    he came with us a Short distance &amp; returned.    we proceeded on    passed a large Bottom on S. S. Some Timber on the edge of the river.    about 2 o.Clock we came round a bend where we had come 20 miles round, &amp; it was only 2 miles across by land.    we discovered Some Indians on the hills N. S.    one of them came down to the River.    we asked him what he wanted    he Said (their was 20 lodges) or so in the <name type="native_nation" key="Sioux Indians, Yankton">Yanktown</name>
+                  <name type="native_nation" key="Sioux Indians">Souise</name> language that he wanted us to come to Shore.    we told him we had Spoke to his chief &amp;.C. &amp; proceeded on.    the wind Shifted to N. W.    passed an Island<ref target="n07100206" n="6"/> on N. S. &amp; a creek on the S. Side. Camped on a Sand bar in the middle of the River.—    no hunting for Indians Troublesom.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-02.06" n="lc.geo.1804-10-02.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Tuesday 2nd.</hi>    We set sail before day light. A Frenchman<ref target="n07100207" n="7"/> came on board, who could speak English. He mentioned it as his opinion, that we should see no more Indians, until we should arrive at the nation of <name type="native_nation" key="Arikara Indians">Rees</name>. We passed a range of black bluffs on the north side and a large bottom on the south, where there was some timber on the bank of the river. About 2 o'clock we discovered some Indians on the hills on the north side, and one of them came down to the bank and fired a gun; the object or intention we did not well understand, but were ready to meet an attack. We passed black bluffs on the south side, an island covered with timber, and a handsome bottom on the north side. We halted and spoke to the Indian, who said he belonged to the <name type="native_nation" key="Sioux Indians, Yankton">Jonkta</name> or <name type="native_nation" key="Sioux Indians, Brulé or Bois Brule">Babarole</name> band,<ref target="n07100208" n="8"/> and that there were 20 lodges of them. We told him we had seen two of their chiefs, and given them a flag and medal.<ref target="n07100209" n="9"/> 
+We passed a creek on the south side, and encamped on a sand bar in the middle of the river.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-10-02.07" n="lc.geo.1804-10-02.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Tuesday 2 October 1804.    Set off eairly.    proceeded on.    passed a range of black bluffs on N. S. and a large bottom on S. S.    about 2 oClock we discovered a nomber of Indians on the hills on N. S.    one of them came down on the bank of the river &amp; fired off his Gun and cryed out.    we hardly new his meaning but we held ourselves in rediness    in case they Should attack us we were determined to fight or dye.    proceeded on    passed a Creek<ref target="n07100210" n="10"/> on the S. S.    Camped on a Sand bar in the middle of the river.</p>
+               <p>
+Tuesday October 2nd    We set off early this morning, and proceeded on, and passed a range of black bluffs, lying on the North side, and a large bottom on the South side of the River; about 2 oClock P. M. we discovered a number of Indians, on the hills on the North side of the River, One of those Indians came on the bank of the River, and fired off his Gun, and hallowed to us.    We hardly knew his meaning, but stood in readiness, in case 〈they〉 any of these Savages should attackt us, Our Officers being determin'd to proceed on our Voyage, at the risque of their lives, and the Men determin'd to support them in the attempt</p>
+               <p>
+We proceeded on, and passed a Creek lying on the South side of the River, and in the evening we encamped on a Sand barr, lying in the middle of the River—
+
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n07100201" n="1">
+               <name type="person" key="Gass, Patrick">Gass</name> says the Indian "said he belonged to the <name type="native_nation" key="Sioux Indians, Yankton">Jonkta</name> or <name type="native_nation" key="Sioux Indians, Brulé or Bois Brule">Babarole</name> band"—evidently meaning either the <name type="native_nation" key="Sioux Indians, Yankton">Yankton</name> or <name type="native_nation" key="Sioux Indians, Brulé or Bois Brule">Bois Brulé</name> divisions of the <name type="native_nation" key="Sioux Indians">Sioux</name>.</note>
+            <note xml:id="n07100202" n="2">On <hi rend="italic">Atlas</hi> map 24 this appears as "<name type="place" key="Plum (Caution) Island">Caution Island</name>," as in the Codex B entry; probably the later <name type="place" key="Plum (Caution) Island">Plum Island</name>. MRC map 42; Mattison (OR), 62.</note>
+            <note xml:id="n07100203" n="3">Just above <name type="place" key="Plum (Caution) Island">Plum (Caution) Island</name>, with <name type="place" key="Sully County, S. Dak.">Sully County</name>, <name type="place" key="South Dakota">South Dakota</name>, on the starboard shore and <name type="place" key="Dewey County, S. Dak.">Dewey County</name> on the larboard. The area is now inundated by <name type="place" key="Oahe Reservoir">Oahe Reservoir</name>. <hi rend="italic">Atlas</hi> map 24; MRC map 42.</note>
+            <note xml:id="n07100204" n="4">
+               <name type="person" key="Clark, William">Clark</name> Codex B; <name type="person" key="Clark, William">Clark</name> is again referring to the longer entry for the day in that journal.</note>
+            <note xml:id="n07100205" n="5">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> astronomical observation from Codex O.</note>
+            <note xml:id="n07100206" n="6">The expedition's <name type="place" key="Plum (Caution) Island">Caution Island</name>, later <name type="place" key="Plum (Caution) Island">Plum Island</name>, <name type="place" key="Dewey County, S. Dak.">Dewey County</name>, <name type="place" key="South Dakota">South Dakota</name>, now
+probably inundated.</note>
+            <note xml:id="n07100207" n="7">
+               <name type="person" key="Vallé, Jean">Jean Vallé</name>, a trader of <name type="place" key="Sainte Genevieve, Mo.">Ste. Genevieve</name>, <name type="place" key="Missouri">Missouri</name>.</note>
+            <note xml:id="n07100208" n="8">Evidently either the <name type="native_nation" key="Sioux Indians, Yankton">Yankton</name> or <name type="native_nation" key="Sioux Indians, Brulé or Bois Brule">Bois Brulé</name> divisions of the <name type="native_nation" key="Sioux Indians">Sioux</name>.</note>
+            <note xml:id="n07100209" n="9">Presenting medals to Indian dignitaries was a longstanding custom. <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> carried medals of various sizes and inscriptions. The most common displayed the profile of <name type="person" key="Jefferson, Thomas">President Jefferson</name> on one side, while the reverse showed clasped hands and crossed tomahawk and pipe.</note>
+            <note xml:id="n07100210" n="10">Besides <name type="person" key="Whitehouse, Joseph">Whitehouse</name>, only <name type="person" key="Gass, Patrick">Gass</name> mentions this stream, probably the one that appears on <hi rend="italic">Atlas</hi> map 24, opposite the party's <name type="place" key="Plum (Caution) Island">Caution Island</name>, later <name type="place" key="Plum (Caution) Island">Plum Island</name>. It would be in <name type="place" key="Dewey County, S. Dak.">Dewey County</name>, <name type="place" key="South Dakota">South Dakota</name>, and is now inundated by <name type="place" key="Oahe Reservoir">Oahe Reservoir</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-10-01" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-10-03" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

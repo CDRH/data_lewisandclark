@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-09-05">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+September 5, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">48-51</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">54</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">35-36</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">69-70</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1804-09-05.01">
+            <placeName/>
+            <geo>42.8398 -98.1756</geo>
+            <note>On an island between Knox County, NE, and Charles Mix County, SD</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-03-05</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-09-05">September 5, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-09-05.01" n="lc.geo.1804-09-05.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+5th September 1804 Wednesday, Set out early    the wind blew hard from the South as it has for Some Days past, we Set up a jury mast &amp; Sailed, I saw a large gangue of Turkeys, also Grous Seen<ref target="n06090501" n="1"/> Passed a large Island of about 3 miles long in the Middle of the river    opposit the head of this Island the <name type="place" key="Ponca (Pania, Poncar) Creek">Poncarre River</name>
+                  <ref target="n06090502" n="2"/> Coms in to the <name type="place" key="Missouri River">Missourei</name> on the L. S.—    the S. S is a Clift under which great numbers of Springs run out of mineral water, Saw Several wild goats on the Clift &amp; Deer with black tales,—<ref target="n06090503" n="3"/> Sent <name type="person" key="Shields, John">Shields</name> &amp; <name type="person" key="Gibson, George">Gibson</name> to the <name type="native_nation" key="Ponca Indians">Poncas</name> Towns,<ref target="n06090504" n="4"/> which is Situated on the <name type="place" key="Ponca (Pania, Poncar) Creek">Ponca river</name> on the lower side about two miles from its mouth in an open butifull Plain, at this time this nation is out hunting the biffalow    they raise no corn or Beens, <name type="person" key="Gibson, George">Gibson</name> killed a Buffalow in the Town, The two men which has been absent several Days is<ref target="n06090505" n="5"/> ahead, we came to on the upper pt. of a large Island at 3 oclock to make a mast<ref target="n06090506" n="6"/> Sent out Some hunters on the Island (which I call <name type="place" key="No Preserve Island">no preserve Island</name>, at this place we used the last of our Preservs)    They killed 3 bucks, &amp; two Elk which we jurked—</p>
+               <p>
+                  <table rows="6" cols="3">
+                     <head>Course Distance &amp; reffurence the 5th of September</head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N: 85° W</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">mes. to a willow pt. S. S. 〈under a bluff opsd. 〉 a 〈Bluff〉<lb/>
+Clift on the L. S. opsd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 35° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">mes. to a pt. on the Clift to S. S    a large Island Call <name type="place" key="Pawnee (Ponceras) Island">Pania<lb/>
+Is.</name> in the middle opsd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 58 W</cell>
+                        <cell role="data" rows="1" cols="1">  3 ½</cell>
+                        <cell role="data" rows="1" cols="1">me. to a 〈pt on the Clift〉 creek on the S. S<ref target="n06090507" n="7"/> passed the<lb/>
+head of the [island] at 1 mile &amp; Sand bars making from it<lb/>
+the mouth of <name type="place" key="Ponca (Pania, Poncar) Creek">Ponia river</name> opposit</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  3 ½</cell>
+                        <cell role="data" rows="1" cols="1">mes. to the lower pt. of a large Island</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 70 W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  1 ¾</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">mile on the right of the Isd. to the head.    pass a Willow<lb/>
+Isd. &amp; Sand bar</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">13 ¾</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-05.02" n="lc.geo.1804-09-05.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <table rows="6" cols="3">
+                     <head>
+                        <hi rend="italic">Course Dists. &amp; Refrs. Septr. 5th</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 85° W</cell>
+                        <cell role="data" rows="1" cols="1">  2</cell>
+                        <cell role="data" rows="1" cols="1">mes. to a willow pt. on the S. S.    a Bluff opsd.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 35° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3</cell>
+                        <cell role="data" rows="1" cols="1">mes. to a high part of a Bluff on the S. S.    a large lsld.<lb/>
+Called <name type="place" key="Pawnee (Ponceras) Island">pania Isd.</name> in middle of the river</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 58° W.</cell>
+                        <cell role="data" rows="1" cols="1">  3 ½</cell>
+                        <cell role="data" rows="1" cols="1">to a Creek on the S. S.    psd. the Isd. at 1 me. a Sand bar<lb/>
+makeing from it    <name type="place" key="Ponca (Pania, Poncar) Creek">Poncasar Rive</name> opposit on the L. S. (1)
+30 yds.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">West</cell>
+                        <cell role="data" rows="1" cols="1">  3 ½</cell>
+                        <cell role="data" rows="1" cols="1">mes. to the lower point of a large Island near the L. Side<lb/>
+(1)</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">N. 70° W.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">  1 ¾</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">mes. to the right Side of the Sd. Island to the head,<lb/>
+passed a willow Isd. &amp; a Sand bar</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"> </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">13 ¾</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi rend="right">
+                     <hi rend="italic">〈August〉 Septmber 5th Wednesday 1804</hi>
+                  </hi>
+               </p>
+               <p>
+Set out early    the winds blew hard from the South, Goats turkeys Seen to day, passed a large Island (1)    opsd. this Island near the head the <name type="place" key="Ponca (Pania, Poncar) Creek">Poncasar River</name> Coms into the <name type="place" key="Missouri River">Missourie</name> from the West    this river is about 30 yards wide.    dispatched two men to the <name type="native_nation" key="Ponca Indians">Poncaries</name> Village Situated in a handsom Plain on the lower Side of this Creek about two miles from the <name type="place" key="Missouri River">Missourie</name>    (the <name type="native_nation" key="Ponca Indians">Poncasars</name> nation is Small and at this time out in the praries hunting the Buffalow[)], one of the men Sent to the Village Killed a Buffalow in the town, the other, a large Buck near it, Some Sign of the two men who is a head.    〈Shan〉<ref target="n06090508" n="8"/>
+               </p>
+               <p>
+above the Island on the S. S We passed under a Bluff of Blue earth, under which Seveal Mineral Springs broke out of the water of which had a taste like <hi rend="italic">Salts</hi>,<ref target="n06090509" n="9"/> we Came too on the upper point of a large Island (which I call No <hi rend="italic">preserves</hi> Island)    here we made a Ceeder Mast, our hunters brought in three bucks, and two elks this evening which we had jurked</p>
+               <p>
+One of the hunter <name type="person" key="Shields, John">Shields</name>, informed that he Saw Several black tailed Deer, near the <name type="native_nation" key="Ponca Indians">Poncaser</name> Village—</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-05.03" n="lc.geo.1804-09-05.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>Sept 5th<ref target="n06090510" n="10"/>
+                  </date>
+               </ab>
+               <p>
+saw some wild goats or antelopes on the hill above the Glauber Salts Springs    they ran off    we could not discover them sufficiently distinctly to discribe even their colour    their track is as large as a deer reather broader &amp; more blont at the point—</p>
+               <p>
+This day one of our hunters brought us a Serpent beautifully variagated with small black spotts of a romboydal form on a light yellow white ground    the black pedominates most on the back the whiteis yellow on the sides, and it is nearly white on the belly with a few party couloured scuta on which the black shews but imperfectly and the colouring matter seems to be underneath the Scuta—    it is not poisonous    it hisses remarkably loud; it has 221 Scuta on the belly and 51 on the tale, the eyes are of a dark black colour    the tale terminates in a sharp point like the substance of a cock's spur—    Length 4 Ft. 6 I.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-05.04" n="lc.geo.1804-09-05.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 5th Sept. 1804.    we took a niew mast on board, Set off eairly.    the wind Blew hard from the South    we passed a large Island, <name type="person" key="Field, Reubin">Reuben Fields</name>
+                  <name type="person" key="Field, Joseph">Jo Fields</name> &amp; <name type="person" key="Drouillard, George">Drewyer</name> went on the Isd. hunting; we Sailed on, halted at ½ past 7 took breakfast at a Small creek called <name type="place" key="Chouteau (Goat) Creek">Goat Creek</name>
+                  <ref target="n06090511" n="11"/> N. S.    the Beaver had made a curious dam across near the mouth which made considerable of a pond above, found plumbs; 2 men Sent across on the S. S. to hunt on Shore    N. B. at <name type="place" key="Ponca (Pania, Poncar) Creek">ponca River</name> which we passed for the 2 men with the horses &amp;.C.    passed Some handsome Mineral Springs on N. S. under a clift.    the 2 men who crossed to hunt the horses come to the Boat in a Short time at a fine Bottom prarie had killed a Deer, we Saw Several Goats<ref target="n06090512" n="12"/> on the Side hill on N. S.    we proceeded on till 4 oClock &amp; Camped on an Island.    made a niew ceeder mast.    the hunters out hunting returned to the Boat &amp; <name type="person" key="Field, Reubin">R. Fields</name> killed a fat Buck. Dreuwyer killed an Elk &amp; <name type="person" key="Newman, John">Newman</name> killed a faun Elk &amp; a faun Deer.—    tracks of the horses Seen where the 2 men passd. &amp;.C.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-05.05" n="lc.geo.1804-09-05.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 5th.</hi>    We set sail early this morning with a fair wind, and had a clear day. We passed a long island covered with timber, and three men<ref target="n06090513" n="13"/> went to hunt on it. On the north side are yellow bluffs, out of which issue several beautiful springs. Opposite the head of the island, on the south side, flows in a river, called <name type="place" key="Ponca (Pania, Poncar) Creek">Pania river</name>
+                  <ref target="n06090514" n="14"/> and about three miles higher up, on the north side, a creek, called <name type="place" key="Chouteau (Goat) Creek">Goat creek</name>. On the hills above this creek we saw some goats or antelopes, which the French call cabres.<ref target="n06090515" n="15"/> About 4 we encamped on an island, where we made and put in a new mast. The three men, who went to hunt on the long island killed a deer and an elk; and two more went out from camp and killed another deer and an elk, both young.
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1804-09-05.06" n="lc.geo.1804-09-05.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday</hi> 5th Sept.    we took a ceed[er] mast on board    Some hunters 
+out    we Sailed on    passed <name type="place" key="Chouteau (Goat) Creek">Goat creek</name> on N. S. where the Beaver had made a damm across the mouth of it.    we passed handsome Minneral Springs on the N. S.    the hunters killed 2 Elk &amp; a Deer.</p>
+               <p>
+Wednesday Septemr 5th    This morning we sent out our Hunters, and then set sail, we passed by a Creek called <name type="place" key="Chouteau (Goat) Creek">Goat Creek</name>, lying on the North side of the River, where the Beaver, had made a Dam, across the mouth of it.    We passed a handsome Mineral spring, lying on the North side of the River, In the Evening our hunters returned, having kill'd 2 Elk and one Deer, which they brought to us, We encamped on the North side of the River on its bank.—
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n06090501" n="1">Perhaps the sharp-tailed grouse, <hi rend="italic">Tympanuchus phasianellus</hi> [AOU, 308]. See <ref n="1804-09-12" type="related">September 12, 1804</ref>.</note>
+            <note xml:id="n06090502" n="2">
+               <name type="place" key="Ponca (Pania, Poncar) Creek">Ponca Creek</name>, in <name type="place" key="Knox County, Nebr.">Knox County</name>, <name type="place" key="Nebraska">Nebraska</name>. <hi rend="italic">Atlas</hi> map 19; MRC map 32.</note>
+            <note xml:id="n06090503" n="3">The first notice in the journals of the mule deer, <hi rend="italic">Odocoileus hemionus</hi>, described more fully on <ref n="1804-09-17" type="related">September 17, 1804</ref>, by <name type="person" key="Clark, William">Clark</name> and on <ref n="1805-05-10" type="related">May 10, 1805</ref>, by <name type="person" key="Lewis, Meriwether">Lewis</name>. Burroughs, 128–33.</note>
+            <note xml:id="n06090504" n="4">The <name type="native_nation" key="Ponca Indians">Poncas</name> were a Siouan-speaking tribe, whose language was nearly identical to the <name type="native_nation" key="Omaha Indians">Omahas</name>. They were horticulturists living in earth-lodge villages but made seasonal tribal hunting trips far out onto the plains; because of their absence on such a trip they did not meet <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>. The village was on <name type="place" key="Ponca (Pania, Poncar) Creek">Ponca Creek</name>, in <name type="place" key="Knox County, Nebr.">Knox County</name>, probably not far from the present village of Verdel. It is now known as <name type="place" key="Ponca Fort">Ponca Fort</name> and was occupied in the late eighteenth century and abandoned about 1800. <hi rend="italic">Atlas</hi> map 19; Hodge, 2:278–79; Wood (TL); Wood (NPF).</note>
+            <note xml:id="n06090505" n="5">
+               <name type="person" key="Colter, John">Colter</name> and <name type="person" key="Shannon, George">Shannon</name>, the former in pursuit of the latter. These last lines are split about here to go around the course and distance table; it is brought together for ease of reading.</note>
+            <note xml:id="n06090506" n="6">The camp on the island lay between southeastern <name type="place" key="Charles Mix County, S. Dak.">Charles Mix County</name>, <name type="place" key="South Dakota">South Dakota</name>, and northwestern <name type="place" key="Knox County, Nebr.">Knox County</name>, <name type="place" key="Nebraska">Nebraska</name>. The island, nameless on <hi rend="italic">Atlas</hi> map 19, is labeled "Isle des" on Nicollet with no further designation. <hi rend="italic">Atlas</hi> map 19; Nicollet (MMR), 405; MRC map 32.</note>
+            <note xml:id="n06090507" n="7">
+               <name type="place" key="Chouteau (Goat) Creek">Goat Creek</name> on <hi rend="italic">Atlas</hi> map 19; present <name type="place" key="Chouteau (Goat) Creek">Chouteau Creek</name>, the boundary between <name type="place" key="Bon Homme County, S. Dak.">Bon Homme</name> and <name type="place" key="Charles Mix County, S. Dak.">Charles Mix</name> counties, <name type="place" key="South Dakota">South Dakota</name>. MRC map 32.</note>
+            <note xml:id="n06090508" n="8">
+               <name type="person" key="Clark, William">Clark</name> evidently started to write "<name type="person" key="Shannon, George">Shannon</name> and <name type="person" key="Colter, John">Colter</name>" and changed his mind.</note>
+            <note xml:id="n06090509" n="9">Either <name type="place" key="Niobrara Formation">Niobrara Formation</name> or Pierre Shale (see the geology note of <ref n="1804-09-04" type="related">September 4</ref>). The salty taste of the mineral springs was caused by sulfate minerals, mostly gypsum. Modern wells here still yield water containing excessive amounts of sulfate, selenium, and other hardness-producing constituents. The bluff may be the later <name type="place" key="Chouteau Bluffs">Chouteau Bluffs</name>, in <name type="place" key="Charles Mix County, S. Dak.">Charles Mix County</name>. Coues (HLC), 1:110 n. 22; <hi rend="italic">Atlas</hi> map 19; MRC map 32.</note>
+            <note xml:id="n06090510" n="10">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> natural history notes from Codex Q. The wild goats are pronghorn. In local, vernacular usage on the plains, the term goat is still applied. The snake is the bullsnake, <hi rend="italic">Pituophis melanoleucus sayi</hi>, first noticed on <ref n="1804-08-05" type="related">August 5, 1804</ref>. Benson, 89.</note>
+            <note xml:id="n06090511" n="11">
+               <name type="place" key="Chouteau (Goat) Creek">Chouteau Creek</name>, the boundary between <name type="place" key="Bon Homme County, S. Dak.">Bon Homme</name> and <name type="place" key="Charles Mix County, S. Dak.">Charles Mix</name> counties, <name type="place" key="South Dakota">South
+Dakota</name>.</note>
+            <note xml:id="n06090512" n="12">Pronghorn, <hi rend="italic">Antilocapra americana</hi>.</note>
+            <note xml:id="n06090513" n="13">The <name type="person" key="Field, Joseph and Reubin">Field brothers</name> and <name type="person" key="Drouillard, George">Drouillard</name>.</note>
+            <note xml:id="n06090514" n="14">Like <name type="person" key="Clark, William">Clark</name>, <name type="person" key="Gass, Patrick">Gass</name> uses "<name type="native_nation" key="Pawnee Indians">Pania</name>" (<name type="native_nation" key="Pawnee Indians">Pawnee</name>) for "<name type="native_nation" key="Ponca Indians">Ponca</name>." This is <name type="Ponca_Pania_Poncar_Creek">Ponca Creek</name>, <name type="place" key="Knox County, Nebr.">Knox County</name>, <name type="place" key="Nebraska">Nebraska</name>.</note>
+            <note xml:id="n06090515" n="15">Pronghorn, <hi rend="italic">Antilocapra americana.</hi>
+            </note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-09-04" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-09-06" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

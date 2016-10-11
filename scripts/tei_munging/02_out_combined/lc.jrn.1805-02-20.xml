@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-02-20">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+February 20, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 3</title>
+               <title level="m" type="sub">August 25, 1804–April 6, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">298-299</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">117</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-04-07</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-02-20">February 20, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-02-20.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="right">
+                        <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name>
+                        <lb/>
+20th <hi rend="italic">February Wednesday 1805</hi>
+                     </hi>
+                  </date>
+               </ab>
+               <p>
+a Butifull Day, visited by the <name type="person" key="Little Crow (Ka-goh-ha-me)">Little raven</name> verry early this morning    I am informed of the Death of an old man whome I Saw in the <name type="native_nation" key="Mandan Indians">Mandan</name> Village.    this man, informed me that he "was 120 winters old, he requested his grand Children to Dress him after Death &amp; Set him on a Stone on a hill with his face towards his old Village or Down the river, that he might go Streight to his brother at their old village under ground["]<ref target="n09022001" n="1"/>    I observed Several <name type="native_nation" key="Mandan Indians">Mandan</name> 〈of〉 verry old Chiefly men 
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-02-20.02" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 20th</hi> Feby. 1805.    a clear &amp; pleasant morning.    the hunters went on eairly    we delayed a Short time to let them Git on a head.    we then Set out and proceeded on verry well about 10 miles &amp; halted    broiled &amp; eat Some meat &amp; proceeded on a Short distance &amp; took on 3 deer which the hunters had killed and halled on the Ice.    we came about 8 miles further which took us above the <name type="place" key="Mandan Island">Mandans Island</name> as we call it.<ref target="n09022002" n="2"/>    we heard the hunters Shooting on the S. Side.    we camped on the South Side    the hunters came in had killed five Elk    we packed in three of them and night came on so that the hunters could not find the other 2.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n09022001" n="1">The man's wish that his spirit go downriver is apparently related to the <name type="native_nation" key="Mandan Indians">Mandans</name>' belief that the spirits of deceased persons traveled south to spirit villages at the mouth of the <name type="place" key="Heart (Ches-che-tar and similar spellings) River">Heart River</name>. There was also a belief that an underground village was located near the mouth of the <name type="place" key="Mississippi River">Mississippi River</name> from which the precursors of the <name type="native_nation" key="Mandan Indians">Mandans</name> surfaced. These two ideas may become garbled in <name type="person" key="Clark, William">Clark's</name> rendition. The man's reference to meeting his brother may relate to the <name type="native_nation" key="Mandan Indians">Mandans</name>' idea that life after death was more or less the same as life before death. Bowers (MSCO), 98–99, 183–84; Thwaites (EWT), 23:360–62; personal communication from Jeffery Hanson, October 18, 1985.</note>
+            <note xml:id="n09022002" n="2">Now <name type="place" key="Painted Woods Lake">Painted Woods Lake</name>, <name type="place" key="McLean County, N. Dak.">McLean County</name>, <name type="place" key="North Dakota">North Dakota</name>, passed on <ref n="1804-10-24" type="related">October 24</ref>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-02-19-20" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-02-21" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

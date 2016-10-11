@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-08-24">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 24, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">158-164</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">209-210</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">132</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">283-284</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-08-24.01">
+            <placeName/>
+            <geo>44.3667 -114.2667</geo>
+            <note>Clark camped in a different location again from the rest of the group. Camped near Shoup, Lemhi County, ID.</note>
+         </geoDecl>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-08-24.02">
+            <placeName/>
+            <geo>44.7667 -113.1333</geo>
+            <note>The group was at Shoshone Cove, Beaverhead County, MT.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-06-08</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-08-24">August 24, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-08-24.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Saturday August 24th 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+As the Indians who were on their way down the <name type="place" key="Missouri River">Missouri</name> had a number of spare hoses with them I thought it probable that I could obtain some of them and therefore desired the Cheif to speak to them and inform me whether they would trade.    they gave no positive answer but requested to see the goods which I was willing to give in exchange. I now produced some battle axes which I had made at <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name> with which they were much pleased.    knives also seemed a great demand among them. I soon purchased three horses and a mule.    for each horse I gave an ax a knife handkercheif and a little paint; &amp; for the mule the addition of a knife a shirt handkercheif and a pair of legings; at this price which was quite double that given for the horses, the fellow who sold him made a merit of having bestoed me one of his mules. I consider this mule a great acquisition. These Indians soon told me that they had no more horses for sale and I directed the party to prepare to set out. I had now nine horses and a mule, and two which I had hired made twelve these I had loaded and the Indian women took the ballance of the baggage. I had given the Interpreter some articles with which to purchase a horse for the woman which he had obtained.    at twelve Oclock we set out and passed the river below the forks, directing our rout towards the cove along the track formerly mentioned.<ref target="n21082401" n="1"/>    most of the horses were heavily laden, and it appears to me that it will require at least 25 horses to convey our baggage along such roads as I expect we shall be obliged to pass in the mountains. I had now the inexpressible satisfaction to find myself once more under way with all my baggage and party.    an Indian had the politeness to offer me one of his horses to ride which I accepted with cheerfullness as it enabled me to attend better to the march of the party. I had reached the lower part of the cove when an Indian rode up and informed me that one of my men was very sick and unable to come on. I directed the party to halt at a small run which falls into the creek on Lard. at the lower part of the Cove and rode back about 2 Miles where I found <name type="person" key="Weiser, Peter">Wiser</name> very ill with a fit of the cholic. I sent <name type="person" key="Ordway, John">Sergt. Ordway</name> who had remained with him for some water and gave him a doze of the essence of Peppermint and laudinum<ref target="n21082402" n="2"/> which in the course of half an hour so far recovered him that he was enabled to ride my horse and I proceeded on foot and rejoined the party.    the sun was yet an hour high but the Indians who had for some time impatiently waited my return at length unloaded and turned out their horses and my party had followed there example.    as it was so late and the Indians had prepared their camp for the night I thought it best to acquiess and determined also to remain.<ref target="n21082403" n="3"/>    we had traveled only about six miles.    after we encamped we had a slight shower of rain. <name type="person" key="Goodrich, Silas">Goodrich</name> who is our principal fisherman caught several fine trout. <name type="person" key="Drouillard, George">Drewyer</name> came to us late in the evening and had not killed anything. I gave the Indians who were absolutely engaged in transporting the baggage, a little corn as they had nothing to eat. I told <name type="person" key="Cameahwait">Cameahwait</name> that my stock of provision was too small to indulge all his people with provision and recommended it to him to advise such as were not assisting us with our baggage to go on to their camp to morrow and wait our arrival; which he did accordingly. <hi rend="italic">
+                     <name type="person" key="Cameahwait">Cameahwait</name>
+                  </hi> literally translated is <hi rend="italic">one who never walks.</hi>    he told me that his nation had also given him another name by which he was signalized as a warrior which was <name type="person" key="Cameahwait">Too-et'-te-con'-e</name> or <hi rend="italic">black gun.</hi>    these people have many names in the course of their lives, particularly if they become distinguished characters.    for it seems that every important event by which they happen to distinguish themselves intitles them to claim another name which is generally scelected by themselves and confirmed by the nation.    those distinguishing acts are the killing and scalping an enemy, the killing a white bear, leading a party to war who happen to be successfull either in destroying their enemies or robing them of their horses, or individually stealing the horses of an enemy.    these are considered acts of equal heroism among them, and that of killing an enemy without scalping him is considered of no importance; in fact the whole honour seems to be founded in the act of scalping, for if a man happens to slay a dozen of his enemies in action and others get the scalps or first lay their hand on the dead person the honor is lost to him who killed them and devolves on those who scalp or first touch them.<ref target="n21082404" n="4"/> Among the <name type="native_nation" key="Shoshone Indians">Shoshones</name>, as well as all the Indians of America, bravery is esteemed the primary virtue; nor can any one become eminent among them who has not at some period of his life given proofs of his possessing this virtue.    with them there can be no preferment without some warelike achievement, and so completely interwoven is this principle with the earliest Elements of thought that it will in my opinion prove a serious obstruction to the restoration of a general peace among the nations of the <name type="place" key="Missouri River">Missouri</name>.    while at <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name> I was one day addressing some cheifs of the <name type="native_nation" key="Hidatsa Indians">Minetares</name> wo visited us and pointing out to them the advantages of a state of peace with their neighbours over that of war in which they were engaged.    the Chiefs who had already geathered their havest of larals, and having forceably felt in many instances some of those inconveniences attending a state of war which I pointed out, readily agreed with me in opinion.    a young fellow under the full impression of the Idea I have just suggested asked me if they were in a state of peace with all their neighbours what the nation would do for Cheifs?, and added that the cheifs were now oald and must shortly die and that the nation could not exist without cheifs.    taking as granted that there could be no other mode devised for making Cheifs but that which custom had established through the medium of warlike acievements.</p>
+               <p>
+The few guns which the <name type="native_nation" key="Shoshone Indians">Shoshones</name> have are reserved for war almost exclusively and the bow and arrows are used in hunting. I have seen a few skins among these people which have almost every appearance of the common sheep.    they inform me that they finde this animal<ref target="n21082405" n="5"/> on the high mountains to the West and S. W. of them.    it is about the size of the common sheep, the wool is reather shorter and more intermixed with long hairs particularly on the upper part of the neck.    these skins have been so much woarn that I could not form a just Idea of the animal or it's colour.    the Indians however inform me that it is white and that it's horns are lunated comprest twisted and bent backward as those of the common sheep.    the texture of the skin appears to be that of the sheep. I am now perfectly convinced that the sheep as well as the Bighorn exist in these mountains. [<hi rend="italic">WC?: <name type="person" key="Clark, William">Capt. C</name> Saw one at a distance to day—</hi>]</p>
+               <p>
+The usual caparison of the <name type="native_nation" key="Shoshone Indians">Shoshone</name> horse is a halter and sadle.    the 1st consists either of a round plated or twisted cord of six or seven strands of buffaloe's hair, or a throng of raw hide made pliant by pounding and rubing.    these cords of bufaloe's hair are about the size of a man's finger and remarkably strong.    this is the kind of halter which is prefered by them.    the halter of whatever it may be composed is always of great length and is never taken from the neck of the horse which they commonly use at any time.    it is first attatched at one end about the neck of the horse with a knot that will not slip, it is then brought down to his under jaw and being passed through the mouth imbaces the under jaw and tonge in a simple noose formed by crossing the rope inderneath the jaw of the horse.    this when mounted he draws up on the near side of the horse's neck and holds in the left hand, suffering it to trail at a great distance behind him sometimes the halter is attatched so far from the end that while the shorter end serves him to govern his horse, the other trails on the grond as before mentioned.    they put their horses to their full speed with those cords trailing on the ground.    when they turn out the horse to graze the noose is mearly loosed from his mouth.    the saddle is made of wood and covered with raw hide which holds the parts very firmly together.    it is made like the pack saddles in uce among the French and Spaniards.    it consists of two flat thin boards which fit the sides of the horses back, and are held frirm by two peices which are united to them behind and before on the outer side and which rise to a considerable hight terminating sometimes in flat horizontal points extending outwards, and alwas in an accute angle or short bend underneath the upper part of these peices.    a peice of buffaloe's skin with the hair on, is usually put underneath the saddle; and very seldom any covering on the saddle [<hi rend="italic">NB: but when they ride they throw on a piece of Skin</hi>].    stirrups when used are made of wood and covered with leather.    these are generally used by the elderly men and women; the young men scarcely ever use anything more than a small pad of dressed leather stuffed with hair, which is confined with a leather thong passing arond the body of the horse in the manner of a girth.    they frequently paint their favorite horses, and cut their ears in various shapes.    they also decorate their mains and tails, which they never draw or trim, with the feathers of birds, and sometimes suspend at the breast of the horse the finest ornaments they possess.    the Spanish bridle is prefered by them when they can obtain them, but they never dispence with the cord about the neck of the horse, which serves them to take him with more ease when he is runing at large. They are excellent horsemen and extreemly expert in casting the cord about the neck of a horse. [<hi rend="italic">NB: Make a noose &amp; catch him running &amp;c</hi>] the horses that have been habituated to be taken with the cord in this way, however wild they may appear at first, surrender the moment they feel the cord about their necks.—    There are no horses in this quarter which can with propriety be termed wild.    there are some few which have been left by the indians at large for so great a length of time that they have become shye, but they all shew marks of having been in possession of man.    such is that one which <name type="person" key="Clark, William">Capt. Clark</name> saw just below the <name type="place" key="Missouri River, Three Forks of the">three forks of the Missouri</name>, and one other which I saw on the <name type="place" key="Missouri River">Missouri</name> below the entrance of the <name type="place" key="Musselshell (Mah-tush,-ah-zhah, Shell) River">Mussle shell river</name>.—    <name type="person" key="Clark, William">Capt. Clark</name> set out very early this morning on his return, he traveled down the creek to it's entrance by the same Indian track he had ascended it; at the river he marked his name on a pine tree, then ascended to the bottom above the second creek, and brekfasted on burries, which occupyed them about one hour.    he now retraced his former track and joined the party where he had left them at 4 P. M.    on his way <name type="person" key="Clark, William">Capt. C.</name> fell from a rock and injured one of his legs very much.    the party during his absence had killed a few pheasants and caught a few small fish on which together with haws and Serviceburies they had subsisted.    they had also killed one cock of the Mountains <name type="person" key="Clark, William">Capt. Clark</name> now wrote me a discription of the river and country, and stated our prospects by this rout as they have been heretofore mentioned [<hi rend="italic">WC?: related the information of his guide &amp; recomeds to me to purchase horses &amp;c</hi>] and dispatched <name type="person" key="Colter, John">Colter</name> on horseback with orders to loose no time reaching me.    he set out late with the party continued his rout about two miles and encamped.<ref target="n21082406" n="6"/>
+                  <name type="person" key="Clark, William">Capt Clark</name> had seen some trees which would make small canoes but all of them some distance below the Indian Caps which he passed at the entrance of <name type="place" key="Fish Creek (Idaho County, Idaho)">fish Creek</name>. [<hi rend="italic">WC?: he had learned from his guid that he had been on a river to the N. where he Saw people from the other Side the mountain and there was a road, he route he shewed in the Sand which gave me hope of finding a route across the m. in that direction</hi>]</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-24.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">August 24th Satturday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+Set out verry early this morning on my return passed down the <name type="place" key="Indian (Berry) Creek (Idaho)">[<hi rend="italic">EC: Berry</hi>] Creek</name> at the mouth marked my name on a pine Tree, proceed on to the bottom above the Creek &amp; Brackfast on buries &amp; delayed 1 hour, then proceed on up the river by the Same rout we decended to the place I left my party where we arrived at 4 oClock, (I Sliped &amp; bruised my leg verry much on a rock)    the party had killed Several phesents and Cought a fiew Small fish on which they had Subsisted in my absence. also a heath hen, near the Size of a Small turkey.</p>
+               <p>
+I wrote a letter to <name type="person" key="Lewis, Meriwether">Capt Lewis</name> informing him of the prospects before us and information recved of my guide which I thought favourable &amp;c. &amp; Stating two plans 〈for〉 one of which for us to pursue &amp;c. and despatched one man &amp; horse and directed the party to get ready to march back, every man appeared disheartened from the prospects of the river, and nothing to eate, I Set out late and Camped 2 miles above, nothing to eate but Choke Cherries &amp; red haws<ref target="n21082407" n="7"/> which act indifferent ways So as to make us Sick, dew verry heavy, my beding wet    in passing around a rock the horses were obliged to go deep into the water.</p>
+               <p>
+The plan I stated to <name type="person" key="Lewis, Meriwether">Capt Lewis</name> if he agrees with me we shall adopt is to procure as many horses (one for each man) if possible and to hire my present guide who I sent on to him to interegate thro' the Intprtr. and proceed on by land to Some navagable part of the <name type="place" key="Columbia River">
+                     <hi rend="italic">Columbia</hi> River</name>, or to the <hi rend="italic">Ocean,</hi> depending on what provisions we can procure by the gun aded to the Small Stock we have on hand depending on our horses as the last resort.</p>
+               <p>
+a second plan to divide the party one part to attempt this deficuet river with what provisions we had, and the remaindr to pass by Land on hose back Depending on our gun &amp;c for Provisions &amp;c. and come together occasionally on the river.</p>
+               <p>
+〈a third to [send?] one party to attempt to pass the mountain by horses, &amp; the other to return to the <name type="place" key="Missouri River">Missouri</name> Collect provisions &amp; go up <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Medison rivr</name>〉 the 1s of which I would be most pleased with &amp;c.<ref target="n21082408" n="8"/>
+               </p>
+               <p>
+I saw Several trees which would make Small Canoes and by putting 2 together would make a Siseable one, all below the last Indian Camp Several miles
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-24.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 24th August 1805</hi>.    a clear cool morning.    we find that the band of the <name type="native_nation" key="Shoshone Indians">Snake nation</name> who came here yesterday are going down on the <name type="place" key="Missouri River">Missourie</name> after the buffaloe and offers Some of their horses for Sale So we delay this morning in order to purchase Some from them.    we got three or 4 more horses &amp; hired two and loaded all our horses 12 in nomber.    then the Squaws took on their horses the remainder of our baggage    we had abt. 20 horses loaded with baggage and Set out about 12 oClock on our journey to cross the dividing mountains.    we went about 3 miles up the valley.    one of the men <name type="person" key="Weiser, Peter">P. Wiser</name> was taken of a Sudden with the collick and ditained us So that we got only about 5 miles this afternoon and Camped at the creek on the edge of a large Smooth plain.<ref target="n21082409" n="9"/>    we had a Small Shower of rain    one of the men caught Several large Trout    one of the hunters came to camp    had killd. nothing.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-24.04" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 24th.</hi>    We had a pleasant morning and some of the men went out to hunt. The river at this place is so confined by the mountains that it is not more than 20 yards wide, and very rapid. The mountains on the sides are not less than 1000 feet high and very steep. There are a few pines growing on them. We caught some small fish to day, and our hunters killed 5 prairie fowls. These were all we had to subsist on. At 1 o'clock <name type="person" key="Clark, William">Captain Clarke</name> and his party returned, after having been down the river about 12 miles.<ref target="n21082410" n="10"/> They found it was not possible to go down either by land or water, without much risk and trouble. The water is so rapid and the bed of the river so rocky, that going by water appeared impracticable; and the mountains so amazingly high, steep and rocky, that it seemed impossible to go along the river by land. Our guide speaks of a way to sea, by going up the south fork of this river,<ref target="n21082411" n="11"/> getting on to the mountains that way, and then turning to the south west 
+again. <name type="person" key="Clark, William">Captain Clarke</name> therefore wrote a letter to <name type="person" key="Lewis, Meriwether">Captain Lewis</name>, and dispatched a man on horseback to meet him; and we all turned back up the river again, poor and uncomfortable enough, as we had nothing to eat, and there is no game. We proceeded up about 3 miles, and supperless went to rest for the night.<ref target="n21082412" n="12"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-24.05" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Saturday 24th August 1805</hi>.    a clear cool morning.    we find that the band of the <name type="native_nation" key="Shoshone Indians">Snake</name> nation who came here yesterday is going down on the <name type="place" key="Missouri River">Missourie</name> after the buffaloe, and offers Some of their horses for Sale.    So we Detain this morning in order to purchase Some of them.    we got 3 or 4 more horses and hired 2 and loaded all our horses which was abt. 12 in nomber    then the Squaws took the remainder of our baggage and we then Set out about 12 oC. on our way to cross the divideing ridge.    proceeded on abt. 3 miles    one of the men<ref target="n21082413" n="13"/> was taken Sick with the collick, and detained us So that we came only about 6 miles and Camped on the creek.<ref target="n21082414" n="14"/>    one of the hunters came to us had killed nothing    we gave the Indians Some corn, as they had nothing to eat.</p>
+               <p>
+Saturday August 24th    This morning we had Clear, cold weather, The <name type="native_nation" key="Shoshone Indians">Snake</name> band of Indians, that came to our Camp Yesterday, informed our Officer, that they intend going down the <name type="place" key="Missouri River">Mesouri River</name>, to hunt buffalo, and offer some of their horses for sale.    <name type="person" key="Lewis, Meriwether">Captain Lewis</name> delayed for a while, in Order to try &amp; purchase some of their horses from them.    he succeeded in his expectation &amp; purchased 4 〈more〉 horses, &amp; hired from those Indians 2 more, which is intended to be packed with our baggage.—    We packed all our horses, being 12 in number, &amp; what baggage remain'd, the Indian Squaws carried for us—    We set out about 12 o'Clock A. M. on our way, to cross the dividing ridge of mountains, &amp; proceeded on about 3 Miles.    One of our party was here taking very Ill of the Cholic, which detained us some Considerable time, we proceeded on our way, and went only 3 Miles further, and encamped at a Creek, having only came 6 Miles this day.    One of our hunters came to us here, he having met with nothing to kill.—    We gave the Indians some Corn, to eat, they having no Provisions with them.—
+
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n21082401" n="1">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> party crossed <name type="place" key="Beaverhead (Jefferson) River">the Beaverhead</name> and went up <name type="place" key="Horse Prairie Creek (West Fork Jefferson River)">Horse Prairie Creek</name> into <name type="place" key="Shoshone Cove">Shoshone Cove</name>. His route appears as a dotted line on <hi rend="italic">Atlas</hi> maps 66–67 and his campsites are marked.</note>
+            <note xml:id="n21082402" n="2">The essential oil of peppermint was used as a digestive stimulant and as a carminative, that is, to expel gas from the alimentary canal. Laudanum is a tincture of opium.</note>
+            <note xml:id="n21082403" n="3">The campsite, marked by a faint symbol on <hi rend="italic">Atlas</hi> map 67, is a few miles east of <name type="place" key="Grant, Mont.">Grant</name>, <name type="place" key="Beaverhead County, Mont.">Beaverhead County</name>, <name type="place" key="Montana">Montana</name>.</note>
+            <note xml:id="n21082404" n="4">Among the plains tribes, to be first to touch an enemy was considered the bravest of war deeds. Whites called this practice "counting coup," from the French word for "blow" or "strike." The <name type="native_nation" key="Shoshone Indians">Shoshones</name>, being strongly influenced by plains culture, had adopted the custom. Hodge, 1:354.</note>
+            <note xml:id="n21082405" n="5">The first notice in the journals of the mountain goat, <hi rend="italic">Oreamnos americanus,</hi> then unknown to science. <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> were never to see one alive and at close range. Cutright (LCPN), 192. It was probably <name type="person" key="Biddle, Nicholas">Biddle</name> who drew a red vertical line through this passage.</note>
+            <note xml:id="n21082406" n="6">Not marked on <hi rend="italic">Atlas</hi> map 67, the site would be approximately two miles up the <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Salmon</name> (northeast) from the place <name type="person" key="Clark, William">Clark</name> left the eight men on his route downstream, in <name type="place" key="Lemhi County, Idaho">Lemhi County</name>, <name type="place" key="Idaho">Idaho</name>, a few miles southwest of present <name type="place" key="North Fork Salmon River (Fish Creek)">North Fork</name> and the mouth of the <name type="place" key="North Fork Salmon River (Fish Creek)">North Fork Salmon River</name>. On <hi rend="italic">Atlas</hi> map 67, at the mouth of present <name type="place" key="Indian (Berry) Creek (Idaho)">Indian (Berry) Creek</name>, <name type="person" key="Clark, William">Clark</name> has written, "Pin[e] marked W. C.," indicating where he marked his name or initials.</note>
+            <note xml:id="n21082407" n="7">Columbia hawthorn, <hi rend="italic">Crataegus columbiana</hi> How., is the only species of native, red-fruited hawthorn west of the <name type="place" key="Continental Divide">Continental Divide</name>. Hitchcock et al., 3:101; Booth &amp; Wright, 111.</note>
+            <note xml:id="n21082408" n="8">Having returned from the unsatisfactory reconnaissance of the <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Salmon River</name>, <name type="person" key="Clark, William">Clark</name> here thought out on paper the possible methods of crossing the mountains. The first and favored proposal, for hiring <name type="person" key="Old Toby">Old Toby</name> as a guide and crossing the <name type="place" key="Lolo Trail">Lolo Trail</name> on horseback, was the one the captains adopted. The second involved sending part of the party down the <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Salmon</name> by canoe while the remainder traveled by horseback and attempted to stay in touch with the river party; <name type="person" key="Clark, William">Clark</name> had already gained enough knowledge of the difficulties of the country to rule this course out. The third appears to be a considerably modified version of the first, prompted by the concern over the scanty sources of food in the mountains. One party would have gone down the <name type="place" key="Bitterroot (Clark's, Flathead) River">Bitterroot River</name> toward the <name type="place" key="Lolo Trail">Lolo Trail</name> while the other would have returned down the <name type="place" key="Missouri River">Missouri</name> to the buffalo range near the <name type="place" key="Columbia River, Great Falls of the">Great Falls</name> to "collect provisions"—probably by jerking meat—and then gone up the <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Sun (Medicine) River</name> to seek a way to rejoin the others. They had not known of the <name type="place" key="Sun (Mah-pah-pah,-ah-zhah, Medicine) River">Sun River</name> route, which <name type="person" key="Lewis, Meriwether">Lewis</name> would follow on the return trip in 1806, until they discussed the geography of the region with the <name type="native_nation" key="Shoshone Indians">Shoshones</name>. Having set this last plan down on paper, <name type="person" key="Clark, William">Clark</name> obviously found it unacceptable, probably because of the cost in time and the wide separation of the two parties, and crossed it out. The suggestions do indicate <name type="person" key="Clark, William">Clark's</name> soundness of judgment and understanding of the problems the Corps of Discovery faced.</note>
+            <note xml:id="n21082409" n="9">The party crossed the <name type="place" key="Beaverhead (Jefferson) River">Beaverhead River</name> and went up <name type="place" key="Horse Prairie Creek (West Fork Jefferson River)">Horse Prairie Creek</name> along <name type="place" key="Shoshone Cove">Shoshone Cove</name>, <name type="place" key="Beaverhead County, Mont.">Beaverhead County</name>, <name type="place" key="Montana">Montana</name>.</note>
+            <note xml:id="n21082410" n="10">On August 23 <name type="person" key="Clark, William">Clark</name> reached a point perhaps three miles above <name type="place" key="Shoup, Idaho">Shoup</name>, <name type="place" key="Lemhi County, Idaho">Lemhi County</name>, <name type="place" key="Idaho">Idaho</name>. See the captains' descriptions for that date.</note>
+            <note xml:id="n21082411" n="11">This could refer to the <name type="place"
+                     key="Snake (Ki-moo-e-nim, Lewis's, Southeast Branch of Columbia) River">Snake River</name>, into which the <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Salmon</name> flows. However, <name type="person" key="Gass, Patrick">Gass</name> may mean the <name type="place" key="North Fork Salmon River (Fish Creek)">North Fork Salmon River</name>, up which the party did indeed travel to reach the <name type="place" key="Bitterroot (Clark's, Flathead) River">Bitterroot</name> valley in <name type="place" key="Montana">Montana</name>, and then travel southwest on the <name type="place" key="Lolo Trail">Lolo Trail</name> to the <name type="native_nation" key="Nez Perce Indians">Nez Perce</name> country on the <name type="place" key="Clearwater (Flathead, Kooskooskee) River">Clearwater River</name>.</note>
+            <note xml:id="n21082412" n="12">About two or three miles up the <name type="place"
+                     key="Salmon (Lewis's, Main Fork Lewis's, Southeast Fork of Columbia, West Fork Lewis's) River">Salmon</name> (northeast) from the spot where <name type="person" key="Gass, Patrick">Gass</name> had remained with the enlisted men, in <name type="place" key="Lemhi County, Idaho">Lemhi County</name>, <name type="place" key="Idaho">Idaho</name>, a few miles southwest of <name type="place" key="North Fork Salmon River (Fish Creek)">North Fork</name> 
+and the mouth of the <name type="place" key="North Fork Salmon River (Fish Creek)">North Fork Salmon River</name>.</note>
+            <note xml:id="n21082413" n="13">
+               <name type="person" key="Weiser, Peter">Peter Weiser</name>, according to <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Ordway, John">Ordway</name>.</note>
+            <note xml:id="n21082414" n="14">The party crossed <name type="place" key="Beaverhead (Jefferson) River">Beaverhead River</name> and followed <name type="place" key="Horse Prairie Creek (West Fork Jefferson River)">Horse Prairie Creek</name> upstream along <name type="place" key="Shoshone Cove">Shoshone Cove</name>, <name type="place" key="Beaverhead County, Mont.">Beaverhead County</name>, <name type="place" key="Montana">Montana</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-08-23" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-08-25" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

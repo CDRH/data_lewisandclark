@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1804-01-27">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+January 27, 1804</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2003</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
+               <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1986</date>
+               <biblScope type="pages">166</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-01-05</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1804-01-27">January 27, 1804</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1804-01-27.01" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Friday 27th Jany: 1804.<ref target="n03012701" n="1"/>    a Cloudy morning    Some Snow, this morning I am verry unwell, to day at 1 oClock 28 abov 0, (I send off <name type="person" key="Howard, Thomas P.">Howrd</name> express to day to <name type="person" key="Lewis, Meriwether">Cap Lewis</name> at <name type="place" key="Cahokia, Ill.">Koho: [Cahokia]</name> with a Letter<ref target="n03012702" n="2"/> 〈I am some better,〉    <name type="person" key="Windsor, Richard">Winser</name> who was out Last night returned    he Killed a Deer &amp; Turkey—    <name type="person" key="Gibson, George">Gibson</name> Killed 1 Deer to day, <name type="person" key="Collins, John">Collons</name> one near Camp
+
+	
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n03012701" n="1">Under the beginning of this entry is the following calculation, apparently from an astronomical observation:
+<table rows="3" cols="3">
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">11</cell>
+                     <cell role="data" rows="1" cols="1">10</cell>
+                     <cell role="data" rows="1" cols="1"> </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">
+                        <hi rend="underline">  1</hi>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">
+                        <hi rend="underline">22</hi>
+                     </cell>
+                     <cell role="data" rows="1" cols="1">
+                        <hi rend="underline">27</hi>
+                     </cell>
+                  </row>
+                  <row role="data">
+                     <cell role="data" rows="1" cols="1">  9</cell>
+                     <cell role="data" rows="1" cols="1">47</cell>
+                     <cell role="data" rows="1" cols="1">33</cell>
+                  </row>
+               </table>
+            </note>
+            <note xml:id="n03012702" n="2">Document 28 of the Field Notes may originally have been the envelope for Lewis's reply to this message. See below, <ref n="1804-07-06" type="related">July 6, 1804</ref>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1804-01-26" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1804-01-28" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

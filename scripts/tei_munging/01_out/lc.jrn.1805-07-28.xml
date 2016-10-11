@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-07-28">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+July 28, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">7-10</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">191</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">119</biblScope>
+            </bibl>
+            <bibl>
+               <author>Meriwether Lewis</author>
+               <author>William Clark</author>
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">244-245</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-05-27</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-07-28">July 28, 1805</date>
+         </head>
+         <p>
+            <figure rend="map">
+               <p>The Expedition's Route, July 28–November 1, 1805
+<bibl>
+                     <title>(<hi rend="italic">Journals</hi>
+                     </title>
+                     <biblScope type="volume"> 5</biblScope>
+                     <orgName> University of Nebraska Press,</orgName>
+                     <note place="inline"> used with permission.)</note>
+                  </bibl>
+               </p>
+            </figure>
+         </p>
+         <lb/>
+         <div type="entry" xml:id="lc.jrn.1805-07-28.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Sunday July 28th 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+My friend <name type="person" key="Clark, William">Capt. Clark</name> was very sick all last night but feels himself somewhat better this morning since his medicine has opperated.<ref target="n18072801" n="1"/> I dispatched two men early this morning up the <name type="place" key="Gallatin (South, Southeast Fork) River">S. E. Fork</name> to examine the river; and permitted sundry others to hunt in the neighbourhood of this place. Both <name type="person" key="Clark, William">Capt. C.</name> and myself corrisponded in opinion with rispect to the impropriety of calling either of these streams the <name type="place" key="Missouri River">Missouri</name> and accordingly agreed to name them after the President of the United States and the Secretaries of the Treasury and state having previously named one river in honour of the Secretaries of War and Navy. In pursuance of this resolution we called the <name type="place" key="Jefferson River (North, Southwest Fork)">S. W. fork</name>, that which we meant to ascend, <name type="place" key="Jefferson River (North, Southwest Fork)">Jefferson's River</name> in honor of 〈that illustrious personage〉 <name type="person" key="Jefferson, Thomas">Thomas Jefferson</name>. [<hi rend="italic">NB?: the author of our enterprise,</hi>]<ref target="n18072802" n="2"/>    the <name type="place" key="Madison River (Middle Fork)">Middle fork</name> we called <name type="place" key="Madison River (Middle Fork)">Madison's River</name> in honor of <name type="person" key="Madison, James">James Madison</name>, and the <name type="place" key="Gallatin (South, Southeast Fork) River">S. E. Fork</name> we called <name type="place" key="Gallatin (South, Southeast Fork) River">Gallitin's River</name> in honor of <name type="person" key="Gallatin, Albert">Albert Gallitin</name>.<ref target="n18072803" n="3"/>    the two first are 90 yards wide and the last is 70 yards.    all of them run with great valocity and thow out large bodies of water. <name type="place" key="Gallatin (South, Southeast Fork) River">Gallitin's River</name> is reather more rapid than either of the others, is not quite as deep but from all appearances may be navigated to a considerable distance. <name type="person" key="Clark, William">Capt. C.</name> who came down <name type="place" key="Madison River (Middle Fork)">Madison's river</name> yesterday and has also seen <name type="place" key="Jefferson River (North, Southwest Fork)">Jefferson's</name> some distance thinks <name type="place" key="Madison River (Middle Fork)">Madison's</name> reather the most rapid, but it is not as much so by any means as <name type="place" key="Gallatin (South, Southeast Fork) River">Gallitan's</name>.    the beds of all these streams are formed of smooth pebble and gravel,<ref target="n18072804" n="4"/> and their waters perfectly transparent; in short they are three noble streams.    there is timber enough here to support an establishment,<ref target="n18072805" n="5"/> provided it be erected with brick or stone either of which would be much cheaper than wood as all the materials for such a work are immediately at the spot.    there are several small sand-bars along the shores at no great distance of very pure sand and the earth appears as if it would make good brick.<ref target="n18072806" n="6"/> I had all our baggage spread out to dry this morning; and the day proving warm, I had a small bower or booth erected for the comfort of <name type="person" key="Clark, William">Capt. C.</name>    our leather lodge when exposed to the sun is excessively hot. I observe large quantities of the sand rush in these bottoms which grow in many places as high as a man's breast and stand as thick as the stalks of wheat usually do. this affords one of the best winter pastures on earth for horses or cows, and of course will be much in favour of an establishment should it ever be thought necessary to fix one at this place.    the grass is also luxouriant and would afford a fine swarth of hay at this time in parsels of ma[n]y acres together.<ref target="n18072807" n="7"/>    all those who are not hunting altho' much fatiegued are busily engaged in dressing their skins, making mockersons lexing [leggings] &amp;c to make themselves comfortable.    the Musquetoes are more than usually troublesome, the knats are not as much so.<ref target="n18072808" n="8"/>    in the evening about 4 O'Ck the wind blew hard from South West and after some little time brought on a Cloud attended with thunder and Lightning from which we had a fine refreshing shower which cooled the air considerably; the showers continued with short intervals untill after dark.    in the evening the hunters all returned they had killed 8 deer and 2 Elk.    some of the deer wer in excellent order.    those whome I had sent up <name type="place" key="Gallatin (South, Southeast Fork) River">Gallitin's river</name> reported that after it passed the point to which I had seen it yesterday that it turned more to the East to a considerable distance or as far as they could discover the opening of the Mountains formed by it's valley which was many miles.    the bottoms were tolerably wide but not as much so as at or near it's mouth.    it's current is rappid and the stream much divided with islands but is sufficiently deep for canoe navigation. Our present camp is precisely on the spot that the <name type="native_nation" key="Shoshone Indians">Snake</name> Indians were encamped at the time the <name type="native_nation" key="Hidatsa Indians">Minnetares</name> of the <name type="place" key="Knife River">Knife R.</name> first came in sight of them five years since.    from hence they retreated about three miles up <name type="place" key="Jefferson River (North, Southwest Fork)">Jeffersons river</name> and concealed themselves in the woods, the <name type="native_nation" key="Hidatsa Indians">Minnetares</name> pursued, attacked them, killed 4 men 4 women a number of boys, and mad prisoners of all the females and four boys, <hi rend="italic">
+                     <name type="person" key="Sacagawea">Sah-cah-gar-we-ah</name>
+                  </hi> or Indian woman was one of the female prisoners taken at that time; tho' I cannot discover that she shews any immotion of sorrow in recollecting this events, or of joy in being again restored to her native country; if she has enough to eat and a few trinkets to wear I believe she would be perfectly content anywhere.—</p>
+               <p>
+                  <hi rend="right">
+                     <hi rend="italic">Point of observation No. 39.</hi>
+                  </hi>
+               </p>
+               <p>
+At our encampment on Camp Island, near the junction of the <name type="place" key="Missouri River, Three Forks of the">three forks of the Missouri</name>.</p>
+               <p>
+Observed Equal Altitudes of <seg n="u9737">☉</seg> with Sextant.</p>
+               <p>
+                  <table rows="4" cols="10">
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">h</cell>
+                        <cell role="data" rows="1" cols="1">m</cell>
+                        <cell role="data" rows="1" cols="1"> s</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">h    m      s</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">A.M.</cell>
+                        <cell role="data" rows="1" cols="1">8</cell>
+                        <cell role="data" rows="1" cols="1">42</cell>
+                        <cell role="data" rows="1" cols="1">10</cell>
+                        <cell role="data" rows="1" cols="1">     </cell>
+                        <cell role="data" rows="1" cols="1">P.M.</cell>
+                        <cell role="data" rows="1" cols="1">4    21    46</cell>
+                        <cell role="data" rows="1" cols="1">accurate</cell>
+                        <cell role="data" rows="3" cols="1">}</cell>
+                        <cell role="data" rows="3" cols="1">Altd. at the<lb/>time of Observtn.<lb/>72° 8' 15"</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">43</cell>
+                        <cell role="data" rows="1" cols="1">42</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"    23    21</cell>
+                        <cell role="data" rows="1" cols="1">doubtfull</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">"</cell>
+                        <cell role="data" rows="1" cols="1">45</cell>
+                        <cell role="data" rows="1" cols="1">15</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1"/>
+                        <cell role="data" rows="1" cols="1">lost by Clouds</cell>
+                        <cell role="data" rows="1" cols="1"/>
+                     </row>
+                  </table>
+               </p>
+               <p>    
+Observed Meridian Altitude of <seg n="u9737">☉</seg>'s L. L. with Octant by the back observation—58° 35' —"</p>
+               <p>
+Latitude deduced from this observation 45° 24' 54"</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-07-28.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">July 28th Sunday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+I was verry unwell all night, Something better this morning, a very worm day untill 4 oClock when the wind rose &amp; blew hard from the S W. and was Cloudy, The Thermometr. Stood at 90° above 0 in the evening a heavy thunder Shower from the S W. which continud at intervales untill after dark, Several deer killed to day    men all employed dressing Skins for Clothes &amp; Mockersons, two men went up the East fork &amp; reports that it is nearly the Size of the <name type="place" key="Jefferson River (North, Southwest Fork)">N. fork</name>, verry rapid &amp; has maney Islands. Our present Camp is the prosise Spot the <name type="native_nation" key="Shoshone Indians">Snake</name> Indians were Camped at the time the <name type="native_nation" key="Hidatsa Indians">Minetarries</name> came in Sight, attacked &amp; killed 4 men 4 women &amp; a number of boys, &amp; made prisoners of all the females &amp; 4 boys.
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-07-28.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">July 28th Sunday</hi> 1805.    a foggy morning, but clear after. Several men went out a hunting.    we put out the baggage to air. <name type="person" key="Clark, William">Capt. Clark</name> Sick.    we built a bower for his comfort.    the party though much fatigued are engaged dressing Skins to make themselves cloaths and mockasons &amp;C.    towards evening the hunters all returned    had killed 7 or 8 deer and 2 Elk. Some of the buck deer were fat.    one of the hunters who had been up the <name type="place" key="Gallatin (South, Southeast Fork) River">South fork</name> a Short distance, and found it not so large as the West &amp; <name type="place" key="Jefferson River (North, Southwest Fork)">N. forks</name>.    we conclude to proceede up <name type="place" key="Jefferson River (North, Southwest Fork)">the North fork</name> to the Mountains.    towards evening we had a fine Shower of rain    Some Thunder attended it which cooled the air verry much.    the men at Camp all employed dressing their Skins &amp;C.—    rushes along here.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-07-28.04" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday 28th.</hi>    As this was a fine day, the men were employed in airing the baggage, dressing skins and hunting. <name type="person" key="Clark, William">Capt. Clark</name> still continued unwell. Our squaw informed us, that it was at this place she had been taken prisoner by the <name type="native_nation" key="Hidatsa Indians">Grossventers</name> 4 or 5 years ago.<ref target="n18072809" n="9"/> From this valley we can discover a large mountain with snow on it, towards the southwest;<ref target="n18072810" n="10"/> and expect to pass by the northwest end of it. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name> had a meridian altitude here, which gave 45° 22 34.5" north latitude. We also remained here the 29th, which was a fine day, and the men chiefly employed in the same way. <name type="person" key="Clark, William">Capt. Clarke</name> is 
+getting better.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-07-28.05" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Sunday 28th July 1805</hi>.    a foggy morning but clear.    Several men went out eairly a hunting.    we put out all the baggage to air.    <name type="person" key="Clark, William">Capt Clark</name> verry unwell.    we built a bowrey for his comfort.    the party in general much fatigued.    Several lame, with Sore feet &amp;c.    towards evening the hunters all returned.    had killed 7 or 8 Deer Some of them fat bucks.    one of them who had been a Short distance up the <name type="place" key="Gallatin (South, Southeast Fork) River">South fork</name> &amp; found it not as large as the <name type="place" key="Madison River (Middle Fork)">middle</name> or west &amp; <name type="place" key="Jefferson River (North, Southwest Fork)">North forks</name>, which are near of a Size.    in the evening we had a fine Shower of rain.    Some Thunder attended it, which cooled the air much.    the men at Camp has employed themselves this day in dressing Skins, to make cloathing for themselves.    I am employed makeing the chief part of the cloathing for the party.    two Elk killed to day also—</p>
+               <p>
+Sunday July 28th    We had some fog early this morning, but it cleared away at Sun rise, &amp; the weather was pleasant, several of our party went out a hunting, and the remainder was employed in Airing the Baggage &amp;ca.—    
+<name type="person" key="Clark, William">Captain Clarke</name> continued still very sick,—    part of our Men were taken off, from the Baggage &amp;ca. in order to build a bowry, for his accomodation 〈of <name type="person" key="Clark, William">Captain Clark</name>〉, which they soon compleated,—    The Men that were hawling the Boats along with the tow lines, for several days past are much fataigued; &amp; some of them lame from Cuts they got in their feet in passing rockey &amp; stoney parts of the Shores.—    towards the evening the party that had went out hunting returned.    They had killed 8 Deer, some of which were very fat.    One of that party mentioned that he had been up the <name type="place" key="Jefferson River (North, Southwest Fork)">North</name>, &amp; West (or <name type="place" key="Madison River (Middle Fork)">middle fork</name> of the <name type="place" key="Missouri River">River Mesouri</name>,) and mentioned that those two rivers, appeared to him to be nearly one width.    In the evening, we had a fine shower of rain, accompanied with Thunder, which cooled the Air, &amp; made it very pleasant, The Men at our Camp, were 〈Airing〉 employed in drying the Baggage &amp;ca 〈was drying, employed themselves in〉 &amp; dressing 
+of Skins to make themselves Cloathing.—    I was employed in making chief part of the Cloathing for the whole party.—    Our Hunters killed also 2 Elk, which was brought into our Camp.—
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n18072801" n="1">See <ref n="1805-07-26" type="related">July 26, 1805</ref>, and Chuinard (OOMD), 302–4.</note>
+            <note xml:id="n18072802" n="2">It may have been <name type="person" key="Biddle, Nicholas">Biddle</name> who also marked through the preceding passage, "that illustrious personage," both in pencil.</note>
+            <note xml:id="n18072803" n="3">The rivers still retain the names applied by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>. See <ref n="1805-07-27" type="related">July 27, 1805</ref>, concerning names of the <name type="place" key="Missouri River, Three Forks of the">three forks</name>.</note>
+            <note xml:id="n18072804" n="4">These rivers all have steep gradients and they and their tributaries head in the mountains where there is an abundant source of rock. The gravel beds of these streams are a consequence of these gradients and the nearness of the source of rock.</note>
+            <note xml:id="n18072805" n="5">
+               <name type="person" key="Ménard, Pierre">Pierre Ménard</name> and <name type="person" key="Henry, Andrew">Andrew Henry</name> of the Missouri Fur Company built a post at the <name type="place" key="Missouri River, Three Forks of the">Three Forks</name> in 1810, either at <name type="person" key="Lewis, Meriwether">Lewis's</name> recommended site between the <name type="place" key="Madison River (Middle Fork)">Madison</name> and <name type="place" key="Gallatin (South, Southeast Fork) River">the Gallatin</name> or, more likely, near the Corps of Discovery's campsite on the east bank of <name type="place" key="Jefferson River (North, Southwest Fork)">the Jefferson</name>. Almost certainly it was not of brick or stone. The post proved impossible to maintain because of <name type="native_nation" key="Blackfeet Indians">Blackfeet</name> hostility. <name type="person" key="Potts, John">John Potts</name> was killed nearby in 1808 while trapping with <name type="person" key="Colter, John">John Colter</name>, and <name type="person" key="Drouillard, George">George Drouillard</name> also died in the vicinity at the hands of the <name type="native_nation" key="Blackfeet Indians">Blackfeet</name> in 1810, while working for the Missouri Fur Company. In the same area <name type="person" key="Colter, John">John Colter</name> had a series of narrow escapes from the <name type="native_nation" key="Blackfeet Indians">Blackfeet</name>, including his famous naked run from the <name type="place" key="Jefferson River (North, Southwest Fork)">Jefferson</name> to the <name type="place" key="Madison River (Middle Fork)">Madison</name> on the occasion of <name type="person" key="Potts, John">Potts's</name> death. Appleman (LC), 328–32; Oglesby, 93–96; James, 29–48; Harris; <hi rend="italic">Atlas</hi> map 65.</note>
+            <note xml:id="n18072806" n="6">The <name type="place" key="Missouri River, Three Forks of the">Three Forks</name> valley is underlain by Tertiary continental deposits. Some of these deposits contain excellent clay for making pottery or brick.</note>
+            <note xml:id="n18072807" n="7">The sandrush, scouring rush, <hi rend="italic">Equisetum hyemale</hi> L. Sandrush refers to the habit of this plant of growing vigorously on river floodplains when periodic floods deposit sand on top of the plants, and due to their rhizomatous habit, grow and reproduce abundantly as described. Hitchcock et al., 1:41. The grass is probably a mixture of native grasses, sedges, and rushes commonly found growing in the wet meadows adjacent to the river floodplain. Perhaps it was <name type="place" key="Biddle, Nicholas">Biddle</name> who drew a red vertical line through the first part of this passage.</note>
+            <note xml:id="n18072808" n="8">The mosquitoes are <hi rend="italic">Aedes vexans</hi> and the gnats are probably the buffalo gnat, <hi rend="italic">Simulium</hi> sp.</note>
+            <note xml:id="n18072809" n="9">See <name type="person" key="Lewis, Meriwether">Lewis's</name> reflections on this information on this date.</note>
+            <note xml:id="n18072810" n="10">The <name type="place" key="Tobacco Root Mountains">Tobacco Root Mountains</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-07-27" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-07-29" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

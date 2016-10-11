@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-08-04">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 4, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 8</title>
+               <title level="m" type="sub">June 10–September 26, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1987</date>
+               <biblScope type="pages">147-148, 280-281</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">345</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">262</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-08-04.01">
+            <placeName/>
+            <geo>47.9578 -103.914</geo>
+            <note>Clark camped in either McKenzie or Williams County, ND, possibly near the camp of 1805-04-25.</note>
+         </geoDecl>
+         <geoDecl datum="WGS" xml:id="lc.geo.1806-08-04.02">
+            <placeName/>
+            <geo>48.0066 -106.1462</geo>
+            <note>The rest of the party camped in either Valley or McCone County, MT, a couple miles above the camp of 1805-05-07.</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic"/>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-12-07</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-08-04">August 4, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-08-04.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Monday August 4th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+Set out at 4 A. M. this morning.    permited <name type="person" key="Willard, Alexander">Willard</name> and <name type="person" key="Ordway, John">Sergt. Ordway</name> to exchange with the <name type="person" key="Field, Joseph and Reubin">Feildses</name> and take their small canoe to hunt today.    at ½ after eleven O'Ck. passed the entrance of big dry river;<ref target="n37080401" n="1"/> found the water in this river about 60 yds. wide tho' shallow.    it runs with a boald even currant.    at 3 P. M. we arrived at the entrance of <name type="place"
+                        key="Milk (Ah-mâh-tâh ru-shush-sher, River Which Scolds at All Others) River">Milk river</name>
+                  <ref target="n37080402" n="2"/> where we halted a few minutes.    this stream is full at present and it's water is much the colour of that of the <name type="place" key="Missouri River">Missouri</name>; it affords as much water at present as <name type="place" key="Marias River">Maria's river</name> and I have no doubt extends itself to a considerable distance North.    during our halt we killed a very large rattlesnake of the speceis common to our country.<ref target="n37080403" n="3"/>    it had 176 scuta on the abdomen and 25 on the tail, it's length 5 feet.    the scutae on the tail fully formed.    after passing this river we saw several large herds of buffaloe and Elk    we killed one of each of these animals and took as much of the flesh as we wished.    we encamped this evening two miles below the gulph on the N. E. side of the river.<ref target="n37080404" n="4"/> Tonight for the first time this season I heard the small whippoorwill or goatsucker of the <name type="place" key="Missouri River">Missouri</name> cry.<ref target="n37080405" n="5"/>
+                  <name type="person" key="Colter, John">Colter</name> and <name type="person" key="Collins, John">Collins</name> have not yet overtaken us. <name type="person" key="Ordway, John">Ordway</name> and <name type="person" key="Willard, Alexander">Willard</name> delayed so much time in hunting today that they did not overtake us untill about midnight.    they killed one bear and 2 deer.    in passing a bend just below the gulph it being dark they were drawn by the currant in among a parsel of sawyers,<ref target="n37080406" n="6"/> under one of which the canoe was driven and throwed <name type="person" key="Willard, Alexander">Willard</name> who was steering overboard; he caught the sawyer and held by it; <name type="person" key="Ordway, John">Ordway</name> with the canoe drifted down about half a mile among the sawyers under a falling bank, the canoe struck frequently but did not overset; he at length gained the shore and returned by land to learn the fate of <name type="person" key="Willard, Alexander">Willard</name> whom he found was yet on the sawyer; it was impossible for him to take the canoe to his relief    <name type="person" key="Willard, Alexander">Willard</name> at length tied a couple of sticks together which had lodged against the sawyer on which he was and set himself a drift among the sawyers which he fortunately escaped and was taken up about a mile below by <name type="person" key="Ordway, John">Ordway</name> with the canoe; they sustained no loss on this occasion.    it was fortunate for <name type="person" key="Willard, Alexander">Willard</name> that he could swim tolerably well.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-04.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday 4th August 1806</hi>
+                  </date>
+               </ab>
+               <p>
+Musquetors excessively troublesom So much So that the men complained that they could not work at their Skins for those troublesom insects.    and I find it entirely impossible to hunt in the bottoms, those insects being So noumerous and tormenting as to render it imposseable for a man to continue in the timbered lands and our best retreat from those insects is on the Sand bars in the river and even those Situations are only clear of them when the Wind Should happen to blow which it did to day for a fiew hours in the middle of the day.    the evening nights and mornings they are almost indureable perticelarly by the party with me who have no Bears to keep them off at night, and nothing to Screen them but their blankets which are worn and have maney holes. The torments of those Missquetors and the want of a Sufficety of Buffalow meat to dry, those animals not to be found in this neighbourhood induce me to deturmine to proceed on to a more eliagiable Spot on the <name type="place" key="Missouri River">Missouri</name> below at which place the Musquetors will be less troublesom and Buffalow more plenty. [(]I will here obseve that Elk is Abundant but their flesh &amp; fat is hard to dry in the Sun, and when dry is much easir〈ly〉 Spoiled than either the Buffalow or Deer)    I ordered the Canoes to be reloaded with our baggage &amp; dryed meat which had been Saved on the <name type="place" key="Yellowstone River">Rochejhone</name> together with the Elk killed at this place.    wrote a note to <name type="person" key="Lewis, Meriwether">Capt Lewis</name> informing him of my intentions and tied it to a pole which I had Stuck up in the point. At 5 P. M Set out and proceeded on down to the 2d point which appeared to be an eligable Situation for my purpose    killed a porcupine<ref target="n37080407" n="7"/> on this point the Musquetors were So abundant that we were tormented much worst than at the point. The <name type="person" key="Charbonneau, Jean Baptiste">Child of Shabono</name> has been So much bitten by the Musquetor that his face is much puffed up &amp; Swelled. I encamped on this extensive Sand bar which is on the N W. Side.<ref target="n37080408" n="8"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-04.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Monday 4th August 1806.    two of the hunters <name type="person" key="Colter, John">Colter</name> and <name type="person" key="Collins, John">Collins</name> did not join us last night. I and <name type="person" key="Willard, Alexander">Willard</name> went on eairly with a Small canoe to hunt    we procd. on Some distance and hunted in Some of the bottoms and killed a deer and procd. on    towards evening we killed a large white or grizzly bear nearly of a Silver Grey.    we then procd. on in the evening by moon light as the party was a head    about 11 oClock at night we found ourselves in a thick place of Sawyers as the corrent drawed us in and we had no chance to git out of them So we run about half way through and the Stern run under a limb of a tree and caught <name type="person" key="Willard, Alexander">Willard</name> who was in the Stern and drew him out as the current was verry rapid.    he held by the limb    I being in the bow of the canoe took my oar and halled the bow first one way and the other So as to clear the Sawyers and run through Safe and paddled the canoe to Shore and ran up the Shore opposite <name type="person" key="Willard, Alexander">Willard</name> &amp; he called to me if everry thing was Safe    I told him yes but he could not hear me as the water roared past the Sawyers.    he told me he had made a little raft of 2 Small Sticks he caught floating and tyed them together, and tyed his cloathes on them and would Swim down through this difficult place and I run down and took out the canoe and took him in as he Swam through Safe    we procd. a Short distance farther and came to the Camp<ref target="n37080409" n="9"/> of the party.    they had killed a rattle Snake<ref target="n37080410" n="10"/> and an Elk to day but the two hunters <name type="person" key="Colter, John">Colter</name> &amp; <name type="person" key="Collins, John">Colling</name> has not joined us yet.—
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-08-04.04" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Monday 4th.</hi>    This was another pleasant day and we proceeded on early. 
+One of the small canoes with two hunters<ref target="n37080411" n="11"/> did not come up last night. We 
+left another small canoe with some hunters behind<ref target="n37080412" n="12"/> and proceeded on. We 
+went very rapidly, and in our way killed a buffaloe, an elk and some deer. At five o'clock we passed the mouth of <name type="place"
+                        key="Milk (Ah-mâh-tâh ru-shush-sher, River Which Scolds at All Others) River">Milk river</name>, which was very high and the current strong. Having proceeded 88 miles we encamped for the night.
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n37080401" n="1">Present <name type="place" key="Dry Creek (Big Dry River)">Big Dry Creek</name>, in <name type="place" key="Garfield County, Mont.">Garfield County</name>, <name type="place" key="Montana">Montana</name>. <hi rend="italic">Atlas</hi> map 37; MRC map 65.</note>
+            <note xml:id="n37080402" n="2">On <name type="place"
+                     key="Milk (Ah-mâh-tâh ru-shush-sher, River Which Scolds at All Others) River">Milk River</name>, meeting the <name type="place" key="Missouri River">Missouri</name> in <name type="place" key="Valley County, Mont.">Valley County</name>, <name type="place" key="Montana">Montana</name>, see <ref n="1805-05-08" type="related">May 8, 1805</ref>. <hi rend="italic">Atlas</hi> map 37; MRC map 65.</note>
+            <note xml:id="n37080403" n="3">Perhaps the prarie rattlesnake, <hi rend="italic">Crotalus viridus viridus.</hi> Benson (HLCE), 90.</note>
+            <note xml:id="n37080404" n="4">The camp was in <name type="place" key="Valley County, Mont.">Valley</name> or <name type="place" key="McCone County, Mont.">McCone County</name>, <name type="place" key="Montana">Montana</name>, some two miles above the camp of <ref n="1805-05-07" type="related">May 7, 1805</ref>. <hi rend="italic">Atlas</hi> map 37; MRC map 64.</note>
+            <note xml:id="n37080405" n="5">Common poorwill, <hi rend="italic">Phalaenoptilus nuttallii</hi> [AOU, 418]. Holmgren, 34; Burroghs, 236.</note>
+            <note xml:id="n37080406" n="6">A submerged tree with a portion sticking out of the water and cutting the river in a sawing fashion, thus a navigational hazard.</note>
+            <note xml:id="n37080407" n="7">Yellow-haired porcupine, <hi rend="italic">Erethizon dorstatum epixanthum.</hi> Burroughs, 119–20.</note>
+            <note xml:id="n37080408" n="8">
+               <name type="person" key="Clark, William">Clark's</name> campsites from his leaving the <name type="place" key="Yellowstone River">Yellowstone</name>-<name type="place" key="Missouri River">Missouri</name> junction on August 4, 1806, until his reunion with <name type="person" key="Lewis, Meriwether">Lewis</name> on <ref n="1806-08-12" type="related">August 12</ref> are difficult to locate because of the lack of information in his journal and on his maps. The August 4 camp was in the "2d point" below the <name type="place" key="Yellowstone River">Yellowstone</name>, a somewhat ambiguous reference since the points are formed by the river bends, and the river has shifted over the years. This may be the camp <name type="person" key="Lewis, Meriwether">Lewis</name> passed on August 7, which he judged to be seven miles below the mouth of the <name type="place" key="Yellowstone River">Yellowstone</name>. This would be in <name type="person" key="McKenzie, Charles">McKenzie</name> or <name type="place" key="Williams County, N. Dak.">Williams County</name>, <name type="place" key="North Dakota">North Dakota</name>, perhaps in the vicinity of the party's camp of <ref n="1805-04-25" type="related">April 25, 1805</ref>. <hi rend="italic">Atlas</hi> map 35; MRC map 59.</note>
+            <note xml:id="n37080409" n="9">In <name type="place" key="Valley County, Mont.">Valley</name> or <name type="place" key="McCone County, Mont.">McCone County</name>, <name type="place" key="Montana">Montana</name>, about two miles above the camp of <ref n="1805-05-07" type="related">May 7, 1805</ref>.</note>
+            <note xml:id="n37080410" n="10">Perhaps the prairie rattlesnake.</note>
+            <note xml:id="n37080411" n="11">
+               <name type="person" key="Colter, John">Colter</name> and <name type="person" key="Collins, John">Collins</name>, as <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Ordway, John">Ordway</name> both note.</note>
+            <note xml:id="n37080412" n="12">
+               <name type="person" key="Ordway, John">Ordway</name> and <name type="person" key="Willard, Alexander">Willard</name>, who had some mishaps <name type="person" key="Gass, Patrick">Gass</name> does not narrate; see <name type="person" key="Ordway, John">Ordway's</name> 
+account.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-08-03" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-08-05" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

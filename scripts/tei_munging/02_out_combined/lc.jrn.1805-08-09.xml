@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1805-08-09">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+August 9, 1805</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>?</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 5</title>
+               <title level="m" type="sub">July 28–November 1, 1805</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1989</date>
+               <biblScope type="pages">61-63</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">199</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">123-124</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">261-262</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1805-08-09.01">
+            <placeName/>
+            <geo>45.5435 -112.3321</geo>
+            <note>Camped downstream of Beaverhead County, on the Beaverhead River. Met with Shannon who had been at the Wisdom River</note>
+         </geoDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change>
+            <date>2004-06-02</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1805-08-09">August 9, 1805</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1805-08-09.01" n="lc.geo.1805-08-09.01">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Friday August 9th 1805.</hi>
+                  </date>
+               </ab>
+               <p>
+The morning was fair and fine; we set out at an early hour and proceeded on very well.    some parts of the river more rapid than yesterday. I walked on shore across the land to a point which I presumed they would reach by 8 A. M. our usual tme of halting.    by this means I acquired leasure to accomplish some wrightings which I conceived from the nature of my instructions necessary lest any accedent should befall me on the long and reather hazardous rout I was now about to take.<ref target="n18080901" n="1"/>    the party did not arrive and I returned about a mile and met them, here they halted and we breakefasted; I had killed two fine gees on my return.    while we halted here <name type="person" key="Shannon, George">Shannon</name> arrived, and informed us that having missed the party the day on which he set out he had returned the next morning to the place from whence he had set out or furst left them and not finding that he had supposed that they wer above him; that he then set out and marched one day up wisdom river, by which time he was convinced that they were not above him as the river could not be navigated; he then returned to the forks and had pursued us up this river.    he brought the skins of three deer which he had killed which he said were in good order. he had lived very plentifully this trip but looked a good deel worried<ref target="n18080902" n="2"/> with his march.    he informed us that <name type="place" key="Big Hole (Sensable, Wisdom) River">Wisdom river</name> still kept it's course obliquely down <name type="place" key="Beaverhead (Jefferson) River">the Jefferson's river</name> as far as he was up it.    immediately after breakfast I slung my pack and set out accompanyed by <name type="person" key="Drouillard, George">Drewyer</name>
+                  <name type="person" key="Shields, John">Shields</name> and <name type="person" key="McNeal, Hugh">McNeal</name> who had been previously directed to hold themselves in readiness for this service. I directed my course across the bottom to the Stard. plain led left <name type="place" key="Beaverhead Rock">the beaver's head</name> about 2 miles to my left and interscepted the river about 8 miles from the point at which I had left it; I then waded it and continued my rout to the point where I could observe that entered the mountain, but not being able to reach that place, changed no direction to the river which I struck some miles below the mountain and encamped for the evening having traveled 16 M.<ref target="n18080903" n="3"/>    we passed a handsom little stream formed by some large spring which rise in this wide bottom on the Lard. side of the river.    we killed two Antelopes on our way and brought with us as much meat as was necessary for our suppers and breakfast the next morning.    we found this bottom fertile and covered with taller grass than usual.    the river very crooked much divided by lands, shallow rocky in many plases and very rapid; insomuch that I have my doubts whether the canoes could get on or not, or if they do it must with great labour.—    <name type="person" key="Clark, William">Capt. Clark</name> proceeded after I left him as usual found the current of the river increasing in rapidity towards evening his hunters killed 2 antelopes only.    in the evening it clouded up and experienced a slight rain attended with some thunder and lightning the musquetoes very troublesome this evening.    there are some soft bogs in these vallies covered with turf.    the earth of which this mud is composed is white or bluish white and appears to be argillacious.<ref target="n18080904" n="4"/>
+               </p>
+               <p>
+                  <table rows="3" cols="3">
+                     <head>Courses and distances travelled by <name type="person" key="Clark, William">Capt. Clark</name> and<lb/>
+                        <hi rend="italic">Party on the 9th of August 1805</hi>
+                     </head>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 12° W.</cell>
+                        <cell role="data" rows="1" cols="1">4</cell>
+                        <cell role="data" rows="1" cols="1">to a Stard. bend, passing two islands and 16 short circular<lb/>
+bends on the Stard. side the distance by way of the river bed<lb/>
+11 Miles.—</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">S. 10° E.</cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="underline">1</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">to a high bottom on Lard. distance by water 3 M. passing an<lb/>
+island, a bayou and 4 short bends on Stard. side.</cell>
+                     </row>
+                     <row role="data">
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="right">Miles</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1">
+                           <hi rend="double underline">5</hi>
+                        </cell>
+                        <cell role="data" rows="1" cols="1"> </cell>
+                     </row>
+                  </table>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-09.02" n="lc.geo.1805-08-09.01">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">August 9th Friday 1805</hi>
+                  </date>
+               </ab>
+               <p>
+a fine morning wind from the N. E    we proceeded on verry well rapid places more noumerous than below, <name type="person" key="Shannon, George">Shannon</name> the man whome we lost on <name type="place" key="Big Hole (Sensable, Wisdom) River">Wisdom River</name> Joined us, haveing returned to the forks &amp; prosued us up after prosueing <name type="place" key="Big Hole (Sensable, Wisdom) River">Wisdom River</name> one day</p>
+               <p>
+                  <name type="person" key="Lewis, Meriwether">Capt Lewis</name> and 3 men Set out after brackft. to examine the river above, find a portage if possible, also the <name type="native_nation" key="Shoshone Indians">Snake</name> Indians. I should have taken this trip had I have been able to march, from the rageing fury of a tumer on my anckle musle, in the evening Clouded up and a fiew drops of rain    Encamped on the Lard Side near a low bluff,<ref target="n18080905" n="5"/> the river to day as yesterday.    the three hunters Could kill only two antelopes to day, game of every kind Scerce
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-09.03" n="lc.geo.1805-08-09.01">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Friday 9th August 1805.    a clear cool morning. Several hunters out eairly.    we Set out at Sun rise, and proceeded on.    the wind high from S. E.    took on board a deer which the hunters killed.    about 8 oClock we halted for breakfast. <name type="person" key="Shannon, George">George Shannon</name> who had been 3 days lost joined us with 3 buck Skins which he killed &amp; found fat.    he brought in a little of the meat also. <name type="person" key="Lewis, Meriwether">Capt. Lewis</name>, <name type="person" key="Shields, John">Shields</name>, <name type="person" key="Drouillard, George">Drewyer</name> &amp; <name type="person" key="McNeal, Hugh">Mcneal</name> Set out to go on a head a long distance to make discoveries in hopes to find Indians &amp;C.    we proceeded on    took on board another Deer which the hunters had killed.    the Game is generally Scarse along here.    only a fiew Deer to be Seen. The River &amp; bottoms prarie continues as yesterday    〈back at the 3 forks our Captains named this fork <name type="place" key="Beaverhead (Jefferson) River">Jeffersons River</name>    the North we call <name type="place" key="Big Hole (Sensable, Wisdom) River">Sensable River</name> because we were Sensable of it.    the South fork named〉 not known for certn. yet    So I expect the forks ought to be called the head of the <name type="place" key="Missouri River">Missourie</name>, although we are yet on a branch which we expect to See the head of it in a fiew days. Some thunder    the Musquetoes troublesome.    the beaver as pleanty as usal, &amp;C. Saw Snow on the Mountains Some distance a head.    
+proceeded    passed the head of the old Channel where the River formerly ran along the high land at the South Side of the prarie. Some timber along the old bed. Some part of the prarie is low and boggy and will Shake for Some distance around a man when he walks on it.    we expect it would be good turf to burn. Some Showers passed over.    we Came 18 mls. and Camped at a fiew trees on L. Side.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-09.04" n="lc.geo.1805-08-09.01">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 9th.</hi>    We set out at sunrise, and had a fine morning with some dew; proceeded on till 9 o'clock when we halted for breakfast. Here one of the hunters<ref target="n18080906" n="6"/> came to us who had been out since the morning the canoes went up the north branch by mistake, and who had that morning proceeded them by land. Here also <name type="person" key="Lewis, Meriwether">Captain Lewis</name> and three men<ref target="n18080907" n="7"/> started to go on ahead; and at 10 we proceeded on with the canoes. The river is narrow and very crooked, and the valley continues about the same breadth. There is some timber on the mountain on the south side, and white earth or rocks appearing through the pines. At noon we halted for dinner, and hauled out one of the canoes, which had sprung a leak and caulked her.</p>
+               <p>
+This morning our commanding officers thought proper that the <name type="place" key="Missouri River">Missouri</name> should lose its name at the confluence of the three branches we had left on the 30th ultimo.<ref target="n18080908" n="8"/> The north branch, which we went up, they called <name type="place" key="Beaverhead (Jefferson) River">Jefferson</name>; the west or middle branch, <name type="place" key="Madison River (Middle Fork)">Madison</name>; the south branch, about 2 miles up which a beautiful spring comes in, <name type="place" key="Gallatin (South, Southeast Fork) River">Gallatin</name>! and small river above the forks they called <hi rend="italic">
+                     <name type="place"
+                           key="Willow Creek (Philosophy River) (Gallatin County, Mont.)">Philosophy</name>.</hi> Of the 3 branches we had just left, they called the north <hi rend="italic">
+                     <name type="place" key="Big Hole (Sensable, Wisdom) River">Wisdom</name>,</hi> the south <hi rend="italic">
+                     <name type="place" key="Ruby (Philanthropy) River">Philanthropy</name>,</hi> and the west or <name type="place" key="Madison River (Middle Fork)">middle fork</name>, which we continued our voyage along, retained the name of <name type="place" key="Beaverhead (Jefferson) River">Jefferson</name>. We went 14 miles and encamped on the south side. Our two hunters killed but one goat.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1805-08-09.05" n="lc.geo.1805-08-09.01">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Friday 9th August 1805</hi>.    a clear cool morning.    Several hunters out on Shore    we Set out as usal and proceeded on.    the wind high from the S. E.    took on board a goat which one of the hunters had killed.    we halted abt. 8 oC. for breakfast.    <name type="person" key="Shannon, George">George Shannon</name> joined us who had been lost 3 days.    he had killed 3 buck Deer, which was fat.    he brought in the Skins &amp; a little meat.    <name type="person" key="Lewis, Meriwether">Capt. Lewis</name>
+                  <name type="person" key="Drouillard, George">G. Drewyer</name>
+                  <name type="person" key="McNeal, Hugh">H. McNeal</name> &amp; <name type="person" key="Shields, John">John Shields</name> Set out to go on by land a long distance to look out the way for us to go &amp; expect to find the Snake nation of Indians.    we proceeded on.    took on bord a deer which one of the hunters killed.    we Saw no game worth notice except a fiew deer.    
+the River and Smooth prarie the Same as yesterday.    〈back at the forks our Captains named this Stream <name type="place" key="Beaverhead (Jefferson) River">Jeffersons River</name>, the N. fork <name type="place" key="Big Hole (Sensable, Wisdom) River">Sensable River</name>,<ref target="n18080909" n="9"/> and the South fork〉, not known yet.    So I expect that ought to be called the head of the <name type="place" key="Missouri River">Missourie</name> although we are yet on the head branch, which we expect to See the head of it Soon.    Some Thunder.    the Musquetoes troublesome.    the beaver pleanty as usal, &amp;c.    Saw Snow on the Mountains Some distance a head.    proceeded on    passed the old bed of the River where it formerly ran along the high land at South Side of the prarie Some cotton trees along it.    the prarie low, Some part of which is soft &amp; boggy which we expect is good turf to burn was dug &amp; dryed.    Thunder Showers passed round or over.    Came 18 miles and Camped on L. S. near a grove of cotton trees &amp; willows.</p>
+               <p>
+Friday August 9th    We had a clear cool morning, several of our Hunters left the camp early to go out a hunting &amp; We set out as usual, and proceeded on our Voyage, the wind blowing high from the South east, We stopped with 
+one of our Canoes &amp; took on board a Goat, which one of the hunters, that went out this morning had killed, &amp; left on the bank of the River; we proceeded on till about 8 o'Clock A. M. when we halted to take breakfast.    Here 
+we were joined by <name type="person" key="Shannon, George">George Shannon</name>, one of our party that had been lost, for 
+these 3 days past, he had killed 3 buck Deer, which he said was very fat, he brought with him, some of the Meat and the Skins of them.    <name type="person" key="Lewis, Meriwether">Captain Lewis</name> &amp; 3 of our party 〈here〉 left us here &amp; set out to go by land a long distance up the River, in order to look out the best way for us to proceed, &amp; to find out the <name type="native_nation" key="Shoshone Indians">Snake</name> nation of Indians.—    We then proceeded on a small distance, &amp; took on board one of the Canoes, a Deer which one of the hunters had killed &amp; left on the bank of the River also; We saw no Game, excepting a few deer, which were in the bend of the River.    We passed some smooth plains much the same as those we passed Yesterday.    We all expect that we are near the head Waters or source of the <name type="place" key="Missouri River">Mesouri River</name>, as the River, here is growing much narrower than it was, We had some thunder in the afternoon, and the Musketoes was very toublesome.    The beaver was very plenty to be seen in the River, &amp; along the shores.    We saw Snow on the mountains which lay ahead of us.—    We continued on our way, and passed a place, where we supposed the Bed of the River formerly was, and high land, lying on the South side of the Priaries lying back from the River, with some Cotton wood Trees growing on it, The priaries here lay low on both sides of the River, some part of which is soft &amp; boggy, which we expect would make good turf    In the evening we had some Showers of rain accompanied with thunder, We encamped on the South side of the River, near a Grove of Cotton wood trees, &amp; Willows, having come 18 Miles this day.—
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n18080901" n="1">The nature of these "wrightings" is unclear; he may have been bringing his journals up to date or preparing written instructions to <name type="person" key="Clark, William">Clark</name> in case he did not return.</note>
+            <note xml:id="n18080902" n="2">
+               <name type="person" key="Biddle, Nicholas">Biddle</name> has it "wearied." Coues (HLC), 2:470.</note>
+            <note xml:id="n18080903" n="3">
+               <name type="person" key="Lewis, Meriwether">Lewis's</name> camp was in <name type="place" key="Beaverhead County, Mont.">Beaverhead County</name>, <name type="place" key="Montana">Montana</name>, northeast of present <name type="place" key="Dillon, Mont.">Dillon</name>, by his own estimate five miles below the mouth of <name type="place" key="Blacktail Deer (McNeal's) Creek">Blacktail Deer (McNeal's) Creek</name>. <hi rend="italic">Atlas</hi> map 66. Two "x's" cross out lines at about this point. Not in red and not concerned with natural history the marks are probably not by <name type="person" key="Biddle, Nicholas">Biddle</name>, nor is their purpose clear.</note>
+            <note xml:id="n18080904" n="4">Peat or turf bogs develop in swampy or waterlogged areas when vegetation growth is rapid enough to cover the previous year's dead vegetation before it can decompose completely. Tertiary clays are common throughout <name type="place" key="Beaverhead (Jefferson) River">the Beaverhead</name> Valley and are often exposed along the river banks. When these clays wash down onto the floodplain they can color the mud and silt of the bottoms a whitish color. Nevertheless, <name type="person" key="Lewis, Meriwether">Lewis's</name> comments on the color of the mud here are unclear. Their high organic content should make them appear black or dark brown.</note>
+            <note xml:id="n18080905" n="5">In <name type="place" key="Madison County, Mont.">Madison County</name>, <name type="place" key="Montana">Montana</name>, a little downstream from <name type="place" key="Beaverhead (Jefferson) River">the Beaverhead</name> County line and the crossing of <name type="place" key="Montana Highway 41">Montana Highway 41</name> over the <name type="place" key="Beaverhead (Jefferson) River">Beaverhead River</name>. <hi rend="italic">Atlas</hi> map 66.</note>
+            <note xml:id="n18080906" n="6">
+               <name type="person" key="Shannon, George">Shannon</name>, who had been up the <name type="place" key="Big Hole (Sensable, Wisdom) River">Big Hole (Wisdom) River</name>; see <name type="person" key="Lewis, Meriwether">Lewis's</name> entry for this day.</note>
+            <note xml:id="n18080907" n="7">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> took <name type="person" key="Drouillard, George">Drouillard</name>, <name type="person" key="Shields, John">Shields</name>, and <name type="person" key="McNeal, Hugh">McNeal</name>.</note>
+            <note xml:id="n18080908" n="8">
+               <name type="person" key="Lewis, Meriwether">Lewis</name> gives the names of the <name type="place" key="Missouri River, Three Forks of the">Forks of the Missouri</name> in his entry of <ref n="1805-07-28" type="related">July 28, 1805</ref>, and names <name type="place" key="Missouri River, Three Forks of the">the forks</name> of the <name type="place" key="Beaverhead (Jefferson) River">Jefferson</name> on <ref n="1805-08-06" type="related">August 6</ref>. If <name type="person" key="Gass, Patrick">Gass</name> is correct, <name type="person" key="Lewis, Meriwether">Lewis's</name> entries could not have been written until August 9 or later. Both <name type="person" key="Ordway, John">Ordway</name> and <name type="person" key="Whitehouse, Joseph">Whitehouse</name> wrote that the names were decided on "back at the 3 forks," then both crossed out their material relating to the naming of the rivers. It may be that <name type="person" key="Gass, Patrick">Gass</name> only learned of their decisions about nomenclature on this date, or that <name type="person" key="McKeehan, David">McKeehan</name> made some mistake in putting his version together.</note>
+            <note xml:id="n18080909" n="9">Perhaps the party's initial name for their <name type="place" key="Big Hole (Sensable, Wisdom) River">Wisdom River</name>, today's <name type="place" key="Big Hole (Sensable, Wisdom) River">Big Hole River</name>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1805-08-08" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1805-08-10" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>

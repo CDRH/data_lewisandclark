@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.1806-02-19">
+   <teiHeader type="text">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
+            <title type="sub">
+February 19, 1806</title>
+            <author/>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+            <respStmt>
+               <name/>
+               <resp/>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2004</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
+            <pubPlace>Lincoln, Nebraska</pubPlace>
+            <address>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
+            </address>
+            <idno type="ISBN"/>
+            <availability status="unknown">
+               <p/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author xml:id="ml">Meriwether Lewis</author>
+               <author xml:id="wc">William Clark</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <respStmt>
+                  <name>Thomas W. Dunlay,</name>
+                  <resp>Assistant Editor</resp>
+               </respStmt>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 6</title>
+               <title level="m" type="sub">November 2, 1805–March 22, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1990</date>
+               <biblScope type="pages">328-330</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jo">John Ordway</author>
+               <author xml:id="cf">Charles Floyd</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 9</title>
+               <title level="m" type="sub">The Journals of John Ordway and Charles Floyd</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1995</date>
+               <biblScope type="pages">272</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="pg">Patrick Gass</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 10</title>
+               <title level="m" type="sub">The Journal of Patrick Gass, May 14, 1804–September 23, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1996</date>
+               <biblScope type="pages">193-194</biblScope>
+            </bibl>
+            <bibl>
+               <author xml:id="jw">Joseph Whitehouse</author>
+               
+               
+               <editor role="editor">Gary E. Moulton</editor>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 11</title>
+               <title level="m" type="sub">The Journals of Joseph Whitehouse, May 14, 1804–April 2, 1806</title>
+               <publisher>University of Nebraska Press</publisher>
+               <pubPlace>Lincoln and London</pubPlace>
+               <date>1997</date>
+               <biblScope type="pages">421-422</biblScope>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p/>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords scheme="original" n="category">
+               <term>Journals</term>
+            </keywords>
+            <keywords scheme="original" n="subcategory">
+               <term>Journal Entries</term>
+            </keywords>
+            <keywords scheme="original" n="topic">
+               <term/>
+            </keywords>
+            <keywords scheme="lcsh" n="keywords">
+               <term/>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2004-08-27</date>
+            <name>Laura Weakly</name>Initial creation</change>
+         <change>
+            <date>2016-010-06</date>
+            <name>Brian Pytlik Zillig</name>
+            Converted from P4 to P5. </change>
+         <change>
+            <date>2016-09-26</date>
+            <name>Karin Dalziel</name>Added Geo Information from spreadsheet</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head type="date">
+            <date when="1806-02-19">February 19, 1806</date>
+         </head>
+         <div type="entry" xml:id="lc.jrn.1806-02-19.01" n="">
+            <sp who="ml">
+               <speaker>Lewis</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday February 19th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+Segt. <name type="person" key="Ordway, John">Ordway</name> set out again this morning with a party for the <name type="place" key="Saltmaking Camp (Oreg.)">salt works</name> by land.    in the evening Sergt. <name type="person" key="Gass, Patrick">Gass</name> returned with the flesh of eight Elk, and seven skins; having left one skin with <name type="person" key="Shannon, George">Shannon</name> and <name type="person" key="Labiche, François">Labuishe</name> who remained over the <name type="place" key="Lewis and Clark (Fort, Netul) River">netul</name> to continue the chase.    we had the Elk skins divided among the messes in order that they might be prepared for covering our baggage when we set out in the spring.    our sick are recovering but they appear to strengthen but slowly. The common red deer<ref target="n28021901" n="1"/> we found under the <name type="place" key="Rocky Mountains">rocky mts.</name> in the neighbourhood of the <name type="native_nation" key="Nez Perce Indians">Chopunnish</name>, and about the <name type="place" key="Columbia River, Great Falls of the">great falls</name> of the <name type="place" key="Columbia River">Columbia river</name> and as low down the same as the commencement of tide water.    these do not appear to differ essencially from those of our country being about the same size shape and appearance in every rispect except their great length of tail which is more than half as long again as our deer    I measured one of them which was 17 inches long. The Black tailed fallow deer<ref target="n28021902" n="2"/> are peculiar to this coast and are a distinct species of deer partaking equally of peculiarities of the mule deer and the common deer.    their ears are reather larger and their winter coat darker than the common deer; the recepticle of the eye or drane is mor conspicuous; their legs shorter and body thicker and larger than the common deer; their tail is about the length of our deer or from 8 to 10 inches the hair on the underside of which is white, and that of it's sides and top quite black    the horns resemble in form and colour those of the mule deer which it also resembles in it's gate; that is bounding with all four feet off the ground at the same time when runing at full speed and not loping as the common deer or antelope do.    they are sometimes found in the woodlands but most frequently in the praries and open grounds.    they may be said generally to be a size larger than the common deer and that less than the mule deer. they are very seldom found in good order, or fat, even in the season which the common deer are so, and their flesh is inferior to any species of deer which I have evern seen.—
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-02-19.02" n="">
+            <sp who="wc">
+               <speaker>Clark</speaker>
+               <ab>
+                  <date>
+                     <hi rend="italic">Wednesday February 19th 1806.</hi>
+                  </date>
+               </ab>
+               <p>
+                  <name type="person" key="Ordway, John">Sergt. Ordway</name> Set out again with a party to the <name type="place" key="Saltmaking Camp (Oreg.)">Salt works</name> by land.    in the evening Sergt. <name type="person" key="Gass, Patrick">Gass</name> returned with the flesh of Eight Elk, and Seven Skins haveing left one Skin with <name type="person" key="Shannon, George">Shannon</name> and <name type="person" key="Labiche, François">Labiche</name> who remained over the <name type="place" key="Lewis and Clark (Fort, Netul) River">Netul</name> to Continue the chase.    we devided the Skins between the messes in order that they might be prepared for Covering the baggage when se Set out in the Spring.    our Sick appear to Strengthen but Slowly I gave <name type="person" key="Bratton, William E.">Bratten</name> 6 of <name type="person" key="Scott, Hugh">Scott</name>s pills<ref target="n28021903" n="3"/> which did not work him.    he is very weak and Complains of his back.</p>
+               <p>
+The <hi rend="italic">black Fox</hi>
+                  <ref target="n28021904" n="4"/> or as they are more frequently Called by the N West Trader <hi rend="italic">Fisher</hi> is found in the woody country on this Coast.    how this Animal obtained the name of fisher I know not, but certain it is, that the name is not appropriate, as it does not prey on or Seek it as a prey—.    they are extreemly active Strong and made for climbing which they do with great agility, and bound from tree to tree in pursute of the squirel or Rackoon, their natural and most usual food.    their Colour is a jut Black except a Small Spot of white on the breast.    the body is long, legs Short and formed Something like the turnspit Dog,<ref target="n28021905" n="5"/> with a remarkable long tail.    it does not differ here from those of the United States.</p>
+               <p>
+The <hi rend="italic">Silver Fox</hi>
+                  <ref target="n28021906" n="6"/>    this animale is very rare even in the Countrey where it exists, I have never Seen more than the Skins of this Animal and those were in the possession of the nativs of the woody Country below the <name type="place" key="Columbia River, Great Falls of the">Great falls of the Columbia</name>, from which I think it is most probably they are the inhabitants of the woody country exclusively.    from the Skins, it appeard to be about the Size of the large red Fox of the plains and much of its form with a large tail.    the legs I think somewhat longer    it has a fine long deep for poil.    the poil is of a dark lead colour and the long hairs intermixed with it, are either white or black at the lower part, and white at top, the whole mixture forming a butifull Silver Grey. I think this the handsomest of all the Fox Species, except a Species<ref target="n28021907" n="7"/> of which I Saw one running, and <name type="person" key="Lewis, Meriwether">Capt Lewis</name> had a good view of another of the Same Species on the <name type="place" key="Missouri River">Missour</name> near the <hi rend="italic">natural walls.</hi>
+                  <ref target="n28021908" n="8"/> The large red fox of the plains, and the Kit fox<ref target="n28021909" n="9"/> are the Same which we met with on the <name type="place" key="Missouri River">Missouri</name> and are the inhabitants almost exclusively of the open plains, or of the copse of bushes within the plain country.    the Common red or grey fox of the United States is also found in the woody country on this coast, nor does it appear to be altered in respect to it's fur colour or any other particular.    we have Seen none of the large red fox.<ref target="n28021910" n="10"/>
+               </p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-02-19.03" n="">
+            <sp who="jo">
+               <speaker>Ordway</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday 19th Feby. 1806.    a hard Storm of wind and rain    myself and Six<ref target="n28021911" n="11"/> more of the party Set out eairly to go by land to the <name type="place" key="Saltmaking Camp (Oreg.)">Salt works</name> to bring
+in the Salt &amp; baggage    we proced. on to the praries    crossed the prarie where the land is in ridges like the waves    the frozen rain beat in our faces verry hard.    we got on the coast crossd. a river where we waided to our middles and was glad to git in an old Indian house where we made a fire 
+and Stayed all night. Sand flew &amp; waves rold.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-02-19.04" n="">
+            <sp who="pg">
+               <speaker>Gass</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+                  <hi rend="italic">Wednesday 19th</hi>— We were employed in bringing in meat, and the sergeant and seven men<ref target="n28021912" n="12"/> again set out for the <name type="place" key="Saltmaking Camp (Oreg.)">salt works</name> by land, to bring the salt and kettles to the fort. The day was very wet and stormy.
+
+
+</p>
+            </sp>
+         </div>
+         <div type="entry" xml:id="lc.jrn.1806-02-19.05" n="">
+            <sp who="jw">
+               <speaker>Whitehouse</speaker>
+               <ab>
+                  <date/>
+               </ab>
+               <p>
+Wednesday Febry. 19th    We had a hard Storm of Rain &amp; high Wind, blowing from the So. West; this morning I left the fort with 6 of our party<ref target="n28021913" n="13"/> in order to go to the <name type="place" key="Saltmaking Camp (Oreg.)">Salt works</name>, 〈in order〉 to bring the Kettles, Salt &amp; Mens baggage to the Fort.    We proceeded on about half way, when the Storm was so high in the Priari, &amp; on the Sea Coast, that we could not proceed without suffering by the Sand blowing in our faces—    and the Rain that fell froze &amp; cut our faces likewise    We Crossed a Creek, which took us middle deep, which benumbed &amp; Chilled the party very much.    We came to an Old deserted Indian hut, in which we made a fire.    we staid at this place all night 
+in expectation of the weather being better by morning.—
+
+
+
+</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="notes">
+            <note xml:id="n28021901" n="1">The <name type="place" key="Columbia River">Columbian</name> white-tailed deer, perhaps a new subspecies. Burroughs, 126–27; Cutright (LCPN), 441; Hall, 2:1093. Vertical lines run through much of this passage about the deer, perhaps drawn by <name type="person" key="Biddle, Nicholas">Biddle</name>.</note>
+            <note xml:id="n28021902" n="2">
+               <name type="place" key="Columbia River">Columbian</name> black-tailed deer.</note>
+            <note xml:id="n28021903" n="3">The first mention of <name type="person" key="Scott, Hugh">Scott's</name> pills, which are not to be found in the list of drugs brought from <name type="place" key="Philadelphia, Pa.">Philadelphia</name>. Possibly they were provided by <name type="person" key="Scott, Hugh">Dr. Hugh Scott</name> who was residing in <name type="place" key="Pittsburgh, Pa.">Pittsburgh</name> when <name type="person" key="Lewis, Meriwether">Lewis</name> passed through in 1803. References make it clear they were a physic. Chuinard (OOMD), 349–51; Chuinard (MMFC).</note>
+            <note xml:id="n28021904" n="4">The fisher is actually a weasel. Some witnesses say that it does eat fish. Burroughs, 73.</note>
+            <note xml:id="n28021905" n="5">A type of small dog of the time, trained to walk on a treadmill to furnish power to a turn-spit.</note>
+            <note xml:id="n28021906" n="6">Not a separate species but a color phase of the red fox.</note>
+            <note xml:id="n28021907" n="7">The cross fox, another color phase of the red fox. See above, <ref n="1805-05-31" type="related">May 31, 1805</ref>.</note>
+            <note xml:id="n28021908" n="8">The <name type="place" key="Missouri River, White Cliffs of the">White Cliffs or Stone Walls of the Missouri</name> in <name type="place" key="Chouteau County, Mont.">Chouteau County</name>, <name type="place" key="Montana">Montana</name>. <hi rend="italic">Atlas</hi> maps 41, 53, 60.</note>
+            <note xml:id="n28021909" n="9">Otherwise the swift fox.</note>
+            <note xml:id="n28021910" n="10">Presumably all the red foxes mentioned are <hi rend="italic">Vulpes vulpes.</hi>
+            </note>
+            <note xml:id="n28021911" n="11">Including <name type="person" key="Whitehouse, Joseph">Whitehouse</name>, as mentioned in his own journal.</note>
+            <note xml:id="n28021912" n="12">
+               <name type="person" key="Ordway, John">Ordway</name> again, but with six men (including <name type="person" key="Whitehouse, Joseph">Whitehouse</name>), according to <name type="person" key="Ordway, John">Ordway</name> and 
+<name type="person" key="Whitehouse, Joseph">Whitehouse</name>.</note>
+            <note xml:id="n28021913" n="13">Led by <name type="person" key="Ordway, John">Ordway</name>; see <name type="person" key="Whitehouse, Joseph">Whitehouse's</name>
+               <ref n="1806-02-18" type="related">previous entry</ref>.</note>
+         </div>
+         <div type="file_references">
+            <list type="simple">
+               <item>
+                  <ptr n="1806-02-18" type="prev"/>
+               </item>
+               <item>
+                  <ptr n="1806-02-20" type="next"/>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
