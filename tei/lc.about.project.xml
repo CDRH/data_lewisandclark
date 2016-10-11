@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.about.aboutproject">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.about.project">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -13,11 +13,10 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic
-        Text Center</publisher>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
             <pubPlace>Lincoln, Nebraska</pubPlace>
             <address>
-               <addrLine>cdrh@unl.edu</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
             </address>
             <idno type="ISBN"/>
             <availability status="unknown">
@@ -25,7 +24,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl/>
+            <p/>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -49,7 +48,7 @@
             <date>2005-11-18</date>
             <name>Becky Potter</name>Initial creation</change>
          <change>
-            <date>2016-04-12</date>
+            <date>2016-010-06</date>
             <name>Brian Pytlik Zillig</name>
             Converted from P4 to P5. </change>
       </revisionDesc>
@@ -63,8 +62,7 @@
                   <ref n="lc.overview" type="related">Overview</ref>
                </item>
                <item>
-                  <ref n="lc.onlineeditorialprocedures" type="related">Online Editorial
-            Procedures</ref>
+                  <ref n="lc.onlineeditorialprocedures" type="related">Online Editorial Procedures</ref>
                </item>
                <item>
                   <ref n="lc.technicalsummary" type="related">Technical Summary</ref>

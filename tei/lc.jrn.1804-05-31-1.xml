@@ -5,7 +5,8 @@
       <fileDesc>
          <titleStmt>
             <title type="main">The Journals of the Lewis and Clark Expedition Online</title>
-            <title type="sub">Weather, May 1804</title>
+            <title type="sub">
+Weather, May 1804</title>
             <author/>
             <respStmt>
                <name/>
@@ -22,16 +23,15 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic
-        Text Center</publisher>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
             <pubPlace>Lincoln, Nebraska</pubPlace>
             <address>
-               <addrLine>?</addrLine>
-               <addrLine>?</addrLine>
-               <addrLine>?</addrLine>
-               <addrLine>?</addrLine>
-               <addrLine>?</addrLine>
-               <addrLine>cdrh@unl.edu</addrLine>
+               
+               
+               
+               
+               
+               <addrLine>jfaust2@unl.edu</addrLine>
             </address>
             <idno type="ISBN"/>
             <availability status="unknown">
@@ -49,8 +49,7 @@
                   <name>Thomas W. Dunlay,</name>
                   <resp>Assistant Editor</resp>
                </respStmt>
-               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume
-            2</title>
+               <title level="m" type="main">The Journals of the Lewis and Clark Expedition, Volume 2</title>
                <title level="m" type="sub">August 30, 1803–August 24, 1804</title>
                <publisher>University of Nebraska Press</publisher>
                <pubPlace>Lincoln and London</pubPlace>
@@ -90,7 +89,7 @@
             <date>2004-01-07</date>
             <name>Laura Weakly</name>Initial creation</change>
          <change>
-            <date>2016-04-12</date>
+            <date>2016-010-06</date>
             <name>Brian Pytlik Zillig</name>
             Converted from P4 to P5. </change>
          <change>
@@ -105,45 +104,28 @@
          </head>
          <div type="entry"
               xml:id="lc.jrn.1804-05-31-1.01"
-              ref="lc.geo.1804-05-31-1.01">
+              n="lc.geo.1804-05-31-1.01">
             <sp who="mlwc">
-               <speaker>Lewis and 
-          <name type="person" key="Clark, William">Clark</name>
+               <speaker>Lewis and <name type="person" key="Clark, William">Clark</name>
                </speaker>
                <ab>
-                  <date>[
-              <hi rend="italic">Weather, May 1804</hi>]
-              <ref target="n030531-101" n="1"/>
+                  <date>[<hi rend="italic">Weather, May 1804</hi>]<ref target="n030531-101" n="1"/>
                   </date>
                </ab>
                <p>
                   <table rows="15" cols="10">
                      <row role="data">
-                        <cell role="data" rows="1" cols="1">day of
-                <lb/>the
-                <lb/>month</cell>
-                        <cell role="data" rows="1" cols="1">Ther-
-                <lb/>mometer
-                <lb/>at 
-                <seg n="u9737">☉</seg>
+                        <cell role="data" rows="1" cols="1">day of<lb/>the<lb/>month</cell>
+                        <cell role="data" rows="1" cols="1">Ther-<lb/>mometer<lb/>at <seg n="u9737">☉</seg>
                            <lb/>rise</cell>
                         <cell role="data" rows="1" cols="1">Weather</cell>
-                        <cell role="data" rows="1" cols="1">Wind
-                <lb/>at 
-                <seg n="u9737">☉</seg>
+                        <cell role="data" rows="1" cols="1">Wind<lb/>at  <seg n="u9737">☉</seg>
                            <lb/>Rise</cell>
-                        <cell role="data" rows="1" cols="1">Ther-
-                <lb/>mometer
-                <lb/>at 4oCk.
-                <lb/>P M</cell>
+                        <cell role="data" rows="1" cols="1">Ther-<lb/>mometer<lb/>at 4oCk.<lb/>P M</cell>
                         <cell role="data" rows="1" cols="1">Weather</cell>
-                        <cell role="data" rows="1" cols="1">Wind at
-                <lb/>4 oCk.
-                <lb/>P.M</cell>
-                        <cell role="data" rows="1" cols="1">raise
-                <lb/>or fall</cell>
-                        <cell role="data" rows="1" cols="1">River
-                <lb/>Feet</cell>
+                        <cell role="data" rows="1" cols="1">Wind at<lb/>4 oCk.<lb/>P.M</cell>
+                        <cell role="data" rows="1" cols="1">raise<lb/> or fall</cell>
+                        <cell role="data" rows="1" cols="1">River<lb/>Feet</cell>
                         <cell role="data" rows="1" cols="1">Inchs</cell>
                      </row>
                      <row role="data">
@@ -319,15 +301,12 @@
                <p>
                   <table rows="10" cols="2">
                      <head>
-                        <hi rend="center">[
-                <hi rend="italic">Remarks</hi>]
-                <ref target="n030531-102" n="2"/>
+                        <hi rend="center">[<hi rend="italic">Remarks</hi>]<ref target="n030531-102" n="2"/>
                         </hi>
                      </head>
                      <row role="data">
                         <cell role="data" rows="1" cols="1">5</cell>
-                        <cell role="data" rows="1" cols="1">The thunder and lightning excessively heard
-                this morning</cell>
+                        <cell role="data" rows="1" cols="1">The thunder and lightning excessively heard this morning</cell>
                      </row>
                      <row role="data">
                         <cell role="data" rows="1" cols="1">10</cell>
@@ -339,53 +318,37 @@
                      </row>
                      <row role="data">
                         <cell role="data" rows="1" cols="1">14</cell>
-                        <cell role="data" rows="1" cols="1">end of observations at the 
-                <name type="place" key="Dubois River">river Dubois</name>
-                           <ref target="n030531-103" n="3"/>   Set out from the 
-                <name type="place" key="Dubois River">River
-                <lb/>Dubois</name>up the 
-                <name type="place" key="Missouri River">Missouri</name>
+                        <cell role="data" rows="1" cols="1">end of observations at the <name type="place" key="Dubois River">river Dubois</name>
+                           <ref target="n030531-103" n="3"/>    Set out from the <name type="place" key="Dubois River">River<lb/> Dubois</name> up the <name type="place" key="Missouri River">Missouri</name>
                         </cell>
                      </row>
                      <row role="data">
                         <cell role="data" rows="1" cols="1">16th</cell>
-                        <cell role="data" rows="1" cols="1">arrived at 
-                <name type="place" key="Saint Charles, Mo.">St. Charles</name>
+                        <cell role="data" rows="1" cols="1">arrived at <name type="place" key="Saint Charles, Mo.">St. Charles</name>
                            <ref target="n030531-104" n="4"/>
                         </cell>
                      </row>
                      <row role="data">
                         <cell role="data" rows="1" cols="1">20th</cell>
-                        <cell role="data" rows="1" cols="1">rained the after part of the Day   
-                Capt. and Several gentlemen
-                <lb/>arrive from 
-                <name type="place" key="Saint Louis, Mo.">St. Louis</name>.</cell>
+                        <cell role="data" rows="1" cols="1">rained the after part of the Day    Capt. and Several gentlemen<lb/> arrive from <name type="place" key="Saint Louis, Mo.">St. Louis</name>.</cell>
                      </row>
                      <row role="data">
                         <cell role="data" rows="1" cols="1">21st</cell>
-                        <cell role="data" rows="1" cols="1">leave 
-                <name type="place" key="Saint Charles, Mo.">St. Charles</name>   heavy
-                rain in the evening with wind.    great
-                <lb/>number of Muscators</cell>
+                        <cell role="data" rows="1" cols="1">leave <name type="place" key="Saint Charles, Mo.">St. Charles</name>    heavy rain in the evening with wind.    great<lb/> number of Muscators</cell>
                      </row>
                      <row role="data">
                         <cell role="data" rows="1" cols="1">25h</cell>
-                        <cell role="data" rows="1" cols="1">strawbury in the praries ripe and abundant
-                <ref target="n030531-105" n="5"/>
+                        <cell role="data" rows="1" cols="1">strawbury in the praries ripe and abundant<ref target="n030531-105" n="5"/>
                         </cell>
                      </row>
                      <row role="data">
                         <cell role="data" rows="1" cols="1">27h</cell>
-                        <cell role="data" rows="1" cols="1">servisburries or wild Courants, ripe and
-                abundant
-                <ref target="n030531-106" n="6"/>
+                        <cell role="data" rows="1" cols="1">servisburries or wild Courants, ripe and abundant<ref target="n030531-106" n="6"/>
                         </cell>
                      </row>
                      <row role="data">
                         <cell role="data" rows="1" cols="1">30th</cell>
-                        <cell role="data" rows="1" cols="1">Mulburies begin to ripen, very abundant in the
-                bottom
-                <ref target="n030531-107" n="7"/>
+                        <cell role="data" rows="1" cols="1">Mulburies begin to ripen, very abundant in the bottom<ref target="n030531-107" n="7"/>
                         </cell>
                      </row>
                   </table>
@@ -395,39 +358,16 @@
       </body>
       <back>
          <div type="notes">
-            <note xml:id="n030531-101" n="1">This table for May is based on 
-        <name type="person" key="Lewis, Meriwether">Lewis's</name>Weather Diary, kept by 
-        <name type="person" key="Lewis, Meriwether">Lewis</name>. Its temperature readings are
-        consistently eight degrees above those in 
-        <name type="person" key="Clark, William">Clark's</name>Codex C. No observations were
-        tabulated by either captain after May 14 until September 1804, or at least no such tables
-        have been found.</note>
-            <note xml:id="n030531-102" n="2">Both captains' remarks for the month of May are
-        substantially the same; here I have followed 
-        <name type="person" key="Lewis, Meriwether">Lewis's</name>Weather Diary, noting
-        substantive differences. Although tabled observations ceased after May 14, both men
-        continued intermittent remarks on the weather and natural phenomena in the Weather Diary
-        and Codex C weather tables into July. Those are found with the appropriate months.</note>
-            <note xml:id="n030531-103" n="3">The first part of this remark, as far as the note, is 
-        <name type="person" key="Lewis, Meriwether">Lewis's</name>, in his Weather Diary; the
-        latter part is 
-        <name type="person" key="Clark, William">Clark's</name>, in Codex C.</note>
+            <note xml:id="n030531-101" n="1">This table for May is based on <name type="person" key="Lewis, Meriwether">Lewis's</name> Weather Diary, kept by <name type="person" key="Lewis, Meriwether">Lewis</name>. Its temperature readings are consistently eight degrees above those in <name type="person" key="Clark, William">Clark's</name> Codex C. No observations were tabulated by either captain after May 14 until September 1804, or at least no such tables have been found.</note>
+            <note xml:id="n030531-102" n="2">Both captains' remarks for the month of May are substantially the same; here I have followed <name type="person" key="Lewis, Meriwether">Lewis's</name> Weather Diary, noting substantive differences. Although tabled observations ceased after May 14, both men continued intermittent remarks on the weather and natural phenomena in the Weather Diary and Codex C weather tables into July. Those are found with the appropriate months.</note>
+            <note xml:id="n030531-103" n="3">The first part of this remark, as far as the note, is <name type="person" key="Lewis, Meriwether">Lewis's</name>, in his Weather Diary; the latter part is <name type="person" key="Clark, William">Clark's</name>, in Codex C.</note>
             <note xml:id="n030531-104" n="4">
-               <name type="person" key="Clark, William">Clark</name>wrote remarks for May 16, 20, and 21
-        in his Codex C weather table, then later crossed them out. There are no remarks for those
-        dates in 
-        <name type="person" key="Lewis, Meriwether">Lewis's</name>Weather Diary.</note>
+               <name type="person" key="Clark, William">Clark</name> wrote remarks for May 16, 20, and 21 in his Codex C weather table, then later crossed them out. There are no remarks for those dates in <name type="person" key="Lewis, Meriwether">Lewis's</name> Weather Diary.</note>
             <note xml:id="n030531-105" n="5">
-               <hi rend="italic">Fragaria virginiana</hi>var. 
-        <hi rend="italic">illinoensis</hi>(Prince) Gray, wild strawberry. Steyermark, 824.</note>
+               <hi rend="italic">Fragaria virginiana</hi> var. <hi rend="italic">illinoensis</hi> (Prince) Gray, wild strawberry. Steyermark, 824.</note>
             <note xml:id="n030531-106" n="6">
-               <hi rend="italic">Amelanchier arborea</hi>(Michx.) Fern., serviceberry, shadbush,
-        sarviceberry, juneberry. Ibid., 800.</note>
-            <note xml:id="n030531-107" n="7">The common native red mulberry, 
-        <hi rend="italic">Morus rubra</hi>L. It is often confused with 
-        <hi rend="italic">Morus alba</hi>L., white mulberry, a native species of eastern Asia,
-        which is now common in northern and central 
-        <name type="place" key="Missouri">Missouri</name>. Ibid., 562.</note>
+               <hi rend="italic">Amelanchier arborea</hi> (Michx.) Fern., serviceberry, shadbush, sarviceberry, juneberry. Ibid., 800.</note>
+            <note xml:id="n030531-107" n="7">The common native red mulberry, <hi rend="italic">Morus rubra</hi> L. It is often confused with <hi rend="italic">Morus alba</hi> L., white mulberry, a native species of eastern Asia, which is now common in northern and central <name type="place" key="Missouri">Missouri</name>. Ibid., 562.</note>
          </div>
          <div type="file_references">
             <list type="simple">

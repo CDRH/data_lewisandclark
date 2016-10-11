@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.jrn.toc">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.about.toc">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -13,11 +13,10 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic
-        Text Center</publisher>
+            <publisher>University of Nebraska Press and University of Nebraska Libraries–Electronic Text Center</publisher>
             <pubPlace>Lincoln, Nebraska</pubPlace>
             <address>
-               <addrLine>cdrh@unl.edu</addrLine>
+               <addrLine>jfaust2@unl.edu</addrLine>
             </address>
             <idno type="ISBN"/>
             <availability status="unknown">
@@ -25,16 +24,16 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl/>
+            <p/>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
          <textClass>
             <keywords scheme="original" n="category">
-               <term>Journals</term>
+               <term>About</term>
             </keywords>
             <keywords scheme="original" n="subcategory">
-               <term>Journal Editorial</term>
+               <term>Information</term>
             </keywords>
             <keywords scheme="original" n="topic">
                <term/>
@@ -51,7 +50,7 @@
             <name>Laura Weakly</name>
             <name>Becky Potter</name>Revision Initial creation</change>
          <change>
-            <date>2016-04-12</date>
+            <date>2016-010-06</date>
             <name>Brian Pytlik Zillig</name>
             Converted from P4 to P5. </change>
       </revisionDesc>
@@ -71,8 +70,10 @@
                <lb/>
                <ref n="introduction.general" type="related">General Introduction</ref>
                <lb/>
-               <lb/>1803 
-        <list type="simple">
+               <lb/>
+
+1803
+<list type="simple">
                   <item>
                      <ref n="1803-08-30" type="related">August</ref>
                   </item>
@@ -87,8 +88,9 @@
                   </item>
                </list>
                <lb/>
-               <lb/>1804 
-        <list type="simple">
+               <lb/>
+1804
+<list type="simple">
                   <item>
                      <ref n="1804-01-01" type="related">January</ref>
                   </item>
@@ -126,13 +128,13 @@
                      <ref n="1804-12-01" type="related">December</ref>
                   </item>
                   <item>
-                     <ref n="1804-1805.winter.introduction" type="related">Winter at Fort Mandan,
-            1804–1805</ref>
+                     <ref n="1804-1805.winter.introduction" type="related">Winter at Fort Mandan, 1804–1805</ref>
                   </item>
                </list>
                <lb/>
-               <lb/>1805 
-        <list type="simple">
+               <lb/>
+1805
+<list type="simple">
                   <item>
                      <ref n="1805-01-01" type="related">January</ref>
                   </item>
@@ -170,13 +172,13 @@
                      <ref n="1805-12-01" type="related">December</ref>
                   </item>
                   <item>
-                     <ref n="1805-1806.winter.introduction" type="related">Winter at Fort Clatsop,
-            1805–1806</ref>
+                     <ref n="1805-1806.winter.introduction" type="related">Winter at Fort Clatsop, 1805–1806</ref>
                   </item>
                </list>
                <lb/>
-               <lb/>1806 
-        <list type="simple">
+               <lb/>
+1806
+<list type="simple">
                   <item>
                      <ref n="1806-01-01" type="related">January</ref>
                   </item>
@@ -205,8 +207,7 @@
                      <ref n="1806-09-01" type="related">September</ref>
                   </item>
                   <item>
-                     <ref n="1806.postexpedition.introduction" type="related">Postexpeditionary
-            Miscellany</ref>
+                     <ref n="1806.postexpedition.introduction" type="related">Postexpeditionary Miscellany</ref>
                   </item>
                </list>
                <lb/>
@@ -220,8 +221,7 @@
                      <ref n="v02.appendix.a" type="related">Members of the Expedition</ref>
                   </item>
                   <item>
-                     <ref n="v02.appendix.b" type="related">Provenance and Description of the
-            Journals</ref>
+                     <ref n="v02.appendix.b" type="related">Provenance and Description of the Journals</ref>
                   </item>
                   <item>
                      <ref n="v02.appendix.c" type="related">Calendar of Journals and Manuscripts</ref>
@@ -230,12 +230,13 @@
                      <ref n="lc.editorial.procedures" type="related">Editorial Procedures</ref>
                   </item>
                   <item>
-                     <ref n="lc.editorial.symbols" type="related">Editorial Symbols and
-            Abbreviations</ref>
+                     <ref n="lc.editorial.symbols" type="related">Editorial Symbols and Abbreviations</ref>
                   </item>
                </list>
                <lb/>
-               <lb/>Volume Introductions and Prefaces 
+               <lb/>
+
+Volume Introductions and Prefaces
         <list type="simple">
                   <item>
                      <ref n="preface.v02" type="related">Volume 2 Preface</ref>
@@ -353,8 +354,7 @@
                      <ref n="lc.overview" type="related">Overview</ref>
                   </item>
                   <item>
-                     <ref n="lc.onlineeditorialprocedures" type="related">Online Editorial
-            Procedures</ref>
+                     <ref n="lc.onlineeditorialprocedures" type="related">Online Editorial Procedures</ref>
                   </item>
                   <item>
                      <ref n="lc.technicalsummary" type="related">Technical Summary</ref>
@@ -389,8 +389,7 @@
                </hi>
                <lb/>
                <hi rend="bold">
-                  <ref target="mailto:cdrh@unl.edu?subject=Journals of Lewis and Clark Online">Contact
-          Us</ref>
+                  <ref target="mailto:jfaust2@unl.edu?subject=Journals of Lewis and Clark Online">Contact Us</ref>
                </hi>
                <lb/>
                <hi rend="bold">
