@@ -209,6 +209,40 @@
       <!-- lc_filename_s -->
       <!-- filename (because entries may be different ID) -->
       <field name="lc_filename_s"><xsl:value-of select="$filenamepart"/></field>
+    
+    <!-- lc_native_nation_s -->
+    <xsl:for-each-group select="//name[@type='native_nation']/@key" group-by=".">
+      <field name="lc_native_nation_s">
+        <xsl:value-of select="current-grouping-key()"/>
+      </field>
+    </xsl:for-each-group>
+    
+    <!-- people -->
+    <xsl:for-each-group select="//name[@type='person']/@key" group-by=".">
+      <field name="person">
+        <xsl:value-of select="current-grouping-key()"/>
+      </field>
+    </xsl:for-each-group>
+    
+    <!-- places -->
+    <xsl:for-each-group select="//name[@type='place']/@key" group-by=".">
+      <field name="place">
+        <xsl:value-of select="current-grouping-key()"/>
+      </field>
+    </xsl:for-each-group>
+    
+    <!-- lc_index_combined_s Combined field to build the index -->
+    <xsl:for-each-group select="//name" group-by="@key">
+      <field name="lc_index_combined_s">
+        <xsl:value-of select="current-grouping-key()"/>
+        <xsl:text>||</xsl:text>
+        <xsl:value-of select="@type"/>
+      </field>
+    </xsl:for-each-group>
+    
+    
+    
+    <!-- Begin what remains of the regular fields -->
       
       <!-- slug -->
       <xsl:call-template name="slug"/>
@@ -311,12 +345,14 @@
       
       <!-- keywords -->
       <xsl:call-template name="keywords"/>
+    
+    <!-- People and places handled differently above -->
       
       <!-- people -->
-      <xsl:call-template name="people"/>
+      <!--<xsl:call-template name="people"/>-->
       
       <!-- places -->
-      <xsl:call-template name="places"/>
+      <!--<xsl:call-template name="places"/>-->
       
       <!-- works -->
       <xsl:call-template name="works"/>
