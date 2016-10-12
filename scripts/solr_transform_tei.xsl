@@ -210,9 +210,9 @@
       <!-- filename (because entries may be different ID) -->
       <field name="lc_filename_s"><xsl:value-of select="$filenamepart"/></field>
     
-    <!-- lc_native_nation_s -->
+    <!-- lc_native_nation_ss -->
     <xsl:for-each-group select="//name[@type='native_nation']/@key" group-by=".">
-      <field name="lc_native_nation_s">
+      <field name="lc_native_nation_ss">
         <xsl:value-of select="current-grouping-key()"/>
       </field>
     </xsl:for-each-group>
@@ -231,9 +231,9 @@
       </field>
     </xsl:for-each-group>
     
-    <!-- lc_index_combined_s Combined field to build the index -->
+    <!-- lc_index_combined_ss Combined field to build the index -->
     <xsl:for-each-group select="//name" group-by="@key">
-      <field name="lc_index_combined_s">
+      <field name="lc_index_combined_ss">
         <xsl:value-of select="current-grouping-key()"/>
         <xsl:text>||</xsl:text>
         <xsl:value-of select="@type"/>
