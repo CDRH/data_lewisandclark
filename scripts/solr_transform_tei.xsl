@@ -219,14 +219,14 @@
     
     <!-- people -->
     <xsl:for-each-group select="//name[@type='person']/@key" group-by=".">
-      <field name="person">
+      <field name="people">
         <xsl:value-of select="current-grouping-key()"/>
       </field>
     </xsl:for-each-group>
     
     <!-- places -->
     <xsl:for-each-group select="//name[@type='place']/@key" group-by=".">
-      <field name="place">
+      <field name="places">
         <xsl:value-of select="current-grouping-key()"/>
       </field>
     </xsl:for-each-group>
