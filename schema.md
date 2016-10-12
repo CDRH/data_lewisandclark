@@ -5,9 +5,11 @@
 * **lc_previous_s** The previous journal entry. This comes straight from the TEI.
 * **lc_next_s** The next journal entry. This comes straight from the TEI.
 * **lc_filename_s** The filename, if it is different from the ID. 
-* **lc_native_nation_s** This is analogous to "People" and "Places" for the index. From the tei: `<name type="native_nation" key="Mandan Indians">`
+* **lc_native_nation_ss** This is analogous to "People" and "Places" for the index. From the tei: `<name type="native_nation" key="Mandan Indians">`
 * **lc_year_s** (maybe) Might use for calendar view
 * **lc_year_month_s** (maybe)  Might use for calendar view
+* **lc_index_combined_ss** Combined field to build the index
+* **lc_searchtype_s** Two types: all and journalfile. The journalfile fields are the combined files with all entries. 
 
 ### Also note: 
 

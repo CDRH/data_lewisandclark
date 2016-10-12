@@ -80,15 +80,19 @@
     <xsl:param name="filenamepart"/>
     
     <add>
-      <xsl:choose>
+    
         <!-- When Journal, select different stuff -->
-        <xsl:when test="starts-with($filenamepart,'lc.jrn.1') and //div[@type='entry']">
+        <xsl:if test="starts-with($filenamepart,'lc.jrn.1') and //div[@type='entry']">
           <xsl:for-each select="//div[@type='entry']">
             <doc>
               <!-- id -->
               <xsl:call-template name="id">
                 <xsl:with-param name="id" select="@xml:id"/>
               </xsl:call-template>
+              
+              <!-- lc_searchtype_s Two types: all and journalfile. The journalfile fields are the combined files with all entries. -->
+              <field name="lc_searchtype_s">journalfile</field>
+              
               <!-- date and dateDisplay-->
               <xsl:variable name="journal_date">
                 <xsl:choose>
@@ -138,14 +142,20 @@
               <xsl:call-template name="tei_template_part"><xsl:with-param name="filenamepart" select="$filenamepart"/></xsl:call-template>
             </doc>
           </xsl:for-each>
-        </xsl:when>
-        <!-- All other files -->
-        <xsl:otherwise>
+        </xsl:if>
+      
+      
+        <!-- All files get this template -->
+      
           <doc>
             <!-- id -->
             <xsl:call-template name="id">
               <xsl:with-param name="id" select="$filenamepart"/>
             </xsl:call-template>
+            
+            <!-- lc_searchtype_s Two types: all and journalfile. The journalfile fields are the combined files with all entries. -->
+            <field name="lc_searchtype_s">all</field>
+            
             <!-- date and dateDisplay-->
             
             <xsl:choose>
@@ -163,6 +173,8 @@
               </xsl:otherwise>
             </xsl:choose>
             
+            
+            
             <!-- Text -->
             <xsl:call-template name="text"/>
             
@@ -174,8 +186,8 @@
             
           <xsl:call-template name="tei_template_part"><xsl:with-param name="filenamepart" select="$filenamepart"/></xsl:call-template>
           </doc>
-        </xsl:otherwise>
-      </xsl:choose>
+        
+      
     </add>
   </xsl:template>
   
