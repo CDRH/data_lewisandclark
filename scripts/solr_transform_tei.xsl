@@ -140,31 +140,7 @@
                 
               </xsl:for-each>
                 
-                <!--lc_timeline_place_s-->
-              
-              <!-- @notAfter or @when -->
-              
-              <xsl:variable name="entry_date">
-                <xsl:choose>
-                  <xsl:when test="parent::*/head/date/@notAfter">
-                    <xsl:value-of select="parent::*/head/date/@notAfter"/>
-                  </xsl:when>
-                  <xsl:when test="parent::*/head/date/@when">
-                    <xsl:value-of select="parent::*/head/date/@when"/>
-                  </xsl:when>
-                  <xsl:otherwise><xsl:value-of select="$date_match"/></xsl:otherwise>
-                </xsl:choose>
-              </xsl:variable>
-              
-              
-              <xsl:for-each select="doc('data_ingest_helpers/date_numbering.xml')/root/date" xpath-default-namespace="">
-                <xsl:if test=". = $entry_date">
-                  <field name="lc_timeline_place_s"><xsl:value-of select="@id"/></field>
-                  
-                </xsl:if>
-  
-                
-              </xsl:for-each>
+               
               
         
               
@@ -244,11 +220,28 @@
   <xsl:template name="tei_template_part">
     <xsl:param name="filenamepart"/>
     
-   
-      
-      <!-- ==============================
-        resource identification (I have removed the fields that need to be treated individually and added them above -kmd)
-        ===================================-->
+    <!--lc_timeline_place_s-->
+    
+    <!-- @notAfter or @when -->
+    
+    <xsl:variable name="entry_date">
+      <xsl:choose>
+        <xsl:when test="parent::*/head/date/@notAfter">
+          <xsl:value-of select="parent::*/head/date/@notAfter"/>
+        </xsl:when>
+        <xsl:when test="parent::*/head/date/@when">
+          <xsl:value-of select="parent::*/head/date/@when"/>
+        </xsl:when>
+        <xsl:otherwise><xsl:value-of select="$date_match"/></xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
+    
+    <xsl:for-each select="doc('data_ingest_helpers/date_numbering.xml')/root/date" xpath-default-namespace="">
+      <xsl:if test=". = $entry_date">
+        <field name="lc_timeline_place_s"><xsl:value-of select="@id"/></field>
+      </xsl:if>
+    </xsl:for-each>
+    
     
       <!-- lc_previous_s -->
       
