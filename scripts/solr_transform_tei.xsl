@@ -29,6 +29,11 @@
   <xsl:param name="project"/>       <!-- longer name of project -->
   <xsl:param name="slug"/>          <!-- slug of project -->
   <xsl:param name="site_url"/>
+  
+  <!-- Strip out date from xml:id to use in various capacities -->
+  <xsl:variable name="date_match">
+    <xsl:value-of select="normalize-space(substring-after(/TEI/@xml:id, 'lc.jrn.'))"></xsl:value-of>
+  </xsl:variable>
         
 
   <!-- ==================================================================== -->
@@ -73,15 +78,14 @@
     <xsl:value-of select="@key"/>
     <xsl:text>) </xsl:text>
   </xsl:template>
-  
-  <!-- If journal, call tei template twice? -->
+ 
   
   <xsl:template name="tei_template" exclude-result-prefixes="#all">
     <xsl:param name="filenamepart"/>
     
     <add>
     
-        <!-- When Journal, select different stuff -->
+        <!-- When Journal, select different stuff in addition to page -->
         <xsl:if test="starts-with($filenamepart,'lc.jrn.1') and //div[@type='entry']">
           <xsl:for-each select="//div[@type='entry']">
             <doc>
@@ -118,6 +122,52 @@
                   <xsl:value-of select="translate($geo,' ',',')"/>
                 </field>
               </xsl:if>
+
+              <!-- lc_city_ss lc_county_ss lc_state_ss -->
+              <xsl:for-each select="doc('data_ingest_helpers/journals_geo_info.xml')/root/row" xpath-default-namespace="">
+                <xsl:if test="@date = $date_match">
+                  <field name="lc_city_ss">
+                    <xsl:value-of select="City"/>
+                  </field>
+                  <field name="lc_county_ss">
+                    <xsl:value-of select="County"/>
+                  </field>
+                  <field name="lc_state_ss">
+                    <xsl:value-of select="stateCode"/>
+                  </field>
+                </xsl:if>
+                
+                
+              </xsl:for-each>
+                
+                <!--lc_timeline_place_s-->
+              
+              <!-- @notAfter or @when -->
+              
+              <xsl:variable name="entry_date">
+                <xsl:choose>
+                  <xsl:when test="parent::*/head/date/@notAfter">
+                    <xsl:value-of select="parent::*/head/date/@notAfter"/>
+                  </xsl:when>
+                  <xsl:when test="parent::*/head/date/@when">
+                    <xsl:value-of select="parent::*/head/date/@when"/>
+                  </xsl:when>
+                  <xsl:otherwise><xsl:value-of select="$date_match"/></xsl:otherwise>
+                </xsl:choose>
+              </xsl:variable>
+              
+              
+              <xsl:for-each select="doc('data_ingest_helpers/date_numbering.xml')/root/date" xpath-default-namespace="">
+                <xsl:if test=". = $entry_date">
+                  <field name="lc_timeline_place_s"><xsl:value-of select="@id"/></field>
+                  
+                </xsl:if>
+  
+                
+              </xsl:for-each>
+              
+        
+              
               <!-- text -->
               <field name="text">
                 <xsl:apply-templates select="."/>
@@ -138,7 +188,7 @@
                   <xsl:text>.txt</xsl:text>
                 </field>
               
-              
+              <!-- Call template with shared fields -->
               <xsl:call-template name="tei_template_part"><xsl:with-param name="filenamepart" select="$filenamepart"/></xsl:call-template>
             </doc>
           </xsl:for-each>
@@ -183,7 +233,7 @@
               <xsl:with-param name="id" select="$filenamepart"/>
             </xsl:call-template>
             
-            
+            <!-- Call template with shared fields -->
           <xsl:call-template name="tei_template_part"><xsl:with-param name="filenamepart" select="$filenamepart"/></xsl:call-template>
           </doc>
         

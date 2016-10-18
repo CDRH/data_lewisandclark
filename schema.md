@@ -9,7 +9,12 @@
 * **lc_year_s** (maybe) Might use for calendar view
 * **lc_year_month_s** (maybe)  Might use for calendar view
 * **lc_index_combined_ss** Combined field to build the index
-* **lc_searchtype_s** Two types: all and journalfile. The journalfile fields are the combined files with all entries. 
+* **lc_searchtype_s** Two types: all and journalfile. The journalfile fields are the combined files with all entries.
+* **lc_city_ss** For faceting by city
+* **lc_state_ss** For faceting by state
+* **lc_county_ss** For faceting by county
+* **lc_timeline_place_s** placement in timeline, will be a number between 1 - 1100
+
 
 ### Also note: 
 
