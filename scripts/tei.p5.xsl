@@ -116,8 +116,6 @@
           <xsl:when test="@type = 'native_nation'">lc_native_nation_ss</xsl:when>
         </xsl:choose>
           <xsl:text>&amp;qtext=</xsl:text>
-        
-        <xsl:text>=</xsl:text>
         <xsl:value-of select="@key"/>
       </xsl:attribute>
       <xsl:apply-templates/>
