@@ -109,13 +109,13 @@
       <xsl:attribute name="data-toggle">tooltip</xsl:attribute>
       <xsl:attribute name="data-placement">top</xsl:attribute>
       <xsl:attribute name="href">
-        <xsl:text>/search?qfield=</xsl:text>
+        <xsl:text>/search?</xsl:text>
         <xsl:choose>
           <xsl:when test="@type = 'place'">places</xsl:when>
           <xsl:when test="@type = 'person'">people</xsl:when>
           <xsl:when test="@type = 'native_nation'">lc_native_nation_ss</xsl:when>
         </xsl:choose>
-          <xsl:text>&amp;qtext=</xsl:text>
+          <xsl:text>=</xsl:text>
         <xsl:value-of select="@key"/>
       </xsl:attribute>
       <xsl:apply-templates/>
