@@ -94,6 +94,12 @@
                 <xsl:with-param name="id" select="@xml:id"/>
               </xsl:call-template>
               
+              <!-- creator -->
+              <xsl:variable name="author"><xsl:value-of select="sp/@who"/></xsl:variable>
+              <field name="creator">
+                <xsl:value-of select="//author[@xml:id=$author][1]"/>
+              </field>
+              
               <!-- lc_searchtype_s Two types: all and journalfile. The journalfile fields are the combined files with all entries. -->
               <field name="lc_searchtype_s">journalfile</field>
               

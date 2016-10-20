@@ -91,7 +91,11 @@
   <!-- Speaker -->
   
   <xsl:template match="div[@type='entry']//sp//speaker">
-    <h4>[<xsl:apply-templates/>]</h4>
+    <h4>
+      <xsl:attribute name="id">
+        <xsl:value-of select="parent::*/parent::*/@xml:id"/>
+      </xsl:attribute>
+      [<xsl:apply-templates/>]</h4>
   </xsl:template> 
   
   <!-- names/places/tribes -->
