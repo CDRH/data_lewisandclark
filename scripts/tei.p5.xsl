@@ -109,7 +109,7 @@
       <xsl:attribute name="data-toggle">tooltip</xsl:attribute>
       <xsl:attribute name="data-placement">top</xsl:attribute>
       <xsl:attribute name="href">
-        <xsl:text>../search?</xsl:text>
+        <xsl:text>../../search?</xsl:text>
         <xsl:choose>
           <xsl:when test="@type = 'place'">places</xsl:when>
           <xsl:when test="@type = 'person'">people</xsl:when>
