@@ -14,6 +14,8 @@
 * **lc_state_ss** For faceting by state
 * **lc_county_ss** For faceting by county
 * **lc_timeline_place_s** placement in timeline, will be a number between 1 - 1100
+* **lc_dateNotBefore_s** Date Not Before
+* **lc_dateNotAfter_s** Date Not After
 
 
 ### Also note: 

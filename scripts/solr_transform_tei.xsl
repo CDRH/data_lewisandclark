@@ -103,19 +103,7 @@
               <!-- lc_searchtype_s Two types: all and journalfile. The journalfile fields are the combined files with all entries. -->
               <field name="lc_searchtype_s">journal_entry</field>
               
-              <!-- date and dateDisplay-->
-              <xsl:variable name="journal_date">
-                <xsl:choose>
-                  <xsl:when test="/TEI/text[1]/body[1]/head[1]/date[1]/@when"><xsl:value-of select="/TEI/text[1]/body[1]/head[1]/date[1]/@when"/></xsl:when>
-                  <xsl:otherwise><xsl:value-of select="/TEI/text[1]/body[1]/head[1]/date[1]/@notafter"/></xsl:otherwise>
-                </xsl:choose>
-              </xsl:variable>
-              <field name="date">
-                <xsl:value-of select="$journal_date"/>
-              </field>
-              <field name="dateDisplay">
-                <xsl:call-template name="extractDate"><xsl:with-param name="date"><xsl:value-of select="$journal_date"/></xsl:with-param></xsl:call-template>
-              </field>
+              
               <!-- geo coordinates -->
               <!-- todo change ref to n when files are changed -->
               
@@ -185,20 +173,7 @@
               <xsl:with-param name="id" select="$filenamepart"/>
             </xsl:call-template>
             
-            <!-- date -->
-            <!-- date and dateDisplay-->
-            <xsl:variable name="journal_date">
-              <xsl:choose>
-                <xsl:when test="/TEI/text[1]/body[1]/head[1]/date[1]/@when"><xsl:value-of select="/TEI/text[1]/body[1]/head[1]/date[1]/@when"/></xsl:when>
-                <xsl:otherwise><xsl:value-of select="/TEI/text[1]/body[1]/head[1]/date[1]/@notafter"/></xsl:otherwise>
-              </xsl:choose>
-            </xsl:variable>
-            <field name="date">
-              <xsl:value-of select="$journal_date"/>
-            </field>
-            <field name="dateDisplay">
-              <xsl:call-template name="extractDate"><xsl:with-param name="date"><xsl:value-of select="$journal_date"/></xsl:with-param></xsl:call-template>
-            </field>
+         
             
             <!-- lc_searchtype_s Two types: all and journalfile. The journalfile fields are the combined files with all entries. -->
             <field name="lc_searchtype_s">
@@ -209,27 +184,14 @@
             </xsl:choose>
             </field>
             
-            <!-- date and dateDisplay-->
-            
-            <xsl:choose>
-              <xsl:when test="/TEI/text[1]/body[1]/list[1]/item[1]/figure[1]/p[1]/bibl[1]/date[1]">
-                <xsl:variable name="image_date" select="/TEI/text[1]/body[1]/list[1]/item[1]/figure[1]/p[1]/bibl[1]/date[1]"></xsl:variable>
-                <field name="date">
-                  <xsl:value-of select="$image_date"/>
-                </field>
-                <field name="dateDisplay">
-                  <xsl:call-template name="extractDate"><xsl:with-param name="date"><xsl:value-of select="$image_date"/></xsl:with-param></xsl:call-template>
-                </field>
-              </xsl:when>
-              <xsl:otherwise>
-                <xsl:call-template name="date"/>
-              </xsl:otherwise>
-            </xsl:choose>
-            
+          
             
             
             <!-- Text -->
-            <xsl:call-template name="text"/>
+            <xsl:choose>
+              <xsl:when test="not(starts-with($filenamepart,'lc.jrn'))"><xsl:call-template name="text"/></xsl:when>
+            </xsl:choose>
+            
             
             <!-- uriHTML -->
             <xsl:call-template name="uriHTML">
@@ -268,6 +230,38 @@
         <field name="lc_timeline_place_s"><xsl:value-of select="@id"/></field>
       </xsl:if>
     </xsl:for-each>
+    
+    
+    <!-- date and dateDisplay-->
+    <xsl:variable name="dateNotAfter">
+      <xsl:choose>
+        <xsl:when test="/TEI/text[1]/body[1]/head[1]/date[1]/@when"><xsl:value-of select="/TEI/text[1]/body[1]/head[1]/date[1]/@when"/></xsl:when>
+        <xsl:otherwise><xsl:value-of select="/TEI/text[1]/body[1]/head[1]/date[1]/@notAfter"/></xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
+    <xsl:variable name="dateNotBefore">
+      <xsl:choose>
+        <xsl:when test="/TEI/text[1]/body[1]/head[1]/date[1]/@notBefore"><xsl:value-of select="/TEI/text[1]/body[1]/head[1]/date[1]/@notBefore"/></xsl:when>
+        <xsl:otherwise><xsl:value-of select="$dateNotAfter"/></xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
+    <field name="date">
+      <xsl:value-of select="$dateNotAfter"/>
+    </field>
+    <field name="dateDisplay">
+      <xsl:choose>
+        <xsl:when test="/TEI/text/body/head/date and (/TEI/text/body/head/date != '')"><xsl:value-of select="/TEI/text/body/head/date"/></xsl:when>
+        <xsl:otherwise><xsl:call-template name="extractDate"><xsl:with-param name="date"><xsl:value-of select="$dateNotAfter"/></xsl:with-param></xsl:call-template></xsl:otherwise>
+      </xsl:choose>
+      
+    </field>
+    
+    <field name="lc_dateNotBefore_s">
+      <xsl:value-of select="$dateNotBefore"/>
+    </field>
+    <field name="lc_dateNotAfter_s">
+      <xsl:value-of select="$dateNotAfter"/>
+    </field>
     
     
       <!-- lc_previous_s -->
