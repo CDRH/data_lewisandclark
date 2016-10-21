@@ -235,13 +235,13 @@
     <!-- date and dateDisplay-->
     <xsl:variable name="dateNotAfter">
       <xsl:choose>
-        <xsl:when test="/TEI/text[1]/body[1]/head[1]/date[1]/@when"><xsl:value-of select="/TEI/text[1]/body[1]/head[1]/date[1]/@when"/></xsl:when>
-        <xsl:otherwise><xsl:value-of select="/TEI/text[1]/body[1]/head[1]/date[1]/@notAfter"/></xsl:otherwise>
+        <xsl:when test="/TEI/text[1]/body[1]/head[@type='date']/date[1]/@when"><xsl:value-of select="/TEI/text[1]/body[1]/head[@type='date']/date[1]/@when"/></xsl:when>
+        <xsl:otherwise><xsl:value-of select="/TEI/text[1]/body[1]/head[@type='date']/date[1]/@notAfter"/></xsl:otherwise>
       </xsl:choose>
     </xsl:variable>
     <xsl:variable name="dateNotBefore">
       <xsl:choose>
-        <xsl:when test="/TEI/text[1]/body[1]/head[1]/date[1]/@notBefore"><xsl:value-of select="/TEI/text[1]/body[1]/head[1]/date[1]/@notBefore"/></xsl:when>
+        <xsl:when test="/TEI/text[1]/body[1]/head[@type='date']/date[1]/@notBefore"><xsl:value-of select="/TEI/text[1]/body[1]/head[@type='date']/date[1]/@notBefore"/></xsl:when>
         <xsl:otherwise><xsl:value-of select="$dateNotAfter"/></xsl:otherwise>
       </xsl:choose>
     </xsl:variable>
