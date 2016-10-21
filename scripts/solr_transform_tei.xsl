@@ -185,6 +185,21 @@
               <xsl:with-param name="id" select="$filenamepart"/>
             </xsl:call-template>
             
+            <!-- date -->
+            <!-- date and dateDisplay-->
+            <xsl:variable name="journal_date">
+              <xsl:choose>
+                <xsl:when test="/TEI/text[1]/body[1]/head[1]/date[1]/@when"><xsl:value-of select="/TEI/text[1]/body[1]/head[1]/date[1]/@when"/></xsl:when>
+                <xsl:otherwise><xsl:value-of select="/TEI/text[1]/body[1]/head[1]/date[1]/@notafter"/></xsl:otherwise>
+              </xsl:choose>
+            </xsl:variable>
+            <field name="date">
+              <xsl:value-of select="$journal_date"/>
+            </field>
+            <field name="dateDisplay">
+              <xsl:call-template name="extractDate"><xsl:with-param name="date"><xsl:value-of select="$journal_date"/></xsl:with-param></xsl:call-template>
+            </field>
+            
             <!-- lc_searchtype_s Two types: all and journalfile. The journalfile fields are the combined files with all entries. -->
             <field name="lc_searchtype_s">
               <xsl:choose>
