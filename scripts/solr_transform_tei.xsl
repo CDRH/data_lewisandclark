@@ -101,7 +101,7 @@
               </field>
               
               <!-- lc_searchtype_s Two types: all and journalfile. The journalfile fields are the combined files with all entries. -->
-              <field name="lc_searchtype_s">journalfile</field>
+              <field name="lc_searchtype_s">journal_entry</field>
               
               <!-- date and dateDisplay-->
               <xsl:variable name="journal_date">
@@ -186,7 +186,13 @@
             </xsl:call-template>
             
             <!-- lc_searchtype_s Two types: all and journalfile. The journalfile fields are the combined files with all entries. -->
-            <field name="lc_searchtype_s">all</field>
+            <field name="lc_searchtype_s">
+              <xsl:choose>
+                <xsl:when test="starts-with($filenamepart,'lc.jrn.18')">journal_file</xsl:when>
+                <xsl:when test="starts-with($filenamepart,'lc.jrn')">journal_sup</xsl:when>
+                <xsl:otherwise>non_journal</xsl:otherwise>       
+            </xsl:choose>
+            </field>
             
             <!-- date and dateDisplay-->
             
