@@ -71,25 +71,31 @@
 
   
   <!-- ========== source ========== -->
-  
+ 
   <xsl:template name="source">
-    <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='j'] != ''">
+    <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[1] != ''">
       <field name="source">
-        <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='j']"/>
+        <xsl:value-of select="normalize-space(/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[1])"/>
       </field>
     </xsl:if>
   </xsl:template>
   
-  
-  <!-- ==================================================================== -->
-  <!--                            OVERRIDES   - Doc setup                              -->
-  <!-- ==================================================================== -->
   <xsl:template match="name">
     <xsl:apply-templates/>
     <xsl:text> (</xsl:text>
     <xsl:value-of select="@key"/>
     <xsl:text>) </xsl:text>
   </xsl:template>
+  
+  <!-- ==================================================================== -->
+  <!--                            OVERRIDES   - Doc setup                              -->
+  <!-- ==================================================================== -->
+
+  <xsl:template name="journal_entry">
+    
+    
+  </xsl:template>
+  
  
   
   <xsl:template name="tei_template" exclude-result-prefixes="#all">
@@ -101,27 +107,31 @@
           Journal Files
           (In addition to below)
         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-        <xsl:if test="starts-with($filenamepart,'lc.jrn.1') and //div[@type='entry']">
-          <xsl:for-each select="//div[@type='entry']">
+        <xsl:if test="starts-with($filenamepart,'lc.jrn.1') and //div[@xml:id]">
+          <xsl:for-each select="//div[@xml:id]">
             <doc>
               <!-- id -->
               <xsl:call-template name="id">
                 <xsl:with-param name="id" select="@xml:id"/>
               </xsl:call-template>
               
-              
+              <!-- source -->
+              <field name="source">
+                    <xsl:variable name="author"><xsl:value-of select="sp/@who"/></xsl:variable>
+                      <xsl:value-of select="//author[@xml:id=$author][1]/parent::*/title[1]"/>
+              </field>
               
               
               
               
               <!-- creator -->
               <xsl:variable name="author"><xsl:value-of select="sp/@who"/></xsl:variable>
-              <field name="creator">
+              <field name="creators">
                 <xsl:value-of select="//author[@xml:id=$author][1]"/>
               </field>
               
               <!-- lc_searchtype_s Two types: all and journalfile. The journalfile fields are the combined files with all entries. -->
-              <field name="lc_searchtype_s">journal_entry</field>
+         <!-- yyy -->     <field name="lc_searchtype_s">journal_entry</field>
               
               
               <!-- geo coordinates -->
@@ -195,7 +205,19 @@
               <xsl:with-param name="id" select="$filenamepart"/>
             </xsl:call-template>
             
-         
+            <!-- source -->
+            
+            
+            
+              <xsl:choose>
+                <xsl:when test="starts-with($filenamepart,'lc.jrn.18')">
+                  <field name="source">
+                  <xsl:text>The Journals of the Lewis and Clark Expedition</xsl:text>
+                  </field>
+                </xsl:when>
+                <xsl:otherwise><xsl:call-template name="source"/></xsl:otherwise>       
+              </xsl:choose>
+            
             
             <!-- lc_searchtype_s Two types: all and journalfile. The journalfile fields are the combined files with all entries. -->
             <field name="lc_searchtype_s">
@@ -425,8 +447,7 @@
       <!-- language -->
       <!-- relation -->
       <!-- coverage -->
-      <!-- source -->
-      <xsl:call-template name="source"/>
+      
       
       <!-- rightsHolder -->
       <xsl:call-template name="rightsHolder"/>

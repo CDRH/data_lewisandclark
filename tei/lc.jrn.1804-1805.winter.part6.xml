@@ -105,10 +105,10 @@
             <hi rend="italic">Part 6: Baling Invoices</hi>
          </head>
          <head type="date">
-            <date notAfter='1805-04-06'>Winter 1804-1805</date>
+            <date notAfter="1805-04-06">Winter 1804-1805</date>
          </head>
          <head type="sub"/>
-         <div type="part">
+        <div type="part" xml:id="lc.jrn.1804-1805.winter.part6.01">
             <p>
 The following lists appear on pp. 256–74 of Codex C, reading backward; the hand is unknown. The first part is an invoice of presents to be given to Indian chiefs, the second lists "necessary stores" for the expedition. There seems to be no way of determining when the lists were written, but since they are found in a journal sent back from <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name> they are printed here.</p>
             <p>
@@ -2673,6 +2673,8 @@ Vizt [viz.]—</head>
                </table>
             </p>
          </div>
+      </body>
+     <back>
          <div type="file_references">
             <list type="simple">
                <item>
@@ -2683,6 +2685,7 @@ Vizt [viz.]—</head>
                </item>
             </list>
          </div>
-      </body>
+     </back>
+
    </text>
 </TEI>

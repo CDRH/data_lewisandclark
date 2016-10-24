@@ -105,10 +105,10 @@
             <hi rend="italic">Part 2: Estimate of the Eastern Indians</hi>
          </head>
          <head type="date">
-            <date notAfter='1805-04-06'>Winter 1804-1805</date>
+            <date notAfter="1805-04-06">Winter 1804-1805</date>
          </head>
          <head type="sub"/>
-         <div type="part">
+        <div type="part" xml:id="lc.jrn.1804-1805.winter.part1.01">
             <p>
 This document, in <name type="person" key="Clark, William">Clark's</name> hand, consists of seven sheets of letter paper pasted together to form one large sheet about 35" × 28". Apparently there were two copies, one sent to the secretary of war and now lost, and the present copy, now in the archives of the American Philosophical Society, where it was deposited by <name type="person" key="Biddle, Nicholas">Biddle</name> in 1818 (see <ref n="introduction.general" type="related">Introduction</ref> and <ref n="v02.appendix.c" type="related">Appendix C</ref>). The material is arranged in a large table providing information about the tribes living east of the <name type="place" key="Rocky Mountains">Rocky Mountains</name>, although a few mountain tribes, such as the "<name type="native_nation" key="Shoshone Indians">Snakes</name>" (<name type="native_nation" key="Shoshone Indians">Shoshones</name>), <name type="native_nation" key="Crow Indians">Crows</name>, and <name type="native_nation" key="Flathead Indians">Flatheads</name>, are included. The captains must have obtained their data from traders and Indians in <name type="place" key="Saint Louis, Mo.">St. Louis</name> and on up the <name type="place" key="Missouri River">Missouri</name>. The copy sent to the secretary of war evidently contained information not found in the existing document, as indicated by a memorandum by <name type="person" key="Clark, William">Clark</name> on the back of the latter, which reads as follows:</p>
             <p>
@@ -9748,7 +9748,10 @@ and <name type="native_nation" key="Chickasaw Indians">Chickasaws</name>
                </table>
             </p>
          </div>
-         <div type="file_references">
+        
+      </body>
+     <back>
+        <div type="file_references">
             <list type="simple">
                <item>
                   <ptr n="1804-1805.winter.part1" type="prev"/>
@@ -9758,6 +9761,6 @@ and <name type="native_nation" key="Chickasaw Indians">Chickasaws</name>
                </item>
             </list>
          </div>
-      </body>
+      </back>
    </text>
 </TEI>

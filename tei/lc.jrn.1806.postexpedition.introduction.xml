@@ -102,7 +102,7 @@
             <date notAfter='1806-09-30'>Postexpedition 1806</date>
          </head>
          <head type="sub">Introduction</head>
-         <div type="Introduction">
+        <div type="Introduction" xml:id="lc.jrn.1806.postexpedition.introduction.01">
             <p>
 The following items represent another collection of miscellaneous documents comparable to the miscellany gathered at <ref n="1804-1805.winter.introduction" type="related">
                   <name type="native_nation" key="Fort Mandan (N. Dak.)">Fort Mandan</name>
@@ -112,7 +112,10 @@ The following items represent another collection of miscellaneous documents comp
 
 </p>
          </div>
-         <div type="file_references">
+         
+      </body>
+     <back>
+        <div type="file_references">
             <list type="simple">
                <item>
                   <ptr n="1806-09-30-1" type="prev"/>
@@ -122,6 +125,6 @@ The following items represent another collection of miscellaneous documents comp
                </item>
             </list>
          </div>
-      </body>
+     </back>
    </text>
 </TEI>

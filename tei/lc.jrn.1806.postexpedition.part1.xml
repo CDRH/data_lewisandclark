@@ -107,10 +107,8 @@
             <date notAfter='1806-09-30'>Postexpedition 1806</date>
          </head>
          <head type="sub"/>
-         <head type="date">
-            <date>undated</date>
-         </head>
-         <div type="part">
+        <div type="part"
+          xml:id="lc.jrn.1806.postexpedition.part1.01">
             <p>
                <name type="person" key="Clark, William">Clark</name> prepared this extensive list of estimated distances for the route from <name type="place" key="Saint Charles, Mo.">St. Charles</name>, <name type="place" key="Missouri">Missouri</name>, to the <name type="place" key="Pacific Coast">Pacific Coast</name> and the return as an apparent supplement to his route maps. This document is found in Codex N, pp. 128–42 (reading backwards). Some of the numbers under the last column ("Distances up the <name type="place" key="Missouri River">Missouri</name>") have been lined through in the codex, but the marks appear to be more check-offs than actual strike outs. Since many are quite faint and questionable they are not shown here as strike outs. A similar list is in Voorhis No. 4; it has been compared to this one and significant variations have been noted. The table in the Voorhis notebook probably served as a duplicate to guard against loss or injury to the codex piece.</p>
          </div>
@@ -8665,7 +8663,10 @@ map 68)</cell>
                </p>
             </sp>
          </div>
-         <div type="notes">
+         
+      </body>
+     <back>
+        <div type="notes">
             <note xml:id="n01" n="1">The figures for this column do not appear in many instances in Voorhis No. 4.</note>
             <note xml:id="n02" n="2">Unnamed in Voorhis No. 4.</note>
             <note xml:id="n03" n="3">Given as "<name type="place" key="Bighorn (Ar-sar-ta) River">Big Horn River</name>" in Voorhis No. 4.</note>
@@ -8688,6 +8689,6 @@ map 68)</cell>
                </item>
             </list>
          </div>
-      </body>
+     </back>
    </text>
 </TEI>

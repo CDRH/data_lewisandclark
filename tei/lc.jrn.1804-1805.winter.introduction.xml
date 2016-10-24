@@ -106,10 +106,10 @@
          <head type="main">
             <name type="place" key="Fort Mandan (N. Dak.)">Fort Mandan</name> Miscellany</head>
          <head type="date">
-            <date notAfter='1805-04-06'>Winter 1804-1805</date>
+            <date notAfter="1805-04-06">Winter 1804-1805</date>
          </head>
          <head type="sub"/>
-         <div type="introduction">
+        <div type="introduction" xml:id="lc.jrn.1804-1805.winter.introduction.01">
             <p>
                <hi rend="center">
                   <hi rend="italic">Introduction</hi>
@@ -131,6 +131,8 @@ A list of mineral specimens sent back from <name type="place" key="Fort Mandan (
 
 </p>
          </div>
+      </body>
+     <back>
          <div type="file_references">
             <list type="simple">
                <item>
@@ -141,6 +143,7 @@ A list of mineral specimens sent back from <name type="place" key="Fort Mandan (
                </item>
             </list>
          </div>
-      </body>
+     </back>
+
    </text>
 </TEI>
