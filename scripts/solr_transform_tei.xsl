@@ -68,6 +68,18 @@
     </field>
   </xsl:template>
   
+
+  
+  <!-- ========== source ========== -->
+  
+  <xsl:template name="source">
+    <xsl:if test="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='j'] != ''">
+      <field name="source">
+        <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='j']"/>
+      </field>
+    </xsl:if>
+  </xsl:template>
+  
   
   <!-- ==================================================================== -->
   <!--                            OVERRIDES   - Doc setup                              -->
@@ -85,7 +97,10 @@
     
     <add>
     
-        <!-- When Journal, select different stuff in addition to page -->
+        <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          Journal Files
+          (In addition to below)
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <xsl:if test="starts-with($filenamepart,'lc.jrn.1') and //div[@type='entry']">
           <xsl:for-each select="//div[@type='entry']">
             <doc>
@@ -93,6 +108,11 @@
               <xsl:call-template name="id">
                 <xsl:with-param name="id" select="@xml:id"/>
               </xsl:call-template>
+              
+              
+              
+              
+              
               
               <!-- creator -->
               <xsl:variable name="author"><xsl:value-of select="sp/@who"/></xsl:variable>
@@ -165,7 +185,9 @@
         </xsl:if>
       
       
-        <!-- All files get this template -->
+        <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          All files 
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
       
           <doc>
             <!-- id -->
@@ -184,7 +206,32 @@
             </xsl:choose>
             </field>
             
-          
+            <!-- creator -->
+            <!-- creators -->
+            
+            
+            <xsl:choose>
+              <xsl:when test="starts-with($filenamepart,'lc.jrn.18')">
+                <xsl:for-each select="//div[@type='entry']">
+                  <xsl:variable name="author"><xsl:value-of select="sp/@who"/></xsl:variable>
+                  <field name="creators">
+                    <xsl:value-of select="//author[@xml:id=$author][1]"/>
+                  </field>
+                  
+                </xsl:for-each>
+                
+                <field name="creator">
+                  <xsl:for-each select="//div[@type='entry']">
+                    <xsl:variable name="author"><xsl:value-of select="sp/@who"/></xsl:variable>
+                      <xsl:value-of select="//author[@xml:id=$author][1]"/>
+                    <xsl:if test="position() != last()"><xsl:text>, </xsl:text></xsl:if>
+                  </xsl:for-each>
+                </field>
+                
+              </xsl:when>
+              
+              <xsl:otherwise><xsl:call-template name="creators"/></xsl:otherwise>       
+            </xsl:choose>
             
             
             <!-- Text -->
@@ -353,9 +400,7 @@
       <!-- title and titleSort-->
       <xsl:call-template name="title"/>
       
-      <!-- creator -->
-      <!-- creators -->
-      <xsl:call-template name="creators"/>
+      
       
       <!-- subject -->
       <!-- subjects -->
