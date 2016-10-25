@@ -56,7 +56,7 @@
     </xsl:variable>
     
     <field name="title">
-      <xsl:value-of select="$title"/>
+      <xsl:value-of select="normalize-space($title)"/>
     </field>
     
     <field name="titleSort">
@@ -118,17 +118,32 @@
               <!-- source -->
               <field name="source">
                     <xsl:variable name="author"><xsl:value-of select="sp/@who"/></xsl:variable>
-                      <xsl:value-of select="//author[@xml:id=$author][1]/parent::*/title[1]"/>
+                <xsl:choose>
+                  <!-- When author choose the source title that matches bibl containing author/@xml:id -->
+                  <xsl:when test="sp/@who">
+                    <xsl:value-of select="//author[@xml:id=$author][1]/parent::*/title[1]"/>
+                  </xsl:when>
+                  <!-- Otherwise use first bibl -->
+                  <xsl:otherwise>
+                    <xsl:value-of select="/TEI/teiHeader[1]/fileDesc[1]/sourceDesc[1]/bibl[1]/title[1]"/>
+                  </xsl:otherwise>
+                </xsl:choose>
               </field>
               
               
               
               
-              <!-- creator -->
+              <!-- creator/creators -->
               <xsl:variable name="author"><xsl:value-of select="sp/@who"/></xsl:variable>
-              <field name="creators">
-                <xsl:value-of select="//author[@xml:id=$author][1]"/>
-              </field>
+              <xsl:if test="sp/@who">
+                <field name="creators">
+                  <xsl:value-of select="//author[@xml:id=$author][1]"/>
+                </field>
+                <field name="creator">
+                  <xsl:value-of select="//author[@xml:id=$author][1]"/>
+                </field>
+              </xsl:if>
+              
               
               <!-- lc_searchtype_s Two types: all and journalfile. The journalfile fields are the combined files with all entries. -->
          <!-- yyy -->     <field name="lc_searchtype_s">journal_entry</field>
@@ -148,6 +163,7 @@
               </xsl:if>
 
               <!-- lc_city_ss lc_county_ss lc_state_ss -->
+              <xsl:if test="normalize-space(//geoDecl[1]/geo) != ''">
               <xsl:for-each select="doc('data_ingest_helpers/journals_geo_info.xml')/root/row" xpath-default-namespace="">
                 <xsl:if test="@date = $date_match">
                   <field name="lc_city_ss">
@@ -160,9 +176,10 @@
                     <xsl:value-of select="stateCode"/>
                   </field>
                 </xsl:if>
+               
                 
-                
-              </xsl:for-each>
+              </xsl:for-each> 
+              </xsl:if>
                 
                
               
@@ -233,13 +250,13 @@
             
             
             <xsl:choose>
+              <!-- When a journal, choose creator based on author/@xml:id -->
               <xsl:when test="starts-with($filenamepart,'lc.jrn.18')">
                 <xsl:for-each select="//div[@type='entry']">
                   <xsl:variable name="author"><xsl:value-of select="sp/@who"/></xsl:variable>
                   <field name="creators">
                     <xsl:value-of select="//author[@xml:id=$author][1]"/>
                   </field>
-                  
                 </xsl:for-each>
                 
                 <field name="creator">
@@ -251,7 +268,7 @@
                 </field>
                 
               </xsl:when>
-              
+              <!-- When not a journal, choose creator as normal -->
               <xsl:otherwise><xsl:call-template name="creators"/></xsl:otherwise>       
             </xsl:choose>
             
@@ -319,18 +336,25 @@
     </field>
     <field name="dateDisplay">
       <xsl:choose>
-        <xsl:when test="/TEI/text/body/head/date and (/TEI/text/body/head/date != '')"><xsl:value-of select="/TEI/text/body/head/date"/></xsl:when>
-        <xsl:otherwise><xsl:call-template name="extractDate"><xsl:with-param name="date"><xsl:value-of select="$dateNotAfter"/></xsl:with-param></xsl:call-template></xsl:otherwise>
+        <xsl:when test="/TEI/text/body/head/date and (/TEI/text/body/head/date != '')">
+          <xsl:value-of select="normalize-space(/TEI/text/body/head/date)"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:call-template name="extractDate">
+            <xsl:with-param name="date"><xsl:value-of select="$dateNotAfter"/></xsl:with-param>
+          </xsl:call-template>
+        </xsl:otherwise>
       </xsl:choose>
-      
     </field>
     
+    <xsl:if test="$dateNotAfter != ''">
     <field name="lc_dateNotBefore_s">
       <xsl:value-of select="$dateNotBefore"/>
     </field>
     <field name="lc_dateNotAfter_s">
       <xsl:value-of select="$dateNotAfter"/>
     </field>
+    </xsl:if>
     
     
       <!-- lc_previous_s -->

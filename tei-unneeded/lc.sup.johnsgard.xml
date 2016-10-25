@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.sup.ronda">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lc.sup.johnsgard">
    <teiHeader type="text">
       <fileDesc>
          <titleStmt>
@@ -30,10 +30,10 @@
       <profileDesc>
          <textClass>
             <keywords scheme="original" n="category">
-               <term>Supplements</term>
+               <term>Texts</term>
             </keywords>
             <keywords scheme="original" n="subcategory">
-               <term>Texts</term>
+               <term>Bio</term>
             </keywords>
             <keywords scheme="original" n="topic">
                <term/>
@@ -55,13 +55,18 @@
    </teiHeader>
    <text>
       <body>
-         <head type="main">James P. Ronda</head>
+         <head type="main">Johnsgard</head>
          <div type="additional">
             <p>
-James P. Ronda holds the H. G. Barnard Chair in Western History at the University of Tulsa. He is also the author of <ref target="http://www.nebraskapress.unl.edu/bookinfo/2580.html" rend="new">
-                  <hi rend="italic">Astoria and Empire</hi>
-               </ref> (Nebraska, 1990).
-
+Paul A. Johnsgard is Foundation Professor Emeritus of Biological Sciences at the University of Nebraska and winner of several state and national writing awards for his books. He is the author of more than forty books, including <ref target="http://nebraskapress.unl.edu/bookinfo/4732.html" rend="new">
+                  <hi rend="italic">
+                     <hi rend="underline">Prairie Dog Empire: A Saga of the Shortgrass Prairie</hi>
+                  </hi>
+               </ref>(Nebraska, 2004) and <ref target="http://nebraskapress.unl.edu/bookinfo/3478.html" rend="new">
+                  <hi rend="underline">
+                     <hi rend="italic">Crane Music: A Natural History of American Cranes</hi>
+                  </hi>
+               </ref> (Nebraska, 1998).
 </p>
          </div>
       </body>
