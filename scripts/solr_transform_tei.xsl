@@ -158,7 +158,7 @@
                 <field name="creators">
                   <xsl:choose>
                     <xsl:when test="$author_expanded != ''">
-                      <xsl:value-of select="//author[@xml:id=$author][1]"/>
+                      <xsl:value-of select="//author[@xml:id=$author][1]/@n"/>
                     </xsl:when>
                     <xsl:otherwise>MISSING</xsl:otherwise>
                   </xsl:choose>
@@ -166,7 +166,7 @@
                 <field name="creator">
                   <xsl:choose>
                     <xsl:when test="$author_expanded != ''">
-                      <xsl:value-of select="//author[@xml:id=$author][1]"/>
+                      <xsl:value-of select="//author[@xml:id=$author][1]/@n"/>
                     </xsl:when>
                     <xsl:otherwise>MISSING</xsl:otherwise>
                   </xsl:choose>
@@ -215,15 +215,15 @@
         
               
               <!-- text -->
-              <!--<field name="text">
+              <field name="text">
                 <xsl:apply-templates select="."/>
-                <!-\- grab refs for searching -\->
+                <!-- grab refs for searching -->
                 <xsl:for-each select=".//ref">
                   <xsl:variable name="target" select="@target"/>
                   <xsl:apply-templates select="/TEI/text/back//note[@xml:id=$target]"/><xsl:text>  </xsl:text>
                 </xsl:for-each>
                 
-              </field>-->
+              </field>
               
               <!-- uriHTML -->
                 <field name="uriHTML">
@@ -289,7 +289,7 @@
                   <field name="creators">
                     <xsl:choose>
                       <xsl:when test="//author[@xml:id=$author][1] and //author[@xml:id=$author][1] != ''">
-                        <xsl:value-of select="//author[@xml:id=$author][1]"/>
+                        <xsl:value-of select="//author[@xml:id=$author][1]/@n"/>
                       </xsl:when>
                       <xsl:otherwise>MISSING</xsl:otherwise>
                     </xsl:choose>
@@ -297,18 +297,26 @@
                 </xsl:for-each>
                 
                 <field name="creator">
+                  <xsl:variable name="author_group">
                   <xsl:for-each-group select="//div[@type='entry']/sp/@who" group-by=".">
                     <xsl:sort select="."/>
                     <xsl:variable name="author"><xsl:value-of select="current-grouping-key()"/></xsl:variable>
                     <xsl:choose>
                       <xsl:when test="//author[@xml:id=$author][1] and //author[@xml:id=$author][1] != ''">
-                        <xsl:value-of select="//author[@xml:id=$author][1]"/>
+                        <item><xsl:value-of select="//author[@xml:id=$author][1]/@n"/></item>
                       </xsl:when>
-                      <xsl:otherwise>MISSING</xsl:otherwise>
+                      <xsl:otherwise><item>MISSING</item></xsl:otherwise>
                     </xsl:choose>
-                    
-                    <xsl:if test="position() != last()"><xsl:text>, </xsl:text></xsl:if>
+
                   </xsl:for-each-group>
+                  </xsl:variable>
+                  
+                 
+                  <xsl:for-each select="$author_group/item" xpath-default-namespace="">
+                    <xsl:sort select="."/>
+                    <xsl:value-of select="."/>
+                    <xsl:if test="position() != last()"><xsl:text>; </xsl:text></xsl:if>
+                  </xsl:for-each>
                 </field>
                 
               </xsl:when>
