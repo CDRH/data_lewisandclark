@@ -144,16 +144,22 @@
               
               <!-- creator/creators -->
               <xsl:variable name="author"><xsl:value-of select="sp/@who"/></xsl:variable>
-              
+              <xsl:variable name="author_expanded">
+                <xsl:choose>
+                  <xsl:when test="$author = 'mlwc'"><xsl:text>Meriwether Lewis and William Clark</xsl:text></xsl:when>
+                  <xsl:when test="$author = 'mlwcunk'"><xsl:text>Meriwether Lewis, William Clark, and Unknown</xsl:text></xsl:when>
+                  <xsl:when test="$author = 'unl'"><xsl:text>Unknown</xsl:text></xsl:when>
+                  <xsl:when test="$author = 'wcjw'"><xsl:text>Meriwether Lewis, William Clark, and Unknown</xsl:text></xsl:when>
+                  <xsl:otherwise><xsl:value-of select="//author[@xml:id=$author][1]"/></xsl:otherwise>
+                </xsl:choose>
+              </xsl:variable>
+
               <xsl:if test="sp/@who">
                 <field name="creators">
-                  <xsl:value-of select="//author[@xml:id=$author][1]"/>
+                  <xsl:value-of select="$author_expanded"/>
                 </field>
                 <field name="creator">
-                  <xsl:value-of select="//author[@xml:id=$author][1]"/>
-                </field>
-                <field name="lc_who_s">
-                  <xsl:value-of select="$author"/>
+                  <xsl:value-of select="$author_expanded"/>
                 </field>
               </xsl:if>
               
@@ -199,15 +205,15 @@
         
               
               <!-- text -->
-              <field name="text">
+              <!--<field name="text">
                 <xsl:apply-templates select="."/>
-                <!-- grab refs for searching -->
+                <!-\- grab refs for searching -\->
                 <xsl:for-each select=".//ref">
                   <xsl:variable name="target" select="@target"/>
                   <xsl:apply-templates select="/TEI/text/back//note[@xml:id=$target]"/><xsl:text>  </xsl:text>
                 </xsl:for-each>
                 
-              </field>
+              </field>-->
               
               <!-- uriHTML -->
                 <field name="uriHTML">
