@@ -146,20 +146,30 @@
               <xsl:variable name="author"><xsl:value-of select="sp/@who"/></xsl:variable>
               <xsl:variable name="author_expanded">
                 <xsl:choose>
-                  <xsl:when test="$author = 'mlwc'"><xsl:text>Meriwether Lewis and William Clark</xsl:text></xsl:when>
-                  <xsl:when test="$author = 'mlwcunk'"><xsl:text>Meriwether Lewis, William Clark, and Unknown</xsl:text></xsl:when>
+                  <xsl:when test="$author = 'mlwc'"><xsl:text>Meriwether Lewis, William Clark</xsl:text></xsl:when>
+                  <xsl:when test="$author = 'mlwcunk'"><xsl:text>Meriwether Lewis, William Clark, Unknown</xsl:text></xsl:when>
                   <xsl:when test="$author = 'unl'"><xsl:text>Unknown</xsl:text></xsl:when>
-                  <xsl:when test="$author = 'wcjw'"><xsl:text>Meriwether Lewis, William Clark, and Unknown</xsl:text></xsl:when>
+                  <xsl:when test="$author = 'wcjw'"><xsl:text>Meriwether Lewis, William Clark, Unknown</xsl:text></xsl:when>
                   <xsl:otherwise><xsl:value-of select="//author[@xml:id=$author][1]"/></xsl:otherwise>
                 </xsl:choose>
               </xsl:variable>
 
               <xsl:if test="sp/@who">
                 <field name="creators">
-                  <xsl:value-of select="$author_expanded"/>
+                  <xsl:choose>
+                    <xsl:when test="$author_expanded != ''">
+                      <xsl:value-of select="//author[@xml:id=$author][1]"/>
+                    </xsl:when>
+                    <xsl:otherwise>MISSING</xsl:otherwise>
+                  </xsl:choose>
                 </field>
                 <field name="creator">
-                  <xsl:value-of select="$author_expanded"/>
+                  <xsl:choose>
+                    <xsl:when test="$author_expanded != ''">
+                      <xsl:value-of select="//author[@xml:id=$author][1]"/>
+                    </xsl:when>
+                    <xsl:otherwise>MISSING</xsl:otherwise>
+                  </xsl:choose>
                 </field>
               </xsl:if>
               
@@ -277,16 +287,28 @@
                 <xsl:for-each select="//div[@type='entry']">
                   <xsl:variable name="author"><xsl:value-of select="sp/@who"/></xsl:variable>
                   <field name="creators">
-                    <xsl:value-of select="//author[@xml:id=$author][1]"/>
+                    <xsl:choose>
+                      <xsl:when test="//author[@xml:id=$author][1] and //author[@xml:id=$author][1] != ''">
+                        <xsl:value-of select="//author[@xml:id=$author][1]"/>
+                      </xsl:when>
+                      <xsl:otherwise>MISSING</xsl:otherwise>
+                    </xsl:choose>
                   </field>
                 </xsl:for-each>
                 
                 <field name="creator">
-                  <xsl:for-each select="//div[@type='entry']">
-                    <xsl:variable name="author"><xsl:value-of select="sp/@who"/></xsl:variable>
-                      <xsl:value-of select="//author[@xml:id=$author][1]"/>
+                  <xsl:for-each-group select="//div[@type='entry']/sp/@who" group-by=".">
+                    <xsl:sort select="."/>
+                    <xsl:variable name="author"><xsl:value-of select="current-grouping-key()"/></xsl:variable>
+                    <xsl:choose>
+                      <xsl:when test="//author[@xml:id=$author][1] and //author[@xml:id=$author][1] != ''">
+                        <xsl:value-of select="//author[@xml:id=$author][1]"/>
+                      </xsl:when>
+                      <xsl:otherwise>MISSING</xsl:otherwise>
+                    </xsl:choose>
+                    
                     <xsl:if test="position() != last()"><xsl:text>, </xsl:text></xsl:if>
-                  </xsl:for-each>
+                  </xsl:for-each-group>
                 </field>
                 
               </xsl:when>
