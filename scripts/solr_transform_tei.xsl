@@ -41,6 +41,7 @@
   <!-- ==================================================================== -->
   
   <xsl:template name="title">
+    <xsl:param name="type"/>
     <xsl:variable name="title">
       <xsl:choose>
         <xsl:when test="normalize-space(/TEI/teiHeader/fileDesc/titleStmt/title[@type='main']) = 
@@ -53,6 +54,11 @@
           <xsl:value-of select="normalize-space(/TEI/teiHeader/fileDesc/titleStmt/title[@type='sub'][1])"/>
         </xsl:otherwise>
       </xsl:choose>
+      <xsl:if test="$type = 'entry'">
+        <xsl:text> - </xsl:text>
+        <xsl:variable name="author"><xsl:value-of select="sp/@who"/></xsl:variable>
+            <xsl:value-of select="//author[@xml:id=$author][1]"/>
+      </xsl:if>
     </xsl:variable>
     
     <field name="title">
@@ -114,6 +120,9 @@
               <xsl:call-template name="id">
                 <xsl:with-param name="id" select="@xml:id"/>
               </xsl:call-template>
+              
+              <!-- title and titleSort-->
+              <xsl:call-template name="title"><xsl:with-param name="type">entry</xsl:with-param></xsl:call-template>
               
               <!-- source -->
               <field name="source">
@@ -221,6 +230,9 @@
             <xsl:call-template name="id">
               <xsl:with-param name="id" select="$filenamepart"/>
             </xsl:call-template>
+            
+            <!-- title and titleSort-->
+            <xsl:call-template name="title"><xsl:with-param name="type">all</xsl:with-param></xsl:call-template>
             
             <!-- source -->
             
@@ -443,8 +455,7 @@
         Dublin Core 
         ===================================-->
       
-      <!-- title and titleSort-->
-      <xsl:call-template name="title"/>
+      
       
       
       
