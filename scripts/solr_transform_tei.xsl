@@ -144,12 +144,16 @@
               
               <!-- creator/creators -->
               <xsl:variable name="author"><xsl:value-of select="sp/@who"/></xsl:variable>
+              
               <xsl:if test="sp/@who">
                 <field name="creators">
                   <xsl:value-of select="//author[@xml:id=$author][1]"/>
                 </field>
                 <field name="creator">
                   <xsl:value-of select="//author[@xml:id=$author][1]"/>
+                </field>
+                <field name="lc_who_s">
+                  <xsl:value-of select="$author"/>
                 </field>
               </xsl:if>
               
