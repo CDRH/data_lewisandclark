@@ -178,11 +178,14 @@
                 <xsl:when test="$author = 'mlwcunk'">
                   <xsl:text>Clark, William; Lewis, Meriwether; Unknown</xsl:text>
                 </xsl:when>
-                <xsl:when test="$author = 'unl'">
+                <xsl:when test="$author = 'unk'">
                   <xsl:text>Unknown</xsl:text>
                 </xsl:when>
                 <xsl:when test="$author = 'wcjw'">
                   <xsl:text>Clark, William; Whitehouse, Joseph</xsl:text>
+                </xsl:when>
+                <xsl:when test="$author = 'jv'">
+                  <xsl:text>Vaughan</xsl:text>
                 </xsl:when>
                 <xsl:otherwise>
                   <xsl:value-of select="//author[@xml:id = $author][1]/@n"></xsl:value-of>
@@ -238,14 +241,14 @@
             
             <!-- ========== text ========== -->
             
-            <field name="text">
+            <!--<field name="text">
                 <xsl:apply-templates select="."/>
-                <!-- grab refs for searching -->
+                <!-\- grab refs for searching -\->
                 <xsl:for-each select=".//ref">
                   <xsl:variable name="target" select="@target"/>
                   <xsl:apply-templates select="/TEI/text/back//note[@xml:id=$target]"/><xsl:text>  </xsl:text>
                 </xsl:for-each>
-              </field>
+              </field>-->
             
             <!-- ========== uriHTML ========== -->
             <!-- different than default because there will be many entries to one file -->
@@ -323,11 +326,14 @@
               <xsl:when test="$who = 'mlwcunk'">
                 <xsl:text>Clark, William; Lewis, Meriwether; Unknown</xsl:text>
               </xsl:when>
-              <xsl:when test="$who = 'unl'">
+              <xsl:when test="$who = 'unk'">
                 <xsl:text>Unknown</xsl:text>
               </xsl:when>
               <xsl:when test="$who = 'wcjw'">
                 <xsl:text>Clark, William; Whitehouse, Joseph</xsl:text>
+              </xsl:when>
+              <xsl:when test="$who = 'jv'">
+                <xsl:text>Vaughan</xsl:text>
               </xsl:when>
               <xsl:otherwise>
                 <xsl:value-of select="//author[@xml:id = $who][1]/@n"></xsl:value-of>
