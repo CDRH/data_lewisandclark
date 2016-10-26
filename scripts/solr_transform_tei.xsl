@@ -72,7 +72,10 @@
         <xsl:variable name="author">
           <xsl:value-of select="sp/@who"></xsl:value-of>
         </xsl:variable>
-        <xsl:value-of select="//author[@xml:id = $author][1]"></xsl:value-of>
+        <!-- Call template which will deal with special cases -->
+        <xsl:call-template name="set_author">
+          <xsl:with-param name="who" select="$author"/>
+        </xsl:call-template>
       </xsl:if>
     </xsl:variable>
 
@@ -108,6 +111,37 @@
     <xsl:value-of select="@key"></xsl:value-of>
     <xsl:text>) </xsl:text>
   </xsl:template>
+  
+  <!-- ========== set author ============= -->
+  
+  <xsl:template name="set_author">
+    <xsl:param name="who"/>
+    <xsl:choose>
+      <xsl:when test="$who = ''">
+        <xsl:text>Unknown</xsl:text>
+      </xsl:when>
+      <xsl:when test="$who = 'mlwc'">
+        <xsl:text>Clark, William; Lewis, Meriwether</xsl:text>
+      </xsl:when>
+      <xsl:when test="$who = 'mlwcunk'">
+        <xsl:text>Clark, William; Lewis, Meriwether; Unknown</xsl:text>
+      </xsl:when>
+      <xsl:when test="$who = 'unk'">
+        <xsl:text>Unknown</xsl:text>
+      </xsl:when>
+      <xsl:when test="$who = 'wcjw'">
+        <xsl:text>Clark, William; Whitehouse, Joseph</xsl:text>
+      </xsl:when>
+      <xsl:when test="$who = 'jv'">
+        <xsl:text>Vaughan</xsl:text>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:value-of select="//author[@xml:id = $who][1]/@n"></xsl:value-of>
+      </xsl:otherwise>
+    </xsl:choose>
+    
+  </xsl:template>
+  
 
   <!-- ==================================================================== -->
   <!--                            OVERRIDES   - Doc setup                              -->
@@ -168,29 +202,10 @@
               <xsl:value-of select="sp/@who"></xsl:value-of>
             </xsl:variable>
             <xsl:variable name="author_expanded">
-              <xsl:choose>
-                <xsl:when test="$author = ''">
-                  <xsl:text>Unknown</xsl:text>
-                </xsl:when>
-                <xsl:when test="$author = 'mlwc'">
-                  <xsl:text>Clark, William; Lewis, Meriwether</xsl:text>
-                </xsl:when>
-                <xsl:when test="$author = 'mlwcunk'">
-                  <xsl:text>Clark, William; Lewis, Meriwether; Unknown</xsl:text>
-                </xsl:when>
-                <xsl:when test="$author = 'unk'">
-                  <xsl:text>Unknown</xsl:text>
-                </xsl:when>
-                <xsl:when test="$author = 'wcjw'">
-                  <xsl:text>Clark, William; Whitehouse, Joseph</xsl:text>
-                </xsl:when>
-                <xsl:when test="$author = 'jv'">
-                  <xsl:text>Vaughan</xsl:text>
-                </xsl:when>
-                <xsl:otherwise>
-                  <xsl:value-of select="//author[@xml:id = $author][1]/@n"></xsl:value-of>
-                </xsl:otherwise>
-              </xsl:choose>
+              <!-- Call template which will deal with special cases -->
+              <xsl:call-template name="set_author">
+                <xsl:with-param name="who" select="$author"/>
+              </xsl:call-template>
             </xsl:variable>
             
             <field name="creator">
@@ -314,31 +329,11 @@
         
         <xsl:variable name="author_list">
           <xsl:for-each select="//div[@xml:id]">
-            <xsl:variable name="who"><xsl:value-of select="sp/@who"/></xsl:variable>
-            <!-- this choose is repeated and could be put in a template -->
-            <xsl:choose>
-              <xsl:when test="$who = ''">
-                <xsl:text>Unknown</xsl:text>
-              </xsl:when>
-              <xsl:when test="$who = 'mlwc'">
-                <xsl:text>Clark, William; Lewis, Meriwether</xsl:text>
-              </xsl:when>
-              <xsl:when test="$who = 'mlwcunk'">
-                <xsl:text>Clark, William; Lewis, Meriwether; Unknown</xsl:text>
-              </xsl:when>
-              <xsl:when test="$who = 'unk'">
-                <xsl:text>Unknown</xsl:text>
-              </xsl:when>
-              <xsl:when test="$who = 'wcjw'">
-                <xsl:text>Clark, William; Whitehouse, Joseph</xsl:text>
-              </xsl:when>
-              <xsl:when test="$who = 'jv'">
-                <xsl:text>Vaughan</xsl:text>
-              </xsl:when>
-              <xsl:otherwise>
-                <xsl:value-of select="//author[@xml:id = $who][1]/@n"></xsl:value-of>
-              </xsl:otherwise>
-            </xsl:choose>
+            <xsl:variable name="author_who"><xsl:value-of select="sp/@who"/></xsl:variable>
+            <!-- Call template which will deal with special cases -->
+            <xsl:call-template name="set_author">
+              <xsl:with-param name="who" select="$author_who"/>
+            </xsl:call-template>
             <xsl:if test="position() != last()">; </xsl:if>
           </xsl:for-each>
         </xsl:variable>
