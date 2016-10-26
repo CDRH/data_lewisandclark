@@ -256,14 +256,14 @@
             
             <!-- ========== text ========== -->
             
-            <!--<field name="text">
+            <field name="text">
                 <xsl:apply-templates select="."/>
-                <!-\- grab refs for searching -\->
+                <!-- grab refs for searching -->
                 <xsl:for-each select=".//ref">
                   <xsl:variable name="target" select="@target"/>
                   <xsl:apply-templates select="/TEI/text/back//note[@xml:id=$target]"/><xsl:text>  </xsl:text>
                 </xsl:for-each>
-              </field>-->
+              </field>
             
             <!-- ========== uriHTML ========== -->
             <!-- different than default because there will be many entries to one file -->
