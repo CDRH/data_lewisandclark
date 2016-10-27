@@ -61,6 +61,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1803-11-12.01">
+            <placeName>Fort Massac, IL</placeName>
+            <geo>37.1439 -88.6872</geo>
+            <note>Massac, IL, just above present day Metropolis, IL. Remained here 1803-11-12</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc>
          <textClass>
@@ -98,7 +103,7 @@
          <head type="date">
             <date when="1803-11-12">November 12, 1803</date>
          </head>
-         <div type="entry" xml:id="lc.jrn.1803-11-12.01" n="">
+         <div type="entry" xml:id="lc.jrn.1803-11-12.01" n="lc.geo.1803-11-12.01">
             <sp who="ml">
                <speaker>Lewis</speaker>
                <ab>

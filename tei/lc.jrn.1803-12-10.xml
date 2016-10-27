@@ -61,6 +61,11 @@
          <projectDesc>
             <p/>
          </projectDesc>
+         <geoDecl datum="WGS" xml:id="lc.geo.1803-12-10.01">
+            <placeName>Cahokia, IL / St. Louis</placeName>
+            <geo>38.563 -90.231</geo>
+            <note>Cahokia, IL, a little less than a mile above the Cahokia Creek entrance. Stayed here until 1803-12-11</note>
+         </geoDecl>
       </encodingDesc>
       <profileDesc>
          <textClass>
@@ -98,7 +103,7 @@
          <head type="date">
             <date when="1803-12-10">December 10, 1803</date>
          </head>
-         <div type="entry" xml:id="lc.jrn.1803-12-10.01" n="">
+         <div type="entry" xml:id="lc.jrn.1803-12-10.01" n="lc.geo.1803-12-10.01">
             <sp who="wc">
                <speaker>Clark</speaker>
                <ab>
