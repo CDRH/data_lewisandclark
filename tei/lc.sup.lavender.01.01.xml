@@ -43,7 +43,7 @@
             <bibl>
                <title level="m" type="main">The Way to the Western Sea</title>
                <title level="m" type="sub">Chapter 1</title>
-               <author xml:id="" n="">David Lavender</author>
+               <author>David Lavender</author>
                <publisher>University of Nebraska Press</publisher>
                <pubPlace>Lincoln and London</pubPlace>
                <date>2001</date>
@@ -312,13 +312,15 @@ Bemused by <name type="person" key="Jefferson, Thomas">Jefferson's</name> adroit
 they could not yet anticipate. From then on matters would rest largely in the hands of <name type="person" key="Lewis, Meriwether">Meriwether Lewis</name>, mostly because good fortune had brought him onto the scene, with his particular talents, when the opportunity was in the making.</p>
             </div>
          </div>
+      </body>
+     <back>
          <div xml:id="notes" type="notes">
             <head rend="center">Notes</head>
             <div type="section">
                <p>
 Because Reuben C. Thwaites's <hi rend="italic">The Original Journals of the <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> Expedition</hi> is the basic reference book for the expedition itself, references to it are frequent and therefore limited, in all the following notes, to volume and page number. For an example, see note 12 below.</p>
             </div>
-            <div type="section">
+            <div type="notes">
                <note xml:id="n0101" n="1">
                   <name type="person" key="Jefferson, Thomas">Jefferson</name> to <name type="person" key="Lewis, Meriwether">Lewis</name>, February 23, 1801, in Jackson, <hi rend="italic">Letters</hi>, 2–3.</note>
                <note xml:id="n0102" n="2">
@@ -365,21 +367,20 @@ Because Reuben C. Thwaites's <hi rend="italic">The Original Journals of the <nam
                <note xml:id="n0133" n="33">Ibid., 13.</note>
             </div>
          </div>
-      </body>
-      <back>
+      
          <div type="file_references">
             <list type="simple">
                <item>
-                  <ptr n="lc.lavender.01.ack" type="prev"/>
+                  <ptr n="lc.sup.lavender.01.ack" type="prev"/>
                </item>
                <item>
-                  <ptr n="lc.lavender.01.00" type="contents"/>
+                  <ptr n="lc.sup.lavender.01.00" type="contents"/>
                </item>
                <item>
-                  <ptr n="lc.lavender.01" type="entire"/>
+                  <ptr n="lc.sup.lavender.01" type="entire"/>
                </item>
                <item>
-                  <ptr n="lc.lavender.01.02" type="next"/>
+                  <ptr n="lc.sup.lavender.01.02" type="next"/>
                </item>
             </list>
          </div>

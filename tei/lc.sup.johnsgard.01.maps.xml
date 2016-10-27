@@ -43,7 +43,7 @@
                <title level="m" type="main">Lewis and Clark on the <name type="place" key="Great Plains">Great Plains</name>
                </title>
                <title level="m" type="sub">List of Maps</title>
-               <author xml:id="" n="">Paul A. Johnsgard</author>
+               <author>Paul A. Johnsgard</author>
                <publisher>University of Nebraska Press</publisher>
                <pubPlace>Lincoln and London</pubPlace>
                <publisher>Center for Great Plains Studies, University of Nebraska–Lincoln</publisher>
@@ -87,26 +87,29 @@
    </teiHeader>
    <text>
       <body>
-         <div xml:id="mapList" type="mapList">
+        <div xml:id="mapList" type="mapList">
+          <list>
             <head rend="center">Maps</head>
-            <div type="section">
-               <p>
-                  <lb/>
-                  <ref target="n01" n="1"/> Route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="Kansas">Kansas</name> and <name type="place" key="Missouri">Missouri</name>
-                  <lb/>
-                  <ref target="n02" n="2"/> Route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="Nebraska">Nebraska</name> and <name type="place" key="Iowa">Iowa</name>
-                  <lb/>
-                  <ref target="n03" n="3"/> Route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="South Dakota">South Dakota</name>
-                  <lb/>
-                  <ref target="n04" n="4"/> Route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="North Dakota">North Dakota</name>
-                  <lb/>
-                  <ref target="n05" n="5"/> Route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in Eastern <name type="place" key="Montana">Montana</name>
-                  <lb/>
-                  <ref target="n06" n="6"/> Route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in Western <name type="place" key="Montana">Montana</name>
-                  <lb/>
-               </p>
-            </div>
-         </div>
+            <item n="1">
+              <ref type="editorial" target="map01">Route of Lewis and <name type="person" key="Clark, William">Clark</name> in Kansas and Missouri</ref>
+            </item>
+            <item n="2">
+              <ref type="editorial" target="map02">Route of Lewis and <name type="person" key="Clark, William">Clark</name> in Nebraska and Iowa</ref>
+            </item>
+            <item n="3">
+              <ref type="editorial" target="map03">Route of Lewis and <name type="person" key="Clark, William">Clark</name> in South Dakota</ref>
+            </item>
+            <item n="4">
+              <ref type="editorial" target="map04">Route of Lewis and <name type="person" key="Clark, William">Clark</name> in North Dakota</ref>
+            </item>
+            <item n="5">
+              <ref type="editorial" target="map05">Route of Lewis and <name type="person" key="Clark, William">Clark</name> in Eastern Montana</ref>
+            </item>
+            <item n="6">
+              <ref type="editorial" target="map06">Route of Lewis and <name type="person" key="Clark, William">Clark</name> in Western Montana</ref>
+            </item>
+          </list>
+        </div>
          <div xml:id="notes" type="notes">
             <div type="section">
                <note xml:id="n01" n="1">
@@ -118,7 +121,7 @@
                      <p>River Distance: Mouth of <name type="place" key="Kansas (Decaugh, Kaw) River">Kansas River</name> to northernmost <name type="place" key="Nebraska">Nebraska</name>-<name type="place" key="South Dakota">South Dakota</name> boundary,
 estimated by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> as 691 river miles. Because of recent channelization and
 other river changes, the current distance is now substantially less.</p>
-                     <p>Map of route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="Kansas">Kansas</name> and <name type="place" key="Missouri">Missouri</name>
+                    <p n="info">Map of route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="Kansas">Kansas</name> and <name type="place" key="Missouri">Missouri</name>
                      </p>
                   </figure>
                </note>
@@ -131,7 +134,7 @@ other river changes, the current distance is now substantially less.</p>
                      <p>River Distance: Mouth of <name type="place" key="Kansas (Decaugh, Kaw) River">Kansas River</name> to northernmost <name type="place" key="Nebraska">Nebraska</name>-<name type="place" key="South Dakota">South Dakota</name> boundary,
 estimated by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> as 691 river miles. Because of recent channelization and
 other river changes, the current distance is now substantially less.</p>
-                     <p>Map of route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="Nebraska">Nebraska</name> and <name type="place" key="Iowa">Iowa</name>
+                    <p n="info">Map of route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="Nebraska">Nebraska</name> and <name type="place" key="Iowa">Iowa</name>
                      </p>
                   </figure>
                </note>
@@ -145,7 +148,7 @@ other river changes, the current distance is now substantially less.</p>
 Dakota</name>-<name type="place" key="Montana">Montana</name> boundary, estimated by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> as 830 miles. Because of recent
 impoundments and other river alterations, current river distances are substantially less than
 those encountered by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>.</p>
-                     <p>Map of route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="South Dakota">South Dakota</name>
+                    <p n="info">Map of route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="South Dakota">South Dakota</name>
                      </p>
                   </figure>
                </note>
@@ -161,7 +164,7 @@ those encountered by <name type="person" key="Lewis, Meriwether">Lewis</name> an
  those encountered by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>. <name type="person" key="Clark, William">Clark</name> estimated the total river distance from their
  starting point at <name type="place" key="Camp Dubois (Camp Wood, River Dubois) (Ill.)">Camp Wood</name> to the <name type="native_nation" key="Mandan Indians">Mandan</name> villages as 1,500 miles, but it actually was closer
  to 1,600 miles.</p>
-                     <p>Map of route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="North Dakota">North Dakota</name>
+                    <p n="info">Map of route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in <name type="place" key="North Dakota">North Dakota</name>
                      </p>
                   </figure>
                </note>
@@ -174,7 +177,7 @@ those encountered by <name type="person" key="Lewis, Meriwether">Lewis</name> an
                      <p>River Distance: <name type="place" key="Montana">Montana</name>-<name type="place" key="North Dakota">North Dakota</name> border to <name type="place" key="Missouri River, Three Forks of the">Three Forks</name>, 945 river miles, according
 to <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>. Because of recent impoundments, present-day river distances are
 now substantially less than the original distances calculated by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>.</p>
-                     <p>Map of route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in Eastern <name type="place" key="Montana">Montana</name>
+                    <p n="info">Map of route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in Eastern <name type="place" key="Montana">Montana</name>
                      </p>
                   </figure>
                </note>
@@ -187,7 +190,7 @@ now substantially less than the original distances calculated by <name type="per
                      <p>River Distance: <name type="place" key="Montana">Montana</name>-<name type="place" key="North Dakota">North Dakota</name> border to <name type="place" key="Missouri River, Three Forks of the">Three Forks</name>, 945 river miles, according
 to <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>. Because of recent impoundments, present-day river distances are
 now substantially less than the original distances calculated by <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>.</p>
-                     <p>Map of route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in Western <name type="place" key="Montana">Montana</name> as Far as <name type="place" key="Missouri River, Three Forks of the">Three Forks</name>
+                    <p n="info">Map of route of <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name> in Western <name type="place" key="Montana">Montana</name> as Far as <name type="place" key="Missouri River, Three Forks of the">Three Forks</name>
                      </p>
                   </figure>
                </note>
@@ -198,13 +201,13 @@ now substantially less than the original distances calculated by <name type="per
          <div type="file_references">
             <list type="simple">
                <item>
-                  <ptr n="lc.johnsgard.01.00" type="prev"/>
+                  <ptr n="lc.sup.johnsgard.01.00" type="prev"/>
                </item>
                <item>
-                  <ptr n="lc.johnsgard.01.00" type="contents"/>
+                  <ptr n="lc.sup.johnsgard.01.00" type="contents"/>
                </item>
                <item>
-                  <ptr n="lc.johnsgard.01.ill" type="next"/>
+                  <ptr n="lc.sup.johnsgard.01.ill" type="next"/>
                </item>
             </list>
          </div>
