@@ -362,7 +362,7 @@
   </xsl:template>
   
   <!-- ~~~~~~ Notes ~~~~~~ -->
-  <xsl:template match="/TEI//back//div[@type='notes']/note">
+  <xsl:template match="div[@type='notes']//note">
  
     <div>
       <xsl:attribute name="class">footnote</xsl:attribute>
