@@ -434,9 +434,9 @@
               <xsl:when test="@type = 'person'">people</xsl:when>
               <xsl:when test="@type = 'native_nation'">lc_native_nation_ss</xsl:when>
             </xsl:choose>
-            <xsl:text>="</xsl:text>
+            <xsl:text>=</xsl:text>
             <xsl:value-of select="encode-for-uri(@key)"/>
-            <xsl:text>"</xsl:text>
+            <xsl:text></xsl:text>
           </xsl:attribute>
           <xsl:apply-templates/>
         </a>
