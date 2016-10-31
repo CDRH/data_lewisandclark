@@ -302,10 +302,35 @@
     </div>
   </xsl:template>
   
+  <!-- ~~~~~~~ audo and video ~~~~~~~ -->
+  
+  <xsl:variable name="audio_root_url">
+    <xsl:text>http://rosie.unl.edu/data_images/projects/lewisandclark/audio/</xsl:text>
+  </xsl:variable>
+  
+  <xsl:template match="media[@mimeType='audio/mp3']">
+    <div class="audio_player">
+      <audio controls="controls">
+        <source src="{$audio_root_url}{@url}"/>
+        <a href="{$audio_root_url}{@url}">Download file <xsl:value-of select="@url"/></a>
+            
+      </audio>
+    </div>
+    
+  </xsl:template>
+  
   <!-- ~~~~~~~ references ~~~~~~~ -->
   
   <xsl:template match="ref">
     <xsl:choose>
+      <xsl:when test="@type='email'">
+        <a>
+          <xsl:attribute name="href">
+            <xsl:value-of select="@target"/>
+          </xsl:attribute>
+          <xsl:apply-templates/>
+        </a>
+      </xsl:when>
       <xsl:when test="starts-with(@target,'http')">
         <a>
           <xsl:attribute name="href">
@@ -333,15 +358,35 @@
           <xsl:apply-templates/>
         </a>
       </xsl:when>
+      
       <xsl:when test="@type='related'">
         <a>
           <xsl:attribute name="href">
-            <xsl:text>lc.jrn.</xsl:text>
-            <xsl:value-of select="@n"/>
+            <xsl:text>../</xsl:text>
+            <xsl:choose>
+              <xsl:when test="@target"><xsl:value-of select="@target"/></xsl:when>
+              <xsl:otherwise><xsl:value-of select="@n"/></xsl:otherwise>
+            </xsl:choose>
+            <xsl:text>/</xsl:text>
           </xsl:attribute>
           <xsl:apply-templates/>
         </a>
       </xsl:when>
+      
+      <xsl:when test="@type='internal'">
+        <a>
+          <xsl:attribute name="href">
+            <xsl:text>../../</xsl:text>
+            <xsl:choose>
+              <xsl:when test="@target"><xsl:value-of select="@target"/></xsl:when>
+              <xsl:otherwise><xsl:value-of select="@n"/></xsl:otherwise>
+            </xsl:choose>
+            <xsl:text>/</xsl:text>
+          </xsl:attribute>
+          <xsl:apply-templates/>
+        </a>
+      </xsl:when>
+      
       <xsl:otherwise>
         <a>
           <xsl:attribute name="href">#<xsl:value-of select="@target"/></xsl:attribute>
@@ -419,9 +464,10 @@
     <xsl:choose>
       <!-- Can't have a link inside a link, investigate if this is a problem -kmd -->
       <xsl:when test="ancestor::ref">
-        <xsl:apply-templates></xsl:apply-templates>
+        <xsl:apply-templates/>
       </xsl:when>
-      <xsl:otherwise>
+      <!-- Only show when journals for now -->
+      <xsl:when test="normalize-space(//keywords[@n='category']/term[1]/text()) = 'Journals' ">
         <a>
           <xsl:attribute name="class">regularization</xsl:attribute>
           <xsl:attribute name="title"><xsl:value-of select="@key"/></xsl:attribute>
@@ -440,6 +486,9 @@
           </xsl:attribute>
           <xsl:apply-templates/>
         </a>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:apply-templates/>
       </xsl:otherwise>
     </xsl:choose>
     
