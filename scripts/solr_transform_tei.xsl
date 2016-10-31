@@ -492,40 +492,46 @@
       <xsl:value-of select="$filenamepart"></xsl:value-of>
     </field>
 
+    <!-- Only index Journal files for regularized names. 
+         After cleanup, we can remove this if and index all. -->
+    
+    <xsl:if test="normalize-space(//keywords[@n='category']/term[1]) = 'Journals'">
     <!-- ========== lc_native_nation_ss ========== -->
 
-    <xsl:for-each-group select="//name[@type = 'native_nation']/@key" group-by=".">
+    <xsl:for-each-group select="/TEI/text//name[@type = 'native_nation']/@key" group-by="normalize-space(.)">
       <field name="lc_native_nation_ss">
-        <xsl:value-of select="current-grouping-key()"></xsl:value-of>
+        <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
       </field>
     </xsl:for-each-group>
 
     <!-- ========== people ========== -->
 
-    <xsl:for-each-group select="//name[@type = 'person']/@key" group-by=".">
+      <xsl:for-each-group select="/TEI/text//name[@type = 'person']/@key" group-by="normalize-space(.)">
       <field name="people">
-        <xsl:value-of select="current-grouping-key()"></xsl:value-of>
+        <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
       </field>
     </xsl:for-each-group>
 
     <!-- ========== places ========== -->
 
-    <xsl:for-each-group select="//name[@type = 'place']/@key" group-by=".">
+      <xsl:for-each-group select="/TEI/text//name[@type = 'place']/@key" group-by="normalize-space(.)">
       <field name="places">
-        <xsl:value-of select="current-grouping-key()"></xsl:value-of>
+        <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
       </field>
     </xsl:for-each-group>
 
     <!-- ========== lc_index_combined_ss ========== -->
     <!--  Combined field to build the index -->
     
-    <xsl:for-each-group select="//name" group-by="@key">
+      <xsl:for-each-group select="/TEI/text//name" group-by="normalize-space(@key)">
       <field name="lc_index_combined_ss">
-        <xsl:value-of select="current-grouping-key()"></xsl:value-of>
+        <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
         <xsl:text>||</xsl:text>
         <xsl:value-of select="@type"></xsl:value-of>
       </field>
     </xsl:for-each-group>
+      
+    </xsl:if>
 
     <!-- Begin what remains of the regular fields -->
 
