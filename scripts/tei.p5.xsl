@@ -296,6 +296,9 @@
               <xsl:with-param name="type">fig</xsl:with-param>
             </xsl:call-template>
           </xsl:when>
+          <xsl:otherwise>
+            <img src="{$fig_location}/full/{@n}"/>
+          </xsl:otherwise>
         </xsl:choose>
       
       <xsl:apply-templates/>
