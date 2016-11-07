@@ -30,12 +30,54 @@
 <xsl:param name="pb">true</xsl:param>       <!-- true/false Toggle pb's on and off  -->
 <xsl:param name="site_url"/>                <!-- the site url (http://codyarchive.org) -->
   <xsl:param name="fig_location">http://rosie.unl.edu/data_images/projects/lewisandclark/figures/</xsl:param> <!-- set figure location  -->
+  <xsl:variable name="audio_root_url">
+    <xsl:text>http://rosie.unl.edu/data_images/projects/lewisandclark/audio/</xsl:text>
+  </xsl:variable>
   
 
 
 <!-- ==================================================================== -->
 <!--                            OVERRIDES                                 -->
 <!-- ==================================================================== -->
+  
+  <!-- images are all in a list for some reason. This takes them out -->
+  <xsl:template match="list">
+    <xsl:choose>
+      <xsl:when test="//keywords[@n='category']/term[1] = 'Images'">
+        <!-- page title, use label when it exists or caption -->
+        <h2>
+        <xsl:choose>
+          <xsl:when test="//list//label[1] and //list//label[1] != ''"><xsl:value-of select="//list//label[1]"/></xsl:when>
+          <xsl:when test="//list//caption[1]"><xsl:value-of select="//list//caption[1]"/></xsl:when>
+          <xsl:otherwise></xsl:otherwise>
+        </xsl:choose>
+        </h2>
+        
+        <div class="image_page">
+          <xsl:apply-templates/>
+        </div></xsl:when>
+      <xsl:otherwise><ul>
+        <xsl:attribute name="class">
+          <xsl:text>tei_list</xsl:text>
+          <xsl:if test="@type"><xsl:text> </xsl:text><xsl:value-of select="@type"/></xsl:if>
+        </xsl:attribute><xsl:apply-templates/></ul></xsl:otherwise>
+    </xsl:choose>
+
+  </xsl:template>
+  
+  <xsl:template match="item">
+    <xsl:choose>
+      <xsl:when test="//keywords[@n='category']/term[1] = 'Images'"><xsl:apply-templates/></xsl:when>
+      <xsl:when test="@n">
+        <li>
+          <xsl:value-of select="@n"/>
+          <xsl:text>. </xsl:text>
+          <xsl:apply-templates/>
+        </li>
+      </xsl:when>
+      <xsl:otherwise><li><xsl:apply-templates/></li></xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
   
   <xsl:template match="title">
     <span class="tei_title"><xsl:apply-templates/></span>
@@ -52,22 +94,10 @@
     
   </xsl:template>
   <xsl:template match="l">
-    <xsl:apply-templates/><br/>
+    <xsl:apply-templates/><br></br>
   </xsl:template>
   
-  <xsl:template match="item">
-    <li>
-    <xsl:choose>
-      <xsl:when test="@n">
-        <xsl:value-of select="@n"/>
-        <xsl:text>. </xsl:text>
-        <xsl:apply-templates/>
-          
-      </xsl:when>
-      <xsl:otherwise><xsl:apply-templates/></xsl:otherwise>
-    </xsl:choose>
-    </li>
-  </xsl:template>
+
   
   <!-- set up the document -->
   
@@ -213,25 +243,48 @@
     
   </xsl:template>
   
+  <!-- Table Cell -->
+  
+  <xsl:template match="cell">
+    <td>
+      <xsl:if test="@rows"><xsl:attribute name="rowspan"><xsl:value-of select="@rows"/></xsl:attribute></xsl:if>
+      <xsl:if test="@cols"><xsl:attribute name="colspanspan"><xsl:value-of select="@cols"/></xsl:attribute></xsl:if>
+      <xsl:attribute name="class">
+        <xsl:value-of select="@rend"/>
+        <xsl:text> tei_td</xsl:text>
+        <xsl:if test="@rows"><xsl:text> rowspan_</xsl:text><xsl:value-of select="@rows"/></xsl:if>
+        <xsl:if test="@cols"><xsl:text> colspan_</xsl:text><xsl:value-of select="@cols"/></xsl:if>
+        <xsl:if test="@rows &gt; 1"><xsl:text> table_valign_middle</xsl:text></xsl:if>
+        <xsl:if test="starts-with(.,'{') or starts-with(.,'}')"><xsl:text> cell_bracket table_halign_center</xsl:text></xsl:if>
+      </xsl:attribute>
+      <span class="cell_contents"><xsl:apply-templates/></span>
+    </td>
+  </xsl:template>
+  
+  <!-- paragraphs -->
+  
   <xsl:template match="p">
     <xsl:choose>
-      <xsl:when test="ancestor::p">
+      <xsl:when test="ancestor::p or child::table">
         <div>
           <xsl:attribute name="class">
             <xsl:if test="@rend"><xsl:value-of select="@rend"/><xsl:text> </xsl:text></xsl:if>
             <xsl:text>p</xsl:text>
-        
           </xsl:attribute>
           <xsl:apply-templates/>
         </div>
       </xsl:when>
+      <xsl:when test="descendant::hi[@rend='center']"><div class="p contains_center"><xsl:apply-templates/></div></xsl:when>
       <xsl:when test="@n='info'"><!-- don't show, pull into alt tag --></xsl:when>
       <xsl:otherwise>
         <p>
-          <xsl:attribute name="class">
-            <xsl:if test="@rend"><xsl:value-of select="@rend"/><xsl:text> </xsl:text></xsl:if>
-
-          </xsl:attribute>
+          <xsl:if test="@rend">
+            <xsl:attribute name="class">
+              <xsl:if test="@rend"><xsl:value-of select="@rend"/><xsl:text> </xsl:text></xsl:if>
+              
+            </xsl:attribute>
+          </xsl:if>
+          
           <xsl:apply-templates/>
         </p>
       </xsl:otherwise>
@@ -253,63 +306,113 @@
   
   <xsl:template name="figure_formatter">
     <xsl:param name="type"/>
-      <xsl:attribute name="id"><xsl:value-of select="$type"/><xsl:value-of select="format-number(@n,'00')"/></xsl:attribute>
-      <div class="figure_image">
-        <a>
-          <xsl:attribute name="href">
-            <xsl:value-of select="$fig_location"/>
-            <xsl:text>full/lc.johnsgard.01.</xsl:text>
-            <xsl:value-of select="$type"/>
-            <xsl:value-of select="format-number(@n,'00')"/>
-            <xsl:text>.jpg</xsl:text>
-          </xsl:attribute>
-          <xsl:attribute name="data-toggle">lightbox</xsl:attribute>
-          <xsl:attribute name="data-gallery">LC</xsl:attribute>
-          <xsl:attribute name="data-title"><xsl:call-template name="format_for_attribute"><xsl:with-param name="input" select="p[@n='info']"/></xsl:call-template></xsl:attribute>
-          <img>
-            <xsl:attribute name="src">
-              <xsl:value-of select="$fig_location"/>
-              <xsl:text>full/lc.johnsgard.01.</xsl:text>
-              <xsl:value-of select="$type"/>
-              <xsl:value-of select="format-number(@n,'00')"/>
-              <xsl:text>.jpg</xsl:text>
-            </xsl:attribute>
-            <xsl:attribute name="alt"><xsl:call-template name="format_for_attribute"><xsl:with-param name="input" select="p[@n='info']"/></xsl:call-template></xsl:attribute>
-          </img>
-        </a>
-      </div>
     
+    <xsl:variable name="image_id">
+      <xsl:value-of select="lower-case(@n)"/>
+    </xsl:variable>
+    
+    <xsl:variable name="image_builder">
+      <img>
+        <xsl:attribute name="src">
+          <xsl:value-of select="$fig_location"/>
+          <!-- When in the images section, pull full sized image. 
+          When in book ("other") pull 300 px image-->
+          <xsl:choose>
+            <xsl:when test="$type = 'other'">
+              <xsl:text>300/</xsl:text>
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:text>700/</xsl:text>
+            </xsl:otherwise>
+          </xsl:choose>
+          <xsl:value-of select="$image_id"/>
+          <xsl:choose>
+            <xsl:when test="ends-with($image_id,'.jpg')"></xsl:when>
+            <xsl:otherwise>.jpg</xsl:otherwise>
+          </xsl:choose>
+        </xsl:attribute>
+        <xsl:attribute name="alt"><xsl:call-template name="format_for_attribute"><xsl:with-param name="input" select="p[@n='info']"/></xsl:call-template></xsl:attribute>
+      </img>
+    </xsl:variable>
+    
+    
+        <div class="figure_image">
+          <!-- When in the images section, do not link 
+          When in book, link to larger image-->
+          <xsl:choose>
+            <xsl:when test="$type = 'other'">
+              <a>
+                <xsl:attribute name="href">
+                  <xsl:value-of select="$fig_location"/>
+                  <xsl:text>full/</xsl:text>
+                  <xsl:value-of select="$image_id"/>
+                  <xsl:choose>
+                    <xsl:when test="ends-with($image_id,'.jpg')"></xsl:when>
+                    <xsl:otherwise>.jpg</xsl:otherwise>
+                  </xsl:choose>
+                </xsl:attribute>
+                <xsl:attribute name="data-toggle">lightbox</xsl:attribute>
+                <xsl:attribute name="data-gallery">LC</xsl:attribute>
+                <xsl:attribute name="data-title"><xsl:call-template name="format_for_attribute"><xsl:with-param name="input" select="p[@n='info']"/></xsl:call-template></xsl:attribute>
+                <xsl:copy-of select="$image_builder"/>
+              </a>
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:copy-of select="$image_builder"/>
+              
+              <div class="full_sized_image_link">
+                <a>
+                  <xsl:attribute name="href">
+                    <xsl:value-of select="$fig_location"/>
+                    <xsl:text>full/</xsl:text>
+                    <xsl:value-of select="$image_id"/>
+                    <xsl:choose>
+                      <xsl:when test="ends-with($image_id,'.jpg')"></xsl:when>
+                      <xsl:otherwise>.jpg</xsl:otherwise>
+                    </xsl:choose>
+                  </xsl:attribute>
+                  <xsl:text>Full Sized Image</xsl:text>
+                </a>
+              </div>
+            </xsl:otherwise>
+          </xsl:choose>
+          
+          
+        </div>
+    
+
   </xsl:template>
   
   <xsl:template match="figure">
+    <!-- Laura said all the images should display. Leaving this rule in case we need to turn it back on -->
+    <!--<xsl:choose>
+      <xsl:when test="@rend = 'yale'">
+        <div class="redacted_image_copyright">(Image not available due to copyright restrictions.)</div>
+      </xsl:when>
+      <xsl:otherwise>-->
+    
     <div class="tei_figure">
-      
-        <xsl:choose>
-          <xsl:when test="starts-with(lower-case(normalize-space(.)),'map')">
-            <xsl:call-template name="figure_formatter">
-              <xsl:with-param name="type">map</xsl:with-param>
-            </xsl:call-template>
-          </xsl:when>
-      
-          <xsl:when test="starts-with(lower-case(normalize-space(.)),'fig')">
-            <xsl:call-template name="figure_formatter">
-              <xsl:with-param name="type">fig</xsl:with-param>
-            </xsl:call-template>
-          </xsl:when>
-          <xsl:otherwise>
-            <img src="{$fig_location}/full/{@n}"/>
-          </xsl:otherwise>
-        </xsl:choose>
-      
+       <xsl:choose>
+         <xsl:when test="//keywords[@n='category']/term[1] = 'Images'">
+           <xsl:call-template name="figure_formatter">
+             <xsl:with-param name="type">image</xsl:with-param>
+           </xsl:call-template>
+         </xsl:when>
+         <xsl:otherwise>
+           <xsl:call-template name="figure_formatter">
+             <xsl:with-param name="type">other</xsl:with-param>
+           </xsl:call-template>
+         </xsl:otherwise>
+       </xsl:choose>
       <xsl:apply-templates/>
     </div>
+      <!--</xsl:otherwise>
+    </xsl:choose>-->
   </xsl:template>
   
-  <!-- ~~~~~~~ audo and video ~~~~~~~ -->
+  <!-- ~~~~~~~ audio and video ~~~~~~~ -->
   
-  <xsl:variable name="audio_root_url">
-    <xsl:text>http://rosie.unl.edu/data_images/projects/lewisandclark/audio/</xsl:text>
-  </xsl:variable>
+ 
   
   <xsl:template match="media[@mimeType='audio/mp3']">
     <div class="audio_player">
@@ -323,6 +426,18 @@
   </xsl:template>
   
   <!-- ~~~~~~~ references ~~~~~~~ -->
+  
+  <xsl:template match="speaker//ref"><!-- do nothing, called by mode --></xsl:template>
+  
+  <xsl:template match="speaker//ref" mode="display">
+    <xsl:apply-templates/><xsl:text> </xsl:text>
+    <a>
+      <xsl:attribute name="href">#<xsl:value-of select="@target"/></xsl:attribute>
+      <xsl:attribute name="id">l<xsl:value-of select="@target"/></xsl:attribute>
+      <xsl:attribute name="class">ref_link</xsl:attribute>
+      <sup>[<xsl:value-of select="@n"/>]</sup>
+    </a>
+  </xsl:template>
   
   <xsl:template match="ref">
     <xsl:choose>
@@ -391,6 +506,7 @@
       </xsl:when>
       
       <xsl:otherwise>
+        <xsl:apply-templates/><xsl:text> </xsl:text>
         <a>
           <xsl:attribute name="href">#<xsl:value-of select="@target"/></xsl:attribute>
           <xsl:attribute name="id">l<xsl:value-of select="@target"/></xsl:attribute>
@@ -452,11 +568,26 @@
   <!-- Speaker -->
   
   <xsl:template match="div[@type='entry']//sp//speaker">
-    <h4>
-      <xsl:attribute name="id">
-        <xsl:value-of select="parent::*/parent::*/@xml:id"/>
-      </xsl:attribute>
-      [<xsl:apply-templates/>]</h4>
+    <h4 class="entry_author">
+      <xsl:text>[</xsl:text><xsl:value-of select="normalize-space(.)"/><xsl:text>]</xsl:text>
+      <xsl:if test="descendant::ref">
+        <xsl:apply-templates select="ref" mode="display"></xsl:apply-templates>
+      </xsl:if>
+    </h4>
+  </xsl:template> 
+<!--  
+  <xsl:template match="div[@type='entry']//sp//speaker/name">
+    <xsl:text>[</xsl:text><xsl:apply-templates/><xsl:text>]</xsl:text>
+  </xsl:template>-->
+  
+  <xsl:template match="div[@type='entry']//sp//ab//date">
+    <xsl:if test="normalize-space(.) != ''">
+      <div class="entry_date">
+        <xsl:apply-templates/>
+      </div>
+    </xsl:if>
+    
+    <div class="clear_return">&#160;</div>
   </xsl:template> 
   
   <!-- names/places/tribes -->
@@ -491,7 +622,7 @@
         </a>
       </xsl:when>
       <xsl:otherwise>
-        <xsl:apply-templates/>
+        <span class="tei_name"><xsl:apply-templates/></span>
       </xsl:otherwise>
     </xsl:choose>
     
