@@ -243,6 +243,25 @@
     
   </xsl:template>
   
+  <!-- re-matching on tbles to add the table responsive bootstrap attribute -->
+  
+  <xsl:template match="table">
+    
+    <xsl:for-each select="head">
+      <xsl:apply-templates select="." mode="show"/>
+    </xsl:for-each>
+    <div class="table-responsive">
+    <table>
+      <xsl:attribute name="class">
+        <xsl:value-of select="@rend"/>
+        <xsl:text> tei_table table</xsl:text> 
+        <xsl:if test="@n"><xsl:text> </xsl:text><xsl:value-of select="@n"/></xsl:if>
+      </xsl:attribute>
+      <xsl:apply-templates/>
+    </table>
+    </div>
+  </xsl:template>
+  
   <!-- Table Cell -->
   
   <xsl:template match="cell">
@@ -469,9 +488,9 @@
       <xsl:when test="@type='editorial'">
         <a>
           <xsl:attribute name="href">
-            <xsl:text>../</xsl:text>
+            <xsl:text></xsl:text>
             <xsl:value-of select="@n"/>
-            <xsl:text>/</xsl:text>
+            <xsl:text></xsl:text>
           </xsl:attribute>
           <xsl:apply-templates/>
         </a>
@@ -480,12 +499,12 @@
       <xsl:when test="@type='related'">
         <a>
           <xsl:attribute name="href">
-            <xsl:text>../</xsl:text>
+            <xsl:text></xsl:text>
             <xsl:choose>
               <xsl:when test="@target"><xsl:value-of select="@target"/></xsl:when>
               <xsl:otherwise><xsl:value-of select="@n"/></xsl:otherwise>
             </xsl:choose>
-            <xsl:text>/</xsl:text>
+            <xsl:text></xsl:text>
           </xsl:attribute>
           <xsl:apply-templates/>
         </a>
@@ -494,12 +513,12 @@
       <xsl:when test="@type='internal'">
         <a>
           <xsl:attribute name="href">
-            <xsl:text>../../</xsl:text>
+            <xsl:text>../</xsl:text>
             <xsl:choose>
               <xsl:when test="@target"><xsl:value-of select="@target"/></xsl:when>
               <xsl:otherwise><xsl:value-of select="@n"/></xsl:otherwise>
             </xsl:choose>
-            <xsl:text>/</xsl:text>
+            <xsl:text></xsl:text>
           </xsl:attribute>
           <xsl:apply-templates/>
         </a>
@@ -608,7 +627,7 @@
           <xsl:attribute name="data-toggle">tooltip</xsl:attribute>
           <xsl:attribute name="data-placement">top</xsl:attribute>
           <xsl:attribute name="href">
-            <xsl:text>../../search?</xsl:text>
+            <xsl:text>../search?</xsl:text>
             <xsl:choose>
               <xsl:when test="@type = 'place'">places</xsl:when>
               <xsl:when test="@type = 'person'">people</xsl:when>
