@@ -108,9 +108,9 @@
           <span class="previous_link">
             <a>
               <xsl:attribute name="href">
-                <xsl:text>../</xsl:text>
+                <!--<xsl:text>../</xsl:text>-->
                 <xsl:value-of select="@n"/>
-                <xsl:text>/</xsl:text>
+                <!--<xsl:text>/</xsl:text>-->
               </xsl:attribute>
               <xsl:text>Previous</xsl:text>
             </a></span>
@@ -128,9 +128,9 @@
             <span class="toc_link">
               <a>
                 <xsl:attribute name="href">
-                  <xsl:text>../</xsl:text>
+                  <!--<xsl:text>../</xsl:text>-->
                   <xsl:value-of select="@n"/>
-                  <xsl:text>/</xsl:text>
+                  <!--<xsl:text>/</xsl:text>-->
                 </xsl:attribute>
                 <xsl:text>Contents</xsl:text>
               </a></span>
@@ -142,9 +142,9 @@
         <span class="entire_text_link">
           <a>
             <xsl:attribute name="href">
-              <xsl:text>../lc.sup.</xsl:text>
+              <xsl:text>lc.sup.</xsl:text>
               <xsl:value-of select="$author_slug"/>
-              <xsl:text>.01/</xsl:text>
+              <xsl:text>.01</xsl:text>
             </xsl:attribute>
             <xsl:text>Entire Text</xsl:text>
           </a></span>
@@ -153,9 +153,9 @@
           <span class="back_to_book_link">
             <a>
               <xsl:attribute name="href">
-                <xsl:text>../lc.sup.</xsl:text>
+                <xsl:text>lc.sup.</xsl:text>
                 <xsl:value-of select="$author_slug"/>
-                <xsl:text>.01.00/</xsl:text>
+                <xsl:text>.01.00</xsl:text>
               </xsl:attribute>
               <xsl:text>Back to Book Main Page</xsl:text>
             </a></span>
@@ -165,9 +165,9 @@
           <span class="next_link">
             <a>
               <xsl:attribute name="href">
-                <xsl:text>../</xsl:text>
+                <!--<xsl:text>../</xsl:text>-->
                 <xsl:value-of select="@n"/>
-                <xsl:text>/</xsl:text>
+                <!--<xsl:text>/</xsl:text>-->
               </xsl:attribute>
               <xsl:text>Next</xsl:text>
             </a></span>
@@ -513,7 +513,7 @@
       <xsl:when test="@type='internal'">
         <a>
           <xsl:attribute name="href">
-            <xsl:text>../</xsl:text>
+            <!--<xsl:text>../</xsl:text>-->
             <xsl:choose>
               <xsl:when test="@target"><xsl:value-of select="@target"/></xsl:when>
               <xsl:otherwise><xsl:value-of select="@n"/></xsl:otherwise>
@@ -613,13 +613,14 @@
   <!-- currently search?=Rocky Mountains -->
   <!-- should be search?qfield=places&qtext=Rocky+Mountains -->
   
-  <xsl:template match="name">
+  <!-- comment out for link check -->
+  <!--<xsl:template match="name">
     <xsl:choose>
-      <!-- Can't have a link inside a link, investigate if this is a problem -kmd -->
+      <!-\- Can't have a link inside a link, investigate if this is a problem -kmd -\->
       <xsl:when test="ancestor::ref">
         <xsl:apply-templates/>
       </xsl:when>
-      <!-- Only show when journals for now -->
+      <!-\- Only show when journals for now -\->
       <xsl:when test="normalize-space(//keywords[@n='category']/term[1]/text()) = 'Journals' ">
         <a>
           <xsl:attribute name="class">regularization</xsl:attribute>
@@ -645,7 +646,7 @@
       </xsl:otherwise>
     </xsl:choose>
     
-  </xsl:template>
+  </xsl:template>-->
   
 
 </xsl:stylesheet>
