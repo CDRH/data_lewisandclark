@@ -410,21 +410,29 @@
       </xsl:when>
       <xsl:otherwise>-->
     
-    <div class="tei_figure">
-       <xsl:choose>
-         <xsl:when test="//keywords[@n='category']/term[1] = 'Images'">
-           <xsl:call-template name="figure_formatter">
-             <xsl:with-param name="type">image</xsl:with-param>
-           </xsl:call-template>
-         </xsl:when>
-         <xsl:otherwise>
-           <xsl:call-template name="figure_formatter">
-             <xsl:with-param name="type">other</xsl:with-param>
-           </xsl:call-template>
-         </xsl:otherwise>
-       </xsl:choose>
-      <xsl:apply-templates/>
-    </div>
+    <xsl:choose>
+      <xsl:when test="media/@mimeType='audio/mp3'"></xsl:when>
+      <xsl:otherwise>
+        
+        <div class="tei_figure">
+          <xsl:choose>
+            <xsl:when test="//keywords[@n='category']/term[1] = 'Images'">
+              <xsl:call-template name="figure_formatter">
+                <xsl:with-param name="type">image</xsl:with-param>
+              </xsl:call-template>
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:call-template name="figure_formatter">
+                <xsl:with-param name="type">other</xsl:with-param>
+              </xsl:call-template>
+            </xsl:otherwise>
+          </xsl:choose>
+          <xsl:apply-templates/>
+        </div>
+      </xsl:otherwise>
+    </xsl:choose>
+    
+    
       <!--</xsl:otherwise>
     </xsl:choose>-->
   </xsl:template>
