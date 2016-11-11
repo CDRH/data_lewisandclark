@@ -223,7 +223,7 @@
 
             <!-- ========== lc_geo_coordinates_p ========== -->
 
-            <xsl:variable name="georef" select="@ref"></xsl:variable>
+            <xsl:variable name="georef" select="@n"></xsl:variable>
             <xsl:variable name="geo">
               <xsl:value-of
                 select="/TEI/teiHeader[1]/encodingDesc[1]/geoDecl[@xml:id = $georef]/geo"
