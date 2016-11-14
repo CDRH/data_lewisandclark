@@ -29,7 +29,7 @@
 <xsl:param name="fw">true</xsl:param>       <!-- true/false Toggle fw's on and off  -->
 <xsl:param name="pb">true</xsl:param>       <!-- true/false Toggle pb's on and off  -->
 <xsl:param name="site_url"/>                <!-- the site url (http://codyarchive.org) -->
-  <xsl:param name="fig_location">http://rosie.unl.edu/data_images/projects/lewisandclark/figures/</xsl:param> <!-- set figure location  -->
+  <xsl:param name="fig_location"/> <!-- set figure location  -->
   <xsl:variable name="audio_root_url">
     <xsl:text>http://rosie.unl.edu/data_images/projects/lewisandclark/audio/</xsl:text>
   </xsl:variable>
@@ -326,35 +326,38 @@
   <xsl:template name="figure_formatter">
     <xsl:param name="type"/>
     
-    <xsl:variable name="image_id">
-      <xsl:value-of select="lower-case(@n)"/>
-    </xsl:variable>
-    
-    <xsl:variable name="image_builder">
-      <img>
-        <xsl:attribute name="src">
-          <xsl:value-of select="$fig_location"/>
-          <!-- When in the images section, pull full sized image. 
+    <xsl:choose>
+      <xsl:when test="$type = 'audio'"></xsl:when>
+      <xsl:otherwise>
+        <xsl:variable name="image_id">
+          <xsl:value-of select="lower-case(@n)"/>
+        </xsl:variable>
+        
+        <xsl:variable name="image_builder">
+          <img>
+            <xsl:attribute name="src">
+              <xsl:value-of select="$fig_location"/>
+              <!-- When in the images section, pull full sized image. 
           When in book ("other") pull 300 px image-->
-          <xsl:choose>
-            <xsl:when test="$type = 'other'">
-              <xsl:text>300/</xsl:text>
-            </xsl:when>
-            <xsl:otherwise>
-              <xsl:text>700/</xsl:text>
-            </xsl:otherwise>
-          </xsl:choose>
-          <xsl:value-of select="$image_id"/>
-          <xsl:choose>
-            <xsl:when test="ends-with($image_id,'.jpg')"></xsl:when>
-            <xsl:otherwise>.jpg</xsl:otherwise>
-          </xsl:choose>
-        </xsl:attribute>
-        <xsl:attribute name="alt"><xsl:call-template name="format_for_attribute"><xsl:with-param name="input" select="p[@n='info']"/></xsl:call-template></xsl:attribute>
-      </img>
-    </xsl:variable>
-    
-    
+              <xsl:choose>
+                <xsl:when test="$type = 'other'">
+                  <xsl:text>300/</xsl:text>
+                </xsl:when>
+                <xsl:otherwise>
+                  <xsl:text>700/</xsl:text>
+                </xsl:otherwise>
+              </xsl:choose>
+              <xsl:value-of select="$image_id"/>
+              <xsl:choose>
+                <xsl:when test="ends-with($image_id,'.jpg')"></xsl:when>
+                <xsl:otherwise>.jpg</xsl:otherwise>
+              </xsl:choose>
+            </xsl:attribute>
+            <xsl:attribute name="alt"><xsl:call-template name="format_for_attribute"><xsl:with-param name="input" select="p[@n='info']"/></xsl:call-template></xsl:attribute>
+          </img>
+        </xsl:variable>
+        
+        
         <div class="figure_image">
           <!-- When in the images section, do not link 
           When in book, link to larger image-->
@@ -398,43 +401,38 @@
           
           
         </div>
+      </xsl:otherwise>
+    </xsl:choose>
+    
+    
     
 
   </xsl:template>
   
   <xsl:template match="figure">
-    <!-- Laura said all the images should display. Leaving this rule in case we need to turn it back on -->
-    <!--<xsl:choose>
-      <xsl:when test="@rend = 'yale'">
-        <div class="redacted_image_copyright">(Image not available due to copyright restrictions.)</div>
-      </xsl:when>
-      <xsl:otherwise>-->
+
     
-    <xsl:choose>
-      <xsl:when test="media/@mimeType='audio/mp3'"></xsl:when>
-      <xsl:otherwise>
-        
-        <div class="tei_figure">
-          <xsl:choose>
-            <xsl:when test="//keywords[@n='category']/term[1] = 'Images'">
-              <xsl:call-template name="figure_formatter">
-                <xsl:with-param name="type">image</xsl:with-param>
-              </xsl:call-template>
-            </xsl:when>
-            <xsl:otherwise>
-              <xsl:call-template name="figure_formatter">
-                <xsl:with-param name="type">other</xsl:with-param>
-              </xsl:call-template>
-            </xsl:otherwise>
-          </xsl:choose>
-          <xsl:apply-templates/>
-        </div>
-      </xsl:otherwise>
-    </xsl:choose>
-    
-    
-      <!--</xsl:otherwise>
-    </xsl:choose>-->
+    <div class="tei_figure">
+       <xsl:choose>
+         <xsl:when test="//keywords[@n='category']/term[1] = 'Images'">
+           <xsl:call-template name="figure_formatter">
+             <xsl:with-param name="type">image</xsl:with-param>
+           </xsl:call-template>
+         </xsl:when>
+         <xsl:when test="media/@mimeType='audio/mp3'">
+           <xsl:call-template name="figure_formatter">
+             <xsl:with-param name="type">audio</xsl:with-param>
+           </xsl:call-template>
+         </xsl:when>
+         <xsl:otherwise>
+           <xsl:call-template name="figure_formatter">
+             <xsl:with-param name="type">other</xsl:with-param>
+           </xsl:call-template>
+         </xsl:otherwise>
+       </xsl:choose>
+      <xsl:apply-templates/>
+    </div>
+
   </xsl:template>
   
   <!-- ~~~~~~~ audio and video ~~~~~~~ -->
