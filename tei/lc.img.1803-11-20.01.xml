@@ -58,7 +58,8 @@
    </teiHeader>
    <text>
       <body>
-        <div type="image">
+         <list type="simple">
+            <item>
                <figure n="1803-11-20.01.jpg">
                   <p>
                      <label>Sand Bar</label>
@@ -82,7 +83,8 @@
                      </bibl>
                   </p>
                </figure>
-        </div>
+            </item>
+         </list>
       </body>
    </text>
 </TEI>
