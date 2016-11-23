@@ -30,9 +30,8 @@
 <xsl:param name="pb">true</xsl:param>       <!-- true/false Toggle pb's on and off  -->
 <xsl:param name="site_url"/>                <!-- the site url (http://codyarchive.org) -->
   <xsl:param name="fig_location"/> <!-- set figure location  -->
-  <xsl:variable name="audio_root_url">
-    <xsl:text>http://rosie.unl.edu/data_images/projects/lewisandclark/audio/</xsl:text>
-  </xsl:variable>
+  <xsl:param name="audio_root_url"/>
+
   
 
 
@@ -267,7 +266,7 @@
   <xsl:template match="cell">
     <td>
       <xsl:if test="@rows"><xsl:attribute name="rowspan"><xsl:value-of select="@rows"/></xsl:attribute></xsl:if>
-      <xsl:if test="@cols"><xsl:attribute name="colspanspan"><xsl:value-of select="@cols"/></xsl:attribute></xsl:if>
+      <xsl:if test="@cols"><xsl:attribute name="colspan"><xsl:value-of select="@cols"/></xsl:attribute></xsl:if>
       <xsl:attribute name="class">
         <xsl:value-of select="@rend"/>
         <xsl:text> tei_td</xsl:text>
@@ -327,7 +326,7 @@
     <xsl:param name="type"/>
     
     <xsl:choose>
-      <xsl:when test="$type = 'audio'"></xsl:when>
+      <xsl:when test="$type = 'audio' or $type = 'video'"></xsl:when>
       <xsl:otherwise>
         <xsl:variable name="image_id">
           <xsl:value-of select="lower-case(@n)"/>
@@ -424,6 +423,11 @@
              <xsl:with-param name="type">audio</xsl:with-param>
            </xsl:call-template>
          </xsl:when>
+         <xsl:when test="media/@mimeType='video/mp4'">
+           <xsl:call-template name="figure_formatter">
+             <xsl:with-param name="type">video</xsl:with-param>
+           </xsl:call-template>
+         </xsl:when>
          <xsl:otherwise>
            <xsl:call-template name="figure_formatter">
              <xsl:with-param name="type">other</xsl:with-param>
@@ -442,12 +446,20 @@
   <xsl:template match="media[@mimeType='audio/mp3']">
     <div class="audio_player">
       <audio controls="controls">
-        <source src="{$audio_root_url}{@url}"/>
-        <a href="{$audio_root_url}{@url}">Download file <xsl:value-of select="@url"/></a>
-            
+        <source src="{$audio_root_url}mp3/{@url}"/>
+        <source src="{$audio_root_url}ogg/{substring-before(@url,'.mp3')}.ogg"/>
+        <p>Your browser does not support HTML5 audio or our codecs, please download the <a href="{$audio_root_url}mp3/{@url}">MP3 file (medium quality)</a> or the <a href="{$audio_root_url}ogg/{substring-before(@url,'.mp3')}.ogg">OGG file (high quality)</a>.</p>
+        
+        
       </audio>
     </div>
     
+  </xsl:template>
+  
+  <xsl:template match="media[@mimeType='video/mp4']">
+    <div class="wdn-responsive-embed wdn-aspect16x9 videoembed">
+      <iframe src="{@url}?format=iframe&amp;autoplay=0" title="{parent::*/parent::*/parent::*/head}" allowfullscreen='true'>&#160;</iframe>
+    </div>
   </xsl:template>
   
   <!-- ~~~~~~~ references ~~~~~~~ -->
@@ -620,13 +632,13 @@
   <!-- should be search?qfield=places&qtext=Rocky+Mountains -->
   
   <!-- comment out for link check -->
-  <!--<xsl:template match="name">
+  <xsl:template match="name">
     <xsl:choose>
-      <!-\- Can't have a link inside a link, investigate if this is a problem -kmd -\->
+      <!-- Can't have a link inside a link, investigate if this is a problem -kmd -->
       <xsl:when test="ancestor::ref">
         <xsl:apply-templates/>
       </xsl:when>
-      <!-\- Only show when journals for now -\->
+      <!-- Only show when journals for now -->
       <xsl:when test="normalize-space(//keywords[@n='category']/term[1]/text()) = 'Journals' ">
         <a>
           <xsl:attribute name="class">regularization</xsl:attribute>
@@ -652,7 +664,7 @@
       </xsl:otherwise>
     </xsl:choose>
     
-  </xsl:template>-->
+  </xsl:template>
   
 
 </xsl:stylesheet>
