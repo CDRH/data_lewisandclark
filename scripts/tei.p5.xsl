@@ -39,9 +39,15 @@
 <!--                            OVERRIDES                                 -->
 <!-- ==================================================================== -->
   
-  <!-- images are all in a list for some reason. This takes them out -->
+
+  
+  
   <xsl:template match="list">
+    <xsl:if test="head">
+      <div class="tei_list_head"><xsl:apply-templates select="head/node()"/></div>
+    </xsl:if>
     <xsl:choose>
+      <!-- images are all in a list for some reason. This takes them out -->
       <xsl:when test="//keywords[@n='category']/term[1] = 'Images'">
         <!-- page title, use label when it exists or caption -->
         <h2>
@@ -54,12 +60,16 @@
         
         <div class="image_page">
           <xsl:apply-templates/>
-        </div></xsl:when>
-      <xsl:otherwise><ul>
-        <xsl:attribute name="class">
-          <xsl:text>tei_list</xsl:text>
-          <xsl:if test="@type"><xsl:text> </xsl:text><xsl:value-of select="@type"/></xsl:if>
-        </xsl:attribute><xsl:apply-templates/></ul></xsl:otherwise>
+        </div>
+      </xsl:when>
+      <xsl:otherwise>
+        <ul>
+          <xsl:attribute name="class">
+            <xsl:text>tei_list</xsl:text>
+            <xsl:if test="@type"><xsl:text> </xsl:text><xsl:value-of select="@type"/></xsl:if>
+          </xsl:attribute><xsl:apply-templates select="item"/>
+        </ul>
+      </xsl:otherwise>
     </xsl:choose>
 
   </xsl:template>
@@ -253,7 +263,7 @@
     <table>
       <xsl:attribute name="class">
         <xsl:value-of select="@rend"/>
-        <xsl:text> tei_table table</xsl:text> 
+        <xsl:text> tei_table</xsl:text> 
         <xsl:if test="@n"><xsl:text> </xsl:text><xsl:value-of select="@n"/></xsl:if>
       </xsl:attribute>
       <xsl:apply-templates/>
