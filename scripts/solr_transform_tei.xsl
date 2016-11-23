@@ -144,7 +144,7 @@
   
 
   <!-- ==================================================================== -->
-  <!--                            OVERRIDES   - Doc setup                              -->
+  <!--                          Doc setup                                   -->
   <!-- ==================================================================== -->
 
 
@@ -254,6 +254,45 @@
               </xsl:for-each>
             </xsl:if>
             
+            <!-- ======= INDEX ======= -->
+            
+            <!-- ========== lc_native_nation_ss ========== -->
+            
+            <xsl:for-each-group select=".//name[@type = 'native_nation']/@key" group-by="normalize-space(.)">
+              <field name="lc_native_nation_ss">
+                <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
+              </field>
+            </xsl:for-each-group>
+            
+            <!-- ========== people ========== -->
+            
+            <xsl:for-each-group select=".//name[@type = 'person']/@key" group-by="normalize-space(.)">
+              <field name="people">
+                <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
+              </field>
+            </xsl:for-each-group>
+            
+            <!-- ========== places ========== -->
+            
+            <xsl:for-each-group select=".//name[@type = 'place']/@key" group-by="normalize-space(.)">
+              <field name="places">
+                <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
+              </field>
+            </xsl:for-each-group>
+            
+            <!-- ========== lc_index_combined_ss ========== -->
+            <!--  Combined field to build the index -->
+            
+            <xsl:for-each-group select=".//name" group-by="normalize-space(@key)">
+              <field name="lc_index_combined_ss">
+                <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
+                <xsl:text>||</xsl:text>
+                <xsl:value-of select="@type"></xsl:value-of>
+              </field>
+            </xsl:for-each-group>
+            
+            
+            
             <!-- ========== text ========== -->
             
             <field name="text">
@@ -286,7 +325,7 @@
 
 
       <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                      All Files
+                      Non Journal Entry files
        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
       <doc>
@@ -360,6 +399,47 @@
             <xsl:call-template name="creators"></xsl:call-template>
           </xsl:otherwise>
         </xsl:choose><!-- /creator/creators -->
+        
+        <!-- Only index Journal files for regularized names. 
+         After cleanup, we can remove this if and index all. -->
+        
+        <xsl:if test="normalize-space(//keywords[@n='category']/term[1]) = 'Journals'">
+          <!-- ========== lc_native_nation_ss ========== -->
+          
+          <xsl:for-each-group select="/TEI/text//name[@type = 'native_nation']/@key" group-by="normalize-space(.)">
+            <field name="lc_native_nation_ss">
+              <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
+            </field>
+          </xsl:for-each-group>
+          
+          <!-- ========== people ========== -->
+          
+          <xsl:for-each-group select="/TEI/text//name[@type = 'person']/@key" group-by="normalize-space(.)">
+            <field name="people">
+              <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
+            </field>
+          </xsl:for-each-group>
+          
+          <!-- ========== places ========== -->
+          
+          <xsl:for-each-group select="/TEI/text//name[@type = 'place']/@key" group-by="normalize-space(.)">
+            <field name="places">
+              <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
+            </field>
+          </xsl:for-each-group>
+          
+          <!-- ========== lc_index_combined_ss ========== -->
+          <!--  Combined field to build the index -->
+          
+          <xsl:for-each-group select="/TEI/text//name" group-by="normalize-space(@key)">
+            <field name="lc_index_combined_ss">
+              <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
+              <xsl:text>||</xsl:text>
+              <xsl:value-of select="@type"></xsl:value-of>
+            </field>
+          </xsl:for-each-group>
+          
+        </xsl:if>
 
         <!-- ========== text ========== -->
         <!-- call when not a journal file, all that text will go into entries -->
@@ -384,36 +464,15 @@
 
     </add>
   </xsl:template>
+  
+  <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                      Combined
+       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 
   <xsl:template name="tei_template_part">
     <xsl:param name="filenamepart"></xsl:param>
 
-    <!-- ========== lc_timeline_place_s ========== -->
-
-    <xsl:variable name="entry_date">
-      <xsl:choose>
-        <xsl:when test="parent::*/head/date/@notAfter">
-          <xsl:value-of select="parent::*/head/date/@notAfter"></xsl:value-of>
-        </xsl:when>
-        <xsl:when test="parent::*/head/date/@when">
-          <xsl:value-of select="parent::*/head/date/@when"></xsl:value-of>
-        </xsl:when>
-        <xsl:otherwise>
-          <xsl:value-of select="$date_match"></xsl:value-of>
-        </xsl:otherwise>
-      </xsl:choose>
-    </xsl:variable>
-
-    <!-- grab order from separate file -->
-    <xsl:for-each select="doc('data_ingest_helpers/date_numbering.xml')/root/date"
-      xpath-default-namespace="">
-      <xsl:if test=". = $entry_date">
-        <field name="lc_timeline_place_s">
-          <xsl:value-of select="@id"></xsl:value-of>
-        </field>
-      </xsl:if>
-    </xsl:for-each>
-
+   
     <!-- ========== date and dateDisplay ========== -->
     <xsl:variable name="dateNotAfter">
       <xsl:choose>
@@ -443,6 +502,21 @@
     <field name="date">
       <xsl:value-of select="$dateNotAfter"></xsl:value-of>
     </field>
+    
+    <!-- ========== lc_timeline_place_s ========== -->
+    
+    <!-- grab order from separate file date_numbering.xml -->
+    <xsl:for-each select="doc('data_ingest_helpers/date_numbering.xml')/root/date"
+      xpath-default-namespace="">
+      <xsl:if test=". = $dateNotAfter">
+        <field name="lc_timeline_place_s">
+          
+          <!-- following rounds the place in the timeline based on 1100 total days -->
+          <xsl:value-of select="format-number(((@id div 1100) * 100), '#.00')"></xsl:value-of>
+        </field>
+      </xsl:if>
+    </xsl:for-each>
+    
     
     <field name="dateDisplay">
       <xsl:choose>
@@ -492,46 +566,7 @@
       <xsl:value-of select="$filenamepart"></xsl:value-of>
     </field>
 
-    <!-- Only index Journal files for regularized names. 
-         After cleanup, we can remove this if and index all. -->
-    
-    <xsl:if test="normalize-space(//keywords[@n='category']/term[1]) = 'Journals'">
-    <!-- ========== lc_native_nation_ss ========== -->
-
-    <xsl:for-each-group select="/TEI/text//name[@type = 'native_nation']/@key" group-by="normalize-space(.)">
-      <field name="lc_native_nation_ss">
-        <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
-      </field>
-    </xsl:for-each-group>
-
-    <!-- ========== people ========== -->
-
-      <xsl:for-each-group select="/TEI/text//name[@type = 'person']/@key" group-by="normalize-space(.)">
-      <field name="people">
-        <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
-      </field>
-    </xsl:for-each-group>
-
-    <!-- ========== places ========== -->
-
-      <xsl:for-each-group select="/TEI/text//name[@type = 'place']/@key" group-by="normalize-space(.)">
-      <field name="places">
-        <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
-      </field>
-    </xsl:for-each-group>
-
-    <!-- ========== lc_index_combined_ss ========== -->
-    <!--  Combined field to build the index -->
-    
-      <xsl:for-each-group select="/TEI/text//name" group-by="normalize-space(@key)">
-      <field name="lc_index_combined_ss">
-        <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
-        <xsl:text>||</xsl:text>
-        <xsl:value-of select="@type"></xsl:value-of>
-      </field>
-    </xsl:for-each-group>
-      
-    </xsl:if>
+  
 
     <!-- Begin what remains of the regular fields -->
 
