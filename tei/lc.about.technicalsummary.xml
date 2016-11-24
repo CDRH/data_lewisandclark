@@ -64,7 +64,7 @@
         <head type="main">Technical Summary</head>
         <div type="additional">
           <p>
-             <hi rend="italic">The Journals of the Lewis and Clark Expedition</hi> has gone through several technology updates during its lifespan. You may <ref target="lc.about.technicalsummary_legacy" type="internal">text searching read the legacy technical summary here</ref>. Currently, <hi rend="italic">The Journals of the Lewis and Clark Expedition</hi> Online documents are encoded following the Text Encoding Initative P5 standard. Native Nations, places, and people are encoded within <ref target="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-name.html">named entities</ref> to identify them specifically, while navigating spelling variations, historical names, and modern conventions. You may access the TEI-XML file for individual dates when viewing the journal entries.
+             <hi rend="italic">The Journals of the Lewis and Clark Expedition</hi> has gone through several technology updates during its lifespan. You may <ref target="lc.about.technicalsummary_legacy" type="internal">read the legacy technical summary here</ref>. Currently, <hi rend="italic">The Journals of the Lewis and Clark Expedition</hi> Online documents are encoded following the Text Encoding Initative P5 standard. Native Nations, places, and people are encoded within <ref target="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-name.html">named entities</ref> to identify them specifically, while navigating spelling variations, historical names, and modern conventions. You may access the TEI-XML file for individual dates when viewing the journal entries.
           </p>
         </div>
         <div>
@@ -79,7 +79,7 @@
         <div>
           <head>Process</head>
           <p>
-            The TEI format of <hi rend="italic">The Journals of the Lewis and Clark Expedition</hi> was updated to match the latest specifications with XSLT scripts. To populate the site's contents, a script is run which processes each document, creating a static HTML view and updating Solr with the text and metadata (author, date, location, etc) information. Ruby on Rails then pulls information from Solr to build the contents of the site, such as the journal entry page, searching, and browsing by named entity.
+            The TEI of <hi rend="italic">The Journals of the Lewis and Clark Expedition</hi> was updated from the P4 specification to P5 using the <ref target="https://github.com/CDRH/abbot" type="external">Abbot XML Interoperability tool</ref> and XSLT scripts. To populate the site's contents, a script is run which processes each document, creating a static HTML view and updating Solr with the text and metadata (author, date, location, etc). Ruby on Rails then pulls information from Solr to build the contents of the site, such as the journal entry page, searching, and browsing by named entity.
           </p>
         </div>
       </body>
