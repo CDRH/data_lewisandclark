@@ -146,7 +146,31 @@
   <!-- ==================================================================== -->
   <!--                          Doc setup                                   -->
   <!-- ==================================================================== -->
-
+  
+  <!-- This template is used to create named entity facets from the entries and from the footnotes -->
+  <xsl:template name="named_entity_entry">
+    <xsl:param name="type"/>
+    <xsl:param name="key"/>
+    <xsl:variable name="type_pluralized">
+      <xsl:choose>
+        <xsl:when test="$type = 'native_nation'"><xsl:text>lc_native_nation_ss</xsl:text></xsl:when>
+        <xsl:when test="$type = 'place'"><xsl:text>places</xsl:text></xsl:when>
+        <xsl:when test="$type = 'person'"><xsl:text>people</xsl:text></xsl:when>
+      </xsl:choose>
+    </xsl:variable>
+    
+      <field>
+        <xsl:attribute name="name">
+          <xsl:value-of select="$type_pluralized"/>
+        </xsl:attribute>
+        <xsl:value-of select="$key"></xsl:value-of>
+      </field>
+      <field name="lc_index_combined_ss">
+        <xsl:value-of select="$key"></xsl:value-of>
+        <xsl:text>||</xsl:text>
+        <xsl:value-of select="$type"></xsl:value-of>
+      </field>
+  </xsl:template>
 
   <xsl:template name="tei_template" exclude-result-prefixes="#all">
     <xsl:param name="filenamepart"></xsl:param>
@@ -255,43 +279,72 @@
             </xsl:if>
             
             <!-- ======= INDEX ======= -->
+
+            
+             <xsl:for-each select=".//ref">
+              <xsl:variable name="target" select="@target"/>
+              <xsl:variable name="reference"><xsl:copy-of select="//back/div[@type='notes']//note[@xml:id = $target]"/></xsl:variable>
+              
+              <!-- KMD TODO - this is a ton of repeated code but I'm having trouble figureing out how to simplify. My problem is I can't just go a for-each-group grouped by key, because we could have a key that's a place and another that's a native nation witht he same name -->
+                
+                <!-- ========== lc_native_nation_ss ========== -->
+                
+                <xsl:for-each-group select="$reference//name[@type = 'native_nation']" group-by="normalize-space(@key)">
+                  <xsl:call-template name="named_entity_entry">
+                    <xsl:with-param name="type">native_nation</xsl:with-param>
+                    <xsl:with-param name="key" select="current-grouping-key()"/>
+                  </xsl:call-template>
+                </xsl:for-each-group>
+                
+                <!-- ========== people ========== -->
+                <xsl:for-each-group select="$reference//name[@type = 'person']" group-by="normalize-space(@key)">
+                  <xsl:call-template name="named_entity_entry">
+                    <xsl:with-param name="type">person</xsl:with-param>
+                    <xsl:with-param name="key" select="current-grouping-key()"/>
+                  </xsl:call-template>
+                </xsl:for-each-group>
+                
+                <!-- ========== places ========== -->
+                
+                <xsl:for-each-group select="$reference//name[@type = 'place']" group-by="normalize-space(@key)">
+                  <xsl:call-template name="named_entity_entry">
+                    <xsl:with-param name="type">place</xsl:with-param>
+                    <xsl:with-param name="key" select="current-grouping-key()"/>
+                  </xsl:call-template>
+                </xsl:for-each-group>
+                <!-- END repeated code -->
+              
+              
+             
+            </xsl:for-each>
+            
+          
             
             <!-- ========== lc_native_nation_ss ========== -->
-            
-            <xsl:for-each-group select=".//name[@type = 'native_nation']/@key" group-by="normalize-space(.)">
-              <field name="lc_native_nation_ss">
-                <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
-              </field>
+
+            <xsl:for-each-group select=".//name[@type = 'native_nation']" group-by="normalize-space(@key)">
+              <xsl:call-template name="named_entity_entry">
+                <xsl:with-param name="type">native_nation</xsl:with-param>
+                <xsl:with-param name="key" select="current-grouping-key()"/>
+              </xsl:call-template>
             </xsl:for-each-group>
             
             <!-- ========== people ========== -->
-            
-            <xsl:for-each-group select=".//name[@type = 'person']/@key" group-by="normalize-space(.)">
-              <field name="people">
-                <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
-              </field>
+            <xsl:for-each-group select=".//name[@type = 'person']" group-by="normalize-space(@key)">
+              <xsl:call-template name="named_entity_entry">
+                <xsl:with-param name="type">person</xsl:with-param>
+                <xsl:with-param name="key" select="current-grouping-key()"/>
+              </xsl:call-template>
             </xsl:for-each-group>
             
             <!-- ========== places ========== -->
             
-            <xsl:for-each-group select=".//name[@type = 'place']/@key" group-by="normalize-space(.)">
-              <field name="places">
-                <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
-              </field>
+            <xsl:for-each-group select=".//name[@type = 'place']" group-by="normalize-space(@key)">
+              <xsl:call-template name="named_entity_entry">
+                <xsl:with-param name="type">place</xsl:with-param>
+                <xsl:with-param name="key" select="current-grouping-key()"/>
+              </xsl:call-template>
             </xsl:for-each-group>
-            
-            <!-- ========== lc_index_combined_ss ========== -->
-            <!--  Combined field to build the index -->
-            
-            <xsl:for-each-group select=".//name" group-by="normalize-space(@key)">
-              <field name="lc_index_combined_ss">
-                <xsl:value-of select="normalize-space(current-grouping-key())"></xsl:value-of>
-                <xsl:text>||</xsl:text>
-                <xsl:value-of select="@type"></xsl:value-of>
-              </field>
-            </xsl:for-each-group>
-            
-            
             
             <!-- ========== text ========== -->
             
