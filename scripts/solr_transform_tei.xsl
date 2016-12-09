@@ -45,6 +45,36 @@
   <!-- ==================================================================== -->
   <!--              OVERRIDES    - individual fields                        -->
   <!-- ==================================================================== -->
+  
+  <!-- ========== uriXML ========== -->
+  
+  <xsl:template name="uriXML">
+    <xsl:param name="id"/>
+    <field name="uriXML">
+      <xsl:value-of select="$file_location"/>
+      <xsl:text>data/</xsl:text>
+      <xsl:value-of select="$slug"/>
+      <xsl:text>/tei/</xsl:text>
+      <xsl:value-of select="$id"/>
+      <xsl:text>.xml</xsl:text>
+    </field>
+  </xsl:template>
+  
+  <!-- ========== uriHTML ========== -->
+  
+  <xsl:template name="uriHTML">
+    <xsl:param name="id"/>
+    <field name="uriHTML">
+      <xsl:value-of select="$file_location"/>
+      <xsl:text>data/</xsl:text>
+      <xsl:value-of select="$slug"/>
+      <xsl:text>/html-generated/</xsl:text>
+      <xsl:value-of select="$id"/>
+      <xsl:text>.txt</xsl:text>
+    </field>
+  </xsl:template>
+  
+
 
   <!-- ========== title ========== -->
   <xsl:template name="title">
@@ -357,16 +387,7 @@
                 </xsl:for-each>
               </field>
             
-            <!-- ========== uriHTML ========== -->
-            <!-- different than default because there will be many entries to one file -->
-
-            <field name="uriHTML">
-              <xsl:value-of select="$file_location"></xsl:value-of>
-              <xsl:value-of select="$slug"></xsl:value-of>
-              <xsl:text>/html-generated/</xsl:text>
-              <xsl:value-of select="/TEI/@xml:id"></xsl:value-of>
-              <xsl:text>.txt</xsl:text>
-            </field>
+     
 
             <!-- Call template with shared fields -->
             <xsl:call-template name="tei_template_part">

@@ -30,7 +30,8 @@
 <xsl:param name="pb">true</xsl:param>       <!-- true/false Toggle pb's on and off  -->
 <xsl:param name="site_url"/>                <!-- the site url (http://codyarchive.org) -->
   <xsl:param name="fig_location"/> <!-- set figure location  -->
-  <xsl:param name="audio_root_url"/>
+  <xsl:param name="file_location"/>
+  <!--<xsl:param name="audio_root_url"/>-->
 
   
 
@@ -345,9 +346,10 @@
         <xsl:variable name="image_builder">
           <img>
             <xsl:attribute name="src">
-              <xsl:value-of select="$fig_location"/>
+              <xsl:value-of select="$file_location"/>
               <!-- When in the images section, pull full sized image. 
           When in book ("other") pull 300 px image-->
+              <xsl:text>images/lewisandclark/</xsl:text>
               <xsl:choose>
                 <xsl:when test="$type = 'other'">
                   <xsl:text>300/</xsl:text>
@@ -374,7 +376,10 @@
             <xsl:when test="$type = 'other'">
               <a>
                 <xsl:attribute name="href">
-                  <xsl:value-of select="$fig_location"/>
+                  <xsl:value-of select="$file_location"/>
+                  <!-- When in the images section, pull full sized image. 
+          When in book ("other") pull 300 px image-->
+                  <xsl:text>images/lewisandclark/</xsl:text>
                   <xsl:text>full/</xsl:text>
                   <xsl:value-of select="$image_id"/>
                   <xsl:choose>
@@ -394,7 +399,8 @@
               <div class="full_sized_image_link">
                 <a>
                   <xsl:attribute name="href">
-                    <xsl:value-of select="$fig_location"/>
+                    <xsl:value-of select="$file_location"/>
+                    <xsl:text>images/lewisandclark/</xsl:text>
                     <xsl:text>full/</xsl:text>
                     <xsl:value-of select="$image_id"/>
                     <xsl:choose>
@@ -456,9 +462,9 @@
   <xsl:template match="media[@mimeType='audio/mp3']">
     <div class="audio_player">
       <audio controls="controls">
-        <source src="{$audio_root_url}mp3/{@url}"/>
-        <source src="{$audio_root_url}ogg/{substring-before(@url,'.mp3')}.ogg"/>
-        <p>Your browser does not support HTML5 audio or our codecs, please download the <a href="{$audio_root_url}mp3/{@url}">MP3 file (medium quality)</a> or the <a href="{$audio_root_url}ogg/{substring-before(@url,'.mp3')}.ogg">OGG file (high quality)</a>.</p>
+        <source src="{$file_location}audio/lewisandclark/mp3/{@url}"/>
+        <source src="{$file_location}audio/lewisandclark/ogg/{substring-before(@url,'.mp3')}.ogg"/>
+        <p>Your browser does not support HTML5 audio or our codecs, please download the <a href="{$file_location}audio/lewisandclark/mp3/{@url}">MP3 file (medium quality)</a> or the <a href="{$file_location}audio/lewisandclark/ogg/{substring-before(@url,'.mp3')}.ogg">OGG file (high quality)</a>.</p>
         
         
       </audio>
