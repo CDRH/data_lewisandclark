@@ -65,11 +65,6 @@ Weather, April 1806</title>
          <geoDecl datum="WGS" xml:id="lc.geo.1806-04-30-1.01">
             <placeName/>
             <geo> </geo>
-            <note>No location. Daily weather report for the month of April 1805.</note>
-         </geoDecl>
-         <geoDecl datum="WGS" xml:id="lc.geo.1806-04-30-1.02">
-            <placeName/>
-            <geo> </geo>
             <note>No location. Daily weather report for the month of April 1806.</note>
          </geoDecl>
       </encodingDesc>
@@ -107,7 +102,7 @@ Weather, April 1806</title>
          <head type="date">
             <date when="1806-04-30">Weather, April 1806</date>
          </head>
-         <div type="entry" xml:id="lc.jrn.1806-04-30-1.01" n="">
+         <div type="entry" xml:id="lc.jrn.1806-04-30-1.01" n="lc.geo.1806-04-30-1.01">
             <sp who="mlwc">
                <speaker>
                   <name type="person" key="Lewis, Meriwether">Lewis</name> and <name type="person" key="Clark, William">Clark</name>
