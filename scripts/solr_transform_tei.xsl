@@ -292,7 +292,7 @@
             <!-- ========== lc_city_ss lc_county_ss lc_state_ss ========== -->
 
             <xsl:if test="normalize-space(//geoDecl[1]/geo) != ''">
-              <xsl:for-each select="doc('data_ingest_helpers/journals_geo_info.xml')/root/row"
+              <xsl:for-each select="doc('tei_data_ingest_helpers/journals_geo_info.xml')/root/row"
                 xpath-default-namespace="">
                 <xsl:if test="@date = $date_match">
                   <field name="lc_city_ss">
@@ -580,7 +580,7 @@
     <!-- ========== lc_timeline_place_s ========== -->
     
     <!-- grab order from separate file date_numbering.xml -->
-    <xsl:for-each select="doc('data_ingest_helpers/date_numbering.xml')/root/date"
+    <xsl:for-each select="doc('tei_data_ingest_helpers/date_numbering.xml')/root/date"
       xpath-default-namespace="">
       <xsl:if test=". = $dateNotAfter">
         <field name="lc_timeline_place_s">
