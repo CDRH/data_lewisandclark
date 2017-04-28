@@ -1,0 +1,17 @@
+default:
+  tei_solr_xsl: collections/lewisandclark/scripts/solr_transform_tei.xsl
+  tei_html_xsl: collections/lewisandclark/scripts/tei.p5.xsl
+  solr_core: api_lc
+  shortname: lewisandclark
+
+development:
+  variables_solr:
+    file_location: https://cdrhmedia.unl.edu/
+    project: Lewis\ and\ Clark
+    slug: lewisandclark
+
+production:
+  variables_solr:
+    file_location: https://cdrhmedia.unl.edu
+    project: Lewis\ and\ Clark
+    slug: lewisandclark

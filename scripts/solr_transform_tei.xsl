@@ -30,7 +30,7 @@
   <!-- boolean for html not for this script -->
   <xsl:param name="pb"></xsl:param>
   <!-- boolean for page breaks in html, not this script -->
-  <xsl:param name="project"></xsl:param>
+  <xsl:param name="collection"></xsl:param>
   <!-- longer name of project -->
   <xsl:param name="slug"></xsl:param>
   <!-- slug of project -->
@@ -650,7 +650,7 @@
 
     <!-- ========== project ========== -->
     
-    <xsl:call-template name="project"/>
+    <xsl:call-template name="collection"/>
 
     <!-- ========== uri ========== -->
     
