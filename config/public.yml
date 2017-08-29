@@ -3,15 +3,10 @@ default:
   tei_html_xsl: collections/lewisandclark/scripts/tei.p5.xsl
   solr_core: api_lc
   shortname: lewisandclark
-
-development:
-  variables_solr:
-    file_location: https://cdrhmedia.unl.edu/
-    project: Lewis\ and\ Clark
-    slug: lewisandclark
-
-production:
   variables_solr:
     file_location: https://cdrhmedia.unl.edu
     project: Lewis\ and\ Clark
     slug: lewisandclark
+    figures: true
+    fw: false        # form works (page nums, etc)
+    pb: true        # page breaks
