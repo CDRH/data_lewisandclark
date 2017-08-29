@@ -4,7 +4,11 @@ default:
   solr_core: api_lc
   shortname: lewisandclark
   variables_solr:
-    file_location: https://cdrhmedia.unl.edu
+    file_location: https://cdrhmedia.unl.edu/
+    project: Lewis\ and\ Clark
+    slug: lewisandclark
+  variables_html:
+    file_location: https://cdrhmedia.unl.edu/
     project: Lewis\ and\ Clark
     slug: lewisandclark
     figures: true
