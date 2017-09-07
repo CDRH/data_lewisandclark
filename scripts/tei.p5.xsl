@@ -34,10 +34,7 @@
 <!-- ==================================================================== -->
 <!--                            OVERRIDES                                 -->
 <!-- ==================================================================== -->
-  
 
-  
-  
   <xsl:template match="list">
     <xsl:if test="head">
       <div class="tei_list_head"><xsl:apply-templates select="head/node()"/></div>
@@ -67,7 +64,6 @@
         </ul>
       </xsl:otherwise>
     </xsl:choose>
-
   </xsl:template>
   
   <xsl:template match="item">
@@ -101,9 +97,7 @@
   <xsl:template match="l">
     <xsl:apply-templates/><br></br>
   </xsl:template>
-  
 
-  
   <!-- set up the document -->
   
   <xsl:template name="book_navigation">
@@ -120,7 +114,7 @@
               <xsl:text>Previous</xsl:text>
             </a></span>
         </xsl:for-each>
-        
+
         <xsl:variable name="author_slug">
           <xsl:value-of select="substring-before(substring-after(/TEI/@xml:id, 'lc.sup.'),'.')"/>
         </xsl:variable>
@@ -141,9 +135,7 @@
               </a></span>
           </xsl:if>
         </xsl:for-each>
-        
-       
-        
+
         <span class="entire_text_link">
           <a>
             <xsl:attribute name="href">
@@ -165,7 +157,7 @@
               <xsl:text>Back to Book Main Page</xsl:text>
             </a></span>
         </xsl:if>
-        
+
         <xsl:for-each select="/TEI/text/back/div/list/item/ptr[@type='next']">
           <span class="next_link">
             <a>
@@ -177,81 +169,74 @@
               <xsl:text>Next</xsl:text>
             </a></span>
         </xsl:for-each>
-        
       </div>
     </xsl:if>
   </xsl:template>
   
   <xsl:template match="text">
-    
     <!-- title -->
     <xsl:if test="//keywords[@n='subcategory']/term[1] = 'Books'">
       <xsl:for-each select="/TEI/teiHeader/fileDesc/titleStmt/title[@type='main']">
         <xsl:if test=". != ''">
           <h2 class="title_main"><xsl:apply-templates/>
-            
             <!-- if subtitles -->
             <xsl:for-each select="/TEI/teiHeader/fileDesc/titleStmt/title[@type='sub']">
               <xsl:if test=". != ''">
                 <xsl:text> </xsl:text><span class="title_sub"><xsl:apply-templates/></span>
               </xsl:if>
             </xsl:for-each>
-          
           </h2>
         </xsl:if>
       </xsl:for-each>
-      
+
       <div class="book_bibl">
-      
       <xsl:for-each select="/TEI/teiHeader/fileDesc/titleStmt/author">
         <xsl:if test=". != ''">
           <span class="title_author"><xsl:apply-templates/></span>
         </xsl:if>
       </xsl:for-each>
-      
+
       <xsl:for-each select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/date[1]">
         <xsl:if test=". != ''">
           <span class="year_published"><xsl:text>©  </xsl:text><xsl:apply-templates/></span>
         </xsl:if>
       </xsl:for-each>
-      
+
       <xsl:for-each select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/publisher[1]">
         <xsl:if test=". != ''">
           <span class="publisher"><xsl:apply-templates/></span>
         </xsl:if>
       </xsl:for-each>
-      
+
       <xsl:for-each select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/publisher[2]">
         <xsl:if test=". != ''">
           <span class="publisher"><xsl:apply-templates/></span>
         </xsl:if>
       </xsl:for-each>
-      
+
       <xsl:for-each select="/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/pubPlace[1]">
         <xsl:if test=". != ''">
           <span class="pub_place"><xsl:apply-templates/></span>
         </xsl:if>
       </xsl:for-each>
-        
+
       </div>
-      
+
       <xsl:call-template name="book_navigation"/>
-        
+
     </xsl:if><!-- end if book -->
-    
-     
+
     <xsl:apply-templates/>
-    
+
     <xsl:if test="//keywords[@n='subcategory']/term[1] = 'Books'">
       <xsl:call-template name="book_navigation"/>
     </xsl:if>
-    
+
   </xsl:template>
-  
+
   <!-- re-matching on tbles to add the table responsive bootstrap attribute -->
-  
+
   <xsl:template match="table">
-    
     <xsl:for-each select="head">
       <xsl:apply-templates select="." mode="show"/>
     </xsl:for-each>
@@ -266,9 +251,9 @@
     </table>
     </div>
   </xsl:template>
-  
+
   <!-- Table Cell -->
-  
+
   <xsl:template match="cell">
     <td>
       <xsl:if test="@rows"><xsl:attribute name="rowspan"><xsl:value-of select="@rows"/></xsl:attribute></xsl:if>
@@ -284,9 +269,9 @@
       <span class="cell_contents"><xsl:apply-templates/></span>
     </td>
   </xsl:template>
-  
+
   <!-- paragraphs -->
-  
+
   <xsl:template match="p">
     <xsl:choose>
       <xsl:when test="ancestor::p or child::table">
@@ -308,36 +293,35 @@
               
             </xsl:attribute>
           </xsl:if>
-          
           <xsl:apply-templates/>
         </p>
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
-  
+
   <xsl:template name="format_for_attribute">
     <xsl:param name="input"/>
     <xsl:variable name="apos">'</xsl:variable>
     <xsl:variable name="quot">"</xsl:variable>
     <xsl:value-of select="translate(translate($input, $apos, ''),$quot,'')"/>
   </xsl:template>
-  
+
   <!-- ~~~~~~ figures ~~~~~~ -->
-  
+
   <xsl:template match="figure/head">
     <h3 class="figure_head"><xsl:apply-templates/></h3>
   </xsl:template>
-  
+
   <xsl:template name="figure_formatter">
     <xsl:param name="type"/>
-    
+
     <xsl:choose>
       <xsl:when test="$type = 'audio' or $type = 'video'"></xsl:when>
       <xsl:otherwise>
         <xsl:variable name="image_id">
           <xsl:value-of select="lower-case(@n)"/>
         </xsl:variable>
-        
+
         <xsl:variable name="image_builder">
           <img>
             <xsl:attribute name="src">
@@ -362,8 +346,7 @@
             <xsl:attribute name="alt"><xsl:call-template name="format_for_attribute"><xsl:with-param name="input" select="p[@n='info']"/></xsl:call-template></xsl:attribute>
           </img>
         </xsl:variable>
-        
-        
+
         <div class="figure_image">
           <!-- When in the images section, do not link 
           When in book, link to larger image-->
@@ -390,7 +373,7 @@
             </xsl:when>
             <xsl:otherwise>
               <xsl:copy-of select="$image_builder"/>
-              
+
               <div class="full_sized_image_link">
                 <a>
                   <xsl:attribute name="href">
@@ -408,20 +391,12 @@
               </div>
             </xsl:otherwise>
           </xsl:choose>
-          
-          
         </div>
       </xsl:otherwise>
     </xsl:choose>
-    
-    
-    
-
   </xsl:template>
   
   <xsl:template match="figure">
-
-    
     <div class="tei_figure">
        <xsl:choose>
          <xsl:when test="//keywords[@n='category']/term[1] = 'Images'">
@@ -447,36 +422,30 @@
        </xsl:choose>
       <xsl:apply-templates/>
     </div>
-
   </xsl:template>
-  
+
   <!-- ~~~~~~~ audio and video ~~~~~~~ -->
-  
- 
-  
+
   <xsl:template match="media[@mimeType='audio/mp3']">
     <div class="audio_player">
       <audio controls="controls">
         <source src="{$file_location}audio/lewisandclark/mp3/{@url}"/>
         <source src="{$file_location}audio/lewisandclark/ogg/{substring-before(@url,'.mp3')}.ogg"/>
         <p>Your browser does not support HTML5 audio or our codecs, please download the <a href="{$file_location}audio/lewisandclark/mp3/{@url}">MP3 file (medium quality)</a> or the <a href="{$file_location}audio/lewisandclark/ogg/{substring-before(@url,'.mp3')}.ogg">OGG file (high quality)</a>.</p>
-        
-        
       </audio>
     </div>
-    
   </xsl:template>
-  
+
   <xsl:template match="media[@mimeType='video/mp4']">
     <div class="wdn-responsive-embed wdn-aspect16x9 videoembed">
       <iframe src="{@url}?format=iframe&amp;autoplay=0" title="{parent::*/parent::*/parent::*/head}" allowfullscreen='true'>&#160;</iframe>
     </div>
   </xsl:template>
-  
+
   <!-- ~~~~~~~ references ~~~~~~~ -->
-  
+
   <xsl:template match="speaker//ref"><!-- do nothing, called by mode --></xsl:template>
-  
+
   <xsl:template match="speaker//ref" mode="display">
     <xsl:apply-templates/><xsl:text> </xsl:text>
     <a>
@@ -486,7 +455,7 @@
       <sup>[<xsl:value-of select="@n"/>]</sup>
     </a>
   </xsl:template>
-  
+
   <xsl:template match="ref">
     <xsl:choose>
       <xsl:when test="@type='email'">
@@ -524,7 +493,7 @@
           <xsl:apply-templates/>
         </a>
       </xsl:when>
-      
+
       <xsl:when test="@type='related'">
         <a>
           <xsl:attribute name="href">
@@ -538,7 +507,7 @@
           <xsl:apply-templates/>
         </a>
       </xsl:when>
-      
+
       <xsl:when test="@type='internal'">
         <a>
           <xsl:attribute name="href">
@@ -552,7 +521,7 @@
           <xsl:apply-templates/>
         </a>
       </xsl:when>
-      
+
       <xsl:otherwise>
         <xsl:apply-templates/><xsl:text> </xsl:text>
         <a>
@@ -564,7 +533,7 @@
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
-  
+
   <!-- ~~~~~~ Notes Section ~~~~~~ -->
   <xsl:template match="/TEI//back/div[@type='notes']">
     <div class="footnotes">
@@ -572,10 +541,10 @@
       <xsl:apply-templates/>
     </div>
   </xsl:template>
-  
+
   <!-- ~~~~~~ Notes ~~~~~~ -->
   <xsl:template match="div[@type='notes']//note">
- 
+
     <div>
       <xsl:attribute name="class">footnote</xsl:attribute>
       <xsl:attribute name="id"><xsl:value-of select="@xml:id"/></xsl:attribute>
@@ -593,7 +562,7 @@
 
   <!-- don't show file references, handle them in /text rule or use solr -->
   <xsl:template match="div[@type='file_references']" priority="2"></xsl:template>
-  
+
   <!-- add classes to divs for styling -->
 
   <xsl:template match="div" priority="1">
@@ -612,9 +581,9 @@
       <xsl:apply-templates/>
     </div>
   </xsl:template>  
-  
+
   <!-- Speaker -->
-  
+
   <xsl:template match="div[@type='entry']//sp//speaker">
     <h4 class="entry_author">
       <xsl:text>[</xsl:text><xsl:value-of select="normalize-space(.)"/><xsl:text>]</xsl:text>
@@ -627,21 +596,20 @@
   <xsl:template match="div[@type='entry']//sp//speaker/name">
     <xsl:text>[</xsl:text><xsl:apply-templates/><xsl:text>]</xsl:text>
   </xsl:template>-->
-  
+
   <xsl:template match="div[@type='entry']//sp//ab//date">
     <xsl:if test="normalize-space(.) != ''">
       <div class="entry_date">
         <xsl:apply-templates/>
       </div>
     </xsl:if>
-    
     <div class="clear_return">&#160;</div>
   </xsl:template> 
-  
+
   <!-- names/places/tribes -->
   <!-- currently search?=Rocky Mountains -->
   <!-- should be search?qfield=places&qtext=Rocky+Mountains -->
-  
+
   <!-- comment out for link check -->
   <xsl:template match="name">
     <xsl:choose>
@@ -674,8 +642,6 @@
         <span class="tei_name"><xsl:apply-templates/></span>
       </xsl:otherwise>
     </xsl:choose>
-    
   </xsl:template>
-  
 
 </xsl:stylesheet>
