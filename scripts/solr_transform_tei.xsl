@@ -68,7 +68,7 @@
       <xsl:value-of select="$file_location"/>
       <xsl:text>data/</xsl:text>
       <xsl:value-of select="$slug"/>
-      <xsl:text>/html-generated/</xsl:text>
+      <xsl:text>/output/html-generated/</xsl:text>
       <xsl:value-of select="$id"/>
       <xsl:text>.html</xsl:text>
     </field>
