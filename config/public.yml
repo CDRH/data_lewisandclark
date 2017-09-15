@@ -2,8 +2,7 @@ default:
   solr_core: api_lc
   es_type: lewisandclark
 
-  # use production server for all media and data, regardless of environment
-  data_base: https://cdrhmedia.unl.edu
+  # all media comes from production server
   media_base: https://cdrhmedia.unl.edu
 
   tei_solr_xsl: collections/lewisandclark/scripts/solr_transform_tei.xsl
