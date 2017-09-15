@@ -25,10 +25,13 @@
 <!--                           PARAMETERS                                 -->
 <!-- ==================================================================== -->
 
-<xsl:param name="site_url"/>     <!-- the site url (http://codyarchive.org) -->
-<xsl:param name="fig_location"/> <!-- set figure location  -->
-<xsl:param name="file_location"/>
-<!--<xsl:param name="audio_root_url"/>-->
+<xsl:param name="collection"/>
+<xsl:param name="data_base"/>
+<xsl:param name="environment">production</xsl:param>
+<xsl:param name="image_large"/>
+<xsl:param name="image_thumb"/>
+<xsl:param name="media_base"/>
+<xsl:param name="site_url"/>
 
 
 <!-- ==================================================================== -->
@@ -325,10 +328,10 @@
         <xsl:variable name="image_builder">
           <img>
             <xsl:attribute name="src">
-              <xsl:value-of select="$file_location"/>
+              <xsl:value-of select="$media_base"/>
               <!-- When in the images section, pull full sized image. 
           When in book ("other") pull 300 px image-->
-              <xsl:text>images/lewisandclark/</xsl:text>
+              <xsl:text>/images/lewisandclark/</xsl:text>
               <xsl:choose>
                 <xsl:when test="$type = 'other'">
                   <xsl:text>300/</xsl:text>
@@ -354,11 +357,10 @@
             <xsl:when test="$type = 'other'">
               <a>
                 <xsl:attribute name="href">
-                  <xsl:value-of select="$file_location"/>
+                  <xsl:value-of select="$media_base"/>
                   <!-- When in the images section, pull full sized image. 
           When in book ("other") pull 300 px image-->
-                  <xsl:text>images/lewisandclark/</xsl:text>
-                  <xsl:text>full/</xsl:text>
+                  <xsl:text>/images/lewisandclark/full/</xsl:text>
                   <xsl:value-of select="$image_id"/>
                   <xsl:choose>
                     <xsl:when test="ends-with($image_id,'.jpg')"></xsl:when>
@@ -377,9 +379,8 @@
               <div class="full_sized_image_link">
                 <a>
                   <xsl:attribute name="href">
-                    <xsl:value-of select="$file_location"/>
-                    <xsl:text>images/lewisandclark/</xsl:text>
-                    <xsl:text>full/</xsl:text>
+                    <xsl:value-of select="$media_base"/>
+                    <xsl:text>images/lewisandclark/full/</xsl:text>
                     <xsl:value-of select="$image_id"/>
                     <xsl:choose>
                       <xsl:when test="ends-with($image_id,'.jpg')"></xsl:when>
@@ -429,9 +430,9 @@
   <xsl:template match="media[@mimeType='audio/mp3']">
     <div class="audio_player">
       <audio controls="controls">
-        <source src="{$file_location}audio/lewisandclark/mp3/{@url}"/>
-        <source src="{$file_location}audio/lewisandclark/ogg/{substring-before(@url,'.mp3')}.ogg"/>
-        <p>Your browser does not support HTML5 audio or our codecs, please download the <a href="{$file_location}audio/lewisandclark/mp3/{@url}">MP3 file (medium quality)</a> or the <a href="{$file_location}audio/lewisandclark/ogg/{substring-before(@url,'.mp3')}.ogg">OGG file (high quality)</a>.</p>
+        <source src="{$media_base}/audio/lewisandclark/mp3/{@url}"/>
+        <source src="{$media_base}/audio/lewisandclark/ogg/{substring-before(@url,'.mp3')}.ogg"/>
+        <p>Your browser does not support HTML5 audio or our codecs, please download the <a href="{$media_base}/audio/lewisandclark/mp3/{@url}">MP3 file (medium quality)</a> or the <a href="{$media_base}/audio/lewisandclark/ogg/{substring-before(@url,'.mp3')}.ogg">OGG file (high quality)</a>.</p>
       </audio>
     </div>
   </xsl:template>

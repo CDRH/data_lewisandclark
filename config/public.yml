@@ -1,16 +1,17 @@
 default:
-  tei_solr_xsl: collections/lewisandclark/scripts/solr_transform_tei.xsl
-  tei_html_xsl: collections/lewisandclark/scripts/tei.p5.xsl
   solr_core: api_lc
   es_type: lewisandclark
+
+  # use production server for all media and data, regardless of environment
+  data_base: https://cdrhmedia.unl.edu
+  media_base: https://cdrhmedia.unl.edu
+
+  tei_solr_xsl: collections/lewisandclark/scripts/solr_transform_tei.xsl
+  tei_html_xsl: collections/lewisandclark/scripts/tei.p5.xsl
+
   variables_solr:
-    file_location: https://cdrhmedia.unl.edu/
-    project: Lewis\ and\ Clark
     slug: lewisandclark
   variables_html:
-    file_location: https://cdrhmedia.unl.edu/
-    project: Lewis\ and\ Clark
     slug: lewisandclark
-    figures: true
-    fw: false        # form works (page nums, etc)
-    pb: true        # page breaks
+    # not specifying image size for lewis and clark
+    # since there are four sizes across multiple types
