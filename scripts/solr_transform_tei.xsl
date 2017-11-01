@@ -24,10 +24,8 @@
   <xsl:param name="data_base"/>
   <xsl:param name="environment">production</xsl:param>
   <xsl:param name="media_base"/>
-
-  <xsl:param name="slug"></xsl:param>
-  <xsl:param name="site_url"></xsl:param>
-
+  <xsl:param name="slug">lewisandclark</xsl:param>
+  <xsl:param name="site_url"/>
   <!-- Strip out date from xml:id to use in various capacities -->
   <xsl:variable name="date_match">
     <xsl:value-of select="normalize-space(substring-after(/TEI/@xml:id, 'lc.jrn.'))"></xsl:value-of>
@@ -38,6 +36,15 @@
   <!--              OVERRIDES    - individual fields                        -->
   <!-- ==================================================================== -->
 
+  <xsl:template name="uri">
+    <xsl:param name="id"/>
+    <field name="uri">
+      <xsl:value-of select="$site_url"/>
+      <xsl:text>/item/</xsl:text>
+      <xsl:value-of select="$id"/>
+    </field>
+  </xsl:template>
+  
   <!-- ========== title ========== -->
   <xsl:template name="title">
     <xsl:param name="type"></xsl:param>
