@@ -554,8 +554,8 @@
       <xsl:if test=". = $dateNotAfter">
         <field name="lc_timeline_place_s">
           
-          <!-- following rounds the place in the timeline based on 1100 total days -->
-          <xsl:value-of select="format-number(((@id div 1100) * 100), '#.00')"></xsl:value-of>
+          <!-- following rounds the place in the timeline based on 1128 total days -->
+          <xsl:value-of select="format-number(((@id div 1128) * 100), '#.00')"></xsl:value-of>
         </field>
       </xsl:if>
     </xsl:for-each>
