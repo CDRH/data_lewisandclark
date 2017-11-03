@@ -20,22 +20,12 @@
   <!-- ==================================================================== -->
 
   <!-- Defined in project config files -->
-  <xsl:param name="fig_location"></xsl:param>
-  <!-- url for figures -->
-  <xsl:param name="file_location"></xsl:param>
-  <!-- url for tei files -->
-  <xsl:param name="figures"></xsl:param>
-  <!-- boolean for if figs should be displayed (not for this script, for html script) -->
-  <xsl:param name="fw"></xsl:param>
-  <!-- boolean for html not for this script -->
-  <xsl:param name="pb"></xsl:param>
-  <!-- boolean for page breaks in html, not this script -->
-  <xsl:param name="collection"></xsl:param>
-  <!-- longer name of project -->
-  <xsl:param name="slug"></xsl:param>
-  <!-- slug of project -->
-  <xsl:param name="site_url"></xsl:param>
-
+  <xsl:param name="collection"/>
+  <xsl:param name="data_base"/>
+  <xsl:param name="environment">production</xsl:param>
+  <xsl:param name="media_base"/>
+  <xsl:param name="slug">lewisandclark</xsl:param>
+  <xsl:param name="site_url"/>
   <!-- Strip out date from xml:id to use in various capacities -->
   <xsl:variable name="date_match">
     <xsl:value-of select="normalize-space(substring-after(/TEI/@xml:id, 'lc.jrn.'))"></xsl:value-of>
@@ -45,37 +35,16 @@
   <!-- ==================================================================== -->
   <!--              OVERRIDES    - individual fields                        -->
   <!-- ==================================================================== -->
-  
-  <!-- ========== uriXML ========== -->
-  
-  <xsl:template name="uriXML">
+
+  <xsl:template name="uri">
     <xsl:param name="id"/>
-    <field name="uriXML">
-      <xsl:value-of select="$file_location"/>
-      <xsl:text>data/</xsl:text>
-      <xsl:value-of select="$slug"/>
-      <xsl:text>/tei/</xsl:text>
+    <field name="uri">
+      <xsl:value-of select="$site_url"/>
+      <xsl:text>/item/</xsl:text>
       <xsl:value-of select="$id"/>
-      <xsl:text>.xml</xsl:text>
     </field>
   </xsl:template>
   
-  <!-- ========== uriHTML ========== -->
-  
-  <xsl:template name="uriHTML">
-    <xsl:param name="id"/>
-    <field name="uriHTML">
-      <xsl:value-of select="$file_location"/>
-      <xsl:text>data/</xsl:text>
-      <xsl:value-of select="$slug"/>
-      <xsl:text>/output/html-generated/</xsl:text>
-      <xsl:value-of select="$id"/>
-      <xsl:text>.html</xsl:text>
-    </field>
-  </xsl:template>
-  
-
-
   <!-- ========== title ========== -->
   <xsl:template name="title">
     <xsl:param name="type"></xsl:param>
@@ -585,8 +554,8 @@
       <xsl:if test=". = $dateNotAfter">
         <field name="lc_timeline_place_s">
           
-          <!-- following rounds the place in the timeline based on 1100 total days -->
-          <xsl:value-of select="format-number(((@id div 1100) * 100), '#.00')"></xsl:value-of>
+          <!-- following rounds the place in the timeline based on 1128 total days -->
+          <xsl:value-of select="format-number(((@id div 1128) * 100), '#.00')"></xsl:value-of>
         </field>
       </xsl:if>
     </xsl:for-each>
