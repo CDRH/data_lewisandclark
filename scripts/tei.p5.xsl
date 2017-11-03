@@ -380,7 +380,7 @@
                 <a>
                   <xsl:attribute name="href">
                     <xsl:value-of select="$media_base"/>
-                    <xsl:text>images/lewisandclark/full/</xsl:text>
+                    <xsl:text>/images/lewisandclark/full/</xsl:text>
                     <xsl:value-of select="$image_id"/>
                     <xsl:choose>
                       <xsl:when test="ends-with($image_id,'.jpg')"></xsl:when>
