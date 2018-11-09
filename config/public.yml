@@ -1,16 +1,11 @@
 default:
   solr_core: api_lc
-  es_type: lewisandclark
-
-  # all media comes from production server
+  collection: lewisandclark
   media_base: https://cdrhmedia.unl.edu
 
-  tei_solr_xsl: collections/lewisandclark/scripts/solr_transform_tei.xsl
-  tei_html_xsl: collections/lewisandclark/scripts/tei.p5.xsl
+  tei_solr_xsl: scripts/overrides/tei_to_solr.xsl
+  tei_html_xsl: scripts/overrides/tei_to_html.xsl
 
   variables_solr:
     slug: lewisandclark
     site_url: https://lewisandclarkjournals.unl.edu
-    # not specifying image size for lewis and clark
-    # since there are four sizes across multiple types
-

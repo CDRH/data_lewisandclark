@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet 
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns:tei="http://www.tei-c.org/ns/1.0"
@@ -11,9 +11,9 @@
 <!--                             IMPORTS                                  -->
 <!-- ==================================================================== -->
 
-  <xsl:import href="../../../scripts/xslt/cdrh_to_html/lib/html_formatting.xsl"/>
-  <xsl:import href="../../../scripts/xslt/cdrh_to_html/lib/personography_encyclopedia.xsl"/>
-  <xsl:import href="../../../scripts/xslt/cdrh_to_html/lib/cdrh.xsl"/>
+  <xsl:import href="../.xslt/tei_to_html/lib/formatting.xsl"/>
+  <xsl:import href="../.xslt/tei_to_html/lib/personography_encyclopedia.xsl"/>
+  <xsl:import href="../.xslt/tei_to_html/lib/cdrh.xsl"/>
 <!-- If this file is living in a projects directory, the paths will be
      ../../../scripts/xslt/cdrh_tei_to_html/lib/html_formatting.xsl -->
 
