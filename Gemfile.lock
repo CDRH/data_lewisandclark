@@ -1,7 +1,7 @@
 GIT
-  remote: https://github.com/CDRH/data.git
-  revision: 2bdb705f4ead8d3b59936f45a6aa8a68816aabb4
-  branch: datura
+  remote: https://github.com/CDRH/datura.git
+  revision: 44f60a131bb26283789a89f0458eb070880023f3
+  tag: v0.1.0
   specs:
     datura (0.1.0)
       colorize (~> 0.8.1)
@@ -38,4 +38,4 @@ DEPENDENCIES
   datura!
 
 BUNDLED WITH
-   1.16.2
+   1.16.6

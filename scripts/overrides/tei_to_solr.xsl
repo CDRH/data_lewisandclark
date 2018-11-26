@@ -8,9 +8,9 @@
   <!--                               IMPORTS                                -->
   <!-- ==================================================================== -->
 
-  <xsl:import href="../.xslt/common.xsl"></xsl:import>
-  <xsl:import href="../.xslt/tei_to_solr/lib/personography.xsl"></xsl:import>
-  <xsl:import href="../.xslt/tei_to_solr/lib/fields.xsl"></xsl:import>
+  <xsl:import href="../.xslt-datura/common.xsl"></xsl:import>
+  <xsl:import href="../.xslt-datura/tei_to_solr/lib/personography.xsl"></xsl:import>
+  <xsl:import href="../.xslt-datura/tei_to_solr/lib/fields.xsl"></xsl:import>
 
   <xsl:output indent="yes" omit-xml-declaration="yes"></xsl:output>
 

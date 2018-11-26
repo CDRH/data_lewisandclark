@@ -2,6 +2,7 @@ default:
   solr_core: api_lc
   collection: lewisandclark
   media_base: https://cdrhmedia.unl.edu
+  threads: 20
 
   tei_solr_xsl: scripts/overrides/tei_to_solr.xsl
   tei_html_xsl: scripts/overrides/tei_to_html.xsl
@@ -9,3 +10,12 @@ default:
   variables_solr:
     slug: lewisandclark
     site_url: https://lewisandclarkjournals.unl.edu
+
+development:
+  es_path: https://cdrhdev1.unl.edu/elastic
+  es_index: cdrhapidev-v1
+  data_base: https://cdrhdev1.unl.edu/media
+
+production:
+  es_path: https://cdrhapi.unl.edu/elastic
+  es_index: cdrhapi-v1

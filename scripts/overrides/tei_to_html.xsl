@@ -11,9 +11,9 @@
 <!--                             IMPORTS                                  -->
 <!-- ==================================================================== -->
 
-  <xsl:import href="../.xslt/tei_to_html/lib/formatting.xsl"/>
-  <xsl:import href="../.xslt/tei_to_html/lib/personography_encyclopedia.xsl"/>
-  <xsl:import href="../.xslt/tei_to_html/lib/cdrh.xsl"/>
+  <xsl:import href="../.xslt-datura/tei_to_html/lib/formatting.xsl"/>
+  <xsl:import href="../.xslt-datura/tei_to_html/lib/personography_encyclopedia.xsl"/>
+  <xsl:import href="../.xslt-datura/tei_to_html/lib/cdrh.xsl"/>
 <!-- If this file is living in a projects directory, the paths will be
      ../../../scripts/xslt/cdrh_tei_to_html/lib/html_formatting.xsl -->
 
