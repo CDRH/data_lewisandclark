@@ -12,10 +12,8 @@ default:
     site_url: https://lewisandclarkjournals.unl.edu
 
 development:
-  es_path: https://cdrhdev1.unl.edu/elastic
-  es_index: cdrhapidev-v1
   data_base: https://cdrhdev1.unl.edu/media
+  solr_path: https://cdrhdev1.unl.edu/solr
 
 production:
-  es_path: https://cdrhapi.unl.edu/elastic
-  es_index: cdrhapi-v1
+  solr_path: https://cors1601.unl.edu/solr
