@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:lc="http://lewisandclarkjournals.unl.edu/schema#" xmlns:nines="http://www.nines.org/schema#" xmlns:role="http://www.loc.gov/loc.terms/relators/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+   <lc:writings rdf:about="http://lewisandclarkjournals.unl.edu/lc.1804-04-28">
+      <nines:archive>lewisandclark</nines:archive>
+      <rdfs:seeAlso rdf:resource="http://libtextcenter.unl.edu/examples/servlet/transform/tamino/Library/lewisandclarkjournals?&amp;_xmlsrc=http://libtextcenter.unl.edu/lewisandclark/files/xml/lc.1804-04-28.xml&amp;_xslsrc=http://libtextcenter.unl.edu/lewisandclark/LCstyles.xsl"/>
+      <dc:title>The Journals of the Lewis and Clark Expedition Online 
+April 28, 1804</dc:title>
+      <role:AUT>William Clark</role:AUT>
+      <role:EDT>Gary E. Moulton</role:EDT>
+      <dc:date>
+         <nines:date>
+            <rdfs:label>
+April 28, 1804</rdfs:label>
+            <rdf:value>1804</rdf:value>
+         </nines:date>
+      </dc:date>
+      <nines:genre>Nonfiction</nines:genre>
+      <nines:genre>History</nines:genre>
+      <nines:genre>Primary</nines:genre>
+      <nines:genre>Secondary</nines:genre>
+      <nines:genre>Paratext</nines:genre>
+      <nines:text rdf:resource="http://lewisandclarkjournals.unl.edu/texts/lc.1804-04-28.txt"/>
+   </lc:writings>
+</rdf:RDF>
