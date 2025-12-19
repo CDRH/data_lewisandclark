@@ -53,3 +53,17 @@ The Center for Digital Research in the Humanities (CDRH) is a joint initiative o
 **Center for Digital Research in the Humanities GitHub:** [https://github.com/CDRH](https://github.com/CDRH)
 
 **Center for Digital Research in the Humanities Website:** [https://cdrh.unl.edu/](https://cdrh.unl.edu/)
+
+## Index Data in Solr
+
+Run the Datura commmands from this repository to create the Solr core.
+Then, post the data and generate the HTML.
+
+```bash
+solr_create_api_core api_lc
+
+post -x solr,html
+```
+
+These commands use development environment config by default.
+Add `-e production` option to run the commands in production environments
