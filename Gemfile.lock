@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/CDRH/datura.git
-  revision: e3dbc4f3f1460932a4823b7ce8a8cceff4e3e093
-  tag: v0.1.6
+  revision: dd1309d662c4cb841f189944aa40846d0758e5f6
+  tag: v0.1.7
   specs:
-    datura (0.1.6)
+    datura (0.1.7)
       colorize (~> 0.8.1)
       nokogiri (~> 1.8)
       rest-client (~> 2.0.2)
@@ -12,26 +12,24 @@ GEM
   remote: https://rubygems.org/
   specs:
     colorize (0.8.1)
-    domain_name (0.5.20190701)
-      unf (>= 0.0.5, < 1.0.0)
-    http-cookie (1.0.3)
+    domain_name (0.6.20240107)
+    http-cookie (1.1.0)
       domain_name (~> 0.5)
-    mime-types (3.3.1)
-      mime-types-data (~> 3.2015)
-    mime-types-data (3.2020.1104)
-    mini_portile2 (2.5.0)
+    logger (1.7.0)
+    mime-types (3.7.0)
+      logger
+      mime-types-data (~> 3.2025, >= 3.2025.0507)
+    mime-types-data (3.2025.0924)
+    mini_portile2 (2.8.9)
     netrc (0.11.0)
-    nokogiri (1.11.1)
-      mini_portile2 (~> 2.5.0)
+    nokogiri (1.18.10)
+      mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
-    racc (1.5.2)
+    racc (1.8.1)
     rest-client (2.0.2)
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 4.0)
       netrc (~> 0.8)
-    unf (0.1.4)
-      unf_ext
-    unf_ext (0.0.7.7)
 
 PLATFORMS
   ruby
@@ -40,4 +38,4 @@ DEPENDENCIES
   datura!
 
 BUNDLED WITH
-   2.1.4
+   2.6.9

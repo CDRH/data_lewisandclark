@@ -243,7 +243,7 @@
             
             <field name="lc_searchtype_s">journal_entry</field>
 
-            <!-- ========== lc_geo_coordinates_p ========== -->
+            <!-- ========== lc_geo_coordinates_s ========== -->
 
             <xsl:variable name="georef" select="@n"></xsl:variable>
             <xsl:variable name="geo">
@@ -252,11 +252,11 @@
               ></xsl:value-of>
             </xsl:variable>
             <xsl:if test="normalize-space($geo) != ''">
-              <field name="lc_geo_coordinates_p">
+              <field name="lc_geo_coordinates_s">
                 <xsl:value-of select="translate($geo, ' ', ',')"></xsl:value-of>
               </field>
             </xsl:if>
-            
+
             <!-- ========== lc_city_ss lc_county_ss lc_state_ss ========== -->
 
             <xsl:if test="normalize-space(//geoDecl[1]/geo) != ''">
