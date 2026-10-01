@@ -1,41 +1,42 @@
 GIT
   remote: https://github.com/CDRH/datura.git
-  revision: dd1309d662c4cb841f189944aa40846d0758e5f6
-  tag: v0.1.7
+  revision: 18c205a8e43a52d9a33fc1836e95c0d364477274
+  tag: v2.0.0
   specs:
-    datura (0.1.7)
-      colorize (~> 0.8.1)
-      nokogiri (~> 1.8)
-      rest-client (~> 2.0.2)
+    datura (2.0.0)
+      colorize (~> 1.1)
+      nokogiri (~> 1.18)
+      pdf-reader (~> 2.15)
 
 GEM
   remote: https://rubygems.org/
   specs:
-    colorize (0.8.1)
-    domain_name (0.6.20240107)
-    http-cookie (1.1.0)
-      domain_name (~> 0.5)
-    logger (1.7.0)
-    mime-types (3.7.0)
-      logger
-      mime-types-data (~> 3.2025, >= 3.2025.0507)
-    mime-types-data (3.2025.0924)
+    Ascii85 (2.0.1)
+    afm (0.2.2)
+    bigdecimal (3.3.1)
+    byebug (12.0.0)
+    colorize (1.1.0)
+    hashery (2.1.2)
     mini_portile2 (2.8.9)
-    netrc (0.11.0)
     nokogiri (1.18.10)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
+    pdf-reader (2.16.0)
+      Ascii85 (>= 1.0, < 3.0, != 2.0.0)
+      afm (>= 0.2.1, < 2)
+      hashery (~> 2.0)
+      ttfunk
     racc (1.8.1)
-    rest-client (2.0.2)
-      http-cookie (>= 1.0.2, < 2.0)
-      mime-types (>= 1.16, < 4.0)
-      netrc (~> 0.8)
+    ttfunk (1.8.0)
+      bigdecimal (~> 3.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  byebug
   datura!
+  pdf-reader
 
 BUNDLED WITH
    2.6.9
